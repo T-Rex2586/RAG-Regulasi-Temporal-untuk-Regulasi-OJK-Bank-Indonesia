@@ -1,0 +1,1077 @@
+{
+  "doc_id": "OJK_POJK_2016_75_d46c226a",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "75",
+  "tahun": "2016",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 75/POJK.03/2016 tentang Standar Penyelenggaraan Teknologi Informasi Bagi Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "23 Desember 2016",
+  "tanggal_berlaku": "diundangkan (28 Desember  2016)",
+  "diundangkan_pada": "28 Desember  2016",
+  "mencabut": [
+    "sejak Peraturan  Otoritas Jasa Keuangan ini diberlakukan"
+  ],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "WEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN KOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT PENYELENGGARAAN TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR PENYELENGGARAAN TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI BEKERJASAMA DENGAN PENYEDIA JASA"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGAMANAN PENYELENGGARAAN TEKNOLOGI INFORMASI, TERMASUK KERAHASIAAN DATA PRIBADI NASABAH"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "FUNGSI AUDIT INTERN PENYELENGGARAAN TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LAPORAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1. \nBank Perkreditan Rakyat yang selanjutnya disingkat \nBPR yaitu bank yang melaksanakan kegiatan usaha \n\n\n \nsecara konvensional yang dalam kegiatannya tidak \nmemberikan jasa dalam lalu lintas pembayaran \nsebagaimana dimaksud dalam Undang-Undang Nomor \n7 Tahun 1992 tentang Perbankan sebagaimana telah \ndiubah dengan Undang-Undang Nomor 10 Tahun \n1998 tentang Perubahan Undang-Undang Nomor 7 \nTahun 1992 tentang Perbankan. \n2. \nBank Pembiayaan Rakyat Syariah yang selanjutnya \ndisingkat BPRS yaitu bank syariah yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran sebagaimana dimaksud dalam Undang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \nSyariah. \n3. \nTeknologi Informasi adalah suatu teknik untuk \nmengumpulkan, \nmenyiapkan, \nmenyimpan, \nmemproses, mengumumkan, menganalisis, dan/atau \nmenyebarkan informasi. \n4. \nSistem Elektronik adalah serangkaian perangkat dan \nprosedur elektronik yang berfungsi mempersiapkan, \nmengumpulkan, mengolah, menganalisis, menyimpan, \nmenampilkan, \nmengumumkan, \nmengirimkan, \ndan/atau menyebarkan informasi elektronik. \n5. \nAplikasi Inti Perbankan (Core Banking System) adalah \nSistem Elektronik berupa aplikasi untuk proses akhir \nseluruh transaksi perbankan yang terjadi sepanjang \nhari, termasuk pengkinian data dalam pembukuan \nBPR dan BPRS, yang paling sedikit mencakup fungsi \nnasabah, \nsimpanan, \npinjaman, \nakuntansi \ndan \npelaporan.  \n6. \nPusat Data (Data Center) adalah suatu fasilitas yang \ndigunakan untuk menempatkan Sistem Elektronik \ndan \nkomponen \nterkaitnya \nuntuk \nkeperluan \npenempatan, penyimpanan, dan pengolahan data. \n7. \nPusat Pemulihan Bencana (Disaster Recovery Center) \nadalah \nsuatu \nfasilitas \nyang \ndigunakan \nuntuk \nmemulihkan kembali data atau informasi serta fungsi-\nfungsi penting Sistem Elektronik yang terganggu atau \n\n\n \nrusak akibat terjadinya bencana yang disebabkan oleh \nalam atau manusia. \n8. \nPangkalan Data (Database) adalah sekumpulan data \nkomprehensif dan disusun secara sistematis, dapat \ndiakses oleh pengguna sesuai wewenang masing-\nmasing, dan dikelola oleh administrator Pangkalan \nData (Database Administrator). \n9. \nRencana Pemulihan Bencana (Disaster Recovery Plan) \nadalah dokumen yang berisikan rencana dan langkah-\nlangkah memulihkan kembali akses data, perangkat \nkeras dan perangkat lunak yang diperlukan, agar BPR \ndan BPRS dapat menjalankan kegiatan operasional \nbisnis \nyang \nkritikal \nsetelah \nadanya \ngangguan \ndan/atau bencana. \n10. Direksi: \na. \nbagi BPR dan BPRS berbentuk badan hukum \nPerseroan Terbatas adalah direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas; \nb. \nbagi BPR berbentuk badan hukum: \n1. \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \ndiubah \nbeberapa \nkali \nterakhir \ndengan \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah;  \n2. \nPerusahaan Daerah adalah direksi pada BPR \nyang belum berubah bentuk badan hukum \nmenjadi Perusahaan Umum Daerah atau \nPerusahaan Perseroan Daerah sesuai dengan \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah diubah beberapa kali terakhir dengan \n\n\n \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah. \nc. \nbagi BPR berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian. \n11. Dewan Komisaris: \na. \nbagi BPR dan BPRS berbentuk badan hukum \nPerseroan Terbatas adalah dewan komisaris \nsebagaimana dimaksud dalam Undang-Undang \nNomor \nTahun \ntentang \nPerseroan \nTerbatas; \nb. \nbagi BPR berbentuk badan hukum: \n1. \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah diubah beberapa kali terakhir dengan \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah;  \n2. \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah diubah beberapa kali terakhir dengan \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \n3. \nPerusahaan Daerah adalah pengawas pada \nBPR yang belum berubah bentuk badan \nhukum menjadi Perusahaan Umum Daerah \natau Perusahaan Perseroan Daerah sesuai \n\n\n \ndengan Undang-Undang Nomor 23 Tahun \ntentang \nPemerintahan \nDaerah \nsebagaimana telah diubah beberapa kali \nterakhir dengan Undang-Undang Nomor 9 \nTahun 2015 tentang Perubahan Kedua \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah. \nc. \nbagi BPR berbentuk badan hukum Koperasi \nadalah pengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian. \n \nBAB II \nRUANG LINGKUP PENYELENGGARAAN TEKNOLOGI \nINFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1. \nBank Perkreditan Rakyat yang selanjutnya disingkat \nBPR yaitu bank yang melaksanakan kegiatan usaha \n\n\n \nsecara konvensional yang dalam kegiatannya tidak \nmemberikan jasa dalam lalu lintas pembayaran \nsebagaimana dimaksud dalam Undang-Undang Nomor \n7 Tahun 1992 tentang Perbankan sebagaimana telah \ndiubah dengan Undang-Undang Nomor 10 Tahun \n1998 tentang Perubahan Undang-Undang Nomor 7 \nTahun 1992 tentang Perbankan. \n2. \nBank Pembiayaan Rakyat Syariah yang selanjutnya \ndisingkat BPRS yaitu bank syariah yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran sebagaimana dimaksud dalam Undang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \nSyariah. \n3. \nTeknologi Informasi adalah suatu teknik untuk \nmengumpulkan, \nmenyiapkan, \nmenyimpan, \nmemproses, mengumumkan, menganalisis, dan/atau \nmenyebarkan informasi. \n4. \nSistem Elektronik adalah serangkaian perangkat dan \nprosedur elektronik yang berfungsi mempersiapkan, \nmengumpulkan, mengolah, menganalisis, menyimpan, \nmenampilkan, \nmengumumkan, \nmengirimkan, \ndan/atau menyebarkan informasi elektronik. \n5. \nAplikasi Inti Perbankan (Core Banking System) adalah \nSistem Elektronik berupa aplikasi untuk proses akhir \nseluruh transaksi perbankan yang terjadi sepanjang \nhari, termasuk pengkinian data dalam pembukuan \nBPR dan BPRS, yang paling sedikit mencakup fungsi \nnasabah, \nsimpanan, \npinjaman, \nakuntansi \ndan \npelaporan.  \n6. \nPusat Data (Data Center) adalah suatu fasilitas yang \ndigunakan untuk menempatkan Sistem Elektronik \ndan \nkomponen \nterkaitnya \nuntuk \nkeperluan \npenempatan, penyimpanan, dan pengolahan data. \n7. \nPusat Pemulihan Bencana (Disaster Recovery Center) \nadalah \nsuatu \nfasilitas \nyang \ndigunakan \nuntuk \nmemulihkan kembali data atau informasi serta fungsi-\nfungsi penting Sistem Elektronik yang terganggu atau \n\n\n \nrusak akibat terjadinya bencana yang disebabkan oleh \nalam atau manusia. \n8. \nPangkalan Data (Database) adalah sekumpulan data \nkomprehensif dan disusun secara sistematis, dapat \ndiakses oleh pengguna sesuai wewenang masing-\nmasing, dan dikelola oleh administrator Pangkalan \nData (Database Administrator). \n9. \nRencana Pemulihan Bencana (Disaster Recovery Plan) \nadalah dokumen yang berisikan rencana dan langkah-\nlangkah memulihkan kembali akses data, perangkat \nkeras dan perangkat lunak yang diperlukan, agar BPR \ndan BPRS dapat menjalankan kegiatan operasional \nbisnis \nyang \nkritikal \nsetelah \nadanya \ngangguan \ndan/atau bencana. \n10. Direksi: \na. \nbagi BPR dan BPRS berbentuk badan hukum \nPerseroan Terbatas adalah direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas; \nb. \nbagi BPR berbentuk badan hukum: \n1. \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \ndiubah \nbeberapa \nkali \nterakhir \ndengan \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah;  \n2. \nPerusahaan Daerah adalah direksi pada BPR \nyang belum berubah bentuk badan hukum \nmenjadi Perusahaan Umum Daerah atau \nPerusahaan Perseroan Daerah sesuai dengan \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah diubah beberapa kali terakhir dengan \n\n\n \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah. \nc. \nbagi BPR berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian. \n11. Dewan Komisaris: \na. \nbagi BPR dan BPRS berbentuk badan hukum \nPerseroan Terbatas adalah dewan komisaris \nsebagaimana dimaksud dalam Undang-Undang \nNomor \nTahun \ntentang \nPerseroan \nTerbatas; \nb. \nbagi BPR berbentuk badan hukum: \n1. \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah diubah beberapa kali terakhir dengan \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah;  \n2. \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah diubah beberapa kali terakhir dengan \nUndang-Undang \nNomor \nTahun \ntentang Perubahan Kedua Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \n3. \nPerusahaan Daerah adalah pengawas pada \nBPR yang belum berubah bentuk badan \nhukum menjadi Perusahaan Umum Daerah \natau Perusahaan Perseroan Daerah sesuai \n\n\n \ndengan Undang-Undang Nomor 23 Tahun \ntentang \nPemerintahan \nDaerah \nsebagaimana telah diubah beberapa kali \nterakhir dengan Undang-Undang Nomor 9 \nTahun 2015 tentang Perubahan Kedua \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah. \nc. \nbagi BPR berbentuk badan hukum Koperasi \nadalah pengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian. \n \nBAB II \nRUANG LINGKUP PENYELENGGARAAN TEKNOLOGI \nINFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menyelenggarakan Teknologi \nInformasi yang paling sedikit berupa: \na. \nAplikasi Inti Perbankan dan Pusat Data bagi BPR \natau  BPRS yang memiliki modal inti kurang dari \nRp50.000.000.000,00 (lima puluh miliar rupiah); \natau \nb. \nAplikasi Inti Perbankan, Pusat Data dan Pusat \nPemulihan Bencana bagi BPR atau BPRS yang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah). \n(2) \nBPR dan BPRS dapat menyelenggarakan Teknologi \nInformasi sebagaimana dimaksud pada ayat (1) secara \nmandiri atau bekerjasama dengan penyedia jasa \nTeknologi Informasi. \n(3) \nPenyelenggaraan Teknologi Informasi bekerjasama \ndengan \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana \ndimaksud \npada \nayat \n(2) \ndapat \ndilaksanakan \nuntuk \nseluruh \natau \nsebagian \npenyelenggaraan Teknologi Informasi BPR atau BPRS \nmeliputi penyelenggaraan: \n\n\n \na. \nAplikasi Inti Perbankan;  \nb. \nPusat Data; \nc. \nPusat Pemulihan Bencana; dan/atau \nd. \nPenyelenggaraan \nTeknologi \nInformasi \nlainnya \nsesuai dengan ketentuan peraturan perundang-\nundangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menyelenggarakan Teknologi \nInformasi yang paling sedikit berupa: \na. \nAplikasi Inti Perbankan dan Pusat Data bagi BPR \natau  BPRS yang memiliki modal inti kurang dari \nRp50.000.000.000,00 (lima puluh miliar rupiah); \natau \nb. \nAplikasi Inti Perbankan, Pusat Data dan Pusat \nPemulihan Bencana bagi BPR atau BPRS yang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS dapat menyelenggarakan Teknologi \nInformasi sebagaimana dimaksud pada ayat (1) secara \nmandiri atau bekerjasama dengan penyedia jasa \nTeknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggaraan Teknologi Informasi bekerjasama \ndengan \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dapat \ndilaksanakan \nuntuk \nseluruh \natau \nsebagian \npenyelenggaraan Teknologi Informasi BPR atau BPRS \nmeliputi penyelenggaraan: \n\n\n \na. \nAplikasi Inti Perbankan;  \nb. \nPusat Data; \nc. \nPusat Pemulihan Bencana; dan/atau \nd. \nPenyelenggaraan \nTeknologi \nInformasi \nlainnya \nsesuai dengan ketentuan peraturan perundang-\nundangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menempatkan Pusat Data dan \nPusat Pemulihan Bencana sebagaimana dimaksud \ndalam Pasal 2 ayat (1) dan ayat (3) di wilayah \nIndonesia. \n(2) \nPusat Data wajib ditempatkan di lokasi dengan \nkarakteristik risiko yang berbeda dengan lokasi Pusat \nPemulihan Bencana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menempatkan Pusat Data dan \nPusat Pemulihan Bencana sebagaimana dimaksud \ndalam Pasal 2 ayat (1) dan ayat (3) di wilayah \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pusat Data wajib ditempatkan di lokasi dengan \nkarakteristik risiko yang berbeda dengan lokasi Pusat \nPemulihan Bencana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBPR \ndan \nBPRS \nyang \nmenyelenggarakan \nsecara \nmandiri Teknologi Informasi sebagaimana dimaksud \ndalam Pasal 2 ayat (1) wajib:  \na. \nmelakukan rekam cadang (back up) data aktivitas \nyang diproses menggunakan Teknologi Informasi; \ndan \nb. \nmemiliki installer Aplikasi Inti Perbankan yang \ndigunakan BPR dan BPRS untuk melakukan \ninstall ulang.  \n(2) \nBPR \ndan \nBPRS \nyang \nmelakukan \nkerjasama \npenyelenggaraan Teknologi Informasi dengan penyedia \njasa Teknologi Informasi, wajib memastikan bahwa \npenyedia jasa Teknologi Informasi melakukan rekam \ncadang data aktivitas dan memiliki installer Aplikasi \nInti Perbankan sebagaimana dimaksud pada ayat (1). \n(3) \nData aktivitas BPR dan BPRS sebagaimana dimaksud \npada ayat (1) dan ayat (2) wajib disimpan dalam \njangka waktu sesuai dengan ketentuan peraturan \nperundang-undangan \nmengenai \ndokumen \nperusahaan. \n\n\n \n(4) \nRekam cadang sebagaimana dimaksud pada ayat (1) \nhuruf a dan ayat (2) wajib dilakukan setiap akhir hari \nuntuk seluruh data aktivitas BPR dan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR \ndan \nBPRS \nyang \nmenyelenggarakan \nsecara \nmandiri Teknologi Informasi sebagaimana dimaksud \ndalam Pasal 2 ayat (1) wajib:  \na. \nmelakukan rekam cadang (back up) data aktivitas \nyang diproses menggunakan Teknologi Informasi; \ndan \nb. \nmemiliki installer Aplikasi Inti Perbankan yang \ndigunakan BPR dan BPRS untuk melakukan \ninstall ulang."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR \ndan \nBPRS \nyang \nmelakukan \nkerjasama \npenyelenggaraan Teknologi Informasi dengan penyedia \njasa Teknologi Informasi, wajib memastikan bahwa \npenyedia jasa Teknologi Informasi melakukan rekam \ncadang data aktivitas dan memiliki installer Aplikasi \nInti Perbankan sebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Data aktivitas BPR dan BPRS sebagaimana dimaksud \npada ayat (1) dan ayat (2) wajib disimpan dalam \njangka waktu sesuai dengan ketentuan peraturan \nperundang-undangan \nmengenai \ndokumen \nperusahaan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Rekam cadang sebagaimana dimaksud pada ayat (1) \nhuruf a dan ayat (2) wajib dilakukan setiap akhir hari \nuntuk seluruh data aktivitas BPR dan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib memastikan Aplikasi Inti \nPerbankan sebagaimana dimaksud dalam Pasal 2 \nmampu: \na. \nmenerapkan ketentuan peraturan perundang-\nundangan bagi BPR atau BPRS;  \nb. \nmelakukan pembukuan transaksi antar jaringan \nkantor: \n1. \npada hari yang sama bagi BPR dan BPRS \nyang tidak menyediakan layanan perbankan \nelektronik (electronic banking) dan tidak \nmelakukan kegiatan sebagai penerbit kartu \nAutomated Teller Machine (ATM);  \n2. \nsecara online dan real time bagi BPR dan \nBPRS yang menyediakan layanan perbankan \nelektronik dan/atau melakukan kegiatan \nsebagai penerbit kartu Automated Teller \nMachine (ATM).  \nc. \nmenghasilkan data dan informasi yang digunakan \ndalam mendukung proses penyusunan laporan \nuntuk kebutuhan intern dan ekstern. \nd. \nmengonsolidasikan fungsi-fungsi yang terdapat \ndalam Aplikasi Inti Perbankan untuk mendukung \npenyediaan data dan informasi yang lengkap, \nakurat, kini, dan utuh.  \n(2) \nBPR dan BPRS harus memastikan Aplikasi Inti \nPerbankan sebagaimana dimaksud dalam Pasal 2 \nmampu mengimplementasikan profil nasabah secara \nterpadu (Single Customer Identification File).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib memastikan Aplikasi Inti \nPerbankan sebagaimana dimaksud dalam Pasal 2 \nmampu: \na. \nmenerapkan ketentuan peraturan perundang-\nundangan bagi BPR atau BPRS;  \nb. \nmelakukan pembukuan transaksi antar jaringan \nkantor: \n1. \npada hari yang sama bagi BPR dan BPRS \nyang tidak menyediakan layanan perbankan \nelektronik (electronic banking) dan tidak \nmelakukan kegiatan sebagai penerbit kartu \nAutomated Teller Machine (ATM);  \n2. \nsecara online dan real time bagi BPR dan \nBPRS yang menyediakan layanan perbankan \nelektronik dan/atau melakukan kegiatan \nsebagai penerbit kartu Automated Teller \nMachine (ATM).  \nc. \nmenghasilkan data dan informasi yang digunakan \ndalam mendukung proses penyusunan laporan \nuntuk kebutuhan intern dan ekstern. \nd. \nmengonsolidasikan fungsi-fungsi yang terdapat \ndalam Aplikasi Inti Perbankan untuk mendukung \npenyediaan data dan informasi yang lengkap, \nakurat, kini, dan utuh."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS harus memastikan Aplikasi Inti \nPerbankan sebagaimana dimaksud dalam Pasal 2 \nmampu mengimplementasikan profil nasabah secara \nterpadu (Single Customer Identification File)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBPR dan BPRS dapat melakukan pengembangan dan \npengadaan Aplikasi Inti Perbankan: \na. \nsecara mandiri (in-house); atau  \nb. \ndengan cara membeli Aplikasi Inti Perbankan \nyang dikembangkan oleh penyedia Aplikasi Inti \nPerbankan. \n(2) \nPenyedia \nAplikasi \nInti \nPerbankan \nsebagaimana \ndimaksud pada ayat (1) huruf b harus: \na. \nberbentuk badan hukum;  \nb. \nmemiliki sumber daya manusia yang kompeten di \nbidang Teknologi Informasi; dan  \nc. \nberkedudukan di wilayah Indonesia \n(3) \nKetentuan sebagaimana dimaksud pada ayat (2) huruf \na dikecualikan dalam hal BPR dan BPRS telah \nmemiliki Aplikasi Inti Perbankan pada saat Peraturan \nOtoritas Jasa Keuangan ini berlaku dan melakukan \nkerja sama dengan penyedia Aplikasi Inti Perbankan \nyang \ntidak \nberbentuk \nbadan \nhukum \nuntuk \npengembangan \natau \npemeliharaan \nAplikasi \nInti \nPerbankan dimaksud. \n(4) \nPengembangan \ndan \npengadaan \nAplikasi \nInti \nPerbankan BPR atau BPRS dengan menggunakan \npenyedia \nAplikasi \nInti \nPerbankan \nsebagaimana \ndimaksud pada ayat (1) huruf b, wajib dilaksanakan \nberdasarkan perjanjian tertulis. \n(5) \nKetentuan lebih lanjut mengenai perjanjian tertulis \nsebagaimana dimaksud pada ayat (4) diatur dalam \nSurat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS dapat melakukan pengembangan dan \npengadaan Aplikasi Inti Perbankan: \na. \nsecara mandiri (in-house); atau  \nb. \ndengan cara membeli Aplikasi Inti Perbankan \nyang dikembangkan oleh penyedia Aplikasi Inti \nPerbankan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyedia \nAplikasi \nInti \nPerbankan \nsebagaimana \ndimaksud pada ayat (1) huruf b harus: \na. \nberbentuk badan hukum;  \nb. \nmemiliki sumber daya manusia yang kompeten di \nbidang Teknologi Informasi; dan  \nc. \nberkedudukan di wilayah Indonesia"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan sebagaimana dimaksud pada ayat (2) huruf \na dikecualikan dalam hal BPR dan BPRS telah \nmemiliki Aplikasi Inti Perbankan pada saat Peraturan \nOtoritas Jasa Keuangan ini berlaku dan melakukan \nkerja sama dengan penyedia Aplikasi Inti Perbankan \nyang \ntidak \nberbentuk \nbadan \nhukum \nuntuk \npengembangan \natau \npemeliharaan \nAplikasi \nInti \nPerbankan dimaksud."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengembangan \ndan \npengadaan \nAplikasi \nInti \nPerbankan BPR atau BPRS dengan menggunakan \npenyedia \nAplikasi \nInti \nPerbankan \nsebagaimana \ndimaksud pada ayat (1) huruf b, wajib dilaksanakan \nberdasarkan perjanjian tertulis."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai perjanjian tertulis \nsebagaimana dimaksud pada ayat (4) diatur dalam \nSurat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "BPR dan BPRS dilarang melakukan kegiatan penyediaan \njasa Teknologi Informasi kepada pihak lain, kecuali terkait \ndengan produk dan layanan yang disediakan oleh BPR dan \nBPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS dilarang melakukan kegiatan penyediaan \njasa Teknologi Informasi kepada pihak lain, kecuali terkait \ndengan produk dan layanan yang disediakan oleh BPR dan \nBPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Dalam \nrangka \npenyelenggaraan \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 2 ayat (1), BPR dan \nBPRS wajib melakukan pencatatan seluruh transaksi \ndalam pembukuan BPR atau BPRS pada hari yang sama. \n \nBAB III \nWEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN \nKOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT \nPENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nrangka \npenyelenggaraan \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 2 ayat (1), BPR dan \nBPRS wajib melakukan pencatatan seluruh transaksi \ndalam pembukuan BPR atau BPRS pada hari yang sama. \n \nBAB III \nWEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN \nKOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT \nPENYELENGGARAAN TEKNOLOGI INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "WEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN KOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "BPR dan BPRS wajib menetapkan wewenang dan tanggung \njawab \nDireksi \ndan \nDewan \nKomisaris \nterkait \npenyelenggaraan Teknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS wajib menetapkan wewenang dan tanggung \njawab \nDireksi \ndan \nDewan \nKomisaris \nterkait \npenyelenggaraan Teknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "WEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN KOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 9 paling sedikit:  \na. \nmenetapkan rencana pengembangan dan pengadaan \nTeknologi Informasi BPR atau BPRS;  \nb. \nmenetapkan \nkebijakan \ndan \nprosedur \nterkait \npenyelenggaraan Teknologi Informasi yang memadai \ndan mengomunikasikannya secara efektif, baik pada \nsatuan \nkerja \npenyelenggara \nmaupun \npengguna \nTeknologi Informasi;  \nc. \nmemantau \nkecukupan \nkinerja \npenyelenggaraan \nTeknologi Informasi dan upaya peningkatannya; dan \nd. \nmemastikan bahwa: \n1. \nTeknologi Informasi yang digunakan mendukung \nperkembangan usaha, pencapaian tujuan bisnis \ndan kelangsungan pelayanan terhadap nasabah \nBPR atau BPRS; \n2. \nterdapat \nkegiatan \npeningkatan \nkompetensi \nsumber daya manusia yang terkait dengan \npenyelenggaraan \ndan \npenggunaan \nTeknologi \nInformasi; \n\n\n \n3. \ntersedianya \nsistem \npengelolaan \npengamanan \ninformasi \n(information \nsecurity \nmanagement \nsystem) yang efektif dan dikomunikasikan kepada \nsatuan \nkerja \npenyelenggara \ndan \npengguna \nTeknologi Informasi; dan \n4. \nkebijakan \ndan \nprosedur \npenyelenggaraan \nTeknologi Informasi diterapkan secara efektif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 9 paling sedikit:  \na. \nmenetapkan rencana pengembangan dan pengadaan \nTeknologi Informasi BPR atau BPRS;  \nb. \nmenetapkan \nkebijakan \ndan \nprosedur \nterkait \npenyelenggaraan Teknologi Informasi yang memadai \ndan mengomunikasikannya secara efektif, baik pada \nsatuan \nkerja \npenyelenggara \nmaupun \npengguna \nTeknologi Informasi;  \nc. \nmemantau \nkecukupan \nkinerja \npenyelenggaraan \nTeknologi Informasi dan upaya peningkatannya; dan \nd. \nmemastikan bahwa: \n1. \nTeknologi Informasi yang digunakan mendukung \nperkembangan usaha, pencapaian tujuan bisnis \ndan kelangsungan pelayanan terhadap nasabah \nBPR atau BPRS; \n2. \nterdapat \nkegiatan \npeningkatan \nkompetensi \nsumber daya manusia yang terkait dengan \npenyelenggaraan \ndan \npenggunaan \nTeknologi \nInformasi; \n\n\n \n3. \ntersedianya \nsistem \npengelolaan \npengamanan \ninformasi \n(information \nsecurity \nmanagement \nsystem) yang efektif dan dikomunikasikan kepada \nsatuan \nkerja \npenyelenggara \ndan \npengguna \nTeknologi Informasi; dan \n4. \nkebijakan \ndan \nprosedur \npenyelenggaraan \nTeknologi Informasi diterapkan secara efektif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "WEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN KOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana dimaksud dalam Pasal 9 paling sedikit \nmeliputi: \na. \nmengarahkan dan memantau rencana pengembangan \ndan pengadaan Teknologi Informasi BPR atau BPRS \nyang bersifat mendasar; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \nterkait \npenyelenggaraan Teknologi Informasi BPR atau BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana dimaksud dalam Pasal 9 paling sedikit \nmeliputi: \na. \nmengarahkan dan memantau rencana pengembangan \ndan pengadaan Teknologi Informasi BPR atau BPRS \nyang bersifat mendasar; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \nterkait \npenyelenggaraan Teknologi Informasi BPR atau BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "WEWENANG DAN TANGGUNG JAWAB DIREKSI, DEWAN KOMISARIS, DAN SUMBER DAYA MANUSIA TERKAIT PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nDalam rangka penyelenggaraan Teknologi Informasi \nsecara efektif dan efisien, BPR dan BPRS wajib \nmenunjuk \nsatuan \nkerja \natau \npegawai \nyang \nbertanggung jawab atas penyelenggaraan Teknologi \nInformasi. \n(2) \nSatuan kerja atau pegawai yang bertanggung jawab \natas \npenyelenggaraan \nTeknologi \nInformasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \nharus \nindependen terhadap kegiatan penghimpunan dana, \npenyaluran dana, pembukuan, dan/atau audit intern. \n(3) \nWewenang dan tanggung jawab satuan kerja atau \npegawai \nyang \nbertanggung \njawab \nterhadap \npenyelenggaraan Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) paling sedikit: \na. \nmembantu Direksi dan Dewan Komisaris dalam \npenyelenggaraan \nTeknologi \nInformasi \nterkait \ndengan \nperencanaan, \npelaksanaan \ndan \npemantauan; \n\n\n \nb. \nmendukung pengembangan dan/atau pengadaan \nTeknologi Informasi; \nc. \nmendukung \nimplementasi, \noperasional, \ndan \npemeliharaan Teknologi Informasi; dan \nd. \nmelakukan upaya penyelesaian permasalahan \nterkait operasional Teknologi Informasi, yang \ntidak dapat diselesaikan oleh satuan kerja \npengguna Teknologi Informasi. \n \nBAB IV \nKEBIJAKAN DAN PROSEDUR PENYELENGGARAAN \nTEKNOLOGI INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka penyelenggaraan Teknologi Informasi \nsecara efektif dan efisien, BPR dan BPRS wajib \nmenunjuk \nsatuan \nkerja \natau \npegawai \nyang \nbertanggung jawab atas penyelenggaraan Teknologi \nInformasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Satuan kerja atau pegawai yang bertanggung jawab \natas \npenyelenggaraan \nTeknologi \nInformasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "harus \nindependen terhadap kegiatan penghimpunan dana, \npenyaluran dana, pembukuan, dan/atau audit intern."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Wewenang dan tanggung jawab satuan kerja atau \npegawai \nyang \nbertanggung \njawab \nterhadap \npenyelenggaraan Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) paling sedikit: \na. \nmembantu Direksi dan Dewan Komisaris dalam \npenyelenggaraan \nTeknologi \nInformasi \nterkait \ndengan \nperencanaan, \npelaksanaan \ndan \npemantauan; \n\n\n \nb. \nmendukung pengembangan dan/atau pengadaan \nTeknologi Informasi; \nc. \nmendukung \nimplementasi, \noperasional, \ndan \npemeliharaan Teknologi Informasi; dan \nd. \nmelakukan upaya penyelesaian permasalahan \nterkait operasional Teknologi Informasi, yang \ntidak dapat diselesaikan oleh satuan kerja \npengguna Teknologi Informasi. \n \nBAB IV \nKEBIJAKAN DAN PROSEDUR PENYELENGGARAAN \nTEKNOLOGI INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) BPR dan BPRS wajib memiliki kebijakan dan prosedur \npenyelenggaraan Teknologi Informasi. \n(2) Kebijakan dan prosedur penyelenggaraan Teknologi \nInformasi sebagaimana dimaksud pada ayat (1) paling \nsedikit meliputi: \na. \nwewenang dan tanggung jawab Direksi, Dewan \nKomisaris, dan Satuan Kerja atau pegawai yang \nbertanggung jawab terhadap penyelenggaraan \nTeknologi Informasi; \nb. \npengembangan dan pengadaan;  \nc. \noperasional Teknologi Informasi;  \nd. \njaringan komunikasi;  \ne. \npengamanan informasi;  \nf. \nRencana Pemulihan Bencana;  \ng. \naudit intern Teknologi Informasi; dan  \nh. \nkerjasama \ndengan \npenyedia \njasa \nTeknologi \nInformasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib memiliki kebijakan dan prosedur \npenyelenggaraan Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan dan prosedur penyelenggaraan Teknologi \nInformasi sebagaimana dimaksud pada ayat (1) paling \nsedikit meliputi: \na. \nwewenang dan tanggung jawab Direksi, Dewan \nKomisaris, dan Satuan Kerja atau pegawai yang \nbertanggung jawab terhadap penyelenggaraan \nTeknologi Informasi; \nb. \npengembangan dan pengadaan;  \nc. \noperasional Teknologi Informasi;  \nd. \njaringan komunikasi;  \ne. \npengamanan informasi;  \nf. \nRencana Pemulihan Bencana;  \ng. \naudit intern Teknologi Informasi; dan  \nh. \nkerjasama \ndengan \npenyedia \njasa \nTeknologi \nInformasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) Dalam rangka penyelenggaraan Teknologi Informasi \nsebagaimana dimaksud dalam Pasal 2 ayat (1), BPR \ndan \nBPRS \nwajib \nmemiliki \nRencana \nPemulihan \nBencana yang teruji dan memadai. \n\n\n \n(2) \nRencana Pemulihan Bencana sebagaimana dimaksud \npada ayat (1) harus dapat dilaksanakan secara efektif \nagar operasional BPR dan BPRS tetap berjalan saat \nterjadi gangguan dan/atau bencana yang signifikan \npada sarana Teknologi Informasi yang digunakan. \n(3) BPR dan BPRS wajib melakukan uji coba terhadap \nRencana Pemulihan Bencana untuk Aplikasi Inti \nPerbankan, paling sedikit 1 (satu) kali dalam 3 (tiga) \ntahun \ndengan \nmelibatkan \npengguna \nTeknologi \nInformasi. \n(4) BPR dan BPRS wajib melakukan kaji ulang terhadap \nRencana Pemulihan Bencana secara berkala paling \nsedikit 1 (satu) kali dalam 3 (tiga) tahun dengan \nmempertimbangkan \nhasil \nuji \ncoba \nsebagaimana \ndimaksud pada ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka penyelenggaraan Teknologi Informasi \nsebagaimana dimaksud dalam Pasal 2 ayat (1), BPR \ndan \nBPRS \nwajib \nmemiliki \nRencana \nPemulihan \nBencana yang teruji dan memadai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rencana Pemulihan Bencana sebagaimana dimaksud \npada ayat (1) harus dapat dilaksanakan secara efektif \nagar operasional BPR dan BPRS tetap berjalan saat \nterjadi gangguan dan/atau bencana yang signifikan \npada sarana Teknologi Informasi yang digunakan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS wajib melakukan uji coba terhadap \nRencana Pemulihan Bencana untuk Aplikasi Inti \nPerbankan, paling sedikit 1 (satu) kali dalam 3 (tiga) \ntahun \ndengan \nmelibatkan \npengguna \nTeknologi \nInformasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPRS wajib melakukan kaji ulang terhadap \nRencana Pemulihan Bencana secara berkala paling \nsedikit 1 (satu) kali dalam 3 (tiga) tahun dengan \nmempertimbangkan \nhasil \nuji \ncoba \nsebagaimana \ndimaksud pada ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Dalam melakukan pengembangan dan pengadaan Sistem \nElektronik BPR dan BPRS wajib melakukan langkah-\nlangkah pengendalian untuk menghasilkan sistem dan \ndata yang terjaga kerahasiaan (confidentiality), integritas \n(integrity), dan ketersediaan (availability), serta mendukung \npencapaian tujuan BPR atau BPRS, antara lain meliputi: \na. \nmenetapkan \ndan \nmenerapkan \nprosedur \npengembangan dan pengadaan Sistem Elektronik \nsecara konsisten; \nb. \nmenerapkan manajemen proyek dalam pengembangan \ndan pengadaan Sistem Elektronik; \nc. \nmelakukan \ntesting \nyang \nmemadai \npada \nsaat \npengembangan dan pengadaan Sistem Elektronik \ntermasuk uji coba dengan melibatkan satuan kerja \npengguna, \nuntuk \nmemastikan \nkeakuratan \ndan \nberfungsinya Sistem Elektronik sesuai kebutuhan \npengguna serta kesesuaian satu sistem dengan sistem \nyang lain; \nd. \nmelakukan \ndokumentasi \nterhadap \npengadaan, \npengembangan, dan pemeliharaan Sistem Elektronik;  \n\n\n \ne. \nmemiliki manajemen perubahan Sistem Elektronik; \ndan \nf. \nmemastikan Sistem Elektronik BPR dan BPRS mampu \nmenampilkan kembali informasi secara utuh. \n \nBAB V \nPENYELENGGARAAN TEKNOLOGI INFORMASI \nBEKERJASAMA DENGAN PENYEDIA JASA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam melakukan pengembangan dan pengadaan Sistem \nElektronik BPR dan BPRS wajib melakukan langkah-\nlangkah pengendalian untuk menghasilkan sistem dan \ndata yang terjaga kerahasiaan (confidentiality), integritas \n(integrity), dan ketersediaan (availability), serta mendukung \npencapaian tujuan BPR atau BPRS, antara lain meliputi: \na. \nmenetapkan \ndan \nmenerapkan \nprosedur \npengembangan dan pengadaan Sistem Elektronik \nsecara konsisten; \nb. \nmenerapkan manajemen proyek dalam pengembangan \ndan pengadaan Sistem Elektronik; \nc. \nmelakukan \ntesting \nyang \nmemadai \npada \nsaat \npengembangan dan pengadaan Sistem Elektronik \ntermasuk uji coba dengan melibatkan satuan kerja \npengguna, \nuntuk \nmemastikan \nkeakuratan \ndan \nberfungsinya Sistem Elektronik sesuai kebutuhan \npengguna serta kesesuaian satu sistem dengan sistem \nyang lain; \nd. \nmelakukan \ndokumentasi \nterhadap \npengadaan, \npengembangan, dan pemeliharaan Sistem Elektronik;  \n\n\n \ne. \nmemiliki manajemen perubahan Sistem Elektronik; \ndan \nf. \nmemastikan Sistem Elektronik BPR dan BPRS mampu \nmenampilkan kembali informasi secara utuh. \n \nBAB V \nPENYELENGGARAAN TEKNOLOGI INFORMASI \nBEKERJASAMA DENGAN PENYEDIA JASA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI BEKERJASAMA DENGAN PENYEDIA JASA",
+      "teks_lengkap": "BPR dan BPRS wajib memastikan bahwa penyedia jasa \nTeknologi \nInformasi \nBPR \natau \nBPRS \nsebagaimana \ndimaksud dalam Pasal 2 ayat (2) harus berbentuk badan \nhukum dan berkedudukan di wilayah Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS wajib memastikan bahwa penyedia jasa \nTeknologi \nInformasi \nBPR \natau \nBPRS \nsebagaimana \ndimaksud dalam Pasal 2 ayat (2) harus berbentuk badan \nhukum dan berkedudukan di wilayah Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI BEKERJASAMA DENGAN PENYEDIA JASA",
+      "teks_lengkap": "(1) \nDalam penyelenggaraan Teknologi Informasi BPR atau \nBPRS bekerjasama dengan penyedia jasa Teknologi \nInformasi sebagaimana dimaksud dalam Pasal 2 ayat \n(2) BPR dan BPRS wajib: \na. \nbertanggung jawab terhadap penyelenggaraan \nTeknologi Informasi; \nb. \nmelakukan \npengawasan \nterhadap \npenyelenggaraan Teknologi Informasi BPR atau \nBPRS yang diselenggarakan oleh pihak penyedia \njasa Teknologi Informasi; \nc. \nmemantau \nreputasi \npihak \npenyedia \njasa \nTeknologi \nInformasi \ndan \nkelangsungan \npenyediaan layanan kepada BPR atau BPRS; \nd. \nmemilih pihak penyedia jasa Teknologi Informasi \nberdasarkan analisis manfaat dan biaya dengan \nmelibatkan satuan kerja atau pegawai yang \nbertanggung jawab terhadap penyelenggaraan \nTeknologi Informasi;  \ne. \nmemberikan \nakses \nkepada \nOtoritas \nJasa \nKeuangan terhadap Pangkalan Data  secara tepat \n\n\n \nwaktu baik untuk data terkini maupun untuk \ndata yang telah lalu; dan \nf. \nmemastikan penyedia jasa  Teknologi Informasi:  \n1. \nmemiliki tenaga ahli yang didukung dengan \nsertifikat keahlian sesuai dengan keperluan \npenyelenggaraan Teknologi Informasi; \n2. \nmenerapkan prinsip pengendalian Teknologi \nInformasi secara memadai yang dibuktikan \ndengan hasil audit yang dilakukan pihak \nindependen; \n3. \nmenyediakan akses bagi auditor intern BPR \ndan BPRS, auditor ekstern yang ditunjuk \noleh BPR dan BPRS, dan Otoritas Jasa \nKeuangan untuk memperoleh data dan \ninformasi yang diperlukan secara tepat \nwaktu setiap kali dibutuhkan;  \n4. \nmenyatakan tidak berkeberatan dalam hal \nOtoritas Jasa Keuangan dan/atau pihak lain \nyang berwenang sesuai dengan ketentuan \nperaturan perundang-undangan melakukan \npemeriksaan terhadap kegiatan penyediaan \njasa yang diberikan;  \n5. \nsebagai pihak terafiliasi, menjaga keamanan \nseluruh informasi termasuk rahasia bank \ndan data pribadi nasabah; \n6. \nmelaporkan kepada BPR atau BPRS setiap \nkejadian kritis yang dapat mengakibatkan \nkerugian keuangan dan/atau mengganggu \nkelangsungan operasional BPR atau BPRS; \n7. \nmenyediakan Rencana Pemulihan Bencana \nyang teruji dan memadai; \n8. \nbersedia untuk menyepakati kemungkinan \npenghentian perjanjian kerja sama sebelum \nberakhirnya jangka waktu perjanjian (early \ntermination) dalam  hal perjanjian kerja sama \ntersebut menyebabkan atau diindikasikan \nakan menyebabkan kesulitan pelaksanaan \n\n\n \ntugas pengawasan Otoritas Jasa Keuangan; \ndan \n9. \nmemenuhi tingkat layanan sesuai dengan \nperjanjian tingkat layanan (service level \nagreement) antara BPR atau BPRS dan pihak \npenyedia jasa Teknologi Informasi. \n(2) \nPenyelenggaraan Teknologi Informasi bekerja sama \ndengan \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2) wajib \ndidasarkan pada perjanjian kerja sama yang paling \nsedikit memuat pokok-pokok perjanjian kerja sama, \ntermasuk ketentuan sebagaimana dimaksud pada ayat \n(1) huruf f. \n(3) \nBPR dan BPRS wajib memastikan penyedia jasa \nTeknologi Informasi sebagaimana dimaksud dalam \nPasal 2 ayat (2) dilarang melakukan pengalihan \n(subkontrak) \nsebagian \natau \nseluruh \nkegiatan \npenyelenggaraan Teknologi Informasi BPR atau BPRS \nkepada pihak lain. \n(4) \nBPR dan BPRS tetap wajib melakukan proses seleksi \ndan melakukan transaksi dengan penyedia jasa \nTeknologi Informasi dengan memperhatikan prinsip \nkehati-hatian, manajemen risiko, dan didasarkan \npada hubungan kerja sama secara wajar (arm’s length \nprinciple), termasuk dalam hal penyedia jasa Teknologi \nInformasi merupakan pihak terkait dengan BPR atau \nBPRS. \n(5) \nKetentuan lebih lanjut mengenai cakupan perjanjian \nkerja sama penyelenggaraan Teknologi Informasi  \nsebagaimana dimaksud pada ayat (2) diatur dalam \nSurat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penyelenggaraan Teknologi Informasi BPR atau \nBPRS bekerjasama dengan penyedia jasa Teknologi \nInformasi sebagaimana dimaksud dalam Pasal 2 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS wajib: \na. \nbertanggung jawab terhadap penyelenggaraan \nTeknologi Informasi; \nb. \nmelakukan \npengawasan \nterhadap \npenyelenggaraan Teknologi Informasi BPR atau \nBPRS yang diselenggarakan oleh pihak penyedia \njasa Teknologi Informasi; \nc. \nmemantau \nreputasi \npihak \npenyedia \njasa \nTeknologi \nInformasi \ndan \nkelangsungan \npenyediaan layanan kepada BPR atau BPRS; \nd. \nmemilih pihak penyedia jasa Teknologi Informasi \nberdasarkan analisis manfaat dan biaya dengan \nmelibatkan satuan kerja atau pegawai yang \nbertanggung jawab terhadap penyelenggaraan \nTeknologi Informasi;  \ne. \nmemberikan \nakses \nkepada \nOtoritas \nJasa \nKeuangan terhadap Pangkalan Data  secara tepat \n\n\n \nwaktu baik untuk data terkini maupun untuk \ndata yang telah lalu; dan \nf. \nmemastikan penyedia jasa  Teknologi Informasi:  \n1. \nmemiliki tenaga ahli yang didukung dengan \nsertifikat keahlian sesuai dengan keperluan \npenyelenggaraan Teknologi Informasi; \n2. \nmenerapkan prinsip pengendalian Teknologi \nInformasi secara memadai yang dibuktikan \ndengan hasil audit yang dilakukan pihak \nindependen; \n3. \nmenyediakan akses bagi auditor intern BPR \ndan BPRS, auditor ekstern yang ditunjuk \noleh BPR dan BPRS, dan Otoritas Jasa \nKeuangan untuk memperoleh data dan \ninformasi yang diperlukan secara tepat \nwaktu setiap kali dibutuhkan;  \n4. \nmenyatakan tidak berkeberatan dalam hal \nOtoritas Jasa Keuangan dan/atau pihak lain \nyang berwenang sesuai dengan ketentuan \nperaturan perundang-undangan melakukan \npemeriksaan terhadap kegiatan penyediaan \njasa yang diberikan;  \n5. \nsebagai pihak terafiliasi, menjaga keamanan \nseluruh informasi termasuk rahasia bank \ndan data pribadi nasabah; \n6. \nmelaporkan kepada BPR atau BPRS setiap \nkejadian kritis yang dapat mengakibatkan \nkerugian keuangan dan/atau mengganggu \nkelangsungan operasional BPR atau BPRS; \n7. \nmenyediakan Rencana Pemulihan Bencana \nyang teruji dan memadai; \n8. \nbersedia untuk menyepakati kemungkinan \npenghentian perjanjian kerja sama sebelum \nberakhirnya jangka waktu perjanjian (early \ntermination) dalam  hal perjanjian kerja sama \ntersebut menyebabkan atau diindikasikan \nakan menyebabkan kesulitan pelaksanaan \n\n\n \ntugas pengawasan Otoritas Jasa Keuangan; \ndan \n9. \nmemenuhi tingkat layanan sesuai dengan \nperjanjian tingkat layanan (service level \nagreement) antara BPR atau BPRS dan pihak \npenyedia jasa Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggaraan Teknologi Informasi bekerja sama \ndengan \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2) wajib \ndidasarkan pada perjanjian kerja sama yang paling \nsedikit memuat pokok-pokok perjanjian kerja sama, \ntermasuk ketentuan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf f."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS wajib memastikan penyedia jasa \nTeknologi Informasi sebagaimana dimaksud dalam \nPasal 2 ayat (2) dilarang melakukan pengalihan \n(subkontrak) \nsebagian \natau \nseluruh \nkegiatan \npenyelenggaraan Teknologi Informasi BPR atau BPRS \nkepada pihak lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPRS tetap wajib melakukan proses seleksi \ndan melakukan transaksi dengan penyedia jasa \nTeknologi Informasi dengan memperhatikan prinsip \nkehati-hatian, manajemen risiko, dan didasarkan \npada hubungan kerja sama secara wajar (arm’s length \nprinciple), termasuk dalam hal penyedia jasa Teknologi \nInformasi merupakan pihak terkait dengan BPR atau \nBPRS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai cakupan perjanjian \nkerja sama penyelenggaraan Teknologi Informasi  \nsebagaimana dimaksud pada ayat (2) diatur dalam \nSurat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI BEKERJASAMA DENGAN PENYEDIA JASA",
+      "teks_lengkap": "(1) \nDalam hal kerja sama dengan  penyedia jasa  \nTeknologi Informasi sebagaimana dimaksud dalam \nPasal 2 ayat (2) menyebabkan atau diindikasikan akan \nmenyebabkan \nkesulitan \npelaksanaan \ntugas \n\n\n \npengawasan Otoritas Jasa Keuangan, Otoritas Jasa \nKeuangan dapat meminta BPR atau BPRS untuk \nmelakukan upaya perbaikan.  \n(2) \nBPR atau BPRS wajib menyampaikan rencana tindak \ndalam \nrangka \nupaya \nperbaikan \nsebagaimana \ndimaksud pada ayat (1) paling lambat 20 (dua puluh) \nhari kerja sejak tanggal permintaan Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (1) \nditerima.  \n(3) \nDalam \nrangka \npelaksanaan \nrencana \ntindak \nsebagaimana dimaksud pada ayat (2), Otoritas Jasa \nKeuangan memberikan jangka waktu paling lama 6 \n(enam) \nbulan \nkepada \nBPR \natau \nBPRS \nuntuk \nmelakukan upaya perbaikan. \n(4) \nDalam \nhal \nsetelah \njangka \nwaktu \nsebagaimana \ndimaksud pada ayat (3) BPR atau BPRS tidak dapat \nmelakukan upaya perbaikan, Otoritas Jasa Keuangan \ndapat \nmemerintahkan \nBPR \natau \nBPRS \nuntuk \nmenghentikan kerja sama dengan penyedia jasa \nTeknologi Informasi sebelum berakhirnya jangka \nwaktu perjanjian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal kerja sama dengan  penyedia jasa  \nTeknologi Informasi sebagaimana dimaksud dalam \nPasal 2 ayat (2) menyebabkan atau diindikasikan akan \nmenyebabkan \nkesulitan \npelaksanaan \ntugas \n\n\n \npengawasan Otoritas Jasa Keuangan, Otoritas Jasa \nKeuangan dapat meminta BPR atau BPRS untuk \nmelakukan upaya perbaikan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR atau BPRS wajib menyampaikan rencana tindak \ndalam \nrangka \nupaya \nperbaikan \nsebagaimana \ndimaksud pada ayat (1) paling lambat 20 (dua puluh) \nhari kerja sejak tanggal permintaan Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (1) \nditerima."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nrangka \npelaksanaan \nrencana \ntindak \nsebagaimana dimaksud pada ayat (2), Otoritas Jasa \nKeuangan memberikan jangka waktu paling lama 6 \n(enam) \nbulan \nkepada \nBPR \natau \nBPRS \nuntuk \nmelakukan upaya perbaikan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nhal \nsetelah \njangka \nwaktu \nsebagaimana \ndimaksud pada ayat (3) BPR atau BPRS tidak dapat \nmelakukan upaya perbaikan, Otoritas Jasa Keuangan \ndapat \nmemerintahkan \nBPR \natau \nBPRS \nuntuk \nmenghentikan kerja sama dengan penyedia jasa \nTeknologi Informasi sebelum berakhirnya jangka \nwaktu perjanjian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI BEKERJASAMA DENGAN PENYEDIA JASA",
+      "teks_lengkap": "(1) \nDalam hal kerja sama dengan penyedia jasa Teknologi \nInformasi sebagaimana dimaksud dalam Pasal 2 ayat \n(2) telah direalisasikan, namun terdapat kondisi \nberupa: \na. \nmemburuknya kinerja penyelenggaraan Teknologi \nInformasi BPR dan BPRS yang disebabkan oleh \npenyedia jasa Teknologi Informasi yang dapat \nberdampak signifikan terhadap kegiatan usaha \nBPR atau BPRS; \nb. \npenyedia jasa Teknologi Informasi mengalami \nkesulitan keuangan yang menyebabkan insolven, \ndalam proses menuju likuidasi, atau dinyatakan \npailit berdasarkan putusan pengadilan;  \n\n\n \nc. \nterdapat \npelanggaran \noleh \npenyedia \njasa \nTeknologi Informasi terhadap kewajiban menjaga \nkeamanan data dan informasi termasuk rahasia \nbank dan data pribadi nasabah; dan/atau \nd. \nterdapat kondisi yang menyebabkan BPR atau \nBPRS \ntidak \ndapat \nmenyediakan \ndata \ndan \ninformasi \nyang \ndiperlukan \ndalam \nrangka \npengawasan oleh Otoritas Jasa Keuangan;  \nmaka BPR dan BPRS wajib melakukan tindakan \ntertentu. \n(2) \nTindakan tertentu sebagaimana dimaksud pada ayat \n(1), paling sedikit:  \na. \nmelaporkan kepada Otoritas Jasa Keuangan \npaling lambat 3 (tiga) hari kerja sejak kondisi \nsebagaimana dimaksud pada ayat (1) diketahui \noleh BPR atau BPRS;  \nb. \nmemutuskan tindak lanjut yang akan diambil \nuntuk \nmengatasi \npermasalahan \ntermasuk \npenghentian kerja sama dengan penyedia jasa \nTeknologi Informasi apabila diperlukan; dan \nc. \nmelaporkan kepada Otoritas Jasa Keuangan \nmengenai keputusan tindak lanjut yang telah \ndan/atau akan diambil, paling lambat  10 \n(sepuluh) hari kerja sejak tanggal laporan kondisi \nsebagaimana dimaksud pada huruf a. \n(3) \nDalam hal BPR dan BPRS memutuskan untuk \nmenghentikan kerja sama dengan penyedia jasa \nTeknologi Informasi sebagaimana dimaksud pada ayat \n(2) huruf b, BPR dan BPRS wajib melaporkan \npenghentian \nkerja \nsama \nkepada \nOtoritas \nJasa \nKeuangan paling lambat 10 (sepuluh) hari kerja sejak \npenghentian kerja sama dimaksud. \n \n \n \n \n \n\n\n \nBAB VI \nPENGAMANAN PENYELENGGARAAN TEKNOLOGI \nINFORMASI, TERMASUK KERAHASIAAN DATA PRIBADI \nNASABAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal kerja sama dengan penyedia jasa Teknologi \nInformasi sebagaimana dimaksud dalam Pasal 2 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "telah direalisasikan, namun terdapat kondisi \nberupa: \na. \nmemburuknya kinerja penyelenggaraan Teknologi \nInformasi BPR dan BPRS yang disebabkan oleh \npenyedia jasa Teknologi Informasi yang dapat \nberdampak signifikan terhadap kegiatan usaha \nBPR atau BPRS; \nb. \npenyedia jasa Teknologi Informasi mengalami \nkesulitan keuangan yang menyebabkan insolven, \ndalam proses menuju likuidasi, atau dinyatakan \npailit berdasarkan putusan pengadilan;  \n\n\n \nc. \nterdapat \npelanggaran \noleh \npenyedia \njasa \nTeknologi Informasi terhadap kewajiban menjaga \nkeamanan data dan informasi termasuk rahasia \nbank dan data pribadi nasabah; dan/atau \nd. \nterdapat kondisi yang menyebabkan BPR atau \nBPRS \ntidak \ndapat \nmenyediakan \ndata \ndan \ninformasi \nyang \ndiperlukan \ndalam \nrangka \npengawasan oleh Otoritas Jasa Keuangan;  \nmaka BPR dan BPRS wajib melakukan tindakan \ntertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tindakan tertentu sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", paling sedikit:  \na. \nmelaporkan kepada Otoritas Jasa Keuangan \npaling lambat 3 (tiga) hari kerja sejak kondisi \nsebagaimana dimaksud pada ayat (1) diketahui \noleh BPR atau BPRS;  \nb. \nmemutuskan tindak lanjut yang akan diambil \nuntuk \nmengatasi \npermasalahan \ntermasuk \npenghentian kerja sama dengan penyedia jasa \nTeknologi Informasi apabila diperlukan; dan \nc. \nmelaporkan kepada Otoritas Jasa Keuangan \nmengenai keputusan tindak lanjut yang telah \ndan/atau akan diambil, paling lambat  10 \n(sepuluh) hari kerja sejak tanggal laporan kondisi \nsebagaimana dimaksud pada huruf a."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal BPR dan BPRS memutuskan untuk \nmenghentikan kerja sama dengan penyedia jasa \nTeknologi Informasi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf b, BPR dan BPRS wajib melaporkan \npenghentian \nkerja \nsama \nkepada \nOtoritas \nJasa \nKeuangan paling lambat 10 (sepuluh) hari kerja sejak \npenghentian kerja sama dimaksud. \n \n \n \n \n \n\n\n \nBAB VI \nPENGAMANAN PENYELENGGARAAN TEKNOLOGI \nINFORMASI, TERMASUK KERAHASIAAN DATA PRIBADI \nNASABAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGAMANAN PENYELENGGARAAN TEKNOLOGI INFORMASI, TERMASUK KERAHASIAAN DATA PRIBADI NASABAH",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menerapkan upaya pengamanan \nyang \ndiperlukan \nuntuk \nmencegah \ngangguan \nkeamanan dalam penyelenggaraan Teknologi Informasi \nyang berpotensi merugikan BPR, BPRS dan/atau \nnasabahnya. \n(2) \nDalam \nrangka \nmenerapkan \nupaya \npengamanan \nsebagaimana dimaksud pada ayat (1), BPR dan BPRS \nwajib menjaga kerahasiaan (confidentiality), integritas \n(integrity), \nketersediaan \n(availability), \ndan \ndapat \nditelusurinya suatu informasi elektronik dan/atau \ndokumen elektronik yang terkait dengan nasabah dan \nseluruh aktivitas BPR atau BPRS sesuai dengan \nketentuan peraturan perundang-undangan. \n(3) \nBPR \ndan \nBPRS \nwajib \nmelakukan \npengendalian \notorisasi \n(authorization \nof \ncontrol) \ndalam \npenyelenggaraan Teknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menerapkan upaya pengamanan \nyang \ndiperlukan \nuntuk \nmencegah \ngangguan \nkeamanan dalam penyelenggaraan Teknologi Informasi \nyang berpotensi merugikan BPR, BPRS dan/atau \nnasabahnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nrangka \nmenerapkan \nupaya \npengamanan \nsebagaimana dimaksud pada ayat (1), BPR dan BPRS \nwajib menjaga kerahasiaan (confidentiality), integritas \n(integrity), \nketersediaan \n(availability), \ndan \ndapat \nditelusurinya suatu informasi elektronik dan/atau \ndokumen elektronik yang terkait dengan nasabah dan \nseluruh aktivitas BPR atau BPRS sesuai dengan \nketentuan peraturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR \ndan \nBPRS \nwajib \nmelakukan \npengendalian \notorisasi \n(authorization \nof \ncontrol) \ndalam \npenyelenggaraan Teknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGAMANAN PENYELENGGARAAN TEKNOLOGI INFORMASI, TERMASUK KERAHASIAAN DATA PRIBADI NASABAH",
+      "teks_lengkap": "Dalam menyelenggarakan Teknologi Informasi, BPR dan \nBPRS wajib: \na. \nmenjamin \nperolehan, \npenggunaan, \npemanfaatan, \ndan/atau \npengungkapan \ndata \npribadi \nnasabah \ndilakukan berdasarkan persetujuan nasabah yang \nbersangkutan, kecuali ditentukan lain oleh ketentuan \nperaturan perundang-undangan; dan \nb. \nmenjamin penggunaan atau pengungkapan data \npribadi nasabah dilakukan berdasarkan persetujuan \nnasabah  yang bersangkutan dan sesuai dengan \ntujuan yang disampaikan kepada nasabah pada saat \nperolehan data. \n \n\n\n \nBAB VII \nFUNGSI AUDIT INTERN PENYELENGGARAAN TEKNOLOGI \nINFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam menyelenggarakan Teknologi Informasi, BPR dan \nBPRS wajib: \na. \nmenjamin \nperolehan, \npenggunaan, \npemanfaatan, \ndan/atau \npengungkapan \ndata \npribadi \nnasabah \ndilakukan berdasarkan persetujuan nasabah yang \nbersangkutan, kecuali ditentukan lain oleh ketentuan \nperaturan perundang-undangan; dan \nb. \nmenjamin penggunaan atau pengungkapan data \npribadi nasabah dilakukan berdasarkan persetujuan \nnasabah  yang bersangkutan dan sesuai dengan \ntujuan yang disampaikan kepada nasabah pada saat \nperolehan data. \n \n\n\n \nBAB VII \nFUNGSI AUDIT INTERN PENYELENGGARAAN TEKNOLOGI \nINFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "FUNGSI AUDIT INTERN PENYELENGGARAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib melaksanakan fungsi audit \nintern terhadap penyelenggaraan Teknologi Informasi \nsesuai \ndengan \nketentuan \nperaturan \nperundang-\nundangan. \n(2) \nFungsi audit intern sebagaimana dimaksud pada ayat \n(1) wajib dilaksanakan secara berkala paling sedikit 1 \n(satu) kali dalam 1 (satu) tahun sebagai bagian dari \npelaksanaan audit intern atau dilaksanakan terpisah \ndari audit intern. \n(3) \nDalam \nrangka \npelaksanaan \nfungsi \naudit \nintern \nsebagaimana dimaksud pada ayat (1), BPR dan BPRS \nwajib memastikan tersedianya jejak audit (audit trail) \nterhadap seluruh kegiatan penyelenggaraan Teknologi \nInformasi untuk keperluan pengawasan, penegakan \nhukum, penyelesaian sengketa, verifikasi, pengujian, \ndan pemeriksaan lainnya. \n(4) \nPelaksanaan \nfungsi \naudit \nintern \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh auditor \nekstern. \n(5) \nKetentuan lebih lanjut terkait dengan pelaksanaan \nfungsi audit intern sebagaimana dimaksud pada ayat \n(1) \ndiatur \ndalam \nSurat \nEdaran \nOtoritas \nJasa \nKeuangan. \n \nBAB VIII \nLAPORAN \nBagian Kesatu  \nLaporan Rutin",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib melaksanakan fungsi audit \nintern terhadap penyelenggaraan Teknologi Informasi \nsesuai \ndengan \nketentuan \nperaturan \nperundang-\nundangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Fungsi audit intern sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "wajib dilaksanakan secara berkala paling sedikit 1 \n(satu) kali dalam 1 (satu) tahun sebagai bagian dari \npelaksanaan audit intern atau dilaksanakan terpisah \ndari audit intern."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nrangka \npelaksanaan \nfungsi \naudit \nintern \nsebagaimana dimaksud pada ayat (1), BPR dan BPRS \nwajib memastikan tersedianya jejak audit (audit trail) \nterhadap seluruh kegiatan penyelenggaraan Teknologi \nInformasi untuk keperluan pengawasan, penegakan \nhukum, penyelesaian sengketa, verifikasi, pengujian, \ndan pemeriksaan lainnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pelaksanaan \nfungsi \naudit \nintern \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh auditor \nekstern."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut terkait dengan pelaksanaan \nfungsi audit intern sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "diatur \ndalam \nSurat \nEdaran \nOtoritas \nJasa \nKeuangan. \n \nBAB VIII \nLAPORAN \nBagian Kesatu  \nLaporan Rutin"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menyampaikan laporan kepada \nOtoritas Jasa Keuangan mengenai pelaksanaan fungsi \n\n\n \naudit intern sebagaimana dimaksud dalam Pasal 22 \nayat (1).  \n(2) \nJangka waktu penyampaian laporan pelaksanaan \nfungsi audit intern sebagaimana dimaksud pada ayat \n(1): \na. \nbagi \nBPR, \nmengacu \npada \njangka \nwaktu \npenyampaian laporan pelaksanaan dan pokok-\npokok hasil audit intern sebagaimana diatur \ndalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai Penerapan Tata Kelola bagi BPR; dan \nb. \nbagi BPRS, disampaikan paling lambat pada \ntanggal \nJanuari \nuntuk \naudit \nyang \ndilaksanakan \natas \nperiode \nakhir \ntahun \nsebelumnya. \n(3) \nDalam hal tanggal 31 Januari sebagaimana dimaksud \npada ayat (2) huruf b jatuh pada hari Sabtu, Minggu, \natau \nhari \nlibur \nnasional \nmaka \nlaporan \nwajib \ndisampaikan \npaling \nlambat \npada \nhari \nkerja \nberikutnya. \n \nBagian Kedua \nLaporan Insidentil",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menyampaikan laporan kepada \nOtoritas Jasa Keuangan mengenai pelaksanaan fungsi \n\n\n \naudit intern sebagaimana dimaksud dalam Pasal 22 \nayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu penyampaian laporan pelaksanaan \nfungsi audit intern sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ": \na. \nbagi \nBPR, \nmengacu \npada \njangka \nwaktu \npenyampaian laporan pelaksanaan dan pokok-\npokok hasil audit intern sebagaimana diatur \ndalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai Penerapan Tata Kelola bagi BPR; dan \nb. \nbagi BPRS, disampaikan paling lambat pada \ntanggal \nJanuari \nuntuk \naudit \nyang \ndilaksanakan \natas \nperiode \nakhir \ntahun \nsebelumnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal tanggal 31 Januari sebagaimana dimaksud \npada ayat (2) huruf b jatuh pada hari Sabtu, Minggu, \natau \nhari \nlibur \nnasional \nmaka \nlaporan \nwajib \ndisampaikan \npaling \nlambat \npada \nhari \nkerja \nberikutnya. \n \nBagian Kedua \nLaporan Insidentil"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "BPR dan BPRS wajib menyampaikan laporan kepada \nOtoritas \nJasa \nKeuangan \nmengenai \nkondisi \nterkini \npenyelenggaraan Teknologi Informasi BPR atau BPRS: \na. \npaling lambat 1 (satu) tahun sejak Peraturan Otoritas \nJasa Keuangan ini berlaku; dan \nb. \npaling lambat 10 (sepuluh) hari kerja sejak Teknologi \nInformasi efektif beroperasi dalam hal jangka waktu \nsebagaimana dimaksud pada huruf a terlampaui dan \nterjadi perubahan mendasar dalam penyelenggaraan \nTeknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS wajib menyampaikan laporan kepada \nOtoritas \nJasa \nKeuangan \nmengenai \nkondisi \nterkini \npenyelenggaraan Teknologi Informasi BPR atau BPRS: \na. \npaling lambat 1 (satu) tahun sejak Peraturan Otoritas \nJasa Keuangan ini berlaku; dan \nb. \npaling lambat 10 (sepuluh) hari kerja sejak Teknologi \nInformasi efektif beroperasi dalam hal jangka waktu \nsebagaimana dimaksud pada huruf a terlampaui dan \nterjadi perubahan mendasar dalam penyelenggaraan \nTeknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "BPR dan BPRS wajib menyampaikan laporan realisasi kerja \nsama \ndengan \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2) paling \nlambat 10 (sepuluh) hari kerja sejak penyelenggaraan \nTeknologi Informasi BPR atau BPRS oleh penyedia jasa \nTeknologi Informasi efektif beroperasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS wajib menyampaikan laporan realisasi kerja \nsama \ndengan \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2) paling \nlambat 10 (sepuluh) hari kerja sejak penyelenggaraan \nTeknologi Informasi BPR atau BPRS oleh penyedia jasa \nTeknologi Informasi efektif beroperasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib melaporkan kepada Otoritas \nJasa \nKeuangan \nmengenai \nkejadian \nkritis, \npenyalahgunaan, \ndan/atau \nkejahatan \ndalam \npenyelenggaraan Teknologi Informasi yang dapat atau \ntelah \nmengakibatkan \nkerugian \nkeuangan \nyang \nsignifikan \ndan/atau \nmengganggu \nkelancaran \noperasional BPR atau BPRS. \n(2) \nLaporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan melalui surat elektronik (e-mail) atau \ntelepon paling lambat 1 (satu) hari setelah kejadian \nkritis, penyalahgunaan dan/atau kejahatan diketahui, \nyang diikuti dengan laporan tertulis paling lambat 7 \n(tujuh) \nhari \nkerja \nsejak \nkejadian \nkritis, \npenyalahgunaan dan/atau kejahatan diketahui. \n \nBAB IX \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib melaporkan kepada Otoritas \nJasa \nKeuangan \nmengenai \nkejadian \nkritis, \npenyalahgunaan, \ndan/atau \nkejahatan \ndalam \npenyelenggaraan Teknologi Informasi yang dapat atau \ntelah \nmengakibatkan \nkerugian \nkeuangan \nyang \nsignifikan \ndan/atau \nmengganggu \nkelancaran \noperasional BPR atau BPRS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan melalui surat elektronik (e-mail) atau \ntelepon paling lambat 1 (satu) hari setelah kejadian \nkritis, penyalahgunaan dan/atau kejahatan diketahui, \nyang diikuti dengan laporan tertulis paling lambat 7 \n(tujuh) \nhari \nkerja \nsejak \nkejadian \nkritis, \npenyalahgunaan dan/atau kejahatan diketahui. \n \nBAB IX \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Pelanggaran terhadap ketentuan Pasal 2 ayat (1), Pasal 3, \nPasal 4, Pasal 5 ayat (1), Pasal 6 ayat (4), Pasal 7, Pasal 8, \nPasal 9, Pasal 12 ayat (1), Pasal 13 ayat (1), Pasal 14 ayat \n(1),  Pasal 14 ayat (3), Pasal 14  ayat (4), Pasal 15, Pasal 16, \nPasal  17 ayat (1), Pasal 17 ayat (2), Pasal 17 ayat (3), Pasal \n17 ayat (4), Pasal 18 ayat (2), Pasal 19 ayat (1), Pasal 19 \nayat (3), Pasal 20, Pasal 21, Pasal 22 ayat (1), Pasal 22 ayat \n(2), dan/atau Pasal 22 ayat (3) dikenakan sanksi \nadministratif berupa:   \n\n\n \na. \nteguran tertulis; \nb. \npenurunan peringkat tingkat kesehatan; \nc. \nlarangan pembukaan jaringan kantor; \nd. \npenghentian sementara sebagian kegiatan usaha BPR \ndan BPRS; dan/atau \ne. \npencantuman pengurus BPR atau BPRS dalam daftar \npihak-pihak yang memperoleh predikat tidak lulus \nmelalui mekanisme uji kemampuan dan kepatutan \nBPR dan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": ",  Pasal 14 ayat (3), Pasal 14  ayat (4), Pasal 15, Pasal 16, \nPasal  17 ayat (1), Pasal 17 ayat (2), Pasal 17 ayat (3), Pasal \n17 ayat (4), Pasal 18 ayat (2), Pasal 19 ayat (1), Pasal 19 \nayat (3), Pasal 20, Pasal 21, Pasal 22 ayat (1), Pasal 22 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": ", dan/atau Pasal 22 ayat (3) dikenakan sanksi \nadministratif berupa:   \n\n\n \na. \nteguran tertulis; \nb. \npenurunan peringkat tingkat kesehatan; \nc. \nlarangan pembukaan jaringan kantor; \nd. \npenghentian sementara sebagian kegiatan usaha BPR \ndan BPRS; dan/atau \ne. \npencantuman pengurus BPR atau BPRS dalam daftar \npihak-pihak yang memperoleh predikat tidak lulus \nmelalui mekanisme uji kemampuan dan kepatutan \nBPR dan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBPR dan BPRS yang terlambat menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 23 ayat (1), Pasal \n23 ayat (3), Pasal 24, Pasal 25, dan/atau Pasal 26 ayat \n(2) dikenakan sanksi administratif berupa teguran \ntertulis \ndan \nkewajiban \nmembayar \nsebesar \nRp100.000,00 (seratus ribu rupiah) per hari kerja \nketerlambatan \ndengan \njumlah \npaling \nbanyak \nRp2.000.000,00 (dua juta rupiah). \n(2) \nBPR dan BPRS dinyatakan terlambat menyampaikan \nlaporan sebagaimana dimaksud pada ayat (1) apabila \nOtoritas Jasa Keuangan menerima laporan yang \ndisampaikan oleh BPR atau BPRS dalam jangka waktu \npaling lambat 20 (dua puluh) hari kerja setelah batas \nakhir \nwaktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud dalam Pasal 23 ayat (1), Pasal 23 ayat (3), \nPasal 24, Pasal 25 dan/atau Pasal 26 ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS yang terlambat menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 23 ayat (1), Pasal \n23 ayat (3), Pasal 24, Pasal 25, dan/atau Pasal 26 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dikenakan sanksi administratif berupa teguran \ntertulis \ndan \nkewajiban \nmembayar \nsebesar \nRp100.000,00 (seratus ribu rupiah) per hari kerja \nketerlambatan \ndengan \njumlah \npaling \nbanyak \nRp2.000.000,00 (dua juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS dinyatakan terlambat menyampaikan \nlaporan sebagaimana dimaksud pada ayat (1) apabila \nOtoritas Jasa Keuangan menerima laporan yang \ndisampaikan oleh BPR atau BPRS dalam jangka waktu \npaling lambat 20 (dua puluh) hari kerja setelah batas \nakhir \nwaktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud dalam Pasal 23 ayat (1), Pasal 23 ayat (3), \nPasal 24, Pasal 25 dan/atau Pasal 26 ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBPR dan BPRS yang tidak menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 23 ayat (1), Pasal \n23 ayat (3), Pasal  24, Pasal 25 dan/atau Pasal 26 ayat \n(2) dikenakan sanksi berupa kewajiban membayar \nsebesar Rp5.000.000,00 (lima juta rupiah). \n(2) \nBPR dan BPRS dinyatakan tidak menyampaikan \nlaporan sebagaimana dimaksud dalam pada ayat (1) \napabila Otoritas Jasa Keuangan tidak menerima \n\n\n \nlaporan dari BPR atau BPRS dalam jangka waktu 20 \n(dua puluh) hari kerja setelah batas akhir waktu \npenyampaian laporan sebagaimana dimaksud dalam \nPasal 23 ayat (1), Pasal 23 ayat (3), Pasal 24, Pasal 25 \ndan/atau Pasal 26 ayat (2). \n(3) \nBPR dan BPRS yang dikenakan sanksi sebagaimana \ndimaksud pada ayat (1) tetap wajib menyampaikan \nlaporan sebagaimana dimaksud dalam Pasal 23  ayat \n(1), Pasal 23 ayat (3), Pasal 24, Pasal 25 dan/atau \nPasal 26 ayat (2). \n \nBAB X \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS yang tidak menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 23 ayat (1), Pasal \n23 ayat (3), Pasal  24, Pasal 25 dan/atau Pasal 26 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dikenakan sanksi berupa kewajiban membayar \nsebesar Rp5.000.000,00 (lima juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS dinyatakan tidak menyampaikan \nlaporan sebagaimana dimaksud dalam pada ayat (1) \napabila Otoritas Jasa Keuangan tidak menerima \n\n\n \nlaporan dari BPR atau BPRS dalam jangka waktu 20 \n(dua puluh) hari kerja setelah batas akhir waktu \npenyampaian laporan sebagaimana dimaksud dalam \nPasal 23 ayat (1), Pasal 23 ayat (3), Pasal 24, Pasal 25 \ndan/atau Pasal 26 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS yang dikenakan sanksi sebagaimana \ndimaksud pada ayat (1) tetap wajib menyampaikan \nlaporan sebagaimana dimaksud dalam Pasal 23  ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Pasal 23 ayat (3), Pasal 24, Pasal 25 dan/atau \nPasal 26 ayat (2). \n \nBAB X \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nBPR dan BPRS yang telah memperoleh izin usaha \npada saat POJK ini diundangkan wajib memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 2 ayat \n(1), Pasal 3, Pasal 4, Pasal 5 ayat (1), Pasal 6 ayat (2), \nPasal 8, Pasal 9, Pasal 12 ayat (1), Pasal 13 ayat (1), \nPasal 14 ayat (1), Pasal  14 ayat (3), Pasal 14 ayat (4), \nPasal 16, Pasal 22 ayat (1), Pasal 22 ayat (2), Pasal 22 \nayat (3), Pasal 23 ayat (1) dan Pasal 23 ayat (3) paling \nlambat 3 (tiga) tahun sejak Peraturan Otoritas Jasa \nKeuangan ini berlaku. \n(2) \nBPR dan BPRS dalam proses pendirian dan belum \nmemperoleh izin usaha dari Otoritas Jasa Keuangan \nwajib memenuhi seluruh ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini pada saat pelaksanaan \nkegiatan operasional.  \n \n \n \n \n \n \n \n\n\n \nBAB XI \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS yang telah memperoleh izin usaha \npada saat POJK ini diundangkan wajib memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 2 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Pasal 3, Pasal 4, Pasal 5 ayat (1), Pasal 6 ayat (2), \nPasal 8, Pasal 9, Pasal 12 ayat (1), Pasal 13 ayat (1), \nPasal 14 ayat (1), Pasal  14 ayat (3), Pasal 14 ayat (4), \nPasal 16, Pasal 22 ayat (1), Pasal 22 ayat (2), Pasal 22 \nayat (3), Pasal 23 ayat (1) dan Pasal 23 ayat (3) paling \nlambat 3 (tiga) tahun sejak Peraturan Otoritas Jasa \nKeuangan ini berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS dalam proses pendirian dan belum \nmemperoleh izin usaha dari Otoritas Jasa Keuangan \nwajib memenuhi seluruh ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini pada saat pelaksanaan \nkegiatan operasional.  \n \n \n \n \n \n \n \n\n\n \nBAB XI \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Standar Penyelenggaraan \nTeknologi Informasi bagi BPR atau BPRS diatur dalam \nSurat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Standar Penyelenggaraan \nTeknologi Informasi bagi BPR atau BPRS diatur dalam \nSurat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Dengan berlakunya Peraturan Otoritas Jasa Keuangan ini \nmaka: \na. \nSurat Keputusan Direksi Bank Indonesia Nomor \n27/164/KEP/DIR dan Surat Edaran Bank Indonesia \nNomor 27/9/UPPB masing-masing tanggal 31 Maret \n1995 tentang Penggunaan Teknologi Sistem Informasi \noleh Bank; dan \nb. \nSurat Keputusan Direksi Bank Indonesia Nomor \n31/175/KEP/DIR dan Surat Edaran Bank Indonesia \nNomor 31/14/UPPB tanggal 22 Desember 1998 \ntentang Penyempurnaan Teknologi Sistem Informasi \nBank dalam Menghadapi Tahun 2000, \ndicabut dan dinyatakan tidak berlaku sejak Peraturan \nOtoritas Jasa Keuangan ini diberlakukan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dengan berlakunya Peraturan Otoritas Jasa Keuangan ini \nmaka: \na. \nSurat Keputusan Direksi Bank Indonesia Nomor \n27/164/KEP/DIR dan Surat Edaran Bank Indonesia \nNomor 27/9/UPPB masing-masing tanggal 31 Maret \n1995 tentang Penggunaan Teknologi Sistem Informasi \noleh Bank; dan \nb. \nSurat Keputusan Direksi Bank Indonesia Nomor \n31/175/KEP/DIR dan Surat Edaran Bank Indonesia \nNomor 31/14/UPPB tanggal 22 Desember 1998 \ntentang Penyempurnaan Teknologi Sistem Informasi \nBank dalam Menghadapi Tahun 2000, \ndicabut dan dinyatakan tidak berlaku sejak Peraturan \nOtoritas Jasa Keuangan ini diberlakukan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \n \nDitetapkan di Jakarta \npada tanggal  23 Desember 2016 \n \nKETUA \nDEWAN \nKOMISIONER \nOTORITAS JASA KEUANGAN, \n \n           ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal  28 Desember  2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 308 \n \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \n\n\n \n \n \n \n \n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  75 /POJK.03/2016 \nTENTANG \nSTANDAR PENYELENGGARAAN TEKNOLOGI INFORMASI BAGI  \nBANK PERKREDITAN RAKYAT DAN BANK PEMBIAYAAN RAKYAT SYARIAH \n \n \nI. \nUMUM \nPeran Teknologi Informasi bagi industri  perbankan, termasuk \nBPR dan BPRS, sangat penting serta tidak dapat dipisahkan dari \noperasional perbankan  dalam melayani masyarakat pengguna jasa \nperbankan.   \nPenyelenggaraan Teknologi Informasi dapat meningkatkan \nefektivitas dan efisiensi operasional BPR dan BPRS. Penyelenggaraan \nTeknologi Informasi oleh BPR dan BPRS juga diharapkan dapat \nmendukung penyelenggaraan sistem informasi manajemen secara \nmemadai, termasuk dalam memenuhi kewajiban pelaporan kepada \notoritas. \nSelain dampak positif tersebut, penyelenggaraan Teknologi \nInformasi oleh BPR dan BPRS juga mengandung potensi risiko yang \ndapat merugikan bank dan masyarakat pengguna jasa perbankan. Oleh \nkarena itu, BPR dan BPRS harus melaksanakan pengendalian dan \npengamanan Teknologi Informasi untuk meminimalisasi segala potensi \nrisiko yang muncul. \nPerkembangan Teknologi Informasi di industri perbankan \nbergerak dinamis mengikuti perubahan lingkungan bisnis bank dan \nkebutuhan nasabah terhadap produk dan layanan perbankan berbasis \nTeknologi Informasi. Kondisi tersebut memicu perubahan pada pola \n\n\n \npenyelenggaraan Teknologi Informasi oleh BPR dan BPRS, baik yang \ndiselenggarakan sendiri maupun bekerjasama dengan penyedia jasa \nTeknologi Informasi. Dalam hal menggunakan penyedia jasa Teknologi \nInformasi, diperlukan kejelasan peran masing-masing dalam rangka \nmencapai keberhasilan yang optimal dalam penyelenggaraan Teknologi \nInformasi. \nPenyelenggaraan Teknologi Informasi oleh BPR dan BPRS yang \nmeliputi perencanaan, pengembangan dan pengadaan, pengoperasian, \nserta pemeliharaan Teknologi Informasi merupakan tanggung jawab \nDireksi dan Dewan Komisaris.  Oleh karena itu, Direksi dan Dewan \nKomisaris \nharus memastikan bahwa penyelenggaraan Teknologi \nInformasi  sejalan  dengan pencapaian visi dan misi BPR dan BPRS \nyang bersangkutan. Dalam rangka mewujudkan penyelenggaraan \nTeknologi Informasi yang efektif dan efisien, pihak manajemen harus \nmelibatkan seluruh jenjang organisasi BPR dan BPRS.  \nKetentuan \nmengenai \nStandar \nPenyelenggaraan \nTeknologi \nInformasi bagi BPR dan BPRS ini diharapkan dapat menjadi pedoman \nbagi BPR dan BPRS serta pihak yang berkepentingan dalam \npenyelenggaraan Teknologi Informasi. Kepatuhan BPR dan BPRS \nterhadap ketentuan ini diharapkan dapat membangun kesadaran dan \npemahaman yang memadai dari seluruh jenjang organisasi terhadap \nperan Teknologi Informasi dalam mendukung operasional BPR dan \nBPRS. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \n \nDitetapkan di Jakarta \npada tanggal  23 Desember 2016 \n \nKETUA \nDEWAN \nKOMISIONER \nOTORITAS JASA KEUANGAN, \n \n           ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal  28 Desember  2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 308 \n \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \n\n\n \n \n \n \n \n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  75 /POJK.03/2016 \nTENTANG \nSTANDAR PENYELENGGARAAN TEKNOLOGI INFORMASI BAGI  \nBANK PERKREDITAN RAKYAT DAN BANK PEMBIAYAAN RAKYAT SYARIAH \n \n \nI. \nUMUM \nPeran Teknologi Informasi bagi industri  perbankan, termasuk \nBPR dan BPRS, sangat penting serta tidak dapat dipisahkan dari \noperasional perbankan  dalam melayani masyarakat pengguna jasa \nperbankan.   \nPenyelenggaraan Teknologi Informasi dapat meningkatkan \nefektivitas dan efisiensi operasional BPR dan BPRS. Penyelenggaraan \nTeknologi Informasi oleh BPR dan BPRS juga diharapkan dapat \nmendukung penyelenggaraan sistem informasi manajemen secara \nmemadai, termasuk dalam memenuhi kewajiban pelaporan kepada \notoritas. \nSelain dampak positif tersebut, penyelenggaraan Teknologi \nInformasi oleh BPR dan BPRS juga mengandung potensi risiko yang \ndapat merugikan bank dan masyarakat pengguna jasa perbankan. Oleh \nkarena itu, BPR dan BPRS harus melaksanakan pengendalian dan \npengamanan Teknologi Informasi untuk meminimalisasi segala potensi \nrisiko yang muncul. \nPerkembangan Teknologi Informasi di industri perbankan \nbergerak dinamis mengikuti perubahan lingkungan bisnis bank dan \nkebutuhan nasabah terhadap produk dan layanan perbankan berbasis \nTeknologi Informasi. Kondisi tersebut memicu perubahan pada pola \n\n\n \npenyelenggaraan Teknologi Informasi oleh BPR dan BPRS, baik yang \ndiselenggarakan sendiri maupun bekerjasama dengan penyedia jasa \nTeknologi Informasi. Dalam hal menggunakan penyedia jasa Teknologi \nInformasi, diperlukan kejelasan peran masing-masing dalam rangka \nmencapai keberhasilan yang optimal dalam penyelenggaraan Teknologi \nInformasi. \nPenyelenggaraan Teknologi Informasi oleh BPR dan BPRS yang \nmeliputi perencanaan, pengembangan dan pengadaan, pengoperasian, \nserta pemeliharaan Teknologi Informasi merupakan tanggung jawab \nDireksi dan Dewan Komisaris.  Oleh karena itu, Direksi dan Dewan \nKomisaris \nharus memastikan bahwa penyelenggaraan Teknologi \nInformasi  sejalan  dengan pencapaian visi dan misi BPR dan BPRS \nyang bersangkutan. Dalam rangka mewujudkan penyelenggaraan \nTeknologi Informasi yang efektif dan efisien, pihak manajemen harus \nmelibatkan seluruh jenjang organisasi BPR dan BPRS.  \nKetentuan \nmengenai \nStandar \nPenyelenggaraan \nTeknologi \nInformasi bagi BPR dan BPRS ini diharapkan dapat menjadi pedoman \nbagi BPR dan BPRS serta pihak yang berkepentingan dalam \npenyelenggaraan Teknologi Informasi. Kepatuhan BPR dan BPRS \nterhadap ketentuan ini diharapkan dapat membangun kesadaran dan \npemahaman yang memadai dari seluruh jenjang organisasi terhadap \nperan Teknologi Informasi dalam mendukung operasional BPR dan \nBPRS. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “bekerjasama dengan penyedia jasa \nTeknologi Informasi” adalah kerja sama dengan pihak lain \ndalam penyelenggaraan Teknologi Informasi BPR atau BPRS \nsecara berkesinambungan dan/atau dalam periode tertentu. \n\n\n \nAyat (3)  \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nTermasuk dalam penyelenggaraan Teknologi Informasi \nlainnya antara lain kerjasama switching. \nContoh: BPR atau BPRS yang bertindak sebagai penerbit \nkartu ATM atau kartu debet akan melakukan kerja sama \ndengan perusahaan switching untuk bergabung dalam \njaringan bersama ATM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “bekerjasama dengan penyedia jasa \nTeknologi Informasi” adalah kerja sama dengan pihak lain \ndalam penyelenggaraan Teknologi Informasi BPR atau BPRS \nsecara berkesinambungan dan/atau dalam periode tertentu. \n\n\n \nAyat (3)  \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nTermasuk dalam penyelenggaraan Teknologi Informasi \nlainnya antara lain kerjasama switching. \nContoh: BPR atau BPRS yang bertindak sebagai penerbit \nkartu ATM atau kartu debet akan melakukan kerja sama \ndengan perusahaan switching untuk bergabung dalam \njaringan bersama ATM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “karakteristik risiko” antara lain \nhuru-hara dan bencana alam seperti gempa bumi, banjir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “karakteristik risiko” antara lain \nhuru-hara dan bencana alam seperti gempa bumi, banjir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nHuruf a \nYang dimaksud dengan “rekam cadang” adalah proses \nmembuat data cadangan dengan cara menyalin atau \nmembuat arsip data komputer dalam media penyimpan \nelektronik, termasuk namun tidak terbatas pada media \npenyimpan seperti hardisk, flashdisk, dan/atau compact \ndisk, sehingga data tersebut dapat ditampilkan kembali. \nMedia penyimpan tidak termasuk media penyimpan \nonline publik. \nRekam cadang bertujuan untuk mengembalikan data \napabila data tersebut hilang, baik karena terhapus atau \nrusak (corrupt), serta untuk mengembalikan data ke \nposisi tertentu. \n\n\n \n \n \nHuruf b \nYang dimaksud installer Aplikasi Inti Perbankan yaitu \nperangkat lunak yang dapat dilakukan install kembali \napabila diperlukan. \nAyat (2)  \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nHuruf a \nYang dimaksud dengan “rekam cadang” adalah proses \nmembuat data cadangan dengan cara menyalin atau \nmembuat arsip data komputer dalam media penyimpan \nelektronik, termasuk namun tidak terbatas pada media \npenyimpan seperti hardisk, flashdisk, dan/atau compact \ndisk, sehingga data tersebut dapat ditampilkan kembali. \nMedia penyimpan tidak termasuk media penyimpan \nonline publik. \nRekam cadang bertujuan untuk mengembalikan data \napabila data tersebut hilang, baik karena terhapus atau \nrusak (corrupt), serta untuk mengembalikan data ke \nposisi tertentu. \n\n\n \n \n \nHuruf b \nYang dimaksud installer Aplikasi Inti Perbankan yaitu \nperangkat lunak yang dapat dilakukan install kembali \napabila diperlukan. \nAyat (2)  \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nHuruf a \nTermasuk \ndalam \nketentuan \nperaturan \nperundang-\nundangan bagi BPR dan BPRS antara lain ketentuan \nperaturan \nperundang-undangan \nmengenai \nkualitas \naktiva produktif dan penyisihan penghapusan aktiva \nproduktif, batas maksimum pemberian kredit, batas \nmaksimum penyaluran dana, standar akuntansi, dan \npelaporan. \nHuruf b \nKetentuan mengenai layanan perbankan elektronik \ndan/atau kegiatan sebagai penerbit kartu ATM mengacu \npada \nketentuan \nperaturan \nperundang-undangan \nmengenai kegiatan usaha dan wilayah jaringan kantor \nBPR berdasarkan modal inti bagi BPR, dan ketentuan \nperaturan perundang-undangan mengenai produk dan \naktivitas bagi BPRS. \nHuruf c \nTermasuk data dan informasi yang digunakan dalam \npenyusunan laporan untuk kebutuhan ekstern adalah \nlaporan yang disampaikan BPR dan BPRS kepada \notoritas antara lain laporan bulanan, laporan batas \nmaksimum \npemberian \nkredit \natau \nlaporan \nbatas \nmaksimum \npenyaluran \ndana, \nlaporan \nkeuangan \npublikasi, dan rencana bisnis BPR dan BPRS serta \n\n\n \nlaporan \nsistem \ninformasi \ndebitur/sistem \nlayanan \ninformasi keuangan bagi BPR dan BPRS pelapor.  \n \n \nHuruf d \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “profil nasabah secara terpadu” \nadalah data profil nasabah yang meliputi seluruh rekening \nyang dimiliki oleh satu nasabah pada suatu BPR dan BPRS \nantara lain tabungan, deposito, dan kredit atau pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nHuruf a \nTermasuk \ndalam \nketentuan \nperaturan \nperundang-\nundangan bagi BPR dan BPRS antara lain ketentuan \nperaturan \nperundang-undangan \nmengenai \nkualitas \naktiva produktif dan penyisihan penghapusan aktiva \nproduktif, batas maksimum pemberian kredit, batas \nmaksimum penyaluran dana, standar akuntansi, dan \npelaporan. \nHuruf b \nKetentuan mengenai layanan perbankan elektronik \ndan/atau kegiatan sebagai penerbit kartu ATM mengacu \npada \nketentuan \nperaturan \nperundang-undangan \nmengenai kegiatan usaha dan wilayah jaringan kantor \nBPR berdasarkan modal inti bagi BPR, dan ketentuan \nperaturan perundang-undangan mengenai produk dan \naktivitas bagi BPRS. \nHuruf c \nTermasuk data dan informasi yang digunakan dalam \npenyusunan laporan untuk kebutuhan ekstern adalah \nlaporan yang disampaikan BPR dan BPRS kepada \notoritas antara lain laporan bulanan, laporan batas \nmaksimum \npemberian \nkredit \natau \nlaporan \nbatas \nmaksimum \npenyaluran \ndana, \nlaporan \nkeuangan \npublikasi, dan rencana bisnis BPR dan BPRS serta \n\n\n \nlaporan \nsistem \ninformasi \ndebitur/sistem \nlayanan \ninformasi keuangan bagi BPR dan BPRS pelapor.  \n \n \nHuruf d \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “profil nasabah secara terpadu” \nadalah data profil nasabah yang meliputi seluruh rekening \nyang dimiliki oleh satu nasabah pada suatu BPR dan BPRS \nantara lain tabungan, deposito, dan kredit atau pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang \ndimaksud \ndengan \n“sumber \ndaya \nmanusia \nyang \nkompeten di bidang Teknologi Informasi” adalah seseorang \nyang memiliki keahlian khusus di bidang Teknologi Informasi \nsebagaimana dibuktikan dengan sertifikat keahlian, surat \nketerangan pengalaman, dan/atau ijazah pendidikan sesuai \ndengan keperluan penyelenggaraan Teknologi Informasi.  \nAyat (4) \n \nCukup jelas. \n \nAyat (5)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang \ndimaksud \ndengan \n“sumber \ndaya \nmanusia \nyang \nkompeten di bidang Teknologi Informasi” adalah seseorang \nyang memiliki keahlian khusus di bidang Teknologi Informasi \nsebagaimana dibuktikan dengan sertifikat keahlian, surat \nketerangan pengalaman, dan/atau ijazah pendidikan sesuai \ndengan keperluan penyelenggaraan Teknologi Informasi.  \nAyat (4) \n \nCukup jelas. \n \nAyat (5)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “kegiatan penyediaan jasa Teknologi \nInformasi” adalah penyediaan infrastruktur Teknologi Informasi \ndalam bentuk hardware, software, dan/atau fasilitas pendukung \nTeknologi Informasi, antara lain Pusat Data, Pusat Pemulihan \nBencana, jaringan  komunikasi, dan/atau perangkat elektronik \nlainnya yang tidak terkait dengan kegiatan usaha penghimpunan \ndan penyaluran dana oleh BPR dan  BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “kegiatan penyediaan jasa Teknologi \nInformasi” adalah penyediaan infrastruktur Teknologi Informasi \ndalam bentuk hardware, software, dan/atau fasilitas pendukung \nTeknologi Informasi, antara lain Pusat Data, Pusat Pemulihan \nBencana, jaringan  komunikasi, dan/atau perangkat elektronik \nlainnya yang tidak terkait dengan kegiatan usaha penghimpunan \ndan penyaluran dana oleh BPR dan  BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “pengembangan Teknologi Informasi” \nadalah proses pengembangan sistem teknologi informasi baru \ntermasuk penggantian atau perbaikan sistem teknologi yang \ntelah ada, baik dilakukan secara mandiri oleh BPR atau BPRS \nmaupun \nbekerjasama \ndengan \npenyedia \njasa \nTeknologi \nInformasi. \nYang dimaksud dengan “pengadaan Teknologi Informasi” \nadalah proses pemenuhan atau penyediaan barang dan/atau \njasa terkait teknologi informasi. \nTermasuk dalam pengembangan dan pengadaan Teknologi \nInformasi yang bersifat mendasar antara lain perubahan \nsecara signifikan terhadap konfigurasi Teknologi Informasi \natau Aplikasi Inti Perbankan, pengadaan Aplikasi Inti \nPerbankan baru, kerja sama dengan penyedia jasa Teknologi \nInformasi, serta pengembangan dan pengadaan Teknologi \nInformasi mendasar lainnya yang dapat menambah dan/atau \nmeningkatkan risiko BPR atau BPRS.  \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “pengembangan Teknologi Informasi” \nadalah proses pengembangan sistem teknologi informasi baru \ntermasuk penggantian atau perbaikan sistem teknologi yang \ntelah ada, baik dilakukan secara mandiri oleh BPR atau BPRS \nmaupun \nbekerjasama \ndengan \npenyedia \njasa \nTeknologi \nInformasi. \nYang dimaksud dengan “pengadaan Teknologi Informasi” \nadalah proses pemenuhan atau penyediaan barang dan/atau \njasa terkait teknologi informasi. \nTermasuk dalam pengembangan dan pengadaan Teknologi \nInformasi yang bersifat mendasar antara lain perubahan \nsecara signifikan terhadap konfigurasi Teknologi Informasi \natau Aplikasi Inti Perbankan, pengadaan Aplikasi Inti \nPerbankan baru, kerja sama dengan penyedia jasa Teknologi \nInformasi, serta pengembangan dan pengadaan Teknologi \nInformasi mendasar lainnya yang dapat menambah dan/atau \nmeningkatkan risiko BPR atau BPRS.  \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “independen terhadap kegiatan \npenghimpunan \ndana, \npenyaluran \ndana, \npembukuan, \n\n\n \ndan/atau audit intern” adalah tidak menangani kegiatan yang \nterkait langsung dengan kegiatan penghimpunan dana, \npenyaluran dana, pembukuan, dan/atau audit intern. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “independen terhadap kegiatan \npenghimpunan \ndana, \npenyaluran \ndana, \npembukuan, \n\n\n \ndan/atau audit intern” adalah tidak menangani kegiatan yang \nterkait langsung dengan kegiatan penghimpunan dana, \npenyaluran dana, pembukuan, dan/atau audit intern. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nRencana Pemulihan Bencana mencakup rencana pemulihan \npada berbagai tingkat gangguan dan bencana seperti minor \ndisaster yang berdampak kecil dan tidak memerlukan biaya \nbesar serta dapat diselesaikan dalam jangka waktu pendek; \nmajor disaster yang berdampak besar dan dapat menjadi lebih \nparah apabila tidak diatasi segera; dan catastrophic yang \nberdampak \nterjadi \nkerusakan \nyang \nbersifat \npermanen \nsehingga memerlukan relokasi atau penggantian dengan \nbiaya yang besar. \nAyat (2) \nYang dimaksud dengan “dapat dilaksanakan secara efektif” \nadalah \noperasional \nTeknologi \nInformasi \ndapat \nberjalan \nkembali segera setelah gangguan dan/atau bencana terjadi \nsehingga tidak mengganggu pelayanan kepada nasabah. \nAyat (3) \nCukup jelas. \nAyat (4) \nKaji ulang terhadap Rencana Pemulihan Bencana dilakukan \nterhadap seluruh atau sebagian aspek yang terkait antara \nlain dalam hal terdapat perubahan Aplikasi Inti Perbankan \nyang signifikan, dan perubahan lokasi Pusat Data/ Pusat \nPemulihan Bencana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nRencana Pemulihan Bencana mencakup rencana pemulihan \npada berbagai tingkat gangguan dan bencana seperti minor \ndisaster yang berdampak kecil dan tidak memerlukan biaya \nbesar serta dapat diselesaikan dalam jangka waktu pendek; \nmajor disaster yang berdampak besar dan dapat menjadi lebih \nparah apabila tidak diatasi segera; dan catastrophic yang \nberdampak \nterjadi \nkerusakan \nyang \nbersifat \npermanen \nsehingga memerlukan relokasi atau penggantian dengan \nbiaya yang besar. \nAyat (2) \nYang dimaksud dengan “dapat dilaksanakan secara efektif” \nadalah \noperasional \nTeknologi \nInformasi \ndapat \nberjalan \nkembali segera setelah gangguan dan/atau bencana terjadi \nsehingga tidak mengganggu pelayanan kepada nasabah. \nAyat (3) \nCukup jelas. \nAyat (4) \nKaji ulang terhadap Rencana Pemulihan Bencana dilakukan \nterhadap seluruh atau sebagian aspek yang terkait antara \nlain dalam hal terdapat perubahan Aplikasi Inti Perbankan \nyang signifikan, dan perubahan lokasi Pusat Data/ Pusat \nPemulihan Bencana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \n\n\n \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nInformasi yang ditampilkan kembali merupakan informasi \nterkait dengan sistem yang tidak lagi digunakan dalam \noperasional BPR dan BPRS, proprietary system, maupun \nsistem yang masih digunakan dalam operasional BPR dan \nBPRS namun mengalami gangguan. \nYang dimaksud dengan “secara utuh” adalah informasi yang \nditampilkan lengkap.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \n\n\n \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nInformasi yang ditampilkan kembali merupakan informasi \nterkait dengan sistem yang tidak lagi digunakan dalam \noperasional BPR dan BPRS, proprietary system, maupun \nsistem yang masih digunakan dalam operasional BPR dan \nBPRS namun mengalami gangguan. \nYang dimaksud dengan “secara utuh” adalah informasi yang \nditampilkan lengkap."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nPemantauan terhadap reputasi pihak penyedia jasa \nTeknologi \nInformasi \ndapat \ndilakukan \nberdasarkan \ninformasi yang diperoleh dari berbagai sumber baik \nintern maupun ekstern. \nHuruf d \nCukup jelas. \nHuruf e \nAkses terhadap Pangkalan Data meliputi namun tidak \nterbatas pada penyediaan terminal, user id, dan sandi \n\n\n \nlewat (password) untuk melakukan query dan unduh \ndata (download data). \nHuruf f \nAngka 1 \nCukup jelas. \nAngka 2 \nPengendalian Teknologi Informasi dimaksudkan \nuntuk meyakini bahwa Aplikasi Inti Perbankan, \nPusat Data dan Pusat Pemulihan Bencana yang \ndigunakan \noleh \nBPR \ndan \nBPRS \nmemiliki \npengendalian Teknologi Informasi yang memadai \npaling sedikit meliputi physical security dan logical \nsecurity. \nAngka 3 \nCukup jelas. \nAngka 4 \nCukup jelas. \nAngka 5 \nYang \ndimaksud \ndengan \n“menjaga \nkeamanan \nseluruh informasi”  adalah menjaga keamanan data \ndan informasi termasuk sistem dan perangkat yang \ndigunakan untuk memproses, menyimpan, dan \nmengirimkan informasi.   \nInformasi, sistem dan perangkat merupakan aset \nyang \nharus \ndijaga \nkeamanannya \noleh \npihak \npenyedia jasa dengan cara dilindungi dari pihak \nyang tidak berkepentingan dan ancaman bahaya \nyang \ndapat \nmengganggu \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \ndan \nketersediaan (availability). \nYang dimaksud dengan “data pribadi nasabah” \nadalah   data perseorangan tertentu yang disimpan, \ndirawat, dan dijaga kebenaran serta dilindungi \nkerahasiaannya. \nAngka 6 \nYang dimaksud “kejadian kritis” adalah kegagalan \nsistem yang serius, system down time dan degradasi \n\n\n \nkinerja sistem yang memengaruhi kinerja BPR atau \nBPRS \ndalam \nmemberikan \npelayanan \nkepada \nnasabah. \nAngka 7 \nCukup jelas. \nAngka 8 \n \nCukup jelas. \nAngka 9 \nPemenuhan \ntingkat \nlayanan \ndilakukan \nguna \nmemastikan penyelenggaraan Teknologi Informasi \ndapat mendukung BPR dan BPRS beroperasi \nsebagaimana mestinya. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “hubungan kerja sama secara wajar” \nadalah kondisi dimana transaksi antar pihak bersifat \nindependen, antara lain memiliki kesetaraan dan didasarkan \npada harga pasar yang wajar sehingga meminimalisasi \nterjadinya konflik kepentingan (conflict of interest). \nYang dimaksud dengan “pihak terkait dengan BPR atau \nBPRS” adalah pihak terkait sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai batas \nmaksimum pemberian kredit BPR atau batas maksimum \npenyaluran dana BPRS. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nPemantauan terhadap reputasi pihak penyedia jasa \nTeknologi \nInformasi \ndapat \ndilakukan \nberdasarkan \ninformasi yang diperoleh dari berbagai sumber baik \nintern maupun ekstern. \nHuruf d \nCukup jelas. \nHuruf e \nAkses terhadap Pangkalan Data meliputi namun tidak \nterbatas pada penyediaan terminal, user id, dan sandi \n\n\n \nlewat (password) untuk melakukan query dan unduh \ndata (download data). \nHuruf f \nAngka 1 \nCukup jelas. \nAngka 2 \nPengendalian Teknologi Informasi dimaksudkan \nuntuk meyakini bahwa Aplikasi Inti Perbankan, \nPusat Data dan Pusat Pemulihan Bencana yang \ndigunakan \noleh \nBPR \ndan \nBPRS \nmemiliki \npengendalian Teknologi Informasi yang memadai \npaling sedikit meliputi physical security dan logical \nsecurity. \nAngka 3 \nCukup jelas. \nAngka 4 \nCukup jelas. \nAngka 5 \nYang \ndimaksud \ndengan \n“menjaga \nkeamanan \nseluruh informasi”  adalah menjaga keamanan data \ndan informasi termasuk sistem dan perangkat yang \ndigunakan untuk memproses, menyimpan, dan \nmengirimkan informasi.   \nInformasi, sistem dan perangkat merupakan aset \nyang \nharus \ndijaga \nkeamanannya \noleh \npihak \npenyedia jasa dengan cara dilindungi dari pihak \nyang tidak berkepentingan dan ancaman bahaya \nyang \ndapat \nmengganggu \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \ndan \nketersediaan (availability). \nYang dimaksud dengan “data pribadi nasabah” \nadalah   data perseorangan tertentu yang disimpan, \ndirawat, dan dijaga kebenaran serta dilindungi \nkerahasiaannya. \nAngka 6 \nYang dimaksud “kejadian kritis” adalah kegagalan \nsistem yang serius, system down time dan degradasi \n\n\n \nkinerja sistem yang memengaruhi kinerja BPR atau \nBPRS \ndalam \nmemberikan \npelayanan \nkepada \nnasabah. \nAngka 7 \nCukup jelas. \nAngka 8 \n \nCukup jelas. \nAngka 9 \nPemenuhan \ntingkat \nlayanan \ndilakukan \nguna \nmemastikan penyelenggaraan Teknologi Informasi \ndapat mendukung BPR dan BPRS beroperasi \nsebagaimana mestinya. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “hubungan kerja sama secara wajar” \nadalah kondisi dimana transaksi antar pihak bersifat \nindependen, antara lain memiliki kesetaraan dan didasarkan \npada harga pasar yang wajar sehingga meminimalisasi \nterjadinya konflik kepentingan (conflict of interest). \nYang dimaksud dengan “pihak terkait dengan BPR atau \nBPRS” adalah pihak terkait sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai batas \nmaksimum pemberian kredit BPR atau batas maksimum \npenyaluran dana BPRS. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “menyebabkan atau diindikasikan \nakan menyebabkan kesulitan pelaksanaan tugas pengawasan \nOtoritas Jasa Keuangan” antara lain:  \n \n\n\n \n1. \nkesulitan dalam akses terhadap data dan informasi; \n2. \nkesulitan dalam pelaksanaan pemeriksaan terhadap \npihak penyedia jasa Teknologi Informasi; dan/atau \n3. \npihak penyedia jasa Teknologi Informasi digunakan \nsebagai media untuk melakukan rekayasa data BPR atau \nBPRS. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “menyebabkan atau diindikasikan \nakan menyebabkan kesulitan pelaksanaan tugas pengawasan \nOtoritas Jasa Keuangan” antara lain:  \n \n\n\n \n1. \nkesulitan dalam akses terhadap data dan informasi; \n2. \nkesulitan dalam pelaksanaan pemeriksaan terhadap \npihak penyedia jasa Teknologi Informasi; dan/atau \n3. \npihak penyedia jasa Teknologi Informasi digunakan \nsebagai media untuk melakukan rekayasa data BPR atau \nBPRS. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “menjaga kerahasiaan” adalah \nmemastikan bahwa metode dan prosedur yang dimiliki dapat \nmelindungi kerahasiaan data nasabah. \nYang \ndimaksud \ndengan \n“menjaga \nintegritas” \nadalah \nmemastikan bahwa metode dan prosedur yang dimiliki \nmampu melindungi data sehingga menjadi akurat, handal, \nkonsisten, dan terbukti kebenarannya agar terhindar dari \nkesalahan, kecurangan, manipulasi, penyalahgunaan, dan \nperusakan data. \nYang dimaksud dengan “menjaga ketersediaan” adalah \nmemastikan ketersediaan sistem secara berkesinambungan. \nYang dimaksud dengan “informasi elektronik” adalah satu \natau sekumpulan data elektronik, termasuk tetapi tidak \nterbatas pada tulisan, suara, gambar, peta, rancangan, foto, \nelectronic data interchange (EDI), surat elektronik (electronic \nmail), telegram, teleks, telecopy atau sejenisnya, huruf, tanda, \nangka, kode akses, simbol, atau perforasi yang telah diolah \n\n\n \nyang memiliki arti atau dapat dipahami oleh orang yang \nmampu memahaminya. \nYang dimaksud dengan “dokumen elektronik” adalah setiap \ninformasi elektronik yang dibuat, diteruskan, dikirimkan, \nditerima, atau disimpan dalam bentuk analog, digital, \nelektromagnetik, optikal, atau sejenisnya, yang dapat dilihat, \nditampilkan, dan/atau didengar melalui komputer atau \nSistem Elektronik, termasuk tetapi tidak terbatas pada \ntulisan, suara, gambar, peta, rancangan, foto atau sejenisnya, \nhuruf, tanda, angka, kode akses, simbol atau perforasi yang \nmemiliki makna atau arti atau dapat dipahami oleh orang \nyang mampu memahaminya. \nAyat (3) \nYang dimaksud dengan “pengendalian otorisasi” adalah \nmemastikan adanya pengendalian terhadap hak akses dan \notorisasi yang tepat terhadap sistem, Pangkalan Data, dan \naplikasi yang digunakan. Seluruh arsip dan data yang bersifat \nrahasia hanya dapat diakses oleh pihak yang telah memiliki \notoritas serta harus dipelihara secara aman dan dilindungi \ndari kemungkinan diketahui atau dimodifikasi oleh pihak \nyang tidak berwenang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “menjaga kerahasiaan” adalah \nmemastikan bahwa metode dan prosedur yang dimiliki dapat \nmelindungi kerahasiaan data nasabah. \nYang \ndimaksud \ndengan \n“menjaga \nintegritas” \nadalah \nmemastikan bahwa metode dan prosedur yang dimiliki \nmampu melindungi data sehingga menjadi akurat, handal, \nkonsisten, dan terbukti kebenarannya agar terhindar dari \nkesalahan, kecurangan, manipulasi, penyalahgunaan, dan \nperusakan data. \nYang dimaksud dengan “menjaga ketersediaan” adalah \nmemastikan ketersediaan sistem secara berkesinambungan. \nYang dimaksud dengan “informasi elektronik” adalah satu \natau sekumpulan data elektronik, termasuk tetapi tidak \nterbatas pada tulisan, suara, gambar, peta, rancangan, foto, \nelectronic data interchange (EDI), surat elektronik (electronic \nmail), telegram, teleks, telecopy atau sejenisnya, huruf, tanda, \nangka, kode akses, simbol, atau perforasi yang telah diolah \n\n\n \nyang memiliki arti atau dapat dipahami oleh orang yang \nmampu memahaminya. \nYang dimaksud dengan “dokumen elektronik” adalah setiap \ninformasi elektronik yang dibuat, diteruskan, dikirimkan, \nditerima, atau disimpan dalam bentuk analog, digital, \nelektromagnetik, optikal, atau sejenisnya, yang dapat dilihat, \nditampilkan, dan/atau didengar melalui komputer atau \nSistem Elektronik, termasuk tetapi tidak terbatas pada \ntulisan, suara, gambar, peta, rancangan, foto atau sejenisnya, \nhuruf, tanda, angka, kode akses, simbol atau perforasi yang \nmemiliki makna atau arti atau dapat dipahami oleh orang \nyang mampu memahaminya. \nAyat (3) \nYang dimaksud dengan “pengendalian otorisasi” adalah \nmemastikan adanya pengendalian terhadap hak akses dan \notorisasi yang tepat terhadap sistem, Pangkalan Data, dan \naplikasi yang digunakan. Seluruh arsip dan data yang bersifat \nrahasia hanya dapat diakses oleh pihak yang telah memiliki \notoritas serta harus dipelihara secara aman dan dilindungi \ndari kemungkinan diketahui atau dimodifikasi oleh pihak \nyang tidak berwenang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTermasuk dalam ketentuan peraturan perundang-undangan \nantara lain Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi BPR. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “memastikan tersedianya jejak audit” \nadalah memastikan tersedianya log transaksi dan memelihara \nlog tersebut sesuai dengan ketentuan peraturan perundang-\nundangan dan kebijakan retensi data BPR atau BPRS guna \n\n\n \nmenjamin tersedianya jejak audit yang jelas sehingga dapat \ndigunakan untuk membantu pembuktian dan penyelesaian \nperselisihan serta pendeteksian usaha penyusupan pada \nSistem Elektronik. \nAyat (4) \nPenggunaan auditor ekstern untuk melaksanakan fungsi \naudit intern atas penyelenggaraan Teknologi Informasi tidak \nmengurangi tanggung jawab pimpinan satuan kerja audit \nintern atau pejabat eksekutif yang bertanggung jawab \nterhadap pelaksanaan fungsi audit intern.  \nSelain \nitu, \npenggunaan \nauditor \nekstern \nharus \nmempertimbangkan ukuran dan kompleksitas usaha BPR \ndan \nBPRS, \nserta \nmemperhatikan \nketentuan \nperaturan \nperundang-undangan terkait auditor ekstern. \n \nAyat (5) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk dalam ketentuan peraturan perundang-undangan \nantara lain Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi BPR. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “memastikan tersedianya jejak audit” \nadalah memastikan tersedianya log transaksi dan memelihara \nlog tersebut sesuai dengan ketentuan peraturan perundang-\nundangan dan kebijakan retensi data BPR atau BPRS guna \n\n\n \nmenjamin tersedianya jejak audit yang jelas sehingga dapat \ndigunakan untuk membantu pembuktian dan penyelesaian \nperselisihan serta pendeteksian usaha penyusupan pada \nSistem Elektronik. \nAyat (4) \nPenggunaan auditor ekstern untuk melaksanakan fungsi \naudit intern atas penyelenggaraan Teknologi Informasi tidak \nmengurangi tanggung jawab pimpinan satuan kerja audit \nintern atau pejabat eksekutif yang bertanggung jawab \nterhadap pelaksanaan fungsi audit intern.  \nSelain \nitu, \npenggunaan \nauditor \nekstern \nharus \nmempertimbangkan ukuran dan kompleksitas usaha BPR \ndan \nBPRS, \nserta \nmemperhatikan \nketentuan \nperaturan \nperundang-undangan terkait auditor ekstern. \n \nAyat (5) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nPenyampaian laporan mengenai pelaksanaan fungsi audit \nintern penyelenggaraan Teknologi Informasi disampaikan \nsebagai bagian dari laporan pelaksanaan dan pokok-pokok \nhasil audit intern atau disampaikan secara terpisah.  \nAyat (2)  \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nPenyampaian laporan mengenai pelaksanaan fungsi audit \nintern penyelenggaraan Teknologi Informasi disampaikan \nsebagai bagian dari laporan pelaksanaan dan pokok-pokok \nhasil audit intern atau disampaikan secara terpisah.  \nAyat (2)  \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cakupan laporan kondisi terkini penyelenggaraan Teknologi \nInformasi BPR atau BPRS paling sedikit meliputi penjelasan \nmengenai Teknologi Informasi yang diselenggarakan, struktur \norganisasi \nyang \nmenggambarkan \npenyelenggaraan \nTeknologi \nInformasi, dan kebijakan dan prosedur yang dimiliki terkait \npenyelenggaraan Teknologi Informasi. \n \n\n\n \nYang dimaksud dengan “perubahan mendasar” antara lain \nperubahan terhadap konfigurasi Teknologi Informasi atau Aplikasi \nInti Perbankan, pengadaan Aplikasi Inti Perbankan, kerja sama \ndengan penyedia jasa Teknologi Informasi, serta pengembangan \ndan pengadaan Teknologi Informasi mendasar lainnya yang dapat \nmenambah dan/atau meningkatkan risiko BPR atau BPRS.  \nYang dimaksud dengan “efektif beroperasi” adalah tahapan yang \nmana Teknologi Informasi telah diimplementasikan dan digunakan \ndalam kegiatan operasional BPR atau BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cakupan laporan kondisi terkini penyelenggaraan Teknologi \nInformasi BPR atau BPRS paling sedikit meliputi penjelasan \nmengenai Teknologi Informasi yang diselenggarakan, struktur \norganisasi \nyang \nmenggambarkan \npenyelenggaraan \nTeknologi \nInformasi, dan kebijakan dan prosedur yang dimiliki terkait \npenyelenggaraan Teknologi Informasi. \n \n\n\n \nYang dimaksud dengan “perubahan mendasar” antara lain \nperubahan terhadap konfigurasi Teknologi Informasi atau Aplikasi \nInti Perbankan, pengadaan Aplikasi Inti Perbankan, kerja sama \ndengan penyedia jasa Teknologi Informasi, serta pengembangan \ndan pengadaan Teknologi Informasi mendasar lainnya yang dapat \nmenambah dan/atau meningkatkan risiko BPR atau BPRS.  \nYang dimaksud dengan “efektif beroperasi” adalah tahapan yang \nmana Teknologi Informasi telah diimplementasikan dan digunakan \ndalam kegiatan operasional BPR atau BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud kejadian kritis antara lain kegagalan sistem \nyang serius, system down time, dan degradasi kinerja sistem \nyang \nmempengaruhi \nkinerja \nBPR \ndan \nBPRS \ndalam \nmemberikan pelayanan kepada nasabah. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud kejadian kritis antara lain kegagalan sistem \nyang serius, system down time, dan degradasi kinerja sistem \nyang \nmempengaruhi \nkinerja \nBPR \ndan \nBPRS \ndalam \nmemberikan pelayanan kepada nasabah. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n       TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5998",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n       TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5998"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 66,
+  "total_ayat": 120,
+  "total_karakter": 53084,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

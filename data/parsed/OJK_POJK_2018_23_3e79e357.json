@@ -1,0 +1,1123 @@
+{
+  "doc_id": "OJK_POJK_2018_23_3e79e357",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "23",
+  "tahun": "2018",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 23/POJK.03/2018 tentang Penerapan Manajemen Risiko bagi Bank Pembiayaan Rakyat Syariah",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "5 Desember 2018",
+  "tanggal_berlaku": "diundangkan (10 Desember 2018)",
+  "diundangkan_pada": "10 Desember 2018",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN MANAJEMEN RISIKO, PROSEDUR MANAJEMEN RISIKO, DAN PENETAPAN LIMIT RISIKO"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENILAIAN PENERAPAN MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "PENYESUAIAN PENERAPAN MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI ADMINISTRATIF"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Pembiayaan Rakyat Syariah yang selanjutnya \ndisingkat BPRS adalah bank syariah yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran. \n2. \nDireksi adalah organ perseroan yang berwenang dan \nbertanggung jawab penuh atas pengurusan perseroan \nuntuk kepentingan perseroan, sesuai dengan maksud \ndan tujuan perseroan serta mewakili perseroan, baik di \ndalam maupun di luar pengadilan sesuai dengan \nketentuan anggaran dasar. \n3. \nDewan Komisaris adalah organ perseroan yang bertugas \nmelakukan pengawasan secara umum dan/atau khusus \n\n\n \nsesuai dengan anggaran dasar serta memberi nasihat \nkepada Direksi. \n4. \nDewan Pengawas Syariah adalah dewan yang bertugas \nmemberikan nasihat dan saran kepada Direksi serta \nmengawasi kegiatan BPRS agar sesuai dengan prinsip \nsyariah. \n5. \nPrinsip Syariah adalah prinsip hukum Islam dalam \nkegiatan perbankan berdasarkan fatwa yang dikeluarkan \noleh \nlembaga \nyang \nmemiliki \nkewenangan \ndalam \npenetapan fatwa di bidang syariah. \n6. \nPejabat Eksekutif adalah pejabat yang bertanggung jawab \nlangsung kepada Direksi atau mempunyai pengaruh \nterhadap kebijakan dan operasional BPRS. \n7. \nRisiko adalah potensi kerugian akibat terjadinya suatu \nperistiwa tertentu. \n8. \nManajemen Risiko adalah serangkaian metodologi dan \nprosedur \nyang \ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, memantau, dan mengendalikan Risiko yang \ntimbul dari seluruh kegiatan usaha BPRS. \n \nBAB II \nRUANG LINGKUP MANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Pembiayaan Rakyat Syariah yang selanjutnya \ndisingkat BPRS adalah bank syariah yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran. \n2. \nDireksi adalah organ perseroan yang berwenang dan \nbertanggung jawab penuh atas pengurusan perseroan \nuntuk kepentingan perseroan, sesuai dengan maksud \ndan tujuan perseroan serta mewakili perseroan, baik di \ndalam maupun di luar pengadilan sesuai dengan \nketentuan anggaran dasar. \n3. \nDewan Komisaris adalah organ perseroan yang bertugas \nmelakukan pengawasan secara umum dan/atau khusus \n\n\n \nsesuai dengan anggaran dasar serta memberi nasihat \nkepada Direksi. \n4. \nDewan Pengawas Syariah adalah dewan yang bertugas \nmemberikan nasihat dan saran kepada Direksi serta \nmengawasi kegiatan BPRS agar sesuai dengan prinsip \nsyariah. \n5. \nPrinsip Syariah adalah prinsip hukum Islam dalam \nkegiatan perbankan berdasarkan fatwa yang dikeluarkan \noleh \nlembaga \nyang \nmemiliki \nkewenangan \ndalam \npenetapan fatwa di bidang syariah. \n6. \nPejabat Eksekutif adalah pejabat yang bertanggung jawab \nlangsung kepada Direksi atau mempunyai pengaruh \nterhadap kebijakan dan operasional BPRS. \n7. \nRisiko adalah potensi kerugian akibat terjadinya suatu \nperistiwa tertentu. \n8. \nManajemen Risiko adalah serangkaian metodologi dan \nprosedur \nyang \ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, memantau, dan mengendalikan Risiko yang \ntimbul dari seluruh kegiatan usaha BPRS. \n \nBAB II \nRUANG LINGKUP MANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBPRS wajib menerapkan Manajemen Risiko secara efektif \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan ini. \n(2) \nPenerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi, Dewan Komisaris, dan \nDewan Pengawas Syariah; \nb. \nkecukupan kebijakan dan prosedur Manajemen \nRisiko serta penetapan limit Risiko; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian Risiko serta sistem \ninformasi Manajemen Risiko; dan \nd. \nsistem pengendalian intern yang menyeluruh. \n\n\n \n(3) \nKetentuan lebih lanjut mengenai penerapan Manajemen \nRisiko sebagaimana dimaksud pada ayat (2) diatur \ndengan Surat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS wajib menerapkan Manajemen Risiko secara efektif \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi, Dewan Komisaris, dan \nDewan Pengawas Syariah; \nb. \nkecukupan kebijakan dan prosedur Manajemen \nRisiko serta penetapan limit Risiko; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian Risiko serta sistem \ninformasi Manajemen Risiko; dan \nd. \nsistem pengendalian intern yang menyeluruh."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai penerapan Manajemen \nRisiko sebagaimana dimaksud pada ayat (2) diatur \ndengan Surat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nRisiko yang harus dikelola dalam penerapan Manajemen \nRisiko meliputi: \na. \nRisiko kredit; \nb. \nRisiko operasional; \nc. \nRisiko kepatuhan; \nd. \nRisiko likuiditas; \ne. \nRisiko reputasi; dan \nf. \nRisiko strategis. \n(2) \nBPRS \nyang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) wajib \nmenerapkan Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 2 untuk seluruh jenis Risiko sebagaimana \ndimaksud pada ayat (1). \n(3) \nBPRS \nyang \nmemiliki \nmodal \ninti \nkurang \ndari \nRp50.000.000.000,00 (lima puluh miliar rupiah) wajib \nmenerapkan Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 2 paling sedikit untuk 4 (empat) Risiko \nsebagaimana dimaksud pada ayat (1) huruf a sampai \ndengan huruf d. \n \nBAB III \nPENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS,  \nDAN DEWAN PENGAWAS SYARIAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Risiko yang harus dikelola dalam penerapan Manajemen \nRisiko meliputi: \na. \nRisiko kredit; \nb. \nRisiko operasional; \nc. \nRisiko kepatuhan; \nd. \nRisiko likuiditas; \ne. \nRisiko reputasi; dan \nf. \nRisiko strategis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPRS \nyang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) wajib \nmenerapkan Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 2 untuk seluruh jenis Risiko sebagaimana \ndimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPRS \nyang \nmemiliki \nmodal \ninti \nkurang \ndari \nRp50.000.000.000,00 (lima puluh miliar rupiah) wajib \nmenerapkan Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 2 paling sedikit untuk 4 (empat) Risiko \nsebagaimana dimaksud pada ayat (1) huruf a sampai \ndengan huruf d. \n \nBAB III \nPENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS,  \nDAN DEWAN PENGAWAS SYARIAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "BPRS wajib menetapkan wewenang dan tanggung jawab yang \njelas pada setiap jenjang jabatan yang terkait dengan \npenerapan \nManajemen \nRisiko \nuntuk \npengawasan \naktif \nDireksi, Dewan Komisaris, dan Dewan Pengawas Syariah \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPRS wajib menetapkan wewenang dan tanggung jawab yang \njelas pada setiap jenjang jabatan yang terkait dengan \npenerapan \nManajemen \nRisiko \nuntuk \npengawasan \naktif \nDireksi, Dewan Komisaris, dan Dewan Pengawas Syariah \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "(1) \nWewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 4 paling sedikit mencakup: \na. \nmenyusun \nkebijakan \ndan \npedoman \npenerapan \nManajemen Risiko secara tertulis; \nb. \nmengevaluasi dan memutuskan transaksi yang \nmemerlukan persetujuan Direksi; \nc. \nmengembangkan budaya Manajemen Risiko pada \nseluruh jenjang organisasi; \nd. \nmemastikan peningkatan kompetensi sumber daya \nmanusia yang terkait dengan Manajemen Risiko; \ne. \nmemastikan bahwa fungsi Manajemen Risiko telah \nberoperasi secara independen; dan \nf. \nbertanggung jawab atas: \n1) \npelaksanaan kebijakan Manajemen Risiko; dan   \n2) \neksposur Risiko yang diambil BPRS secara \nkeseluruhan. \n(2) \nUntuk melaksanakan wewenang dan tanggung jawab \nsebagaimana dimaksud pada ayat (1), Direksi harus \nmemiliki pemahaman yang memadai mengenai Risiko \nyang melekat pada seluruh aktivitas fungsional BPRS dan \nmampu mengambil tindakan yang diperlukan sesuai \ndengan profil Risiko BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 4 paling sedikit mencakup: \na. \nmenyusun \nkebijakan \ndan \npedoman \npenerapan \nManajemen Risiko secara tertulis; \nb. \nmengevaluasi dan memutuskan transaksi yang \nmemerlukan persetujuan Direksi; \nc. \nmengembangkan budaya Manajemen Risiko pada \nseluruh jenjang organisasi; \nd. \nmemastikan peningkatan kompetensi sumber daya \nmanusia yang terkait dengan Manajemen Risiko; \ne. \nmemastikan bahwa fungsi Manajemen Risiko telah \nberoperasi secara independen; dan \nf. \nbertanggung jawab atas: \n1) \npelaksanaan kebijakan Manajemen Risiko; dan   \n2) \neksposur Risiko yang diambil BPRS secara \nkeseluruhan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk melaksanakan wewenang dan tanggung jawab \nsebagaimana dimaksud pada ayat (1), Direksi harus \nmemiliki pemahaman yang memadai mengenai Risiko \nyang melekat pada seluruh aktivitas fungsional BPRS dan \nmampu mengambil tindakan yang diperlukan sesuai \ndengan profil Risiko BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana \ndimaksud \ndalam \nPasal \npaling \nsedikit \nmencakup: \na. \nmenyetujui dan mengevaluasi kebijakan Manajemen \nRisiko; \nb. \nmemastikan penerapan Manajemen Risiko oleh Direksi; \nc. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 5 ayat (1) huruf f angka 1); dan \nd. \nmengevaluasi dan memutuskan permohonan Direksi \nyang berkaitan dengan transaksi yang memerlukan \npersetujuan Dewan Komisaris.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana \ndimaksud \ndalam \nPasal \npaling \nsedikit \nmencakup: \na. \nmenyetujui dan mengevaluasi kebijakan Manajemen \nRisiko; \nb. \nmemastikan penerapan Manajemen Risiko oleh Direksi; \nc. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 5 ayat (1) huruf f angka 1); dan \nd. \nmengevaluasi dan memutuskan permohonan Direksi \nyang berkaitan dengan transaksi yang memerlukan \npersetujuan Dewan Komisaris."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "Wewenang dan tanggung jawab Dewan Pengawas Syariah \nsebagaimana \ndimaksud \ndalam \nPasal \npaling \nsedikit \nmencakup: \na. \nmengevaluasi kebijakan Manajemen Risiko yang terkait \ndengan pemenuhan Prinsip Syariah; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 5 ayat (1) huruf f angka 1) yang \nterkait dengan pemenuhan Prinsip Syariah. \n \nBAB IV \nKEBIJAKAN MANAJEMEN RISIKO, PROSEDUR MANAJEMEN \nRISIKO, DAN PENETAPAN LIMIT RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab Dewan Pengawas Syariah \nsebagaimana \ndimaksud \ndalam \nPasal \npaling \nsedikit \nmencakup: \na. \nmengevaluasi kebijakan Manajemen Risiko yang terkait \ndengan pemenuhan Prinsip Syariah; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 5 ayat (1) huruf f angka 1) yang \nterkait dengan pemenuhan Prinsip Syariah. \n \nBAB IV \nKEBIJAKAN MANAJEMEN RISIKO, PROSEDUR MANAJEMEN \nRISIKO, DAN PENETAPAN LIMIT RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN MANAJEMEN RISIKO, PROSEDUR MANAJEMEN RISIKO, DAN PENETAPAN LIMIT RISIKO",
+      "teks_lengkap": "Kecukupan \nkebijakan \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit \nmencakup: \na. \npenetapan Risiko yang terkait dengan kegiatan usaha, \nproduk, dan layanan BPRS; \nb. \npenetapan sistem informasi Manajemen Risiko; \nc. \npenentuan limit dan penetapan toleransi Risiko; \nd. \npenetapan penilaian peringkat Risiko; \ne. \npenyusunan rencana darurat dalam kondisi terburuk \natau rencana kontingensi; dan \nf. \npenetapan sistem pengendalian intern dalam penerapan \nManajemen Risiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kecukupan \nkebijakan \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit \nmencakup: \na. \npenetapan Risiko yang terkait dengan kegiatan usaha, \nproduk, dan layanan BPRS; \nb. \npenetapan sistem informasi Manajemen Risiko; \nc. \npenentuan limit dan penetapan toleransi Risiko; \nd. \npenetapan penilaian peringkat Risiko; \ne. \npenyusunan rencana darurat dalam kondisi terburuk \natau rencana kontingensi; dan \nf. \npenetapan sistem pengendalian intern dalam penerapan \nManajemen Risiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN MANAJEMEN RISIKO, PROSEDUR MANAJEMEN RISIKO, DAN PENETAPAN LIMIT RISIKO",
+      "teks_lengkap": "(1) \nKecukupan prosedur Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit \nmencakup: \na. \njenjang delegasi wewenang dan pertanggungjawaban \nyang jelas; dan \nb. \ndokumentasi \nprosedur \nManajemen \nRisiko \ndan \npenetapan limit Risiko yang memadai. \n\n\n \n(2) \nPenetapan limit Risiko sebagaimana dimaksud dalam \nPasal 2 ayat (2) huruf b meliputi: \na. \nlimit secara keseluruhan; \nb. \nlimit per jenis Risiko; dan \nc. \nlimit per aktivitas fungsional tertentu yang memiliki \neksposur Risiko. \n \nBAB V \nPROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, \nDAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI \nMANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kecukupan prosedur Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b paling sedikit \nmencakup: \na. \njenjang delegasi wewenang dan pertanggungjawaban \nyang jelas; dan \nb. \ndokumentasi \nprosedur \nManajemen \nRisiko \ndan \npenetapan limit Risiko yang memadai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan limit Risiko sebagaimana dimaksud dalam \nPasal 2 ayat (2) huruf b meliputi: \na. \nlimit secara keseluruhan; \nb. \nlimit per jenis Risiko; dan \nc. \nlimit per aktivitas fungsional tertentu yang memiliki \neksposur Risiko. \n \nBAB V \nPROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, \nDAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI \nMANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) BPRS wajib melakukan proses identifikasi, pengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf c terhadap \nseluruh faktor Risiko yang bersifat material. \n(2) Pelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh: \na. \nsistem informasi manajemen yang memadai; dan \nb. \nlaporan yang akurat dan informatif mengenai \nkondisi keuangan, kinerja aktivitas fungsional dan \neksposur Risiko BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS wajib melakukan proses identifikasi, pengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf c terhadap \nseluruh faktor Risiko yang bersifat material."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh: \na. \nsistem informasi manajemen yang memadai; dan \nb. \nlaporan yang akurat dan informatif mengenai \nkondisi keuangan, kinerja aktivitas fungsional dan \neksposur Risiko BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBPRS melaksanakan proses identifikasi Risiko paling \nsedikit dengan melakukan analisis terhadap: \na. \nkarakteristik Risiko yang melekat pada BPRS; dan \nb. \nRisiko dari kegiatan usaha, produk, dan layanan \nBPRS. \n(2) \nBPRS melaksanakan pengukuran Risiko paling sedikit \ndengan melakukan: \na. \nevaluasi terhadap kesesuaian asumsi, sumber data, \ndan prosedur yang digunakan untuk mengukur \nRisiko; dan \n\n\n \nb. \npenyesuaian terhadap proses pengukuran Risiko \napabila terdapat perubahan yang bersifat material \npada kegiatan usaha, produk, transaksi, dan faktor \nRisiko. \n(3) \nBPRS melaksanakan pemantauan Risiko paling sedikit \ndengan melakukan: \na. \nevaluasi terhadap eksposur Risiko; dan \nb. \npenyesuaian proses pelaporan apabila terdapat \nperubahan yang bersifat material pada kegiatan \nusaha, produk, transaksi, faktor Risiko, teknologi \ninformasi, dan sistem informasi Manajemen Risiko \nBPRS. \n(4) \nBPRS melaksanakan pengendalian Risiko paling sedikit \ndengan melakukan evaluasi terhadap teknik mitigasi \nRisiko \nuntuk \nmengelola \nRisiko \nyang \ndapat \nmembahayakan kelangsungan usaha BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS melaksanakan proses identifikasi Risiko paling \nsedikit dengan melakukan analisis terhadap: \na. \nkarakteristik Risiko yang melekat pada BPRS; dan \nb. \nRisiko dari kegiatan usaha, produk, dan layanan \nBPRS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPRS melaksanakan pengukuran Risiko paling sedikit \ndengan melakukan: \na. \nevaluasi terhadap kesesuaian asumsi, sumber data, \ndan prosedur yang digunakan untuk mengukur \nRisiko; dan \n\n\n \nb. \npenyesuaian terhadap proses pengukuran Risiko \napabila terdapat perubahan yang bersifat material \npada kegiatan usaha, produk, transaksi, dan faktor \nRisiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPRS melaksanakan pemantauan Risiko paling sedikit \ndengan melakukan: \na. \nevaluasi terhadap eksposur Risiko; dan \nb. \npenyesuaian proses pelaporan apabila terdapat \nperubahan yang bersifat material pada kegiatan \nusaha, produk, transaksi, faktor Risiko, teknologi \ninformasi, dan sistem informasi Manajemen Risiko \nBPRS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPRS melaksanakan pengendalian Risiko paling sedikit \ndengan melakukan evaluasi terhadap teknik mitigasi \nRisiko \nuntuk \nmengelola \nRisiko \nyang \ndapat \nmembahayakan kelangsungan usaha BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO, SERTA SISTEM INFORMASI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nKecukupan \nsistem \ninformasi \nManajemen \nRisiko \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c, \npaling \nsedikit \nmencakup \nlaporan \natau \ninformasi \nmengenai: \na. \neksposur Risiko; \nb. \nkepatuhan \nterhadap \nkecukupan \nkebijakan \nManajemen Risiko sebagaimana dimaksud dalam \nPasal 8; \nc. \nkepatuhan \nterhadap \nkecukupan \nprosedur \nManajemen Risiko dan penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 9; dan \nd. \nrealisasi penerapan Manajemen Risiko dibandingkan \ndengan target yang ditetapkan. \n(2) \nLaporan atau informasi yang dihasilkan dari sistem \ninformasi Manajemen Risiko sebagaimana dimaksud \npada ayat (1) disampaikan secara berkala kepada Direksi. \n \n \n \n\n\n \nBAB VI \nSISTEM PENGENDALIAN INTERN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kecukupan \nsistem \ninformasi \nManajemen \nRisiko \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c, \npaling \nsedikit \nmencakup \nlaporan \natau \ninformasi \nmengenai: \na. \neksposur Risiko; \nb. \nkepatuhan \nterhadap \nkecukupan \nkebijakan \nManajemen Risiko sebagaimana dimaksud dalam \nPasal 8; \nc. \nkepatuhan \nterhadap \nkecukupan \nprosedur \nManajemen Risiko dan penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 9; dan \nd. \nrealisasi penerapan Manajemen Risiko dibandingkan \ndengan target yang ditetapkan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan atau informasi yang dihasilkan dari sistem \ninformasi Manajemen Risiko sebagaimana dimaksud \npada ayat (1) disampaikan secara berkala kepada Direksi. \n \n \n \n\n\n \nBAB VI \nSISTEM PENGENDALIAN INTERN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN",
+      "teks_lengkap": "BPRS wajib melaksanakan sistem pengendalian intern yang \nmenyeluruh secara efektif terhadap pelaksanaan kegiatan \nusaha dan operasional pada seluruh jenjang organisasi BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPRS wajib melaksanakan sistem pengendalian intern yang \nmenyeluruh secara efektif terhadap pelaksanaan kegiatan \nusaha dan operasional pada seluruh jenjang organisasi BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN",
+      "teks_lengkap": "Pelaksanaan sistem pengendalian intern yang menyeluruh \nsebagaimana dimaksud dalam Pasal 13 paling sedikit mampu \nsecara tepat waktu mendeteksi kelemahan dan penyimpangan \nyang terjadi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelaksanaan sistem pengendalian intern yang menyeluruh \nsebagaimana dimaksud dalam Pasal 13 paling sedikit mampu \nsecara tepat waktu mendeteksi kelemahan dan penyimpangan \nyang terjadi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN",
+      "teks_lengkap": "(1) \nSistem \npengendalian \nintern \nyang \nmenyeluruh \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf d \npaling sedikit mencakup: \na. \nkesesuaian sistem pengendalian intern dengan jenis \ndan tingkat Risiko yang melekat pada kegiatan \nusaha dan jenis layanan BPRS; \nb. \npenetapan wewenang dan tanggung jawab untuk \npemantauan \nkepatuhan \nterhadap \nkecukupan \nkebijakan Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 8; \nc. \npenetapan wewenang dan tanggung jawab untuk \npemantauan \nkepatuhan \nterhadap \nkecukupan \nprosedur Manajemen Risiko dan penetapan limit \nRisiko sebagaimana dimaksud dalam Pasal 9; \nd. \npenetapan jalur pelaporan dan pemisahan fungsi \nyang jelas; \ne. \nstruktur organisasi yang menggambarkan secara \njelas kegiatan usaha BPRS; \nf. \npelaporan keuangan dan kegiatan operasional yang \nakurat dan tepat waktu; \n\n\n \ng. \nkecukupan prosedur untuk memastikan kepatuhan \nBPRS terhadap ketentuan peraturan perundang-\nundangan, kebijakan, dan ketentuan intern BPRS; \nh. \ndokumentasi secara lengkap dan memadai; dan \ni. \nverifikasi \ndan \nkaji \nulang \nterhadap \nsistem \npengendalian intern. \n(2) \nPenilaian terhadap sistem pengendalian intern yang \nmenyeluruh sebagaimana dimaksud pada ayat (1) \ndilakukan oleh satuan kerja audit intern atau Pejabat \nEksekutif yang ditunjuk bertanggung jawab terhadap \npelaksanaan fungsi audit intern. \n \nBAB VII \nORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sistem \npengendalian \nintern \nyang \nmenyeluruh \nsebagaimana dimaksud dalam Pasal 2 ayat (2) huruf d \npaling sedikit mencakup: \na. \nkesesuaian sistem pengendalian intern dengan jenis \ndan tingkat Risiko yang melekat pada kegiatan \nusaha dan jenis layanan BPRS; \nb. \npenetapan wewenang dan tanggung jawab untuk \npemantauan \nkepatuhan \nterhadap \nkecukupan \nkebijakan Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 8; \nc. \npenetapan wewenang dan tanggung jawab untuk \npemantauan \nkepatuhan \nterhadap \nkecukupan \nprosedur Manajemen Risiko dan penetapan limit \nRisiko sebagaimana dimaksud dalam Pasal 9; \nd. \npenetapan jalur pelaporan dan pemisahan fungsi \nyang jelas; \ne. \nstruktur organisasi yang menggambarkan secara \njelas kegiatan usaha BPRS; \nf. \npelaporan keuangan dan kegiatan operasional yang \nakurat dan tepat waktu; \n\n\n \ng. \nkecukupan prosedur untuk memastikan kepatuhan \nBPRS terhadap ketentuan peraturan perundang-\nundangan, kebijakan, dan ketentuan intern BPRS; \nh. \ndokumentasi secara lengkap dan memadai; dan \ni. \nverifikasi \ndan \nkaji \nulang \nterhadap \nsistem \npengendalian intern."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penilaian terhadap sistem pengendalian intern yang \nmenyeluruh sebagaimana dimaksud pada ayat (1) \ndilakukan oleh satuan kerja audit intern atau Pejabat \nEksekutif yang ditunjuk bertanggung jawab terhadap \npelaksanaan fungsi audit intern. \n \nBAB VII \nORGANISASI DAN FUNGSI MANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBPRS \nyang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp80.000.000.000,00 (delapan puluh miliar rupiah) wajib \nmembentuk: \na. \nkomite Manajemen Risiko; dan \nb. \nsatuan kerja Manajemen Risiko. \n(2) \nBPRS \nyang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) dan \nkurang dari Rp80.000.000.000,00 (delapan puluh miliar \nrupiah) wajib membentuk satuan kerja Manajemen \nRisiko. \n(3) \nBPRS \nyang \nmemiliki \nmodal \ninti \nkurang \ndari \nRp50.000.000.000,00 (lima puluh miliar rupiah) wajib \nmenunjuk paling sedikit 1 (satu) orang Pejabat Eksekutif \nyang bertanggung jawab terhadap pelaksanaan fungsi \nManajemen Risiko. \n(4) \nBPRS \ndengan \nmodal \ninti \nkurang \ndari \nRp80.000.000.000,00 (delapan puluh miliar rupiah) \ndapat membentuk komite Manajemen Risiko. \n(5) \nPembentukan komite Manajemen Risiko, satuan kerja \nManajemen Risiko, dan/atau penunjukan 1 (satu) orang \nPejabat Eksekutif yang bertanggung jawab terhadap \n\n\n \npelaksanaan fungsi Manajemen Risiko sebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (3) \ndilaksanakan paling lambat pada tanggal 31 Desember \n2021.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS \nyang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp80.000.000.000,00 (delapan puluh miliar rupiah) wajib \nmembentuk: \na. \nkomite Manajemen Risiko; dan \nb. \nsatuan kerja Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPRS \nyang \nmemiliki \nmodal \ninti \npaling \nsedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) dan \nkurang dari Rp80.000.000.000,00 (delapan puluh miliar \nrupiah) wajib membentuk satuan kerja Manajemen \nRisiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPRS \nyang \nmemiliki \nmodal \ninti \nkurang \ndari \nRp50.000.000.000,00 (lima puluh miliar rupiah) wajib \nmenunjuk paling sedikit 1 (satu) orang Pejabat Eksekutif \nyang bertanggung jawab terhadap pelaksanaan fungsi \nManajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPRS \ndengan \nmodal \ninti \nkurang \ndari \nRp80.000.000.000,00 (delapan puluh miliar rupiah) \ndapat membentuk komite Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pembentukan komite Manajemen Risiko, satuan kerja \nManajemen Risiko, dan/atau penunjukan 1 (satu) orang \nPejabat Eksekutif yang bertanggung jawab terhadap \n\n\n \npelaksanaan fungsi Manajemen Risiko sebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (3) \ndilaksanakan paling lambat pada tanggal 31 Desember \n2021."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nKomite Manajemen Risiko sebagaimana dimaksud dalam \nPasal 16 ayat (1) huruf a dan ayat (4), paling sedikit \nterdiri dari: \na. \nmayoritas anggota Direksi; dan \nb. \nPejabat Eksekutif terkait. \n(2) \nWewenang dan tanggung jawab komite Manajemen Risiko \nsebagaimana dimaksud pada ayat (1) memberikan \nrekomendasi kepada direktur utama paling sedikit \nmencakup: \na. \npenyusunan kebijakan dan pedoman penerapan \nManajemen Risiko; \nb. \nperbaikan dan/atau penyempurnaan pelaksanaan \nManajemen \nRisiko \nberdasarkan \nhasil \nevaluasi \npelaksanaan Manajemen Risiko; dan \nc. \npertimbangan dan/atau penetapan hal-hal yang \nterkait \ndengan \nkeputusan \noperasional \nyang \nmenyimpang dari prosedur normal.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Komite Manajemen Risiko sebagaimana dimaksud dalam \nPasal 16 ayat (1) huruf a dan ayat (4), paling sedikit \nterdiri dari: \na. \nmayoritas anggota Direksi; dan \nb. \nPejabat Eksekutif terkait."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Wewenang dan tanggung jawab komite Manajemen Risiko \nsebagaimana dimaksud pada ayat (1) memberikan \nrekomendasi kepada direktur utama paling sedikit \nmencakup: \na. \npenyusunan kebijakan dan pedoman penerapan \nManajemen Risiko; \nb. \nperbaikan dan/atau penyempurnaan pelaksanaan \nManajemen \nRisiko \nberdasarkan \nhasil \nevaluasi \npelaksanaan Manajemen Risiko; dan \nc. \npertimbangan dan/atau penetapan hal-hal yang \nterkait \ndengan \nkeputusan \noperasional \nyang \nmenyimpang dari prosedur normal."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nSatuan kerja Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 16 ayat (1) huruf b dan ayat (2) serta Pejabat \nEksekutif sebagaimana dimaksud dalam Pasal 16 ayat (3) \nharus independen. \n(2) \nSatuan kerja Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 16 ayat (1) huruf b dan ayat (2) serta Pejabat \nEksekutif sebagaimana dimaksud dalam Pasal 16 ayat (3) \nbertanggung jawab langsung kepada anggota Direksi \nyang membawahkan fungsi Manajemen Risiko. \n \n \n\n\n \n(3) \nWewenang dan tanggung jawab satuan kerja Manajemen \nRisiko atau Pejabat Eksekutif yang ditunjuk bertanggung \njawab terhadap pelaksanaan fungsi Manajemen Risiko \nmeliputi: \na. \npemantauan pelaksanaan kebijakan dan pedoman \npenerapan Manajemen Risiko yang telah disetujui \noleh Direksi;  \nb. \npemantauan posisi Risiko secara keseluruhan, per \njenis Risiko, dan per jenis aktivitas fungsional;  \nc. \npengkajian usulan penerbitan produk dan/atau \npelaksanaan aktivitas baru; \nd. \npenyampaian rekomendasi kepada satuan kerja atau \npegawai yang menangani fungsi operasional dan \nkepada \nkomite \nManajemen \nRisiko, \nsesuai \nkewenangan yang dimiliki; dan \ne. \npenyusunan dan penyampaian laporan profil Risiko \nsecara \nberkala \nkepada \nanggota \nDireksi \nyang \nmembawahkan \nfungsi \nManajemen \nRisiko \ndan \nkepada komite Manajemen Risiko. \n \nBAB VIII \nPELAPORAN \n \nBagian Kesatu \nRencana Tindak Penerapan Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Satuan kerja Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 16 ayat (1) huruf b dan ayat (2) serta Pejabat \nEksekutif sebagaimana dimaksud dalam Pasal 16 ayat (3) \nharus independen."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Satuan kerja Manajemen Risiko sebagaimana dimaksud \ndalam Pasal 16 ayat (1) huruf b dan ayat (2) serta Pejabat \nEksekutif sebagaimana dimaksud dalam Pasal 16 ayat (3) \nbertanggung jawab langsung kepada anggota Direksi \nyang membawahkan fungsi Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Wewenang dan tanggung jawab satuan kerja Manajemen \nRisiko atau Pejabat Eksekutif yang ditunjuk bertanggung \njawab terhadap pelaksanaan fungsi Manajemen Risiko \nmeliputi: \na. \npemantauan pelaksanaan kebijakan dan pedoman \npenerapan Manajemen Risiko yang telah disetujui \noleh Direksi;  \nb. \npemantauan posisi Risiko secara keseluruhan, per \njenis Risiko, dan per jenis aktivitas fungsional;  \nc. \npengkajian usulan penerbitan produk dan/atau \npelaksanaan aktivitas baru; \nd. \npenyampaian rekomendasi kepada satuan kerja atau \npegawai yang menangani fungsi operasional dan \nkepada \nkomite \nManajemen \nRisiko, \nsesuai \nkewenangan yang dimiliki; dan \ne. \npenyusunan dan penyampaian laporan profil Risiko \nsecara \nberkala \nkepada \nanggota \nDireksi \nyang \nmembawahkan \nfungsi \nManajemen \nRisiko \ndan \nkepada komite Manajemen Risiko. \n \nBAB VIII \nPELAPORAN \n \nBagian Kesatu \nRencana Tindak Penerapan Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nDalam menerapkan Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 2, BPRS wajib menyusun dan \nmenyampaikan rencana tindak kepada Otoritas Jasa \nKeuangan. \n(2) \nRencana tindak sebagaimana dimaksud pada ayat (1) \ndisampaikan paling lambat tanggal 30 Juni 2019.  \n(3) \nBPRS melakukan penyesuaian terhadap rencana tindak \nsebagaimana dimaksud pada ayat (1) atas permintaan \nOtoritas Jasa Keuangan. \n\n\n \n(4) \nRencana tindak sebagaimana dimaksud pada ayat (1) \ndan/atau penyesuaian rencana tindak sebagaimana \ndimaksud pada ayat (3) bagi BPRS dengan modal inti: \na. \npaling sedikit Rp50.000.000.000,00 (lima puluh \nmiliar rupiah) diselesaikan paling lambat tanggal 30 \nJuni 2022; atau \nb. \nkurang dari Rp50.000.000.000,00 (lima puluh miliar \nrupiah) diselesaikan paling lambat tanggal 30 Juni \n2023. \n(5) \nBatas waktu penyelesaian rencana tindak sebagaimana \ndimaksud pada ayat (4) memperhatikan batas waktu \npembentukan komite Manajemen Risiko, satuan kerja \nManajemen \nRisiko, \ndan/atau \npenunjukan \nPejabat \nEksekutif yang bertanggung jawab terhadap pelaksanaan \nfungsi Manajemen Risiko sebagaimana dimaksud dalam \nPasal 16 ayat (5).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam menerapkan Manajemen Risiko sebagaimana \ndimaksud dalam Pasal 2, BPRS wajib menyusun dan \nmenyampaikan rencana tindak kepada Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rencana tindak sebagaimana dimaksud pada ayat (1) \ndisampaikan paling lambat tanggal 30 Juni 2019."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPRS melakukan penyesuaian terhadap rencana tindak \nsebagaimana dimaksud pada ayat (1) atas permintaan \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Rencana tindak sebagaimana dimaksud pada ayat (1) \ndan/atau penyesuaian rencana tindak sebagaimana \ndimaksud pada ayat (3) bagi BPRS dengan modal inti: \na. \npaling sedikit Rp50.000.000.000,00 (lima puluh \nmiliar rupiah) diselesaikan paling lambat tanggal 30 \nJuni 2022; atau \nb. \nkurang dari Rp50.000.000.000,00 (lima puluh miliar \nrupiah) diselesaikan paling lambat tanggal 30 Juni \n2023."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Batas waktu penyelesaian rencana tindak sebagaimana \ndimaksud pada ayat (4) memperhatikan batas waktu \npembentukan komite Manajemen Risiko, satuan kerja \nManajemen \nRisiko, \ndan/atau \npenunjukan \nPejabat \nEksekutif yang bertanggung jawab terhadap pelaksanaan \nfungsi Manajemen Risiko sebagaimana dimaksud dalam \nPasal 16 ayat (5)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBPRS wajib menyampaikan laporan realisasi rencana \ntindak \npenerapan \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 19 setiap semester kepada \nOtoritas Jasa Keuangan. \n(2) \nLaporan realisasi rencana tindak penerapan Manajemen \nRisiko sebagaimana dimaksud pada ayat (1) disampaikan \npaling lambat tanggal 31 Juli untuk laporan semester \npertama dan tanggal 31 Januari tahun berikutnya untuk \nlaporan semester kedua.  \n(3) \nLaporan realisasi rencana tindak penerapan Manajemen \nRisiko sebagaimana dimaksud pada ayat (1) pertama kali \ndisampaikan untuk laporan semester pertama tahun \n2020.  \n \n \n \n \n \n\n\n \n(4) \nDalam hal BPRS telah merealisasikan seluruh rencana \ntindak \npenerapan \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 19 ayat (1) sebelum batas waktu \nsebagaimana dimaksud dalam Pasal 19 ayat (4) dan telah \ndilaporkan kepada Otoritas Jasa Keuangan, BPRS tidak \nperlu menyampaikan laporan realisasi rencana tindak \npenerapan Manajemen Risiko untuk semester berikutnya. \n \nBagian Kedua \nLaporan Profil Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS wajib menyampaikan laporan realisasi rencana \ntindak \npenerapan \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 19 setiap semester kepada \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan realisasi rencana tindak penerapan Manajemen \nRisiko sebagaimana dimaksud pada ayat (1) disampaikan \npaling lambat tanggal 31 Juli untuk laporan semester \npertama dan tanggal 31 Januari tahun berikutnya untuk \nlaporan semester kedua."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan realisasi rencana tindak penerapan Manajemen \nRisiko sebagaimana dimaksud pada ayat (1) pertama kali \ndisampaikan untuk laporan semester pertama tahun \n2020."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BPRS telah merealisasikan seluruh rencana \ntindak \npenerapan \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 19 ayat (1) sebelum batas waktu \nsebagaimana dimaksud dalam Pasal 19 ayat (4) dan telah \ndilaporkan kepada Otoritas Jasa Keuangan, BPRS tidak \nperlu menyampaikan laporan realisasi rencana tindak \npenerapan Manajemen Risiko untuk semester berikutnya. \n \nBagian Kedua \nLaporan Profil Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBPRS wajib menyampaikan laporan profil Risiko setiap \nsemester kepada Otoritas Jasa Keuangan. \n(2) \nLaporan profil Risiko sebagaimana dimaksud pada ayat \n(1) yang disampaikan oleh BPRS wajib memuat materi \nyang \nsama \ndengan \nlaporan \nprofil \nRisiko \nyang \ndisampaikan oleh satuan kerja Manajemen Risiko atau \nPejabat Eksekutif yang ditunjuk bertanggung jawab \nterhadap pelaksanaan fungsi Manajemen Risiko kepada \nanggota Direksi yang membawahkan fungsi Manajemen \nRisiko dan kepada komite Manajemen Risiko. \n(3) \nLaporan profil Risiko sebagaimana dimaksud pada ayat \n(1) disampaikan paling lambat tanggal 31 Juli untuk \nlaporan semester pertama dan tanggal 31 Januari tahun \nberikutnya untuk laporan semester kedua. \n(4) \nBPRS menyampaikan laporan profil Risiko di luar jangka \nwaktu yang ditetapkan sebagaimana dimaksud pada ayat \n(1) atas permintaan Otoritas Jasa Keuangan. \n(5) \nBPRS yang memiliki modal inti sebagaimana dimaksud \ndalam Pasal 3 ayat (2) menyampaikan untuk pertama \nkali laporan profil Risiko sebagaimana dimaksud pada \nayat (1) meliputi: \na. \n3 (tiga) Risiko terdiri dari Risiko kredit, Risiko \noperasional, dan Risiko kepatuhan untuk semester \nkedua tahun 2022; dan \n\n\n \nb. \n6 (enam) Risiko terdiri dari Risiko kredit, Risiko \noperasional, Risiko kepatuhan, Risiko likuiditas, \nRisiko reputasi, dan Risiko strategis untuk semester \nkedua tahun 2024. \n(6) \nBPRS yang memiliki modal inti sebagaimana dimaksud \ndalam Pasal 3 ayat (3) menyampaikan untuk pertama \nkali laporan profil Risiko sebagaimana dimaksud pada \nayat (1) meliputi: \na. \n2 (dua) Risiko terdiri dari Risiko kredit dan Risiko \noperasional untuk semester kedua tahun 2023; dan \nb. \n4 (empat) Risiko terdiri dari Risiko kredit, Risiko \noperasional, Risiko kepatuhan, dan Risiko likuiditas \nuntuk semester kedua tahun 2025. \n \nBagian Ketiga \nLaporan Profil Risiko Lain",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS wajib menyampaikan laporan profil Risiko setiap \nsemester kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan profil Risiko sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "yang disampaikan oleh BPRS wajib memuat materi \nyang \nsama \ndengan \nlaporan \nprofil \nRisiko \nyang \ndisampaikan oleh satuan kerja Manajemen Risiko atau \nPejabat Eksekutif yang ditunjuk bertanggung jawab \nterhadap pelaksanaan fungsi Manajemen Risiko kepada \nanggota Direksi yang membawahkan fungsi Manajemen \nRisiko dan kepada komite Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan profil Risiko sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan paling lambat tanggal 31 Juli untuk \nlaporan semester pertama dan tanggal 31 Januari tahun \nberikutnya untuk laporan semester kedua."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPRS menyampaikan laporan profil Risiko di luar jangka \nwaktu yang ditetapkan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "atas permintaan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "BPRS yang memiliki modal inti sebagaimana dimaksud \ndalam Pasal 3 ayat (2) menyampaikan untuk pertama \nkali laporan profil Risiko sebagaimana dimaksud pada \nayat (1) meliputi: \na. \n3 (tiga) Risiko terdiri dari Risiko kredit, Risiko \noperasional, dan Risiko kepatuhan untuk semester \nkedua tahun 2022; dan \n\n\n \nb. \n6 (enam) Risiko terdiri dari Risiko kredit, Risiko \noperasional, Risiko kepatuhan, Risiko likuiditas, \nRisiko reputasi, dan Risiko strategis untuk semester \nkedua tahun 2024."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "BPRS yang memiliki modal inti sebagaimana dimaksud \ndalam Pasal 3 ayat (3) menyampaikan untuk pertama \nkali laporan profil Risiko sebagaimana dimaksud pada \nayat (1) meliputi: \na. \n2 (dua) Risiko terdiri dari Risiko kredit dan Risiko \noperasional untuk semester kedua tahun 2023; dan \nb. \n4 (empat) Risiko terdiri dari Risiko kredit, Risiko \noperasional, Risiko kepatuhan, dan Risiko likuiditas \nuntuk semester kedua tahun 2025. \n \nBagian Ketiga \nLaporan Profil Risiko Lain"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nDalam \nhal \nterdapat \nkondisi \nyang \nberpotensi \nmenimbulkan kerugian yang signifikan terhadap kondisi \nkeuangan, BPRS wajib menyampaikan laporan profil \nRisiko lain kepada Otoritas Jasa Keuangan.  \n(2) \nLaporan profil Risiko lain sebagaimana dimaksud pada \nayat (1) mencakup selain laporan profil Risiko yang \ndiwajibkan sebagaimana dimaksud dalam Pasal 21 ayat \n(5) huruf a dan ayat (6). \n(3) \nLaporan profil Risiko lain sebagaimana dimaksud pada \nayat (1) disampaikan paling lama 1 (satu) bulan setelah \ndiketahuinya kondisi berpotensi menimbulkan kerugian \nyang signifikan terhadap kondisi keuangan BPRS. \n(4) \nKewajiban \npenyampaian \nlaporan \nprofil \nRisiko \nlain \nsebagaimana dimaksud pada ayat (1) dapat didasarkan \natas permintaan Otoritas Jasa Keuangan. \n \n \n \n \n\n\n \nBagian Keempat \nFormat dan Tata Cara Penyampaian Laporan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nhal \nterdapat \nkondisi \nyang \nberpotensi \nmenimbulkan kerugian yang signifikan terhadap kondisi \nkeuangan, BPRS wajib menyampaikan laporan profil \nRisiko lain kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan profil Risiko lain sebagaimana dimaksud pada \nayat (1) mencakup selain laporan profil Risiko yang \ndiwajibkan sebagaimana dimaksud dalam Pasal 21 ayat"
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "huruf a dan ayat (6)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan profil Risiko lain sebagaimana dimaksud pada \nayat (1) disampaikan paling lama 1 (satu) bulan setelah \ndiketahuinya kondisi berpotensi menimbulkan kerugian \nyang signifikan terhadap kondisi keuangan BPRS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kewajiban \npenyampaian \nlaporan \nprofil \nRisiko \nlain \nsebagaimana dimaksud pada ayat (1) dapat didasarkan \natas permintaan Otoritas Jasa Keuangan. \n \n \n \n \n\n\n \nBagian Keempat \nFormat dan Tata Cara Penyampaian Laporan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBPRS \nwajib \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 21 ayat (1) dan Pasal 22 ayat (1) \nsecara daring melalui sistem pelaporan Otoritas Jasa \nKeuangan. \n(2) \nDalam hal penyampaian laporan secara daring melalui \nsistem pelaporan Otoritas Jasa Keuangan sebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, BPRS \nmenyampaikan laporan secara luring kepada Otoritas \nJasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS \nwajib \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 21 ayat (1) dan Pasal 22 ayat (1) \nsecara daring melalui sistem pelaporan Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal penyampaian laporan secara daring melalui \nsistem pelaporan Otoritas Jasa Keuangan sebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, BPRS \nmenyampaikan laporan secara luring kepada Otoritas \nJasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nKetentuan mengenai tata cara penilaian profil Risiko \nsebagaimana diatur dalam Pasal 21 dan tata cara \npenilaian profil Risiko lain sebagaimana diatur dalam \nPasal 22 diatur dengan Surat Edaran Otoritas Jasa \nKeuangan. \n(2) \nKetentuan mengenai format, petunjuk penyusunan, dan \ntata cara penyampaian rencana tindak sebagaimana \ndimaksud dalam Pasal 19 ayat (1) dan laporan \nsebagaimana dimaksud dalam Pasal 20 ayat (1), Pasal 21 \nayat (1), dan Pasal 22 ayat (1) diatur dengan Surat \nEdaran Otoritas Jasa Keuangan. \n \nBAB IX \nPENILAIAN PENERAPAN MANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Ketentuan mengenai tata cara penilaian profil Risiko \nsebagaimana diatur dalam Pasal 21 dan tata cara \npenilaian profil Risiko lain sebagaimana diatur dalam \nPasal 22 diatur dengan Surat Edaran Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai format, petunjuk penyusunan, dan \ntata cara penyampaian rencana tindak sebagaimana \ndimaksud dalam Pasal 19 ayat (1) dan laporan \nsebagaimana dimaksud dalam Pasal 20 ayat (1), Pasal 21 \nayat (1), dan Pasal 22 ayat (1) diatur dengan Surat \nEdaran Otoritas Jasa Keuangan. \n \nBAB IX \nPENILAIAN PENERAPAN MANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENILAIAN PENERAPAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan berwenang melakukan penilaian \nterhadap penerapan Manajemen Risiko pada BPRS. \n \n \n \n\n\n \n(2) \nDalam \npenilaian \npenerapan \nManajemen \nRisiko \nsebagaimana dimaksud pada ayat (1), BPRS wajib \nmenyampaikan data dan informasi terkait dengan \npenerapan Manajemen Risiko kepada Otoritas Jasa \nKeuangan. \n \nBAB X \nPENYESUAIAN PENERAPAN MANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan berwenang melakukan penilaian \nterhadap penerapan Manajemen Risiko pada BPRS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \npenilaian \npenerapan \nManajemen \nRisiko \nsebagaimana dimaksud pada ayat (1), BPRS wajib \nmenyampaikan data dan informasi terkait dengan \npenerapan Manajemen Risiko kepada Otoritas Jasa \nKeuangan. \n \nBAB X \nPENYESUAIAN PENERAPAN MANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PENYESUAIAN PENERAPAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 \n(enam) posisi laporan bulanan berturut-turut sampai \ndengan tanggal 31 Desember 2022 wajib melaporkan \nseluruh Risiko sebagaimana dimaksud dalam Pasal 3 \nayat (1) sesuai pentahapan sebagaimana dimaksud dalam \nPasal 21 ayat (5). \n(2) \nBPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 \n(enam) posisi laporan bulanan berturut-turut setelah \ntanggal 31 Desember 2022 sampai dengan tanggal 31 \nDesember \nwajib \nmelaporkan \nseluruh \nRisiko \nsebagaimana dimaksud dalam Pasal 3 ayat (1) pertama \nkali pada laporan profil Risiko semester kedua tahun \n2024. \n \n \n \n \n \n \n \n \n \n\n\n \n(3) \nBPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 \n(enam) posisi laporan bulanan berturut-turut setelah \ntanggal 31 Desember 2024 wajib melaporkan seluruh \nRisiko sebagaimana dimaksud dalam Pasal 3 ayat (1) \npertama kali pada laporan profil Risiko semester \nberikutnya paling lambat 1 (satu) tahun setelah BPRS \nmemenuhi modal inti paling sedikit Rp50.000.000.000,00 \n(lima puluh miliar rupiah) selama 6 (enam) posisi laporan \nbulanan berturut-turut.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 \n(enam) posisi laporan bulanan berturut-turut sampai \ndengan tanggal 31 Desember 2022 wajib melaporkan \nseluruh Risiko sebagaimana dimaksud dalam Pasal 3 \nayat (1) sesuai pentahapan sebagaimana dimaksud dalam \nPasal 21 ayat (5)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 \n(enam) posisi laporan bulanan berturut-turut setelah \ntanggal 31 Desember 2022 sampai dengan tanggal 31 \nDesember \nwajib \nmelaporkan \nseluruh \nRisiko \nsebagaimana dimaksud dalam Pasal 3 ayat (1) pertama \nkali pada laporan profil Risiko semester kedua tahun \n2024."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) selama 6 \n(enam) posisi laporan bulanan berturut-turut setelah \ntanggal 31 Desember 2024 wajib melaporkan seluruh \nRisiko sebagaimana dimaksud dalam Pasal 3 ayat (1) \npertama kali pada laporan profil Risiko semester \nberikutnya paling lambat 1 (satu) tahun setelah BPRS \nmemenuhi modal inti paling sedikit Rp50.000.000.000,00 \n(lima puluh miliar rupiah) selama 6 (enam) posisi laporan \nbulanan berturut-turut."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PENYESUAIAN PENERAPAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp80.000.000.000,00 (delapan puluh miliar rupiah) \nselama 6 (enam) posisi laporan bulanan berturut-turut \nsetelah tanggal 31 Desember 2021 wajib telah memenuhi \nstruktur organisasi sebagaimana dimaksud dalam Pasal \n16 ayat (1) paling lambat 1 (satu) tahun setelah BPRS \nmemenuhi modal inti paling sedikit Rp80.000.000.000,00 \n(delapan puluh miliar rupiah) selama 6 (enam) posisi \nlaporan bulanan berturut-turut. \n(2) \nBPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) dan \nkurang dari Rp80.000.000.000,00 (delapan puluh miliar \nrupiah) selama 6 (enam) posisi laporan bulanan berturut-\nturut setelah tanggal 31 Desember 2021 wajib telah \nmemenuhi struktur organisasi sebagaimana dimaksud \ndalam Pasal 16 ayat (2) paling lambat 1 (satu) tahun \nsetelah BPRS memenuhi modal inti paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) dan \nkurang dari Rp80.000.000.000,00 (delapan puluh miliar \nrupiah) selama 6 (enam) posisi laporan bulanan berturut-\nturut.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp80.000.000.000,00 (delapan puluh miliar rupiah) \nselama 6 (enam) posisi laporan bulanan berturut-turut \nsetelah tanggal 31 Desember 2021 wajib telah memenuhi \nstruktur organisasi sebagaimana dimaksud dalam Pasal \n16 ayat (1) paling lambat 1 (satu) tahun setelah BPRS \nmemenuhi modal inti paling sedikit Rp80.000.000.000,00 \n(delapan puluh miliar rupiah) selama 6 (enam) posisi \nlaporan bulanan berturut-turut."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPRS yang berdasarkan laporan bulanan mengalami \npeningkatan modal inti sehingga menjadi paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) dan \nkurang dari Rp80.000.000.000,00 (delapan puluh miliar \nrupiah) selama 6 (enam) posisi laporan bulanan berturut-\nturut setelah tanggal 31 Desember 2021 wajib telah \nmemenuhi struktur organisasi sebagaimana dimaksud \ndalam Pasal 16 ayat (2) paling lambat 1 (satu) tahun \nsetelah BPRS memenuhi modal inti paling sedikit \nRp50.000.000.000,00 (lima puluh miliar rupiah) dan \nkurang dari Rp80.000.000.000,00 (delapan puluh miliar \nrupiah) selama 6 (enam) posisi laporan bulanan berturut-\nturut."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PENYESUAIAN PENERAPAN MANAJEMEN RISIKO",
+      "teks_lengkap": "BPRS \nyang \nberdasarkan \nlaporan \nbulanan \nmengalami \npenurunan modal inti sehingga mengakibatkan berkurangnya \nkewajiban penerapan jumlah Risiko dari jumlah semula, tetap \nmenerapkan jenis Risiko dan kelengkapan struktur organisasi \nyang berlaku sebelum terjadinya penurunan modal inti. \n \nBAB XI \nSANKSI ADMINISTRATIF",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPRS \nyang \nberdasarkan \nlaporan \nbulanan \nmengalami \npenurunan modal inti sehingga mengakibatkan berkurangnya \nkewajiban penerapan jumlah Risiko dari jumlah semula, tetap \nmenerapkan jenis Risiko dan kelengkapan struktur organisasi \nyang berlaku sebelum terjadinya penurunan modal inti. \n \nBAB XI \nSANKSI ADMINISTRATIF"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBPRS \nyang \ntidak \nmemenuhi \nketentuan \npelaporan \nsebagaimana dimaksud dalam Pasal 19 ayat (1), Pasal 20 \nayat (1), Pasal 21 ayat (1), dan Pasal 22 ayat (1) \ndikenakan sanksi administratif berupa: \na. \ndenda sebesar Rp100.000,00 (seratus ribu rupiah) \nper hari keterlambatan per laporan bagi BPRS yang \nmenyampaikan \nlaporan \nkepada \nOtoritas \nJasa \nKeuangan \nmelampaui \nbatas \nakhir \nwaktu \npenyampaian laporan sampai dengan 1 (satu) bulan \nsetelah batas akhir waktu penyampaian laporan \ndengan denda paling banyak Rp3.000.000,00 (tiga \njuta rupiah) per laporan; atau  \nb. \ndenda sebesar Rp5.000.000,00 (lima juta rupiah) per \nlaporan bagi BPRS yang belum menyampaikan \nlaporan setelah 1 (satu) bulan sejak batas akhir \nwaktu penyampaian laporan. \n(2) \nPengenaan \nsanksi \nadministratif \nberupa \ndenda \nsebagaimana \ndimaksud \npada \nayat \n(1) \ntidak \nmenghilangkan kewajiban penyampaian laporan. \n(3) \nBPRS \nyang \nmenyampaikan \nlaporan \nprofil \nRisiko \nsebagaimana dimaksud dalam Pasal 21 ayat (1) yang \nberdasarkan \npenilaian \nOtoritas \nJasa \nKeuangan \ndinyatakan tidak benar dan/atau tidak lengkap secara \nsignifikan dikenakan sanksi administratif berupa teguran \ntertulis dan denda sebesar Rp10.000.000,00 (sepuluh \njuta rupiah). \n\n\n \n(4) \nSelain sanksi administratif berupa teguran tertulis dan \ndenda sebagaimana dimaksud pada ayat (3), BPRS \ndikenakan sanksi administratif berupa: \na. \npenurunan \npenilaian \ntingkat \nkesehatan \nBPRS; \ndan/atau \nb. \npencantuman anggota Direksi dan anggota Dewan \nKomisaris \ndalam \ndaftar \ntidak \nlulus \nmelalui \nmekanisme uji kemampuan dan kepatutan. \n(5) \nPengenaan \nsanksi \nadministratif \nberupa \ndenda \nsebagaimana dimaksud pada ayat (3) dilakukan setelah \nBPRS diberikan 2 (dua) kali surat teguran oleh Otoritas \nJasa Keuangan dengan tenggang waktu masing-masing \n10 (sepuluh) hari kerja untuk setiap teguran dan BPRS \ntidak menyampaikan atau tidak memperbaiki laporan \nprofil Risiko dalam jangka waktu 10 (sepuluh) hari kerja \nsetelah surat teguran terakhir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS \nyang \ntidak \nmemenuhi \nketentuan \npelaporan \nsebagaimana dimaksud dalam Pasal 19 ayat (1), Pasal 20 \nayat (1), Pasal 21 ayat (1), dan Pasal 22 ayat (1) \ndikenakan sanksi administratif berupa: \na. \ndenda sebesar Rp100.000,00 (seratus ribu rupiah) \nper hari keterlambatan per laporan bagi BPRS yang \nmenyampaikan \nlaporan \nkepada \nOtoritas \nJasa \nKeuangan \nmelampaui \nbatas \nakhir \nwaktu \npenyampaian laporan sampai dengan 1 (satu) bulan \nsetelah batas akhir waktu penyampaian laporan \ndengan denda paling banyak Rp3.000.000,00 (tiga \njuta rupiah) per laporan; atau  \nb. \ndenda sebesar Rp5.000.000,00 (lima juta rupiah) per \nlaporan bagi BPRS yang belum menyampaikan \nlaporan setelah 1 (satu) bulan sejak batas akhir \nwaktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan \nsanksi \nadministratif \nberupa \ndenda \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "tidak \nmenghilangkan kewajiban penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPRS \nyang \nmenyampaikan \nlaporan \nprofil \nRisiko \nsebagaimana dimaksud dalam Pasal 21 ayat (1) yang \nberdasarkan \npenilaian \nOtoritas \nJasa \nKeuangan \ndinyatakan tidak benar dan/atau tidak lengkap secara \nsignifikan dikenakan sanksi administratif berupa teguran \ntertulis dan denda sebesar Rp10.000.000,00 (sepuluh \njuta rupiah)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Selain sanksi administratif berupa teguran tertulis dan \ndenda sebagaimana dimaksud pada ayat (3), BPRS \ndikenakan sanksi administratif berupa: \na. \npenurunan \npenilaian \ntingkat \nkesehatan \nBPRS; \ndan/atau \nb. \npencantuman anggota Direksi dan anggota Dewan \nKomisaris \ndalam \ndaftar \ntidak \nlulus \nmelalui \nmekanisme uji kemampuan dan kepatutan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengenaan \nsanksi \nadministratif \nberupa \ndenda \nsebagaimana dimaksud pada ayat (3) dilakukan setelah \nBPRS diberikan 2 (dua) kali surat teguran oleh Otoritas \nJasa Keuangan dengan tenggang waktu masing-masing \n10 (sepuluh) hari kerja untuk setiap teguran dan BPRS \ntidak menyampaikan atau tidak memperbaiki laporan \nprofil Risiko dalam jangka waktu 10 (sepuluh) hari kerja \nsetelah surat teguran terakhir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "BPRS yang tidak melaksanakan ketentuan sebagaimana \ndimaksud dalam Pasal 2 ayat (1), Pasal 3 ayat (2) dan ayat (3), \nPasal 4, Pasal 10, Pasal 13, Pasal 16 ayat (1), ayat (2), dan \nayat (3), Pasal 21 ayat (2), Pasal 23 ayat (1), Pasal 25 ayat (2), \ndan Pasal 27, dikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan penilaian tingkat kesehatan BPRS; dan/atau \nc. \npenghentian sementara sebagian kegiatan operasional \nBPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPRS yang tidak melaksanakan ketentuan sebagaimana \ndimaksud dalam Pasal 2 ayat (1), Pasal 3 ayat (2) dan ayat (3), \nPasal 4, Pasal 10, Pasal 13, Pasal 16 ayat (1), ayat (2), dan \nayat (3), Pasal 21 ayat (2), Pasal 23 ayat (1), Pasal 25 ayat (2), \ndan Pasal 27, dikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan penilaian tingkat kesehatan BPRS; dan/atau \nc. \npenghentian sementara sebagian kegiatan operasional \nBPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBPRS yang melanggar ketentuan Pasal 26 dikenakan \nsanksi administratif berupa teguran tertulis dan denda \nsebesar Rp10.000.000,00 (sepuluh juta rupiah). \n \n \n \n \n\n\n \n(2) \nSelain sanksi administratif berupa teguran tertulis dan \ndenda sebagaimana dimaksud pada ayat (1), BPRS \ndikenakan sanksi administratif berupa: \na. \npenurunan \npenilaian \ntingkat \nkesehatan \nBPRS; \ndan/atau \nb. \npencantuman anggota Direksi dan anggota Dewan \nKomisaris \ndalam \ndaftar \ntidak \nlulus \nmelalui \nmekanisme uji kemampuan dan kepatutan. \n(3) \nPengenaan \nsanksi \nadministratif \nberupa \ndenda \nsebagaimana dimaksud pada ayat (1) dilakukan setelah \nBPRS diberikan 2 (dua) kali surat teguran oleh Otoritas \nJasa Keuangan dengan tenggang waktu masing-masing \n10 (sepuluh) hari kerja untuk setiap teguran dan BPRS \ntidak menyampaikan atau tidak memperbaiki laporan \nprofil Risiko dalam jangka waktu 10 (sepuluh) hari kerja \nsetelah surat teguran terakhir. \n \nBAB XII \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPRS yang melanggar ketentuan Pasal 26 dikenakan \nsanksi administratif berupa teguran tertulis dan denda \nsebesar Rp10.000.000,00 (sepuluh juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain sanksi administratif berupa teguran tertulis dan \ndenda sebagaimana dimaksud pada ayat (1), BPRS \ndikenakan sanksi administratif berupa: \na. \npenurunan \npenilaian \ntingkat \nkesehatan \nBPRS; \ndan/atau \nb. \npencantuman anggota Direksi dan anggota Dewan \nKomisaris \ndalam \ndaftar \ntidak \nlulus \nmelalui \nmekanisme uji kemampuan dan kepatutan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengenaan \nsanksi \nadministratif \nberupa \ndenda \nsebagaimana dimaksud pada ayat (1) dilakukan setelah \nBPRS diberikan 2 (dua) kali surat teguran oleh Otoritas \nJasa Keuangan dengan tenggang waktu masing-masing \n10 (sepuluh) hari kerja untuk setiap teguran dan BPRS \ntidak menyampaikan atau tidak memperbaiki laporan \nprofil Risiko dalam jangka waktu 10 (sepuluh) hari kerja \nsetelah surat teguran terakhir. \n \nBAB XII \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nPengenaan sanksi terhadap penyampaian laporan profil \nRisiko sebagaimana dimaksud dalam Pasal 21 ayat (5) \nhuruf a mulai diterapkan pada penyampaian laporan \nsemester kedua tahun 2023. \n(2) \nPengenaan sanksi terhadap penyampaian laporan profil \nRisiko sebagaimana dimaksud dalam Pasal 21 ayat (6) \nhuruf a mulai diterapkan pada penyampaian laporan \nsemester kedua tahun 2024.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan sanksi terhadap penyampaian laporan profil \nRisiko sebagaimana dimaksud dalam Pasal 21 ayat (5) \nhuruf a mulai diterapkan pada penyampaian laporan \nsemester kedua tahun 2023."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan sanksi terhadap penyampaian laporan profil \nRisiko sebagaimana dimaksud dalam Pasal 21 ayat (6) \nhuruf a mulai diterapkan pada penyampaian laporan \nsemester kedua tahun 2024."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "BPRS yang telah mengajukan permohonan izin usaha atau \nizin perubahan kegiatan usaha BPR menjadi BPRS sebelum \nPeraturan Otoritas Jasa Keuangan ini berlaku harus: \na. \nmembentuk komite Manajemen Risiko, satuan kerja \nManajemen Risiko, dan/atau penunjukan 1 (satu) orang \nPejabat Eksekutif yang bertanggung jawab terhadap \npelaksanaan fungsi Manajemen Risiko dan dilaksanakan \nsesuai dengan batas waktu sebagaimana dimaksud \ndalam Pasal 16 ayat (5); dan \nb. \nmenyampaikan rencana tindak, realisasi rencana tindak, \ndan \nmenyelesaikan \nrencana \ntindak \nsebagaimana \ndimaksud dalam Pasal 19 dan Pasal 20.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPRS yang telah mengajukan permohonan izin usaha atau \nizin perubahan kegiatan usaha BPR menjadi BPRS sebelum \nPeraturan Otoritas Jasa Keuangan ini berlaku harus: \na. \nmembentuk komite Manajemen Risiko, satuan kerja \nManajemen Risiko, dan/atau penunjukan 1 (satu) orang \nPejabat Eksekutif yang bertanggung jawab terhadap \npelaksanaan fungsi Manajemen Risiko dan dilaksanakan \nsesuai dengan batas waktu sebagaimana dimaksud \ndalam Pasal 16 ayat (5); dan \nb. \nmenyampaikan rencana tindak, realisasi rencana tindak, \ndan \nmenyelesaikan \nrencana \ntindak \nsebagaimana \ndimaksud dalam Pasal 19 dan Pasal 20."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "BPRS yang mengajukan permohonan izin usaha atau izin \nperubahan kegiatan usaha BPR menjadi BPRS setelah \nPeraturan \nOtoritas \nJasa \nKeuangan \nini \nberlaku \nharus \nmenerapkan Manajemen Risiko secara efektif sebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan ini pada \nsaat BPRS memperoleh izin usaha atau izin perubahan \nkegiatan usaha BPR menjadi BPRS, kecuali kewajiban \npenyampaian laporan profil Risiko yang dilaksanakan sesuai \ndengan pentahapan sebagaimana dimaksud dalam Pasal 21 \nayat (5) dan ayat (6). \n \nBAB XIII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPRS yang mengajukan permohonan izin usaha atau izin \nperubahan kegiatan usaha BPR menjadi BPRS setelah \nPeraturan \nOtoritas \nJasa \nKeuangan \nini \nberlaku \nharus \nmenerapkan Manajemen Risiko secara efektif sebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan ini pada \nsaat BPRS memperoleh izin usaha atau izin perubahan \nkegiatan usaha BPR menjadi BPRS, kecuali kewajiban \npenyampaian laporan profil Risiko yang dilaksanakan sesuai \ndengan pentahapan sebagaimana dimaksud dalam Pasal 21 \nayat (5) dan ayat (6). \n \nBAB XIII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \nDitetapkan di Jakarta \npada tanggal 5 Desember 2018 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \n \nDiundangkan di Jakarta  \npada tanggal 10 Desember 2018 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \nttd \n \nYASONNA H. LAOLY  \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 227\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 23 /POJK.03/2018               \nTENTANG \nPENERAPAN MANAJEMEN RISIKO BAGI \nBANK PEMBIAYAAN RAKYAT SYARIAH \n \nI. \nUMUM  \nBank \nPembiayaan \nRakyat \nSyariah \n(BPRS) \nsebagai \nlembaga \nintermediasi keuangan dengan segmen utama kepada usaha mikro dan \nusaha kecil serta masyarakat di pedesaan, senantiasa menghadapi Risiko \ndalam \npelaksanaan \nkegiatan \nusahanya. \nPerkembangan \nindustri \nperbankan yang semakin meningkat, kebutuhan masyarakat atas \npelayanan jasa keuangan yang lebih bervariasi, mudah, dan cepat diiringi \ndengan perkembangan teknologi informasi yang sangat cepat mendorong \nBPRS untuk lebih meningkatkan pelayanan yang akan berdampak pada \npeningkatan Risiko BPRS. Peningkatan Risiko ini harus diimbangi dengan \npeningkatan pengendalian Risiko. Oleh karena itu, BPRS dituntut untuk \nmenerapkan Manajemen Risiko. Penerapan Manajemen Risiko ini selain \nditujukan bagi BPRS juga untuk melindungi pemangku kepentingan \nBPRS. \nPrinsip Manajemen Risiko termasuk jenis Risiko yang harus \nditerapkan oleh BPRS disesuaikan dengan karakteristik kegiatan usaha \nBPRS dan diselaraskan dengan peraturan Otoritas Jasa Keuangan \nmengenai penerapan Manajemen Risiko bagi bank umum syariah dan \nperaturan Otoritas Jasa Keuangan mengenai penerapan Manajemen \nRisiko bagi bank perkreditan rakyat. Prinsip Manajemen Risiko pada \n\n\n \ndasarnya merupakan standar perbankan untuk dapat beroperasi secara \nlebih berhati-hati dalam ruang lingkup perkembangan kegiatan usaha dan \noperasional perbankan yang sangat pesat dewasa ini. Mempertimbangkan \nmasih terdapat kesenjangan modal inti pada industri BPRS, penerapan \nManajemen Risiko dibedakan sesuai dengan modal inti BPRS. Otoritas \nJasa Keuangan menetapkan ketentuan ini sebagai standar minimal yang \nharus dipenuhi oleh BPRS dalam menerapkan Manajemen Risiko. \nDengan ketentuan ini, BPRS diharapkan mampu melaksanakan \nseluruh aktivitas secara terintegrasi dalam suatu pengelolaan Risiko yang \nakurat dan komprehensif. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \nDitetapkan di Jakarta \npada tanggal 5 Desember 2018 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \n \nDiundangkan di Jakarta  \npada tanggal 10 Desember 2018 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \nttd \n \nYASONNA H. LAOLY  \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 227\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 23 /POJK.03/2018               \nTENTANG \nPENERAPAN MANAJEMEN RISIKO BAGI \nBANK PEMBIAYAAN RAKYAT SYARIAH \n \nI. \nUMUM  \nBank \nPembiayaan \nRakyat \nSyariah \n(BPRS) \nsebagai \nlembaga \nintermediasi keuangan dengan segmen utama kepada usaha mikro dan \nusaha kecil serta masyarakat di pedesaan, senantiasa menghadapi Risiko \ndalam \npelaksanaan \nkegiatan \nusahanya. \nPerkembangan \nindustri \nperbankan yang semakin meningkat, kebutuhan masyarakat atas \npelayanan jasa keuangan yang lebih bervariasi, mudah, dan cepat diiringi \ndengan perkembangan teknologi informasi yang sangat cepat mendorong \nBPRS untuk lebih meningkatkan pelayanan yang akan berdampak pada \npeningkatan Risiko BPRS. Peningkatan Risiko ini harus diimbangi dengan \npeningkatan pengendalian Risiko. Oleh karena itu, BPRS dituntut untuk \nmenerapkan Manajemen Risiko. Penerapan Manajemen Risiko ini selain \nditujukan bagi BPRS juga untuk melindungi pemangku kepentingan \nBPRS. \nPrinsip Manajemen Risiko termasuk jenis Risiko yang harus \nditerapkan oleh BPRS disesuaikan dengan karakteristik kegiatan usaha \nBPRS dan diselaraskan dengan peraturan Otoritas Jasa Keuangan \nmengenai penerapan Manajemen Risiko bagi bank umum syariah dan \nperaturan Otoritas Jasa Keuangan mengenai penerapan Manajemen \nRisiko bagi bank perkreditan rakyat. Prinsip Manajemen Risiko pada \n\n\n \ndasarnya merupakan standar perbankan untuk dapat beroperasi secara \nlebih berhati-hati dalam ruang lingkup perkembangan kegiatan usaha dan \noperasional perbankan yang sangat pesat dewasa ini. Mempertimbangkan \nmasih terdapat kesenjangan modal inti pada industri BPRS, penerapan \nManajemen Risiko dibedakan sesuai dengan modal inti BPRS. Otoritas \nJasa Keuangan menetapkan ketentuan ini sebagai standar minimal yang \nharus dipenuhi oleh BPRS dalam menerapkan Manajemen Risiko. \nDengan ketentuan ini, BPRS diharapkan mampu melaksanakan \nseluruh aktivitas secara terintegrasi dalam suatu pengelolaan Risiko yang \nakurat dan komprehensif. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “Risiko kredit” adalah Risiko akibat \nkegagalan nasabah atau pihak lain dalam memenuhi \nkewajiban kepada BPRS termasuk Risiko akibat BPRS ikut \nmenanggung kerugian usaha nasabah yang dibiayai dalam \npembiayaan berbasis bagi hasil baik yang menggunakan \nmetode net revenue sharing maupun yang menggunakan \nmetode profit and loss sharing (Risiko investasi). \nHuruf b \nYang dimaksud dengan “Risiko operasional” adalah Risiko \nyang antara lain disebabkan adanya ketidakcukupan \ndan/atau tidak berfungsinya proses intern, kesalahan \nsumber daya manusia, kegagalan sistem, dan/atau adanya \nmasalah eksternal yang mempengaruhi operasional BPRS. \n \n \n\n\n \nHuruf c \nYang dimaksud dengan “Risiko kepatuhan” adalah Risiko \nakibat BPRS tidak mematuhi dan/atau tidak melaksanakan \nketentuan peraturan perundang-undangan dan ketentuan \nlain \nserta \nPrinsip \nSyariah, \ntermasuk \nRisiko \nakibat \nkelemahan aspek hukum. \nKelemahan aspek hukum antara lain disebabkan adanya \ntuntutan \nhukum, \nketiadaan \nketentuan \nperaturan \nperundang-undangan yang mendukung atau kelemahan \nperikatan seperti tidak dipenuhinya syarat sahnya kontrak \ndan pengikatan agunan yang tidak sempurna. \nHuruf d \nYang dimaksud dengan “Risiko likuiditas” adalah Risiko \nakibat ketidakmampuan BPRS untuk memenuhi kewajiban \nyang jatuh tempo dari sumber pendanaan arus kas \ndan/atau \naset \nlikuid \nberkualitas \ntinggi \nyang \ndapat \ndiagunkan, tanpa mengganggu aktivitas dan/atau kondisi \nkeuangan BPRS, termasuk Risiko akibat perubahan tingkat \nimbal hasil yang dibayarkan BPRS kepada nasabah, karena \nterjadi perubahan tingkat imbal hasil yang diterima BPRS \ndari penyaluran dana, yang dapat mempengaruhi perilaku \nnasabah dana pihak ketiga BPRS (Risiko imbal hasil (rate of \nreturn risk)). \nHuruf e \nYang dimaksud dengan “Risiko reputasi” adalah Risiko \nakibat \nmenurunnya \ntingkat \nkepercayaan \npemangku \nkepentingan yang bersumber dari persepsi negatif terhadap \nBPRS. \nHuruf f \nYang dimaksud dengan “Risiko strategis” adalah Risiko \nakibat ketidaktepatan BPRS dalam pengambilan dan/atau \npelaksanaan suatu keputusan strategis serta kegagalan \nBPRS dalam mengantisipasi perubahan lingkungan bisnis. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “Risiko kredit” adalah Risiko akibat \nkegagalan nasabah atau pihak lain dalam memenuhi \nkewajiban kepada BPRS termasuk Risiko akibat BPRS ikut \nmenanggung kerugian usaha nasabah yang dibiayai dalam \npembiayaan berbasis bagi hasil baik yang menggunakan \nmetode net revenue sharing maupun yang menggunakan \nmetode profit and loss sharing (Risiko investasi). \nHuruf b \nYang dimaksud dengan “Risiko operasional” adalah Risiko \nyang antara lain disebabkan adanya ketidakcukupan \ndan/atau tidak berfungsinya proses intern, kesalahan \nsumber daya manusia, kegagalan sistem, dan/atau adanya \nmasalah eksternal yang mempengaruhi operasional BPRS. \n \n \n\n\n \nHuruf c \nYang dimaksud dengan “Risiko kepatuhan” adalah Risiko \nakibat BPRS tidak mematuhi dan/atau tidak melaksanakan \nketentuan peraturan perundang-undangan dan ketentuan \nlain \nserta \nPrinsip \nSyariah, \ntermasuk \nRisiko \nakibat \nkelemahan aspek hukum. \nKelemahan aspek hukum antara lain disebabkan adanya \ntuntutan \nhukum, \nketiadaan \nketentuan \nperaturan \nperundang-undangan yang mendukung atau kelemahan \nperikatan seperti tidak dipenuhinya syarat sahnya kontrak \ndan pengikatan agunan yang tidak sempurna. \nHuruf d \nYang dimaksud dengan “Risiko likuiditas” adalah Risiko \nakibat ketidakmampuan BPRS untuk memenuhi kewajiban \nyang jatuh tempo dari sumber pendanaan arus kas \ndan/atau \naset \nlikuid \nberkualitas \ntinggi \nyang \ndapat \ndiagunkan, tanpa mengganggu aktivitas dan/atau kondisi \nkeuangan BPRS, termasuk Risiko akibat perubahan tingkat \nimbal hasil yang dibayarkan BPRS kepada nasabah, karena \nterjadi perubahan tingkat imbal hasil yang diterima BPRS \ndari penyaluran dana, yang dapat mempengaruhi perilaku \nnasabah dana pihak ketiga BPRS (Risiko imbal hasil (rate of \nreturn risk)). \nHuruf e \nYang dimaksud dengan “Risiko reputasi” adalah Risiko \nakibat \nmenurunnya \ntingkat \nkepercayaan \npemangku \nkepentingan yang bersumber dari persepsi negatif terhadap \nBPRS. \nHuruf f \nYang dimaksud dengan “Risiko strategis” adalah Risiko \nakibat ketidaktepatan BPRS dalam pengambilan dan/atau \npelaksanaan suatu keputusan strategis serta kegagalan \nBPRS dalam mengantisipasi perubahan lingkungan bisnis. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penetapan wewenang dan tanggung jawab yang jelas pada setiap \njenjang jabatan yang terkait dengan penerapan Manajemen Risiko \nbertujuan untuk efektivitas pengawasan penerapan Manajemen \nRisiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penetapan wewenang dan tanggung jawab yang jelas pada setiap \njenjang jabatan yang terkait dengan penerapan Manajemen Risiko \nbertujuan untuk efektivitas pengawasan penerapan Manajemen \nRisiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nKebijakan Manajemen Risiko memuat antara lain strategi \ndan kerangka Risiko yang ditetapkan sesuai dengan tingkat \nRisiko yang akan diambil (risk appetite) dan toleransi risiko \n(risk tolerance). \nHuruf b \nTransaksi yang memerlukan persetujuan Direksi antara \nlain transaksi yang telah melampaui kewenangan pejabat \nBPRS 1 (satu) tingkat di bawah Direksi, sesuai dengan \nkebijakan dan prosedur intern yang berlaku. \nHuruf c \nPengembangan budaya Manajemen Risiko antara lain \nmeliputi penyampaian informasi kepada seluruh pegawai \ndan \nkomunikasi \nyang \nmemadai \nmengenai \nprinsip \nManajemen Risiko termasuk mengembangkan budaya sadar \nRisiko serta pentingnya pengendalian intern yang efektif. \nHuruf d \nPeningkatan kompetensi sumber daya manusia antara lain \nmelalui \nprogram \npendidikan \ndan \npelatihan \nsecara \nberkesinambungan mengenai penerapan Manajemen Risiko. \nHuruf e \nYang dimaksud dengan “independen” antara lain adanya \npemisahan fungsi antara satuan kerja atau Pejabat \nEksekutif yang bertanggung jawab menangani fungsi \nManajemen Risiko dengan satuan kerja atau pegawai yang \nmelaksanakan fungsi operasional BPRS dan fungsi audit \nintern. \nFungsi operasional yaitu fungsi yang terkait dengan \npenghimpunan dana dan penyaluran dana. \n \n\n\n \nHuruf f \nAngka 1)  \nTermasuk tanggung jawab atas pelaksanaan kebijakan \nManajemen Risiko yaitu: \na) \nmengevaluasi \ndan \nmemberikan \narahan \nberdasarkan laporan yang disampaikan oleh \nsatuan \nkerja \natau \nPejabat \nEksekutif \nyang \nbertanggung jawab terhadap pelaksanaan fungsi \nManajemen Risiko; \nb) \nmenyampaikan \nlaporan \npertanggungjawaban \nkepada Dewan Komisaris dan Dewan Pengawas \nSyariah setiap 6 (enam) bulan sekali atau lebih \ntergantung \nadanya \nperubahan \noperasional, \npenerbitan produk baru, dan/atau pelaksanaan \naktivitas baru; \nc) \nmemastikan dampak risiko yang signifikan telah \nditindaklanjuti; \nd) \nmengomunikasikan kebijakan Manajemen Risiko \nsecara efektif kepada seluruh jenjang organisasi \nyang relevan agar dipahami secara jelas; dan \ne) \nmemastikan satuan kerja atau pegawai yang \nmenangani fungsi operasional menginformasikan \neksposur Risiko yang melekat pada satuan kerja \nyang \nbersangkutan \nkepada \nsatuan \nkerja \nManajemen Risiko atau Pejabat Eksekutif yang \nbertanggung jawab terhadap pelaksanaan fungsi \nManajemen Risiko setiap 6 (enam) bulan sekali \natau \nlebih \ntergantung \nadanya \nperubahan \noperasional, penerbitan produk baru, dan/atau \npelaksanaan aktivitas baru. \nAngka 2)  \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “memiliki pemahaman yang memadai” \nadalah termasuk pemahaman terhadap Prinsip Syariah yang \nterkait dengan aktivitas fungsional BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nKebijakan Manajemen Risiko memuat antara lain strategi \ndan kerangka Risiko yang ditetapkan sesuai dengan tingkat \nRisiko yang akan diambil (risk appetite) dan toleransi risiko \n(risk tolerance). \nHuruf b \nTransaksi yang memerlukan persetujuan Direksi antara \nlain transaksi yang telah melampaui kewenangan pejabat \nBPRS 1 (satu) tingkat di bawah Direksi, sesuai dengan \nkebijakan dan prosedur intern yang berlaku. \nHuruf c \nPengembangan budaya Manajemen Risiko antara lain \nmeliputi penyampaian informasi kepada seluruh pegawai \ndan \nkomunikasi \nyang \nmemadai \nmengenai \nprinsip \nManajemen Risiko termasuk mengembangkan budaya sadar \nRisiko serta pentingnya pengendalian intern yang efektif. \nHuruf d \nPeningkatan kompetensi sumber daya manusia antara lain \nmelalui \nprogram \npendidikan \ndan \npelatihan \nsecara \nberkesinambungan mengenai penerapan Manajemen Risiko. \nHuruf e \nYang dimaksud dengan “independen” antara lain adanya \npemisahan fungsi antara satuan kerja atau Pejabat \nEksekutif yang bertanggung jawab menangani fungsi \nManajemen Risiko dengan satuan kerja atau pegawai yang \nmelaksanakan fungsi operasional BPRS dan fungsi audit \nintern. \nFungsi operasional yaitu fungsi yang terkait dengan \npenghimpunan dana dan penyaluran dana. \n \n\n\n \nHuruf f \nAngka 1)  \nTermasuk tanggung jawab atas pelaksanaan kebijakan \nManajemen Risiko yaitu: \na) \nmengevaluasi \ndan \nmemberikan \narahan \nberdasarkan laporan yang disampaikan oleh \nsatuan \nkerja \natau \nPejabat \nEksekutif \nyang \nbertanggung jawab terhadap pelaksanaan fungsi \nManajemen Risiko; \nb) \nmenyampaikan \nlaporan \npertanggungjawaban \nkepada Dewan Komisaris dan Dewan Pengawas \nSyariah setiap 6 (enam) bulan sekali atau lebih \ntergantung \nadanya \nperubahan \noperasional, \npenerbitan produk baru, dan/atau pelaksanaan \naktivitas baru; \nc) \nmemastikan dampak risiko yang signifikan telah \nditindaklanjuti; \nd) \nmengomunikasikan kebijakan Manajemen Risiko \nsecara efektif kepada seluruh jenjang organisasi \nyang relevan agar dipahami secara jelas; dan \ne) \nmemastikan satuan kerja atau pegawai yang \nmenangani fungsi operasional menginformasikan \neksposur Risiko yang melekat pada satuan kerja \nyang \nbersangkutan \nkepada \nsatuan \nkerja \nManajemen Risiko atau Pejabat Eksekutif yang \nbertanggung jawab terhadap pelaksanaan fungsi \nManajemen Risiko setiap 6 (enam) bulan sekali \natau \nlebih \ntergantung \nadanya \nperubahan \noperasional, penerbitan produk baru, dan/atau \npelaksanaan aktivitas baru. \nAngka 2)  \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “memiliki pemahaman yang memadai” \nadalah termasuk pemahaman terhadap Prinsip Syariah yang \nterkait dengan aktivitas fungsional BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nEvaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan \nKomisaris 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu \ndalam hal terdapat perubahan yang mempengaruhi kegiatan \nusaha BPRS secara signifikan. \nHuruf b \nCukup jelas. \nHuruf c \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris \nsetiap semester atau lebih. \nHuruf d \nTransaksi yang memerlukan persetujuan Dewan Komisaris yaitu \ntransaksi yang sesuai dengan peraturan perundang-undangan \nmemerlukan \npersetujuan \nDewan \nKomisaris, \nantara \nlain \npemberian pembiayaan kepada pihak terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nEvaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan \nKomisaris 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu \ndalam hal terdapat perubahan yang mempengaruhi kegiatan \nusaha BPRS secara signifikan. \nHuruf b \nCukup jelas. \nHuruf c \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris \nsetiap semester atau lebih. \nHuruf d \nTransaksi yang memerlukan persetujuan Dewan Komisaris yaitu \ntransaksi yang sesuai dengan peraturan perundang-undangan \nmemerlukan \npersetujuan \nDewan \nKomisaris, \nantara \nlain \npemberian pembiayaan kepada pihak terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \n \nEvaluasi kebijakan Manajemen Risiko yang terkait dengan \npemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas \nSyariah 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu \ndalam hal terdapat perubahan yang mempengaruhi kegiatan \nusaha BPRS secara signifikan. \nHuruf b \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko yang terkait dengan pemenuhan \nPrinsip Syariah dilakukan oleh Dewan Pengawas Syariah setiap \nsemester atau lebih.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \n \nEvaluasi kebijakan Manajemen Risiko yang terkait dengan \npemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas \nSyariah 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu \ndalam hal terdapat perubahan yang mempengaruhi kegiatan \nusaha BPRS secara signifikan. \nHuruf b \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko yang terkait dengan pemenuhan \nPrinsip Syariah dilakukan oleh Dewan Pengawas Syariah setiap \nsemester atau lebih."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penetapan kebijakan Manajemen Risiko mempertimbangkan kondisi \nkeuangan, struktur dan kompleksitas organisasi, serta Risiko yang \ntimbul sebagai akibat perubahan faktor intern dan ekstern. \nHuruf a \nCukup jelas. \n\n\n \nHuruf b \nTermasuk dalam sistem informasi Manajemen Risiko yaitu alur \ninformasi kepada Direksi BPRS dengan memanfaatkan teknologi \ninformasi maupun hasil pengolahan data untuk mendukung \npengambilan keputusan. \nHuruf c \nYang dimaksud dengan “toleransi Risiko” adalah potensi \nkerugian yang dapat diserap oleh permodalan BPRS. \nHuruf d \nYang dimaksud dengan “penilaian peringkat Risiko” adalah \ndasar bagi BPRS untuk menetapkan peringkat Risiko BPRS yang \ndikategorikan menjadi 5 (lima) peringkat Risiko, yaitu sangat \nrendah, rendah, sedang, tinggi, dan sangat tinggi. \nHuruf e \nYang dimaksud dengan “rencana darurat dalam kondisi \nterburuk \natau \nrencana \nkontingensi” \nadalah \nrencana \npengembangan \nskenario \nuntuk \nmengantisipasi \nterjadinya \ngangguan intern termasuk kegagalan sistem serta gangguan \nekstern yang menyebabkan terjadinya kondisi darurat yang \ndapat menyebabkan terganggunya operasional BPRS. \nHuruf f \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penetapan kebijakan Manajemen Risiko mempertimbangkan kondisi \nkeuangan, struktur dan kompleksitas organisasi, serta Risiko yang \ntimbul sebagai akibat perubahan faktor intern dan ekstern. \nHuruf a \nCukup jelas. \n\n\n \nHuruf b \nTermasuk dalam sistem informasi Manajemen Risiko yaitu alur \ninformasi kepada Direksi BPRS dengan memanfaatkan teknologi \ninformasi maupun hasil pengolahan data untuk mendukung \npengambilan keputusan. \nHuruf c \nYang dimaksud dengan “toleransi Risiko” adalah potensi \nkerugian yang dapat diserap oleh permodalan BPRS. \nHuruf d \nYang dimaksud dengan “penilaian peringkat Risiko” adalah \ndasar bagi BPRS untuk menetapkan peringkat Risiko BPRS yang \ndikategorikan menjadi 5 (lima) peringkat Risiko, yaitu sangat \nrendah, rendah, sedang, tinggi, dan sangat tinggi. \nHuruf e \nYang dimaksud dengan “rencana darurat dalam kondisi \nterburuk \natau \nrencana \nkontingensi” \nadalah \nrencana \npengembangan \nskenario \nuntuk \nmengantisipasi \nterjadinya \ngangguan intern termasuk kegagalan sistem serta gangguan \nekstern yang menyebabkan terjadinya kondisi darurat yang \ndapat menyebabkan terganggunya operasional BPRS. \nHuruf f \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Prosedur Manajemen Risiko dan penetapan limit Risiko disesuaikan \ndengan tingkat Risiko yang akan diambil (risk appetite). \nTingkat Risiko yang akan diambil memperhatikan pengalaman yang \ndimiliki oleh BPRS terkait dengan Risiko transaksi bisnis BPRS pada \nmasa lalu. \nAyat (1) \nHuruf a \n \nCukup jelas. \nHuruf b \n \n \n \nYang dimaksud dengan “dokumentasi prosedur Manajemen \nRisiko dan penetapan limit Risiko yang memadai” adalah \ndokumentasi yang tertulis, lengkap, akurat, kini, dan utuh \n\n\n \nsehingga dapat memudahkan untuk dilakukan jejak audit \nuntuk keperluan pengendalian intern BPRS. \n \nAyat (2) \nHuruf a \nYang dimaksud dengan “limit secara keseluruhan” adalah \nbatas Risiko yang dapat ditoleransi oleh BPRS atas seluruh \nRisiko yang diterapkan. \nHuruf b \nYang dimaksud dengan “limit per jenis Risiko” adalah batas \nRisiko yang dapat ditoleransi oleh BPRS untuk setiap jenis \nRisiko. \nHuruf c \nYang dimaksud dengan “limit per aktivitas fungsional \ntertentu” adalah batas Risiko yang dapat ditoleransi oleh \nBPRS untuk setiap aktivitas fungsional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prosedur Manajemen Risiko dan penetapan limit Risiko disesuaikan \ndengan tingkat Risiko yang akan diambil (risk appetite). \nTingkat Risiko yang akan diambil memperhatikan pengalaman yang \ndimiliki oleh BPRS terkait dengan Risiko transaksi bisnis BPRS pada \nmasa lalu. \nAyat (1) \nHuruf a \n \nCukup jelas. \nHuruf b \n \n \n \nYang dimaksud dengan “dokumentasi prosedur Manajemen \nRisiko dan penetapan limit Risiko yang memadai” adalah \ndokumentasi yang tertulis, lengkap, akurat, kini, dan utuh \n\n\n \nsehingga dapat memudahkan untuk dilakukan jejak audit \nuntuk keperluan pengendalian intern BPRS. \n \nAyat (2) \nHuruf a \nYang dimaksud dengan “limit secara keseluruhan” adalah \nbatas Risiko yang dapat ditoleransi oleh BPRS atas seluruh \nRisiko yang diterapkan. \nHuruf b \nYang dimaksud dengan “limit per jenis Risiko” adalah batas \nRisiko yang dapat ditoleransi oleh BPRS untuk setiap jenis \nRisiko. \nHuruf c \nYang dimaksud dengan “limit per aktivitas fungsional \ntertentu” adalah batas Risiko yang dapat ditoleransi oleh \nBPRS untuk setiap aktivitas fungsional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “faktor Risiko yang bersifat material” \nadalah faktor Risiko yang bersifat kuantitatif dan kualitatif yang \nberpengaruh secara signifikan terhadap kondisi keuangan BPRS. \n \nAyat (2) \n \n \nHuruf a \nYang dimaksud dengan “sistem informasi manajemen yang \nmemadai” adalah sistem informasi manajemen yang mampu \nmenyediakan data dan informasi yang lengkap, akurat, kini, \ndan utuh untuk pengambilan keputusan terkait dengan \nManajemen Risiko. \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “faktor Risiko yang bersifat material” \nadalah faktor Risiko yang bersifat kuantitatif dan kualitatif yang \nberpengaruh secara signifikan terhadap kondisi keuangan BPRS. \n \nAyat (2) \n \n \nHuruf a \nYang dimaksud dengan “sistem informasi manajemen yang \nmemadai” adalah sistem informasi manajemen yang mampu \nmenyediakan data dan informasi yang lengkap, akurat, kini, \ndan utuh untuk pengambilan keputusan terkait dengan \nManajemen Risiko. \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nIdentifikasi Risiko dilakukan berdasarkan pengalaman pada \nmasa lalu terkait dengan transaksi yang menyebabkan kerugian, \nmenurunkan keuntungan, atau menyebabkan permasalahan \npada BPRS. \n\n\n \nAyat (2) \nHuruf a \nEvaluasi dilakukan oleh satuan kerja atau pejabat yang \nindependen dan tidak terkait dengan penyusunan dan/atau \npenetapan dalam melaksanakan pengukuran Risiko. \nEvaluasi dilakukan sesuai dengan perkembangan usaha, \nkondisi intern dan ekstern BPRS yang dapat langsung \nmempengaruhi kondisi BPRS. \nHuruf b \nTermasuk dalam perubahan yang bersifat material yaitu \nterdapat perubahan kegiatan usaha, produk, transaksi, \nstruktur organisasi, sistem informasi, dan faktor Risiko \nyang bersifat kuantitatif dan kualitatif yang berpengaruh \nsecara signifikan terhadap kondisi BPRS. \nAyat (3) \nHuruf a \nEvaluasi terhadap eksposur Risiko dilakukan oleh satuan \nkerja atau pejabat independen yang tidak terkait dengan \npenyusunan dan/atau penetapan eksposur Risiko, dengan \ncara pemantauan dan pelaporan Risiko yang signifikan atau \nyang berdampak terhadap kondisi permodalan BPRS, yang \nantara lain dilakukan dengan menggunakan analisis data \nhistoris. \nHuruf b \nCukup jelas. \nAyat (4) \nTermasuk dalam proses pengendalian Risiko yaitu penambahan \nmodal untuk menyerap potensi kerugian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nIdentifikasi Risiko dilakukan berdasarkan pengalaman pada \nmasa lalu terkait dengan transaksi yang menyebabkan kerugian, \nmenurunkan keuntungan, atau menyebabkan permasalahan \npada BPRS. \n\n\n \nAyat (2) \nHuruf a \nEvaluasi dilakukan oleh satuan kerja atau pejabat yang \nindependen dan tidak terkait dengan penyusunan dan/atau \npenetapan dalam melaksanakan pengukuran Risiko. \nEvaluasi dilakukan sesuai dengan perkembangan usaha, \nkondisi intern dan ekstern BPRS yang dapat langsung \nmempengaruhi kondisi BPRS. \nHuruf b \nTermasuk dalam perubahan yang bersifat material yaitu \nterdapat perubahan kegiatan usaha, produk, transaksi, \nstruktur organisasi, sistem informasi, dan faktor Risiko \nyang bersifat kuantitatif dan kualitatif yang berpengaruh \nsecara signifikan terhadap kondisi BPRS. \nAyat (3) \nHuruf a \nEvaluasi terhadap eksposur Risiko dilakukan oleh satuan \nkerja atau pejabat independen yang tidak terkait dengan \npenyusunan dan/atau penetapan eksposur Risiko, dengan \ncara pemantauan dan pelaporan Risiko yang signifikan atau \nyang berdampak terhadap kondisi permodalan BPRS, yang \nantara lain dilakukan dengan menggunakan analisis data \nhistoris. \nHuruf b \nCukup jelas. \nAyat (4) \nTermasuk dalam proses pengendalian Risiko yaitu penambahan \nmodal untuk menyerap potensi kerugian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nLaporan \natau \ninformasi \nmengenai \neksposur \nRisiko \nmencakup \neksposur \nRisiko \nyang \nbersifat \nkuantitatif \ndan/atau kualitatif secara keseluruhan, rincian per jenis \nRisiko dan per jenis aktivitas fungsional. \n \n\n\n \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “secara berkala” adalah setiap 6 (enam) \nbulan \nsekali \natau \nlebih \ntergantung \nadanya \nperubahan \noperasional, penerbitan produk baru, dan/atau pelaksanaan \naktivitas baru.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nLaporan \natau \ninformasi \nmengenai \neksposur \nRisiko \nmencakup \neksposur \nRisiko \nyang \nbersifat \nkuantitatif \ndan/atau kualitatif secara keseluruhan, rincian per jenis \nRisiko dan per jenis aktivitas fungsional. \n \n\n\n \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “secara berkala” adalah setiap 6 (enam) \nbulan \nsekali \natau \nlebih \ntergantung \nadanya \nperubahan \noperasional, penerbitan produk baru, dan/atau pelaksanaan \naktivitas baru."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Tujuan \nsistem \npengendalian \nintern \nyang \nmenyeluruh \nuntuk \nmemastikan: \na. \nkepatuhan terhadap peraturan perundang-undangan, kebijakan, \ndan ketentuan intern BPRS; \nb. \ntersedianya informasi keuangan dan manajemen yang lengkap, \nakurat, kini, dan utuh; \nc. \nefektivitas dan efisiensi dalam kegiatan operasional; dan \nd. \nefektivitas \nbudaya \nRisiko \npada \norganisasi \nBPRS \nsecara \nmenyeluruh.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tujuan \nsistem \npengendalian \nintern \nyang \nmenyeluruh \nuntuk \nmemastikan: \na. \nkepatuhan terhadap peraturan perundang-undangan, kebijakan, \ndan ketentuan intern BPRS; \nb. \ntersedianya informasi keuangan dan manajemen yang lengkap, \nakurat, kini, dan utuh; \nc. \nefektivitas dan efisiensi dalam kegiatan operasional; dan \nd. \nefektivitas \nbudaya \nRisiko \npada \norganisasi \nBPRS \nsecara \nmenyeluruh."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \n \n \n\n\n \nHuruf d \nYang dimaksud dengan “penetapan jalur pelaporan dan \npemisahan fungsi yang jelas” adalah: \na. \njalur pelaporan dari satuan kerja atau pegawai yang \nmenangani operasional kepada satuan kerja atau \npegawai yang melaksanakan fungsi pengendalian; dan \nb. \npemisahan fungsi satuan kerja atau pegawai yang \nmenangani operasional dengan satuan kerja atau \npegawai yang melaksanakan fungsi pengendalian. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas. \nHuruf h \nYang dimaksud dengan “dokumentasi secara lengkap dan \nmemadai” \nadalah \ndokumentasi \nterhadap \nprosedur \noperasional, cakupan dan temuan audit serta tanggapan \npengurus BPRS terhadap hasil audit. \nPengurus yaitu anggota Direksi dan anggota Dewan \nKomisaris. \nHuruf i \nVerifikasi dan kaji ulang terhadap sistem pengendalian \nintern termasuk penanganan kelemahan \nBPRS yang \nbersifat signifikan serta tindakan pengurus BPRS untuk \nmemperbaiki penyimpangan yang terjadi. \nPengurus yaitu anggota Direksi dan anggota Dewan \nKomisaris. \nAyat (2) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \n \n \n\n\n \nHuruf d \nYang dimaksud dengan “penetapan jalur pelaporan dan \npemisahan fungsi yang jelas” adalah: \na. \njalur pelaporan dari satuan kerja atau pegawai yang \nmenangani operasional kepada satuan kerja atau \npegawai yang melaksanakan fungsi pengendalian; dan \nb. \npemisahan fungsi satuan kerja atau pegawai yang \nmenangani operasional dengan satuan kerja atau \npegawai yang melaksanakan fungsi pengendalian. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas. \nHuruf h \nYang dimaksud dengan “dokumentasi secara lengkap dan \nmemadai” \nadalah \ndokumentasi \nterhadap \nprosedur \noperasional, cakupan dan temuan audit serta tanggapan \npengurus BPRS terhadap hasil audit. \nPengurus yaitu anggota Direksi dan anggota Dewan \nKomisaris. \nHuruf i \nVerifikasi dan kaji ulang terhadap sistem pengendalian \nintern termasuk penanganan kelemahan \nBPRS yang \nbersifat signifikan serta tindakan pengurus BPRS untuk \nmemperbaiki penyimpangan yang terjadi. \nPengurus yaitu anggota Direksi dan anggota Dewan \nKomisaris. \nAyat (2) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nKomite Manajemen Risiko merupakan unit yang tidak \nbersifat struktural dengan keanggotaan dapat bersifat tetap \natau tidak tetap sesuai dengan kebijakan BPRS. \nHuruf b  \nSatuan kerja Manajemen Risiko merupakan satuan kerja \nyang bersifat struktural. \nAyat (2) \nSatuan kerja Manajemen Risiko dan satuan kerja kepatuhan \ndapat digabungkan menjadi 1 (satu) satuan kerja yang \nmelaksanakan fungsi Manajemen Risiko dan fungsi kepatuhan. \nAyat (3) \nPejabat \nEksekutif \nyang \nbertanggung \njawab \nterhadap \npelaksanaan fungsi Manajemen Risiko dapat merangkap sebagai \nPejabat \nEksekutif \nyang \nbertanggung \njawab \nterhadap \npelaksanaan fungsi kepatuhan. \nAyat (4) \nBPRS dapat mempertimbangkan untuk membentuk komite \nManajemen Risiko apabila diperlukan. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nKomite Manajemen Risiko merupakan unit yang tidak \nbersifat struktural dengan keanggotaan dapat bersifat tetap \natau tidak tetap sesuai dengan kebijakan BPRS. \nHuruf b  \nSatuan kerja Manajemen Risiko merupakan satuan kerja \nyang bersifat struktural. \nAyat (2) \nSatuan kerja Manajemen Risiko dan satuan kerja kepatuhan \ndapat digabungkan menjadi 1 (satu) satuan kerja yang \nmelaksanakan fungsi Manajemen Risiko dan fungsi kepatuhan. \nAyat (3) \nPejabat \nEksekutif \nyang \nbertanggung \njawab \nterhadap \npelaksanaan fungsi Manajemen Risiko dapat merangkap sebagai \nPejabat \nEksekutif \nyang \nbertanggung \njawab \nterhadap \npelaksanaan fungsi kepatuhan. \nAyat (4) \nBPRS dapat mempertimbangkan untuk membentuk komite \nManajemen Risiko apabila diperlukan. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “mayoritas anggota Direksi” adalah \nlebih dari 50% (lima puluh persen) dari seluruh jumlah \nanggota Direksi. \nAnggota Direksi dalam komite Manajemen Risiko tidak \ntermasuk direktur utama dan paling sedikit terdiri dari \nanggota Direksi yang membawahkan fungsi kepatuhan. \nHuruf b \nYang dimaksud dengan “Pejabat Eksekutif terkait” adalah \npejabat BPRS 1 (satu) tingkat di bawah Direksi yang \nmemimpin satuan kerja operasional dan kepala satuan \n\n\n \nkerja Manajemen Risiko. Keanggotaan Pejabat Eksekutif \ndalam komite Manajemen Risiko disesuaikan dengan \npermasalahan dan kebutuhan BPRS. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nTermasuk dalam keputusan operasional yang menyimpang \ndari prosedur normal antara lain pelampauan ekspansi \nusaha yang signifikan dibandingkan rencana bisnis BPRS \ndan pengambilan posisi atau eksposur Risiko yang tidak \nsesuai dengan limit yang telah ditetapkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “mayoritas anggota Direksi” adalah \nlebih dari 50% (lima puluh persen) dari seluruh jumlah \nanggota Direksi. \nAnggota Direksi dalam komite Manajemen Risiko tidak \ntermasuk direktur utama dan paling sedikit terdiri dari \nanggota Direksi yang membawahkan fungsi kepatuhan. \nHuruf b \nYang dimaksud dengan “Pejabat Eksekutif terkait” adalah \npejabat BPRS 1 (satu) tingkat di bawah Direksi yang \nmemimpin satuan kerja operasional dan kepala satuan \n\n\n \nkerja Manajemen Risiko. Keanggotaan Pejabat Eksekutif \ndalam komite Manajemen Risiko disesuaikan dengan \npermasalahan dan kebutuhan BPRS. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nTermasuk dalam keputusan operasional yang menyimpang \ndari prosedur normal antara lain pelampauan ekspansi \nusaha yang signifikan dibandingkan rencana bisnis BPRS \ndan pengambilan posisi atau eksposur Risiko yang tidak \nsesuai dengan limit yang telah ditetapkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “independen” adalah satuan kerja \nManajemen Risiko atau Pejabat Eksekutif yang ditunjuk \nbertanggung jawab terhadap pelaksanaan fungsi Manajemen \nRisiko tidak menangani fungsi penghimpunan dana dan \npenyaluran dana serta tidak melaksanakan fungsi audit intern. \nAyat (2) \nCukup jelas. \nAyat (3) \nWewenang dan tanggung jawab satuan kerja Manajemen Risiko \natau Pejabat Eksekutif yang ditunjuk bertanggung jawab \nterhadap pelaksanaan fungsi Manajemen Risiko disesuaikan \ndengan kompleksitas kegiatan usaha BPRS. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nPengkajian \nusulan \npenerbitan \nproduk \ndan/atau \npelaksanaan aktivitas baru bertujuan untuk menilai \nkemampuan \nBPRS \nmenerbitkan \nproduk \ndan/atau \n\n\n \nmelaksanakan aktivitas baru termasuk kajian perubahan \nsistem dan prosedur karena adanya penerbitan produk \ndan/atau pelaksanaan aktivitas baru. \nHuruf d \nYang dimaksud dengan “satuan kerja atau pegawai yang \nmenangani fungsi operasional” adalah satuan kerja atau \npegawai yang menangani kegiatan penghimpunan dana, \npenyaluran dana, dan kegiatan operasional lainnya. \nRekomendasi termasuk besaran atau maksimum eksposur \nRisiko yang harus dijaga BPRS. \nRekomendasi disampaikan kepada komite Manajemen \nRisiko dalam hal sesuai ketentuan BPRS diwajibkan \nmemiliki komite Manajemen Risiko atau BPRS yang \nmemiliki komite Manajemen Risiko. \nHuruf e \nProfil Risiko merupakan gambaran secara menyeluruh atas \nbesarnya potensi Risiko yang melekat pada seluruh \nportofolio atau eksposur BPRS. \nPenyampaian laporan secara berkala disesuaikan dengan \nkondisi BPRS dan paling sedikit dilakukan setiap semester. \nLaporan \nprofil \nRisiko \ndisampaikan \nkepada \nkomite \nManajemen Risiko dalam hal sesuai ketentuan BPRS \ndiwajibkan memiliki komite Manajemen Risiko atau BPRS \nyang memiliki komite Manajemen Risiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “independen” adalah satuan kerja \nManajemen Risiko atau Pejabat Eksekutif yang ditunjuk \nbertanggung jawab terhadap pelaksanaan fungsi Manajemen \nRisiko tidak menangani fungsi penghimpunan dana dan \npenyaluran dana serta tidak melaksanakan fungsi audit intern. \nAyat (2) \nCukup jelas. \nAyat (3) \nWewenang dan tanggung jawab satuan kerja Manajemen Risiko \natau Pejabat Eksekutif yang ditunjuk bertanggung jawab \nterhadap pelaksanaan fungsi Manajemen Risiko disesuaikan \ndengan kompleksitas kegiatan usaha BPRS. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nPengkajian \nusulan \npenerbitan \nproduk \ndan/atau \npelaksanaan aktivitas baru bertujuan untuk menilai \nkemampuan \nBPRS \nmenerbitkan \nproduk \ndan/atau \n\n\n \nmelaksanakan aktivitas baru termasuk kajian perubahan \nsistem dan prosedur karena adanya penerbitan produk \ndan/atau pelaksanaan aktivitas baru. \nHuruf d \nYang dimaksud dengan “satuan kerja atau pegawai yang \nmenangani fungsi operasional” adalah satuan kerja atau \npegawai yang menangani kegiatan penghimpunan dana, \npenyaluran dana, dan kegiatan operasional lainnya. \nRekomendasi termasuk besaran atau maksimum eksposur \nRisiko yang harus dijaga BPRS. \nRekomendasi disampaikan kepada komite Manajemen \nRisiko dalam hal sesuai ketentuan BPRS diwajibkan \nmemiliki komite Manajemen Risiko atau BPRS yang \nmemiliki komite Manajemen Risiko. \nHuruf e \nProfil Risiko merupakan gambaran secara menyeluruh atas \nbesarnya potensi Risiko yang melekat pada seluruh \nportofolio atau eksposur BPRS. \nPenyampaian laporan secara berkala disesuaikan dengan \nkondisi BPRS dan paling sedikit dilakukan setiap semester. \nLaporan \nprofil \nRisiko \ndisampaikan \nkepada \nkomite \nManajemen Risiko dalam hal sesuai ketentuan BPRS \ndiwajibkan memiliki komite Manajemen Risiko atau BPRS \nyang memiliki komite Manajemen Risiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPermintaan penyesuaian terhadap rencana tindak oleh Otoritas \nJasa Keuangan antara lain dalam hal rencana tindak dinilai \nbelum sepenuhnya memenuhi persyaratan yang ditetapkan \nOtoritas Jasa Keuangan dan/atau BPRS yang berdasarkan \nlaporan bulanan mengalami peningkatan modal inti sehingga \nmenjadi paling sedikit Rp50.000.000.000,00 (lima puluh miliar \n\n\n \nrupiah) atau menjadi paling sedikit Rp80.000.000.000,00 \n(delapan puluh miliar rupiah) selama 6 (enam) posisi laporan \nbulanan berturut-turut. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPermintaan penyesuaian terhadap rencana tindak oleh Otoritas \nJasa Keuangan antara lain dalam hal rencana tindak dinilai \nbelum sepenuhnya memenuhi persyaratan yang ditetapkan \nOtoritas Jasa Keuangan dan/atau BPRS yang berdasarkan \nlaporan bulanan mengalami peningkatan modal inti sehingga \nmenjadi paling sedikit Rp50.000.000.000,00 (lima puluh miliar \n\n\n \nrupiah) atau menjadi paling sedikit Rp80.000.000.000,00 \n(delapan puluh miliar rupiah) selama 6 (enam) posisi laporan \nbulanan berturut-turut. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “semester pertama” adalah 1 Januari \nsampai dengan 30 Juni. \nYang dimaksud dengan “semester kedua” adalah 1 Juli sampai \ndengan 31 Desember. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “semester pertama” adalah 1 Januari \nsampai dengan 30 Juni. \nYang dimaksud dengan “semester kedua” adalah 1 Juli sampai \ndengan 31 Desember. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLaporan profil Risiko yang disampaikan BPRS kepada Otoritas \nJasa Keuangan didasarkan atas data dan informasi yang \nlengkap, akurat, kini, dan utuh. \nAyat (2) \n \nLaporan profil Risiko disampaikan oleh satuan kerja Manajemen \nRisiko atau Pejabat Eksekutif yang ditunjuk bertanggung jawab \nterhadap pelaksanaan fungsi Manajemen Risiko kepada komite \nManajemen Risiko dalam hal sesuai Peraturan Otoritas Jasa \nKeuangan ini BPRS diwajibkan memiliki komite Manajemen \nRisiko atau BPRS yang memiliki komite Manajemen Risiko. \nAyat (3) \nYang dimaksud dengan “semester pertama” adalah 1 Januari \nsampai dengan 30 Juni. \n\n\n \nYang dimaksud dengan “semester kedua” adalah 1 Juli sampai \ndengan 31 Desember. \n \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLaporan profil Risiko yang disampaikan BPRS kepada Otoritas \nJasa Keuangan didasarkan atas data dan informasi yang \nlengkap, akurat, kini, dan utuh. \nAyat (2) \n \nLaporan profil Risiko disampaikan oleh satuan kerja Manajemen \nRisiko atau Pejabat Eksekutif yang ditunjuk bertanggung jawab \nterhadap pelaksanaan fungsi Manajemen Risiko kepada komite \nManajemen Risiko dalam hal sesuai Peraturan Otoritas Jasa \nKeuangan ini BPRS diwajibkan memiliki komite Manajemen \nRisiko atau BPRS yang memiliki komite Manajemen Risiko. \nAyat (3) \nYang dimaksud dengan “semester pertama” adalah 1 Januari \nsampai dengan 30 Juni. \n\n\n \nYang dimaksud dengan “semester kedua” adalah 1 Juli sampai \ndengan 31 Desember. \n \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kondisi berpotensi menimbulkan \nkerugian yang signifikan terhadap kondisi keuangan BPRS” \nadalah kondisi yang berpotensi menurunkan keuntungan, \nmenyebabkan kerugian, atau menurunkan rasio permodalan \nBPRS. \nAyat (2) \nContoh: \nBPRS A memiliki modal inti sebesar Rp10.000.000.000,00 \n(sepuluh miliar rupiah) pada tahun 2024 dan diwajibkan \nmenyampaikan laporan profil Risiko yang meliputi Risiko kredit \ndan Risiko operasional. Namun demikian, akibat adanya \npenarikan dana pihak ketiga dalam jumlah yang besar dalam \nwaktu yang singkat, BPRS A terekspos pada Risiko likuiditas. \nDengan kondisi tersebut, BPRS A diwajibkan menyampaikan \nlaporan profil Risiko lain yaitu Risiko likuiditas. \nAyat (3) \nCukup jelas. \nAyat (4) \nPermintaan Otoritas Jasa Keuangan antara lain karena BPRS \ntelah ditetapkan oleh Otoritas Jasa Keuangan sebagai BPRS \ndalam pengawasan intensif atau BPRS dalam pengawasan \nkhusus.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kondisi berpotensi menimbulkan \nkerugian yang signifikan terhadap kondisi keuangan BPRS” \nadalah kondisi yang berpotensi menurunkan keuntungan, \nmenyebabkan kerugian, atau menurunkan rasio permodalan \nBPRS. \nAyat (2) \nContoh: \nBPRS A memiliki modal inti sebesar Rp10.000.000.000,00 \n(sepuluh miliar rupiah) pada tahun 2024 dan diwajibkan \nmenyampaikan laporan profil Risiko yang meliputi Risiko kredit \ndan Risiko operasional. Namun demikian, akibat adanya \npenarikan dana pihak ketiga dalam jumlah yang besar dalam \nwaktu yang singkat, BPRS A terekspos pada Risiko likuiditas. \nDengan kondisi tersebut, BPRS A diwajibkan menyampaikan \nlaporan profil Risiko lain yaitu Risiko likuiditas. \nAyat (3) \nCukup jelas. \nAyat (4) \nPermintaan Otoritas Jasa Keuangan antara lain karena BPRS \ntelah ditetapkan oleh Otoritas Jasa Keuangan sebagai BPRS \ndalam pengawasan intensif atau BPRS dalam pengawasan \nkhusus."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenilaian terhadap Manajemen Risiko pada BPRS termasuk  \npenilaian Risiko inheren dan penilaian kualitas manajemen \nRisiko. \nAyat (2) \nPenyampaian data dan informasi terkait dengan penerapan \nManajemen Risiko dilakukan oleh BPRS sesuai permintaan \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenilaian terhadap Manajemen Risiko pada BPRS termasuk  \npenilaian Risiko inheren dan penilaian kualitas manajemen \nRisiko. \nAyat (2) \nPenyampaian data dan informasi terkait dengan penerapan \nManajemen Risiko dilakukan oleh BPRS sesuai permintaan \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan \nyang disampaikan oleh BPRS termasuk laporan bulanan setelah \nkoreksi hasil pemeriksaan Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan \nyang disampaikan oleh BPRS termasuk laporan bulanan setelah \nkoreksi hasil pemeriksaan Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan \nyang disampaikan oleh BPRS termasuk laporan bulanan setelah \nkoreksi hasil pemeriksaan Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan \nyang disampaikan oleh BPRS termasuk laporan bulanan setelah \nkoreksi hasil pemeriksaan Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan \nyang disampaikan oleh BPRS termasuk laporan bulanan setelah \nkoreksi hasil pemeriksaan Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “laporan bulanan” adalah laporan bulanan \nyang disampaikan oleh BPRS termasuk laporan bulanan setelah \nkoreksi hasil pemeriksaan Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \n \n \n\n\n \n \nAyat (4) \nHuruf a \nCukup jelas. \nHuruf b \nPencantuman \nanggota \nDireksi \ndan \nanggota \nDewan \nKomisaris BPRS dalam daftar pihak yang memperoleh \npredikat tidak lulus dilaksanakan melalui proses uji \nkemampuan dan kepatutan sesuai peraturan perundang-\nundangan mengenai uji kemampuan dan kepatutan. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \n \n \n\n\n \n \nAyat (4) \nHuruf a \nCukup jelas. \nHuruf b \nPencantuman \nanggota \nDireksi \ndan \nanggota \nDewan \nKomisaris BPRS dalam daftar pihak yang memperoleh \npredikat tidak lulus dilaksanakan melalui proses uji \nkemampuan dan kepatutan sesuai peraturan perundang-\nundangan mengenai uji kemampuan dan kepatutan. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \n \nHuruf a \nCukup jelas. \nHuruf b \nPencantuman \nanggota \nDireksi \ndan \nanggota \nDewan \nKomisaris BPRS dalam daftar pihak yang memperoleh \npredikat tidak lulus dilaksanakan melalui proses uji \nkemampuan dan kepatutan sesuai peraturan perundang-\nundangan mengenai uji kemampuan dan kepatutan. \nAyat (3) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \n \nHuruf a \nCukup jelas. \nHuruf b \nPencantuman \nanggota \nDireksi \ndan \nanggota \nDewan \nKomisaris BPRS dalam daftar pihak yang memperoleh \npredikat tidak lulus dilaksanakan melalui proses uji \nkemampuan dan kepatutan sesuai peraturan perundang-\nundangan mengenai uji kemampuan dan kepatutan. \nAyat (3) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6265",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6265"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 70,
+  "total_ayat": 122,
+  "total_karakter": 53706,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

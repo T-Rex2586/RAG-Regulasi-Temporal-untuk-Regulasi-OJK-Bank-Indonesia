@@ -1,0 +1,21 @@
+benchmark:
+  version: "v1"
+  seed: 42
+  parsed_dir: "data/parsed"
+  output_dir: "benchmark"
+  splits_dir: "benchmark/splits"
+  slices:
+    - easy
+    - multi_hop
+    - konflik_versi
+    - temporal_point_in_time
+    - unanswerable
+  target_per_slice: 25
+  total_target: 125
+  splits:
+    train_ratio: 0.60
+    dev_ratio: 0.20
+    test_ratio: 0.20
+  dedup:
+    near_dup_threshold: 0.85
+    ngram_size: 3

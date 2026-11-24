@@ -1,0 +1,623 @@
+{
+  "doc_id": "BI_PBI_2025_1288_1288",
+  "regulator": "BI",
+  "jenis": "PBI",
+  "nomor": "1288",
+  "tahun": "2025",
+  "judul": "Kebijakan Insentif Likuiditas Makroprudensial",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "26 November 2025",
+  "tanggal_berlaku": "1",
+  "diundangkan_pada": "Д",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KLM"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KLM"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMBERIAN KLM"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "DATA DAN LAPORAN UNTUK PERHITUNGAN KLM"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN INFORMASI KEPADA BANK"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENGECUALIAN PEMBERIAN KLM"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PERHITUNGAN KLM BAGI BANK YANG MELAKUKAN LANGKAH STRATEGIS DAN MENDASAR"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah jenis dari bank konvensional yang dalam \nkegiatannya \nmemberikan \njasa \ndalam \nlalu \nlintas \npembayaran, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri. \n2. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah jenis dari bank syariah yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan \nkegiatan \nusaha \nberdasarkan \nprinsip \nsyariah, atau unit kerja di kantor cabang dari suatu bank \nyang berkedudukan di luar negeri yang melaksanakan \nkegiatan usaha secara konvensional yang berfungsi \nsebagai kantor induk dari kantor cabang pembantu \nsyariah dan/atau unit syariah. \n4. \nBank adalah BUK, BUS, dan UUS. \n5. \nKebijakan Insentif Likuiditas Makroprudensial yang \nselanjutnya disebut KLM adalah insentif yang diberikan \nBank Indonesia kepada Bank melalui pengurangan giro \nBank di Bank Indonesia dalam rangka kewajiban \npemenuhan giro wajib minimum secara rata-rata. \n6. \nKredit adalah penyediaan dana atau tagihan yang dapat \ndipersamakan dengan itu berdasarkan persetujuan atau \nkesepakatan pinjam-meminjam antara BUK dan pihak \nlain yang mewajibkan pihak peminjam untuk melunasi \nutangnya \nsetelah \njangka \nwaktu \ntertentu \ndengan \npemberian bunga. \n7. \nPembiayaan adalah penyediaan dana atau tagihan yang \ndapat dipersamakan dengan itu berdasarkan persetujuan \natau kesepakatan antara BUS dan/atau UUS dan pihak \nlain yang mewajibkan pihak yang dibiayai dan/atau diberi \nfasilitas dana untuk mengembalikan dana tersebut setelah \njangka waktu tertentu dengan imbalan ujrah, tanpa \nimbalan, atau bagi hasil, yang meliputi transaksi bagi \n\n\n \n \n \nhasil, transaksi sewa-menyewa, transaksi jual beli, \ntransaksi \npinjam-meminjam, \ndan \ntransaksi \nsewa-\nmenyewa jasa sesuai dengan prinsip syariah. \n8. \nGiro Wajib Minimum yang selanjutnya disingkat GWM \nadalah giro wajib minimum dalam rupiah sebagaimana \ndimaksud dalam Peraturan Bank Indonesia mengenai \npengendalian moneter. \n9. \nGiro atas Pemenuhan Rasio Intermediasi Makroprudensial \nyang selanjutnya disebut Giro RIM adalah giro atas \npemenuhan \nrasio \nintermediasi \nmakroprudensial \nsebagaimana dimaksud dalam Peraturan Bank Indonesia \nmengenai \nrasio \nintermediasi \nmakroprudensial \ndan \npenyangga likuiditas makroprudensial bagi BUK, BUS, \ndan UUS. \n10. Giro atas Pemenuhan Rasio Intermediasi Makroprudensial \nSyariah yang selanjutnya disebut Giro RIM Syariah adalah \ngiro atas pemenuhan rasio intermediasi makroprudensial \nsyariah sebagaimana dimaksud dalam Peraturan Bank \nIndonesia mengenai rasio intermediasi makroprudensial \ndan penyangga likuiditas makroprudensial bagi BUK, \nBUS, dan UUS. \n11. Laporan Bank Umum Terintegrasi yang selanjutnya \ndisingkat LBUT adalah laporan bank umum terintegrasi \nsebagaimana dimaksud dalam Peraturan Bank Indonesia \nmengenai laporan bank umum terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah jenis dari bank konvensional yang dalam \nkegiatannya \nmemberikan \njasa \ndalam \nlalu \nlintas \npembayaran, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri. \n2. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah jenis dari bank syariah yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan \nkegiatan \nusaha \nberdasarkan \nprinsip \nsyariah, atau unit kerja di kantor cabang dari suatu bank \nyang berkedudukan di luar negeri yang melaksanakan \nkegiatan usaha secara konvensional yang berfungsi \nsebagai kantor induk dari kantor cabang pembantu \nsyariah dan/atau unit syariah. \n4. \nBank adalah BUK, BUS, dan UUS. \n5. \nKebijakan Insentif Likuiditas Makroprudensial yang \nselanjutnya disebut KLM adalah insentif yang diberikan \nBank Indonesia kepada Bank melalui pengurangan giro \nBank di Bank Indonesia dalam rangka kewajiban \npemenuhan giro wajib minimum secara rata-rata. \n6. \nKredit adalah penyediaan dana atau tagihan yang dapat \ndipersamakan dengan itu berdasarkan persetujuan atau \nkesepakatan pinjam-meminjam antara BUK dan pihak \nlain yang mewajibkan pihak peminjam untuk melunasi \nutangnya \nsetelah \njangka \nwaktu \ntertentu \ndengan \npemberian bunga. \n7. \nPembiayaan adalah penyediaan dana atau tagihan yang \ndapat dipersamakan dengan itu berdasarkan persetujuan \natau kesepakatan antara BUS dan/atau UUS dan pihak \nlain yang mewajibkan pihak yang dibiayai dan/atau diberi \nfasilitas dana untuk mengembalikan dana tersebut setelah \njangka waktu tertentu dengan imbalan ujrah, tanpa \nimbalan, atau bagi hasil, yang meliputi transaksi bagi \n\n\n \n \n \nhasil, transaksi sewa-menyewa, transaksi jual beli, \ntransaksi \npinjam-meminjam, \ndan \ntransaksi \nsewa-\nmenyewa jasa sesuai dengan prinsip syariah. \n8. \nGiro Wajib Minimum yang selanjutnya disingkat GWM \nadalah giro wajib minimum dalam rupiah sebagaimana \ndimaksud dalam Peraturan Bank Indonesia mengenai \npengendalian moneter. \n9. \nGiro atas Pemenuhan Rasio Intermediasi Makroprudensial \nyang selanjutnya disebut Giro RIM adalah giro atas \npemenuhan \nrasio \nintermediasi \nmakroprudensial \nsebagaimana dimaksud dalam Peraturan Bank Indonesia \nmengenai \nrasio \nintermediasi \nmakroprudensial \ndan \npenyangga likuiditas makroprudensial bagi BUK, BUS, \ndan UUS. \n10. Giro atas Pemenuhan Rasio Intermediasi Makroprudensial \nSyariah yang selanjutnya disebut Giro RIM Syariah adalah \ngiro atas pemenuhan rasio intermediasi makroprudensial \nsyariah sebagaimana dimaksud dalam Peraturan Bank \nIndonesia mengenai rasio intermediasi makroprudensial \ndan penyangga likuiditas makroprudensial bagi BUK, \nBUS, dan UUS. \n11. Laporan Bank Umum Terintegrasi yang selanjutnya \ndisingkat LBUT adalah laporan bank umum terintegrasi \nsebagaimana dimaksud dalam Peraturan Bank Indonesia \nmengenai laporan bank umum terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "KLM didasarkan pada prinsip sistem tata kelola kebijakan \nBank Indonesia yang baik, yang dilaksanakan melalui elemen \nsistem tata kelola kebijakan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "KLM didasarkan pada prinsip sistem tata kelola kebijakan \nBank Indonesia yang baik, yang dilaksanakan melalui elemen \nsistem tata kelola kebijakan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Tujuan pengaturan KLM dalam Peraturan Bank Indonesia ini \nuntuk menjadi pedoman:  \na. \nperumusan dan pelaksanaan KLM agar sejalan dengan \ntugas dan wewenang Bank Indonesia dalam pencapaian \ntujuan yang diamanatkan dalam Undang-Undang;  \nb. \npembentukan \nketentuan \nBank \nIndonesia \nmengenai \npelaksanaan KLM; dan \nc. \npelaksanaan KLM bagi Bank. \n \nBAB II \nPRINSIP DASAR KLM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tujuan pengaturan KLM dalam Peraturan Bank Indonesia ini \nuntuk menjadi pedoman:  \na. \nperumusan dan pelaksanaan KLM agar sejalan dengan \ntugas dan wewenang Bank Indonesia dalam pencapaian \ntujuan yang diamanatkan dalam Undang-Undang;  \nb. \npembentukan \nketentuan \nBank \nIndonesia \nmengenai \npelaksanaan KLM; dan \nc. \npelaksanaan KLM bagi Bank. \n \nBAB II \nPRINSIP DASAR KLM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KLM",
+      "teks_lengkap": "KLM sebagaimana dimaksud dalam Pasal 2 bertujuan untuk \nmendorong pertumbuhan Kredit atau Pembiayaan guna \nmendukung pertumbuhan ekonomi yang berkelanjutan dengan \ntetap menjaga stabilitas sistem keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "KLM sebagaimana dimaksud dalam Pasal 2 bertujuan untuk \nmendorong pertumbuhan Kredit atau Pembiayaan guna \nmendukung pertumbuhan ekonomi yang berkelanjutan dengan \ntetap menjaga stabilitas sistem keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KLM",
+      "teks_lengkap": "KLM dilaksanakan dengan berlandaskan pada prinsip: \na. \nmendorong pertumbuhan Kredit atau Pembiayaan Bank \ndengan \nmempertimbangkan \nkontribusi \nterhadap \n\n\n \n \n \nperekonomian yang sejalan dengan arah kebijakan Bank \nIndonesia; \nb. \nmenerapkan \nsecara \nspesifik \nterhadap \nKredit \natau \nPembiayaan kepada sektor tertentu;  \nc. \nmendukung \npembiayaan \ninklusif \ndan \npembiayaan \nkegiatan berkelanjutan;  \nd. \nmenyelaraskan dan menyinergikan dengan kebijakan \npemerintah; dan \ne. \nmendasarkan pada asesmen yang berorientasi ke depan.  \n \nBAB III \nKERANGKA KLM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "KLM dilaksanakan dengan berlandaskan pada prinsip: \na. \nmendorong pertumbuhan Kredit atau Pembiayaan Bank \ndengan \nmempertimbangkan \nkontribusi \nterhadap \n\n\n \n \n \nperekonomian yang sejalan dengan arah kebijakan Bank \nIndonesia; \nb. \nmenerapkan \nsecara \nspesifik \nterhadap \nKredit \natau \nPembiayaan kepada sektor tertentu;  \nc. \nmendukung \npembiayaan \ninklusif \ndan \npembiayaan \nkegiatan berkelanjutan;  \nd. \nmenyelaraskan dan menyinergikan dengan kebijakan \npemerintah; dan \ne. \nmendasarkan pada asesmen yang berorientasi ke depan.  \n \nBAB III \nKERANGKA KLM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KLM",
+      "teks_lengkap": "Sasaran pemberian KLM yaitu pertumbuhan Kredit atau \nPembiayaan yang optimal guna mendukung pencapaian \nsasaran kebijakan makroprudensial.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Sasaran pemberian KLM yaitu pertumbuhan Kredit atau \nPembiayaan yang optimal guna mendukung pencapaian \nsasaran kebijakan makroprudensial."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KLM",
+      "teks_lengkap": "Objek pengaturan KLM meliputi penetapan dan pelaksanaan \nKLM bagi Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Objek pengaturan KLM meliputi penetapan dan pelaksanaan \nKLM bagi Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KLM",
+      "teks_lengkap": "Ruang lingkup Peraturan Bank Indonesia ini meliputi \npengaturan mengenai: \na. \npemberian KLM;  \nb. \ndata dan laporan untuk perhitungan KLM; \nc. \npenyampaian informasi kepada Bank; \nd. \npengecualian pemberian KLM;  \ne. \nperhitungan KLM bagi Bank yang melakukan langkah \nstrategis dan mendasar; dan \nf. \npengawasan.  \n \nBAB IV \nPEMBERIAN KLM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup Peraturan Bank Indonesia ini meliputi \npengaturan mengenai: \na. \npemberian KLM;  \nb. \ndata dan laporan untuk perhitungan KLM; \nc. \npenyampaian informasi kepada Bank; \nd. \npengecualian pemberian KLM;  \ne. \nperhitungan KLM bagi Bank yang melakukan langkah \nstrategis dan mendasar; dan \nf. \npengawasan.  \n \nBAB IV \nPEMBERIAN KLM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMBERIAN KLM",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan KLM kepada Bank yang \nmelaksanakan:  \na. \npenyaluran Kredit atau Pembiayaan; dan/atau \nb. \nhal lain yang mendukung penyaluran Kredit atau \nPembiayaan. \n(2) \nBesaran KLM atas penyaluran Kredit atau Pembiayaan \nsebagaimana dimaksud pada ayat (1) huruf a didasarkan \npada:  \na. \nkomitmen \nrencana \npenyaluran \nKredit \natau \nPembiayaan Bank yang disampaikan kepada Bank \nIndonesia; dan/atau \nb. \nhal lain yang ditetapkan Bank Indonesia. \n(3) \nBank Indonesia dalam memberikan KLM sebagaimana \ndimaksud pada ayat (1) menetapkan:  \na. \nkriteria pemberian KLM;  \nb. \nbesaran KLM dan faktor penyesuaian KLM;  \nc. \nperiode pemberian KLM;   \nd. \nmekanisme pemberian KLM; dan \n\n\n \n \n \ne. \nhal lain yang terkait pemberian KLM. \n(4) \nKetentuan mengenai pemberian KLM diatur dalam \nPeraturan Anggota Dewan Gubernur.  \n \nBAB V \nDATA DAN LAPORAN UNTUK PERHITUNGAN KLM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan KLM kepada Bank yang \nmelaksanakan:  \na. \npenyaluran Kredit atau Pembiayaan; dan/atau \nb. \nhal lain yang mendukung penyaluran Kredit atau \nPembiayaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Besaran KLM atas penyaluran Kredit atau Pembiayaan \nsebagaimana dimaksud pada ayat (1) huruf a didasarkan \npada:  \na. \nkomitmen \nrencana \npenyaluran \nKredit \natau \nPembiayaan Bank yang disampaikan kepada Bank \nIndonesia; dan/atau \nb. \nhal lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia dalam memberikan KLM sebagaimana \ndimaksud pada ayat (1) menetapkan:  \na. \nkriteria pemberian KLM;  \nb. \nbesaran KLM dan faktor penyesuaian KLM;  \nc. \nperiode pemberian KLM;   \nd. \nmekanisme pemberian KLM; dan \n\n\n \n \n \ne. \nhal lain yang terkait pemberian KLM."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai pemberian KLM diatur dalam \nPeraturan Anggota Dewan Gubernur.  \n \nBAB V \nDATA DAN LAPORAN UNTUK PERHITUNGAN KLM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB V",
+      "bab_judul": "DATA DAN LAPORAN UNTUK PERHITUNGAN KLM",
+      "teks_lengkap": "(1) \nBank Indonesia dalam melaksanakan perhitungan KLM \ndidasarkan pada data yang diperoleh dari laporan Bank \nyang terdiri atas:  \na. \nlaporan komitmen rencana penyaluran Kredit atau \nPembiayaan; \nb. \nLBUT; dan \nc. \nlaporan lain yang ditetapkan Bank Indonesia. \n(2) \nSelain laporan sebagaimana dimaksud pada ayat (1), Bank \nIndonesia sewaktu-waktu dapat: \na. \nmeminta data dan/atau laporan kepada Bank; \ndan/atau \nb. \nmenggunakan data dan/atau laporan tertentu, \nsebagai dasar perhitungan KLM. \n(3) \nMekanisme \ndan \ntata \ncara \npenyampaian \nLBUT \nsebagaimana dimaksud pada ayat (1) huruf b dilakukan \nsesuai dengan Peraturan Bank Indonesia mengenai \nlaporan bank umum terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dalam melaksanakan perhitungan KLM \ndidasarkan pada data yang diperoleh dari laporan Bank \nyang terdiri atas:  \na. \nlaporan komitmen rencana penyaluran Kredit atau \nPembiayaan; \nb. \nLBUT; dan \nc. \nlaporan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain laporan sebagaimana dimaksud pada ayat (1), Bank \nIndonesia sewaktu-waktu dapat: \na. \nmeminta data dan/atau laporan kepada Bank; \ndan/atau \nb. \nmenggunakan data dan/atau laporan tertentu, \nsebagai dasar perhitungan KLM."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Mekanisme \ndan \ntata \ncara \npenyampaian \nLBUT \nsebagaimana dimaksud pada ayat (1) huruf b dilakukan \nsesuai dengan Peraturan Bank Indonesia mengenai \nlaporan bank umum terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB V",
+      "bab_judul": "DATA DAN LAPORAN UNTUK PERHITUNGAN KLM",
+      "teks_lengkap": "(1) \nBank \nwajib \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 10 ayat (1) huruf a dan huruf c \nsesuai dengan tata cara yang ditetapkan dalam Peraturan \nAnggota Dewan Gubernur.  \n(2) \nBank yang melanggar ketentuan sebagaimana dimaksud \npada ayat (1) dikenai sanksi administratif berupa teguran \ntertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 10 ayat (1) huruf a dan huruf c \nsesuai dengan tata cara yang ditetapkan dalam Peraturan \nAnggota Dewan Gubernur."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang melanggar ketentuan sebagaimana dimaksud \npada ayat (1) dikenai sanksi administratif berupa teguran \ntertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB V",
+      "bab_judul": "DATA DAN LAPORAN UNTUK PERHITUNGAN KLM",
+      "teks_lengkap": "Ketentuan \nmengenai \ndata \ndan \nlaporan \nsebagai \ndasar \nperhitungan KLM sebagaimana dimaksud dalam Pasal 10 dan \nPasal 11 diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VI \nPENYAMPAIAN INFORMASI KEPADA BANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan \nmengenai \ndata \ndan \nlaporan \nsebagai \ndasar \nperhitungan KLM sebagaimana dimaksud dalam Pasal 10 dan \nPasal 11 diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VI \nPENYAMPAIAN INFORMASI KEPADA BANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN INFORMASI KEPADA BANK",
+      "teks_lengkap": "(1) \nBank Indonesia menyampaikan informasi mengenai \npemberian KLM kepada Bank. \n(2) \nPenyampaian \ninformasi \nkepada \nBank \nsebagaimana \ndimaksud pada ayat (1) dilakukan secara berkala melalui \nsurat dan/atau media lain yang ditetapkan Bank \nIndonesia. \n(3) \nKetentuan \nmengenai \nmekanisme \ndan \ntata \ncara \npenyampaian informasi mengenai pemberian KLM kepada \nBank diatur dalam Peraturan Anggota Dewan Gubernur. \n \n \n\n\n \n \n \nBAB VII \nPENGECUALIAN PEMBERIAN KLM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menyampaikan informasi mengenai \npemberian KLM kepada Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian \ninformasi \nkepada \nBank \nsebagaimana \ndimaksud pada ayat (1) dilakukan secara berkala melalui \nsurat dan/atau media lain yang ditetapkan Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan \nmengenai \nmekanisme \ndan \ntata \ncara \npenyampaian informasi mengenai pemberian KLM kepada \nBank diatur dalam Peraturan Anggota Dewan Gubernur. \n \n \n\n\n \n \n \nBAB VII \nPENGECUALIAN PEMBERIAN KLM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENGECUALIAN PEMBERIAN KLM",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nberwenang \nuntuk \nmengecualikan \npemberian KLM kepada Bank tertentu. \n(2) \nPengecualian pemberian KLM sebagaimana dimaksud \npada ayat (1) dilakukan berdasarkan asesmen dan/atau \npertimbangan tertentu baik untuk sebagian maupun \nuntuk keseluruhan pemberian KLM. \n(3) \nBank Indonesia menyampaikan informasi pengecualian \npemberian KLM sebagaimana dimaksud pada ayat (1) \nmelalui surat dan/atau media lain yang ditetapkan Bank \nIndonesia.  \n \nBAB VIII \nPERHITUNGAN KLM BAGI BANK YANG MELAKUKAN \nLANGKAH STRATEGIS DAN MENDASAR",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nberwenang \nuntuk \nmengecualikan \npemberian KLM kepada Bank tertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengecualian pemberian KLM sebagaimana dimaksud \npada ayat (1) dilakukan berdasarkan asesmen dan/atau \npertimbangan tertentu baik untuk sebagian maupun \nuntuk keseluruhan pemberian KLM."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menyampaikan informasi pengecualian \npemberian KLM sebagaimana dimaksud pada ayat (1) \nmelalui surat dan/atau media lain yang ditetapkan Bank \nIndonesia.  \n \nBAB VIII \nPERHITUNGAN KLM BAGI BANK YANG MELAKUKAN \nLANGKAH STRATEGIS DAN MENDASAR"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PERHITUNGAN KLM BAGI BANK YANG MELAKUKAN LANGKAH STRATEGIS DAN MENDASAR",
+      "teks_lengkap": "(1) \nPerhitungan KLM bagi Bank yang melakukan langkah \nstrategis dan mendasar berupa: \na. \npenggabungan atau peleburan; \nb. \npemisahan UUS dari BUK; dan/atau \nc. \nperubahan kegiatan usaha,  \ndilaksanakan sesuai ketentuan perhitungan kewajiban \npemenuhan GWM bagi Bank sebagaimana diatur dalam \nketentuan \nBank \nIndonesia \nmengenai \npengendalian \nmoneter. \n(2) \nBank Indonesia dapat menetapkan tata cara perhitungan \nKLM bagi Bank yang melaksanakan langkah strategis dan \nmendasar selain sebagaimana dimaksud pada ayat (1). \n(3)  Bank Indonesia dapat meminta Bank yang melakukan \nlangkah strategis dan mendasar sebagaimana dimaksud \npada ayat (1) dan ayat (2) untuk menyampaikan data \ndan/atau informasi sebagai dokumen pendukung untuk \nmelakukan perhitungan KLM. \n \nBAB IX \nPENGAWASAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perhitungan KLM bagi Bank yang melakukan langkah \nstrategis dan mendasar berupa: \na. \npenggabungan atau peleburan; \nb. \npemisahan UUS dari BUK; dan/atau \nc. \nperubahan kegiatan usaha,  \ndilaksanakan sesuai ketentuan perhitungan kewajiban \npemenuhan GWM bagi Bank sebagaimana diatur dalam \nketentuan \nBank \nIndonesia \nmengenai \npengendalian \nmoneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat menetapkan tata cara perhitungan \nKLM bagi Bank yang melaksanakan langkah strategis dan \nmendasar selain sebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia dapat meminta Bank yang melakukan \nlangkah strategis dan mendasar sebagaimana dimaksud \npada ayat (1) dan ayat (2) untuk menyampaikan data \ndan/atau informasi sebagai dokumen pendukung untuk \nmelakukan perhitungan KLM. \n \nBAB IX \nPENGAWASAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) \nBank Indonesia melakukan pengawasan kepada Bank \npenerima KLM. \n(2) \nPengawasan sebagaimana dimaksud pada ayat (1) \ndilakukan melalui surveilans dan/atau pemeriksaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan pengawasan kepada Bank \npenerima KLM."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan sebagaimana dimaksud pada ayat (1) \ndilakukan melalui surveilans dan/atau pemeriksaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) \nBerdasarkan hasil pengawasan sebagaimana dimaksud \ndalam Pasal 16, Bank Indonesia dapat melakukan evaluasi \natas pemberian KLM. \n(2) \nBank Indonesia dapat menyampaikan hasil evaluasi \nsebagaimana dimaksud pada ayat (1) kepada Bank \npenerima KLM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Berdasarkan hasil pengawasan sebagaimana dimaksud \ndalam Pasal 16, Bank Indonesia dapat melakukan evaluasi \natas pemberian KLM."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat menyampaikan hasil evaluasi \nsebagaimana dimaksud pada ayat (1) kepada Bank \npenerima KLM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) \nDalam \nhal \nberdasarkan \npengawasan \nsebagaimana \ndimaksud \ndalam \nPasal \ndiketahui \nadanya \nketidakakuratan data realisasi penyaluran Kredit atau \nPembiayaan \nBank \nyang \ndigunakan \nsebagai \ndasar \npemberian KLM, Bank Indonesia melakukan penelitian \nulang terhadap: \na. \npemenuhan kriteria Bank penerima KLM; dan/atau \nb. \nkesesuaian besaran KLM yang diterima Bank, \npada periode penggunaan data yang tidak akurat. \n(2) \nDalam \nhal \nberdasarkan \nhasil \npenelitian \nulang \nsebagaimana dimaksud pada ayat (1) diketahui bahwa: \na. \nBank tidak memenuhi kriteria untuk menerima KLM; \ndan/atau  \nb. \nbesaran KLM yang diterima Bank berdasarkan data \ndimaksud lebih besar dari yang seharusnya,  \nBank Indonesia melakukan perhitungan ulang. \n(3) \nPerhitungan ulang sebagaimana dimaksud pada ayat (2) \ndilakukan terhadap: \na. \nkewajiban pemenuhan GWM; \nb. \nkewajiban pemenuhan Giro RIM atau Giro RIM \nSyariah; dan/atau \nc. \nremunerasi GWM bagi BUK atau insentif GWM \nberupa pemberian (‘athaya) berdasarkan prinsip \nsyariah bagi BUS atau UUS. \n(4) \nDalam hal berdasarkan perhitungan ulang sebagaimana \ndimaksud pada ayat (3), diketahui bahwa:  \na. \nBank tidak memenuhi kewajiban pemenuhan GWM, \nberlaku \nketentuan \npengenaan \nsanksi \ndan \npengembalian remunerasi GWM atau insentif GWM \nberupa pemberian (‘athaya) berdasarkan prinsip \nsyariah sesuai dengan Peraturan Bank Indonesia \nmengenai pengendalian moneter; dan/atau \nb. \nBank tidak memenuhi kewajiban pemenuhan Giro \nRIM atau Giro RIM Syariah, berlaku ketentuan \npengenaan sanksi atas kekurangan pemenuhan Giro \nRIM atau Giro RIM Syariah sesuai dengan Peraturan \nBank \nIndonesia \nmengenai \nrasio \nintermediasi \nmakroprudensial \ndan \npenyangga \nlikuiditas \nmakroprudensial bagi BUK, BUS, dan UUS.  \n(5) \nDalam hal berdasarkan perhitungan ulang sebagaimana \ndimaksud pada ayat (3), diketahui bahwa: \na. \nBank telah memenuhi kewajiban pemenuhan GWM \ndan Giro RIM atau Giro RIM Syariah; dan \nb. \nterdapat kekurangan remunerasi GWM atau insentif \nGWM berupa pemberian (‘athaya) berdasarkan \nprinsip syariah yang diterima Bank, \nBank mendapatkan tambahan remunerasi GWM atau \ninsentif GWM berupa pemberian (‘athaya) berdasarkan \nprinsip syariah pada periode kekurangan tersebut. \n(6) \nPenelitian ulang sebagaimana dimaksud pada ayat (1) dan \nperhitungan ulang sebagaimana dimaksud pada ayat (2) \ndilakukan untuk paling banyak 12 (dua belas) periode \npemenuhan GWM yang terkini pada periode penggunaan \ndata yang tidak akurat. \n\n\n \n \n \n(7) \nKetentuan mengenai penelitian ulang dan perhitungan \nulang KLM kepada Bank diatur dalam Peraturan Anggota \nDewan Gubernur.  \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nhal \nberdasarkan \npengawasan \nsebagaimana \ndimaksud \ndalam \nPasal \ndiketahui \nadanya \nketidakakuratan data realisasi penyaluran Kredit atau \nPembiayaan \nBank \nyang \ndigunakan \nsebagai \ndasar \npemberian KLM, Bank Indonesia melakukan penelitian \nulang terhadap: \na. \npemenuhan kriteria Bank penerima KLM; dan/atau \nb. \nkesesuaian besaran KLM yang diterima Bank, \npada periode penggunaan data yang tidak akurat."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \nberdasarkan \nhasil \npenelitian \nulang \nsebagaimana dimaksud pada ayat (1) diketahui bahwa: \na. \nBank tidak memenuhi kriteria untuk menerima KLM; \ndan/atau  \nb. \nbesaran KLM yang diterima Bank berdasarkan data \ndimaksud lebih besar dari yang seharusnya,  \nBank Indonesia melakukan perhitungan ulang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perhitungan ulang sebagaimana dimaksud pada ayat (2) \ndilakukan terhadap: \na. \nkewajiban pemenuhan GWM; \nb. \nkewajiban pemenuhan Giro RIM atau Giro RIM \nSyariah; dan/atau \nc. \nremunerasi GWM bagi BUK atau insentif GWM \nberupa pemberian (‘athaya) berdasarkan prinsip \nsyariah bagi BUS atau UUS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal berdasarkan perhitungan ulang sebagaimana \ndimaksud pada ayat (3), diketahui bahwa:  \na. \nBank tidak memenuhi kewajiban pemenuhan GWM, \nberlaku \nketentuan \npengenaan \nsanksi \ndan \npengembalian remunerasi GWM atau insentif GWM \nberupa pemberian (‘athaya) berdasarkan prinsip \nsyariah sesuai dengan Peraturan Bank Indonesia \nmengenai pengendalian moneter; dan/atau \nb. \nBank tidak memenuhi kewajiban pemenuhan Giro \nRIM atau Giro RIM Syariah, berlaku ketentuan \npengenaan sanksi atas kekurangan pemenuhan Giro \nRIM atau Giro RIM Syariah sesuai dengan Peraturan \nBank \nIndonesia \nmengenai \nrasio \nintermediasi \nmakroprudensial \ndan \npenyangga \nlikuiditas \nmakroprudensial bagi BUK, BUS, dan UUS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal berdasarkan perhitungan ulang sebagaimana \ndimaksud pada ayat (3), diketahui bahwa: \na. \nBank telah memenuhi kewajiban pemenuhan GWM \ndan Giro RIM atau Giro RIM Syariah; dan \nb. \nterdapat kekurangan remunerasi GWM atau insentif \nGWM berupa pemberian (‘athaya) berdasarkan \nprinsip syariah yang diterima Bank, \nBank mendapatkan tambahan remunerasi GWM atau \ninsentif GWM berupa pemberian (‘athaya) berdasarkan \nprinsip syariah pada periode kekurangan tersebut."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penelitian ulang sebagaimana dimaksud pada ayat (1) dan \nperhitungan ulang sebagaimana dimaksud pada ayat (2) \ndilakukan untuk paling banyak 12 (dua belas) periode \npemenuhan GWM yang terkini pada periode penggunaan \ndata yang tidak akurat."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Ketentuan mengenai penelitian ulang dan perhitungan \nulang KLM kepada Bank diatur dalam Peraturan Anggota \nDewan Gubernur.  \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, \nPeraturan Bank Indonesia Nomor 11 Tahun 2023 tentang \nKebijakan Insentif Likuiditas Makroprudensial (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 31/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n54/BI), dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, \nPeraturan Bank Indonesia Nomor 11 Tahun 2023 tentang \nKebijakan Insentif Likuiditas Makroprudensial (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 31/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n54/BI), dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 1 \nDesember 2025. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 26 November 2025 \n \nGUBERNUR BANK INDONESIA,  \n \n \nŒ \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal                Д  \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR      Ж     /BI \n \n\n\n \n \n \nPENJELASAN  \nATAS \nPERATURAN BANK INDONESIA \nNOMOR  9 TAHUN 2025 \nTENTANG \nKEBIJAKAN INSENTIF LIKUIDITAS MAKROPRUDENSIAL   \n \nI. \nUMUM \nUntuk mencapai tujuan Bank Indonesia yaitu turut menjaga stabilitas \nsistem keuangan dalam rangka mendukung pertumbuhan ekonomi yang \nberkelanjutan, Bank Indonesia menetapkan dan melaksanakan kebijakan \nmakroprudensial, salah satunya melalui upaya mendorong intermediasi \nyang seimbang, berkualitas, dan berkelanjutan untuk mencapai sasaran \nKredit atau Pembiayaan yang optimal. Dalam hal ini, kesinambungan \npertumbuhan Kredit atau Pembiayaan perlu dijaga mengingat peranannya \ndalam mendukung pertumbuhan ekonomi yang berkelanjutan. Saat ini, \nsiklus keuangan dinilai masih berada di bawah tren jangka panjang \nsehingga pertumbuhan Kredit atau Pembiayaan perbankan masih \nmemerlukan dukungan baik dari sisi penawaran maupun dari sisi \npermintaan. Oleh karena itu, kebijakan makroprudensial yang mendukung \npertumbuhan Kredit atau Pembiayaan perlu terus diperkuat dengan tetap \nmemperhatikan prinsip kehati-hatian. \nBank Indonesia menetapkan kebijakan makroprudensial berupa \npengaturan KLM untuk mencapai sasaran Kredit atau Pembiayaan yang \noptimal. Pengaturan KLM diperkuat dengan skema pemberian insentif yang \nberbasis kinerja dan berorientasi ke depan, yakni pelonggaran likuiditas di \nawal sesuai dengan arah pertumbuhan Kredit atau Pembiayaan. Untuk itu, \nbesaran KLM yang merupakan pengurang dari GWM dihitung berdasarkan \nkomitmen Bank dalam penyaluran Kredit atau Pembiayaan dan/atau hal \nlainnya yang dapat mendukung pertumbuhan Kredit atau Pembiayaan. \nDengan adanya pemberian KLM diharapkan tambahan likuiditas yang \ndiperoleh dari pengurangan GWM dapat meningkatkan kapasitas Bank \ndalam menyalurkan Kredit atau Pembiayaan sehingga mendukung \npertumbuhan ekonomi yang berkelanjutan.   \nBerdasarkan hal tersebut, Bank Indonesia perlu mengatur kembali \nketentuan mengenai kebijakan insentif likuiditas makroprudensial. \n\n\n \nII.  PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal 1 \nDesember 2025. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 26 November 2025 \n \nGUBERNUR BANK INDONESIA,  \n \n \nŒ \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal                Д  \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR      Ж     /BI \n \n\n\n \n \n \nPENJELASAN  \nATAS \nPERATURAN BANK INDONESIA \nNOMOR  9 TAHUN 2025 \nTENTANG \nKEBIJAKAN INSENTIF LIKUIDITAS MAKROPRUDENSIAL   \n \nI. \nUMUM \nUntuk mencapai tujuan Bank Indonesia yaitu turut menjaga stabilitas \nsistem keuangan dalam rangka mendukung pertumbuhan ekonomi yang \nberkelanjutan, Bank Indonesia menetapkan dan melaksanakan kebijakan \nmakroprudensial, salah satunya melalui upaya mendorong intermediasi \nyang seimbang, berkualitas, dan berkelanjutan untuk mencapai sasaran \nKredit atau Pembiayaan yang optimal. Dalam hal ini, kesinambungan \npertumbuhan Kredit atau Pembiayaan perlu dijaga mengingat peranannya \ndalam mendukung pertumbuhan ekonomi yang berkelanjutan. Saat ini, \nsiklus keuangan dinilai masih berada di bawah tren jangka panjang \nsehingga pertumbuhan Kredit atau Pembiayaan perbankan masih \nmemerlukan dukungan baik dari sisi penawaran maupun dari sisi \npermintaan. Oleh karena itu, kebijakan makroprudensial yang mendukung \npertumbuhan Kredit atau Pembiayaan perlu terus diperkuat dengan tetap \nmemperhatikan prinsip kehati-hatian. \nBank Indonesia menetapkan kebijakan makroprudensial berupa \npengaturan KLM untuk mencapai sasaran Kredit atau Pembiayaan yang \noptimal. Pengaturan KLM diperkuat dengan skema pemberian insentif yang \nberbasis kinerja dan berorientasi ke depan, yakni pelonggaran likuiditas di \nawal sesuai dengan arah pertumbuhan Kredit atau Pembiayaan. Untuk itu, \nbesaran KLM yang merupakan pengurang dari GWM dihitung berdasarkan \nkomitmen Bank dalam penyaluran Kredit atau Pembiayaan dan/atau hal \nlainnya yang dapat mendukung pertumbuhan Kredit atau Pembiayaan. \nDengan adanya pemberian KLM diharapkan tambahan likuiditas yang \ndiperoleh dari pengurangan GWM dapat meningkatkan kapasitas Bank \ndalam menyalurkan Kredit atau Pembiayaan sehingga mendukung \npertumbuhan ekonomi yang berkelanjutan.   \nBerdasarkan hal tersebut, Bank Indonesia perlu mengatur kembali \nketentuan mengenai kebijakan insentif likuiditas makroprudensial. \n\n\n \nII.  PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “prinsip sistem tata kelola kebijakan Bank \nIndonesia” adalah prinsip yang melandasi penerapan dan penegakan \nsistem tata kelola kebijakan Bank Indonesia, yang meliputi \nindependensi, \nkonsistensi, \nkoordinasi, \nakuntabilitas, \ndan \ntransparansi, sesuai dengan kebijakan Bank Indonesia mengenai \nsistem tata kelola kebijakan dan kelembagaan Bank Indonesia.  \nYang dimaksud dengan “elemen sistem tata kelola kebijakan Bank \nIndonesia” adalah aspek pokok dari sistem tata kelola kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola kebijakan Bank Indonesia, sesuai dengan kebijakan \nBank Indonesia mengenai sistem tata kelola kebijakan dan \nkelembagaan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “prinsip sistem tata kelola kebijakan Bank \nIndonesia” adalah prinsip yang melandasi penerapan dan penegakan \nsistem tata kelola kebijakan Bank Indonesia, yang meliputi \nindependensi, \nkonsistensi, \nkoordinasi, \nakuntabilitas, \ndan \ntransparansi, sesuai dengan kebijakan Bank Indonesia mengenai \nsistem tata kelola kebijakan dan kelembagaan Bank Indonesia.  \nYang dimaksud dengan “elemen sistem tata kelola kebijakan Bank \nIndonesia” adalah aspek pokok dari sistem tata kelola kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola kebijakan Bank Indonesia, sesuai dengan kebijakan \nBank Indonesia mengenai sistem tata kelola kebijakan dan \nkelembagaan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas.  \nHuruf b \nCukup jelas. \nHuruf c \nPembiayaan kegiatan berkelanjutan antara lain Kredit atau \nPembiayaan yang berwawasan lingkungan.  \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas.  \nHuruf b \nCukup jelas. \nHuruf c \nPembiayaan kegiatan berkelanjutan antara lain Kredit atau \nPembiayaan yang berwawasan lingkungan.  \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kredit atau Pembiayaan yang optimal tercermin dari Kredit atau \nPembiayaan yang tumbuh secara berkualitas dengan tetap menjaga \nstabilitas \nsistem \nkeuangan \ndan \npertumbuhan \nekonomi \nyang \nberkelanjutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kredit atau Pembiayaan yang optimal tercermin dari Kredit atau \nPembiayaan yang tumbuh secara berkualitas dengan tetap menjaga \nstabilitas \nsistem \nkeuangan \ndan \npertumbuhan \nekonomi \nyang \nberkelanjutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas.  \n \n \n\n\n \nHuruf b \nYang \ndimaksud \ndengan \n“hal \nlain \nyang \nmendukung \npenyaluran Kredit atau Pembiayaan” antara lain penetapan \nsuku bunga Kredit atau persentase imbalan Pembiayaan \nyang sejalan dengan arah kebijakan Bank Indonesia. \nAyat (2) \nHuruf a \nCukup jelas.  \nHuruf b \nYang dimaksud dengan “hal lain yang ditetapkan Bank \nIndonesia” antara lain pangsa Kredit atau Pembiayaan \nkepada sektor tertentu. \nAyat (3) \nHuruf a \nCukup jelas.  \nHuruf b \nCukup jelas.  \nHuruf c \nCukup jelas.  \nHuruf d \nCukup jelas.  \nHuruf e \nYang dimaksud dengan “hal lain yang terkait pemberian \nKLM” antara lain penetapan kelompok sektor dari Kredit atau \nPembiayaan yang mendapatkan KLM. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas.  \n \n \n\n\n \nHuruf b \nYang \ndimaksud \ndengan \n“hal \nlain \nyang \nmendukung \npenyaluran Kredit atau Pembiayaan” antara lain penetapan \nsuku bunga Kredit atau persentase imbalan Pembiayaan \nyang sejalan dengan arah kebijakan Bank Indonesia. \nAyat (2) \nHuruf a \nCukup jelas.  \nHuruf b \nYang dimaksud dengan “hal lain yang ditetapkan Bank \nIndonesia” antara lain pangsa Kredit atau Pembiayaan \nkepada sektor tertentu. \nAyat (3) \nHuruf a \nCukup jelas.  \nHuruf b \nCukup jelas.  \nHuruf c \nCukup jelas.  \nHuruf d \nCukup jelas.  \nHuruf e \nYang dimaksud dengan “hal lain yang terkait pemberian \nKLM” antara lain penetapan kelompok sektor dari Kredit atau \nPembiayaan yang mendapatkan KLM. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan “pertimbangan tertentu” antara lain \nkepatuhan \nBank \nterhadap \npemenuhan \nkewajiban \nterkait \ninstrumen kebijakan makroprudensial. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan “pertimbangan tertentu” antara lain \nkepatuhan \nBank \nterhadap \npemenuhan \nkewajiban \nterkait \ninstrumen kebijakan makroprudensial. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nEvaluasi atas pemberian KLM antara lain terkait realisasi atas \nkomitmen rencana penyaluran Kredit atau Pembiayaan.  \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nEvaluasi atas pemberian KLM antara lain terkait realisasi atas \nkomitmen rencana penyaluran Kredit atau Pembiayaan.  \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “periode pemenuhan GWM” adalah \nperiode pemenuhan GWM sebagaimana diatur dalam ketentuan \nBank Indonesia mengenai pengendalian moneter. \nContoh periode pemenuhan GWM yang terkini: \nPeriode pemenuhan GWM dalam rupiah secara rata-rata saat ini \ndilakukan secara 2 (dua) mingguan yaitu tanggal 1 sampai dengan \ntanggal 15 dan tanggal 16 sampai dengan akhir bulan. \nDiketahui bahwa terdapat data yang tidak akurat yang digunakan \nuntuk perhitungan KLM periode bulan Mei 2026 sampai dengan \nbulan Oktober 2026, dan periode bulan Februari 2027 sampai \ndengan bulan April 2027. Berdasarkan data yang tidak akurat \ntersebut, dilakukan penelitian ulang dan perhitungan ulang KLM \nuntuk 12 (dua belas) periode pemenuhan GWM dalam rupiah \nsecara rata-rata yang terkini yaitu dari bulan Agustus 2026 \nsampai dengan bulan Oktober 2026, dan dari bulan Februari \n2027 sampai dengan bulan April 2027. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “periode pemenuhan GWM” adalah \nperiode pemenuhan GWM sebagaimana diatur dalam ketentuan \nBank Indonesia mengenai pengendalian moneter. \nContoh periode pemenuhan GWM yang terkini: \nPeriode pemenuhan GWM dalam rupiah secara rata-rata saat ini \ndilakukan secara 2 (dua) mingguan yaitu tanggal 1 sampai dengan \ntanggal 15 dan tanggal 16 sampai dengan akhir bulan. \nDiketahui bahwa terdapat data yang tidak akurat yang digunakan \nuntuk perhitungan KLM periode bulan Mei 2026 sampai dengan \nbulan Oktober 2026, dan periode bulan Februari 2027 sampai \ndengan bulan April 2027. Berdasarkan data yang tidak akurat \ntersebut, dilakukan penelitian ulang dan perhitungan ulang KLM \nuntuk 12 (dua belas) periode pemenuhan GWM dalam rupiah \nsecara rata-rata yang terkini yaitu dari bulan Agustus 2026 \nsampai dengan bulan Oktober 2026, dan dari bulan Februari \n2027 sampai dengan bulan April 2027. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.  \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR    ⸙  /BI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas.  \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR    ⸙  /BI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 40,
+  "total_ayat": 60,
+  "total_karakter": 21225,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

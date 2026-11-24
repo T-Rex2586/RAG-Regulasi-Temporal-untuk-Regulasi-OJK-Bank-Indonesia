@@ -1,0 +1,975 @@
+{
+  "doc_id": "BI_PBI_2024_509_509",
+  "regulator": "BI",
+  "jenis": "PBI",
+  "nomor": "509",
+  "tahun": "2024",
+  "judul": "KEBIJAKAN DATA DAN INFORMASI BANK INDONESIA",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "31 Desember 2024",
+  "tanggal_berlaku": "diundangkan (Д)",
+  "diundangkan_pada": "Д",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KEBIJAKAN DATA DAN INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN KEBIJAKAN DATA DAN INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nData adalah catatan atas kumpulan fakta atau deskripsi \nberupa angka, karakter, simbol, gambar, peta, tanda, \nisyarat, \ntulisan, \nsuara, \ndan/atau \nbunyi, \nyang \nmerepresentasikan \nkeadaan \nsebenarnya \natau \nmenunjukkan suatu ide, objek, kondisi, atau situasi. \n2. \nInformasi adalah Data dasar atau kumpulan Data yang \ntelah diolah, diorganisasikan, dan diinterpretasikan \nsehingga memiliki makna dan relevansi yang disajikan \ndalam berbagai kemasan dan format. \n3. \nPerolehan Data dan Informasi adalah pengumpulan Data \ndan Informasi untuk diproses dan/atau digunakan lebih \nlanjut. \n4. \nPemrosesan Data dan Informasi adalah pengolahan suatu \nData dan Informasi yang diperoleh menjadi Data dan \nInformasi baru. \n5. \nDiseminasi Data dan Informasi adalah penyediaan Data \ndan Informasi yang diperoleh dan/atau telah diproses \nuntuk dapat diakses oleh pihak eksternal Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nData adalah catatan atas kumpulan fakta atau deskripsi \nberupa angka, karakter, simbol, gambar, peta, tanda, \nisyarat, \ntulisan, \nsuara, \ndan/atau \nbunyi, \nyang \nmerepresentasikan \nkeadaan \nsebenarnya \natau \nmenunjukkan suatu ide, objek, kondisi, atau situasi. \n2. \nInformasi adalah Data dasar atau kumpulan Data yang \ntelah diolah, diorganisasikan, dan diinterpretasikan \nsehingga memiliki makna dan relevansi yang disajikan \ndalam berbagai kemasan dan format. \n3. \nPerolehan Data dan Informasi adalah pengumpulan Data \ndan Informasi untuk diproses dan/atau digunakan lebih \nlanjut. \n4. \nPemrosesan Data dan Informasi adalah pengolahan suatu \nData dan Informasi yang diperoleh menjadi Data dan \nInformasi baru. \n5. \nDiseminasi Data dan Informasi adalah penyediaan Data \ndan Informasi yang diperoleh dan/atau telah diproses \nuntuk dapat diakses oleh pihak eksternal Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Kebijakan Data dan Informasi Bank Indonesia didasarkan pada \nprinsip sistem tata kelola kebijakan Bank Indonesia yang baik, \nyang dilakukan melalui elemen sistem tata kelola kebijakan \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan Data dan Informasi Bank Indonesia didasarkan pada \nprinsip sistem tata kelola kebijakan Bank Indonesia yang baik, \nyang dilakukan melalui elemen sistem tata kelola kebijakan \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Tujuan pengaturan kebijakan Data dan Informasi Bank \nIndonesia dalam Peraturan Bank Indonesia ini untuk: \na. \nmemastikan perumusan dan pelaksanaan kebijakan Data \ndan Informasi Bank Indonesia sejalan dengan tugas dan \nwewenang Bank Indonesia dalam pencapaian tujuan yang \ndiamanatkan dalam Undang-Undang; \nb. \nmenjadi acuan bagi pembentukan ketentuan pelaksanaan \nterkait Data dan Informasi Bank Indonesia; dan \nc. \nmenjadi \nacuan \nbagi \npihak \neksternal \nmengenai \npelaksanaan \nkebijakan \nData \ndan \nInformasi \nBank \nIndonesia. \n \n \n \n\n\n \n \n \nBAB II \nPRINSIP DASAR KEBIJAKAN DATA DAN INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tujuan pengaturan kebijakan Data dan Informasi Bank \nIndonesia dalam Peraturan Bank Indonesia ini untuk: \na. \nmemastikan perumusan dan pelaksanaan kebijakan Data \ndan Informasi Bank Indonesia sejalan dengan tugas dan \nwewenang Bank Indonesia dalam pencapaian tujuan yang \ndiamanatkan dalam Undang-Undang; \nb. \nmenjadi acuan bagi pembentukan ketentuan pelaksanaan \nterkait Data dan Informasi Bank Indonesia; dan \nc. \nmenjadi \nacuan \nbagi \npihak \neksternal \nmengenai \npelaksanaan \nkebijakan \nData \ndan \nInformasi \nBank \nIndonesia. \n \n \n \n\n\n \n \n \nBAB II \nPRINSIP DASAR KEBIJAKAN DATA DAN INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Kebijakan Data dan Informasi Bank Indonesia bertujuan untuk \nmendukung \npelaksanaan \ntugas \nBank \nIndonesia \ndalam \nmencapai stabilitas nilai rupiah, memelihara stabilitas sistem \npembayaran, dan turut menjaga stabilitas sistem keuangan \ndalam rangka mendukung pertumbuhan ekonomi yang \nberkelanjutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan Data dan Informasi Bank Indonesia bertujuan untuk \nmendukung \npelaksanaan \ntugas \nBank \nIndonesia \ndalam \nmencapai stabilitas nilai rupiah, memelihara stabilitas sistem \npembayaran, dan turut menjaga stabilitas sistem keuangan \ndalam rangka mendukung pertumbuhan ekonomi yang \nberkelanjutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nKebijakan Data dan Informasi Bank Indonesia mencakup:  \na. \nPerolehan Data dan Informasi; \nb. \nPemrosesan Data dan Informasi; dan \nc. \nDiseminasi Data dan Informasi. \n(2) \nKebijakan Data dan Informasi sebagaimana dimaksud \npada ayat (1) merupakan kebijakan yang mendukung \nbauran kebijakan Bank Indonesia dalam mencapai tujuan \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan Data dan Informasi Bank Indonesia mencakup:  \na. \nPerolehan Data dan Informasi; \nb. \nPemrosesan Data dan Informasi; dan \nc. \nDiseminasi Data dan Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan Data dan Informasi sebagaimana dimaksud \npada ayat (1) merupakan kebijakan yang mendukung \nbauran kebijakan Bank Indonesia dalam mencapai tujuan \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Kebijakan Data dan Informasi sebagaimana dimaksud dalam \nPasal 5 dilaksanakan dengan menerapkan prinsip dasar: \na. \nrelevansi; \nb. \nmengacu pada standar profesional dan praktik yang \nterbaik; \nc. \nberbasis teknologi yang tepat; \nd. \npelindungan; dan \ne. \nkoordinasi dan sinergi. \n \nBAB III \nKERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan Data dan Informasi sebagaimana dimaksud dalam \nPasal 5 dilaksanakan dengan menerapkan prinsip dasar: \na. \nrelevansi; \nb. \nmengacu pada standar profesional dan praktik yang \nterbaik; \nc. \nberbasis teknologi yang tepat; \nd. \npelindungan; dan \ne. \nkoordinasi dan sinergi. \n \nBAB III \nKERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Bank Indonesia melaksanakan kebijakan Data dan Informasi \nsebagaimana dimaksud dalam Pasal 5 untuk mencapai sasaran \nketersediaan Data dan Informasi yang berkualitas guna \nmemenuhi: \na. \nkebutuhan \nperumusan \ndan \npelaksanaan \nbauran \nkebijakan Bank Indonesia;  \nb. \nkomitmen nasional dan internasional; dan  \nc. \npenyediaan Data dan Informasi bagi publik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melaksanakan kebijakan Data dan Informasi \nsebagaimana dimaksud dalam Pasal 5 untuk mencapai sasaran \nketersediaan Data dan Informasi yang berkualitas guna \nmemenuhi: \na. \nkebutuhan \nperumusan \ndan \npelaksanaan \nbauran \nkebijakan Bank Indonesia;  \nb. \nkomitmen nasional dan internasional; dan  \nc. \npenyediaan Data dan Informasi bagi publik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Untuk mencapai sasaran sebagaimana dimaksud dalam Pasal \n7, Bank Indonesia menggunakan instrumen kebijakan Data \ndan Informasi yang terdiri atas: \na. \npenyelenggaraan survei;  \nb. \npemerolehan Data dan Informasi dari pihak terkait; dan \nc. \npemerolehan \nData \ndan \nInformasi \ndari \ndan/atau \npertukaran Data dan Informasi dengan otoritas dan/atau \nkementerian atau lembaga terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk mencapai sasaran sebagaimana dimaksud dalam Pasal \n7, Bank Indonesia menggunakan instrumen kebijakan Data \ndan Informasi yang terdiri atas: \na. \npenyelenggaraan survei;  \nb. \npemerolehan Data dan Informasi dari pihak terkait; dan \nc. \npemerolehan \nData \ndan \nInformasi \ndari \ndan/atau \npertukaran Data dan Informasi dengan otoritas dan/atau \nkementerian atau lembaga terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nKebijakan prinsipil dan strategis dalam kebijakan Data \ndan Informasi sebagaimana dimaksud dalam Pasal 5 \nditetapkan oleh Dewan Gubernur. \n(2) \nPenetapan kebijakan prinsipil dan strategis sebagaimana \ndimaksud pada ayat (1) dilaksanakan dalam Rapat Dewan \nGubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan prinsipil dan strategis dalam kebijakan Data \ndan Informasi sebagaimana dimaksud dalam Pasal 5 \nditetapkan oleh Dewan Gubernur."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan kebijakan prinsipil dan strategis sebagaimana \ndimaksud pada ayat (1) dilaksanakan dalam Rapat Dewan \nGubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Ruang \nlingkup \nproses \nkebijakan \nData \ndan \nInformasi \nsebagaimana dimaksud dalam Pasal 5 meliputi: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan; \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \n \nBAB IV \nPERUMUSAN KEBIJAKAN DATA DAN INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang \nlingkup \nproses \nkebijakan \nData \ndan \nInformasi \nsebagaimana dimaksud dalam Pasal 5 meliputi: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan; \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \n \nBAB IV \nPERUMUSAN KEBIJAKAN DATA DAN INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan kebijakan yang bersifat \nprinsipil dan strategis mengenai Data dan Informasi. \n(2) \nKebijakan prinsipil dan strategis sebagaimana dimaksud \npada ayat (1) ditetapkan oleh Dewan Gubernur melalui \nRapat Dewan Gubernur mingguan. \n \nBAB V \nPELAKSANAAN KEBIJAKAN DATA DAN INFORMASI \n \nBagian Kesatu \nPerolehan Data dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan kebijakan yang bersifat \nprinsipil dan strategis mengenai Data dan Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan prinsipil dan strategis sebagaimana dimaksud \npada ayat (1) ditetapkan oleh Dewan Gubernur melalui \nRapat Dewan Gubernur mingguan. \n \nBAB V \nPELAKSANAAN KEBIJAKAN DATA DAN INFORMASI \n \nBagian Kesatu \nPerolehan Data dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Dalam melaksanakan kewenangan Perolehan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf \na, Bank Indonesia melakukan pengaturan terkait:  \na. \nsubjek;  \nb. \nobjek;  \nc. \nmekanisme; dan  \nd. \nteknologi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam melaksanakan kewenangan Perolehan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf \na, Bank Indonesia melakukan pengaturan terkait:  \na. \nsubjek;  \nb. \nobjek;  \nc. \nmekanisme; dan  \nd. \nteknologi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nSubjek Perolehan Data dan Informasi Bank Indonesia \nsebagaimana dimaksud dalam Pasal 12 huruf a meliputi: \na. \nperorangan; \nb. \nbadan usaha; \nc. \nbadan lainnya; \nd. \nkementerian atau lembaga; dan \ne. \norganisasi internasional. \n(2) \nBank \nIndonesia \nmenetapkan \nsubjek \nsebagaimana \ndimaksud pada ayat (1) huruf a, huruf b, dan huruf c yang \ndiwajibkan untuk memberikan Data dan Informasi kepada \nBank Indonesia. \n\n\n \n \n(3) \nSubjek yang ditetapkan sebagaimana dimaksud pada ayat \n(2) wajib memberikan Data dan Informasi sesuai dengan \nketentuan dalam Peraturan Bank Indonesia. \n(4) \nSubjek yang melanggar kewajiban sebagaimana dimaksud \npada ayat (3) dikenai sanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lain yang ditetapkan oleh Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Subjek Perolehan Data dan Informasi Bank Indonesia \nsebagaimana dimaksud dalam Pasal 12 huruf a meliputi: \na. \nperorangan; \nb. \nbadan usaha; \nc. \nbadan lainnya; \nd. \nkementerian atau lembaga; dan \ne. \norganisasi internasional."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \nmenetapkan \nsubjek \nsebagaimana \ndimaksud pada ayat (1) huruf a, huruf b, dan huruf c yang \ndiwajibkan untuk memberikan Data dan Informasi kepada \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Subjek yang ditetapkan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "wajib memberikan Data dan Informasi sesuai dengan \nketentuan dalam Peraturan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Subjek yang melanggar kewajiban sebagaimana dimaksud \npada ayat (3) dikenai sanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lain yang ditetapkan oleh Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nObjek Perolehan Data dan Informasi Bank Indonesia \nsebagaimana dimaksud dalam Pasal 12 huruf b berupa \nData dan Informasi yang dikategorikan berdasarkan: \na. \nsumber dan tujuan awal Perolehan Data dan \nInformasi; \nb. \ntingkat kedetailan; dan \nc. \nformat. \n(2) \nSumber dan tujuan awal Perolehan Data dan Informasi \nsebagaimana dimaksud pada ayat (1) huruf a terdiri atas: \na. \nprimer; dan \nb. \nsekunder. \n(3) \nTingkat kedetailan sebagaimana dimaksud pada ayat (1) \nhuruf b terdiri atas: \na. \ngranular; dan \nb. \nagregat. \n(4) \nFormat sebagaimana dimaksud pada ayat (1) huruf c \nterdiri atas: \na. \ndigital; dan \nb. \nnondigital.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Objek Perolehan Data dan Informasi Bank Indonesia \nsebagaimana dimaksud dalam Pasal 12 huruf b berupa \nData dan Informasi yang dikategorikan berdasarkan: \na. \nsumber dan tujuan awal Perolehan Data dan \nInformasi; \nb. \ntingkat kedetailan; dan \nc. \nformat."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sumber dan tujuan awal Perolehan Data dan Informasi \nsebagaimana dimaksud pada ayat (1) huruf a terdiri atas: \na. \nprimer; dan \nb. \nsekunder."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Tingkat kedetailan sebagaimana dimaksud pada ayat (1) \nhuruf b terdiri atas: \na. \ngranular; dan \nb. \nagregat."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Format sebagaimana dimaksud pada ayat (1) huruf c \nterdiri atas: \na. \ndigital; dan \nb. \nnondigital."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Mekanisme Perolehan Data dan Informasi sebagaimana \ndimaksud dalam Pasal 12 huruf c meliputi: \na. \nsurvei; \nb. \npelaporan; \nc. \nkerja sama; \nd. \npermintaan langsung; dan/atau \ne. \nakses langsung.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Mekanisme Perolehan Data dan Informasi sebagaimana \ndimaksud dalam Pasal 12 huruf c meliputi: \na. \nsurvei; \nb. \npelaporan; \nc. \nkerja sama; \nd. \npermintaan langsung; dan/atau \ne. \nakses langsung."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Teknologi \nPerolehan \nData \ndan \nInformasi \nsebagaimana \ndimaksud dalam Pasal 12 huruf d meliputi: \na. \npengaliran melalui sistem; \nb. \npenarikan melalui sistem; \nc. \npenyampaian secara luring; dan/atau \nd. \ncara lain sesuai dengan perkembangan teknologi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Teknologi \nPerolehan \nData \ndan \nInformasi \nsebagaimana \ndimaksud dalam Pasal 12 huruf d meliputi: \na. \npengaliran melalui sistem; \nb. \npenarikan melalui sistem; \nc. \npenyampaian secara luring; dan/atau \nd. \ncara lain sesuai dengan perkembangan teknologi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Perolehan Data dan Informasi \nsebagaimana dimaksud dalam Pasal 12 sampai dengan Pasal \n16 ditetapkan oleh Bank Indonesia.  \n \n \n \n\n\n \n \nBagian Kedua \nPemrosesan Data dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Perolehan Data dan Informasi \nsebagaimana dimaksud dalam Pasal 12 sampai dengan Pasal \n16 ditetapkan oleh Bank Indonesia.  \n \n \n \n\n\n \n \nBagian Kedua \nPemrosesan Data dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan Pemrosesan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5 ayat (1) \nhuruf b. \n(2) \nPemrosesan Data dan Informasi sebagaimana dimaksud \npada ayat (1) dilaksanakan berdasarkan: \na. \nprinsip atau kaidah ilmiah;  \nb. \nmanual; \nc. \npanduan kompilasi; dan/atau \nd. \nacuan lain yang digunakan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan Pemrosesan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5 ayat (1) \nhuruf b."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemrosesan Data dan Informasi sebagaimana dimaksud \npada ayat (1) dilaksanakan berdasarkan: \na. \nprinsip atau kaidah ilmiah;  \nb. \nmanual; \nc. \npanduan kompilasi; dan/atau \nd. \nacuan lain yang digunakan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmelakukan \nPemrosesan \nData \ndan \nInformasi sebagaimana dimaksud dalam Pasal 18 melalui \nsistem informasi digital atau mekanisme lainnya sesuai \ndengan ketentuan peraturan perundang-undangan. \n(2) \nPemilihan mekanisme Pemrosesan Data dan Informasi \nsebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan memperhatikan perkembangan teknologi terkini \nyang \nsesuai \ndengan \nkebutuhan \ndan \npenerapan \nmanajemen risiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmelakukan \nPemrosesan \nData \ndan \nInformasi sebagaimana dimaksud dalam Pasal 18 melalui \nsistem informasi digital atau mekanisme lainnya sesuai \ndengan ketentuan peraturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemilihan mekanisme Pemrosesan Data dan Informasi \nsebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan memperhatikan perkembangan teknologi terkini \nyang \nsesuai \ndengan \nkebutuhan \ndan \npenerapan \nmanajemen risiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Pemrosesan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 18 dan Pasal 19 \nditetapkan oleh Bank Indonesia.  \n \nBagian Ketiga \nDiseminasi Data dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Pemrosesan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 18 dan Pasal 19 \nditetapkan oleh Bank Indonesia.  \n \nBagian Ketiga \nDiseminasi Data dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan Diseminasi Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5 ayat (1) \nhuruf c. \n(2) \nBank \nIndonesia \nmenetapkan \nklasifikasi \nData \ndan \nInformasi yang menjadi pedoman dalam melakukan \nDiseminasi Data dan Informasi sebagaimana dimaksud \npada ayat (1). \n(3) \nDiseminasi Data dan Informasi sebagaimana dimaksud \npada ayat (1) dapat dilakukan:  \na. \nmelalui sarana yang dapat diakses oleh publik; dan \nb. \nberdasarkan permintaan pihak tertentu. \n(4) \nPihak eksternal yang menggunakan Data dan Informasi \nsebagaimana \ndimaksud \npada \nayat \n(3) \nharus \nmencantumkan Bank Indonesia sebagai sumber materi. \n(5) \nPihak tertentu yang menggunakan Data dan Informasi \nsebagaimana dimaksud pada ayat (3) huruf b harus \nmenjaga keamanan dan kerahasiaan Data dan Informasi \nyang diterima sesuai dengan persyaratan yang ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan Diseminasi Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5 ayat (1) \nhuruf c."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \nmenetapkan \nklasifikasi \nData \ndan \nInformasi yang menjadi pedoman dalam melakukan \nDiseminasi Data dan Informasi sebagaimana dimaksud \npada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Diseminasi Data dan Informasi sebagaimana dimaksud \npada ayat (1) dapat dilakukan:  \na. \nmelalui sarana yang dapat diakses oleh publik; dan \nb. \nberdasarkan permintaan pihak tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pihak eksternal yang menggunakan Data dan Informasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "harus \nmencantumkan Bank Indonesia sebagai sumber materi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pihak tertentu yang menggunakan Data dan Informasi \nsebagaimana dimaksud pada ayat (3) huruf b harus \nmenjaga keamanan dan kerahasiaan Data dan Informasi \nyang diterima sesuai dengan persyaratan yang ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Bank Indonesia menetapkan bentuk dan media Diseminasi \nData dan Informasi dengan memperhatikan perkembangan \nteknologi terkini yang sesuai dengan kebutuhan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia menetapkan bentuk dan media Diseminasi \nData dan Informasi dengan memperhatikan perkembangan \nteknologi terkini yang sesuai dengan kebutuhan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan jadwal Diseminasi Data dan \nInformasi yang bersifat rutin. \n(2) \nBank Indonesia menyampaikan jadwal Diseminasi Data \ndan Informasi sebagaimana dimaksud pada ayat (1) \nkepada publik dan pihak tertentu sebagaimana dimaksud \ndalam Pasal 21 ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan jadwal Diseminasi Data dan \nInformasi yang bersifat rutin."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia menyampaikan jadwal Diseminasi Data \ndan Informasi sebagaimana dimaksud pada ayat (1) \nkepada publik dan pihak tertentu sebagaimana dimaksud \ndalam Pasal 21 ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Diseminasi Data dan \nInformasi sebagaimana dimaksud dalam Pasal 21 sampai \ndengan Pasal 23 ditetapkan oleh Bank Indonesia.  \n \nBagian Keempat \nPenugasan Pihak Lain",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Diseminasi Data dan \nInformasi sebagaimana dimaksud dalam Pasal 21 sampai \ndengan Pasal 23 ditetapkan oleh Bank Indonesia.  \n \nBagian Keempat \nPenugasan Pihak Lain"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN KEBIJAKAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nDalam hal diperlukan, Bank Indonesia dapat menugaskan \npihak lain untuk dan atas nama Bank Indonesia \nmelakukan kegiatan Perolehan Data dan Informasi, \nPemrosesan Data dan Informasi, dan/atau Diseminasi \nData dan Informasi sebagaimana dimaksud dalam Pasal 5 \nayat (1). \n(2) \nPihak lain yang ditugaskan sebagaimana dimaksud pada \nayat (1) harus memenuhi persyaratan: \na. \nindependen;  \nb. \nkompeten; \nc. \nprofesional; dan \nd. \nsyarat lain yang ditetapkan oleh Bank Indonesia. \n(3) \nPihak lain yang ditugaskan sebagaimana dimaksud pada \nayat (1) wajib menjaga keamanan dan kerahasiaan Data \ndan Informasi serta melaksanakan ketentuan lain yang \nditetapkan oleh Bank Indonesia. \n(4) \nPihak yang melanggar kewajiban sebagaimana dimaksud \npada ayat (3) dikenai sanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lain yang ditetapkan oleh Bank \nIndonesia. \n(5) \nKetentuan lebih lanjut mengenai penugasan pihak lain \nuntuk dan atas nama Bank Indonesia sebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (4) ditetapkan \noleh Bank Indonesia. \n \nBAB VI \nPELAPORAN DAN PENGAWASAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal diperlukan, Bank Indonesia dapat menugaskan \npihak lain untuk dan atas nama Bank Indonesia \nmelakukan kegiatan Perolehan Data dan Informasi, \nPemrosesan Data dan Informasi, dan/atau Diseminasi \nData dan Informasi sebagaimana dimaksud dalam Pasal 5 \nayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak lain yang ditugaskan sebagaimana dimaksud pada \nayat (1) harus memenuhi persyaratan: \na. \nindependen;  \nb. \nkompeten; \nc. \nprofesional; dan \nd. \nsyarat lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pihak lain yang ditugaskan sebagaimana dimaksud pada \nayat (1) wajib menjaga keamanan dan kerahasiaan Data \ndan Informasi serta melaksanakan ketentuan lain yang \nditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pihak yang melanggar kewajiban sebagaimana dimaksud \npada ayat (3) dikenai sanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai penugasan pihak lain \nuntuk dan atas nama Bank Indonesia sebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (4) ditetapkan \noleh Bank Indonesia. \n \nBAB VI \nPELAPORAN DAN PENGAWASAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmelakukan \npengaturan \nmengenai \npelaporan sebagai bagian dari mekanisme Perolehan Data \n\n\n \n \ndan Informasi sebagaimana dimaksud dalam Pasal 15 \nhuruf b, yang terkait dengan pelaksanaan tugas Bank \nIndonesia di bidang moneter, makroprudensial, dan sistem \npembayaran. \n(2) \nLaporan sebagaimana dimaksud pada ayat (1) meliputi:  \na. \nlaporan berkala; dan  \nb.  \nlaporan insidental. \n(3) \nLaporan sebagaimana dimaksud pada ayat (2) wajib \ndisampaikan \nsesuai \ndengan \nketentuan \nmengenai \npelaporan Bank Indonesia.  \n(4) \nPihak yang melanggar kewajiban sebagaimana dimaksud \npada ayat (3) dikenai sanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lain yang ditetapkan oleh Bank \nIndonesia. \n(5) \nKetentuan lebih lanjut mengenai pelaporan sebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (4) ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmelakukan \npengaturan \nmengenai \npelaporan sebagai bagian dari mekanisme Perolehan Data \n\n\n \n \ndan Informasi sebagaimana dimaksud dalam Pasal 15 \nhuruf b, yang terkait dengan pelaksanaan tugas Bank \nIndonesia di bidang moneter, makroprudensial, dan sistem \npembayaran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (1) meliputi:  \na. \nlaporan berkala; dan  \nb.  \nlaporan insidental."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (2) wajib \ndisampaikan \nsesuai \ndengan \nketentuan \nmengenai \npelaporan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pihak yang melanggar kewajiban sebagaimana dimaksud \npada ayat (3) dikenai sanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai pelaporan sebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (4) ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmelakukan \npengawasan \nterhadap \npemenuhan kewajiban pelaporan sebagaimana dimaksud \ndalam Pasal 26. \n(2) \nPengawasan pelaporan dilakukan dengan: \na. \npengawasan tidak langsung; dan/atau \nb. \npemeriksaan.  \n(3) \nDalam hal diperlukan, Bank Indonesia dapat menunjuk \ndan/atau bekerja sama dengan pihak lain untuk \nmelakukan pemeriksaan sebagaimana dimaksud pada \nayat (2) huruf b. \n(4) \nDalam melakukan pengawasan sebagaimana dimaksud \npada ayat (2), Bank Indonesia berwenang melakukan \ntindak lanjut pengawasan. \n \nBAB VII \nKOORDINASI DAN SINERGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmelakukan \npengawasan \nterhadap \npemenuhan kewajiban pelaporan sebagaimana dimaksud \ndalam Pasal 26."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan pelaporan dilakukan dengan: \na. \npengawasan tidak langsung; dan/atau \nb. \npemeriksaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal diperlukan, Bank Indonesia dapat menunjuk \ndan/atau bekerja sama dengan pihak lain untuk \nmelakukan pemeriksaan sebagaimana dimaksud pada \nayat (2) huruf b."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam melakukan pengawasan sebagaimana dimaksud \npada ayat (2), Bank Indonesia berwenang melakukan \ntindak lanjut pengawasan. \n \nBAB VII \nKOORDINASI DAN SINERGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "(1) \nUntuk meningkatkan efektivitas kebijakan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5, Bank \nIndonesia melakukan koordinasi dan sinergi kebijakan \ndengan pihak eksternal. \n(2) \nKoordinasi dan sinergi kebijakan dengan pihak eksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan \nmenerapkan \nprinsip \nindependensi \ndalam \ninterdependensi kebijakan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk meningkatkan efektivitas kebijakan Data dan \nInformasi sebagaimana dimaksud dalam Pasal 5, Bank \nIndonesia melakukan koordinasi dan sinergi kebijakan \ndengan pihak eksternal."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinasi dan sinergi kebijakan dengan pihak eksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan \nmenerapkan \nprinsip \nindependensi \ndalam \ninterdependensi kebijakan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "Koordinasi dan sinergi kebijakan dengan pihak eksternal \nsebagaimana dimaksud dalam Pasal 28 dapat dilakukan \nmelalui: \na. \nforum antarotoritas, forum internasional, dan forum lain; \ndan  \n \n\n\n \n \n \nb. \nkerja sama domestik dan kerja sama internasional, \nuntuk mendukung pencapaian tujuan kebijakan Data dan \nInformasi. \n \nBAB VIII \nAKUNTABILITAS DAN TRANSPARANSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Koordinasi dan sinergi kebijakan dengan pihak eksternal \nsebagaimana dimaksud dalam Pasal 28 dapat dilakukan \nmelalui: \na. \nforum antarotoritas, forum internasional, dan forum lain; \ndan  \n \n\n\n \n \n \nb. \nkerja sama domestik dan kerja sama internasional, \nuntuk mendukung pencapaian tujuan kebijakan Data dan \nInformasi. \n \nBAB VIII \nAKUNTABILITAS DAN TRANSPARANSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI",
+      "teks_lengkap": "Dalam kebijakan Data dan Informasi sebagaimana dimaksud \ndalam Pasal 5, Bank Indonesia menerapkan transparansi \npelaksanaan kebijakan Data dan Informasi sebagai bentuk \nakuntabilitas kepada publik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam kebijakan Data dan Informasi sebagaimana dimaksud \ndalam Pasal 5, Bank Indonesia menerapkan transparansi \npelaksanaan kebijakan Data dan Informasi sebagai bentuk \nakuntabilitas kepada publik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI",
+      "teks_lengkap": "(1) \nDalam penerapan transparansi sebagaimana dimaksud \ndalam Pasal 30, Bank Indonesia melakukan komunikasi \nuntuk meningkatkan pemahaman publik terhadap Data \ndan Informasi yang didiseminasikan oleh Bank Indonesia. \n(2) \nKomunikasi sebagaimana dimaksud pada ayat (1) dapat \ndisampaikan \nmelalui \nberbagai \nproduk \ndan \nkanal \nkomunikasi. \n \nBAB IX \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penerapan transparansi sebagaimana dimaksud \ndalam Pasal 30, Bank Indonesia melakukan komunikasi \nuntuk meningkatkan pemahaman publik terhadap Data \ndan Informasi yang didiseminasikan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komunikasi sebagaimana dimaksud pada ayat (1) dapat \ndisampaikan \nmelalui \nberbagai \nproduk \ndan \nkanal \nkomunikasi. \n \nBAB IX \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, Pasal \n15 Peraturan Bank Indonesia Nomor 1/4/PBI/1999 tentang \nPenyelenggaraan Survei oleh Bank Indonesia (Lembaran Negara \nRepublik Indonesia Tahun 1999 Nomor 141, Tambahan \nLembaran Negara Republik Indonesia Nomor 3875), dicabut \ndan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, Pasal \n15 Peraturan Bank Indonesia Nomor 1/4/PBI/1999 tentang \nPenyelenggaraan Survei oleh Bank Indonesia (Lembaran Negara \nRepublik Indonesia Tahun 1999 Nomor 141, Tambahan \nLembaran Negara Republik Indonesia Nomor 3875), dicabut \ndan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n \n \n \n \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 31 Desember 2024 \n \nGUBERNUR BANK INDONESIA,  \n \n \n \n \n    Œ \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal             Д \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR     Ж \n \n \n \n \n\n\nPENJELASAN  \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 12 TAHUN 2024 \nTENTANG \nKEBIJAKAN DATA DAN INFORMASI BANK INDONESIA   \n \nI. \nUMUM \nGuna mencapai tujuan Bank Indonesia, yaitu mencapai stabilitas nilai \nrupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga \nstabilitas sistem keuangan untuk mendukung pertumbuhan ekonomi yang \nberkelanjutan, Bank Indonesia memiliki tugas yang meliputi menetapkan \ndan melaksanakan kebijakan moneter secara berkelanjutan, konsisten, dan \ntransparan, mengatur dan menjaga kelancaran sistem pembayaran, serta \nmenetapkan dan melaksanakan kebijakan makroprudensial. Untuk itu, \ndiperlukan kebijakan Bank Indonesia yang efektif, kredibel, dan akuntabel \ndalam pelaksanaan tugas Bank Indonesia guna mewujudkan pencapaian \ntujuan Bank Indonesia.  \nDalam merumuskan kebijakan yang efektif, kredibel, dan akuntabel \ndalam rangka pelaksanaan tugas Bank Indonesia, diperlukan dukungan \nketersediaan Data dan Informasi yang berkualitas, yaitu Data dan Informasi \nyang komprehensif, tepercaya, akurat, terkini, dan mudah diakses. \nPasal 14 Undang-Undang Nomor 23 Tahun 1999 tentang Bank \nIndonesia sebagaimana telah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan \nPenguatan Sektor Keuangan memberikan penguatan kewenangan Bank \nIndonesia dalam melakukan Perolehan Data dan Informasi serta penegasan \nkewenangan Bank Indonesia dalam melakukan Pemrosesan Data dan \nInformasi serta Diseminasi Data dan Informasi dalam rangka mendukung \npenyediaan Data dan Informasi yang berkualitas. Data dan Informasi \ntersebut dapat mencakup laporan, keterangan, dan/atau penjelasan dari \npihak terkait. Selanjutnya, Data dan Informasi yang berkualitas tersebut \ndapat pula didiseminasikan guna mendukung efektivitas bauran kebijakan \nBank Indonesia, memenuhi komitmen nasional dan internasional, serta \nmemenuhi penyediaan Data dan Informasi bagi publik. \nDalam rangka memastikan ketersediaan Data dan Informasi yang \nberkualitas dimaksud, Bank Indonesia melakukan Perolehan Data dan \nInformasi, Pemrosesan Data dan Informasi, dan Diseminasi Data dan \nInformasi. Pelaksanaan kegiatan tersebut dapat dilakukan dengan \nberkoordinasi dan bersinergi dengan pihak eksternal. Berdasarkan hal \ntersebut, Bank Indonesia menetapkan Peraturan Bank Indonesia tentang \nKebijakan Data dan Informasi Bank Indonesia. \n \n \n\n\n \nII.  PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n \n \n \n \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 31 Desember 2024 \n \nGUBERNUR BANK INDONESIA,  \n \n \n \n \n    Œ \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal             Д \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR     Ж \n \n \n \n \n\n\nPENJELASAN  \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 12 TAHUN 2024 \nTENTANG \nKEBIJAKAN DATA DAN INFORMASI BANK INDONESIA   \n \nI. \nUMUM \nGuna mencapai tujuan Bank Indonesia, yaitu mencapai stabilitas nilai \nrupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga \nstabilitas sistem keuangan untuk mendukung pertumbuhan ekonomi yang \nberkelanjutan, Bank Indonesia memiliki tugas yang meliputi menetapkan \ndan melaksanakan kebijakan moneter secara berkelanjutan, konsisten, dan \ntransparan, mengatur dan menjaga kelancaran sistem pembayaran, serta \nmenetapkan dan melaksanakan kebijakan makroprudensial. Untuk itu, \ndiperlukan kebijakan Bank Indonesia yang efektif, kredibel, dan akuntabel \ndalam pelaksanaan tugas Bank Indonesia guna mewujudkan pencapaian \ntujuan Bank Indonesia.  \nDalam merumuskan kebijakan yang efektif, kredibel, dan akuntabel \ndalam rangka pelaksanaan tugas Bank Indonesia, diperlukan dukungan \nketersediaan Data dan Informasi yang berkualitas, yaitu Data dan Informasi \nyang komprehensif, tepercaya, akurat, terkini, dan mudah diakses. \nPasal 14 Undang-Undang Nomor 23 Tahun 1999 tentang Bank \nIndonesia sebagaimana telah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan \nPenguatan Sektor Keuangan memberikan penguatan kewenangan Bank \nIndonesia dalam melakukan Perolehan Data dan Informasi serta penegasan \nkewenangan Bank Indonesia dalam melakukan Pemrosesan Data dan \nInformasi serta Diseminasi Data dan Informasi dalam rangka mendukung \npenyediaan Data dan Informasi yang berkualitas. Data dan Informasi \ntersebut dapat mencakup laporan, keterangan, dan/atau penjelasan dari \npihak terkait. Selanjutnya, Data dan Informasi yang berkualitas tersebut \ndapat pula didiseminasikan guna mendukung efektivitas bauran kebijakan \nBank Indonesia, memenuhi komitmen nasional dan internasional, serta \nmemenuhi penyediaan Data dan Informasi bagi publik. \nDalam rangka memastikan ketersediaan Data dan Informasi yang \nberkualitas dimaksud, Bank Indonesia melakukan Perolehan Data dan \nInformasi, Pemrosesan Data dan Informasi, dan Diseminasi Data dan \nInformasi. Pelaksanaan kegiatan tersebut dapat dilakukan dengan \nberkoordinasi dan bersinergi dengan pihak eksternal. Berdasarkan hal \ntersebut, Bank Indonesia menetapkan Peraturan Bank Indonesia tentang \nKebijakan Data dan Informasi Bank Indonesia. \n \n \n\n\n \nII.  PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “prinsip sistem tata kelola kebijakan Bank \nIndonesia” adalah prinsip yang melandasi penerapan dan penegakan \nsistem \ntata \nkelola \nkebijakan \nBank \nIndonesia \nyang \nmeliputi \nindependensi, \nkonsistensi, \nkoordinasi, \nakuntabilitas, \ndan \ntransparansi.  \nYang dimaksud dengan “elemen sistem tata kelola kebijakan Bank \nIndonesia” adalah aspek pokok dari sistem tata kelola kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola kebijakan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “prinsip sistem tata kelola kebijakan Bank \nIndonesia” adalah prinsip yang melandasi penerapan dan penegakan \nsistem \ntata \nkelola \nkebijakan \nBank \nIndonesia \nyang \nmeliputi \nindependensi, \nkonsistensi, \nkoordinasi, \nakuntabilitas, \ndan \ntransparansi.  \nYang dimaksud dengan “elemen sistem tata kelola kebijakan Bank \nIndonesia” adalah aspek pokok dari sistem tata kelola kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola kebijakan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan “bauran kebijakan Bank Indonesia” \nadalah integrasi kebijakan secara dinamis yang saling melengkapi \ndan memperkuat antarkebijakan utama, dengan ditopang oleh \nkebijakan pendukung untuk memperoleh kebijakan yang konsisten \ndalam pelaksanaan tugas dan pencapaian tujuan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan “bauran kebijakan Bank Indonesia” \nadalah integrasi kebijakan secara dinamis yang saling melengkapi \ndan memperkuat antarkebijakan utama, dengan ditopang oleh \nkebijakan pendukung untuk memperoleh kebijakan yang konsisten \ndalam pelaksanaan tugas dan pencapaian tujuan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “relevansi” adalah kebijakan Data dan \nInformasi yang sesuai dengan kebutuhan Bank Indonesia. \n \nHuruf b  \n \n \nYang dimaksud dengan “standar profesional dan praktik yang \nterbaik” adalah metodologi yang digunakan mengacu pada \nstandar profesional dan praktik yang berlaku baik secara nasional \nmaupun internasional. \n \nHuruf c  \n \n \nYang dimaksud dengan “berbasis teknologi yang tepat” adalah \npenggunaan teknologi terkini yang berlaku, termasuk teknologi \ndigital, dengan memperhatikan kesesuaian terhadap kebutuhan \nBank Indonesia dan manajemen risiko. \nTeknologi terkini antara lain artificial intelligence, machine \nlearning, dan big data analytics. \n \nHuruf d  \n \n \nYang dimaksud dengan “pelindungan” adalah pelindungan \nterhadap Data dan Informasi yang dibangun oleh Bank Indonesia \nsejak Perolehan Data dan Informasi, Pemrosesan Data dan \nInformasi, sampai dengan Diseminasi Data dan Informasi. Prinsip \npelindungan dilaksanakan dengan mengacu pada ketentuan \nperaturan perundang-undangan dan standar terbaik yang  \n \n\n\n \nberlaku baik secara nasional maupun internasional, antara lain \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelindungan data pribadi. \n \nHuruf e \nKoordinasi \ndan \nsinergi \ndilakukan \nantara \nlain \nmelalui \npembangunan dan pemeliharaan sarana pertukaran informasi \nsecara \nterintegrasi, \npenyusunan \nstatistik \nbersama \n(joint \npublication), dan koordinasi Diseminasi Data dan Informasi untuk \nmemenuhi komitmen internasional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “relevansi” adalah kebijakan Data dan \nInformasi yang sesuai dengan kebutuhan Bank Indonesia. \n \nHuruf b  \n \n \nYang dimaksud dengan “standar profesional dan praktik yang \nterbaik” adalah metodologi yang digunakan mengacu pada \nstandar profesional dan praktik yang berlaku baik secara nasional \nmaupun internasional. \n \nHuruf c  \n \n \nYang dimaksud dengan “berbasis teknologi yang tepat” adalah \npenggunaan teknologi terkini yang berlaku, termasuk teknologi \ndigital, dengan memperhatikan kesesuaian terhadap kebutuhan \nBank Indonesia dan manajemen risiko. \nTeknologi terkini antara lain artificial intelligence, machine \nlearning, dan big data analytics. \n \nHuruf d  \n \n \nYang dimaksud dengan “pelindungan” adalah pelindungan \nterhadap Data dan Informasi yang dibangun oleh Bank Indonesia \nsejak Perolehan Data dan Informasi, Pemrosesan Data dan \nInformasi, sampai dengan Diseminasi Data dan Informasi. Prinsip \npelindungan dilaksanakan dengan mengacu pada ketentuan \nperaturan perundang-undangan dan standar terbaik yang  \n \n\n\n \nberlaku baik secara nasional maupun internasional, antara lain \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelindungan data pribadi. \n \nHuruf e \nKoordinasi \ndan \nsinergi \ndilakukan \nantara \nlain \nmelalui \npembangunan dan pemeliharaan sarana pertukaran informasi \nsecara \nterintegrasi, \npenyusunan \nstatistik \nbersama \n(joint \npublication), dan koordinasi Diseminasi Data dan Informasi untuk \nmemenuhi komitmen internasional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “Data dan Informasi yang berkualitas” adalah \nData dan Informasi yang:  \na. \nkomprehensif, yaitu Data dan Informasi yang merepresentasikan \nkonteks secara menyeluruh;  \nb. \ntepercaya, yaitu Data dan Informasi yang dapat dipercaya \nkebenarannya;  \nc. \nakurat, yaitu Data dan Informasi yang memiliki tingkat ketepatan \nyang tinggi;  \nd. \nterkini (timely), yaitu Data dan Informasi yang tersedia secara \ntepat waktu dengan jeda waktu yang paling singkat antara periode \nData dan Informasi dengan waktu penyediaan Data dan \nInformasi; dan \ne. \nmudah diakses, yaitu Data dan Informasi yang tersedia untuk \nseluruh pengguna dalam berbagai format dan kanal, dilengkapi \ndengan senarai rencana terbit dan metadata yang jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “Data dan Informasi yang berkualitas” adalah \nData dan Informasi yang:  \na. \nkomprehensif, yaitu Data dan Informasi yang merepresentasikan \nkonteks secara menyeluruh;  \nb. \ntepercaya, yaitu Data dan Informasi yang dapat dipercaya \nkebenarannya;  \nc. \nakurat, yaitu Data dan Informasi yang memiliki tingkat ketepatan \nyang tinggi;  \nd. \nterkini (timely), yaitu Data dan Informasi yang tersedia secara \ntepat waktu dengan jeda waktu yang paling singkat antara periode \nData dan Informasi dengan waktu penyediaan Data dan \nInformasi; dan \ne. \nmudah diakses, yaitu Data dan Informasi yang tersedia untuk \nseluruh pengguna dalam berbagai format dan kanal, dilengkapi \ndengan senarai rencana terbit dan metadata yang jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \n \nHuruf b \nYang dimaksud dengan “pihak terkait” adalah entitas selain \notoritas dan kementerian atau lembaga antara lain perusahaan \ninduk, perusahaan anak, dan pihak yang mempunyai hubungan \nusaha dan/atau hubungan keuangan. \n \nHuruf c \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \n \nHuruf b \nYang dimaksud dengan “pihak terkait” adalah entitas selain \notoritas dan kementerian atau lembaga antara lain perusahaan \ninduk, perusahaan anak, dan pihak yang mempunyai hubungan \nusaha dan/atau hubungan keuangan. \n \nHuruf c \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nHuruf a \nYang dimaksud dengan “perorangan” termasuk rumah \ntangga. \n \n\n\n \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \n \n \nCukup jelas. \n \n Huruf e \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nHuruf a \nYang dimaksud dengan “perorangan” termasuk rumah \ntangga. \n \n\n\n \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \n \n \nCukup jelas. \n \n Huruf e \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nCukup jelas. \nAyat (2)  \n \nHuruf a  \n \n \n \nYang dimaksud dengan “primer” adalah Data dan Informasi \nyang \nbersumber dari \ninternal \nBank \nIndonesia \natau \nperolehannya secara khusus didesain untuk kepentingan \nBank Indonesia. \n \n \nHuruf b \nYang dimaksud dengan “sekunder” adalah Data dan \nInformasi yang diperoleh Bank Indonesia dari sumber \neksternal \ndan \ntidak \nsecara \nkhusus \ndidesain \nuntuk \nkepentingan Bank Indonesia, termasuk data administratif \nkementerian atau lembaga dan badan usaha. \n \nAyat (3) \n \n \nHuruf a \nYang dimaksud dengan “granular” adalah Data dan \nInformasi yang memuat karakteristik unit individual dari \nsubjek dan/atau objek Perolehan Data dan Informasi. \nHuruf b \nYang dimaksud dengan “agregat” adalah Data dan Informasi \nyang merupakan hasil agregasi dari Data dan Informasi \ngranular. \n \nAyat (4) \n \n \nHuruf a \n \n \n \nYang dimaksud dengan “digital” adalah Data dan Informasi \nyang \ndapat \ndilihat \ndan/atau \nditampilkan \ndengan \nmenggunakan perangkat teknologi digital. \n \n \nHuruf b \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nCukup jelas. \nAyat (2)  \n \nHuruf a  \n \n \n \nYang dimaksud dengan “primer” adalah Data dan Informasi \nyang \nbersumber dari \ninternal \nBank \nIndonesia \natau \nperolehannya secara khusus didesain untuk kepentingan \nBank Indonesia. \n \n \nHuruf b \nYang dimaksud dengan “sekunder” adalah Data dan \nInformasi yang diperoleh Bank Indonesia dari sumber \neksternal \ndan \ntidak \nsecara \nkhusus \ndidesain \nuntuk \nkepentingan Bank Indonesia, termasuk data administratif \nkementerian atau lembaga dan badan usaha. \n \nAyat (3) \n \n \nHuruf a \nYang dimaksud dengan “granular” adalah Data dan \nInformasi yang memuat karakteristik unit individual dari \nsubjek dan/atau objek Perolehan Data dan Informasi. \nHuruf b \nYang dimaksud dengan “agregat” adalah Data dan Informasi \nyang merupakan hasil agregasi dari Data dan Informasi \ngranular. \n \nAyat (4) \n \n \nHuruf a \n \n \n \nYang dimaksud dengan “digital” adalah Data dan Informasi \nyang \ndapat \ndilihat \ndan/atau \nditampilkan \ndengan \nmenggunakan perangkat teknologi digital. \n \n \nHuruf b \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “survei” adalah mekanisme Perolehan \nData \ndan \nInformasi \nyang \ndilakukan \nmelalui \npengajuan \npertanyaan atau pengamatan objek dan/atau responden untuk \nmendapatkan informasi yang representatif tentang suatu populasi \npada saat tertentu dengan cara sistematis, termasuk liaison. \n \n \n\n\n \n \nHuruf b \nYang dimaksud dengan “pelaporan” adalah mekanisme Perolehan \nData dan Informasi yang dilakukan secara berkala dan/atau \nsewaktu-waktu dan diatur secara khusus aspeknya dalam \nketentuan Bank Indonesia. \n \nHuruf c \nYang dimaksud dengan “kerja sama” adalah mekanisme \nPerolehan Data dan Informasi yang didasarkan pada suatu \nbentuk kesepakatan tertulis dengan pihak eksternal, termasuk \ndalam rangka keanggotaan pada suatu lembaga atau forum dan \nPerolehan Data dan Informasi secara berbayar. \n \nHuruf d \nYang \ndimaksud \ndengan \n“permintaan \nlangsung” \nadalah \nmekanisme Perolehan Data dan Informasi yang diminta secara \nlangsung oleh Bank Indonesia dan tidak perlu diikat melalui \nkesepakatan tertulis. \n \nHuruf e \n \n \nYang dimaksud dengan “akses langsung” adalah mekanisme \nPerolehan Data dan Informasi yang dilakukan dengan cara \nmengakses Data dan Informasi yang tersedia antara lain secara \npublik dan pada sistem internal Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “survei” adalah mekanisme Perolehan \nData \ndan \nInformasi \nyang \ndilakukan \nmelalui \npengajuan \npertanyaan atau pengamatan objek dan/atau responden untuk \nmendapatkan informasi yang representatif tentang suatu populasi \npada saat tertentu dengan cara sistematis, termasuk liaison. \n \n \n\n\n \n \nHuruf b \nYang dimaksud dengan “pelaporan” adalah mekanisme Perolehan \nData dan Informasi yang dilakukan secara berkala dan/atau \nsewaktu-waktu dan diatur secara khusus aspeknya dalam \nketentuan Bank Indonesia. \n \nHuruf c \nYang dimaksud dengan “kerja sama” adalah mekanisme \nPerolehan Data dan Informasi yang didasarkan pada suatu \nbentuk kesepakatan tertulis dengan pihak eksternal, termasuk \ndalam rangka keanggotaan pada suatu lembaga atau forum dan \nPerolehan Data dan Informasi secara berbayar. \n \nHuruf d \nYang \ndimaksud \ndengan \n“permintaan \nlangsung” \nadalah \nmekanisme Perolehan Data dan Informasi yang diminta secara \nlangsung oleh Bank Indonesia dan tidak perlu diikat melalui \nkesepakatan tertulis. \n \nHuruf e \n \n \nYang dimaksud dengan “akses langsung” adalah mekanisme \nPerolehan Data dan Informasi yang dilakukan dengan cara \nmengakses Data dan Informasi yang tersedia antara lain secara \npublik dan pada sistem internal Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \n \nYang dimaksud dengan “pengaliran melalui sistem” adalah \npengaliran Data dan Informasi dari sumber data ke Bank \nIndonesia antara lain melalui aplikasi transfer file dan application \nprogramming interface (API). \n \nHuruf b \n \n \nYang dimaksud dengan “penarikan melalui sistem” adalah \npenarikan Data dan Informasi dari sumber data oleh Bank \nIndonesia antara lain dengan menggunakan web scraping, \naplikasi transfer file, dan application programming interface (API). \n \nHuruf c \n \n \nYang dimaksud dengan “penyampaian secara luring” adalah \npenyampaian Data dan Informasi yang tidak dilakukan melalui \nsistem Perolehan Data dan Informasi Bank Indonesia, termasuk \nsurvei yang dilakukan secara tatap muka dan telepon, surat \nelektronik, pertemuan langsung, dan sarana komunikasi lain \nyang ditetapkan oleh Bank Indonesia. \n \nHuruf d \n \n \nCara lain sesuai dengan perkembangan teknologi antara lain \ndengan menggunakan big data analytics dan artificial intelligence.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \n \nYang dimaksud dengan “pengaliran melalui sistem” adalah \npengaliran Data dan Informasi dari sumber data ke Bank \nIndonesia antara lain melalui aplikasi transfer file dan application \nprogramming interface (API). \n \nHuruf b \n \n \nYang dimaksud dengan “penarikan melalui sistem” adalah \npenarikan Data dan Informasi dari sumber data oleh Bank \nIndonesia antara lain dengan menggunakan web scraping, \naplikasi transfer file, dan application programming interface (API). \n \nHuruf c \n \n \nYang dimaksud dengan “penyampaian secara luring” adalah \npenyampaian Data dan Informasi yang tidak dilakukan melalui \nsistem Perolehan Data dan Informasi Bank Indonesia, termasuk \nsurvei yang dilakukan secara tatap muka dan telepon, surat \nelektronik, pertemuan langsung, dan sarana komunikasi lain \nyang ditetapkan oleh Bank Indonesia. \n \nHuruf d \n \n \nCara lain sesuai dengan perkembangan teknologi antara lain \ndengan menggunakan big data analytics dan artificial intelligence."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Perolehan Data dan Informasi antara lain \nmemuat subjek, objek, mekanisme, dan teknologi dalam Perolehan \nData dan Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Perolehan Data dan Informasi antara lain \nmemuat subjek, objek, mekanisme, dan teknologi dalam Perolehan \nData dan Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nPemrosesan Data dan Informasi antara lain menghasilkan \nindikator dan statistik. \n \n \n \n\n\n \n \nAyat (2) \n \n \nHuruf a \nPrinsip atau kaidah ilmiah antara lain prinsip atau kaidah \ndalam metodologi statistika, ekonometri, dan big data \nanalytics. \nHuruf b \nManual antara lain balance of payments manual. \nHuruf c \nPanduan kompilasi antara lain external debt statistics guide. \n \n \nHuruf d \nAcuan lain yang digunakan oleh Bank Indonesia antara lain \nstandar yang diterapkan oleh lembaga internasional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nPemrosesan Data dan Informasi antara lain menghasilkan \nindikator dan statistik. \n \n \n \n\n\n \n \nAyat (2) \n \n \nHuruf a \nPrinsip atau kaidah ilmiah antara lain prinsip atau kaidah \ndalam metodologi statistika, ekonometri, dan big data \nanalytics. \nHuruf b \nManual antara lain balance of payments manual. \nHuruf c \nPanduan kompilasi antara lain external debt statistics guide. \n \n \nHuruf d \nAcuan lain yang digunakan oleh Bank Indonesia antara lain \nstandar yang diterapkan oleh lembaga internasional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Pemrosesan Data dan Informasi antara lain \nmemuat metodologi, teknologi, dan pelindungan dalam Pemrosesan \nData dan Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Pemrosesan Data dan Informasi antara lain \nmemuat metodologi, teknologi, dan pelindungan dalam Pemrosesan \nData dan Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nPenetapan klasifikasi Data dan Informasi dilakukan dengan \nmemperhatikan beberapa aspek antara lain ketentuan peraturan \nperundang-undangan mengenai keterbukaan informasi publik. \n \nAyat (3) \n \n  \nHuruf a \n \n  \n \nCukup jelas. \n \n  \nHuruf b \n \n \n \nPihak tertentu antara lain kementerian atau lembaga dan \norganisasi internasional. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nPersyaratan yang ditetapkan oleh Bank Indonesia antara lain \nklausul kerahasiaan dalam perjanjian kerja sama antara Bank \nIndonesia dengan pihak tertentu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nPenetapan klasifikasi Data dan Informasi dilakukan dengan \nmemperhatikan beberapa aspek antara lain ketentuan peraturan \nperundang-undangan mengenai keterbukaan informasi publik. \n \nAyat (3) \n \n  \nHuruf a \n \n  \n \nCukup jelas. \n \n  \nHuruf b \n \n \n \nPihak tertentu antara lain kementerian atau lembaga dan \norganisasi internasional. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nPersyaratan yang ditetapkan oleh Bank Indonesia antara lain \nklausul kerahasiaan dalam perjanjian kerja sama antara Bank \nIndonesia dengan pihak tertentu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Bentuk Diseminasi Data dan Informasi antara lain tabel, grafik, \nanalisis, infografis, laporan, materi presentasi, video, dan siaran pers. \nMedia Diseminasi Data dan Informasi antara lain laman resmi Bank \nIndonesia, media sosial, media cetak, surat, publikasi cetak, surat \nelektronik, dan infrastruktur pertukaran Data dan Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bentuk Diseminasi Data dan Informasi antara lain tabel, grafik, \nanalisis, infografis, laporan, materi presentasi, video, dan siaran pers. \nMedia Diseminasi Data dan Informasi antara lain laman resmi Bank \nIndonesia, media sosial, media cetak, surat, publikasi cetak, surat \nelektronik, dan infrastruktur pertukaran Data dan Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Diseminasi Data dan Informasi antara lain \nmemuat pihak yang menggunakan Data dan Informasi, pelindungan \nData dan Informasi, bentuk dan media Diseminasi Data dan Informasi, \nserta jadwal Diseminasi Data dan Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Diseminasi Data dan Informasi antara lain \nmemuat pihak yang menggunakan Data dan Informasi, pelindungan \nData dan Informasi, bentuk dan media Diseminasi Data dan Informasi, \nserta jadwal Diseminasi Data dan Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \nAyat (2) \n \nHuruf a \nYang dimaksud dengan “independen” adalah bebas dari \npengaruh pihak mana pun dalam mengambil keputusan. \nHuruf b \n \n \n \n Yang \ndimaksud \ndengan \n“kompeten” \nadalah \nmemiliki \nkemampuan yang berstandar tinggi dalam melakukan \nkegiatan Perolehan Data dan Informasi, Pemrosesan Data \ndan Informasi, dan/atau Diseminasi Data dan Informasi, \nantara lain memiliki sertifikasi dan sumber daya manusia \nyang cukup. \n \n \nHuruf c \n \n \n \nYang dimaksud dengan “profesional” adalah mempunyai \nkeahlian \ndan \nmenguasai \nbidang \npekerjaan \nyang \ndilakukannya, antara lain mempunyai kinerja yang baik dan \nberpengalaman melakukan kegiatan Perolehan Data dan \nInformasi, Pemrosesan Data dan Informasi, dan/atau \nDiseminasi Data dan Informasi. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nKetentuan lain yang ditetapkan oleh Bank Indonesia antara lain \nklausul yang memuat pelindungan data pribadi. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nPengaturan mengenai penugasan pihak lain untuk dan atas nama \nBank Indonesia antara lain memuat persyaratan dan cakupan \npenugasan pihak lain, serta pelindungan Data dan Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \nAyat (2) \n \nHuruf a \nYang dimaksud dengan “independen” adalah bebas dari \npengaruh pihak mana pun dalam mengambil keputusan. \nHuruf b \n \n \n \n Yang \ndimaksud \ndengan \n“kompeten” \nadalah \nmemiliki \nkemampuan yang berstandar tinggi dalam melakukan \nkegiatan Perolehan Data dan Informasi, Pemrosesan Data \ndan Informasi, dan/atau Diseminasi Data dan Informasi, \nantara lain memiliki sertifikasi dan sumber daya manusia \nyang cukup. \n \n \nHuruf c \n \n \n \nYang dimaksud dengan “profesional” adalah mempunyai \nkeahlian \ndan \nmenguasai \nbidang \npekerjaan \nyang \ndilakukannya, antara lain mempunyai kinerja yang baik dan \nberpengalaman melakukan kegiatan Perolehan Data dan \nInformasi, Pemrosesan Data dan Informasi, dan/atau \nDiseminasi Data dan Informasi. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nKetentuan lain yang ditetapkan oleh Bank Indonesia antara lain \nklausul yang memuat pelindungan data pribadi. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nPengaturan mengenai penugasan pihak lain untuk dan atas nama \nBank Indonesia antara lain memuat persyaratan dan cakupan \npenugasan pihak lain, serta pelindungan Data dan Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nPengaturan mengenai pelaporan antara lain memuat subjek, \nobjek, mekanisme, dan teknologi dalam pelaporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nPengaturan mengenai pelaporan antara lain memuat subjek, \nobjek, mekanisme, dan teknologi dalam pelaporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2)  \nHuruf a \nPengawasan tidak langsung antara lain dilakukan melalui \nvalidasi terhadap Data dan Informasi yang dilaporkan dan \nverifikasi kepada pelapor. \n \n \n\n\n \n \n \nHuruf b \n \n \n \nCukup jelas. \n \nAyat (3)  \nCukup jelas. \n \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2)  \nHuruf a \nPengawasan tidak langsung antara lain dilakukan melalui \nvalidasi terhadap Data dan Informasi yang dilaporkan dan \nverifikasi kepada pelapor. \n \n \n\n\n \n \n \nHuruf b \n \n \n \nCukup jelas. \n \nAyat (3)  \nCukup jelas. \n \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR      ⸙",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR      ⸙"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 66,
+  "total_ayat": 97,
+  "total_karakter": 30382,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

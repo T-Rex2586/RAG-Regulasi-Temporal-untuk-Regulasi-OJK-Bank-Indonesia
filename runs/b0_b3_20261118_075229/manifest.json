@@ -1,0 +1,98 @@
+{
+  "run_id": "b0_b3_20261118_075229",
+  "timestamp_utc": "2026-11-18T07:56:03.641220+00:00",
+  "phase": 6,
+  "config": {
+    "version": "v1",
+    "seed": 42,
+    "dev_file": "benchmark/splits/dev.jsonl",
+    "train_file": "benchmark/splits/train.jsonl",
+    "runs_dir": "runs",
+    "model": {
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "path": "models/Qwen2.5-1.5B-Instruct",
+      "device": "cpu",
+      "max_new_tokens": 384,
+      "temperature": 0.0,
+      "top_p": 1.0
+    },
+    "b0": {
+      "id": "B0",
+      "name": "Direct LLM Baseline",
+      "prompt_file": "prompts/b0_direct_v1.txt"
+    },
+    "b1": {
+      "id": "B1",
+      "name": "Structured Prompted LLM",
+      "prompt_file": "prompts/b1_prompted_v1.json",
+      "few_shot_count": 2
+    },
+    "b2": {
+      "id": "B2",
+      "name": "Naive RAG",
+      "prompt_file": "prompts/b2_naive_rag_v1.json",
+      "collection": "reg_fixed_v1",
+      "top_k": 5
+    },
+    "b3": {
+      "id": "B3",
+      "name": "Hybrid RAG (BM25 + Dense + RRF)",
+      "prompt_file": "prompts/b3_hybrid_rag_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5
+    }
+  },
+  "test_lock_verified": true,
+  "baselines_evaluated": [
+    "B0",
+    "B1",
+    "B2",
+    "B3"
+  ],
+  "summary": {
+    "B0": {
+      "baseline_id": "B0",
+      "queries_evaluated": 1,
+      "avg_latency_sec": 50.54,
+      "total_latency_sec": 50.54,
+      "avg_tokens_generated": 256.0,
+      "json_parse_rate_pct": 100.0,
+      "abstain_count": 0,
+      "output_file": "runs/b0_b3_20261118_075229/dev_b0.jsonl"
+    },
+    "B1": {
+      "baseline_id": "B1",
+      "queries_evaluated": 1,
+      "avg_latency_sec": 50.35,
+      "total_latency_sec": 50.35,
+      "avg_tokens_generated": 214.0,
+      "json_parse_rate_pct": 100.0,
+      "abstain_count": 0,
+      "output_file": "runs/b0_b3_20261118_075229/dev_b1.jsonl"
+    },
+    "B2": {
+      "baseline_id": "B2",
+      "queries_evaluated": 1,
+      "avg_latency_sec": 34.79,
+      "total_latency_sec": 34.79,
+      "avg_tokens_generated": 95.0,
+      "json_parse_rate_pct": 100.0,
+      "abstain_count": 0,
+      "output_file": "runs/b0_b3_20261118_075229/dev_b2.jsonl"
+    },
+    "B3": {
+      "baseline_id": "B3",
+      "queries_evaluated": 1,
+      "avg_latency_sec": 64.17,
+      "total_latency_sec": 64.17,
+      "avg_tokens_generated": 189.0,
+      "json_parse_rate_pct": 100.0,
+      "abstain_count": 0,
+      "output_file": "runs/b0_b3_20261118_075229/dev_b3.jsonl"
+    }
+  }
+}

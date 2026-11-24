@@ -1,0 +1,923 @@
+{
+  "doc_id": "OJK_POJK_2017_41_e450bc45",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "41",
+  "tahun": "2017",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 41/POJK.03/2017 tentang Persyaratan dan Tata Cara Pemeriksaan Bank",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "12 Juli 2017",
+  "tanggal_berlaku": "diundangkan (12 Juli 2017)",
+  "diundangkan_pada": "12 Juli 2017",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PIHAK-PIHAK YANG DIPERIKSA"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMERIKSAAN OLEH PIHAK ASING"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "RAHASIA BANK"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "ALAMAT PENYAMPAIAN LAPORAN, PEMBERITAHUAN, DAN IZIN PEMERIKSAAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1.  Bank adalah Bank Umum dan Bank Perkreditan \nRakyat sebagaimana dimaksud dalam Undang-Undang \nNomor 7 Tahun 1992 tentang Perbankan sebagaimana \n\n\n \ntelah diubah dengan Undang-Undang Nomor 10  \nTahun 1998 tentang Perubahan atas Undang-Undang \nNomor 7 Tahun 1992 tentang Perbankan, termasuk \nkantor cabang dari bank yang berkedudukan di luar \nnegeri serta Bank Syariah dan Unit Usaha Syariah \nsebagaimana \ndimaksud \ndalam \nUndang-Undang  \nNomor 21 Tahun 2008 tentang Perbankan Syariah. \n2. \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri adalah kantor yang secara langsung atau tidak \nlangsung bertanggung jawab kepada kantor pusat \nbank yang bersangkutan, dan mempunyai alamat \nserta tempat kedudukan di Indonesia. \n3. \nKantor Perwakilan dari Bank yang Berkedudukan di \nLuar \nNegeri \nadalah \nkantor \ndari \nbank \nyang \nberkedudukan di luar negeri yang bertindak semata-\nmata \nsebagai \npenghubung \nantara \nbank \nyang \nberkedudukan di luar negeri dengan nasabahnya. \n4.  Pihak \nTerkait \nadalah \npihak \nyang \nmempunyai \nketerkaitan dengan Bank sebagaimana dimaksud \ndalam \nketentuan \nperaturan \nperundang-undangan \nmengenai batas maksimum pemberian kredit bank \numum, ketentuan peraturan perundangan-undangan \nmengenai batas maksimum pemberian kredit bank \nperkreditan \nrakyat, \ndan \nketentuan \nperaturan \nperundangan-undangan mengenai batas maksimum \npenyaluran dana bank pembiayaan rakyat syariah. \n5.  Pihak Terafiliasi adalah pihak terafiliasi sebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 1992 tentang Perbankan sebagaimana telah \ndiubah dengan Undang-Undang Nomor 10 Tahun \n1998 tentang Perubahan atas Undang-Undang Nomor \n7 Tahun 1992 tentang Perbankan dan Undang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \nSyariah; \n6.  Pihak Lain adalah pihak yang ditugaskan untuk dan \natas nama Otoritas Jasa Keuangan serta dinilai \n\n\n \nmemiliki \nkemampuan \nuntuk \nmelaksanakan \npemeriksaan. \nBAB II \nPIHAK-PIHAK YANG DIPERIKSA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1.  Bank adalah Bank Umum dan Bank Perkreditan \nRakyat sebagaimana dimaksud dalam Undang-Undang \nNomor 7 Tahun 1992 tentang Perbankan sebagaimana \n\n\n \ntelah diubah dengan Undang-Undang Nomor 10  \nTahun 1998 tentang Perubahan atas Undang-Undang \nNomor 7 Tahun 1992 tentang Perbankan, termasuk \nkantor cabang dari bank yang berkedudukan di luar \nnegeri serta Bank Syariah dan Unit Usaha Syariah \nsebagaimana \ndimaksud \ndalam \nUndang-Undang  \nNomor 21 Tahun 2008 tentang Perbankan Syariah. \n2. \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri adalah kantor yang secara langsung atau tidak \nlangsung bertanggung jawab kepada kantor pusat \nbank yang bersangkutan, dan mempunyai alamat \nserta tempat kedudukan di Indonesia. \n3. \nKantor Perwakilan dari Bank yang Berkedudukan di \nLuar \nNegeri \nadalah \nkantor \ndari \nbank \nyang \nberkedudukan di luar negeri yang bertindak semata-\nmata \nsebagai \npenghubung \nantara \nbank \nyang \nberkedudukan di luar negeri dengan nasabahnya. \n4.  Pihak \nTerkait \nadalah \npihak \nyang \nmempunyai \nketerkaitan dengan Bank sebagaimana dimaksud \ndalam \nketentuan \nperaturan \nperundang-undangan \nmengenai batas maksimum pemberian kredit bank \numum, ketentuan peraturan perundangan-undangan \nmengenai batas maksimum pemberian kredit bank \nperkreditan \nrakyat, \ndan \nketentuan \nperaturan \nperundangan-undangan mengenai batas maksimum \npenyaluran dana bank pembiayaan rakyat syariah. \n5.  Pihak Terafiliasi adalah pihak terafiliasi sebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 1992 tentang Perbankan sebagaimana telah \ndiubah dengan Undang-Undang Nomor 10 Tahun \n1998 tentang Perubahan atas Undang-Undang Nomor \n7 Tahun 1992 tentang Perbankan dan Undang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \nSyariah; \n6.  Pihak Lain adalah pihak yang ditugaskan untuk dan \natas nama Otoritas Jasa Keuangan serta dinilai \n\n\n \nmemiliki \nkemampuan \nuntuk \nmelaksanakan \npemeriksaan. \nBAB II \nPIHAK-PIHAK YANG DIPERIKSA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PIHAK-PIHAK YANG DIPERIKSA",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat melakukan pemeriksaan \nterhadap: \na. \nBank; dan/atau \nb. \nKantor Perwakilan dari Bank yang Berkedudukan di \nLuar Negeri.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat melakukan pemeriksaan \nterhadap: \na. \nBank; dan/atau \nb. \nKantor Perwakilan dari Bank yang Berkedudukan di \nLuar Negeri."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PIHAK-PIHAK YANG DIPERIKSA",
+      "teks_lengkap": "(1) \nDalam \nmelakukan \npemeriksaan \nterhadap \nBank \nsebagaimana dimaksud dalam Pasal 2 huruf a, \nOtoritas \nJasa \nKeuangan \ndapat \nmelakukan \npemeriksaan terhadap: \na. \nperusahaan induk dari Bank;  \nb. \nperusahaan anak dari Bank; \nc. \nPihak Terkait dengan Bank;  \nd. \nPihak Terafiliasi dengan Bank; dan \ne. \ndebitur Bank. \n(2) \nPemeriksaan terhadap pihak sebagaimana dimaksud \npada ayat (1) dilakukan dalam hal terdapat indikasi \nbahwa pihak tersebut: \na. \nmemperoleh penyediaan dana dari Bank; \nb. \nmempunyai peran dalam kegiatan operasional \nBank; \nc. \nmelakukan tindakan yang menimbulkan kerugian \nterhadap Bank;  \nd. \nmemperoleh keuntungan yang tidak wajar dari \nBank; \ne. \nmengalami \nkesulitan \nkeuangan \nyang \ndapat \nmempengaruhi kinerja Bank; dan/atau \nf. \nindikasi lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelakukan \npemeriksaan \nterhadap \nBank \nsebagaimana dimaksud dalam Pasal 2 huruf a, \nOtoritas \nJasa \nKeuangan \ndapat \nmelakukan \npemeriksaan terhadap: \na. \nperusahaan induk dari Bank;  \nb. \nperusahaan anak dari Bank; \nc. \nPihak Terkait dengan Bank;  \nd. \nPihak Terafiliasi dengan Bank; dan \ne. \ndebitur Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan terhadap pihak sebagaimana dimaksud \npada ayat (1) dilakukan dalam hal terdapat indikasi \nbahwa pihak tersebut: \na. \nmemperoleh penyediaan dana dari Bank; \nb. \nmempunyai peran dalam kegiatan operasional \nBank; \nc. \nmelakukan tindakan yang menimbulkan kerugian \nterhadap Bank;  \nd. \nmemperoleh keuntungan yang tidak wajar dari \nBank; \ne. \nmengalami \nkesulitan \nkeuangan \nyang \ndapat \nmempengaruhi kinerja Bank; dan/atau \nf. \nindikasi lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PIHAK-PIHAK YANG DIPERIKSA",
+      "teks_lengkap": "(1) \nPemeriksaan terhadap Bank sebagaimana dimaksud \ndalam Pasal 2 huruf a terdiri dari pemeriksaan secara \nberkala dan pemeriksaan sewaktu-waktu. \n(2) \nPemeriksaan sebagaimana dimaksud pada ayat (1) \nmeliputi pemeriksaan terhadap aspek kegiatan usaha \nBank, termasuk sarana pendukung dan hal-hal lain \nyang berkaitan dengan keuangan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemeriksaan terhadap Bank sebagaimana dimaksud \ndalam Pasal 2 huruf a terdiri dari pemeriksaan secara \nberkala dan pemeriksaan sewaktu-waktu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan sebagaimana dimaksud pada ayat (1) \nmeliputi pemeriksaan terhadap aspek kegiatan usaha \nBank, termasuk sarana pendukung dan hal-hal lain \nyang berkaitan dengan keuangan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PIHAK-PIHAK YANG DIPERIKSA",
+      "teks_lengkap": "(1) \nPemeriksaan terhadap Bank sebagaimana dimaksud \ndalam Pasal 2 huruf a dapat dilakukan untuk: \na. \nmemperoleh \ngambaran \nmenyeluruh \ntentang \nperkembangan usaha dan keadaan keuangan \nBank, termasuk mendeteksi hal-hal yang dapat \nmempengaruhi \ntingkat \nkesehatan \nmaupun \nkelangsungan usaha Bank; \nb. \nmendapatkan keyakinan atas kebenaran laporan \nyang disampaikan oleh Bank kepada Otoritas \nJasa Keuangan, laporan yang dipublikasikan \nkepada masyarakat, dan informasi lain; \nc. \nmemastikan kepatuhan Bank terhadap Peraturan \nOtoritas Jasa Keuangan, ketentuan peraturan \nperundang-undangan \nlain, \ndan \npedoman \nketentuan serta prosedur kerja yang ditetapkan \nBank; dan/atau \nd. \nmeneliti kebenaran atas dugaan adanya transaksi \nyang \nmerupakan \ntindak \npidana \ndi \nbidang \nperbankan. \n(2) \nPemeriksaan terhadap Kantor Perwakilan dari Bank \nyang Berkedudukan di Luar Negeri sebagaimana \ndimaksud dalam Pasal 2 huruf b ditujukan untuk \nmemastikan kepatuhan Kantor Perwakilan dari Bank \nyang \nBerkedudukan \ndi \nLuar \nNegeri \nterhadap \nketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemeriksaan terhadap Bank sebagaimana dimaksud \ndalam Pasal 2 huruf a dapat dilakukan untuk: \na. \nmemperoleh \ngambaran \nmenyeluruh \ntentang \nperkembangan usaha dan keadaan keuangan \nBank, termasuk mendeteksi hal-hal yang dapat \nmempengaruhi \ntingkat \nkesehatan \nmaupun \nkelangsungan usaha Bank; \nb. \nmendapatkan keyakinan atas kebenaran laporan \nyang disampaikan oleh Bank kepada Otoritas \nJasa Keuangan, laporan yang dipublikasikan \nkepada masyarakat, dan informasi lain; \nc. \nmemastikan kepatuhan Bank terhadap Peraturan \nOtoritas Jasa Keuangan, ketentuan peraturan \nperundang-undangan \nlain, \ndan \npedoman \nketentuan serta prosedur kerja yang ditetapkan \nBank; dan/atau \nd. \nmeneliti kebenaran atas dugaan adanya transaksi \nyang \nmerupakan \ntindak \npidana \ndi \nbidang \nperbankan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan terhadap Kantor Perwakilan dari Bank \nyang Berkedudukan di Luar Negeri sebagaimana \ndimaksud dalam Pasal 2 huruf b ditujukan untuk \nmemastikan kepatuhan Kantor Perwakilan dari Bank \nyang \nBerkedudukan \ndi \nLuar \nNegeri \nterhadap \nketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PIHAK-PIHAK YANG DIPERIKSA",
+      "teks_lengkap": "(1) \nBank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, dan pihak sebagaimana  \ndimaksud dalam Pasal 3 ayat (1) wajib segera \nmemperlihatkan \ndan/atau \nmemberikan \nkepada \npemeriksa: \na. \nbuku, \nberkas, \nwarkat, \ncatatan, \ndisposisi, \nmemorandum, \ndokumen, \ndata \nelektronik, \ntermasuk salinannya; \nb. \nsegala keterangan dan penjelasan yang berkaitan \ndengan kegiatan usaha baik lisan maupun \ntertulis; \nc. \nkesempatan \npenelitian \nkeberadaan \ndan \npenggunaan sarana fisik yang berkaitan dengan \nkegiatan usaha; dan \nd. \nhal-hal lain yang diperlukan dalam pemeriksaan. \n(2) \nBank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, dan pihak sebagaimana \ndimaksud dalam Pasal 3 ayat (1) wajib memberikan \nbantuan untuk memperoleh kebenaran dari segala \nketerangan, dokumen, dan penjelasan yang diperoleh \npemeriksa. \n(3)  Bank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, dan pihak sebagaimana \ndimaksud dalam Pasal 3 ayat (1) dan/atau pihak lain \ndilarang untuk menghambat proses pemeriksaan serta \nmempengaruhi pendapat, penilaian, atau hasil dari \ntim pemeriksa.  \n \nBAB III \nPERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN \nPEMERIKSAAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, dan pihak sebagaimana  \ndimaksud dalam Pasal 3 ayat (1) wajib segera \nmemperlihatkan \ndan/atau \nmemberikan \nkepada \npemeriksa: \na. \nbuku, \nberkas, \nwarkat, \ncatatan, \ndisposisi, \nmemorandum, \ndokumen, \ndata \nelektronik, \ntermasuk salinannya; \nb. \nsegala keterangan dan penjelasan yang berkaitan \ndengan kegiatan usaha baik lisan maupun \ntertulis; \nc. \nkesempatan \npenelitian \nkeberadaan \ndan \npenggunaan sarana fisik yang berkaitan dengan \nkegiatan usaha; dan \nd. \nhal-hal lain yang diperlukan dalam pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, dan pihak sebagaimana \ndimaksud dalam Pasal 3 ayat (1) wajib memberikan \nbantuan untuk memperoleh kebenaran dari segala \nketerangan, dokumen, dan penjelasan yang diperoleh \npemeriksa."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, dan pihak sebagaimana \ndimaksud dalam Pasal 3 ayat (1) dan/atau pihak lain \ndilarang untuk menghambat proses pemeriksaan serta \nmempengaruhi pendapat, penilaian, atau hasil dari \ntim pemeriksa.  \n \nBAB III \nPERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN \nPEMERIKSAAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nPihak Lain yang dapat melakukan pemeriksaan harus \nberbentuk badan. \n\n\n \n(2) \nPemeriksaan dilakukan oleh tim pemeriksa yang \npaling sedikit terdiri dari 2 (dua) orang.  \n(3) \nTim pemeriksa sebagaimana dimaksud pada ayat (2) \ndapat terdiri atas: \na.  \npegawai Otoritas Jasa Keuangan yang ditunjuk \nuntuk melakukan pemeriksaan;  \nb.  Pihak Lain yang ditugaskan oleh Otoritas Jasa \nKeuangan; atau  \nc. \ngabungan antara pegawai Otoritas Jasa Keuangan \ndan Pihak Lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak Lain yang dapat melakukan pemeriksaan harus \nberbentuk badan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan dilakukan oleh tim pemeriksa yang \npaling sedikit terdiri dari 2 (dua) orang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Tim pemeriksa sebagaimana dimaksud pada ayat (2) \ndapat terdiri atas: \na.  \npegawai Otoritas Jasa Keuangan yang ditunjuk \nuntuk melakukan pemeriksaan;  \nb.  Pihak Lain yang ditugaskan oleh Otoritas Jasa \nKeuangan; atau  \nc. \ngabungan antara pegawai Otoritas Jasa Keuangan \ndan Pihak Lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nTim pemeriksa dari Pihak Lain wajib memenuhi \nsyarat: \na.  \ntidak \ntermasuk \ndalam \nDaftar \nTidak \nLulus \nsebagaimana \ndimaksud \ndalam \nketentuan \nperaturan perundang-undangan mengenai uji \nkemampuan dan kepatutan (fit and proper test); \nb.  bukan Pihak Terafiliasi terhadap objek yang \ndiperiksa; \nc.  \nmemiliki sikap mental yang baik dan etika serta \ntanggung jawab profesi yang tinggi;  \nd.  bersikap independen, jujur, dan objektif;  \ne.  \nkompeten di bidangnya dan memahami ketentuan \nperaturan perundang-undangan perbankan dan \nketentuan peraturan perundang-undangan lain; \ndan \nf. \nsecara \nterus-menerus \nmengikuti \nprogram \npendidikan profesi dalam bidangnya masing-\nmasing. \n(2) \nPenanggung jawab dari Pihak Lain harus memenuhi \npersyaratan sebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Tim pemeriksa dari Pihak Lain wajib memenuhi \nsyarat: \na.  \ntidak \ntermasuk \ndalam \nDaftar \nTidak \nLulus \nsebagaimana \ndimaksud \ndalam \nketentuan \nperaturan perundang-undangan mengenai uji \nkemampuan dan kepatutan (fit and proper test); \nb.  bukan Pihak Terafiliasi terhadap objek yang \ndiperiksa; \nc.  \nmemiliki sikap mental yang baik dan etika serta \ntanggung jawab profesi yang tinggi;  \nd.  bersikap independen, jujur, dan objektif;  \ne.  \nkompeten di bidangnya dan memahami ketentuan \nperaturan perundang-undangan perbankan dan \nketentuan peraturan perundang-undangan lain; \ndan \nf. \nsecara \nterus-menerus \nmengikuti \nprogram \npendidikan profesi dalam bidangnya masing-\nmasing."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penanggung jawab dari Pihak Lain harus memenuhi \npersyaratan sebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nDalam hal Pihak Lain merupakan kantor akuntan \npublik, kantor akuntan publik wajib terdaftar di \nOtoritas Jasa Keuangan, sebagaimana dimaksud \n\n\n \ndalam \nketentuan \nOtoritas \nJasa \nKeuangan \nyang \nmengatur mengenai penggunaan jasa akuntan publik \ndan kantor akuntan publik dalam kegiatan jasa \nkeuangan. \n(2) \nSelain kantor akuntan publik yang wajib terdaftar di \nOtoritas Jasa Keuangan sebagaimana dimaksud pada \nayat (1), akuntan publik yang melakukan pemeriksaan \nwajib \nterdaftar \ndi \nOtoritas \nJasa \nKeuangan, \nsebagaimana dimaksud dalam ketentuan Otoritas Jasa \nKeuangan yang mengatur mengenai penggunaan jasa \nakuntan publik dan kantor akuntan publik dalam \nkegiatan jasa keuangan. \n(3) \nKetua dan mayoritas anggota tim pemeriksa dari \nkantor akuntan publik sebagaimana dimaksud pada \nayat (1) selain memenuhi persyaratan sebagaimana \ndimaksud dalam Pasal 8 ayat (1) wajib: \na.  \nmemiliki pengetahuan yang memadai tentang \nindustri perbankan; dan \nb.  memiliki kemampuan melakukan pemeriksaan. \n(4) \nPenanggung jawab kantor akuntan publik harus \nmemenuhi persyaratan sebagaimana dimaksud pada \nayat (1), ayat (2), ayat (3), dan dalam Pasal 8 ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Pihak Lain merupakan kantor akuntan \npublik, kantor akuntan publik wajib terdaftar di \nOtoritas Jasa Keuangan, sebagaimana dimaksud \n\n\n \ndalam \nketentuan \nOtoritas \nJasa \nKeuangan \nyang \nmengatur mengenai penggunaan jasa akuntan publik \ndan kantor akuntan publik dalam kegiatan jasa \nkeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain kantor akuntan publik yang wajib terdaftar di \nOtoritas Jasa Keuangan sebagaimana dimaksud pada \nayat (1), akuntan publik yang melakukan pemeriksaan \nwajib \nterdaftar \ndi \nOtoritas \nJasa \nKeuangan, \nsebagaimana dimaksud dalam ketentuan Otoritas Jasa \nKeuangan yang mengatur mengenai penggunaan jasa \nakuntan publik dan kantor akuntan publik dalam \nkegiatan jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketua dan mayoritas anggota tim pemeriksa dari \nkantor akuntan publik sebagaimana dimaksud pada \nayat (1) selain memenuhi persyaratan sebagaimana \ndimaksud dalam Pasal 8 ayat (1) wajib: \na.  \nmemiliki pengetahuan yang memadai tentang \nindustri perbankan; dan \nb.  memiliki kemampuan melakukan pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penanggung jawab kantor akuntan publik harus \nmemenuhi persyaratan sebagaimana dimaksud pada \nayat (1), ayat (2), ayat (3), dan dalam Pasal 8 ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nDalam memberikan penugasan kepada Pihak Lain \nuntuk \nmelakukan \npemeriksaan, \nOtoritas \nJasa \nKeuangan menerbitkan surat perintah kerja. \n(2) \nPelaksanaan \npemeriksaan \noleh \nPihak \nLain \nsebagaimana \ndimaksud \npada \nayat \n(1) \nwajib \ndilaksanakan sesuai dengan surat perintah kerja dan \nkerangka acuan kerja (terms of reference) yang \nditetapkan \noleh \nOtoritas \nJasa \nKeuangan \nyang \nmerupakan bagian tidak terpisahkan dari surat \nperintah kerja.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam memberikan penugasan kepada Pihak Lain \nuntuk \nmelakukan \npemeriksaan, \nOtoritas \nJasa \nKeuangan menerbitkan surat perintah kerja."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan \npemeriksaan \noleh \nPihak \nLain \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "wajib \ndilaksanakan sesuai dengan surat perintah kerja dan \nkerangka acuan kerja (terms of reference) yang \nditetapkan \noleh \nOtoritas \nJasa \nKeuangan \nyang \nmerupakan bagian tidak terpisahkan dari surat \nperintah kerja."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1)  Tim \npemeriksa \nmenyerahkan \nsurat \nintroduksi \npemeriksaan dari Otoritas Jasa Keuangan kepada \npihak yang diperiksa. \n(2) \nBank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri atau pihak sebagaimana \ndimaksud dalam Pasal 3 ayat (1) wajib menolak tim \npemeriksa yang akan melakukan pemeriksaan tanpa \nmenyerahkan \nsurat \nintroduksi \npemeriksaan \ndari \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Tim \npemeriksa \nmenyerahkan \nsurat \nintroduksi \npemeriksaan dari Otoritas Jasa Keuangan kepada \npihak yang diperiksa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank, \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri atau pihak sebagaimana \ndimaksud dalam Pasal 3 ayat (1) wajib menolak tim \npemeriksa yang akan melakukan pemeriksaan tanpa \nmenyerahkan \nsurat \nintroduksi \npemeriksaan \ndari \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nSebelum \nakhir \npemeriksaan, \ntim \npemeriksa \nmelakukan \nkonfirmasi \ndengan \npimpinan \nBank, \npemimpin \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri atau pimpinan dari \npihak sebagaimana dimaksud dalam Pasal 3 ayat (1) \natas hasil pemeriksaan. \n(2) \nApabila \nsetelah \nproses \nkonfirmasi \nsebagaimana \ndimaksud pada ayat (1) masih terdapat perbedaan \npendapat, \npimpinan \nBank, \npemimpin \nKantor \nPerwakilan dari Bank yang Berkedudukan di Luar \nNegeri atau pimpinan pihak sebagaimana dimaksud \ndalam Pasal 3 ayat (1) dapat memberikan penjelasan \nsecara tertulis kepada Otoritas Jasa Keuangan paling \nlama 3 (tiga) hari kerja setelah berakhirnya proses \npemeriksaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sebelum \nakhir \npemeriksaan, \ntim \npemeriksa \nmelakukan \nkonfirmasi \ndengan \npimpinan \nBank, \npemimpin \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri atau pimpinan dari \npihak sebagaimana dimaksud dalam Pasal 3 ayat (1) \natas hasil pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila \nsetelah \nproses \nkonfirmasi \nsebagaimana \ndimaksud pada ayat (1) masih terdapat perbedaan \npendapat, \npimpinan \nBank, \npemimpin \nKantor \nPerwakilan dari Bank yang Berkedudukan di Luar \nNegeri atau pimpinan pihak sebagaimana dimaksud \ndalam Pasal 3 ayat (1) dapat memberikan penjelasan \nsecara tertulis kepada Otoritas Jasa Keuangan paling \nlama 3 (tiga) hari kerja setelah berakhirnya proses \npemeriksaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nSetelah proses pemeriksaan berakhir, tim pemeriksa \nmenyusun laporan hasil pemeriksaan. \n(2)  Otoritas Jasa Keuangan menyampaikan laporan hasil \npemeriksaan sebagaimana dimaksud pada ayat (1) \nkepada Bank atau Kantor Perwakilan dari Bank yang \nBerkedudukan di Luar Negeri. \n(3) \nLaporan hasil pemeriksaan sebagaimana dimaksud \npada ayat (1) bersifat rahasia. \n\n\n \n(4) \nPenggunaan laporan hasil pemeriksaan sebagaimana \ndimaksud pada ayat (1) oleh pihak di luar Bank harus \ndikonsultasikan dan memperoleh persetujuan terlebih \ndahulu dari Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Setelah proses pemeriksaan berakhir, tim pemeriksa \nmenyusun laporan hasil pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan menyampaikan laporan hasil \npemeriksaan sebagaimana dimaksud pada ayat (1) \nkepada Bank atau Kantor Perwakilan dari Bank yang \nBerkedudukan di Luar Negeri."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan hasil pemeriksaan sebagaimana dimaksud \npada ayat (1) bersifat rahasia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penggunaan laporan hasil pemeriksaan sebagaimana \ndimaksud pada ayat (1) oleh pihak di luar Bank harus \ndikonsultasikan dan memperoleh persetujuan terlebih \ndahulu dari Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BAGI PIHAK-PIHAK YANG MELAKUKAN PEMERIKSAAN",
+      "teks_lengkap": "(1) \nBank \ndan \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri wajib melakukan \nlangkah perbaikan dan/atau penyempurnaan atas \nhal-hal yang ditemukan dalam pemeriksaan serta \nmelaporkan perbaikan yang dilakukan kepada Otoritas \nJasa Keuangan. \n(2) \nApabila diperlukan, Otoritas Jasa Keuangan dapat \nmelakukan \npemeriksaan \nuntuk \nmemastikan \nkebenaran \nlaporan \nhasil \nperbaikan \nsebagaimana \ndimaksud pada ayat (1). \n \nBAB IV \nPEMERIKSAAN OLEH PIHAK ASING",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \ndan \nKantor \nPerwakilan \ndari \nBank \nyang \nBerkedudukan di Luar Negeri wajib melakukan \nlangkah perbaikan dan/atau penyempurnaan atas \nhal-hal yang ditemukan dalam pemeriksaan serta \nmelaporkan perbaikan yang dilakukan kepada Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila diperlukan, Otoritas Jasa Keuangan dapat \nmelakukan \npemeriksaan \nuntuk \nmemastikan \nkebenaran \nlaporan \nhasil \nperbaikan \nsebagaimana \ndimaksud pada ayat (1). \n \nBAB IV \nPEMERIKSAAN OLEH PIHAK ASING"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMERIKSAAN OLEH PIHAK ASING",
+      "teks_lengkap": "(1) \nPemeriksaan terhadap Kantor Cabang dari Bank yang \nBerkedudukan di Luar Negeri oleh otoritas pengawas \nbank di negara asal atau yang mewakili otoritas \npengawas bank di negara asal kantor pusat Bank yang \nbersangkutan, \nhanya \ndapat \ndilakukan \nsetelah \nmemperoleh izin dari Otoritas Jasa Keuangan. \n(2) \nPermohonan izin kepada Otoritas Jasa Keuangan \nsebagaimana \ndimaksud \npada \nayat \n(1) \nwajib \ndisampaikan secara tertulis paling lama 14 (empat \nbelas) hari sebelum pemeriksaan. \n(3) \nPersetujuan atau penolakan atas permohonan izin \nsebagaimana dimaksud pada ayat (2) diberikan paling \nlama 7 (tujuh) hari sejak surat permohonan diterima \nsecara lengkap. \n(4) \nOtoritas Jasa Keuangan dapat meminta kepada \notoritas pengawas bank di negara asal atau yang \n\n\n \nmewakili otoritas pengawas bank di negara asal kantor \npusat \nBank \nyang \nbersangkutan \nsebagaimana \ndimaksud pada ayat (1), agar dalam pemeriksaan \nsekaligus memeriksa hal-hal yang diperlukan oleh \nOtoritas Jasa Keuangan. \n(5) \nPemberian izin pemeriksaan terhadap Kantor Cabang \ndari Bank yang Berkedudukan di Luar Negeri \nsebagaimana dimaksud pada ayat (1) dilakukan \ndengan menganut asas timbal balik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemeriksaan terhadap Kantor Cabang dari Bank yang \nBerkedudukan di Luar Negeri oleh otoritas pengawas \nbank di negara asal atau yang mewakili otoritas \npengawas bank di negara asal kantor pusat Bank yang \nbersangkutan, \nhanya \ndapat \ndilakukan \nsetelah \nmemperoleh izin dari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan izin kepada Otoritas Jasa Keuangan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "wajib \ndisampaikan secara tertulis paling lama 14 (empat \nbelas) hari sebelum pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan atas permohonan izin \nsebagaimana dimaksud pada ayat (2) diberikan paling \nlama 7 (tujuh) hari sejak surat permohonan diterima \nsecara lengkap."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Otoritas Jasa Keuangan dapat meminta kepada \notoritas pengawas bank di negara asal atau yang \n\n\n \nmewakili otoritas pengawas bank di negara asal kantor \npusat \nBank \nyang \nbersangkutan \nsebagaimana \ndimaksud pada ayat (1), agar dalam pemeriksaan \nsekaligus memeriksa hal-hal yang diperlukan oleh \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pemberian izin pemeriksaan terhadap Kantor Cabang \ndari Bank yang Berkedudukan di Luar Negeri \nsebagaimana dimaksud pada ayat (1) dilakukan \ndengan menganut asas timbal balik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMERIKSAAN OLEH PIHAK ASING",
+      "teks_lengkap": "(1) \nPemeriksaan terhadap Kantor Cabang dari Bank yang \nBerkedudukan di Luar Negeri di Indonesia yang \ndilakukan oleh pemeriksa intern atau kantor akuntan \npublik yang ditugaskan kantor pusat Bank yang \nbersangkutan wajib diberitahukan terlebih dahulu \nkepada Otoritas Jasa Keuangan. \n(2) \nPemeriksaan terhadap Bank yang sebagian sahamnya \ndimiliki bank yang berkedudukan di luar negeri yang \ndilakukan oleh pemeriksa yang ditugaskan oleh bank \nyang berkedudukan di luar negeri yang menjadi \npemegang saham Bank wajib diberitahukan terlebih \ndahulu kepada Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemeriksaan terhadap Kantor Cabang dari Bank yang \nBerkedudukan di Luar Negeri di Indonesia yang \ndilakukan oleh pemeriksa intern atau kantor akuntan \npublik yang ditugaskan kantor pusat Bank yang \nbersangkutan wajib diberitahukan terlebih dahulu \nkepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan terhadap Bank yang sebagian sahamnya \ndimiliki bank yang berkedudukan di luar negeri yang \ndilakukan oleh pemeriksa yang ditugaskan oleh bank \nyang berkedudukan di luar negeri yang menjadi \npemegang saham Bank wajib diberitahukan terlebih \ndahulu kepada Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMERIKSAAN OLEH PIHAK ASING",
+      "teks_lengkap": "(1) \nPemeriksaan terhadap Bank yang sebagian sahamnya \ndimiliki bank yang berkedudukan di luar negeri yang \ndilakukan oleh otoritas pengawas bank atau yang \nmewakili otoritas pengawas bank di negara asal bank \nyang berkedudukan di luar negeri hanya dapat \ndilakukan setelah memperoleh izin dari Otoritas Jasa \nKeuangan. \n(2) \nPermohonan izin kepada Otoritas Jasa Keuangan wajib \ndisampaikan \nsecara \ntertulis \noleh \npihak \nyang \nmelakukan pemeriksaan terhadap Bank yang sebagian \nsahamnya dimiliki bank yang berkedudukan di luar \n\n\n \nnegeri sebagaimana dimaksud pada ayat (1), paling \nlama 14 (empat belas) hari sebelum pemeriksaan. \n(3) \nPersetujuan atau penolakan atas permohonan izin \nsebagaimana dimaksud pada ayat (2) diberikan paling \nlama 7 (tujuh) hari sejak surat permohonan diterima \nsecara lengkap. \n(4) \nPemberian izin pemeriksaan sebagaimana dimaksud \npada ayat (1) dilakukan dengan menganut asas timbal \nbalik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemeriksaan terhadap Bank yang sebagian sahamnya \ndimiliki bank yang berkedudukan di luar negeri yang \ndilakukan oleh otoritas pengawas bank atau yang \nmewakili otoritas pengawas bank di negara asal bank \nyang berkedudukan di luar negeri hanya dapat \ndilakukan setelah memperoleh izin dari Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan izin kepada Otoritas Jasa Keuangan wajib \ndisampaikan \nsecara \ntertulis \noleh \npihak \nyang \nmelakukan pemeriksaan terhadap Bank yang sebagian \nsahamnya dimiliki bank yang berkedudukan di luar \n\n\n \nnegeri sebagaimana dimaksud pada ayat (1), paling \nlama 14 (empat belas) hari sebelum pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan atas permohonan izin \nsebagaimana dimaksud pada ayat (2) diberikan paling \nlama 7 (tujuh) hari sejak surat permohonan diterima \nsecara lengkap."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemberian izin pemeriksaan sebagaimana dimaksud \npada ayat (1) dilakukan dengan menganut asas timbal \nbalik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMERIKSAAN OLEH PIHAK ASING",
+      "teks_lengkap": "(1) \nTim \npemeriksa \nyang \nmelakukan \npemeriksaan \nsebagaimana dimaksud dalam Pasal 15, Pasal 16, dan \nPasal 17 wajib melaporkan dan menyampaikan hasil \npemeriksaan kepada Otoritas Jasa Keuangan segera \nsetelah pemeriksaan berakhir.  \n(2) \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri dan/atau Bank yang sebagian sahamnya \ndimiliki bank yang berkedudukan di luar negeri yang \ndiperiksa oleh tim pemeriksa sebagaimana dimaksud \npada ayat (1) wajib menyampaikan hasil pemeriksaan \noleh pihak asing kepada Otoritas Jasa Keuangan \nsegera setelah hasil pemeriksaan diperoleh. \n \nBAB V \nRAHASIA BANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Tim \npemeriksa \nyang \nmelakukan \npemeriksaan \nsebagaimana dimaksud dalam Pasal 15, Pasal 16, dan \nPasal 17 wajib melaporkan dan menyampaikan hasil \npemeriksaan kepada Otoritas Jasa Keuangan segera \nsetelah pemeriksaan berakhir."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri dan/atau Bank yang sebagian sahamnya \ndimiliki bank yang berkedudukan di luar negeri yang \ndiperiksa oleh tim pemeriksa sebagaimana dimaksud \npada ayat (1) wajib menyampaikan hasil pemeriksaan \noleh pihak asing kepada Otoritas Jasa Keuangan \nsegera setelah hasil pemeriksaan diperoleh. \n \nBAB V \nRAHASIA BANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB V",
+      "bab_judul": "RAHASIA BANK",
+      "teks_lengkap": "(1) \nPihak Lain, pihak yang melakukan pemeriksaan \nsebagaimana dimaksud dalam Pasal 15, Pasal 16, dan \nPasal \nserta \npihak \nyang \nmengetahui \nhasil \npemeriksaan sebagaimana dimaksud dalam Pasal 13, \nwajib \nmerahasiakan \nketerangan \ndan \ndata \nyang \ndiperoleh dalam pemeriksaan. \n(2) \nKewajiban merahasiakan sebagaimana dimaksud pada \nayat (1) berlaku pula bagi petugas yang ditugaskan \n\n\n \nPihak Lain atau pihak sebagaimana dimaksud dalam \nPasal 15, Pasal 16, dan Pasal 17. \n \nBAB VI \nALAMAT PENYAMPAIAN LAPORAN, PEMBERITAHUAN, \nDAN IZIN PEMERIKSAAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak Lain, pihak yang melakukan pemeriksaan \nsebagaimana dimaksud dalam Pasal 15, Pasal 16, dan \nPasal \nserta \npihak \nyang \nmengetahui \nhasil \npemeriksaan sebagaimana dimaksud dalam Pasal 13, \nwajib \nmerahasiakan \nketerangan \ndan \ndata \nyang \ndiperoleh dalam pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewajiban merahasiakan sebagaimana dimaksud pada \nayat (1) berlaku pula bagi petugas yang ditugaskan \n\n\n \nPihak Lain atau pihak sebagaimana dimaksud dalam \nPasal 15, Pasal 16, dan Pasal 17. \n \nBAB VI \nALAMAT PENYAMPAIAN LAPORAN, PEMBERITAHUAN, \nDAN IZIN PEMERIKSAAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "ALAMAT PENYAMPAIAN LAPORAN, PEMBERITAHUAN, DAN IZIN PEMERIKSAAN",
+      "teks_lengkap": "Laporan, \npemberitahuan, \ndan \npermohonan \nizin \npemeriksaan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan ini disampaikan kepada Otoritas Jasa \nKeuangan dengan alamat: \na.  \nDepartemen \nPengawasan \nBank \nterkait \natau \nDepartemen Perbankan Syariah, bagi Bank yang \nberkantor pusat atau Kantor Cabang dari Bank yang \nBerkedudukan di Luar Negeri yang berada di wilayah \nProvinsi Daerah Khusus Ibukota Jakarta; atau \nb.  Kantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat sesuai dengan \nwilayah tempat kedudukan kantor pusat Bank. \n \nBAB VII \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan, \npemberitahuan, \ndan \npermohonan \nizin \npemeriksaan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan ini disampaikan kepada Otoritas Jasa \nKeuangan dengan alamat: \na.  \nDepartemen \nPengawasan \nBank \nterkait \natau \nDepartemen Perbankan Syariah, bagi Bank yang \nberkantor pusat atau Kantor Cabang dari Bank yang \nBerkedudukan di Luar Negeri yang berada di wilayah \nProvinsi Daerah Khusus Ibukota Jakarta; atau \nb.  Kantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat sesuai dengan \nwilayah tempat kedudukan kantor pusat Bank. \n \nBAB VII \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nPerusahaan induk sebagaimana dimaksud dalam \nPasal 3 ayat (1) huruf a yang tidak memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 6, \ndikenakan sanksi administratif berupa teguran tertulis \npaling banyak 2 (dua) kali masing-masing dengan \ntenggang waktu 7 (tujuh) hari oleh Otoritas Jasa \nKeuangan. \n(2) \nDalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat (1), perusahaan induk tidak memenuhi ketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \n\n\n \nKeuangan memerintahkan pengalihan kepemilikan \nperusahaan induk kepada pihak lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perusahaan induk sebagaimana dimaksud dalam \nPasal 3 ayat (1) huruf a yang tidak memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 6, \ndikenakan sanksi administratif berupa teguran tertulis \npaling banyak 2 (dua) kali masing-masing dengan \ntenggang waktu 7 (tujuh) hari oleh Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat (1), perusahaan induk tidak memenuhi ketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \n\n\n \nKeuangan memerintahkan pengalihan kepemilikan \nperusahaan induk kepada pihak lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nPerusahaan \nanak \nsebagaimana \ndimaksud \ndalam   \nPasal 3 ayat (1) huruf b yang tidak memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 6, \ndikenakan sanksi administratif berupa teguran tertulis \npaling banyak 2 (dua) kali masing-masing dengan \ntenggang waktu 7 (tujuh) hari oleh Otoritas Jasa \nKeuangan. \n(2) \nDalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat (1), perusahaan anak tidak memenuhi ketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \nKeuangan \nmemerintahkan \nkepada \nBank \nuntuk \nmelepaskan kepemilikan pada perusahaan anak paling \nlama 180 (seratus delapan puluh) hari sejak tanggal \nperingatan terakhir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perusahaan \nanak \nsebagaimana \ndimaksud \ndalam   \nPasal 3 ayat (1) huruf b yang tidak memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 6, \ndikenakan sanksi administratif berupa teguran tertulis \npaling banyak 2 (dua) kali masing-masing dengan \ntenggang waktu 7 (tujuh) hari oleh Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat (1), perusahaan anak tidak memenuhi ketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \nKeuangan \nmemerintahkan \nkepada \nBank \nuntuk \nmelepaskan kepemilikan pada perusahaan anak paling \nlama 180 (seratus delapan puluh) hari sejak tanggal \nperingatan terakhir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nDebitur sebagaimana dimaksud dalam Pasal 3 ayat (1) \nhuruf e yang tidak memenuhi ketentuan sebagaimana \ndimaksud \ndalam \nPasal \n6, \ndikenakan \nsanksi \nadministratif berupa teguran tertulis paling banyak    \n2 (dua) kali masing-masing dengan tenggang waktu    \n7 (tujuh) hari oleh Otoritas Jasa Keuangan. \n(2) \nDalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat \n(1), \ndebitur \ntidak \nmemenuhi \nketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \nKeuangan memerintahkan kepada Bank untuk: \na.    tidak melanjutkan pemberian fasilitas dalam \nbentuk \napapun \nkepada \ndebitur \nyang \nbersangkutan; \nb.    tidak memberikan fasilitas dalam bentuk apapun \nkepada debitur yang bersangkutan; dan/atau \n\n\n \nc.    mengkaji kembali penggolongan kualitas dari \nfasilitas debitur yang bersangkutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Debitur sebagaimana dimaksud dalam Pasal 3 ayat (1) \nhuruf e yang tidak memenuhi ketentuan sebagaimana \ndimaksud \ndalam \nPasal \n6, \ndikenakan \nsanksi \nadministratif berupa teguran tertulis paling banyak    \n2 (dua) kali masing-masing dengan tenggang waktu    \n7 (tujuh) hari oleh Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \ndebitur \ntidak \nmemenuhi \nketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \nKeuangan memerintahkan kepada Bank untuk: \na.    tidak melanjutkan pemberian fasilitas dalam \nbentuk \napapun \nkepada \ndebitur \nyang \nbersangkutan; \nb.    tidak memberikan fasilitas dalam bentuk apapun \nkepada debitur yang bersangkutan; dan/atau \n\n\n \nc.    mengkaji kembali penggolongan kualitas dari \nfasilitas debitur yang bersangkutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nAnggota direksi, anggota dewan komisaris, pimpinan \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri, pemimpin Kantor Perwakilan dari Bank yang \nBerkedudukan \ndi \nLuar \nNegeri, \ndan/atau \npihak \nsebagaimana dimaksud dalam Pasal 3 ayat (1) yang \ntidak memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 6, dikenakan sanksi administratif berupa \nteguran tertulis paling banyak 2 (dua) kali masing-\nmasing dengan tenggang waktu 7 (tujuh) hari oleh \nOtoritas Jasa Keuangan. \n(2) \nDalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat (1), anggota direksi, anggota dewan komisaris, \npimpinan \nKantor \nCabang \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, pemimpin Kantor \nPerwakilan dari Bank yang Berkedudukan di Luar \nNegeri, dan/atau pihak sebagaimana dimaksud dalam \nPasal \nayat \n(1) \ntidak \nmemenuhi \nketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \nKeuangan dapat mengenakan sanksi administratif \nberupa: \na.    pemberhentian anggota direksi dan/atau anggota \ndewan komisaris, dan selanjutnya menunjuk dan \nmengangkat pengganti sementara sampai Rapat \nUmum Pemegang Saham atau Rapat Anggota \nKoperasi mengangkat pengganti tetap dengan \npersetujuan Otoritas Jasa Keuangan; \nb.    peninjauan kembali persetujuan Otoritas Jasa \nKeuangan atas pengangkatan sebagai pimpinan \nKantor Cabang dari Bank yang Berkedudukan di \nLuar \nNegeri \ndan/atau \npemimpin \nKantor \nPerwakilan dari Bank yang Berkedudukan di Luar \nNegeri;  \n\n\n \nc.    pencantuman \ndalam \nDaftar \nTidak \nLulus \nsebagaimana \ndimaksud \ndalam \nketentuan \nperaturan perundang-undangan mengenai uji \nkemampuan dan kepatutan (fit and proper test); \ndan/atau \nd.    merekomendasikan pencabutan atau pembatalan \nizin usaha kepada instansi yang berwenang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Anggota direksi, anggota dewan komisaris, pimpinan \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri, pemimpin Kantor Perwakilan dari Bank yang \nBerkedudukan \ndi \nLuar \nNegeri, \ndan/atau \npihak \nsebagaimana dimaksud dalam Pasal 3 ayat (1) yang \ntidak memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 6, dikenakan sanksi administratif berupa \nteguran tertulis paling banyak 2 (dua) kali masing-\nmasing dengan tenggang waktu 7 (tujuh) hari oleh \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis sebagaimana dimaksud pada \nayat (1), anggota direksi, anggota dewan komisaris, \npimpinan \nKantor \nCabang \ndari \nBank \nyang \nBerkedudukan di Luar Negeri, pemimpin Kantor \nPerwakilan dari Bank yang Berkedudukan di Luar \nNegeri, dan/atau pihak sebagaimana dimaksud dalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "tidak \nmemenuhi \nketentuan \nsebagaimana dimaksud dalam Pasal 6, Otoritas Jasa \nKeuangan dapat mengenakan sanksi administratif \nberupa: \na.    pemberhentian anggota direksi dan/atau anggota \ndewan komisaris, dan selanjutnya menunjuk dan \nmengangkat pengganti sementara sampai Rapat \nUmum Pemegang Saham atau Rapat Anggota \nKoperasi mengangkat pengganti tetap dengan \npersetujuan Otoritas Jasa Keuangan; \nb.    peninjauan kembali persetujuan Otoritas Jasa \nKeuangan atas pengangkatan sebagai pimpinan \nKantor Cabang dari Bank yang Berkedudukan di \nLuar \nNegeri \ndan/atau \npemimpin \nKantor \nPerwakilan dari Bank yang Berkedudukan di Luar \nNegeri;  \n\n\n \nc.    pencantuman \ndalam \nDaftar \nTidak \nLulus \nsebagaimana \ndimaksud \ndalam \nketentuan \nperaturan perundang-undangan mengenai uji \nkemampuan dan kepatutan (fit and proper test); \ndan/atau \nd.    merekomendasikan pencabutan atau pembatalan \nizin usaha kepada instansi yang berwenang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nPihak Lain yang oleh Otoritas Jasa Keuangan dinilai \ntidak melaksanakan tugasnya sesuai dengan surat \nperintah kerja dan kerangka acuan kerja (terms of \nreference) sebagaimana dimaksud dalam Pasal 10, \ndikenakan sanksi administratif berupa teguran tertulis \noleh Otoritas Jasa Keuangan. \n(2) \nDalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis paling banyak 2 (dua) kali \ndalam tenggang waktu 3 (tiga) hari, Pihak Lain \nsebagaimana dimaksud pada ayat (1) tidak memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 10, \nOtoritas Jasa Keuangan dapat mengenakan sanksi \nadministratif berupa: \na. \npemutusan hubungan kerja secara sepihak tanpa \nganti rugi; \nb. \ndenda sebesar biaya yang dikeluarkan untuk \npenyelesaian tugas oleh Pihak Lain; \nc. \nmerekomendasikan pencabutan atau pembatalan \nizin usaha kepada instansi yang berwenang; \ndan/atau \nd. \nbagi akuntan publik dan/atau kantor akuntan \npublik, dikeluarkan dari daftar akuntan publik \ndan kantor akuntan publik yang terdaftar di \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak Lain yang oleh Otoritas Jasa Keuangan dinilai \ntidak melaksanakan tugasnya sesuai dengan surat \nperintah kerja dan kerangka acuan kerja (terms of \nreference) sebagaimana dimaksud dalam Pasal 10, \ndikenakan sanksi administratif berupa teguran tertulis \noleh Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal setelah dikenakan sanksi administratif \nberupa teguran tertulis paling banyak 2 (dua) kali \ndalam tenggang waktu 3 (tiga) hari, Pihak Lain \nsebagaimana dimaksud pada ayat (1) tidak memenuhi \nketentuan sebagaimana dimaksud dalam Pasal 10, \nOtoritas Jasa Keuangan dapat mengenakan sanksi \nadministratif berupa: \na. \npemutusan hubungan kerja secara sepihak tanpa \nganti rugi; \nb. \ndenda sebesar biaya yang dikeluarkan untuk \npenyelesaian tugas oleh Pihak Lain; \nc. \nmerekomendasikan pencabutan atau pembatalan \nizin usaha kepada instansi yang berwenang; \ndan/atau \nd. \nbagi akuntan publik dan/atau kantor akuntan \npublik, dikeluarkan dari daftar akuntan publik \ndan kantor akuntan publik yang terdaftar di \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank \nyang \ntidak \nmenyampaikan \nlaporan \nperbaikan \ndan/atau penyempurnaan atas hal-hal yang ditemukan \n\n\n \ndalam pemeriksaan sebagaimana dimaksud dalam Pasal 14 \nayat (1) dapat dikenakan sanksi administratif berupa: \na. \nteguran tertulis;  \nb. \npenurunan tingkat kesehatan Bank;  \nc. \npemberhentian anggota direksi, dan/atau anggota \ndewan komisaris, dan selanjutnya menunjuk dan \nmengangkat pengganti sementara sampai rapat umum \npemegang \nsaham \natau \nrapat \nanggota \nkoperasi \nmengangkat pengganti tetap dengan persetujuan \nOtoritas Jasa Keuangan; dan/atau \nd. \nsanksi administratif lain sesuai dengan ketentuan \nperaturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nyang \ntidak \nmenyampaikan \nlaporan \nperbaikan \ndan/atau penyempurnaan atas hal-hal yang ditemukan \n\n\n \ndalam pemeriksaan sebagaimana dimaksud dalam Pasal 14 \nayat (1) dapat dikenakan sanksi administratif berupa: \na. \nteguran tertulis;  \nb. \npenurunan tingkat kesehatan Bank;  \nc. \npemberhentian anggota direksi, dan/atau anggota \ndewan komisaris, dan selanjutnya menunjuk dan \nmengangkat pengganti sementara sampai rapat umum \npemegang \nsaham \natau \nrapat \nanggota \nkoperasi \nmengangkat pengganti tetap dengan persetujuan \nOtoritas Jasa Keuangan; dan/atau \nd. \nsanksi administratif lain sesuai dengan ketentuan \nperaturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Kantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri dan/atau Bank yang sebagian sahamnya dimiliki \noleh bank yang berkedudukan di luar negeri yang tidak \nmenyampaikan laporan hasil pemeriksaan oleh pihak asing \nsebagaimana dimaksud dalam Pasal 18 ayat (2) setelah \ndikenakan sanksi administratif berupa teguran tertulis \npaling banyak 2 (dua) kali dalam tenggang waktu 7 (tujuh) \nhari dapat dikenakan sanksi administratif berupa: \na. \npemberhentian anggota direksi dan/atau anggota \ndewan komisaris, dan selanjutnya menunjuk dan \nmengangkat pengganti sementara sampai rapat umum \npemegang \nsaham \natau \nrapat \nanggota \nkoperasi \nmengangkat pengganti tetap dengan persetujuan \nOtoritas Jasa Keuangan; \nb. \npeninjauan \nkembali \npersetujuan \nOtoritas \nJasa \nKeuangan \natas \npengangkatan \nsebagai \npimpinan \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri; \nc. \npencantuman dalam Daftar Tidak Lulus sebagaimana \ndimaksud dalam ketentuan peraturan perundang-\nundangan mengenai uji kemampuan dan kepatutan \n(fit and proper test); dan/atau \n\n\n \nd. \nsanksi administratif lain sesuai dengan ketentuan \nperaturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri dan/atau Bank yang sebagian sahamnya dimiliki \noleh bank yang berkedudukan di luar negeri yang tidak \nmenyampaikan laporan hasil pemeriksaan oleh pihak asing \nsebagaimana dimaksud dalam Pasal 18 ayat (2) setelah \ndikenakan sanksi administratif berupa teguran tertulis \npaling banyak 2 (dua) kali dalam tenggang waktu 7 (tujuh) \nhari dapat dikenakan sanksi administratif berupa: \na. \npemberhentian anggota direksi dan/atau anggota \ndewan komisaris, dan selanjutnya menunjuk dan \nmengangkat pengganti sementara sampai rapat umum \npemegang \nsaham \natau \nrapat \nanggota \nkoperasi \nmengangkat pengganti tetap dengan persetujuan \nOtoritas Jasa Keuangan; \nb. \npeninjauan \nkembali \npersetujuan \nOtoritas \nJasa \nKeuangan \natas \npengangkatan \nsebagai \npimpinan \nKantor Cabang dari Bank yang Berkedudukan di Luar \nNegeri; \nc. \npencantuman dalam Daftar Tidak Lulus sebagaimana \ndimaksud dalam ketentuan peraturan perundang-\nundangan mengenai uji kemampuan dan kepatutan \n(fit and proper test); dan/atau \n\n\n \nd. \nsanksi administratif lain sesuai dengan ketentuan \nperaturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Pihak yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 19 dikenakan sanksi administratif \nberupa: \na. \ndirekomendasikan \nuntuk \npencabutan \natau \npembatalan \nizin \nusaha \nkepada \ninstansi \nyang \nberwenang;  \nb. \nbagi akuntan publik dan kantor akuntan publik \ndikeluarkan dari daftar akuntan publik dan kantor \nakuntan publik yang terdaftar di Otoritas Jasa \nKeuangan; dan/atau  \nc. \nsanksi administratif lain sesuai dengan ketentuan \nperaturan perundang-undangan. \n \nBAB VIII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pihak yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 19 dikenakan sanksi administratif \nberupa: \na. \ndirekomendasikan \nuntuk \npencabutan \natau \npembatalan \nizin \nusaha \nkepada \ninstansi \nyang \nberwenang;  \nb. \nbagi akuntan publik dan kantor akuntan publik \ndikeluarkan dari daftar akuntan publik dan kantor \nakuntan publik yang terdaftar di Otoritas Jasa \nKeuangan; dan/atau  \nc. \nsanksi administratif lain sesuai dengan ketentuan \nperaturan perundang-undangan. \n \nBAB VIII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Peraturan Bank Indonesia Nomor 2/6/PBI/2000 \ntentang Persyaratan dan Tata Cara Pemeriksaan Bank \n(Lembaran \nNegara \nRepublik \nIndonesia \nTahun \nNomor 19, Tambahan Lembaran Negara Republik Indonesia \nNomor 3933), dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Peraturan Bank Indonesia Nomor 2/6/PBI/2000 \ntentang Persyaratan dan Tata Cara Pemeriksaan Bank \n(Lembaran \nNegara \nRepublik \nIndonesia \nTahun \nNomor 19, Tambahan Lembaran Negara Republik Indonesia \nNomor 3933), dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 12 Juli 2017       \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 12 Juli 2017     \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 147 \n \n \n \n \n \n \n \n\n\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 41 /POJK.03/2017 \nTENTANG \nPERSYARATAN DAN TATA CARA PEMERIKSAAN BANK \n \n \nI. \nUMUM \nDalam melindungi kepentingan masyarakat dan memelihara \nprinsip-prinsip dan sistem perbankan yang sehat diperlukan gambaran \nmengenai kebijakan dan kegiatan usaha Bank yang bersifat strategis \ndan mengandung risiko. Untuk memperoleh gambaran tersebut perlu \ndilakukan pemeriksaan terhadap Bank baik yang bersifat umum \nmaupun khusus. Agar gambaran tersebut dapat diperoleh secara \nmenyeluruh dan komprehensif, pemeriksaan dapat dilakukan terhadap \npihak tertentu yang mempunyai andil baik secara langsung maupun \ntidak langsung terhadap risiko yang dihadapi Bank dalam melakukan \nkegiatan usaha. Pihak lain tersebut meliputi perusahaan induk, \nperusahaan anak, Pihak Terkait, Pihak Terafiliasi dan/atau debitur \nBank. \nUntuk meningkatkan efektivitas dan efisiensi pemeriksaan, \nOtoritas Jasa Keuangan dapat melakukan pemeriksaan baik dengan \nmenggunakan tenaga Otoritas Jasa Keuangan maupun dengan \nmenggunakan jasa Pihak Lain seperti akuntan publik. \nUntuk mencapai hal tersebut diperlukan adanya ketentuan yang \nmengatur mengenai persyaratan dan tata cara pemeriksaan Bank. \n \n \n \n \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 12 Juli 2017       \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 12 Juli 2017     \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 147 \n \n \n \n \n \n \n \n\n\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 41 /POJK.03/2017 \nTENTANG \nPERSYARATAN DAN TATA CARA PEMERIKSAAN BANK \n \n \nI. \nUMUM \nDalam melindungi kepentingan masyarakat dan memelihara \nprinsip-prinsip dan sistem perbankan yang sehat diperlukan gambaran \nmengenai kebijakan dan kegiatan usaha Bank yang bersifat strategis \ndan mengandung risiko. Untuk memperoleh gambaran tersebut perlu \ndilakukan pemeriksaan terhadap Bank baik yang bersifat umum \nmaupun khusus. Agar gambaran tersebut dapat diperoleh secara \nmenyeluruh dan komprehensif, pemeriksaan dapat dilakukan terhadap \npihak tertentu yang mempunyai andil baik secara langsung maupun \ntidak langsung terhadap risiko yang dihadapi Bank dalam melakukan \nkegiatan usaha. Pihak lain tersebut meliputi perusahaan induk, \nperusahaan anak, Pihak Terkait, Pihak Terafiliasi dan/atau debitur \nBank. \nUntuk meningkatkan efektivitas dan efisiensi pemeriksaan, \nOtoritas Jasa Keuangan dapat melakukan pemeriksaan baik dengan \nmenggunakan tenaga Otoritas Jasa Keuangan maupun dengan \nmenggunakan jasa Pihak Lain seperti akuntan publik. \nUntuk mencapai hal tersebut diperlukan adanya ketentuan yang \nmengatur mengenai persyaratan dan tata cara pemeriksaan Bank. \n \n \n \n \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPemeriksaan oleh Otoritas Jasa Keuangan dapat dilakukan di \nluar jam kerja. \n \nHuruf a \nYang dimaksud dengan “perusahaan induk” adalah \nperusahaan yang secara langsung atau tidak langsung \nmemiliki saham di Bank.  \nHuruf b \nYang dimaksud dengan “perusahaan anak” adalah \nperusahaan yang seluruh atau sebagian sahamnya \ndimiliki Bank. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nYang dimaksud dengan “debitur Bank” adalah pihak \nyang memperoleh fasilitas kredit atau pembiayaan \nberdasarkan prinsip syariah atau bentuk lain yang \ndipersamakan dengan itu berdasarkan perjanjian Bank \ndengan nasabah. \nAyat (2) \nPemeriksaan \nterhadap \nperusahaan \ninduk \ndari \nBank, \nperusahaan anak dari Bank, Pihak Terkait dengan Bank, \nPihak \nTerafiliasi \ndengan \nBank, \ndan \ndebitur \nBank \ndimaksudkan agar diperoleh gambaran yang menyeluruh \nmengenai kondisi Bank, termasuk risiko yang mungkin akan \n\n\n \nmempengaruhi Bank. Pemeriksaaan tersebut merupakan \nbagian dari pemeriksaan terhadap Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPemeriksaan oleh Otoritas Jasa Keuangan dapat dilakukan di \nluar jam kerja. \n \nHuruf a \nYang dimaksud dengan “perusahaan induk” adalah \nperusahaan yang secara langsung atau tidak langsung \nmemiliki saham di Bank.  \nHuruf b \nYang dimaksud dengan “perusahaan anak” adalah \nperusahaan yang seluruh atau sebagian sahamnya \ndimiliki Bank. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nYang dimaksud dengan “debitur Bank” adalah pihak \nyang memperoleh fasilitas kredit atau pembiayaan \nberdasarkan prinsip syariah atau bentuk lain yang \ndipersamakan dengan itu berdasarkan perjanjian Bank \ndengan nasabah. \nAyat (2) \nPemeriksaan \nterhadap \nperusahaan \ninduk \ndari \nBank, \nperusahaan anak dari Bank, Pihak Terkait dengan Bank, \nPihak \nTerafiliasi \ndengan \nBank, \ndan \ndebitur \nBank \ndimaksudkan agar diperoleh gambaran yang menyeluruh \nmengenai kondisi Bank, termasuk risiko yang mungkin akan \n\n\n \nmempengaruhi Bank. Pemeriksaaan tersebut merupakan \nbagian dari pemeriksaan terhadap Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPada dasarnya pemeriksaan yang dilakukan oleh Otoritas \nJasa Keuangan dilaksanakan secara berkala paling sedikit    \n1 (satu) tahun sekali untuk setiap Bank. Di samping itu, \npemeriksaan \ndapat \ndilakukan \nsetiap \nwaktu \nuntuk \nmeyakinkan hasil pengawasan tidak langsung dan apabila \nterdapat \nindikasi \nadanya \npenyimpangan \ndari \npraktik \nperbankan yang sehat. \nAyat (2) \nYang dimaksud dengan “sarana pendukung” antara lain \nmencakup jaringan komunikasi dan komputer beserta \nperangkat lunak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPada dasarnya pemeriksaan yang dilakukan oleh Otoritas \nJasa Keuangan dilaksanakan secara berkala paling sedikit    \n1 (satu) tahun sekali untuk setiap Bank. Di samping itu, \npemeriksaan \ndapat \ndilakukan \nsetiap \nwaktu \nuntuk \nmeyakinkan hasil pengawasan tidak langsung dan apabila \nterdapat \nindikasi \nadanya \npenyimpangan \ndari \npraktik \nperbankan yang sehat. \nAyat (2) \nYang dimaksud dengan “sarana pendukung” antara lain \nmencakup jaringan komunikasi dan komputer beserta \nperangkat lunak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nSelain mencakup aspek keuangan, pemeriksaan juga dapat \nmencakup penilaian kemampuan dan kepatutan terhadap \npemegang saham pengendali, anggota direksi, anggota dewan \nkomisaris, dan pejabat eksekutif Bank. \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “informasi lain” adalah informasi \nyang diperoleh dari sumber lain. \nHuruf c \nCukup jelas. \nHuruf d \nDalam hal ini, Bank dapat digunakan sebagai sasaran \ndan/atau sarana tindak pidana. \nBank sebagai sasaran tindak pidana, misalnya Bank \nsebagai korban pembobolan bank, transfer fiktif, dan \nlain-lain, yang pada akhirnya dapat merugikan Bank. \n\n\n \nBank \nsebagai \nsarana \ntindak \npidana, \nmisalnya \npenghimpunan dana masyarakat yang tidak dicatat \ndalam pembukuan Bank. \nAyat (2) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” antara lain ketentuan yang mengatur mengenai \npersyaratan dan tata cara pembukaan kantor cabang, kantor \ncabang pembantu, dan kantor perwakilan dari bank yang \nberkedudukan di luar negeri serta ketentuan yang mengatur \nmengenai pelaporan dan permintaan informasi debitur \nmelalui sistem layanan informasi keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nSelain mencakup aspek keuangan, pemeriksaan juga dapat \nmencakup penilaian kemampuan dan kepatutan terhadap \npemegang saham pengendali, anggota direksi, anggota dewan \nkomisaris, dan pejabat eksekutif Bank. \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “informasi lain” adalah informasi \nyang diperoleh dari sumber lain. \nHuruf c \nCukup jelas. \nHuruf d \nDalam hal ini, Bank dapat digunakan sebagai sasaran \ndan/atau sarana tindak pidana. \nBank sebagai sasaran tindak pidana, misalnya Bank \nsebagai korban pembobolan bank, transfer fiktif, dan \nlain-lain, yang pada akhirnya dapat merugikan Bank. \n\n\n \nBank \nsebagai \nsarana \ntindak \npidana, \nmisalnya \npenghimpunan dana masyarakat yang tidak dicatat \ndalam pembukuan Bank. \nAyat (2) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” antara lain ketentuan yang mengatur mengenai \npersyaratan dan tata cara pembukaan kantor cabang, kantor \ncabang pembantu, dan kantor perwakilan dari bank yang \nberkedudukan di luar negeri serta ketentuan yang mengatur \nmengenai pelaporan dan permintaan informasi debitur \nmelalui sistem layanan informasi keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “Bank, Kantor Perwakilan dari Bank \nyang Berkedudukan di Luar Negeri, dan pihak-pihak lain” \nadalah termasuk direksi, dewan komisaris, pimpinan Kantor \nCabang dari Bank yang Berkedudukan di Luar Negeri, \npimpinan Kantor Perwakilan dari Bank yang Berkedudukan \ndi Luar Negeri, dan pegawai yang langsung bertanggung \njawab. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “Bank, Kantor Perwakilan dari Bank \nyang Berkedudukan di Luar Negeri, dan pihak-pihak lain” \nadalah termasuk direksi, dewan komisaris, pimpinan Kantor \nCabang dari Bank yang Berkedudukan di Luar Negeri, \npimpinan Kantor Perwakilan dari Bank yang Berkedudukan \ndi Luar Negeri, dan pegawai yang langsung bertanggung \njawab. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \n \n\n\n \nHuruf c \nDalam hal tim gabungan terdiri dari pegawai Otoritas \nJasa Keuangan dan Pihak Lain yang ditugaskan oleh \nOtoritas Jasa Keuangan, ketua tim pemeriksa adalah \npegawai Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \n \n\n\n \nHuruf c \nDalam hal tim gabungan terdiri dari pegawai Otoritas \nJasa Keuangan dan Pihak Lain yang ditugaskan oleh \nOtoritas Jasa Keuangan, ketua tim pemeriksa adalah \npegawai Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nTerms of reference memuat antara lain: \na. tujuan dan ruang lingkup pemeriksaan; \nb. jangka waktu pelaksanaan; \nc. penyusunan laporan hasil pemeriksaan; \nd. teknik dan etika pemeriksaan; \ne. jumlah dan kualifikasi tenaga pemeriksa yang digunakan; \nf. \nkerahasiaan pemeriksaan; dan \ng. kertas kerja pemeriksaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nTerms of reference memuat antara lain: \na. tujuan dan ruang lingkup pemeriksaan; \nb. jangka waktu pelaksanaan; \nc. penyusunan laporan hasil pemeriksaan; \nd. teknik dan etika pemeriksaan; \ne. jumlah dan kualifikasi tenaga pemeriksa yang digunakan; \nf. \nkerahasiaan pemeriksaan; dan \ng. kertas kerja pemeriksaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKonfirmasi dilakukan dalam pertemuan antara tim pemeriksa \ndengan \npimpinan \npihak \nyang \ndiperiksa \ndan \nhasilnya \ndituangkan dalam risalah pertemuan yang ditandatangani \noleh kedua belah pihak. \n \n\n\n \nAyat (2) \nPemberian penjelasan disampaikan secara tertulis oleh pihak-\npihak yang diperiksa kepada Otoritas Jasa Keuangan c.q. \nDepartemen \nPengawasan \nBank \nterkait, \nDepartemen \nPerbankan Syariah, Kantor Regional Otoritas Jasa Keuangan \natau Kantor Otoritas Jasa Keuangan setempat yang dilampiri \ndengan bukti dan dokumen pendukung.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKonfirmasi dilakukan dalam pertemuan antara tim pemeriksa \ndengan \npimpinan \npihak \nyang \ndiperiksa \ndan \nhasilnya \ndituangkan dalam risalah pertemuan yang ditandatangani \noleh kedua belah pihak. \n \n\n\n \nAyat (2) \nPemberian penjelasan disampaikan secara tertulis oleh pihak-\npihak yang diperiksa kepada Otoritas Jasa Keuangan c.q. \nDepartemen \nPengawasan \nBank \nterkait, \nDepartemen \nPerbankan Syariah, Kantor Regional Otoritas Jasa Keuangan \natau Kantor Otoritas Jasa Keuangan setempat yang dilampiri \ndengan bukti dan dokumen pendukung."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLaporan hasil pemeriksaan akan digunakan oleh Otoritas \nJasa Keuangan sebagai bahan pengawasan Bank yang \ndiperiksa antara lain melalui pembahasan intensif dengan \ndireksi dan dewan komisaris Bank dalam pertemuan \nwawancara. \nAyat (2) \nCukup jelas. \nAyat (3) \nLaporan \nhasil \npemeriksaan \ndimaksudkan \nsebagai \nalat \npembinaan untuk peningkatan kinerja Bank. Oleh karena itu \ndireksi, \ndewan \nkomisaris, \ndan \npegawai \nBank \ntidak \ndiperkenankan \nuntuk \nmenyebarluaskan \ndata \ndan/atau \ninformasi yang terdapat dalam laporan hasil pemeriksaan. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLaporan hasil pemeriksaan akan digunakan oleh Otoritas \nJasa Keuangan sebagai bahan pengawasan Bank yang \ndiperiksa antara lain melalui pembahasan intensif dengan \ndireksi dan dewan komisaris Bank dalam pertemuan \nwawancara. \nAyat (2) \nCukup jelas. \nAyat (3) \nLaporan \nhasil \npemeriksaan \ndimaksudkan \nsebagai \nalat \npembinaan untuk peningkatan kinerja Bank. Oleh karena itu \ndireksi, \ndewan \nkomisaris, \ndan \npegawai \nBank \ntidak \ndiperkenankan \nuntuk \nmenyebarluaskan \ndata \ndan/atau \ninformasi yang terdapat dalam laporan hasil pemeriksaan. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \n \n\n\n \nAyat (4) \nCukup jelas. \nAyat (5) \nYang dimaksud dengan “menganut asas timbal balik” adalah \ndalam hal Otoritas Jasa Keuangan diperkenankan untuk \nmelakukan pemeriksaan di suatu negara, terhadap negara \ntersebut akan diterapkan perlakuan yang sama, demikian \npula sebaliknya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \n \n\n\n \nAyat (4) \nCukup jelas. \nAyat (5) \nYang dimaksud dengan “menganut asas timbal balik” adalah \ndalam hal Otoritas Jasa Keuangan diperkenankan untuk \nmelakukan pemeriksaan di suatu negara, terhadap negara \ntersebut akan diterapkan perlakuan yang sama, demikian \npula sebaliknya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “menganut asas timbal balik” adalah \ndalam hal Otoritas Jasa Keuangan diperkenankan untuk \nmelakukan pemeriksaan di suatu negara, terhadap negara \ntersebut akan diterapkan perlakuan yang sama, demikian \npula sebaliknya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “menganut asas timbal balik” adalah \ndalam hal Otoritas Jasa Keuangan diperkenankan untuk \nmelakukan pemeriksaan di suatu negara, terhadap negara \ntersebut akan diterapkan perlakuan yang sama, demikian \npula sebaliknya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHasil pemeriksaan disampaikan dalam bahasa Indonesia \ndan/atau \nbahasa \nInggris. \nLaporan \nhasil \npemeriksaan \ndisampaikan \ndan \ndibahas \ndalam \npertemuan \ndengan \nDepartemen Pengawasan Bank terkait. \nAyat (2) \nHasil pemeriksaan disampaikan dalam bahasa Indonesia \ndan/atau bahasa Inggris.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHasil pemeriksaan disampaikan dalam bahasa Indonesia \ndan/atau \nbahasa \nInggris. \nLaporan \nhasil \npemeriksaan \ndisampaikan \ndan \ndibahas \ndalam \npertemuan \ndengan \nDepartemen Pengawasan Bank terkait. \nAyat (2) \nHasil pemeriksaan disampaikan dalam bahasa Indonesia \ndan/atau bahasa Inggris."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nBesarnya \npengenaan \ndenda \ndicantumkan \ndalam \nperjanjian kerja antara Otoritas Jasa Keuangan dengan \nPihak Lain tersebut. \nHuruf c \nCukup jelas. \nHuruf d \nOtoritas Jasa Keuangan mempublikasikan akuntan yang \nterdaftar pada Otoritas Jasa Keuangan dalam situs web \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nBesarnya \npengenaan \ndenda \ndicantumkan \ndalam \nperjanjian kerja antara Otoritas Jasa Keuangan dengan \nPihak Lain tersebut. \nHuruf c \nCukup jelas. \nHuruf d \nOtoritas Jasa Keuangan mempublikasikan akuntan yang \nterdaftar pada Otoritas Jasa Keuangan dalam situs web \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6090",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6090"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 60,
+  "total_ayat": 97,
+  "total_karakter": 34142,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

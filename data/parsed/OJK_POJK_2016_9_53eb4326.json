@@ -1,0 +1,783 @@
+{
+  "doc_id": "OJK_POJK_2016_9_53eb4326",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "9",
+  "tahun": "2016",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 9/POJK.03/2016 tentang Prinsip Kehati-hatian Bagi Bank Umum Yang Melakukan Penyerahan Sebagian Pelaksanaan Pekerjaan Kepada Pihak Lain",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "26 Januari 2016",
+  "tanggal_berlaku": "diundangkan (27 Januari 2016)",
+  "diundangkan_pada": "27 Januari 2016",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "ALIH DAYA"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1. \nBank \nadalah \nbank \numum \nyang \nmelaksanakan \nkegiatan \nusaha \nsecara \nkonvesional \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 1992 tentang Perbankan sebagaimana telah \ndiubah \ndengan \nUndang-Undang \nNomor \nTahun 1998, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, serta bank umum \nsyariah \ndan \nunit \nusaha \nsyariah \nsebagaimana \n\n\n \n \n \n \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 2008 tentang Perbankan Syariah. \n2. \nPenyerahan Sebagian Pelaksanaan Pekerjaan kepada \nPihak Lain, yang selanjutnya disebut Alih Daya, \nadalah penyerahan sebagian pelaksanaan pekerjaan \nkepada perusahaan penyedia jasa melalui perjanjian \npemborongan pekerjaan dan/atau melalui perjanjian \npenyediaan jasa tenaga kerja.   \n3. \nPerusahaan Penyedia Jasa adalah perusahaan yang \nmelaksanakan sebagian pekerjaan yang diserahkan \nBank melalui perjanjian pemborongan pekerjaan \ndan/atau melalui perjanjian penyediaan jasa tenaga \nkerja. \n4. \nDireksi: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \ndiubah \nterakhir \ndengan \nUndang-Undang \nNomor 9 Tahun 2015; \n2) \nPerusahaan Daerah adalah direksi pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \n\n\n \n \n \n \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pemimpin kantor cabang dan pejabat satu \ntingkat di bawah pemimpin kantor cabang. \n5. \nDewan Komisaris: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum: \n1) \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n2) \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n3) \nPerusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pihak yang ditunjuk untuk melaksanakan \nfungsi pengawasan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1. \nBank \nadalah \nbank \numum \nyang \nmelaksanakan \nkegiatan \nusaha \nsecara \nkonvesional \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 1992 tentang Perbankan sebagaimana telah \ndiubah \ndengan \nUndang-Undang \nNomor \nTahun 1998, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, serta bank umum \nsyariah \ndan \nunit \nusaha \nsyariah \nsebagaimana \n\n\n \n \n \n \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 2008 tentang Perbankan Syariah. \n2. \nPenyerahan Sebagian Pelaksanaan Pekerjaan kepada \nPihak Lain, yang selanjutnya disebut Alih Daya, \nadalah penyerahan sebagian pelaksanaan pekerjaan \nkepada perusahaan penyedia jasa melalui perjanjian \npemborongan pekerjaan dan/atau melalui perjanjian \npenyediaan jasa tenaga kerja.   \n3. \nPerusahaan Penyedia Jasa adalah perusahaan yang \nmelaksanakan sebagian pekerjaan yang diserahkan \nBank melalui perjanjian pemborongan pekerjaan \ndan/atau melalui perjanjian penyediaan jasa tenaga \nkerja. \n4. \nDireksi: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \ndiubah \nterakhir \ndengan \nUndang-Undang \nNomor 9 Tahun 2015; \n2) \nPerusahaan Daerah adalah direksi pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \n\n\n \n \n \n \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pemimpin kantor cabang dan pejabat satu \ntingkat di bawah pemimpin kantor cabang. \n5. \nDewan Komisaris: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum: \n1) \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n2) \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n3) \nPerusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pihak yang ditunjuk untuk melaksanakan \nfungsi pengawasan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank dapat melakukan Alih Daya kepada Perusahaan \nPenyedia Jasa. \n(2) \nDalam melakukan Alih Daya, Bank wajib menerapkan \nprinsip kehati-hatian dan manajemen risiko. \n \nBAB II \nALIH DAYA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat melakukan Alih Daya kepada Perusahaan \nPenyedia Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam melakukan Alih Daya, Bank wajib menerapkan \nprinsip kehati-hatian dan manajemen risiko. \n \nBAB II \nALIH DAYA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "ALIH DAYA",
+      "teks_lengkap": "(1) \nAlih Daya sebagaimana dimaksud dalam Pasal 2       \nayat (1) dilakukan Bank melalui perjanjian: \na. \npemborongan pekerjaan; dan/atau \nb. \npenyediaan jasa tenaga kerja. \n(2) \nBank wajib memastikan bahwa pelaksanaan pekerjaan \nyang dialihdayakan sesuai dengan perjanjian yang \ndibuat dan peraturan perundang-undangan.  \n(3) \nBank tetap bertanggung jawab atas pekerjaan yang \ndialihdayakan kepada Perusahaan Penyedia Jasa.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Alih Daya sebagaimana dimaksud dalam Pasal 2       \nayat (1) dilakukan Bank melalui perjanjian: \na. \npemborongan pekerjaan; dan/atau \nb. \npenyediaan jasa tenaga kerja."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib memastikan bahwa pelaksanaan pekerjaan \nyang dialihdayakan sesuai dengan perjanjian yang \ndibuat dan peraturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank tetap bertanggung jawab atas pekerjaan yang \ndialihdayakan kepada Perusahaan Penyedia Jasa."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "ALIH DAYA",
+      "teks_lengkap": "(1) \nDalam rangka Alih Daya, kegiatan Bank dikategorikan \nsebagai: \na. \nkegiatan usaha; dan \nb. \nkegiatan pendukung usaha. \n(2) \nDalam setiap kegiatan usaha dan kegiatan pendukung \nusaha sebagaimana dimaksud pada ayat (1) terdiri \natas serangkaian pekerjaan pokok dan pekerjaan \npenunjang. \n(3) \nBank \nhanya \ndapat \nmelakukan \nAlih \nDaya \natas \npekerjaan penunjang pada alur kegiatan usaha Bank \ndan pada alur kegiatan pendukung usaha Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka Alih Daya, kegiatan Bank dikategorikan \nsebagai: \na. \nkegiatan usaha; dan \nb. \nkegiatan pendukung usaha."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam setiap kegiatan usaha dan kegiatan pendukung \nusaha sebagaimana dimaksud pada ayat (1) terdiri \natas serangkaian pekerjaan pokok dan pekerjaan \npenunjang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nhanya \ndapat \nmelakukan \nAlih \nDaya \natas \npekerjaan penunjang pada alur kegiatan usaha Bank \ndan pada alur kegiatan pendukung usaha Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "ALIH DAYA",
+      "teks_lengkap": "(1) \nPekerjaan penunjang sebagaimana dimaksud dalam \nPasal 4 ayat (3) paling sedikit memenuhi kriteria: \na. \nberisiko rendah; \nb. \ntidak membutuhkan kualifikasi kompetensi yang \ntinggi di bidang perbankan; dan \nc. \ntidak \nterkait \nlangsung \ndengan \nproses \npengambilan \nkeputusan \nyang \nmempengaruhi \noperasional Bank. \n(2) \nKriteria sebagaimana dimaksud pada ayat (1) harus \ndijabarkan dalam kebijakan Bank mengenai Alih Daya. \n(3) \nBank \ndilarang \nmelakukan \nAlih \nDaya \nyang \nmengakibatkan beralihnya tanggung jawab atau risiko \ndari obyek pekerjaan yang dialihdayakan kepada \nPerusahaan Penyedia Jasa.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pekerjaan penunjang sebagaimana dimaksud dalam \nPasal 4 ayat (3) paling sedikit memenuhi kriteria: \na. \nberisiko rendah; \nb. \ntidak membutuhkan kualifikasi kompetensi yang \ntinggi di bidang perbankan; dan \nc. \ntidak \nterkait \nlangsung \ndengan \nproses \npengambilan \nkeputusan \nyang \nmempengaruhi \noperasional Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kriteria sebagaimana dimaksud pada ayat (1) harus \ndijabarkan dalam kebijakan Bank mengenai Alih Daya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \ndilarang \nmelakukan \nAlih \nDaya \nyang \nmengakibatkan beralihnya tanggung jawab atau risiko \ndari obyek pekerjaan yang dialihdayakan kepada \nPerusahaan Penyedia Jasa."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "ALIH DAYA",
+      "teks_lengkap": "Bank hanya dapat melakukan perjanjian Alih Daya dengan \nPerusahaan Penyedia Jasa yang memenuhi persyaratan \npaling sedikit: \na. \nberbadan hukum Indonesia; \nb. \nmemiliki izin usaha yang masih berlaku dari instansi \nberwenang sesuai bidang usahanya; \nc. \nmemiliki kinerja keuangan dan reputasi yang baik \nserta pengalaman yang cukup; \nd. \nmemiliki sumber daya manusia yang mendukung \npelaksanaan pekerjaan yang dialihdayakan; dan \ne. \nmemiliki sarana dan prasarana yang dibutuhkan \ndalam Alih Daya. \n \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB III \nPENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN \nRISIKO \n \nBagian Kesatu \nPemilihan Perusahaan Penyedia Jasa",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank hanya dapat melakukan perjanjian Alih Daya dengan \nPerusahaan Penyedia Jasa yang memenuhi persyaratan \npaling sedikit: \na. \nberbadan hukum Indonesia; \nb. \nmemiliki izin usaha yang masih berlaku dari instansi \nberwenang sesuai bidang usahanya; \nc. \nmemiliki kinerja keuangan dan reputasi yang baik \nserta pengalaman yang cukup; \nd. \nmemiliki sumber daya manusia yang mendukung \npelaksanaan pekerjaan yang dialihdayakan; dan \ne. \nmemiliki sarana dan prasarana yang dibutuhkan \ndalam Alih Daya. \n \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB III \nPENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN \nRISIKO \n \nBagian Kesatu \nPemilihan Perusahaan Penyedia Jasa"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "Untuk memastikan pemenuhan persyaratan dalam rangka \npemilihan Perusahaan Penyedia Jasa, Bank wajib: \na. \nmeneliti dokumen sebagaimana dimaksud dalam   \nPasal 6 huruf a dan huruf b; dan \nb. \nmelakukan analisis dan penilaian terhadap aspek \nsebagaimana dimaksud dalam Pasal 6 huruf c,     \nhuruf d, dan huruf e, yaitu mengenai: \n1. \nkinerja keuangan dan reputasi yang baik serta \npengalaman yang cukup; \n2. \nsumber \ndaya \nmanusia \nyang \nmendukung \npelaksanaan pekerjaan yang dialihdayakan; dan \n3. \nsarana dan prasarana yang dibutuhkan dalam \nAlih Daya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk memastikan pemenuhan persyaratan dalam rangka \npemilihan Perusahaan Penyedia Jasa, Bank wajib: \na. \nmeneliti dokumen sebagaimana dimaksud dalam   \nPasal 6 huruf a dan huruf b; dan \nb. \nmelakukan analisis dan penilaian terhadap aspek \nsebagaimana dimaksud dalam Pasal 6 huruf c,     \nhuruf d, dan huruf e, yaitu mengenai: \n1. \nkinerja keuangan dan reputasi yang baik serta \npengalaman yang cukup; \n2. \nsumber \ndaya \nmanusia \nyang \nmendukung \npelaksanaan pekerjaan yang dialihdayakan; dan \n3. \nsarana dan prasarana yang dibutuhkan dalam \nAlih Daya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "Hasil penelitian, analisis, dan penilaian sebagaimana \ndimaksud dalam Pasal 7 wajib disusun secara tertulis dan \ndidokumentasikan dengan baik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Hasil penelitian, analisis, dan penilaian sebagaimana \ndimaksud dalam Pasal 7 wajib disusun secara tertulis dan \ndidokumentasikan dengan baik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib memantau dan mengevaluasi pemenuhan \npersyaratan Perusahaan Penyedia Jasa secara berkala, \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun atau \nsewaktu-waktu apabila terjadi perubahan kinerja \ndan/atau reputasi Perusahaan Penyedia Jasa. \n(2) \nHasil \npemantauan \ndan \nevaluasi \nsebagaimana \ndimaksud pada ayat (1) wajib disusun secara tertulis \ndan didokumentasikan dengan baik. \n \n\n\n \n \n \n \nBagian Kedua \nPerjanjian Alih Daya",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memantau dan mengevaluasi pemenuhan \npersyaratan Perusahaan Penyedia Jasa secara berkala, \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun atau \nsewaktu-waktu apabila terjadi perubahan kinerja \ndan/atau reputasi Perusahaan Penyedia Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Hasil \npemantauan \ndan \nevaluasi \nsebagaimana \ndimaksud pada ayat (1) wajib disusun secara tertulis \ndan didokumentasikan dengan baik. \n \n\n\n \n \n \n \nBagian Kedua \nPerjanjian Alih Daya"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nDalam melakukan Alih Daya, Bank wajib membuat \nperjanjian dengan Perusahaan Penyedia Jasa secara \ntertulis. \n(2) \nPerjanjian Alih Daya sebagaimana dimaksud pada   \nayat (1) paling sedikit mencakup: \na. \nruang lingkup pekerjaan; \nb. \njangka waktu perjanjian; \nc. \nnilai kontrak; \nd. \nstruktur biaya dan mekanisme pembayaran; \ne. \nhak, kewajiban, dan tanggung jawab Bank \nmaupun Perusahaan Penyedia Jasa, antara lain: \n1. \nkewenangan \nBank \nuntuk \nmelakukan \nevaluasi \ndan \npemeriksaan \nterhadap \nPerusahaan Penyedia Jasa terkait dengan \npelaksanaan perjanjian Alih Daya; \n2. \nkewajiban \nPerusahaan \nPenyedia \nJasa \ntermasuk tenaga \nkerja yang digunakan \ndalam Alih Daya untuk menjaga kerahasiaan \ndan pengamanan informasi Bank dan/atau \nnasabah Bank; \n3. \nkewajiban Perusahaan Penyedia Jasa untuk \nmenyampaikan \nlaporan \ndan \ninformasi \nkepada Bank secara tertulis dan berkala; \n4. \nkewajiban \nmasing-masing \npihak \nuntuk \nmematuhi \nketentuan \ndan \nperaturan \nperundang-undangan; \n5. \nkewajiban para pihak untuk melindungi hak \ndan \nkepentingan \nnasabah Bank terkait \ndengan pekerjaan yang dialihdayakan; \n6. \nkewajiban \nPerusahaan \nPenyedia \nJasa \nmemiliki contingency plan; dan \n7. \nkesediaan Perusahaan Penyedia Jasa untuk \nmemberikan \nakses \npemeriksaan \nkepada \n\n\n \n \n \n \nOtoritas Jasa Keuangan dan/atau otoritas \nlain yang berwenang bersama-sama dengan \nBank dalam hal diperlukan; \nf. \nukuran dan standar pelaksanaan pekerjaan; \ng. \nkriteria atau kondisi pengakhiran perjanjian   \nsebelum berakhirnya jangka waktu perjanjian \n(early termination); \nh. \nsanksi dan penalti; dan \ni. \npenyelesaian perselisihan. \n \nBagian Ketiga \nPenerapan Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan Alih Daya, Bank wajib membuat \nperjanjian dengan Perusahaan Penyedia Jasa secara \ntertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perjanjian Alih Daya sebagaimana dimaksud pada   \nayat (1) paling sedikit mencakup: \na. \nruang lingkup pekerjaan; \nb. \njangka waktu perjanjian; \nc. \nnilai kontrak; \nd. \nstruktur biaya dan mekanisme pembayaran; \ne. \nhak, kewajiban, dan tanggung jawab Bank \nmaupun Perusahaan Penyedia Jasa, antara lain: \n1. \nkewenangan \nBank \nuntuk \nmelakukan \nevaluasi \ndan \npemeriksaan \nterhadap \nPerusahaan Penyedia Jasa terkait dengan \npelaksanaan perjanjian Alih Daya; \n2. \nkewajiban \nPerusahaan \nPenyedia \nJasa \ntermasuk tenaga \nkerja yang digunakan \ndalam Alih Daya untuk menjaga kerahasiaan \ndan pengamanan informasi Bank dan/atau \nnasabah Bank; \n3. \nkewajiban Perusahaan Penyedia Jasa untuk \nmenyampaikan \nlaporan \ndan \ninformasi \nkepada Bank secara tertulis dan berkala; \n4. \nkewajiban \nmasing-masing \npihak \nuntuk \nmematuhi \nketentuan \ndan \nperaturan \nperundang-undangan; \n5. \nkewajiban para pihak untuk melindungi hak \ndan \nkepentingan \nnasabah Bank terkait \ndengan pekerjaan yang dialihdayakan; \n6. \nkewajiban \nPerusahaan \nPenyedia \nJasa \nmemiliki contingency plan; dan \n7. \nkesediaan Perusahaan Penyedia Jasa untuk \nmemberikan \nakses \npemeriksaan \nkepada \n\n\n \n \n \n \nOtoritas Jasa Keuangan dan/atau otoritas \nlain yang berwenang bersama-sama dengan \nBank dalam hal diperlukan; \nf. \nukuran dan standar pelaksanaan pekerjaan; \ng. \nkriteria atau kondisi pengakhiran perjanjian   \nsebelum berakhirnya jangka waktu perjanjian \n(early termination); \nh. \nsanksi dan penalti; dan \ni. \npenyelesaian perselisihan. \n \nBagian Ketiga \nPenerapan Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib menerapkan manajemen risiko secara \nefektif dalam melakukan Alih Daya sesuai skala, \nkarakteristik, \ndan \nkompleksitas \npekerjaan \nyang \ndialihdayakan. \n(2) \nPenerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi dan Dewan Komisaris; \nb. \nkecukupan kebijakan dan prosedur; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, \ndan \npengendalian \nrisiko \nserta \nsistem informasi manajemen risiko; dan \nd. \nsistem pengendalian intern.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan manajemen risiko secara \nefektif dalam melakukan Alih Daya sesuai skala, \nkarakteristik, \ndan \nkompleksitas \npekerjaan \nyang \ndialihdayakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi dan Dewan Komisaris; \nb. \nkecukupan kebijakan dan prosedur; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, \ndan \npengendalian \nrisiko \nserta \nsistem informasi manajemen risiko; dan \nd. \nsistem pengendalian intern."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "Pengawasan aktif Direksi paling sedikit mencakup:  \na. \nmenyusun dan menyempurnakan kebijakan Alih \nDaya; \nb. \nmenetapkan prosedur Alih Daya; \nc. \nmenyetujui rencana Bank untuk melaksanakan Alih \nDaya; \nd. \nmemantau, mengevaluasi, dan bertanggung jawab atas \npenerapan manajemen risiko atas Alih Daya; dan \n \n\n\n \n \n \n \ne. \nmemantau dan mengevaluasi pelaksanaan Alih Daya \nsecara keseluruhan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan aktif Direksi paling sedikit mencakup:  \na. \nmenyusun dan menyempurnakan kebijakan Alih \nDaya; \nb. \nmenetapkan prosedur Alih Daya; \nc. \nmenyetujui rencana Bank untuk melaksanakan Alih \nDaya; \nd. \nmemantau, mengevaluasi, dan bertanggung jawab atas \npenerapan manajemen risiko atas Alih Daya; dan \n \n\n\n \n \n \n \ne. \nmemantau dan mengevaluasi pelaksanaan Alih Daya \nsecara keseluruhan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "Pengawasan \naktif \nDewan \nKomisaris \npaling \nsedikit \nmencakup: \na. \nmenyetujui dan mengevaluasi kebijakan Alih Daya \ntermasuk penyempurnaan atas kebijakan Alih Daya; \ndan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npenerapan manajemen risiko atas Alih Daya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan \naktif \nDewan \nKomisaris \npaling \nsedikit \nmencakup: \na. \nmenyetujui dan mengevaluasi kebijakan Alih Daya \ntermasuk penyempurnaan atas kebijakan Alih Daya; \ndan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npenerapan manajemen risiko atas Alih Daya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib memiliki dan menerapkan kebijakan dan \nprosedur tertulis mengenai Alih Daya. \n(2) \nKebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) paling sedikit mencakup: \na. \ntujuan Alih Daya; \nb. \nkriteria pekerjaan yang dialihdayakan; \nc. \ncakupan analisis; \nd. \nkebijakan mitigasi risiko dalam pelaksanaan Alih \nDaya; \ne. \nkriteria Perusahaan Penyedia Jasa; \nf. \ncakupan minimum perjanjian Alih Daya; \ng. \nprosedur standar dalam melakukan Alih Daya; \ndan \nh. \npenetapan \nunit \natau \nfungsi \nkhusus \nyang \nmelaksanakan proses Alih Daya serta kejelasan \ntugas dan tanggung jawab.  \n(3) \nKebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) harus dikaji ulang secara berkala atau \nsewaktu-waktu apabila diperlukan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki dan menerapkan kebijakan dan \nprosedur tertulis mengenai Alih Daya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) paling sedikit mencakup: \na. \ntujuan Alih Daya; \nb. \nkriteria pekerjaan yang dialihdayakan; \nc. \ncakupan analisis; \nd. \nkebijakan mitigasi risiko dalam pelaksanaan Alih \nDaya; \ne. \nkriteria Perusahaan Penyedia Jasa; \nf. \ncakupan minimum perjanjian Alih Daya; \ng. \nprosedur standar dalam melakukan Alih Daya; \ndan \nh. \npenetapan \nunit \natau \nfungsi \nkhusus \nyang \nmelaksanakan proses Alih Daya serta kejelasan \ntugas dan tanggung jawab."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) harus dikaji ulang secara berkala atau \nsewaktu-waktu apabila diperlukan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib melakukan identifikasi, pengukuran, \npemantauan, dan pengendalian terhadap seluruh \nrisiko yang mungkin timbul dari pelaksanaan Alih \nDaya. \n\n\n \n \n \n \n(2) \nPelaksanaan identifikasi, pengukuran, pemantauan, \ndan pengendalian risiko sebagaimana dimaksud pada \nayat (1) wajib didukung oleh sistem \ninformasi \nmanajemen yang tepat waktu serta dapat memberikan \nlaporan yang akurat dan informatif mengenai risiko \npada pelaksanaan Alih Daya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan identifikasi, pengukuran, \npemantauan, dan pengendalian terhadap seluruh \nrisiko yang mungkin timbul dari pelaksanaan Alih \nDaya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan identifikasi, pengukuran, pemantauan, \ndan pengendalian risiko sebagaimana dimaksud pada \nayat (1) wajib didukung oleh sistem \ninformasi \nmanajemen yang tepat waktu serta dapat memberikan \nlaporan yang akurat dan informatif mengenai risiko \npada pelaksanaan Alih Daya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DAN MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib melaksanakan sistem pengendalian intern \nyang efektif atas Alih Daya. \n(2) \nSistem pengendalian intern yang efektif sebagaimana \ndimaksud pada ayat (1) antara lain meliputi:  \na. \npengawasan terhadap proses Alih Daya; dan \nb. \npengawasan terhadap pelaksanaan pekerjaan \noleh Perusahaan Penyedia Jasa. \n(3) \nPengawasan terhadap proses Alih Daya sebagaimana \ndimaksud pada ayat (2) huruf a wajib dilakukan oleh \npihak \nyang \nindependen \nterhadap \npihak \nyang \nmelakukan proses Alih Daya. \n \nBAB IV  \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melaksanakan sistem pengendalian intern \nyang efektif atas Alih Daya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sistem pengendalian intern yang efektif sebagaimana \ndimaksud pada ayat (1) antara lain meliputi:  \na. \npengawasan terhadap proses Alih Daya; dan \nb. \npengawasan terhadap pelaksanaan pekerjaan \noleh Perusahaan Penyedia Jasa."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengawasan terhadap proses Alih Daya sebagaimana \ndimaksud pada ayat (2) huruf a wajib dilakukan oleh \npihak \nyang \nindependen \nterhadap \npihak \nyang \nmelakukan proses Alih Daya. \n \nBAB IV  \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank wajib menyampaikan laporan mengenai Alih \nDaya kepada Otoritas Jasa Keuangan secara lengkap, \nbenar, dan tepat waktu. \n(2) \nLaporan \nsebagaimana \ndimaksud \npada \nayat \n(1) \nmencakup: \na. \nrencana Alih Daya; dan \nb. \nAlih Daya yang bermasalah. \n(3)  Laporan rencana Alih Daya sebagaimana dimaksud \npada ayat (2) huruf a memuat informasi paling sedikit \nmengenai: \na. \njenis pekerjaan yang dialihdayakan; \nb. \ngambaran umum dan cakupan pekerjaan; \nc. \njenis perjanjian Alih Daya; \n\n\n \n \n \n \nd. \nperkiraan jumlah tenaga kerja Alih Daya yang \ndibutuhkan; \ne. \njangka waktu perjanjian; \nf. \ntujuan Alih Daya; dan \ng. \nanalisis perkiraan biaya dan manfaat serta risiko \ndan mitigasinya. \n(4) \nLaporan Alih Daya yang bermasalah sebagaimana \ndimaksud pada ayat (2) huruf b memuat informasi \npaling sedikit mengenai: \na. \njenis pekerjaan yang dialihdayakan; \nb. \nnama Perusahan Penyedia Jasa;  \nc. \ngambaran permasalahan yang terjadi; dan \nd. \nlangkah-langkah \nyang \ndilakukan \noleh \nBank \nuntuk mengatasi Alih Daya yang bermasalah.  \n(5) \nLaporan rencana Alih Daya sebagaimana dimaksud \npada ayat (2) huruf a wajib disampaikan setiap tahun \npaling lambat pada tanggal 31 Desember. \n(6) \nBank hanya dapat melakukan penambahan dan/atau \nperubahan rencana pekerjaan yang dialihdayakan \nyang \nsudah \ndilaporkan \nkepada \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (5) paling \nbanyak 1 (satu) kali dan wajib menyampaikan Laporan \nPerubahan Rencana Alih Daya dimaksud paling \nlambat pada tanggal 30 Juni tahun berjalan. \n(7) \nDalam \nhal \nbatas \nwaktu \npenyampaian \nlaporan \nsebagaimana dimaksud pada ayat (5) dan ayat (6) \njatuh pada hari Sabtu, hari Minggu atau hari libur, \nlaporan disampaikan pada hari kerja berikutnya. \n(8) \nLaporan Alih Daya yang bermasalah sebagaimana \ndimaksud pada ayat (2) huruf b wajib disampaikan \npaling lambat 7 (tujuh) hari kerja setelah diketahuinya \npermasalahan oleh Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyampaikan laporan mengenai Alih \nDaya kepada Otoritas Jasa Keuangan secara lengkap, \nbenar, dan tepat waktu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "mencakup: \na. \nrencana Alih Daya; dan \nb. \nAlih Daya yang bermasalah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan rencana Alih Daya sebagaimana dimaksud \npada ayat (2) huruf a memuat informasi paling sedikit \nmengenai: \na. \njenis pekerjaan yang dialihdayakan; \nb. \ngambaran umum dan cakupan pekerjaan; \nc. \njenis perjanjian Alih Daya; \n\n\n \n \n \n \nd. \nperkiraan jumlah tenaga kerja Alih Daya yang \ndibutuhkan; \ne. \njangka waktu perjanjian; \nf. \ntujuan Alih Daya; dan \ng. \nanalisis perkiraan biaya dan manfaat serta risiko \ndan mitigasinya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan Alih Daya yang bermasalah sebagaimana \ndimaksud pada ayat (2) huruf b memuat informasi \npaling sedikit mengenai: \na. \njenis pekerjaan yang dialihdayakan; \nb. \nnama Perusahan Penyedia Jasa;  \nc. \ngambaran permasalahan yang terjadi; dan \nd. \nlangkah-langkah \nyang \ndilakukan \noleh \nBank \nuntuk mengatasi Alih Daya yang bermasalah."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Laporan rencana Alih Daya sebagaimana dimaksud \npada ayat (2) huruf a wajib disampaikan setiap tahun \npaling lambat pada tanggal 31 Desember."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Bank hanya dapat melakukan penambahan dan/atau \nperubahan rencana pekerjaan yang dialihdayakan \nyang \nsudah \ndilaporkan \nkepada \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (5) paling \nbanyak 1 (satu) kali dan wajib menyampaikan Laporan \nPerubahan Rencana Alih Daya dimaksud paling \nlambat pada tanggal 30 Juni tahun berjalan."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam \nhal \nbatas \nwaktu \npenyampaian \nlaporan \nsebagaimana dimaksud pada ayat (5) dan ayat (6) \njatuh pada hari Sabtu, hari Minggu atau hari libur, \nlaporan disampaikan pada hari kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Laporan Alih Daya yang bermasalah sebagaimana \ndimaksud pada ayat (2) huruf b wajib disampaikan \npaling lambat 7 (tujuh) hari kerja setelah diketahuinya \npermasalahan oleh Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Laporan sebagaimana dimaksud dalam Pasal 17 ayat (2) \ndan ayat (6) disampaikan kepada Otoritas Jasa Keuangan \ndengan alamat sebagai berikut:   \n\n\n \n \n \n \na. \nDepartemen Pengawasan Bank terkait, Departemen \nPerbankan \nSyariah, \natau \nKantor \nRegional \nJabodetabek, Banten, Lampung dan Kalimantan, bagi \nBank yang berkantor pusat atau kantor cabang dari \nbank yang berkedudukan di luar negeri yang berada di \nwilayah Jakarta, Bogor, Depok, Tangerang, dan Bekasi \n(Jabodetabek), serta Provinsi Banten; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat bagi Bank yang \nberkantor pusat di luar wilayah Jakarta, Bogor, \nDepok, Tangerang, dan Bekasi (Jabodetabek), serta \nProvinsi Banten.  \n \nBAB V \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 17 ayat (2) \ndan ayat (6) disampaikan kepada Otoritas Jasa Keuangan \ndengan alamat sebagai berikut:   \n\n\n \n \n \n \na. \nDepartemen Pengawasan Bank terkait, Departemen \nPerbankan \nSyariah, \natau \nKantor \nRegional \nJabodetabek, Banten, Lampung dan Kalimantan, bagi \nBank yang berkantor pusat atau kantor cabang dari \nbank yang berkedudukan di luar negeri yang berada di \nwilayah Jakarta, Bogor, Depok, Tangerang, dan Bekasi \n(Jabodetabek), serta Provinsi Banten; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat bagi Bank yang \nberkantor pusat di luar wilayah Jakarta, Bogor, \nDepok, Tangerang, dan Bekasi (Jabodetabek), serta \nProvinsi Banten.  \n \nBAB V \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB V",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 17 ayat (2) dan/atau Pasal 17      \nayat (6) melampaui batas waktu penyampaian laporan \nsebagaimana dimaksud dalam Pasal 17 ayat (5),   \nPasal 17 ayat (6) atau Pasal 17 ayat (8) dikenakan: \na.    sanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.000.000,00 (satu juta rupiah) per hari kerja \nketerlambatan apabila terlambat 1 (satu) hari \nkerja sampai dengan 10 (sepuluh) hari kerja;  \nb.    sanksi administratif berupa denda sebagaimana \npada \nhuruf \na \nditambah \ndengan \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.500.000,00 (satu juta lima ratus ribu rupiah) \nper hari kerja keterlambatan berikutnya apabila \nterlambat 11 (sebelas) hari kerja sampai dengan \n20 (dua puluh) hari kerja;  \nc. \nsanksi administratif berupa denda sebagaimana \npada huruf a dan huruf b ditambah dengan \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp2.000.000,00 (dua juta rupiah) per hari kerja \n\n\n \n \n \n \nketerlambatan berikutnya, dengan jumlah sanksi \nketerlambatan \npaling \nbanyak \nsebesar \nRp100.000.000,00 (seratus juta rupiah) apabila \nterlambat 21 (dua puluh satu) hari kerja atau \nlebih. \n(2) \nBank yang diketahui oleh Otoritas Jasa Keuangan \ntelah \nmelakukan \nAlih \nDaya \ntetapi \nbelum \nmenyampaikan \nlaporan \nrencana \nAlih \nDaya \nsebagaimana dimaksud dalam Pasal 17 ayat (2)    \nhuruf a dan/atau penambahan atau perubahan \nrencana Alih Daya sebagaimana dimaksud dalam \nPasal 17 ayat (6), dikenakan sanksi administratif \nberupa denda sebesar Rp125.000.000,00 (seratus dua \npuluh lima juta rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 17 ayat (2) dan/atau Pasal 17      \nayat (6) melampaui batas waktu penyampaian laporan \nsebagaimana dimaksud dalam Pasal 17 ayat (5),   \nPasal 17 ayat (6) atau Pasal 17 ayat (8) dikenakan: \na.    sanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.000.000,00 (satu juta rupiah) per hari kerja \nketerlambatan apabila terlambat 1 (satu) hari \nkerja sampai dengan 10 (sepuluh) hari kerja;  \nb.    sanksi administratif berupa denda sebagaimana \npada \nhuruf \na \nditambah \ndengan \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.500.000,00 (satu juta lima ratus ribu rupiah) \nper hari kerja keterlambatan berikutnya apabila \nterlambat 11 (sebelas) hari kerja sampai dengan \n20 (dua puluh) hari kerja;  \nc. \nsanksi administratif berupa denda sebagaimana \npada huruf a dan huruf b ditambah dengan \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp2.000.000,00 (dua juta rupiah) per hari kerja \n\n\n \n \n \n \nketerlambatan berikutnya, dengan jumlah sanksi \nketerlambatan \npaling \nbanyak \nsebesar \nRp100.000.000,00 (seratus juta rupiah) apabila \nterlambat 21 (dua puluh satu) hari kerja atau \nlebih."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang diketahui oleh Otoritas Jasa Keuangan \ntelah \nmelakukan \nAlih \nDaya \ntetapi \nbelum \nmenyampaikan \nlaporan \nrencana \nAlih \nDaya \nsebagaimana dimaksud dalam Pasal 17 ayat (2)    \nhuruf a dan/atau penambahan atau perubahan \nrencana Alih Daya sebagaimana dimaksud dalam \nPasal 17 ayat (6), dikenakan sanksi administratif \nberupa denda sebesar Rp125.000.000,00 (seratus dua \npuluh lima juta rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB V",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak melaksanakan ketentuan sebagaimana \nditetapkan dalam Pasal 2 ayat (2), Pasal 3 ayat (2), Pasal 4 \nayat (3), Pasal 5 ayat (3), Pasal 6, Pasal 7, Pasal 8, Pasal 9, \nPasal 10 ayat (1), Pasal 11 ayat (1), Pasal 14 ayat (1),    \nPasal 15, Pasal 16 ayat (1), Pasal 16 ayat (3), atau Pasal 17 \nayat (1) Peraturan Otoritas Jasa Keuangan ini dan \nketentuan pelaksanaan terkait lainnya dikenakan sanksi \nadministratif antara lain berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan Bank; dan/atau  \nc. \npembekuan kegiatan usaha tertentu. \n \nBAB VI \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang tidak melaksanakan ketentuan sebagaimana \nditetapkan dalam Pasal 2 ayat (2), Pasal 3 ayat (2), Pasal 4 \nayat (3), Pasal 5 ayat (3), Pasal 6, Pasal 7, Pasal 8, Pasal 9, \nPasal 10 ayat (1), Pasal 11 ayat (1), Pasal 14 ayat (1),    \nPasal 15, Pasal 16 ayat (1), Pasal 16 ayat (3), atau Pasal 17 \nayat (1) Peraturan Otoritas Jasa Keuangan ini dan \nketentuan pelaksanaan terkait lainnya dikenakan sanksi \nadministratif antara lain berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan Bank; dan/atau  \nc. \npembekuan kegiatan usaha tertentu. \n \nBAB VI \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nBank yang sebelum tanggal 9 Desember 2011 telah \nmelakukan \nAlih \nDaya \natas \npekerjaan \nyang \ndiperbolehkan berdasarkan Peraturan Otoritas Jasa \nKeuangan ini namun Perusahaan Penyedia Jasa \ndan/atau \ncakupan \nperjanjian \nAlih \nDaya \nbelum \n\n\n \n \n \n \nmemenuhi ketentuan sebagaimana dimaksud dalam \nPasal 6 dan/atau Pasal 10 ayat (2), dapat melanjutkan \npelaksanaan Alih Daya sampai dengan berakhirnya \nperjanjian. \n(2) \nDalam hal Bank melakukan perpanjangan terhadap \nperjanjian Alih Daya sebagaimana dimaksud pada      \nayat (1), Bank wajib: \na. \nmelakukan penelitian, analisis, dan penilaian atas \npemenuhan persyaratan Perusahaan Penyedia \nJasa sebagaimana dimaksud dalam Pasal 6; \ndan/atau \nb. \nmenyesuaikan perjanjian sesuai Pasal 10 ayat (2). \n \nBAB VII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang sebelum tanggal 9 Desember 2011 telah \nmelakukan \nAlih \nDaya \natas \npekerjaan \nyang \ndiperbolehkan berdasarkan Peraturan Otoritas Jasa \nKeuangan ini namun Perusahaan Penyedia Jasa \ndan/atau \ncakupan \nperjanjian \nAlih \nDaya \nbelum \n\n\n \n \n \n \nmemenuhi ketentuan sebagaimana dimaksud dalam \nPasal 6 dan/atau Pasal 10 ayat (2), dapat melanjutkan \npelaksanaan Alih Daya sampai dengan berakhirnya \nperjanjian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank melakukan perpanjangan terhadap \nperjanjian Alih Daya sebagaimana dimaksud pada      \nayat (1), Bank wajib: \na. \nmelakukan penelitian, analisis, dan penilaian atas \npemenuhan persyaratan Perusahaan Penyedia \nJasa sebagaimana dimaksud dalam Pasal 6; \ndan/atau \nb. \nmenyesuaikan perjanjian sesuai Pasal 10 ayat (2). \n \nBAB VII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nAlih Daya yang dilakukan oleh Bank selain tunduk \npada Peraturan Otoritas Jasa Keuangan ini juga \ntunduk pada ketentuan lainnya yang terkait dengan \nAlih Daya.  \n(2) \nPersyaratan badan hukum bagi Perusahaan Penyedia \nJasa yang memberikan jasa untuk penyelenggarakan \nteknologi informasi tetap mengacu pada ketentuan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan teknologi informasi oleh Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Alih Daya yang dilakukan oleh Bank selain tunduk \npada Peraturan Otoritas Jasa Keuangan ini juga \ntunduk pada ketentuan lainnya yang terkait dengan \nAlih Daya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan badan hukum bagi Perusahaan Penyedia \nJasa yang memberikan jasa untuk penyelenggarakan \nteknologi informasi tetap mengacu pada ketentuan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan teknologi informasi oleh Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Otoritas Jasa Keuangan berwenang menghentikan Alih \nDaya yang dilakukan Bank dalam hal menurut penilaian \nOtoritas \nJasa \nKeuangan \nAlih \nDaya \nberpotensi \nmembahayakan \nkelangsungan \nusaha \nBank.\n\n\n \n \n                         BAB VIII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan berwenang menghentikan Alih \nDaya yang dilakukan Bank dalam hal menurut penilaian \nOtoritas \nJasa \nKeuangan \nAlih \nDaya \nberpotensi \nmembahayakan \nkelangsungan \nusaha \nBank.\n\n\n \n \n                         BAB VIII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ketentuan lebih lanjut dari Peraturan Otoritas Jasa \nKeuangan ini diatur dalam Surat Edaran Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut dari Peraturan Otoritas Jasa \nKeuangan ini diatur dalam Surat Edaran Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1)  Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia                   \nNomor 13/25/PBI/2011 tanggal 9 Desember 2011 \ntentang Prinsip Kehati-hatian Bagi Bank Umum Yang \nMelakukan \nPenyerahan \nSebagian \nPelaksanaan \nPekerjaan Kepada Pihak Lain (Lembaran Negara \nRepublik \nIndonesia \nTahun \nNomor \n131, \nTambahan Lembaran Negara Republik Indonesia \nNomor 5263), dicabut dan dinyatakan tidak berlaku. \n(2)  Peraturan pelaksanaan dari Peraturan Bank Indonesia \nNomor 13/25/PBI/2011 tanggal 9 Desember 2011 \ntentang Prinsip Kehati-hatian Bagi Bank Umum Yang \nMelakukan \nPenyerahan \nSebagian \nPelaksanaan \nPekerjaan Kepada Pihak Lain dinyatakan tetap berlaku \nsepanjang \ntidak \nbertentangan \ndengan \nketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia                   \nNomor 13/25/PBI/2011 tanggal 9 Desember 2011 \ntentang Prinsip Kehati-hatian Bagi Bank Umum Yang \nMelakukan \nPenyerahan \nSebagian \nPelaksanaan \nPekerjaan Kepada Pihak Lain (Lembaran Negara \nRepublik \nIndonesia \nTahun \nNomor \n131, \nTambahan Lembaran Negara Republik Indonesia \nNomor 5263), dicabut dan dinyatakan tidak berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peraturan pelaksanaan dari Peraturan Bank Indonesia \nNomor 13/25/PBI/2011 tanggal 9 Desember 2011 \ntentang Prinsip Kehati-hatian Bagi Bank Umum Yang \nMelakukan \nPenyerahan \nSebagian \nPelaksanaan \nPekerjaan Kepada Pihak Lain dinyatakan tetap berlaku \nsepanjang \ntidak \nbertentangan \ndengan \nketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 26 Januari 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n       ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 27 Januari 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR  21\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nYuliana \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   9 /POJK.03/2016 \nTENTANG \nPRINSIP KEHATI-HATIAN BAGI BANK UMUM YANG MELAKUKAN \nPENYERAHAN SEBAGIAN PELAKSANAAN PEKERJAAN                      \nKEPADA PIHAK LAIN \n \nI. \nUMUM \nSemakin berkembangnya dunia usaha dan ketatnya tingkat \npersaingan mendorong semakin kompleks dan beragamnya kegiatan \nusaha Bank. Hal ini menyebabkan Bank dituntut untuk berkonsentrasi \npada pekerjaan pokoknya dan melaksanakan fungsinya sebagai \nlembaga intermediasi. \nSalah satu upaya yang dilakukan oleh Bank untuk lebih \nberkonsentrasi pada pekerjaan pokoknya adalah dengan menyerahkan \nsebagian pelaksanaan pekerjaan penunjang kepada pihak lain sehingga \nsumber daya Bank dapat dikerahkan pada pekerjaan-pekerjaan pokok. \nPenyerahan sebagian pelaksanaan pekerjaan kepada pihak lain ini juga \nsejalan dengan peraturan perundang-undangan. \nDi sisi lain, penyerahan sebagian pelaksanaan pekerjaan kepada \npihak lain berpotensi meningkatkan risiko yang dihadapi Bank \nsehingga penyerahan sebagian pelaksanaan pekerjaan tersebut harus \ndilakukan dengan menerapkan prinsip kehati-hatian dan manajemen \nrisiko yang memadai. Disamping itu, kejelasan atas tanggung jawab \nBank terhadap pekerjaan yang diserahkan kepada pihak lain tersebut \ndan aspek perlindungan nasabah menjadi hal yang sangat penting \nuntuk diperhatikan. \n \n \n\n\n \n \nPenguatan penerapan prinsip kehati-hatian dan manajemen risiko \ndalam penyerahan sebagian pelaksanaan pekerjaan kepada pihak lain \nyang diiringi dengan terlindunginya kepentingan nasabah diharapkan \ndapat menjaga integritas sistem perbankan secara khusus dan sistem \nkeuangan secara keseluruhan.  \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 26 Januari 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n       ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 27 Januari 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR  21\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nYuliana \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   9 /POJK.03/2016 \nTENTANG \nPRINSIP KEHATI-HATIAN BAGI BANK UMUM YANG MELAKUKAN \nPENYERAHAN SEBAGIAN PELAKSANAAN PEKERJAAN                      \nKEPADA PIHAK LAIN \n \nI. \nUMUM \nSemakin berkembangnya dunia usaha dan ketatnya tingkat \npersaingan mendorong semakin kompleks dan beragamnya kegiatan \nusaha Bank. Hal ini menyebabkan Bank dituntut untuk berkonsentrasi \npada pekerjaan pokoknya dan melaksanakan fungsinya sebagai \nlembaga intermediasi. \nSalah satu upaya yang dilakukan oleh Bank untuk lebih \nberkonsentrasi pada pekerjaan pokoknya adalah dengan menyerahkan \nsebagian pelaksanaan pekerjaan penunjang kepada pihak lain sehingga \nsumber daya Bank dapat dikerahkan pada pekerjaan-pekerjaan pokok. \nPenyerahan sebagian pelaksanaan pekerjaan kepada pihak lain ini juga \nsejalan dengan peraturan perundang-undangan. \nDi sisi lain, penyerahan sebagian pelaksanaan pekerjaan kepada \npihak lain berpotensi meningkatkan risiko yang dihadapi Bank \nsehingga penyerahan sebagian pelaksanaan pekerjaan tersebut harus \ndilakukan dengan menerapkan prinsip kehati-hatian dan manajemen \nrisiko yang memadai. Disamping itu, kejelasan atas tanggung jawab \nBank terhadap pekerjaan yang diserahkan kepada pihak lain tersebut \ndan aspek perlindungan nasabah menjadi hal yang sangat penting \nuntuk diperhatikan. \n \n \n\n\n \n \nPenguatan penerapan prinsip kehati-hatian dan manajemen risiko \ndalam penyerahan sebagian pelaksanaan pekerjaan kepada pihak lain \nyang diiringi dengan terlindunginya kepentingan nasabah diharapkan \ndapat menjaga integritas sistem perbankan secara khusus dan sistem \nkeuangan secara keseluruhan.  \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \nTermasuk dalam Alih Daya oleh Bank adalah Alih Daya yang \ndilakukan oleh unit usaha syariah pada bank umum yang \nmelaksanakan kegiatan usaha secara konvensional. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk dalam Alih Daya oleh Bank adalah Alih Daya yang \ndilakukan oleh unit usaha syariah pada bank umum yang \nmelaksanakan kegiatan usaha secara konvensional. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \n \nHuruf a \nKetentuan ini tidak mengatur mengenai pemborongan \npekerjaan yang hasil akhirnya berupa barang atau yang \npada umumnya dikenal sebagai pengadaan barang, \nmisalnya pengadaan slip setoran, buku tabungan, \ninventaris kantor, pembangunan gedung kantor, dan \nAutomated Teller Machine (ATM). \nHuruf b \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPelaksanaan Alih Daya tidak menghilangkan tanggung jawab \nBank atas akibat dari tindakan yang dilakukan oleh \nPerusahaan Penyedia Jasa dalam melaksanakan pekerjaan \n\n\n \n \nyang dialihkan, termasuk apabila terdapat tindakan yang \nmerugikan nasabah Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nHuruf a \nKetentuan ini tidak mengatur mengenai pemborongan \npekerjaan yang hasil akhirnya berupa barang atau yang \npada umumnya dikenal sebagai pengadaan barang, \nmisalnya pengadaan slip setoran, buku tabungan, \ninventaris kantor, pembangunan gedung kantor, dan \nAutomated Teller Machine (ATM). \nHuruf b \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPelaksanaan Alih Daya tidak menghilangkan tanggung jawab \nBank atas akibat dari tindakan yang dilakukan oleh \nPerusahaan Penyedia Jasa dalam melaksanakan pekerjaan \n\n\n \n \nyang dialihkan, termasuk apabila terdapat tindakan yang \nmerugikan nasabah Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “kegiatan usaha” adalah kegiatan \nusaha sebagaimana dimaksud dalam Pasal 6 dan Pasal 7 \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, serta Pasal 19 dan    \nPasal 20 Undang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah. Termasuk kegiatan usaha antara \nlain adalah penghimpunan dana dari masyarakat \n(funding), pemberian kredit atau pembiayaan (lending \natau financing), serta membeli, menjual atau menjamin \natas risiko sendiri maupun untuk kepentingan dan atas \nperintah nasabahnya. \nHuruf b \nYang dimaksud dengan “kegiatan pendukung usaha” \nadalah kegiatan lain yang dilakukan Bank di luar \nkegiatan usaha Bank. Termasuk kegiatan pendukung \nusaha antara lain adalah kegiatan yang terkait dengan \nsumber daya manusia, manajemen risiko, kepatuhan, \ninternal \naudit, \nakunting \ndan \nkeuangan, \nteknologi \ninformasi, logistik, dan pengamanan. \nAyat (2) \nYang dimaksud dengan “pekerjaan pokok” adalah pekerjaan \nyang harus ada dalam alur kegiatan usaha atau alur kegiatan \npendukung usaha Bank sehingga apabila pekerjaan tersebut \ntidak ada maka kegiatan dimaksud akan sangat terganggu \natau tidak terlaksana sebagaimana mestinya. \nYang dimaksud dengan “alur” adalah serangkaian pekerjaan \ndari awal sampai akhir dari suatu kegiatan usaha atau \nkegiatan pendukung usaha, misalnya alur pemberian kredit \natau pembiayaan mencakup pekerjaan  pemasaran, analisis \nkelayakan, \npersetujuan, \npencairan, \npemantauan, \ndan \n\n\n \n \n \n \npenagihan kredit atau pembiayaan. \nContoh pekerjaan pokok dalam alur kegiatan usaha Bank \nmisalnya alur kegiatan pemberian kredit atau pembiayaan \nantara lain pekerjaan account officer dan analis kredit atau \npembiayaan, pada alur kegiatan penghimpunan dana antara \nlain pekerjaan customer service, customer relation, dan teller. \nContoh pekerjaan pokok dalam alur kegiatan pendukung \nusaha Bank, misalnya alur kegiatan manajemen risiko antara \nlain pekerjaan analisis risiko, pada alur pengembangan \norganisasi dan pengelolaan sumber daya manusia antara lain \npekerjaaan perencanaan dan pengembangan organisasi serta \nperencanaan sumber daya manusia, pada alur kegiatan \npengelolaan \nteknologi \ninformasi \nantara \nlain \npekerjaan \nperencanaan dan pengembangan teknologi informasi, dan \npada alur kegiatan pengendalian internal antara lain \npekerjaan audit internal. \nYang \ndimaksud \ndengan \n“pekerjaan \npenunjang” \nadalah \npekerjaan yang tidak harus ada dalam alur kegiatan usaha \natau alur kegiatan pendukung usaha Bank sehingga dalam \nhal pekerjaan tersebut tidak ada, kegiatan dimaksud masih \ndapat terlaksana tanpa gangguan yang berarti. \nContoh pekerjaan penunjang pada alur kegiatan usaha Bank, \nmisalnya alur kegiatan pemberian kredit atau pembiayaan \nantara lain pekerjaan call center, pemasaran (telemarketing, \ndirect sales atau sales representative) dan penagihan, contoh \npada alur kegiatan perkasan misalnya pekerjaan jasa \npengelolaan kas Bank. \nContoh pekerjaan penunjang pada alur kegiatan pendukung \nusaha, misalnya pekerjaan yang dilakukan oleh sekretaris, \nagendaris, \nresepsionis, \npetugas \nkebersihan, \npetugas \nkeamanan, pramubakti, kurir, data entry, dan pengemudi. \nAyat (3) \nContoh pekerjaan penunjang pada alur kegiatan usaha Bank \ndan pada alur kegiatan pendukung usaha Bank sebagaimana \ndimaksud dalam Penjelasan ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “kegiatan usaha” adalah kegiatan \nusaha sebagaimana dimaksud dalam Pasal 6 dan Pasal 7 \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, serta Pasal 19 dan    \nPasal 20 Undang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah. Termasuk kegiatan usaha antara \nlain adalah penghimpunan dana dari masyarakat \n(funding), pemberian kredit atau pembiayaan (lending \natau financing), serta membeli, menjual atau menjamin \natas risiko sendiri maupun untuk kepentingan dan atas \nperintah nasabahnya. \nHuruf b \nYang dimaksud dengan “kegiatan pendukung usaha” \nadalah kegiatan lain yang dilakukan Bank di luar \nkegiatan usaha Bank. Termasuk kegiatan pendukung \nusaha antara lain adalah kegiatan yang terkait dengan \nsumber daya manusia, manajemen risiko, kepatuhan, \ninternal \naudit, \nakunting \ndan \nkeuangan, \nteknologi \ninformasi, logistik, dan pengamanan. \nAyat (2) \nYang dimaksud dengan “pekerjaan pokok” adalah pekerjaan \nyang harus ada dalam alur kegiatan usaha atau alur kegiatan \npendukung usaha Bank sehingga apabila pekerjaan tersebut \ntidak ada maka kegiatan dimaksud akan sangat terganggu \natau tidak terlaksana sebagaimana mestinya. \nYang dimaksud dengan “alur” adalah serangkaian pekerjaan \ndari awal sampai akhir dari suatu kegiatan usaha atau \nkegiatan pendukung usaha, misalnya alur pemberian kredit \natau pembiayaan mencakup pekerjaan  pemasaran, analisis \nkelayakan, \npersetujuan, \npencairan, \npemantauan, \ndan \n\n\n \n \n \n \npenagihan kredit atau pembiayaan. \nContoh pekerjaan pokok dalam alur kegiatan usaha Bank \nmisalnya alur kegiatan pemberian kredit atau pembiayaan \nantara lain pekerjaan account officer dan analis kredit atau \npembiayaan, pada alur kegiatan penghimpunan dana antara \nlain pekerjaan customer service, customer relation, dan teller. \nContoh pekerjaan pokok dalam alur kegiatan pendukung \nusaha Bank, misalnya alur kegiatan manajemen risiko antara \nlain pekerjaan analisis risiko, pada alur pengembangan \norganisasi dan pengelolaan sumber daya manusia antara lain \npekerjaaan perencanaan dan pengembangan organisasi serta \nperencanaan sumber daya manusia, pada alur kegiatan \npengelolaan \nteknologi \ninformasi \nantara \nlain \npekerjaan \nperencanaan dan pengembangan teknologi informasi, dan \npada alur kegiatan pengendalian internal antara lain \npekerjaan audit internal. \nYang \ndimaksud \ndengan \n“pekerjaan \npenunjang” \nadalah \npekerjaan yang tidak harus ada dalam alur kegiatan usaha \natau alur kegiatan pendukung usaha Bank sehingga dalam \nhal pekerjaan tersebut tidak ada, kegiatan dimaksud masih \ndapat terlaksana tanpa gangguan yang berarti. \nContoh pekerjaan penunjang pada alur kegiatan usaha Bank, \nmisalnya alur kegiatan pemberian kredit atau pembiayaan \nantara lain pekerjaan call center, pemasaran (telemarketing, \ndirect sales atau sales representative) dan penagihan, contoh \npada alur kegiatan perkasan misalnya pekerjaan jasa \npengelolaan kas Bank. \nContoh pekerjaan penunjang pada alur kegiatan pendukung \nusaha, misalnya pekerjaan yang dilakukan oleh sekretaris, \nagendaris, \nresepsionis, \npetugas \nkebersihan, \npetugas \nkeamanan, pramubakti, kurir, data entry, dan pengemudi. \nAyat (3) \nContoh pekerjaan penunjang pada alur kegiatan usaha Bank \ndan pada alur kegiatan pendukung usaha Bank sebagaimana \ndimaksud dalam Penjelasan ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “pekerjaan berisiko rendah” \nadalah pekerjaan yang apabila terjadi kegagalan tidak \nakan mengganggu aktivitas operasional Bank secara \nsignifikan. \nHuruf b \nYang dimaksud dengan kualifikasi kompetensi di bidang \nperbankan antara lain mencakup pendidikan formal dan \npengetahuan atau pengalaman di bidang perbankan. \nHuruf c \nProses \npengambilan \nkeputusan \nmencakup \nproses \nanalisis \ndan \nproses \njudgement \ndalam \nrangka \npengambilan keputusan. \n“Keputusan yang mempengaruhi operasional Bank” \nadalah keputusan yang dapat meningkatkan risiko \nsecara signifikan dan/atau mengganggu berjalannya \noperasional Bank apabila tidak dilakukan dengan benar. \nAyat (2) \nCukup jelas. \nAyat (3) \nSebagai contoh, dalam Alih Daya penagihan kredit atau \npembiayaan melalui perjanjian pemborongan, Bank tidak \ndiperbolehkan mengalihkan risiko kredit atau pembiayaan \nyang \nditimbulkan \noleh \ntidak \ntertagihnya \nkredit \natau \npembiayaan dengan menggunakan cara seperti mekanisme \npenjualan tagihan kredit atau pembiayaan melalui skim anjak \npiutang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “pekerjaan berisiko rendah” \nadalah pekerjaan yang apabila terjadi kegagalan tidak \nakan mengganggu aktivitas operasional Bank secara \nsignifikan. \nHuruf b \nYang dimaksud dengan kualifikasi kompetensi di bidang \nperbankan antara lain mencakup pendidikan formal dan \npengetahuan atau pengalaman di bidang perbankan. \nHuruf c \nProses \npengambilan \nkeputusan \nmencakup \nproses \nanalisis \ndan \nproses \njudgement \ndalam \nrangka \npengambilan keputusan. \n“Keputusan yang mempengaruhi operasional Bank” \nadalah keputusan yang dapat meningkatkan risiko \nsecara signifikan dan/atau mengganggu berjalannya \noperasional Bank apabila tidak dilakukan dengan benar. \nAyat (2) \nCukup jelas. \nAyat (3) \nSebagai contoh, dalam Alih Daya penagihan kredit atau \npembiayaan melalui perjanjian pemborongan, Bank tidak \ndiperbolehkan mengalihkan risiko kredit atau pembiayaan \nyang \nditimbulkan \noleh \ntidak \ntertagihnya \nkredit \natau \npembiayaan dengan menggunakan cara seperti mekanisme \npenjualan tagihan kredit atau pembiayaan melalui skim anjak \npiutang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Huruf a \nPenelitian dokumen dilakukan terhadap informasi dan \nkondisi terkini Perusahaan Penyedia Jasa. Dalam hal \n\n\n \n \n \n \ndiperlukan dapat dilakukan konfirmasi atau klarifikasi \nkepada instansi yang berwenang. \nHuruf b \nAnalisis dan penilaian dilakukan untuk meyakini bahwa \nPerusahaan Penyedia Jasa telah memenuhi seluruh kriteria \nyang ditetapkan dan mampu melakukan Alih Daya. \nAnalisis dan penilaian menggunakan informasi dan kondisi \nterkini Perusahaan Penyedia Jasa. \nKedalaman dan intensitas analisis dan penilaian disesuaikan \ndengan \nskala \ndan \nkompleksitas \npekerjaan \nyang \ndialihdayakan. \nAngka 1 \nPenilaian terhadap kinerja keuangan bertujuan untuk \nmemastikan bahwa Perusahaan Penyedia Jasa memiliki \nkemampuan \nkeuangan \nyang \ndapat \nmendukung \nkelancaran pelaksanaan pekerjaan sesuai perjanjian \nyang telah disepakati, yang antara lain mencakup \npenilaian terhadap modal, likuiditas, dan profitabilitas \nPerusahaan Penyedia Jasa. \nPenilaian terhadap reputasi termasuk penilaian terhadap \nrekam jejak (track record) Perusahaan Penyedia Jasa \nbertujuan \nuntuk \nmenilai \nkepatuhan \nPerusahaan \nPenyedia Jasa terhadap ketentuan dan/atau peraturan \nperundang-undangan, yang antara lain mencakup: \na. \npermasalahan hukum yang pernah atau sedang \ndihadapi yang dapat berdampak negatif; \nb. \nkepatuhan terhadap ketentuan dan/atau peraturan \nperundang-undangan; dan/atau \nc. \nkepatuhan terhadap perjanjian Alih Daya dengan \nBank lain atau pemberi kerja sebelumnya. \nPenilaian terhadap pengalaman Perusahaan Penyedia \nJasa bertujuan untuk memastikan bahwa Perusahaan \nPenyedia Jasa memiliki pengalaman yang memadai \nuntuk melaksanakan pekerjaaan yang dialihkan, antara \nlain mencakup: \na. \npengalaman \nperusahaan \ndalam \nmenangani \npekerjaan yang dialihdayakan; dan/atau \n\n\n \n \n \n \nb. \npengalaman \nmanajemen \nperusahaan \ndalam \nmenangani pekerjaan yang dialihdayakan. \n \nAngka 2 \nPenilaian terhadap sumber daya manusia bertujuan \nuntuk memastikan pemenuhan kecukupan kuantitas \ndan kualitas atau keahlian sumber daya manusia. \n \nAngka 3 \nPenilaian terhadap sarana dan prasarana bertujuan \nuntuk memastikan kecukupan sarana dan prasarana \nyang dibutuhkan dalam Alih Daya, termasuk pemenuhan \nkecukupan kuantitas dan kualitas serta spesifikasi \nkhusus yang dibutuhkan dalam Alih Daya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPenelitian dokumen dilakukan terhadap informasi dan \nkondisi terkini Perusahaan Penyedia Jasa. Dalam hal \n\n\n \n \n \n \ndiperlukan dapat dilakukan konfirmasi atau klarifikasi \nkepada instansi yang berwenang. \nHuruf b \nAnalisis dan penilaian dilakukan untuk meyakini bahwa \nPerusahaan Penyedia Jasa telah memenuhi seluruh kriteria \nyang ditetapkan dan mampu melakukan Alih Daya. \nAnalisis dan penilaian menggunakan informasi dan kondisi \nterkini Perusahaan Penyedia Jasa. \nKedalaman dan intensitas analisis dan penilaian disesuaikan \ndengan \nskala \ndan \nkompleksitas \npekerjaan \nyang \ndialihdayakan. \nAngka 1 \nPenilaian terhadap kinerja keuangan bertujuan untuk \nmemastikan bahwa Perusahaan Penyedia Jasa memiliki \nkemampuan \nkeuangan \nyang \ndapat \nmendukung \nkelancaran pelaksanaan pekerjaan sesuai perjanjian \nyang telah disepakati, yang antara lain mencakup \npenilaian terhadap modal, likuiditas, dan profitabilitas \nPerusahaan Penyedia Jasa. \nPenilaian terhadap reputasi termasuk penilaian terhadap \nrekam jejak (track record) Perusahaan Penyedia Jasa \nbertujuan \nuntuk \nmenilai \nkepatuhan \nPerusahaan \nPenyedia Jasa terhadap ketentuan dan/atau peraturan \nperundang-undangan, yang antara lain mencakup: \na. \npermasalahan hukum yang pernah atau sedang \ndihadapi yang dapat berdampak negatif; \nb. \nkepatuhan terhadap ketentuan dan/atau peraturan \nperundang-undangan; dan/atau \nc. \nkepatuhan terhadap perjanjian Alih Daya dengan \nBank lain atau pemberi kerja sebelumnya. \nPenilaian terhadap pengalaman Perusahaan Penyedia \nJasa bertujuan untuk memastikan bahwa Perusahaan \nPenyedia Jasa memiliki pengalaman yang memadai \nuntuk melaksanakan pekerjaaan yang dialihkan, antara \nlain mencakup: \na. \npengalaman \nperusahaan \ndalam \nmenangani \npekerjaan yang dialihdayakan; dan/atau \n\n\n \n \n \n \nb. \npengalaman \nmanajemen \nperusahaan \ndalam \nmenangani pekerjaan yang dialihdayakan. \n \nAngka 2 \nPenilaian terhadap sumber daya manusia bertujuan \nuntuk memastikan pemenuhan kecukupan kuantitas \ndan kualitas atau keahlian sumber daya manusia. \n \nAngka 3 \nPenilaian terhadap sarana dan prasarana bertujuan \nuntuk memastikan kecukupan sarana dan prasarana \nyang dibutuhkan dalam Alih Daya, termasuk pemenuhan \nkecukupan kuantitas dan kualitas serta spesifikasi \nkhusus yang dibutuhkan dalam Alih Daya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \nCukup jelas.  \nAyat (2) \nHuruf a \nCukup jelas. \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \nCukup jelas. \n \nHuruf d \nTermasuk dalam struktur biaya adalah biaya-biaya \nselain nilai kontrak yang terkait dengan pelaksanaan \npekerjaan. \nDalam mekanisme pembayaran diatur mengenai pihak \nyang harus membayar biaya tersebut dan tata cara \npembayarannya. \n \n\n\n \n \n \n \n \nHuruf e \n \nAngka 1 \n \nCukup jelas. \n \nAngka 2 \nKewajiban menjaga kerahasiaan dan pengamanan \ninformasi nasabah mengacu pada ketentuan dan \nperaturan \nperundang-undangan \nantara \nlain \nmengenai rahasia Bank, ketentuan yang mengatur \nmengenai transparansi informasi produk Bank dan \npenggunaan data pribadi nasabah, serta ketentuan \nyang mengatur mengenai perlindungan konsumen \nsektor jasa keuangan. \n \nAngka 3 \nCakupan dan frekuensi laporan sesuai dengan \nkesepakatan para pihak. \n \nAngka 4 \nKetentuan \ndan \nperaturan \nperundang-undangan \nantara \nlain \ndi \nbidang \nketenagakerjaan \ndan \nperbankan. \n \nAngka 5 \nPerlindungan \nhak \ndan \nkepentingan \nnasabah \nmengacu pada ketentuan dan peraturan perundang-\nundangan \nantara \nlain \nmengenai \nperlindungan \nkonsumen serta ketentuan mengenai transparansi \ninformasi produk Bank dan penggunaan data \npribadi nasabah. \n \nAngka 6 \nYang dimaksud dengan “contingency plan” adalah \nupaya-upaya \nyang \nharus \ndilakukan \noleh \nPerusahaan \nPenyedia \nJasa \nuntuk \nmengatasi \nkeadaan memaksa atau gangguan yang signifikan \ndalam pelaksanaan pekerjaan, antara lain yang \ndisebabkan \noleh \nbencana \nalam, \ndemonstrasi, \npemogokan \ntenaga \nkerja, \ngangguan \nsistem, \ndan/atau perselisihan. \n \n \n \n\n\n \n \n \n \n \nAngka 7 \nPemeriksaan \nPerusahaan \nPenyedia \nJasa \noleh \notoritas    lain    dilakukan    sesuai     wewenangnya \nberdasarkan pada ketentuan yang terkait dengan \nalih daya yang dilakukan oleh Bank. \n \nHuruf f \nUkuran pelaksanaan pekerjaan meliputi ukuran atas \nkuantitas dan/atau kualitas pekerjaan. \nStandar pelaksanaan pekerjaan merupakan prosedur \nyang paling sedikit harus dipenuhi dalam proses \npelaksanaan pekerjaan yang dialihdayakan. Standar \ndimaksud dapat pula mengacu pada prosedur operasi \nstandar yang dimiliki oleh Bank. \n \nHuruf g \n \nCukup jelas. \n \nHuruf h \n \nCukup jelas. \n \nHuruf i \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas.  \nAyat (2) \nHuruf a \nCukup jelas. \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \nCukup jelas. \n \nHuruf d \nTermasuk dalam struktur biaya adalah biaya-biaya \nselain nilai kontrak yang terkait dengan pelaksanaan \npekerjaan. \nDalam mekanisme pembayaran diatur mengenai pihak \nyang harus membayar biaya tersebut dan tata cara \npembayarannya. \n \n\n\n \n \n \n \n \nHuruf e \n \nAngka 1 \n \nCukup jelas. \n \nAngka 2 \nKewajiban menjaga kerahasiaan dan pengamanan \ninformasi nasabah mengacu pada ketentuan dan \nperaturan \nperundang-undangan \nantara \nlain \nmengenai rahasia Bank, ketentuan yang mengatur \nmengenai transparansi informasi produk Bank dan \npenggunaan data pribadi nasabah, serta ketentuan \nyang mengatur mengenai perlindungan konsumen \nsektor jasa keuangan. \n \nAngka 3 \nCakupan dan frekuensi laporan sesuai dengan \nkesepakatan para pihak. \n \nAngka 4 \nKetentuan \ndan \nperaturan \nperundang-undangan \nantara \nlain \ndi \nbidang \nketenagakerjaan \ndan \nperbankan. \n \nAngka 5 \nPerlindungan \nhak \ndan \nkepentingan \nnasabah \nmengacu pada ketentuan dan peraturan perundang-\nundangan \nantara \nlain \nmengenai \nperlindungan \nkonsumen serta ketentuan mengenai transparansi \ninformasi produk Bank dan penggunaan data \npribadi nasabah. \n \nAngka 6 \nYang dimaksud dengan “contingency plan” adalah \nupaya-upaya \nyang \nharus \ndilakukan \noleh \nPerusahaan \nPenyedia \nJasa \nuntuk \nmengatasi \nkeadaan memaksa atau gangguan yang signifikan \ndalam pelaksanaan pekerjaan, antara lain yang \ndisebabkan \noleh \nbencana \nalam, \ndemonstrasi, \npemogokan \ntenaga \nkerja, \ngangguan \nsistem, \ndan/atau perselisihan. \n \n \n \n\n\n \n \n \n \n \nAngka 7 \nPemeriksaan \nPerusahaan \nPenyedia \nJasa \noleh \notoritas    lain    dilakukan    sesuai     wewenangnya \nberdasarkan pada ketentuan yang terkait dengan \nalih daya yang dilakukan oleh Bank. \n \nHuruf f \nUkuran pelaksanaan pekerjaan meliputi ukuran atas \nkuantitas dan/atau kualitas pekerjaan. \nStandar pelaksanaan pekerjaan merupakan prosedur \nyang paling sedikit harus dipenuhi dalam proses \npelaksanaan pekerjaan yang dialihdayakan. Standar \ndimaksud dapat pula mengacu pada prosedur operasi \nstandar yang dimiliki oleh Bank. \n \nHuruf g \n \nCukup jelas. \n \nHuruf h \n \nCukup jelas. \n \nHuruf i \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \nPrinsip-prinsip penerapan manajemen risiko berpedoman \npada \nketentuan \nyang \nmengatur \nmengenai \npenerapan \nmanajemen risiko bagi Bank. \n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPrinsip-prinsip penerapan manajemen risiko berpedoman \npada \nketentuan \nyang \nmengatur \nmengenai \npenerapan \nmanajemen risiko bagi Bank. \n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \n\n\n \n \n \n \n \n \n \n \nAyat (2) \n \nHuruf a \nTujuan Alih Daya mencakup penjabaran atas hasil yang \ningin dicapai melalui pelaksanaan Alih Daya, sesuai \nstrategi dan tujuan bisnis Bank secara keseluruhan. \n \nHuruf b \nKriteria pekerjaan yang dapat dialihdayakan paling \nsedikit mengacu pada kriteria sebagaimana dimaksud \ndalam Peraturan Otoritas Jasa Keuangan ini. \n \nHuruf c \nCakupan analisis mencakup aspek-aspek antara lain \nrisiko, biaya, dan manfaat yang ditimbulkan oleh Alih \nDaya. \nDalam analisis manfaat dan biaya perlu memperhatikan \npula pelaksanaan prinsip kehati-hatian dan pengawasan \noleh Bank atas Alih Daya tersebut. \n \nHuruf d \nKebijakan mitigasi risiko mencakup jenis pekerjaan yang \nharus dilakukan upaya mitigasi risiko serta upaya-upaya \nmitigasi yang dapat dilakukan atas pekerjaan tersebut. \n \nHuruf e \nKriteria \nPerusahaan \nPenyedia \nJasa \npaling \nsedikit \nmengacu pada kriteria sebagaimana dimaksud dalam \nPeraturan Otoritas Jasa Keuangan ini. \n \nHuruf f \nCakupan minimum perjanjian Alih Daya paling sedikit \nmengacu pada cakupan sebagaimana dimaksud dalam \nPeraturan Otoritas Jasa Keuangan ini. \n \nHuruf g \nProsedur standar dalam melakukan Alih Daya antara \nlain mencakup prosedur pemilihan dan penetapan \nPerusahaan Penyedia Jasa, pengikatan perjanjian, dan \npengawasan pelaksanaan Alih Daya. \n \n\n\n \n \n \n \n \n \nHuruf h \nUnit atau fungsi khusus tersebut dapat berdiri sendiri \natau merupakan bagian dari unit yang mengalihdayakan \npekerjaannya. \n \nAyat (3) \nFrekuensi pengkajian ulang dilakukan sesuai kebutuhan \nBank dan perkembangan aktivitas Bank, terutama untuk \nmemastikan kesesuaian dengan strategi dan tujuan bisnis \nBank secara keseluruhan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \n\n\n \n \n \n \n \n \n \n \nAyat (2) \n \nHuruf a \nTujuan Alih Daya mencakup penjabaran atas hasil yang \ningin dicapai melalui pelaksanaan Alih Daya, sesuai \nstrategi dan tujuan bisnis Bank secara keseluruhan. \n \nHuruf b \nKriteria pekerjaan yang dapat dialihdayakan paling \nsedikit mengacu pada kriteria sebagaimana dimaksud \ndalam Peraturan Otoritas Jasa Keuangan ini. \n \nHuruf c \nCakupan analisis mencakup aspek-aspek antara lain \nrisiko, biaya, dan manfaat yang ditimbulkan oleh Alih \nDaya. \nDalam analisis manfaat dan biaya perlu memperhatikan \npula pelaksanaan prinsip kehati-hatian dan pengawasan \noleh Bank atas Alih Daya tersebut. \n \nHuruf d \nKebijakan mitigasi risiko mencakup jenis pekerjaan yang \nharus dilakukan upaya mitigasi risiko serta upaya-upaya \nmitigasi yang dapat dilakukan atas pekerjaan tersebut. \n \nHuruf e \nKriteria \nPerusahaan \nPenyedia \nJasa \npaling \nsedikit \nmengacu pada kriteria sebagaimana dimaksud dalam \nPeraturan Otoritas Jasa Keuangan ini. \n \nHuruf f \nCakupan minimum perjanjian Alih Daya paling sedikit \nmengacu pada cakupan sebagaimana dimaksud dalam \nPeraturan Otoritas Jasa Keuangan ini. \n \nHuruf g \nProsedur standar dalam melakukan Alih Daya antara \nlain mencakup prosedur pemilihan dan penetapan \nPerusahaan Penyedia Jasa, pengikatan perjanjian, dan \npengawasan pelaksanaan Alih Daya. \n \n\n\n \n \n \n \n \n \nHuruf h \nUnit atau fungsi khusus tersebut dapat berdiri sendiri \natau merupakan bagian dari unit yang mengalihdayakan \npekerjaannya. \n \nAyat (3) \nFrekuensi pengkajian ulang dilakukan sesuai kebutuhan \nBank dan perkembangan aktivitas Bank, terutama untuk \nmemastikan kesesuaian dengan strategi dan tujuan bisnis \nBank secara keseluruhan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2) \n \nHuruf a \nProses Alih Daya merupakan serangkaian proses yang \nharus \ndilakukan \ndalam \nrangka \npenunjukan \ndan \npenggunaan Perusahaan Penyedia Jasa dalam Alih Daya. \n \nHuruf b \nPengawasan \nterhadap \npelaksanaan \npekerjaan \nmerupakan pengawasan atas pemenuhan perjanjian Alih \nDaya termasuk pemenuhan ukuran dan standar yang \nditetapkan.  \n \nAyat (3) \n \nYang dimaksud dengan “pihak independen” adalah: \na. \nunit kerja atau fungsi khusus dalam Bank yang tidak \nterkait dengan proses Alih Daya, dapat berdiri sendiri \natau dapat merupakan bagian dari unit atau fungsi \nkhusus yang berdiri sendiri sebagaimana dimaksud \ndalam Penjelasan Pasal 14 ayat (2) huruf h; atau \nb. \nbagian dari unit kerja atau fungsi khusus dalam Bank \nyang melakukan pengawasan secara independen, antara \nlain internal audit, manajemen risiko atau kepatuhan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2) \n \nHuruf a \nProses Alih Daya merupakan serangkaian proses yang \nharus \ndilakukan \ndalam \nrangka \npenunjukan \ndan \npenggunaan Perusahaan Penyedia Jasa dalam Alih Daya. \n \nHuruf b \nPengawasan \nterhadap \npelaksanaan \npekerjaan \nmerupakan pengawasan atas pemenuhan perjanjian Alih \nDaya termasuk pemenuhan ukuran dan standar yang \nditetapkan.  \n \nAyat (3) \n \nYang dimaksud dengan “pihak independen” adalah: \na. \nunit kerja atau fungsi khusus dalam Bank yang tidak \nterkait dengan proses Alih Daya, dapat berdiri sendiri \natau dapat merupakan bagian dari unit atau fungsi \nkhusus yang berdiri sendiri sebagaimana dimaksud \ndalam Penjelasan Pasal 14 ayat (2) huruf h; atau \nb. \nbagian dari unit kerja atau fungsi khusus dalam Bank \nyang melakukan pengawasan secara independen, antara \nlain internal audit, manajemen risiko atau kepatuhan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ayat (1)  \nLaporan mencakup laporan Bank secara gabungan untuk \nseluruh kantor Bank. Laporan disampaikan oleh Bank yang \ntelah melakukan maupun yang merencanakan melakukan \nAlih Daya. \n \nAyat (2) \n \nHuruf a \nLaporan rencana Alih Daya memuat rencana Alih Daya \natas pekerjaan yang belum pernah dialihdayakan. \nTidak termasuk dalam pekerjaan yang belum pernah \ndialihdayakan adalah perpanjangan perjanjian Alih Daya. \n \nHuruf b \nAlih Daya dianggap bermasalah dalam hal terjadi \npermasalahan baik pada pelaksanaan Alih Daya maupun \npada \nPerusahaan \nPenyedia \nJasa \nyang \nberpotensi \nmeningkatkan risiko Bank secara signifikan dan/atau \nakan mengganggu kelangsungan pelaksanaan pekerjaan \nyang dialihdayakan, terlepas dari mengakibatkan atau \ntidak mengakibatkan penghentian perjanjian dan/atau \npenggantian Perusahaan Penyedia Jasa. \nContoh permasalahan:  \nPelanggaran \nketentuan \ndan \nperaturan \nperundang-\nundangan, pelanggaran perjanjian, gugatan, pengaduan \nnasabah, perselisihan intern pada Perusahaan Penyedia \nJasa baik antar manajemen maupun antara manajemen \ndengan karyawan. \n \nAyat (3) \n \nHuruf a \n \nCukup jelas. \n \nHuruf b \nGambaran umum dan cakupan pekerjaan menguraikan \nsecara singkat pekerjaan yang dialihdayakan dan lokasi \nkantor tempat pekerjaan yang dialihdayakan. \n \n \n \n\n\n \n \n \n \n \nHuruf c \nPerjanjian Alih Daya yang dibuat berupa perjanjian \npemborongan dan/atau penyediaan jasa tenaga kerja. \n \nHuruf d \n \nCukup jelas. \n \nHuruf e \n \nCukup jelas. \n \nHuruf f \n \nCukup jelas. \n \nHuruf g \n \nCukup jelas. \n \nAyat (4)  \n \nHuruf a \n \nCukup jelas. \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \nGambaran permasalahan menguraikan secara singkat \npermasalahan \nyang \nterjadi, \npotensi \nrisiko \nyang \nditimbulkan, lokasi, waktu terjadinya permasalahan, dan \nwaktu diketahuinya permasalahan. \n \nHuruf d \n \nCukup jelas. \n \nAyat (5)  \nLaporan yang disampaikan mencakup rencana Alih Daya \nyang akan dilakukan selama 1 (satu) tahun yang akan \ndatang. \n \nAyat (6)  \nLaporan Perubahan Rencana Alih Daya paling sedikit memuat \ninformasi sebagaimana dimaksud dalam Pasal 17 ayat (3) \nserta uraian singkat latar belakang dan tujuan penambahan \ndan/atau perubahan rencana Alih Daya. \n \nAyat (7)  \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur \nlokal yang ditetapkan oleh pemerintah daerah setempat. \n \nAyat (8)  \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nLaporan mencakup laporan Bank secara gabungan untuk \nseluruh kantor Bank. Laporan disampaikan oleh Bank yang \ntelah melakukan maupun yang merencanakan melakukan \nAlih Daya. \n \nAyat (2) \n \nHuruf a \nLaporan rencana Alih Daya memuat rencana Alih Daya \natas pekerjaan yang belum pernah dialihdayakan. \nTidak termasuk dalam pekerjaan yang belum pernah \ndialihdayakan adalah perpanjangan perjanjian Alih Daya. \n \nHuruf b \nAlih Daya dianggap bermasalah dalam hal terjadi \npermasalahan baik pada pelaksanaan Alih Daya maupun \npada \nPerusahaan \nPenyedia \nJasa \nyang \nberpotensi \nmeningkatkan risiko Bank secara signifikan dan/atau \nakan mengganggu kelangsungan pelaksanaan pekerjaan \nyang dialihdayakan, terlepas dari mengakibatkan atau \ntidak mengakibatkan penghentian perjanjian dan/atau \npenggantian Perusahaan Penyedia Jasa. \nContoh permasalahan:  \nPelanggaran \nketentuan \ndan \nperaturan \nperundang-\nundangan, pelanggaran perjanjian, gugatan, pengaduan \nnasabah, perselisihan intern pada Perusahaan Penyedia \nJasa baik antar manajemen maupun antara manajemen \ndengan karyawan. \n \nAyat (3) \n \nHuruf a \n \nCukup jelas. \n \nHuruf b \nGambaran umum dan cakupan pekerjaan menguraikan \nsecara singkat pekerjaan yang dialihdayakan dan lokasi \nkantor tempat pekerjaan yang dialihdayakan. \n \n \n \n\n\n \n \n \n \n \nHuruf c \nPerjanjian Alih Daya yang dibuat berupa perjanjian \npemborongan dan/atau penyediaan jasa tenaga kerja. \n \nHuruf d \n \nCukup jelas. \n \nHuruf e \n \nCukup jelas. \n \nHuruf f \n \nCukup jelas. \n \nHuruf g \n \nCukup jelas. \n \nAyat (4)  \n \nHuruf a \n \nCukup jelas. \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \nGambaran permasalahan menguraikan secara singkat \npermasalahan \nyang \nterjadi, \npotensi \nrisiko \nyang \nditimbulkan, lokasi, waktu terjadinya permasalahan, dan \nwaktu diketahuinya permasalahan. \n \nHuruf d \n \nCukup jelas. \n \nAyat (5)  \nLaporan yang disampaikan mencakup rencana Alih Daya \nyang akan dilakukan selama 1 (satu) tahun yang akan \ndatang. \n \nAyat (6)  \nLaporan Perubahan Rencana Alih Daya paling sedikit memuat \ninformasi sebagaimana dimaksud dalam Pasal 17 ayat (3) \nserta uraian singkat latar belakang dan tujuan penambahan \ndan/atau perubahan rencana Alih Daya. \n \nAyat (7)  \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur \nlokal yang ditetapkan oleh pemerintah daerah setempat. \n \nAyat (8)  \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5845",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5845"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 52,
+  "total_ayat": 79,
+  "total_karakter": 39062,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

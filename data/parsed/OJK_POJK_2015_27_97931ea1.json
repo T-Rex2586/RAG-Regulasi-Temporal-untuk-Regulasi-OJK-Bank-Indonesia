@@ -1,0 +1,1551 @@
+{
+  "doc_id": "OJK_POJK_2015_27_97931ea1",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "27",
+  "tahun": "2015",
+  "judul": "Peraturan Otoritas Jasa Keuangan Nomor 27 /POJK.03/2015 tentang Kegiatan Usaha Bank berupa Penitipan dengan Pengelolaan (Trust)",
+  "status": "Berlaku (Perubahan) (Diubah)",
+  "tanggal_ditetapkan": "4 Desember 2015",
+  "tanggal_berlaku": "diundangkan (11 Desember 2015)",
+  "diundangkan_pada": "11 Desember 2015",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENCATATAN KEGIATAN TRUST"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERJANJIAN TRUST"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TRANSPARANSI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum yang melaksanakan kegiatan \nusaha \nsecara \nkonvensional \nsebagaimana \ndimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, termasuk kantor cabang \ndari bank yang berkedudukan di luar negeri, dan Bank \nUmum Syariah sebagaimana dimaksud dalam Undang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \n\n\n \n \nSyariah. \n2. \nKegiatan \nusaha \nBank \nberupa \npenitipan \ndengan \npengelolaan, yang selanjutnya disebut Trust, adalah \nkegiatan penitipan dengan pengelolaan atas harta milik \npenitip harta trust berdasarkan perjanjian tertulis antara \nBank sebagai penerima dan pengelola harta trust dengan \npenitip harta trust untuk kepentingan penerima manfaat. \n3. \nPenerima dan Pengelola Harta Trust, yang selanjutnya \ndisebut Trustee, adalah Bank yang melakukan kegiatan \nTrust sesuai dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini. \n4. \nPenitip Harta Trust, yang selanjutnya disebut Settlor, \nadalah pihak yang memiliki dan menitipkan hartanya \nuntuk dikelola oleh Trustee. \n5. \nPenerima Manfaat, yang selanjutnya disebut Beneficiary, \nadalah pihak yang menerima manfaat dari kegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum yang melaksanakan kegiatan \nusaha \nsecara \nkonvensional \nsebagaimana \ndimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, termasuk kantor cabang \ndari bank yang berkedudukan di luar negeri, dan Bank \nUmum Syariah sebagaimana dimaksud dalam Undang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \n\n\n \n \nSyariah. \n2. \nKegiatan \nusaha \nBank \nberupa \npenitipan \ndengan \npengelolaan, yang selanjutnya disebut Trust, adalah \nkegiatan penitipan dengan pengelolaan atas harta milik \npenitip harta trust berdasarkan perjanjian tertulis antara \nBank sebagai penerima dan pengelola harta trust dengan \npenitip harta trust untuk kepentingan penerima manfaat. \n3. \nPenerima dan Pengelola Harta Trust, yang selanjutnya \ndisebut Trustee, adalah Bank yang melakukan kegiatan \nTrust sesuai dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini. \n4. \nPenitip Harta Trust, yang selanjutnya disebut Settlor, \nadalah pihak yang memiliki dan menitipkan hartanya \nuntuk dikelola oleh Trustee. \n5. \nPenerima Manfaat, yang selanjutnya disebut Beneficiary, \nadalah pihak yang menerima manfaat dari kegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Bank dalam melakukan kegiatan Trust wajib berpedoman \npada ketentuan dalam Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank dalam melakukan kegiatan Trust wajib berpedoman \npada ketentuan dalam Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Bank yang melakukan kegiatan Trust wajib mematuhi \nketentuan \ndan \nperaturan \nperundang-undangan \nyang \nmengatur mengenai penerapan anti pencucian uang dan \npencegahan pendanaan terorisme.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang melakukan kegiatan Trust wajib mematuhi \nketentuan \ndan \nperaturan \nperundang-undangan \nyang \nmengatur mengenai penerapan anti pencucian uang dan \npencegahan pendanaan terorisme."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Bank yang melakukan kegiatan Trust wajib memenuhi \nprinsip-prinsip: \na. \nkegiatan Trust dilakukan oleh unit kerja yang terpisah \ndari unit kegiatan Bank lainnya; \nb. \nharta yang dititipkan Settlor untuk dikelola oleh Trustee \nterbatas pada aset keuangan; \nc. \nharta yang dititipkan Settlor untuk dikelola oleh Trustee \ndicatat dan dilaporkan terpisah dari harta Bank; \nd. \ndalam \nhal \nBank \nyang \nmelakukan \nkegiatan \nTrust \n\n\n \n \ndilikuidasi, semua harta Trust tidak dimasukkan dalam \nharta pailit (boedel pailit) dan dikembalikan kepada \nSettlor atau dialihkan kepada trustee pengganti yang \nditunjuk Settlor; \ne. \nkegiatan Trust dituangkan dalam perjanjian tertulis \nantara Trustee dengan Settlor; \nf. \nTrustee menjaga kerahasiaan data dan keterangan terkait \nkegiatan Trust sebagaimana diatur dalam perjanjian \nTrust, kecuali untuk kepentingan pelaporan kepada \nOtoritas Jasa Keuangan; dan \ng. \nBank \nyang \nmelakukan \nkegiatan \nTrust \nmematuhi \nketentuan dan peraturan perundang-undangan. \n \nBAB II \nKEGIATAN TRUST",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang melakukan kegiatan Trust wajib memenuhi \nprinsip-prinsip: \na. \nkegiatan Trust dilakukan oleh unit kerja yang terpisah \ndari unit kegiatan Bank lainnya; \nb. \nharta yang dititipkan Settlor untuk dikelola oleh Trustee \nterbatas pada aset keuangan; \nc. \nharta yang dititipkan Settlor untuk dikelola oleh Trustee \ndicatat dan dilaporkan terpisah dari harta Bank; \nd. \ndalam \nhal \nBank \nyang \nmelakukan \nkegiatan \nTrust \n\n\n \n \ndilikuidasi, semua harta Trust tidak dimasukkan dalam \nharta pailit (boedel pailit) dan dikembalikan kepada \nSettlor atau dialihkan kepada trustee pengganti yang \nditunjuk Settlor; \ne. \nkegiatan Trust dituangkan dalam perjanjian tertulis \nantara Trustee dengan Settlor; \nf. \nTrustee menjaga kerahasiaan data dan keterangan terkait \nkegiatan Trust sebagaimana diatur dalam perjanjian \nTrust, kecuali untuk kepentingan pelaporan kepada \nOtoritas Jasa Keuangan; dan \ng. \nBank \nyang \nmelakukan \nkegiatan \nTrust \nmematuhi \nketentuan dan peraturan perundang-undangan. \n \nBAB II \nKEGIATAN TRUST"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST",
+      "teks_lengkap": "(1) Dalam kegiatan Trust sebagaimana dimaksud dalam \nPasal 2, Trustee dapat bertindak untuk dan atas nama \nSettlor sesuai perjanjian Trust sebagai: \na. \nagen pembayar (paying agent); \nb. \nagen investasi dana secara konvensional dan/atau \nberdasarkan prinsip syariah; dan/atau \nc. \nagen peminjaman secara konvensional (borrowing \nagent) dan/atau agen pembiayaan berdasarkan \nprinsip syariah. \n(2) Kegiatan Trust sebagaimana dimaksud pada ayat (1) \nwajib dilakukan berdasarkan instruksi tertulis dari \nSettlor sebagaimana termuat dalam perjanjian Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam kegiatan Trust sebagaimana dimaksud dalam \nPasal 2, Trustee dapat bertindak untuk dan atas nama \nSettlor sesuai perjanjian Trust sebagai: \na. \nagen pembayar (paying agent); \nb. \nagen investasi dana secara konvensional dan/atau \nberdasarkan prinsip syariah; dan/atau \nc. \nagen peminjaman secara konvensional (borrowing \nagent) dan/atau agen pembiayaan berdasarkan \nprinsip syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kegiatan Trust sebagaimana dimaksud pada ayat (1) \nwajib dilakukan berdasarkan instruksi tertulis dari \nSettlor sebagaimana termuat dalam perjanjian Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST",
+      "teks_lengkap": "Kegiatan Trustee sebagai agen pembayar (paying agent) \nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a, \nmencakup:  \na. \nmembuka dan menutup rekening untuk dan atas nama \nSettlor; \n \n\n\n \n \nb. \nmenerima dan menyimpan dana ke dalam rekening \nSettlor; \nc. \nmelakukan pembayaran dari rekening Settlor kepada \nBeneficiary dan/atau pihak lain;  \nd. \nmencatat, \nmendokumentasikan, \ndan \nmengadministrasikan dokumen terkait dengan rekening \nSettlor; dan/atau \ne. \nmelakukan kegiatan lain dalam rangka menjalankan \nfungsi sebagai agen pembayar (paying agent).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kegiatan Trustee sebagai agen pembayar (paying agent) \nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a, \nmencakup:  \na. \nmembuka dan menutup rekening untuk dan atas nama \nSettlor; \n \n\n\n \n \nb. \nmenerima dan menyimpan dana ke dalam rekening \nSettlor; \nc. \nmelakukan pembayaran dari rekening Settlor kepada \nBeneficiary dan/atau pihak lain;  \nd. \nmencatat, \nmendokumentasikan, \ndan \nmengadministrasikan dokumen terkait dengan rekening \nSettlor; dan/atau \ne. \nmelakukan kegiatan lain dalam rangka menjalankan \nfungsi sebagai agen pembayar (paying agent)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST",
+      "teks_lengkap": "(1) Kegiatan Trustee sebagai agen investasi dana secara \nkonvensional dan/atau berdasarkan prinsip syariah \nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b \ndilaksanakan berdasarkan instruksi tertulis yang jelas \ndan rinci dari Settlor, yang disesuaikan dengan jenis \nkegiatan dan/atau instrumen yang digunakan. \n(2) Dalam hal Settlor menginstruksikan Trustee untuk \nmelakukan kegiatan investasi dana selain kegiatan \nsebagaimana \ndiatur \ndalam \nperaturan \nperundang-\nundangan, investasi dana harus dilakukan oleh manajer \ninvestasi. \n(3) Dalam hal investasi dana dilakukan oleh manajer \ninvestasi sebagaimana dimaksud pada ayat (2), Trustee \nbertindak sebagai: \na. \nagen pembayar (paying agent); atau \nb. \nagen pembayar (paying agent) dan agen yang \nmenghubungkan manajer investasi dengan Settlor. \n(4) Trustee tidak bertanggung jawab atas kerugian dari \ninvestasi dana sepanjang investasi dana telah sesuai \ninstruksi Settlor dalam perjanjian Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kegiatan Trustee sebagai agen investasi dana secara \nkonvensional dan/atau berdasarkan prinsip syariah \nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b \ndilaksanakan berdasarkan instruksi tertulis yang jelas \ndan rinci dari Settlor, yang disesuaikan dengan jenis \nkegiatan dan/atau instrumen yang digunakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Settlor menginstruksikan Trustee untuk \nmelakukan kegiatan investasi dana selain kegiatan \nsebagaimana \ndiatur \ndalam \nperaturan \nperundang-\nundangan, investasi dana harus dilakukan oleh manajer \ninvestasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal investasi dana dilakukan oleh manajer \ninvestasi sebagaimana dimaksud pada ayat (2), Trustee \nbertindak sebagai: \na. \nagen pembayar (paying agent); atau \nb. \nagen pembayar (paying agent) dan agen yang \nmenghubungkan manajer investasi dengan Settlor."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Trustee tidak bertanggung jawab atas kerugian dari \ninvestasi dana sepanjang investasi dana telah sesuai \ninstruksi Settlor dalam perjanjian Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST",
+      "teks_lengkap": "Kegiatan \nTrustee \nsebagai \nagen \npeminjaman \nsecara \nkonvensional (borrowing agent) dan/atau agen pembiayaan \nberdasarkan prinsip syariah sebagaimana dimaksud dalam \nPasal 5 ayat (1) huruf c mencakup:  \n\n\n \n \na. \nmemperoleh \npinjaman \nsecara \nkonvensional \natau \npembiayaan \nberdasarkan \nprinsip \nsyariah, \nyang \ndibuktikan dengan perjanjian kredit atau perjanjian \npembiayaan berdasarkan prinsip syariah;  \nb. \nmelakukan \ntransaksi \nlindung \nnilai \n(hedging) \natau \ntahawwuth berdasarkan prinsip syariah; \nc. \nmencadangkan dana untuk membayar pinjaman atau \npembiayaan \nberdasarkan \nprinsip \nsyariah \nsesuai \nmekanisme yang ditetapkan Settlor; dan/atau \nd. \nmelakukan \nkegiatan \nlainnya \nyang \nterkait \ndengan \npeminjaman \natau \npembiayaan \nberdasarkan \nprinsip \nsyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kegiatan \nTrustee \nsebagai \nagen \npeminjaman \nsecara \nkonvensional (borrowing agent) dan/atau agen pembiayaan \nberdasarkan prinsip syariah sebagaimana dimaksud dalam \nPasal 5 ayat (1) huruf c mencakup:  \n\n\n \n \na. \nmemperoleh \npinjaman \nsecara \nkonvensional \natau \npembiayaan \nberdasarkan \nprinsip \nsyariah, \nyang \ndibuktikan dengan perjanjian kredit atau perjanjian \npembiayaan berdasarkan prinsip syariah;  \nb. \nmelakukan \ntransaksi \nlindung \nnilai \n(hedging) \natau \ntahawwuth berdasarkan prinsip syariah; \nc. \nmencadangkan dana untuk membayar pinjaman atau \npembiayaan \nberdasarkan \nprinsip \nsyariah \nsesuai \nmekanisme yang ditetapkan Settlor; dan/atau \nd. \nmelakukan \nkegiatan \nlainnya \nyang \nterkait \ndengan \npeminjaman \natau \npembiayaan \nberdasarkan \nprinsip \nsyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST",
+      "teks_lengkap": "Dalam kegiatan Trust, Trustee dilarang: \na. \nmemanfaatkan harta Trust  untuk kepentingan sendiri; \ndan/atau \nb. \nmelakukan kegiatan diluar yang telah diatur dalam \nperjanjian Trust, baik atas inisiatif sendiri maupun \nberdasarkan perintah tertulis dari Settlor.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam kegiatan Trust, Trustee dilarang: \na. \nmemanfaatkan harta Trust  untuk kepentingan sendiri; \ndan/atau \nb. \nmelakukan kegiatan diluar yang telah diatur dalam \nperjanjian Trust, baik atas inisiatif sendiri maupun \nberdasarkan perintah tertulis dari Settlor."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KEGIATAN TRUST",
+      "teks_lengkap": "Dalam melaksanakan kegiatan Trust, Trustee memperoleh fee \natau ujroh sesuai perjanjian Trust. \n \nBAB III \nPENCATATAN KEGIATAN TRUST",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam melaksanakan kegiatan Trust, Trustee memperoleh fee \natau ujroh sesuai perjanjian Trust. \n \nBAB III \nPENCATATAN KEGIATAN TRUST"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENCATATAN KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nTrustee wajib membuat pencatatan kegiatan Trust yang \nterpisah dari pembukuan Bank. \n(2) \nPencatatan kegiatan Trust sebagaimana dimaksud pada \nayat (1) paling sedikit meliputi pencatatan mengenai \ntransaksi dan posisi harta Trust. \n(3) \nTata cara pencatatan kegiatan Trust mengacu pada \nstandar akuntasi keuangan yang berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Trustee wajib membuat pencatatan kegiatan Trust yang \nterpisah dari pembukuan Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pencatatan kegiatan Trust sebagaimana dimaksud pada \nayat (1) paling sedikit meliputi pencatatan mengenai \ntransaksi dan posisi harta Trust."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Tata cara pencatatan kegiatan Trust mengacu pada \nstandar akuntasi keuangan yang berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENCATATAN KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nTrustee wajib menggunakan rekening pada bank di dalam \nnegeri untuk seluruh kegiatan Trust. \n(2) \nTrustee wajib melakukan pencatatan mutasi rekening \nsecara \nterpisah \nuntuk \nmasing-masing \nSettlor \ndan \nBeneficiary.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Trustee wajib menggunakan rekening pada bank di dalam \nnegeri untuk seluruh kegiatan Trust."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Trustee wajib melakukan pencatatan mutasi rekening \nsecara \nterpisah \nuntuk \nmasing-masing \nSettlor \ndan \nBeneficiary."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENCATATAN KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nKegiatan Trust wajib diaudit oleh auditor intern dan \nauditor ekstern paling sedikit 1 (satu) kali dalam 1 (satu) \ntahun. \n(2) \nBank wajib memastikan kegiatan Trust merupakan \nbagian dari objek audit umum terhadap Bank. \n \nBAB IV \nPARA PIHAK DALAM KEGIATAN TRUST",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kegiatan Trust wajib diaudit oleh auditor intern dan \nauditor ekstern paling sedikit 1 (satu) kali dalam 1 (satu) \ntahun."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib memastikan kegiatan Trust merupakan \nbagian dari objek audit umum terhadap Bank. \n \nBAB IV \nPARA PIHAK DALAM KEGIATAN TRUST"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "Para pihak dalam kegiatan Trust adalah: \na. \nBank sebagai Trustee;  \nb. \nSettlor; dan \nc. \nBeneficiary.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Para pihak dalam kegiatan Trust adalah: \na. \nBank sebagai Trustee;  \nb. \nSettlor; dan \nc. \nBeneficiary."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nBank, \nselain \nkantor \ncabang \ndari \nbank \nyang \nberkedudukan di luar negeri, dapat melakukan kegiatan \nTrust dengan memenuhi persyaratan: \na. \nberbadan hukum Indonesia; \nb. \nmerupakan bank devisa dengan modal inti paling \nsedikit sebesar Rp5.000.000.000.000,00 (lima triliun \nrupiah); \nc. \nmemenuhi \nrasio \nkewajiban \npenyediaan \nmodal \nminimum sesuai profil risiko selama 6 (enam) bulan \nterakhir berturut-turut;  \nd. \nmemiliki tingkat kesehatan Bank paling rendah \nPeringkat \nKomposit \npada \nperiode \npenilaian \nterakhir; \n\n\n \n \ne. \nmencantumkan \nrencana \nkegiatan \nTrust \ndalam \nRencana Bisnis Bank; dan \nf. \nmemiliki kapasitas untuk melakukan kegiatan Trust \nberdasarkan hasil penilaian Otoritas Jasa Keuangan. \n(2) \nSelama melakukan kegiatan Trust, Bank, selain kantor \ncabang dari bank yang berkedudukan di luar negeri, \nsebagaimana dimaksud pada ayat (1) wajib memenuhi \npersyaratan: \na. \nmemiliki \nmodal \ninti \npaling \nsedikit \nsebesar \nRp5.000.000.000.000,00 (lima triliun rupiah);  \nb. \nmemenuhi \nrasio \nkewajiban \npenyediaan \nmodal \nminimum sesuai profil risiko; dan \nc. \nmemiliki tingkat kesehatan Bank paling rendah \nPeringkat Komposit 2.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank, \nselain \nkantor \ncabang \ndari \nbank \nyang \nberkedudukan di luar negeri, dapat melakukan kegiatan \nTrust dengan memenuhi persyaratan: \na. \nberbadan hukum Indonesia; \nb. \nmerupakan bank devisa dengan modal inti paling \nsedikit sebesar Rp5.000.000.000.000,00 (lima triliun \nrupiah); \nc. \nmemenuhi \nrasio \nkewajiban \npenyediaan \nmodal \nminimum sesuai profil risiko selama 6 (enam) bulan \nterakhir berturut-turut;  \nd. \nmemiliki tingkat kesehatan Bank paling rendah \nPeringkat \nKomposit \npada \nperiode \npenilaian \nterakhir; \n\n\n \n \ne. \nmencantumkan \nrencana \nkegiatan \nTrust \ndalam \nRencana Bisnis Bank; dan \nf. \nmemiliki kapasitas untuk melakukan kegiatan Trust \nberdasarkan hasil penilaian Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selama melakukan kegiatan Trust, Bank, selain kantor \ncabang dari bank yang berkedudukan di luar negeri, \nsebagaimana dimaksud pada ayat (1) wajib memenuhi \npersyaratan: \na. \nmemiliki \nmodal \ninti \npaling \nsedikit \nsebesar \nRp5.000.000.000.000,00 (lima triliun rupiah);  \nb. \nmemenuhi \nrasio \nkewajiban \npenyediaan \nmodal \nminimum sesuai profil risiko; dan \nc. \nmemiliki tingkat kesehatan Bank paling rendah \nPeringkat Komposit 2."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nKantor cabang dari bank yang berkedudukan di luar \nnegeri \ndapat \nmelakukan \nkegiatan \nTrust, \ndengan \npersyaratan: \na. \nmemenuhi \npersyaratan \nsebagaimana \ndimaksud \ndalam Pasal 15 ayat (1) huruf c sampai dengan \nhuruf f; dan \nb. \nmemenuhi Capital Equivalency Maintained Asset \n(CEMA) \nminimum \ndengan \nperhitungan \nsesuai \nketentuan yang berlaku dan paling sedikit sebesar \nRp5.000.000.000.000,00 (lima triliun rupiah). \n(2) Selama melakukan kegiatan Trust, kantor cabang dari \nbank yang berkedudukan di luar negeri wajib memenuhi \npersyaratan: \na. \nmemenuhi Capital Equivalency Maintained Asset \n(CEMA) \nminimum \ndengan \nperhitungan \nsesuai \nketentuan yang berlaku dan paling sedikit sebesar \nRp5.000.000.000.000,00 (lima triliun rupiah);  \nb. \nmemenuhi \nrasio \nkewajiban \npenyediaan \nmodal \nminimum sesuai profil risiko; dan \nc. \nmemiliki tingkat kesehatan Bank paling rendah \nPeringkat Komposit 2.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kantor cabang dari bank yang berkedudukan di luar \nnegeri \ndapat \nmelakukan \nkegiatan \nTrust, \ndengan \npersyaratan: \na. \nmemenuhi \npersyaratan \nsebagaimana \ndimaksud \ndalam Pasal 15 ayat (1) huruf c sampai dengan \nhuruf f; dan \nb. \nmemenuhi Capital Equivalency Maintained Asset \n(CEMA) \nminimum \ndengan \nperhitungan \nsesuai \nketentuan yang berlaku dan paling sedikit sebesar \nRp5.000.000.000.000,00 (lima triliun rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selama melakukan kegiatan Trust, kantor cabang dari \nbank yang berkedudukan di luar negeri wajib memenuhi \npersyaratan: \na. \nmemenuhi Capital Equivalency Maintained Asset \n(CEMA) \nminimum \ndengan \nperhitungan \nsesuai \nketentuan yang berlaku dan paling sedikit sebesar \nRp5.000.000.000.000,00 (lima triliun rupiah);  \nb. \nmemenuhi \nrasio \nkewajiban \npenyediaan \nmodal \nminimum sesuai profil risiko; dan \nc. \nmemiliki tingkat kesehatan Bank paling rendah \nPeringkat Komposit 2."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "Dalam hal persyaratan sebagaimana dimaksud dalam Pasal \n15 ayat (2) atau Pasal 16 ayat (2) tidak terpenuhi, Bank: \na. \ndilarang membuat perjanjian Trust baru;  \nb. \nwajib \nmenyelesaikan \npemenuhan \npersyaratan \nsebagaimana dimaksud dalam Pasal 15 ayat (2) atau \nPasal 16 ayat (2) paling lama 6 (enam) bulan sejak \npelanggaran persyaratan terjadi; dan \nc. \nwajib mengembalikan harta Trust kepada Settlor atau \nmengalihkan harta Trust kepada trustee pengganti yang \nditunjuk oleh Settlor sesuai perjanjian Trust, apabila \nTrustee tidak dapat memenuhi persyaratan sebagaimana \ndimaksud pada huruf b.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal persyaratan sebagaimana dimaksud dalam Pasal \n15 ayat (2) atau Pasal 16 ayat (2) tidak terpenuhi, Bank: \na. \ndilarang membuat perjanjian Trust baru;  \nb. \nwajib \nmenyelesaikan \npemenuhan \npersyaratan \nsebagaimana dimaksud dalam Pasal 15 ayat (2) atau \nPasal 16 ayat (2) paling lama 6 (enam) bulan sejak \npelanggaran persyaratan terjadi; dan \nc. \nwajib mengembalikan harta Trust kepada Settlor atau \nmengalihkan harta Trust kepada trustee pengganti yang \nditunjuk oleh Settlor sesuai perjanjian Trust, apabila \nTrustee tidak dapat memenuhi persyaratan sebagaimana \ndimaksud pada huruf b."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "Penilaian yang dilakukan oleh Otoritas Jasa Keuangan \nsebagaimana dimaksud dalam Pasal 15 ayat (1) huruf f paling \nsedikit mencakup: \na. \nmanajemen risiko Bank yang memadai khususnya untuk \nsistem operasi dan prosedur yang didukung oleh \nteknologi \ninformasi \nyang \nmemadai \nuntuk \nseluruh \nkegiatan Trust yang diperkenankan; \nb. \nBank tidak sedang dikenakan tindakan pengawasan \nBank; dan \nc. \nkelengkapan dokumen yang dipersyaratkan pada saat \nBank menyampaikan permohonan untuk melakukan \nkegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian yang dilakukan oleh Otoritas Jasa Keuangan \nsebagaimana dimaksud dalam Pasal 15 ayat (1) huruf f paling \nsedikit mencakup: \na. \nmanajemen risiko Bank yang memadai khususnya untuk \nsistem operasi dan prosedur yang didukung oleh \nteknologi \ninformasi \nyang \nmemadai \nuntuk \nseluruh \nkegiatan Trust yang diperkenankan; \nb. \nBank tidak sedang dikenakan tindakan pengawasan \nBank; dan \nc. \nkelengkapan dokumen yang dipersyaratkan pada saat \nBank menyampaikan permohonan untuk melakukan \nkegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nBank wajib memiliki kebijakan sumber daya manusia \nyang mengelola unit kerja Trustee. \n(2) \nDalam menetapkan kebijakan sumber daya manusia \npada unit kerja Trustee, Bank tetap berpedoman pada \nketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai \nprinsip \nkehati-hatian \nbagi \nBank \nyang \nmelakukan penyerahan sebagian pelaksanaan pekerjaan \nkepada pihak lain. \n\n\n \n \n(3) \nKomposisi jumlah sumber daya manusia unit kerja \nTrustee \npaling \nsedikit \n50% \n(lima \npuluh \npersen) \nmerupakan pegawai Bank dan berkewarganegaraan \nIndonesia. \n(4) \nMayoritas pimpinan unit kerja Trustee dan pejabat satu \ntingkat di bawah pimpinan unit kerja Trustee merupakan \npegawai Bank dan berkewarganegaraan Indonesia. \n(5) \nKualifikasi jabatan pimpinan unit kerja Trustee dan \npejabat satu tingkat di bawah pimpinan unit kerja \nTrustee paling sedikit meliputi kompetensi di bidang \nkeuangan dan memiliki integritas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki kebijakan sumber daya manusia \nyang mengelola unit kerja Trustee."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menetapkan kebijakan sumber daya manusia \npada unit kerja Trustee, Bank tetap berpedoman pada \nketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai \nprinsip \nkehati-hatian \nbagi \nBank \nyang \nmelakukan penyerahan sebagian pelaksanaan pekerjaan \nkepada pihak lain."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Komposisi jumlah sumber daya manusia unit kerja \nTrustee \npaling \nsedikit \n50% \n(lima \npuluh \npersen) \nmerupakan pegawai Bank dan berkewarganegaraan \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Mayoritas pimpinan unit kerja Trustee dan pejabat satu \ntingkat di bawah pimpinan unit kerja Trustee merupakan \npegawai Bank dan berkewarganegaraan Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kualifikasi jabatan pimpinan unit kerja Trustee dan \npejabat satu tingkat di bawah pimpinan unit kerja \nTrustee paling sedikit meliputi kompetensi di bidang \nkeuangan dan memiliki integritas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PARA PIHAK DALAM KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nSettlor wajib memenuhi kriteria: \na. \nnasabah korporasi; dan \nb. \nbukan merupakan pihak terafiliasi dengan Bank. \n(2) \nSettlor dapat bertindak sebagai Beneficiary. \n \nBAB V \nPERJANJIAN TRUST",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Settlor wajib memenuhi kriteria: \na. \nnasabah korporasi; dan \nb. \nbukan merupakan pihak terafiliasi dengan Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Settlor dapat bertindak sebagai Beneficiary. \n \nBAB V \nPERJANJIAN TRUST"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERJANJIAN TRUST",
+      "teks_lengkap": "(1) \nPenunjukan Bank sebagai Trustee dan penunjukan \nBeneficiary harus disampaikan secara tertulis oleh Settlor \nkepada Bank. \n(2) \nBank \nyang \nditunjuk \nsebagai \nTrustee \nsebagaimana \ndimaksud pada ayat (1) harus membuat pernyataan \ntertulis atas kesanggupannya sebagai Trustee. \n(3) \nPenunjukan Bank sebagai Trustee dan penunjukan \nBeneficiary sebagaimana dimaksud pada ayat (1) serta \nhak dan kewajiban antara Bank dengan Settlor dan \nBeneficiary wajib dituangkan dalam perjanjian Trust \nsecara tertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penunjukan Bank sebagai Trustee dan penunjukan \nBeneficiary harus disampaikan secara tertulis oleh Settlor \nkepada Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nyang \nditunjuk \nsebagai \nTrustee \nsebagaimana \ndimaksud pada ayat (1) harus membuat pernyataan \ntertulis atas kesanggupannya sebagai Trustee."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penunjukan Bank sebagai Trustee dan penunjukan \nBeneficiary sebagaimana dimaksud pada ayat (1) serta \nhak dan kewajiban antara Bank dengan Settlor dan \nBeneficiary wajib dituangkan dalam perjanjian Trust \nsecara tertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERJANJIAN TRUST",
+      "teks_lengkap": "(1) \nPerjanjian Trust wajib disusun dalam Bahasa Indonesia. \n(2) \nPerjanjian Trust sebagaimana dimaksud pada ayat (1) \n\n\n \n \ndapat dialihbahasakan dalam bahasa lain sesuai dengan \nkepentingan para pihak. \n(3) \nDalam hal perjanjian Trust dialihbahasakan dalam \nbahasa lain, harus memuat informasi yang sama dengan \nperjanjian Trust yang disusun dalam Bahasa Indonesia. \n(4) \nDalam \nhal \nterdapat \nperbedaan \npenafsiran \nantara \nperjanjian Trust yang dialihbahasakan sebagaimana \ndimaksud \npada \nayat \n(2) \ndengan \nperjanjian \nTrust \nsebagaimana dimaksud pada ayat (1), perjanjian yang \nberlaku adalah perjanjian Trust yang disusun dalam \nbahasa Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perjanjian Trust wajib disusun dalam Bahasa Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perjanjian Trust sebagaimana dimaksud pada ayat (1) \n\n\n \n \ndapat dialihbahasakan dalam bahasa lain sesuai dengan \nkepentingan para pihak."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal perjanjian Trust dialihbahasakan dalam \nbahasa lain, harus memuat informasi yang sama dengan \nperjanjian Trust yang disusun dalam Bahasa Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nhal \nterdapat \nperbedaan \npenafsiran \nantara \nperjanjian Trust yang dialihbahasakan sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dengan \nperjanjian \nTrust \nsebagaimana dimaksud pada ayat (1), perjanjian yang \nberlaku adalah perjanjian Trust yang disusun dalam \nbahasa Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERJANJIAN TRUST",
+      "teks_lengkap": "Perjanjian Trust paling sedikit mencakup: \na. \npenunjukan Bank sebagai Trustee; \nb. \npenunjukan Beneficiary; \nc. \nhak dan kewajiban para pihak, yaitu Trustee, Settlor, dan \nBeneficiary; \nd. \nkewajiban Trustee untuk menjaga kerahasiaan data dan \ntransaksi \nSettlor \ndan \nBeneficiary, \nkecuali \nuntuk \nkepentingan pelaporan kepada Otoritas Jasa Keuangan; \ne. \nharta Trust tidak termasuk dalam harta pailit dan wajib \ndikembalikan kepada Settlor; \nf. \npencatatan harta Trust dilakukan secara terpisah dari \nharta Bank; \ng. \npembebasan \nTrustee \ndari \ntanggung \njawab \n(indemnification) \nterhadap \nkerugian, \nkecuali \nkarena \nkelalaian (negligence) dan pelanggaran (willful misconduct) \nyang dilakukan Trustee;  \nh. \nmekanisme penghentian perjanjian Trust; \ni. \npenunjukan trustee pengganti; \nj. \npenyelesaian sengketa;  \nk. \npilihan hukum (choice of law); \nl. \nyurisdiksi pengadilan apabila penyelesaian sengketa \nditempuh melalui jalur hukum; \nm. \nklausul \nyang \nmenyatakan \nbahwa \nkegiatan \nyang \ndiperjanjikan dalam perjanjian Trust adalah kegiatan \n\n\n \n \nTrust sebagaimana dimaksud dalam Peraturan Otoritas \nJasa Keuangan ini; \nn. \nklausul bahwa perubahan terhadap isi perjanjian hanya \ndapat dilakukan secara tertulis dan disepakati oleh para \npihak; \no. \ntidak \nbertujuan \nuntuk \npencucian \nuang \ndan/atau \nterorisme sebagaimana dimaksud dalam ketentuan dan \nperaturan \nperundang-undangan \nyang \nmengatur \nmengenai \nanti \npencucian \nuang \ndan \npencegahan \npendanaan terorisme; \np. \ntidak bertentangan dengan ketentuan dan peraturan \nperundang-undangan lainnya. \n \nBAB VI \nPERSETUJUAN PRINSIP DAN SURAT PENEGASAN \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Perjanjian Trust paling sedikit mencakup: \na. \npenunjukan Bank sebagai Trustee; \nb. \npenunjukan Beneficiary; \nc. \nhak dan kewajiban para pihak, yaitu Trustee, Settlor, dan \nBeneficiary; \nd. \nkewajiban Trustee untuk menjaga kerahasiaan data dan \ntransaksi \nSettlor \ndan \nBeneficiary, \nkecuali \nuntuk \nkepentingan pelaporan kepada Otoritas Jasa Keuangan; \ne. \nharta Trust tidak termasuk dalam harta pailit dan wajib \ndikembalikan kepada Settlor; \nf. \npencatatan harta Trust dilakukan secara terpisah dari \nharta Bank; \ng. \npembebasan \nTrustee \ndari \ntanggung \njawab \n(indemnification) \nterhadap \nkerugian, \nkecuali \nkarena \nkelalaian (negligence) dan pelanggaran (willful misconduct) \nyang dilakukan Trustee;  \nh. \nmekanisme penghentian perjanjian Trust; \ni. \npenunjukan trustee pengganti; \nj. \npenyelesaian sengketa;  \nk. \npilihan hukum (choice of law); \nl. \nyurisdiksi pengadilan apabila penyelesaian sengketa \nditempuh melalui jalur hukum; \nm. \nklausul \nyang \nmenyatakan \nbahwa \nkegiatan \nyang \ndiperjanjikan dalam perjanjian Trust adalah kegiatan \n\n\n \n \nTrust sebagaimana dimaksud dalam Peraturan Otoritas \nJasa Keuangan ini; \nn. \nklausul bahwa perubahan terhadap isi perjanjian hanya \ndapat dilakukan secara tertulis dan disepakati oleh para \npihak; \no. \ntidak \nbertujuan \nuntuk \npencucian \nuang \ndan/atau \nterorisme sebagaimana dimaksud dalam ketentuan dan \nperaturan \nperundang-undangan \nyang \nmengatur \nmengenai \nanti \npencucian \nuang \ndan \npencegahan \npendanaan terorisme; \np. \ntidak bertentangan dengan ketentuan dan peraturan \nperundang-undangan lainnya. \n \nBAB VI \nPERSETUJUAN PRINSIP DAN SURAT PENEGASAN \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN",
+      "teks_lengkap": "(1) \nBank yang melakukan kegiatan Trust wajib memperoleh \nizin Otoritas Jasa Keuangan. \n(2) Pemberian izin sebagaimana dimaksud pada ayat (1) \ndilakukan dalam 2 (dua) tahap: \na. \npersetujuan prinsip; dan \nb. \nsurat penegasan. \n \nBagian Kedua \nPersetujuan Prinsip",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang melakukan kegiatan Trust wajib memperoleh \nizin Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemberian izin sebagaimana dimaksud pada ayat (1) \ndilakukan dalam 2 (dua) tahap: \na. \npersetujuan prinsip; dan \nb. \nsurat penegasan. \n \nBagian Kedua \nPersetujuan Prinsip"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN",
+      "teks_lengkap": "Bank dapat mengajukan permohonan persetujuan prinsip \nsebagaimana dimaksud dalam Pasal 24 ayat (2) huruf a \nsetelah Bank memenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 15 atau Pasal 16.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank dapat mengajukan permohonan persetujuan prinsip \nsebagaimana dimaksud dalam Pasal 24 ayat (2) huruf a \nsetelah Bank memenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 15 atau Pasal 16."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN",
+      "teks_lengkap": "(1) \nPermohonan persetujuan prinsip sebagaimana dimaksud \ndalam Pasal 24 ayat (2) huruf a, diajukan oleh Bank \nsecara tertulis kepada Otoritas Jasa Keuangan.  \n(2) \nPermohonan persetujuan prinsip sebagaimana dimaksud \npada ayat (1) dilampiri dengan dokumen berupa:  \na. \ninformasi umum mengenai kegiatan Trust;  \nb. \nanalisis manfaat dan biaya bagi Bank; \nc. \nstandar prosedur pelaksanaan, organisasi, dan \nkewenangan untuk melaksanakan kegiatan Trust;  \nd. \nrencana kebijakan dan prosedur terkait dengan \npenerapan program anti pencucian uang dan \npencegahan pendanaan terorisme; \ne. \nidentifikasi, \npengukuran, \npemantauan, \ndan \npengendalian terhadap risiko yang melekat pada \nkegiatan Trust; \nf. \nhasil analisis aspek hukum dan aspek kepatuhan \natas kegiatan Trust; dan \ng. \nsistem informasi akuntansi dan sistem teknologi \ninformasi. \n(3) \nPersetujuan \natau \npenolakan \npersetujuan \nprinsip \nsebagaimana dimaksud pada ayat (1) disampaikan secara \ntertulis oleh Otoritas Jasa Keuangan kepada Bank paling \nlama 60 (enam puluh) hari kerja setelah dokumen \nsebagaimana dimaksud pada ayat (2) diterima secara \nlengkap oleh Otoritas Jasa Keuangan. \n \nBagian Ketiga \nSurat Penegasan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan persetujuan prinsip sebagaimana dimaksud \ndalam Pasal 24 ayat (2) huruf a, diajukan oleh Bank \nsecara tertulis kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan persetujuan prinsip sebagaimana dimaksud \npada ayat (1) dilampiri dengan dokumen berupa:  \na. \ninformasi umum mengenai kegiatan Trust;  \nb. \nanalisis manfaat dan biaya bagi Bank; \nc. \nstandar prosedur pelaksanaan, organisasi, dan \nkewenangan untuk melaksanakan kegiatan Trust;  \nd. \nrencana kebijakan dan prosedur terkait dengan \npenerapan program anti pencucian uang dan \npencegahan pendanaan terorisme; \ne. \nidentifikasi, \npengukuran, \npemantauan, \ndan \npengendalian terhadap risiko yang melekat pada \nkegiatan Trust; \nf. \nhasil analisis aspek hukum dan aspek kepatuhan \natas kegiatan Trust; dan \ng. \nsistem informasi akuntansi dan sistem teknologi \ninformasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan \natau \npenolakan \npersetujuan \nprinsip \nsebagaimana dimaksud pada ayat (1) disampaikan secara \ntertulis oleh Otoritas Jasa Keuangan kepada Bank paling \nlama 60 (enam puluh) hari kerja setelah dokumen \nsebagaimana dimaksud pada ayat (2) diterima secara \nlengkap oleh Otoritas Jasa Keuangan. \n \nBagian Ketiga \nSurat Penegasan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN",
+      "teks_lengkap": "(1) \nBank \nyang \ntelah \nmendapat \npersetujuan \nprinsip \nsebagaimana dimaksud dalam Pasal 24 ayat (2) huruf a \nmengajukan \npermohonan \nuntuk \nmemperoleh \nsurat \npenegasan sebagaimana dimaksud dalam Pasal 24 ayat \n(2) huruf b secara tertulis kepada Otoritas Jasa \nKeuangan. \n\n\n \n \n(2) \nPermohonan \nsecara \ntertulis \nkepada \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndisampaikan dengan melampirkan: \na. \nstruktur organisasi, pembagian kewenangan serta \ntanggung jawab pejabat yang menangani kegiatan \nTrust termasuk daftar penanggung jawab dan tenaga \nahli di bidang Trust;  \nb. \ndaftar pegawai dan pembagian kerja serta komposisi \npegawai lokal dan tenaga kerja asing, baik pada level \nmanajemen maupun operasional; dan \nc. \npenilaian tingkat risiko kegiatan Trust dan profil \nrisiko calon Settlor. \n(3) Persetujuan atau penolakan pemberian surat penegasan \nsebagaimana dimaksud pada ayat (1) disampaikan secara \ntertulis oleh Otoritas Jasa Keuangan kepada Bank paling \nlama 60 (enam puluh) hari kerja setelah dokumen \nsebagaimana dimaksud pada ayat (2) diterima secara \nlengkap oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \ntelah \nmendapat \npersetujuan \nprinsip \nsebagaimana dimaksud dalam Pasal 24 ayat (2) huruf a \nmengajukan \npermohonan \nuntuk \nmemperoleh \nsurat \npenegasan sebagaimana dimaksud dalam Pasal 24 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf b secara tertulis kepada Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan \nsecara \ntertulis \nkepada \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan dengan melampirkan: \na. \nstruktur organisasi, pembagian kewenangan serta \ntanggung jawab pejabat yang menangani kegiatan \nTrust termasuk daftar penanggung jawab dan tenaga \nahli di bidang Trust;  \nb. \ndaftar pegawai dan pembagian kerja serta komposisi \npegawai lokal dan tenaga kerja asing, baik pada level \nmanajemen maupun operasional; dan \nc. \npenilaian tingkat risiko kegiatan Trust dan profil \nrisiko calon Settlor."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan pemberian surat penegasan \nsebagaimana dimaksud pada ayat (1) disampaikan secara \ntertulis oleh Otoritas Jasa Keuangan kepada Bank paling \nlama 60 (enam puluh) hari kerja setelah dokumen \nsebagaimana dimaksud pada ayat (2) diterima secara \nlengkap oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN",
+      "teks_lengkap": "(1) \nSurat penegasan sebagaimana dimaksud dalam Pasal 24 \nayat (2) huruf b hanya berlaku untuk satu kantor. \n(2) \nDalam hal Bank akan melakukan kegiatan Trust di \nkantor lainnya, Bank wajib memperoleh surat penegasan \nsebagaimana dimaksud dalam Pasal 24 ayat (2) huruf b \ndari Otoritas Jasa Keuangan. \n(3) \nTata cara pengajuan permohonan surat penegasan untuk \nkegiatan Trust di kantor lainnya mengacu pada ketentuan \ndan persyaratan sebagaimana dimaksud dalam Pasal 27.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Surat penegasan sebagaimana dimaksud dalam Pasal 24 \nayat (2) huruf b hanya berlaku untuk satu kantor."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank akan melakukan kegiatan Trust di \nkantor lainnya, Bank wajib memperoleh surat penegasan \nsebagaimana dimaksud dalam Pasal 24 ayat (2) huruf b \ndari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Tata cara pengajuan permohonan surat penegasan untuk \nkegiatan Trust di kantor lainnya mengacu pada ketentuan \ndan persyaratan sebagaimana dimaksud dalam Pasal 27."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERSETUJUAN PRINSIP DAN SURAT PENEGASAN",
+      "teks_lengkap": "(1) Dalam \nhal \nBank \nyang \nmelakukan \nkegiatan \nTrust \nmelakukan merger atau konsolidasi, Bank hasil merger \natau konsolidasi wajib memenuhi persyaratan sebagai \nTrustee sebagaimana dimaksud dalam Pasal 15 atau \nPasal 16. \n \n\n\n \n \n(2) Dalam hal Bank hasil merger atau konsolidasi tidak \ndapat memenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 15 atau Pasal 16, Bank sebagai Trustee: \na. \ndilarang membuat perjanjian Trust baru;  \nb. \nwajib \nmenyelesaikan \npemenuhan \npersyaratan \nsebagaimana dimaksud  dalam Pasal 15 ayat (2) \natau Pasal 16 ayat (2) paling lama 6 (enam) bulan \nsejak hasil merger atau konsolidasi dinyatakan \nefektif; dan \nc. \nwajib mengembalikan harta Trust kepada Settlor \natau \nmengalihkan \nharta \nTrust \nkepada \ntrustee \npengganti yang ditunjuk oleh Settlor sesuai dengan \nperjanjian Trust, apabila Trustee tidak memenuhi \npersyaratan sebagaimana dimaksud pada huruf b. \n \nBAB VII \nMANAJEMEN RISIKO KEGIATAN TRUST \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nhal \nBank \nyang \nmelakukan \nkegiatan \nTrust \nmelakukan merger atau konsolidasi, Bank hasil merger \natau konsolidasi wajib memenuhi persyaratan sebagai \nTrustee sebagaimana dimaksud dalam Pasal 15 atau \nPasal 16."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank hasil merger atau konsolidasi tidak \ndapat memenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 15 atau Pasal 16, Bank sebagai Trustee: \na. \ndilarang membuat perjanjian Trust baru;  \nb. \nwajib \nmenyelesaikan \npemenuhan \npersyaratan \nsebagaimana dimaksud  dalam Pasal 15 ayat (2) \natau Pasal 16 ayat (2) paling lama 6 (enam) bulan \nsejak hasil merger atau konsolidasi dinyatakan \nefektif; dan \nc. \nwajib mengembalikan harta Trust kepada Settlor \natau \nmengalihkan \nharta \nTrust \nkepada \ntrustee \npengganti yang ditunjuk oleh Settlor sesuai dengan \nperjanjian Trust, apabila Trustee tidak memenuhi \npersyaratan sebagaimana dimaksud pada huruf b. \n \nBAB VII \nMANAJEMEN RISIKO KEGIATAN TRUST \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nDalam \nmelakukan \nkegiatan \nTrust, \nBank \nwajib \nmenerapkan manajemen risiko dengan berpedoman pada \nketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum. \n(2) \nPenerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi dan Dewan Komisaris serta \nDewan Pengawas Syariah; \nb. \nkecukupan kebijakan dan prosedur; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian risiko serta sistem \ninformasi manajemen risiko; dan  \nd. \nsistem pengendalian intern.  \n \n \n \n\n\n \n \nBagian Kedua \nPengawasan Aktif Direksi dan Dewan Komisaris  \nserta Dewan Pengawas Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelakukan \nkegiatan \nTrust, \nBank \nwajib \nmenerapkan manajemen risiko dengan berpedoman pada \nketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi dan Dewan Komisaris serta \nDewan Pengawas Syariah; \nb. \nkecukupan kebijakan dan prosedur; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian risiko serta sistem \ninformasi manajemen risiko; dan  \nd. \nsistem pengendalian intern.  \n \n \n \n\n\n \n \nBagian Kedua \nPengawasan Aktif Direksi dan Dewan Komisaris  \nserta Dewan Pengawas Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "Pengawasan aktif Direksi paling sedikit mencakup: \na. \npenetapan Rencana Bisnis Bank untuk kegiatan Trust;  \nb. \npenetapan kebijakan dan prosedur Bank untuk kegiatan \nTrust; dan  \nc. \npemantauan dan pengevaluasian kegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan aktif Direksi paling sedikit mencakup: \na. \npenetapan Rencana Bisnis Bank untuk kegiatan Trust;  \nb. \npenetapan kebijakan dan prosedur Bank untuk kegiatan \nTrust; dan  \nc. \npemantauan dan pengevaluasian kegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "Pengawasan aktif Dewan Komisaris paling sedikit mencakup: \na. \npersetujuan Dewan Komisaris atas Rencana Bisnis Bank \nuntuk melakukan kegiatan Trust; dan \nb. \nevaluasi pelaksanaan Rencana Bisnis Bank terkait \nkegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan aktif Dewan Komisaris paling sedikit mencakup: \na. \npersetujuan Dewan Komisaris atas Rencana Bisnis Bank \nuntuk melakukan kegiatan Trust; dan \nb. \nevaluasi pelaksanaan Rencana Bisnis Bank terkait \nkegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "Pengawasan aktif Dewan Pengawas Syariah paling sedikit \nmencakup:  \na. \nmemastikan kegiatan Trust sesuai prinsip syariah; dan \nb. \nmemastikan prosedur Bank untuk kegiatan Trust sesuai \nprinsip syariah. \n \nBagian Ketiga \nKecukupan Kebijakan dan Prosedur",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan aktif Dewan Pengawas Syariah paling sedikit \nmencakup:  \na. \nmemastikan kegiatan Trust sesuai prinsip syariah; dan \nb. \nmemastikan prosedur Bank untuk kegiatan Trust sesuai \nprinsip syariah. \n \nBagian Ketiga \nKecukupan Kebijakan dan Prosedur"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "(1) Bank \nwajib \nmemiliki \ndan \nmengimplementasikan \nkebijakan serta prosedur yang komprehensif dan efektif \nuntuk kegiatan Trust. \n(2) Kebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) paling sedikit mencakup: \na. \nkebijakan penilaian tingkat risiko kegiatan Trust; \nb. \nkebijakan sumber daya manusia untuk kegiatan \nTrust;  \n\n\n \n \nc. \nprosedur \npelaksanaan \nkegiatan \nTrust \nyang \nmencakup: \n1. \npenunjukan Bank sebagai Trustee; \n2. \npenilaian profil risiko Settlor yang paling sedikit \nmeliputi tujuan dan profil keuangan Settlor; \n3. \npernyataan kesanggupan Bank sebagai Trustee; \n4. \npenyusunan perjanjian Trust; \n5. \npelaksanaan kegiatan Trust yang berpedoman \npada perjanjian Trust; \nd. \nprosedur penyelesaian sengketa; dan \ne. \nprosedur untuk melakukan identifikasi, pengukuran, \npemantauan, \npengendalian \nrisiko, \ndan \nsistem \ninformasi untuk kegiatan Trust. \n \nBagian Keempat \nProses Identifikasi, Pengukuran, Pemantauan, Pengendalian, \ndan Sistem Informasi Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmemiliki \ndan \nmengimplementasikan \nkebijakan serta prosedur yang komprehensif dan efektif \nuntuk kegiatan Trust."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) paling sedikit mencakup: \na. \nkebijakan penilaian tingkat risiko kegiatan Trust; \nb. \nkebijakan sumber daya manusia untuk kegiatan \nTrust;  \n\n\n \n \nc. \nprosedur \npelaksanaan \nkegiatan \nTrust \nyang \nmencakup: \n1. \npenunjukan Bank sebagai Trustee; \n2. \npenilaian profil risiko Settlor yang paling sedikit \nmeliputi tujuan dan profil keuangan Settlor; \n3. \npernyataan kesanggupan Bank sebagai Trustee; \n4. \npenyusunan perjanjian Trust; \n5. \npelaksanaan kegiatan Trust yang berpedoman \npada perjanjian Trust; \nd. \nprosedur penyelesaian sengketa; dan \ne. \nprosedur untuk melakukan identifikasi, pengukuran, \npemantauan, \npengendalian \nrisiko, \ndan \nsistem \ninformasi untuk kegiatan Trust. \n \nBagian Keempat \nProses Identifikasi, Pengukuran, Pemantauan, Pengendalian, \ndan Sistem Informasi Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "(1) \nBank wajib melakukan proses identifikasi, pengukuran, \npemantauan, \ndan \npengendalian \natas \nrisiko \nuntuk \nKegiatan Trust. \n(2) \nPelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh sistem \ninformasi manajemen yang tepat waktu, informatif, dan \nakurat. \n \nBagian Kelima \nSistem Pengendalian Intern",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan proses identifikasi, pengukuran, \npemantauan, \ndan \npengendalian \natas \nrisiko \nuntuk \nKegiatan Trust."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh sistem \ninformasi manajemen yang tepat waktu, informatif, dan \nakurat. \n \nBagian Kelima \nSistem Pengendalian Intern"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "MANAJEMEN RISIKO KEGIATAN TRUST",
+      "teks_lengkap": "Bank wajib memiliki sistem pengendalian intern yang efektif. \n \n \n \n \n\n\n \n \nBAB VIII \nTRANSPARANSI INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib memiliki sistem pengendalian intern yang efektif. \n \n \n \n \n\n\n \n \nBAB VIII \nTRANSPARANSI INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TRANSPARANSI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib menerapkan transparansi informasi dalam \nmelakukan kegiatan Trust dengan berpedoman pada \nketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai \ntransparansi \ninformasi \nproduk \nyang \ndisesuaikan dengan karakteristik kegiatan Trust. \n(2) \nDalam menerapkan transparansi informasi sebagaimana \ndimaksud pada ayat (1) Bank wajib mengungkapkan \ninformasi yang lengkap, benar, dan tidak menyesatkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan transparansi informasi dalam \nmelakukan kegiatan Trust dengan berpedoman pada \nketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai \ntransparansi \ninformasi \nproduk \nyang \ndisesuaikan dengan karakteristik kegiatan Trust."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menerapkan transparansi informasi sebagaimana \ndimaksud pada ayat (1) Bank wajib mengungkapkan \ninformasi yang lengkap, benar, dan tidak menyesatkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TRANSPARANSI INFORMASI",
+      "teks_lengkap": "Informasi sebagaimana dimaksud dalam Pasal 37 ayat (2) \npaling sedikit mencakup: \na. \njenis-jenis transaksi yang dapat dilakukan oleh Bank \nsebagai Trustee;  \nb. \ntanggung jawab Bank terhadap risiko dan kerugian; dan \nc. \nfee atau ujroh dari kegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Informasi sebagaimana dimaksud dalam Pasal 37 ayat (2) \npaling sedikit mencakup: \na. \njenis-jenis transaksi yang dapat dilakukan oleh Bank \nsebagai Trustee;  \nb. \ntanggung jawab Bank terhadap risiko dan kerugian; dan \nc. \nfee atau ujroh dari kegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TRANSPARANSI INFORMASI",
+      "teks_lengkap": "Bank yang melakukan kegiatan Trust wajib memberikan \nlaporan tertulis secara berkala kepada Settlor mengenai \nkinerja Trustee dalam pengelolaan harta Trust. \n \nBAB IX \nLAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang melakukan kegiatan Trust wajib memberikan \nlaporan tertulis secara berkala kepada Settlor mengenai \nkinerja Trustee dalam pengelolaan harta Trust. \n \nBAB IX \nLAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) \nBank \nyang \nmelakukan \nkegiatan \nTrust \nwajib \nmenyampaikan laporan kegiatan Trust kepada Otoritas \nJasa Keuangan secara bulanan untuk kegiatan Trust \nyang dilakukan oleh setiap kantor Bank. \n(2) \nBank \nbertanggung \njawab \natas \nkelengkapan \ndan \nkebenaran laporan sebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmelakukan \nkegiatan \nTrust \nwajib \nmenyampaikan laporan kegiatan Trust kepada Otoritas \nJasa Keuangan secara bulanan untuk kegiatan Trust \nyang dilakukan oleh setiap kantor Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nbertanggung \njawab \natas \nkelengkapan \ndan \nkebenaran laporan sebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "Laporan kegiatan Trust sebagaimana dimaksud dalam Pasal \n40 mencakup informasi paling sedikit mengenai: \na. \nsumber daya manusia unit kerja Trustee; \nb. \nperjanjian Trust dan Settlor; \nc. \nkegiatan Trust; dan \nd. \nposisi aset dan kewajiban Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan kegiatan Trust sebagaimana dimaksud dalam Pasal \n40 mencakup informasi paling sedikit mengenai: \na. \nsumber daya manusia unit kerja Trustee; \nb. \nperjanjian Trust dan Settlor; \nc. \nkegiatan Trust; dan \nd. \nposisi aset dan kewajiban Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "Dalam hal diperlukan, Otoritas Jasa Keuangan berwenang \nmeminta informasi lain terkait kegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal diperlukan, Otoritas Jasa Keuangan berwenang \nmeminta informasi lain terkait kegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) \nLaporan kegiatan Trust sebagaimana dimaksud dalam \nPasal 40 disampaikan pertama kali pada akhir bulan \nsejak kantor Bank memperoleh surat penegasan dari \nOtoritas Jasa Keuangan untuk melakukan kegiatan \nTrust. \n(2) \nDalam hal tidak terdapat kegiatan Trust selama periode \npelaporan, Bank tetap wajib menyampaikan laporan \ndengan keterangan nihil.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan kegiatan Trust sebagaimana dimaksud dalam \nPasal 40 disampaikan pertama kali pada akhir bulan \nsejak kantor Bank memperoleh surat penegasan dari \nOtoritas Jasa Keuangan untuk melakukan kegiatan \nTrust."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal tidak terdapat kegiatan Trust selama periode \npelaporan, Bank tetap wajib menyampaikan laporan \ndengan keterangan nihil."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) Laporan kegiatan Trust disampaikan melalui surat yang \nditandatangani oleh pimpinan unit kerja Trustee dan \ndiketahui oleh pejabat yang membawahi unit kerja \nTrustee.  \n(2) Pengisian format laporan kegiatan Trust sebagaimana \ndimaksud dalam Pasal 41 mengacu pada Lampiran II \nPeraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan kegiatan Trust disampaikan melalui surat yang \nditandatangani oleh pimpinan unit kerja Trustee dan \ndiketahui oleh pejabat yang membawahi unit kerja \nTrustee."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengisian format laporan kegiatan Trust sebagaimana \ndimaksud dalam Pasal 41 mengacu pada Lampiran II \nPeraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "Laporan kegiatan Trust sebagaimana dimaksud dalam Pasal \n40 wajib disampaikan kepada Otoritas Jasa Keuangan paling \nlambat tanggal 15 (lima belas) pada bulan berikutnya setelah \nberakhirnya bulan laporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan kegiatan Trust sebagaimana dimaksud dalam Pasal \n40 wajib disampaikan kepada Otoritas Jasa Keuangan paling \nlambat tanggal 15 (lima belas) pada bulan berikutnya setelah \nberakhirnya bulan laporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) Bank \ndinyatakan \nterlambat \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 45, apabila Bank \nmenyampaikan laporan kegiatan Trust setelah batas akhir \nwaktu sebagaimana dimaksud dalam Pasal 45 sampai \ndengan akhir bulan berikutnya setelah berakhirnya bulan \nlaporan.  \n(2) Bank \ndinyatakan \ntidak \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 45, apabila Bank \nbelum menyampaikan laporan kegiatan Trust dalam \nkurun waktu keterlambatan sebagaimana dimaksud pada \nayat (1). \n \nBAB X \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \ndinyatakan \nterlambat \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 45, apabila Bank \nmenyampaikan laporan kegiatan Trust setelah batas akhir \nwaktu sebagaimana dimaksud dalam Pasal 45 sampai \ndengan akhir bulan berikutnya setelah berakhirnya bulan \nlaporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \ndinyatakan \ntidak \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 45, apabila Bank \nbelum menyampaikan laporan kegiatan Trust dalam \nkurun waktu keterlambatan sebagaimana dimaksud pada \nayat (1). \n \nBAB X \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2, Pasal 3, Pasal 4, Pasal 5       \nayat (2), Pasal 9, Pasal 11 ayat (1), Pasal 12, Pasal 13, \nPasal 15 ayat (2), Pasal 16 ayat (2), Pasal 17, Pasal 19 \nayat (1), Pasal 20 ayat (1), Pasal 21 ayat (3), Pasal 22  \nayat (1), Pasal 24 ayat (1), Pasal 28 ayat (2), Pasal 29, \nPasal 30 ayat (1), Pasal 34 ayat (1), Pasal 35, Pasal 36, \nPasal 37, Pasal 39, Pasal 40 ayat (1), Pasal 43 ayat (2), \ndan Pasal 45 dikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan Bank; \nc. \nlarangan kegiatan Trust; dan/atau \nd. \npencabutan persetujuan prinsip untuk melakukan \nkegiatan Trust. \n(2) \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 17 huruf b, dan Pasal 29 ayat (2) \nhuruf b dikenakan sanksi pencabutan persetujuan \nprinsip untuk melakukan kegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2, Pasal 3, Pasal 4, Pasal 5       \nayat (2), Pasal 9, Pasal 11 ayat (1), Pasal 12, Pasal 13, \nPasal 15 ayat (2), Pasal 16 ayat (2), Pasal 17, Pasal 19 \nayat (1), Pasal 20 ayat (1), Pasal 21 ayat (3), Pasal 22  \nayat (1), Pasal 24 ayat (1), Pasal 28 ayat (2), Pasal 29, \nPasal 30 ayat (1), Pasal 34 ayat (1), Pasal 35, Pasal 36, \nPasal 37, Pasal 39, Pasal 40 ayat (1), Pasal 43 ayat (2), \ndan Pasal 45 dikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan Bank; \nc. \nlarangan kegiatan Trust; dan/atau \nd. \npencabutan persetujuan prinsip untuk melakukan \nkegiatan Trust."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 17 huruf b, dan Pasal 29 ayat (2) \nhuruf b dikenakan sanksi pencabutan persetujuan \nprinsip untuk melakukan kegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nSelain sanksi sebagaimana dimaksud dalam Pasal 47, \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 45 dikenakan sanksi kewajiban \nmembayar berupa denda bagi: \na. \nBank \nyang \nterlambat \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 46 ayat (1) \ndikenakan sanksi kewajiban membayar berupa \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) per \nhari kerja keterlambatan; dan/atau \nb. \nBank yang dinyatakan tidak menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 46 ayat (2) \ndikenakan sanksi kewajiban membayar berupa \ndenda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah).  \n(2) \nPengenaan sanksi kewajiban membayar berupa denda \nsebagaimana dimaksud pada ayat (1) dilakukan dengan \ncara menyetor ke Rekening Otoritas Jasa Keuangan di \nbank umum. \n \nBAB XI \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Selain sanksi sebagaimana dimaksud dalam Pasal 47, \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 45 dikenakan sanksi kewajiban \nmembayar berupa denda bagi: \na. \nBank \nyang \nterlambat \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 46 ayat (1) \ndikenakan sanksi kewajiban membayar berupa \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) per \nhari kerja keterlambatan; dan/atau \nb. \nBank yang dinyatakan tidak menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 46 ayat (2) \ndikenakan sanksi kewajiban membayar berupa \ndenda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan sanksi kewajiban membayar berupa denda \nsebagaimana dimaksud pada ayat (1) dilakukan dengan \ncara menyetor ke Rekening Otoritas Jasa Keuangan di \nbank umum. \n \nBAB XI \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Bank yang dicabut izin usahanya atas permintaan Bank (self \nliquidation) atau yang dicabut izin usahanya oleh Otoritas \nJasa Keuangan, Bank atau Tim Likuidasi harus: \na. \nmengembalikan harta Trust kepada Settlor; atau \nb. \nmengalihkan harta Trust kepada trustee pengganti, \nsesuai dengan perjanjian Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang dicabut izin usahanya atas permintaan Bank (self \nliquidation) atau yang dicabut izin usahanya oleh Otoritas \nJasa Keuangan, Bank atau Tim Likuidasi harus: \na. \nmengembalikan harta Trust kepada Settlor; atau \nb. \nmengalihkan harta Trust kepada trustee pengganti, \nsesuai dengan perjanjian Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Bank menyampaikan:  \na. \npermohonan persetujuan prinsip dan permohonan surat \npenegasan sebagaimana dimaksud dalam Pasal 25 dan \nPasal 27;  \n \n\n\n \n \nb. \nlaporan kegiatan Trust sebagaimana dimaksud dalam \nPasal 40,  \n \n \nkepada Otoritas Jasa Keuangan melalui: \n1) \nDepartemen Pengawasan Bank terkait, Departemen \nPerbankan Syariah atau Kantor Regional 1 Jabodetabek, \nBanten, Lampung, dan Kalimantan, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank yang \nberkedudukan di luar negeri yang berada di wilayah \nJakarta, \nBogor, \nDepok, \nTangerang, \ndan \nBekasi \n(Jabodetabek) serta Provinsi Banten; atau \n2) \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat, bagi Bank yang \nberkantor pusat di luar wilayah Jakarta, Bogor, Depok, \nTangerang, dan Bekasi (Jabodetabek) serta Provinsi \nBanten. \n \nBAB XII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank menyampaikan:  \na. \npermohonan persetujuan prinsip dan permohonan surat \npenegasan sebagaimana dimaksud dalam Pasal 25 dan \nPasal 27;  \n \n\n\n \n \nb. \nlaporan kegiatan Trust sebagaimana dimaksud dalam \nPasal 40,  \n \n \nkepada Otoritas Jasa Keuangan melalui: \n1) \nDepartemen Pengawasan Bank terkait, Departemen \nPerbankan Syariah atau Kantor Regional 1 Jabodetabek, \nBanten, Lampung, dan Kalimantan, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank yang \nberkedudukan di luar negeri yang berada di wilayah \nJakarta, \nBogor, \nDepok, \nTangerang, \ndan \nBekasi \n(Jabodetabek) serta Provinsi Banten; atau \n2) \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat, bagi Bank yang \nberkantor pusat di luar wilayah Jakarta, Bogor, Depok, \nTangerang, dan Bekasi (Jabodetabek) serta Provinsi \nBanten. \n \nBAB XII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \n1. \nPeraturan \nBank \nIndonesia \nNomor \n14/17/PBI/2012 \ntanggal 23 November 2012 tentang Kegiatan Usaha Bank \nberupa Penitipan dengan Pengelolaan (Trust); dan \n2. \nSurat Edaran Bank Indonesia Nomor 15/10/DPNP \ntanggal \nMaret \nperihal \nLaporan \nKegiatan \nPenitipan dengan Pengelolaan (Trust) Bank Umum yang \nDisampaikan kepada Bank Indonesia, \ndicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \n1. \nPeraturan \nBank \nIndonesia \nNomor \n14/17/PBI/2012 \ntanggal 23 November 2012 tentang Kegiatan Usaha Bank \nberupa Penitipan dengan Pengelolaan (Trust); dan \n2. \nSurat Edaran Bank Indonesia Nomor 15/10/DPNP \ntanggal \nMaret \nperihal \nLaporan \nKegiatan \nPenitipan dengan Pengelolaan (Trust) Bank Umum yang \nDisampaikan kepada Bank Indonesia, \ndicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku sejak \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \n \n \n \nDitetapkan di Jakarta      \n \n \n \nPada tanggal   4 Desember 2015 \n \n \n \n \nKETUA DEWAN KOMISIONER  \n \n \n \nOTORITAS JASA KEUANGAN \n \n                                                      ttd \n \n \n \n \nMULIAMAN D. HADAD \n \n \nDiundangkan di Jakarta \nPada tanggal   11 Desember 2015 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 293\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nSudarmaji \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  27 /POJK.03/2015 \nTENTANG \nKEGIATAN USAHA BANK BERUPA PENITIPAN  \nDENGAN PENGELOLAAN (TRUST)  \n \nI. \nUMUM \nSehubungan dengan terjadinya perlambatan pertumbuhan ekonomi \nyang berpotensi mengganggu stabilitas sistem keuangan maka diperlukan \nadanya kebijakan untuk menstimulus pertumbuhan perekonomian \nnasional. Oleh karena itu diperlukan kebijakan yang dapat mendorong \npelaku ekonomi dalam mengelola dana khususnya yang berbentuk valuta \nasing yang dimilikinya dengan menggunakan jasa dan keahlian \nperbankan di dalam negeri. Kebijakan tersebut juga ditujukan untuk \nmendorong pendalaman pasar keuangan domestik.  \nSejalan dengan hal tersebut diperlukan upaya untuk meningkatkan \nperan serta perbankan antara lain melalui kebijakan terkait dengan \npengelolaan dana yang dimiliki oleh pelaku ekonomi khususnya yang \nberbentuk valuta asing. \nKebijakan pengelolaan dana valuta asing dapat dilakukan melalui \nkegiatan usaha Bank berupa penitipan dengan pengelolaan (Trust) yang \nditujukan untuk mendukung peningkatan daya saing perbankan di dalam \nnegeri dan meningkatkan pasokan valuta asing yang berkesinambungan. \nSehubungan dengan pertimbangan di atas, diperlukan kebijakan \nmengenai Kegiatan Usaha Bank berupa Penitipan dengan Pengelolaan \n(Trust) dalam suatu Peraturan Otoritas Jasa Keuangan. \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku sejak \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \n \n \n \nDitetapkan di Jakarta      \n \n \n \nPada tanggal   4 Desember 2015 \n \n \n \n \nKETUA DEWAN KOMISIONER  \n \n \n \nOTORITAS JASA KEUANGAN \n \n                                                      ttd \n \n \n \n \nMULIAMAN D. HADAD \n \n \nDiundangkan di Jakarta \nPada tanggal   11 Desember 2015 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 293\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nSudarmaji \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  27 /POJK.03/2015 \nTENTANG \nKEGIATAN USAHA BANK BERUPA PENITIPAN  \nDENGAN PENGELOLAAN (TRUST)  \n \nI. \nUMUM \nSehubungan dengan terjadinya perlambatan pertumbuhan ekonomi \nyang berpotensi mengganggu stabilitas sistem keuangan maka diperlukan \nadanya kebijakan untuk menstimulus pertumbuhan perekonomian \nnasional. Oleh karena itu diperlukan kebijakan yang dapat mendorong \npelaku ekonomi dalam mengelola dana khususnya yang berbentuk valuta \nasing yang dimilikinya dengan menggunakan jasa dan keahlian \nperbankan di dalam negeri. Kebijakan tersebut juga ditujukan untuk \nmendorong pendalaman pasar keuangan domestik.  \nSejalan dengan hal tersebut diperlukan upaya untuk meningkatkan \nperan serta perbankan antara lain melalui kebijakan terkait dengan \npengelolaan dana yang dimiliki oleh pelaku ekonomi khususnya yang \nberbentuk valuta asing. \nKebijakan pengelolaan dana valuta asing dapat dilakukan melalui \nkegiatan usaha Bank berupa penitipan dengan pengelolaan (Trust) yang \nditujukan untuk mendukung peningkatan daya saing perbankan di dalam \nnegeri dan meningkatkan pasokan valuta asing yang berkesinambungan. \nSehubungan dengan pertimbangan di atas, diperlukan kebijakan \nmengenai Kegiatan Usaha Bank berupa Penitipan dengan Pengelolaan \n(Trust) dalam suatu Peraturan Otoritas Jasa Keuangan. \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang \ndimaksud \ndengan \nmematuhi \nketentuan \ndan \nperaturan \nperundang-undangan yang mengatur mengenai penerapan anti \npencucian uang dan pencegahan pendanaan terorisme antara lain \nTrustee harus melakukan: \na. \nCustomer Due Dilligence; \nb. \nEnhanced Due Dilligence; dan/atau \nc. \npelaporan transaksi keuangan mencurigakan, \nuntuk memastikan harta Trust tidak berasal dari kejahatan dan/atau \ntidak bertujuan untuk pencucian uang dan pendanaan terorisme.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang \ndimaksud \ndengan \nmematuhi \nketentuan \ndan \nperaturan \nperundang-undangan yang mengatur mengenai penerapan anti \npencucian uang dan pencegahan pendanaan terorisme antara lain \nTrustee harus melakukan: \na. \nCustomer Due Dilligence; \nb. \nEnhanced Due Dilligence; dan/atau \nc. \npelaporan transaksi keuangan mencurigakan, \nuntuk memastikan harta Trust tidak berasal dari kejahatan dan/atau \ntidak bertujuan untuk pencucian uang dan pendanaan terorisme."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “aset keuangan” adalah aset berupa \ndana, tagihan dan/atau surat berharga.  \nHuruf c \nCukup jelas. \nHuruf d \nKetentuan ini menegaskan bahwa dalam kegiatan \nTrust \nmengikuti  bankruptcy remote. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “aset keuangan” adalah aset berupa \ndana, tagihan dan/atau surat berharga.  \nHuruf c \nCukup jelas. \nHuruf d \nKetentuan ini menegaskan bahwa dalam kegiatan \nTrust \nmengikuti  bankruptcy remote. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nHuruf a  \nYang dimaksud dengan “agen pembayar (paying agent)” \nadalah kegiatan menerima dan melakukan pemindahan \nuang dan/atau dana, serta mencatat arus kas masuk dan \nkeluar untuk dan atas nama Settlor. \nHuruf b \nYang dimaksud dengan “agen investasi dana secara \nkonvensional dan/atau investasi dana berdasarkan prinsip \nsyariah” adalah kegiatan menempatkan, mengkonversi, \nmelakukan \nlindung \nnilai \n(hedging), \ndan \nmengadministrasikan penempatan dana untuk dan atas \nnama Settlor. \nHuruf c \nYang \ndimaksud \ndengan \n“agen \npeminjaman \nsecara \nkonvensional (borrowing agent) dan/atau agen pembiayaan \nberdasarkan prinsip syariah” adalah kegiatan perantara \ndalam rangka mendapatkan sumber-sumber pendanaan \nantara lain dalam bentuk pinjaman atau pembiayaan. \nAyat (2)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nHuruf a  \nYang dimaksud dengan “agen pembayar (paying agent)” \nadalah kegiatan menerima dan melakukan pemindahan \nuang dan/atau dana, serta mencatat arus kas masuk dan \nkeluar untuk dan atas nama Settlor. \nHuruf b \nYang dimaksud dengan “agen investasi dana secara \nkonvensional dan/atau investasi dana berdasarkan prinsip \nsyariah” adalah kegiatan menempatkan, mengkonversi, \nmelakukan \nlindung \nnilai \n(hedging), \ndan \nmengadministrasikan penempatan dana untuk dan atas \nnama Settlor. \nHuruf c \nYang \ndimaksud \ndengan \n“agen \npeminjaman \nsecara \nkonvensional (borrowing agent) dan/atau agen pembiayaan \nberdasarkan prinsip syariah” adalah kegiatan perantara \ndalam rangka mendapatkan sumber-sumber pendanaan \nantara lain dalam bentuk pinjaman atau pembiayaan. \nAyat (2)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nInstruksi tertulis yang jelas dan rinci memuat antara lain: \na. \njenis mata uang;  \nb. \njenis/instrumen penempatan; \nc. \njangka waktu; \nd. \njumlah nominal;  \ne. \ncounterparty;  \nf. \ncounterparty limit; \ng. \npenjamin; dan/atau \nh. \nperingkat instrumen investasi. \n\n\n \n \nAyat (2)  \nYang dimaksud dengan peraturan perundang-undangan antara \nlain \nUndang-Undang \ntentang \nPerbankan, \nUndang-Undang \ntentang Perbankan Syariah, dan Undang-Undang tentang Pasar \nModal. \nYang dimaksud dengan “manajer investasi” adalah pihak yang \nkegiatan usahanya mengelola portofolio efek untuk para \nnasabah atau mengelola portofolio investasi kolektif untuk \nsekelompok nasabah, sebagaimana dimaksud dalam Undang-\nUndang tentang Pasar Modal. \nAyat (3) \nCukup jelas.  \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nInstruksi tertulis yang jelas dan rinci memuat antara lain: \na. \njenis mata uang;  \nb. \njenis/instrumen penempatan; \nc. \njangka waktu; \nd. \njumlah nominal;  \ne. \ncounterparty;  \nf. \ncounterparty limit; \ng. \npenjamin; dan/atau \nh. \nperingkat instrumen investasi. \n\n\n \n \nAyat (2)  \nYang dimaksud dengan peraturan perundang-undangan antara \nlain \nUndang-Undang \ntentang \nPerbankan, \nUndang-Undang \ntentang Perbankan Syariah, dan Undang-Undang tentang Pasar \nModal. \nYang dimaksud dengan “manajer investasi” adalah pihak yang \nkegiatan usahanya mengelola portofolio efek untuk para \nnasabah atau mengelola portofolio investasi kolektif untuk \nsekelompok nasabah, sebagaimana dimaksud dalam Undang-\nUndang tentang Pasar Modal. \nAyat (3) \nCukup jelas.  \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Bagi Bank Umum Syariah yang melakukan kegiatan Trust, hanya \ndapat bertindak sebagai agen pembiayaan berdasarkan prinsip \nsyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi Bank Umum Syariah yang melakukan kegiatan Trust, hanya \ndapat bertindak sebagai agen pembiayaan berdasarkan prinsip \nsyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Bagi Bank Umum Syariah yang melakukan kegiatan Trust, fee atau \nujroh disesuaikan dengan akad yang digunakan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi Bank Umum Syariah yang melakukan kegiatan Trust, fee atau \nujroh disesuaikan dengan akad yang digunakan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPencatatan kegiatan Trust yang terpisah dari pembukuan Bank \ndilakukan termasuk untuk rincian masing-masing kegiatan \nTrust. \nAyat (2) \n \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPencatatan kegiatan Trust yang terpisah dari pembukuan Bank \ndilakukan termasuk untuk rincian masing-masing kegiatan \nTrust. \nAyat (2) \n \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nPenggunaan rekening pada bank di dalam negeri antara lain \nuntuk menerima seluruh pendapatan, membayarkan seluruh \nkewajiban Settlor, dan/atau pemindahan dana dari rekening \nSettlor kepada Beneficiary. \nAyat (2)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nPenggunaan rekening pada bank di dalam negeri antara lain \nuntuk menerima seluruh pendapatan, membayarkan seluruh \nkewajiban Settlor, dan/atau pemindahan dana dari rekening \nSettlor kepada Beneficiary. \nAyat (2)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nYang dimaksud dengan “auditor ekstern” adalah kantor akuntan \npublik yang terdaftar di Otoritas Jasa Keuangan. \nAyat (2)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nYang dimaksud dengan “auditor ekstern” adalah kantor akuntan \npublik yang terdaftar di Otoritas Jasa Keuangan. \nAyat (2)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nHuruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “Peringkat Komposit 2” adalah \nsebagaimana dalam ketentuan yang mengatur mengenai \npenilaian tingkat kesehatan Bank Umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nHuruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “Peringkat Komposit 2” adalah \nsebagaimana dalam ketentuan yang mengatur mengenai \npenilaian tingkat kesehatan Bank Umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \n \n \n\n\n \n \nAyat (2)  \nHuruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “Peringkat Komposit 2” adalah \nsebagaimana dalam ketentuan yang mengatur mengenai \npenilaian tingkat kesehatan Bank Umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \n \n \n\n\n \n \nAyat (2)  \nHuruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “Peringkat Komposit 2” adalah \nsebagaimana dalam ketentuan yang mengatur mengenai \npenilaian tingkat kesehatan Bank Umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan tindakan pengawasan Bank antara lain \nadalah Cease and Desist Order (CDO).  \nHuruf c \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan tindakan pengawasan Bank antara lain \nadalah Cease and Desist Order (CDO).  \nHuruf c \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nYang dimaksud dengan kebijakan sumber daya manusia yang \nmengelola unit kerja Trustee antara lain berupa penentuan \npersyaratan dan kualifikasi sumber daya manusia untuk \nkegiatan Trust. \nAyat (2) \nCukup jelas.  \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “pegawai Bank” adalah pegawai tetap \nBank. \nAyat (5) \nIntegritas antara lain memiliki akhlak dan moral yang baik, yang \n\n\n \n \nditunjukkan dengan sikap memenuhi ketentuan yang berlaku, \ntermasuk tidak pernah dihukum karena terbukti melakukan \ntindak pidana asal yang disebutkan dalam Undang-Undang \ntentang \nPencegahan \ndan \nPemberantasan \nTindak \nPidana \nPencucian Uang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nYang dimaksud dengan kebijakan sumber daya manusia yang \nmengelola unit kerja Trustee antara lain berupa penentuan \npersyaratan dan kualifikasi sumber daya manusia untuk \nkegiatan Trust. \nAyat (2) \nCukup jelas.  \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “pegawai Bank” adalah pegawai tetap \nBank. \nAyat (5) \nIntegritas antara lain memiliki akhlak dan moral yang baik, yang \n\n\n \n \nditunjukkan dengan sikap memenuhi ketentuan yang berlaku, \ntermasuk tidak pernah dihukum karena terbukti melakukan \ntindak pidana asal yang disebutkan dalam Undang-Undang \ntentang \nPencegahan \ndan \nPemberantasan \nTindak \nPidana \nPencucian Uang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nHuruf a  \nCukup jelas. \nHuruf b  \nYang dimaksud dengan “pihak terafiliasi” adalah pihak \nterafiliasi sebagaimana dimaksud dalam Undang-Undang \ntentang Perbankan dan Undang-Undang tentang Perbankan \nSyariah. \nAyat (2)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nHuruf a  \nCukup jelas. \nHuruf b  \nYang dimaksud dengan “pihak terafiliasi” adalah pihak \nterafiliasi sebagaimana dimaksud dalam Undang-Undang \ntentang Perbankan dan Undang-Undang tentang Perbankan \nSyariah. \nAyat (2)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \n\n\n \n \nHuruf g \nCukup jelas. \nHuruf h \nCukup jelas. \nHuruf i \nPenunjukan trustee pengganti dengan trustee lain dilakukan \nantara lain dalam hal Bank dicabut izin usahanya oleh Otoritas \nJasa Keuangan atau penutupan Bank atas kemauan sendiri (self \nliquidation) \natau \ndicabut \npersetujuan \nprinsipnya \nuntuk \nmelakukan kegiatan Trust. \nHuruf j \nCukup jelas. \nHuruf k \nCukup jelas. \nHuruf l \nCukup jelas. \nHuruf m \nCukup jelas. \nHuruf n \nCukup jelas. \nHuruf o \nCukup jelas. \nHuruf p \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \n\n\n \n \nHuruf g \nCukup jelas. \nHuruf h \nCukup jelas. \nHuruf i \nPenunjukan trustee pengganti dengan trustee lain dilakukan \nantara lain dalam hal Bank dicabut izin usahanya oleh Otoritas \nJasa Keuangan atau penutupan Bank atas kemauan sendiri (self \nliquidation) \natau \ndicabut \npersetujuan \nprinsipnya \nuntuk \nmelakukan kegiatan Trust. \nHuruf j \nCukup jelas. \nHuruf k \nCukup jelas. \nHuruf l \nCukup jelas. \nHuruf m \nCukup jelas. \nHuruf n \nCukup jelas. \nHuruf o \nCukup jelas. \nHuruf p \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nPersetujuan prinsip sebagaimana dimaksud dalam Pasal ini \nbertujuan untuk menilai \nkelengkapan dokumen dan \nkesiapan Bank dalam melakukan kegiatan Trust. \nHuruf b \nSurat penegasan yang diberikan oleh Otoritas Jasa \nKeuangan bersifat administratif yang didasarkan pada \nanalisis \nterhadap \nkelengkapan \ndata, \ninformasi, \ndan \n\n\n \n \ndokumen yang disampaikan oleh Bank untuk menilai \nkesiapan operasional dalam melakukan kegiatan Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nPersetujuan prinsip sebagaimana dimaksud dalam Pasal ini \nbertujuan untuk menilai \nkelengkapan dokumen dan \nkesiapan Bank dalam melakukan kegiatan Trust. \nHuruf b \nSurat penegasan yang diberikan oleh Otoritas Jasa \nKeuangan bersifat administratif yang didasarkan pada \nanalisis \nterhadap \nkelengkapan \ndata, \ninformasi, \ndan \n\n\n \n \ndokumen yang disampaikan oleh Bank untuk menilai \nkesiapan operasional dalam melakukan kegiatan Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nInformasi umum mengenai kegiatan Trust antara lain \nmeliputi rencana waktu pelaksanaan dan target pasar.  \nHuruf b \n  \nCukup jelas. \nHuruf c \n  \nCukup jelas. \nHuruf d \n  \nCukup jelas. \nHuruf e \n  \nCukup jelas. \nHuruf f \n  \nCukup jelas. \nHuruf g \n  \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nInformasi umum mengenai kegiatan Trust antara lain \nmeliputi rencana waktu pelaksanaan dan target pasar.  \nHuruf b \n  \nCukup jelas. \nHuruf c \n  \nCukup jelas. \nHuruf d \n  \nCukup jelas. \nHuruf e \n  \nCukup jelas. \nHuruf f \n  \nCukup jelas. \nHuruf g \n  \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a  \nCukup jelas. \nHuruf b  \nPenyampaian daftar pegawai disertai dengan dokumen \nantara lain: \n\n\n \n \n1. \ndaftar riwayat hidup; \n2. \nfotokopi Kartu Tanda Penduduk; \n \n3. \nfotokopi bukti kewarganegaraan bagi Warga Negara \nAsing; dan \n4. \nfotokopi Izin Kerja Tenaga Asing bagi Warga Negara \nAsing. \nHuruf c \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a  \nCukup jelas. \nHuruf b  \nPenyampaian daftar pegawai disertai dengan dokumen \nantara lain: \n\n\n \n \n1. \ndaftar riwayat hidup; \n2. \nfotokopi Kartu Tanda Penduduk; \n \n3. \nfotokopi bukti kewarganegaraan bagi Warga Negara \nAsing; dan \n4. \nfotokopi Izin Kerja Tenaga Asing bagi Warga Negara \nAsing. \nHuruf c \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPersetujuan Dewan Komisaris dapat tercermin dalam Rencana \nBisnis Bank yang telah ditandatangani Komisaris. \nHuruf b \nEvaluasi atas pelaksanaan Rencana Bisnis Bank terkait kegiatan \nTrust antara lain dituangkan dalam risalah rapat Dewan \nKomisaris atau laporan pengawasan Rencana Bisnis Bank \nsebagaimana diatur dalam ketentuan Otoritas Jasa Keuangan \nmengenai Rencana Bisnis Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPersetujuan Dewan Komisaris dapat tercermin dalam Rencana \nBisnis Bank yang telah ditandatangani Komisaris. \nHuruf b \nEvaluasi atas pelaksanaan Rencana Bisnis Bank terkait kegiatan \nTrust antara lain dituangkan dalam risalah rapat Dewan \nKomisaris atau laporan pengawasan Rencana Bisnis Bank \nsebagaimana diatur dalam ketentuan Otoritas Jasa Keuangan \nmengenai Rencana Bisnis Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pelaksanaan sistem pengendalian intern yang efektif antara lain \ndibuktikan dengan: \na. \nadanya batasan wewenang dan tanggung jawab satuan kerja \nuntuk kegiatan Trust; \nb. \ndilakukannya pemeriksaan oleh satuan kerja audit intern. \nPenetapan batasan wewenang dan tanggung jawab satuan kerja \nterkait dengan kegiatan Trust dituangkan dalam kebijakan dan \nprosedur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelaksanaan sistem pengendalian intern yang efektif antara lain \ndibuktikan dengan: \na. \nadanya batasan wewenang dan tanggung jawab satuan kerja \nuntuk kegiatan Trust; \nb. \ndilakukannya pemeriksaan oleh satuan kerja audit intern. \nPenetapan batasan wewenang dan tanggung jawab satuan kerja \nterkait dengan kegiatan Trust dituangkan dalam kebijakan dan \nprosedur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTransparansi \ninformasi \nbertujuan \nagar \nSettlor \ndan/atau \nBeneficiary memperoleh informasi yang memadai mengenai \nkegiatan Trust. \nAyat (2)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTransparansi \ninformasi \nbertujuan \nagar \nSettlor \ndan/atau \nBeneficiary memperoleh informasi yang memadai mengenai \nkegiatan Trust. \nAyat (2)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Frekuensi laporan tertulis secara berkala yang disampaikan Bank \nkepada Settlor diatur dalam perjanjian Trust.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Frekuensi laporan tertulis secara berkala yang disampaikan Bank \nkepada Settlor diatur dalam perjanjian Trust."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nInformasi umum mengenai sumber daya manusia unit kerja \n\n\n \n \nTrustee antara lain memuat: \n1) \nJumlah pimpinan unit kerja Trustee; \nInformasi \nmengenai \npimpinan \nunit \nkerja \nTrustee \ndisampaikan berikut informasi status pegawai, yang berupa \npegawai tetap atau tidak tetap dan Warga Negara Indonesia \natau tenaga kerja asing.  \n2) \nJumlah pejabat satu tingkat di bawah pimpinan unit kerja \nTrustee; \nInformasi mengenai pejabat satu tingkat dibawah pimpinan \nunit kerja Trustee disampaikan berikut informasi status \npegawai, yang berupa pegawai tetap atau tidak tetap dan \nWarga Negara Indonesia atau tenaga kerja asing.  \n3) \nJumlah sumber daya manusia lainnya; \nInformasi \nmengenai \nsumber \ndaya \nmanusia \nlainnya \ndisampaikan berikut informasi status pegawai, yang berupa \npegawai tetap atau tidak tetap dan Warga Negara Indonesia \natau tenaga kerja asing; dan \n4) \nNama pemimpin unit kerja Trustee serta nama penanggung \njawab penyusun laporan kegiatan Trust berikut nomor \ntelepon, nomor faksimili, dan alamat surat elektronik \nmasing-masing pihak dimaksud. \nInformasi pada angka 1) dan 2) disampaikan untuk unit kerja \nTrustee pada setiap kantor Bank: \n1) \nsetelah Bank menerima surat penegasan dari Otoritas Jasa \nKeuangan \nuntuk \nmelakukan \nkegiatan \nTrust \nyang \ndisampaikan bersamaan dengan penyampaian laporan \nkegiatan Trust bulanan yang pertama kali disampaikan \nkepada Otoritas Jasa Keuangan; dan  \n2) \ndalam hal terdapat perubahan sumber daya manusia. \nFormat penyampaian informasi umum mengenai sumber daya \nmanusia unit kerja Trustee mengacu pada Formulir 1-Sumber \nDaya Manusia dalam Lampiran I Peraturan Otoritas Jasa \nKeuangan ini. \nHuruf b \nInformasi umum mengenai perjanjian Trust antara lain meliputi \nnomor, tanggal penandatanganan dan tanggal berakhirnya \nperjanjian, jenis kegiatan Trust, sandi sektor ekonomi, dan sandi \n\n\n \n \nperjanjian Trust. \nPengelompokan \nsandi \nsektor \nekonomi \ndilakukan \nsesuai \nketentuan yang mengatur mengenai laporan bulanan bank \numum. \nInformasi umum mengenai Settlor antara lain meliputi nama, \nnomor pokok wajib pajak (NPWP), dan sandi negara. \nSandi negara meliputi sandi negara residensial yang mengacu \npada negara residen dan sandi negara nasionalitas yang \nmengacu pada pemegang saham utama. \nPengelompokan sandi negara dilakukan sesuai ketentuan yang \nmengatur mengenai laporan bulanan bank umum. \nInformasi \numum \nmengenai \nperjanjian \nTrust \ndan \nSettlor  \ndisampaikan: \n1) \nsetelah Bank menerima surat penegasan dari Otoritas Jasa \nKeuangan \nuntuk \nmelakukan \nkegiatan \nTrust \nyang \ndisampaikan bersamaan dengan penyampaian laporan \nkegiatan Trust bulanan yang pertama kali disampaikan \nkepada Otoritas Jasa Keuangan; dan \n2) \ndalam hal terdapat perubahan perjanjian antara Trust dan \nSettlor. \nInformasi disampaikan Bank untuk unit kerja Trustee pada \nsetiap kantor Bank.  \nFormat penyampaian informasi umum mengenai perjanjian Trust \ndan Settlor mengacu pada Formulir 2-Daftar Perjanjian antara \nTrust dan Settlor dalam Lampiran I Peraturan Otoritas Jasa \nKeuangan ini.  \nHuruf c \nInformasi umum mengenai kegiatan Trust memuat rincian \nkegiatan Trust, yaitu: \n1) \nPenerimaan dana, yang terdiri atas: \na) \nsetoran dana; \nb) \nhasil penjualan atau devisa hasil ekspor; \nc) \npokok investasi; \nd) \nimbal hasil investasi; \ne) \nutang atau pembiayaan yang diterima; dan \nf) \nlain-lain. \n \n\n\n \n \n2) \nPengeluaran dana, yang terdiri atas:  \na) \npembayaran pajak; \nb) \npembayaran pada supplier atau vendor; \nc) \npembayaran pada Beneficiary, yang terdiri atas: \n(1) \npemerintah; \n(2) \nSettlor sebagai Beneficiary; dan \n(3) \nlainnya. \nd) \nInvestasi, yang terdiri atas: \n(1) \ninvestasi yang dilakukan oleh Trustee; dan \n(2) \ninvestasi \nyang \ndilakukan \nmelalui \nmanajer \ninvestasi. \ne) \nPembayaran utang atau pembiayaan yang diterima, \nyang terdiri atas: \n(1) \npokok utang atau pembiayaan yang diterima; dan \n(2) \nbunga utang atau imbal hasil pembiayaan yang \nditerima. \nf) \nfee atau ujroh kepada Trustee; dan \ng) \nlain-lain.  \n3) \nSelisih antara penerimaan dan pengeluaran. \nPencatatan nilai nominal kegiatan Trust disajikan dalam valuta \nasal dan nilai konversi dalam Rupiah. Tata cara pencatatan \nkegiatan Trust mengacu pada Standar Akuntansi yang berlaku. \nFormat Penyampaian Informasi umum mengenai kegiatan Trust \nmemuat rincian kegiatan Trust dibuat untuk setiap perjanjian \nTrust dengan mengacu pada Formulir 3–Rincian Kegiatan Trust \ndalam Lampiran I dan seluruh perjanjian Trust dengan mengacu \npada Formulir 4–Rekapitulasi Kegiatan Trust dalam Lampiran I \nPeraturan Otoritas Jasa Keuangan ini. \nHuruf d \nInformasi umum mengenai posisi aset dan kewajiban Trust \nantara lain memuat: \n1) \nInformasi posisi aset Trust terdiri atas: \na) \ngiro; \nb) \ninvestasi yang dilakukan oleh Trustee, yang terdiri \natas: \n(1) \ntabungan; \n(2) \ndeposito; \n\n\n \n \n(3) \nSertifikat \nBank \nIndonesia/Sertifikat \nBank \nIndonesia Syariah; \n(4) \nSurat Berharga Negara/Surat Berharga Syariah \nNegara; dan \n(5) \nlain-lain, \nc) \nInvestasi yang dilakukan melalui Manajer Investasi, \nyang terdiri atas: \n(1) \nsaham; \n(2) \nobligasi atau sukuk korporasi; \n(3) \nreksadana atau reksadana syariah; \n(4) \nEfek Beragun Aset; \n(5) \nMedium Term Notes; dan \n(6) \nlain-lain. \nd) \naset keuangan lainnya. \n2) \nInformasi posisi kewajiban Trust terdiri atas: \na) \nkewajiban kepada Settlor; \nb) \ndana usaha; dan \nc) \nkewajiban lainnya. \nPencatatan nilai nominal posisi aset dan kewajiban Trust \ndisajikan dalam valuta asal dan nilai konversi dalam \nRupiah. Tata cara pencatatan posisi aset dan kewajiban \nTrust mengacu pada Standar Akuntansi yang berlaku. \nFormat penyampaian informasi umum mengenai posisi aset \ndan kewajiban Trust mengacu pada Formulir 5–Posisi Aset \ndan Kewajiban Trust dalam Lampiran I Peraturan Otoritas \nJasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "pemerintah;"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Settlor sebagai Beneficiary; dan"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "lainnya. \nd) \nInvestasi, yang terdiri atas:"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "investasi yang dilakukan oleh Trustee; dan"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "investasi \nyang \ndilakukan \nmelalui \nmanajer \ninvestasi. \ne) \nPembayaran utang atau pembiayaan yang diterima, \nyang terdiri atas:"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "pokok utang atau pembiayaan yang diterima; dan"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "bunga utang atau imbal hasil pembiayaan yang \nditerima. \nf) \nfee atau ujroh kepada Trustee; dan \ng) \nlain-lain.  \n3) \nSelisih antara penerimaan dan pengeluaran. \nPencatatan nilai nominal kegiatan Trust disajikan dalam valuta \nasal dan nilai konversi dalam Rupiah. Tata cara pencatatan \nkegiatan Trust mengacu pada Standar Akuntansi yang berlaku. \nFormat Penyampaian Informasi umum mengenai kegiatan Trust \nmemuat rincian kegiatan Trust dibuat untuk setiap perjanjian \nTrust dengan mengacu pada Formulir 3–Rincian Kegiatan Trust \ndalam Lampiran I dan seluruh perjanjian Trust dengan mengacu \npada Formulir 4–Rekapitulasi Kegiatan Trust dalam Lampiran I \nPeraturan Otoritas Jasa Keuangan ini. \nHuruf d \nInformasi umum mengenai posisi aset dan kewajiban Trust \nantara lain memuat: \n1) \nInformasi posisi aset Trust terdiri atas: \na) \ngiro; \nb) \ninvestasi yang dilakukan oleh Trustee, yang terdiri \natas:"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "tabungan;"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "deposito;"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sertifikat \nBank \nIndonesia/Sertifikat \nBank \nIndonesia Syariah;"
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Surat Berharga Negara/Surat Berharga Syariah \nNegara; dan"
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "lain-lain, \nc) \nInvestasi yang dilakukan melalui Manajer Investasi, \nyang terdiri atas:"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "saham;"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "obligasi atau sukuk korporasi;"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "reksadana atau reksadana syariah;"
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Efek Beragun Aset;"
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Medium Term Notes; dan"
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "lain-lain. \nd) \naset keuangan lainnya. \n2) \nInformasi posisi kewajiban Trust terdiri atas: \na) \nkewajiban kepada Settlor; \nb) \ndana usaha; dan \nc) \nkewajiban lainnya. \nPencatatan nilai nominal posisi aset dan kewajiban Trust \ndisajikan dalam valuta asal dan nilai konversi dalam \nRupiah. Tata cara pencatatan posisi aset dan kewajiban \nTrust mengacu pada Standar Akuntansi yang berlaku. \nFormat penyampaian informasi umum mengenai posisi aset \ndan kewajiban Trust mengacu pada Formulir 5–Posisi Aset \ndan Kewajiban Trust dalam Lampiran I Peraturan Otoritas \nJasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLaporan kegiatan Trust disampaikan dengan melampirkan: \na. \nhardcopy laporan kegiatan Trust; dan \n\n\n \n \nb. \nsoftcopy laporan kegiatan Trust dalam format spreadsheet \ndengan menggunakan compact disc, flash disk, atau media \nperekaman data elektronik lainnya, \nyang dimasukkan dalam amplop tertutup dan disegel. \nAyat (2)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLaporan kegiatan Trust disampaikan dengan melampirkan: \na. \nhardcopy laporan kegiatan Trust; dan \n\n\n \n \nb. \nsoftcopy laporan kegiatan Trust dalam format spreadsheet \ndengan menggunakan compact disc, flash disk, atau media \nperekaman data elektronik lainnya, \nyang dimasukkan dalam amplop tertutup dan disegel. \nAyat (2)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Dalam hal tanggal 15 (lima belas) jatuh pada hari libur maka laporan \ndisampaikan pada hari kerja berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal tanggal 15 (lima belas) jatuh pada hari libur maka laporan \ndisampaikan pada hari kerja berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR  5775",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR  5775"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 104,
+  "total_ayat": 162,
+  "total_karakter": 47084,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

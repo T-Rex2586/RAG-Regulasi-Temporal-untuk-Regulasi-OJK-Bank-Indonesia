@@ -1,0 +1,899 @@
+{
+  "doc_id": "OJK_POJK_2026_7_d5143c05",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "7",
+  "tahun": "2026",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 7 Tahun 2026 tentang Kewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti Minimum Bank Perekonomian Rakyat",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "4 Juni 2026",
+  "tanggal_berlaku": "30 Juni 2026",
+  "diundangkan_pada": "Д",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Perekonomian Rakyat yang selanjutnya disingkat \nBPR adalah jenis bank konvensional yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \ngiral secara langsung. \n2. \nBank Umum adalah bank yang melaksanakan kegiatan \nusaha \nsecara \nkonvensional \natau \nmelaksanakan \nkegiatan usaha berdasarkan prinsip syariah, yang \ndalam kegiatannya memberikan jasa dalam lalu lintas \npembayaran.  \n3. \nAgunan Yang Diambil Alih yang selanjutnya disingkat \nAYDA adalah aset yang diperoleh BPR baik sebagian \natau seluruhnya dengan cara pembelian melalui \npelelangan maupun di luar pelelangan berdasarkan \npenyerahan secara sukarela oleh pemilik agunan atau \nberdasarkan kuasa untuk menjual di luar lelang dari \npemilik agunan, dalam hal debitur tidak memenuhi \nkewajiban kepada BPR dengan ketentuan agunan yang \ndibeli untuk dicairkan secepatnya.  \n4. \nRapat Umum Pemegang Saham yang selanjutnya \ndisingkat RUPS adalah rapat umum pemegang saham \nbagi BPR berbentuk badan hukum perseroan terbatas \natau perusahaan perseroan daerah, rapat kepala \ndaerah yang mewakili pemerintah daerah dalam \nkepemilikan kekayaan daerah yang dipisahkan pada \nperusahaan umum daerah bagi BPR berbentuk badan \nhukum perusahaan umum daerah, rapat anggota bagi \nBPR berbentuk badan hukum koperasi, atau rapat \npemegang saham bagi BPR berbentuk badan hukum \nperusahaan daerah.  \n5. \nPenyisihan Penilaian Kualitas Aset yang selanjutnya \ndisingkat PPKA adalah penyisihan yang dihitung \nsebesar persentase tertentu berdasarkan kualitas aset \n\n\n \nuntuk keperluan perhitungan kewajiban penyediaan \nmodal minimum BPR.  \n6. \nCadangan Kerugian Penurunan Nilai yang selanjutnya \ndisingkat CKPN adalah penyisihan yang dibentuk atas \npenurunan nilai instrumen keuangan sesuai standar \nakuntansi keuangan. \n7. \nAset Tertimbang Menurut Risiko yang selanjutnya \ndisingkat ATMR adalah jumlah aset pada laporan posisi \nkeuangan BPR yang diberikan bobot sesuai dengan \nkadar risiko yang melekat pada setiap pos aset sesuai \nketentuan. \n8. \nKewajiban \nPenyediaan \nModal \nMinimum \nyang \nselanjutnya disingkat KPMM adalah rasio modal \nterhadap ATMR yang wajib disediakan oleh BPR.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Perekonomian Rakyat yang selanjutnya disingkat \nBPR adalah jenis bank konvensional yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \ngiral secara langsung. \n2. \nBank Umum adalah bank yang melaksanakan kegiatan \nusaha \nsecara \nkonvensional \natau \nmelaksanakan \nkegiatan usaha berdasarkan prinsip syariah, yang \ndalam kegiatannya memberikan jasa dalam lalu lintas \npembayaran.  \n3. \nAgunan Yang Diambil Alih yang selanjutnya disingkat \nAYDA adalah aset yang diperoleh BPR baik sebagian \natau seluruhnya dengan cara pembelian melalui \npelelangan maupun di luar pelelangan berdasarkan \npenyerahan secara sukarela oleh pemilik agunan atau \nberdasarkan kuasa untuk menjual di luar lelang dari \npemilik agunan, dalam hal debitur tidak memenuhi \nkewajiban kepada BPR dengan ketentuan agunan yang \ndibeli untuk dicairkan secepatnya.  \n4. \nRapat Umum Pemegang Saham yang selanjutnya \ndisingkat RUPS adalah rapat umum pemegang saham \nbagi BPR berbentuk badan hukum perseroan terbatas \natau perusahaan perseroan daerah, rapat kepala \ndaerah yang mewakili pemerintah daerah dalam \nkepemilikan kekayaan daerah yang dipisahkan pada \nperusahaan umum daerah bagi BPR berbentuk badan \nhukum perusahaan umum daerah, rapat anggota bagi \nBPR berbentuk badan hukum koperasi, atau rapat \npemegang saham bagi BPR berbentuk badan hukum \nperusahaan daerah.  \n5. \nPenyisihan Penilaian Kualitas Aset yang selanjutnya \ndisingkat PPKA adalah penyisihan yang dihitung \nsebesar persentase tertentu berdasarkan kualitas aset \n\n\n \nuntuk keperluan perhitungan kewajiban penyediaan \nmodal minimum BPR.  \n6. \nCadangan Kerugian Penurunan Nilai yang selanjutnya \ndisingkat CKPN adalah penyisihan yang dibentuk atas \npenurunan nilai instrumen keuangan sesuai standar \nakuntansi keuangan. \n7. \nAset Tertimbang Menurut Risiko yang selanjutnya \ndisingkat ATMR adalah jumlah aset pada laporan posisi \nkeuangan BPR yang diberikan bobot sesuai dengan \nkadar risiko yang melekat pada setiap pos aset sesuai \nketentuan. \n8. \nKewajiban \nPenyediaan \nModal \nMinimum \nyang \nselanjutnya disingkat KPMM adalah rasio modal \nterhadap ATMR yang wajib disediakan oleh BPR."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "BPR wajib menyediakan modal minimum yang dihitung \ndengan menggunakan rasio KPMM paling rendah sebesar \n12% (dua belas persen) dari ATMR.  \n \nBAB II \nMODAL  \n \nBagian Kesatu \nKomponen Modal",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR wajib menyediakan modal minimum yang dihitung \ndengan menggunakan rasio KPMM paling rendah sebesar \n12% (dua belas persen) dari ATMR.  \n \nBAB II \nMODAL  \n \nBagian Kesatu \nKomponen Modal"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nModal sebagaimana dimaksud dalam Pasal 2 terdiri \natas: \na. \nmodal inti (tier 1) yang meliputi:  \n1. \nmodal inti utama; dan \n2. \nmodal inti tambahan; dan  \nb. \nmodal pelengkap (tier 2). \n(2) \nModal pelengkap sebagaimana dimaksud pada ayat (1) \nhuruf b diperhitungkan paling tinggi sebesar 100% \n(seratus persen) dari modal inti.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Modal sebagaimana dimaksud dalam Pasal 2 terdiri \natas: \na. \nmodal inti (tier 1) yang meliputi:  \n1. \nmodal inti utama; dan \n2. \nmodal inti tambahan; dan  \nb. \nmodal pelengkap (tier 2)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Modal pelengkap sebagaimana dimaksud pada ayat (1) \nhuruf b diperhitungkan paling tinggi sebesar 100% \n(seratus persen) dari modal inti."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "BPR wajib menyediakan modal inti sebagaimana dimaksud \ndalam Pasal 3 ayat (1) huruf a paling rendah sebesar 8% \n(delapan persen) dari ATMR.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR wajib menyediakan modal inti sebagaimana dimaksud \ndalam Pasal 3 ayat (1) huruf a paling rendah sebesar 8% \n(delapan persen) dari ATMR."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nModal inti utama sebagaimana dimaksud dalam Pasal \n3 ayat (1) huruf a angka 1 terdiri atas: \na. \nmodal disetor; dan \nb. \ncadangan tambahan modal. \n(2) \nCadangan tambahan modal sebagaimana dimaksud \npada ayat (1) huruf b terdiri atas: \na. \nfaktor penambah, yaitu:  \n1. \nagio; \n2. \nmodal sumbangan; \n3. \ncadangan umum; \n4. \ncadangan tujuan; \n5. \nlaba tahun-tahun lalu; \n6. \nlaba tahun berjalan; \n\n\n \n7. \ndana setoran modal; dan  \n8. \nsaldo surplus revaluasi aset tetap; dan \nb. \nfaktor pengurang, yaitu: \n1. \nperhitungan pajak tangguhan; \n2. \ngoodwill; \n3. \ndisagio; \n4. \nrugi tahun-tahun lalu;  \n5. \nrugi tahun berjalan; \n6. \nAYDA yang telah melampaui 1 (satu) tahun \nsejak pengambilalihan; \n7. \nproperti terbengkalai yang telah melampaui 1 \n(satu) tahun sejak ditetapkan; dan  \n8. \nselisih \nkurang \nantara \nPPKA \natas \naset \nproduktif dan CKPN atas aset produktif. \n(3) \nDana setoran modal sebagaimana dimaksud pada ayat \n(2) huruf a angka 7 harus memperoleh persetujuan dari \nOtoritas Jasa Keuangan dan memenuhi persyaratan: \na. \ntelah disetor secara penuh untuk penambahan \nmodal namun belum memenuhi kelengkapan \nadministrasi untuk dapat digolongkan sebagai \nmodal disetor; \nb. \ndalam hal ditempatkan dalam bentuk deposito: \n1. \npada Bank Umum atau BPR lain di Indonesia \ndengan mencantumkan atas nama “Dewan \nKomisioner Otoritas Jasa Keuangan q.q. \n(nama BPR)” dan mencantumkan keterangan \nnama penyetor tambahan modal; dan/atau  \n2. \npada \nBPR \nyang \nbersangkutan \ndengan \nmencantumkan \natas \nnama \n“Dewan \nKomisioner Otoritas Jasa Keuangan q.q. \n(nama pemegang saham penyetor tambahan \nmodal)”, \nserta \nmencantumkan \nketerangan \nbahwa \npencairannya hanya dapat dilakukan setelah \nmendapat \npersetujuan \ndari \nOtoritas \nJasa \nKeuangan; \nc. \npenambahan modal disetor yang ditempatkan \npada \nBPR \nyang \nbersangkutan \nsebagaimana \ndimaksud dalam huruf b angka 2 hanya berlaku \nbagi BPR dalam status pengawasan normal dan \npenambahan \nmodal \ndisetor \ndilakukan \noleh \npemegang saham BPR yang bersangkutan; \nd. \ntidak diberikan bunga, imbal hasil, dan/atau \ndividen atas dana setoran modal dimaksud dalam \nhal ditempatkan pada BPR yang bersangkutan; \ndan \ne. \ntidak dapat ditarik kembali oleh pemegang saham \natau calon pemegang saham. \n(4) \nKomponen \nmodal \ninti \ntambahan \nsebagaimana \ndimaksud dalam Pasal 3 ayat (1) huruf a angka 2 harus \nmemperoleh persetujuan dari Otoritas Jasa Keuangan \ndan memenuhi persyaratan:  \na. \ntidak dijamin oleh BPR yang bersangkutan dan \ntelah disetor penuh; \n \n\n\n \nb. \nmempunyai kedudukan yang sama dengan modal \ndisetor dalam hal jumlah kerugian BPR melebihi \nlaba tahun-tahun lalu \ndan cadangan yang \ntermasuk modal inti utama, meskipun BPR belum \ndilikuidasi; \nc. \nsumber pendanaan tidak berasal dari BPR yang \nbersangkutan baik secara langsung maupun tidak \nlangsung; \nd. \ntidak memiliki jangka waktu pelunasan dan tidak \nterdapat persyaratan yang mewajibkan pelunasan \noleh BPR di masa mendatang; \ne. \ntidak memiliki hak menerima pembayaran dividen; \nf. \nmemperoleh tingkat imbal hasil paling tinggi sama \ndengan suku bunga terendah dana pihak ketiga di \nBPR tersebut; \ng. \ntidak memperoleh imbal hasil jika BPR dalam \nkeadaan rugi atau memiliki laba yang tidak \nmencukupi untuk membayar imbal hasil dan \npembayaran tidak diakumulasikan pada tahun-\ntahun buku berikutnya; \nh. \ndapat dikonversi menjadi saham biasa; dan \ni. \npembayaran \nkembali \natau \npelunasan \nharus \nmendapat \npersetujuan \ndari \nOtoritas \nJasa \nKeuangan dan dengan pembayaran kembali atau \npelunasan tersebut permodalan BPR tetap sehat \nserta tidak mengakibatkan rasio modal tidak \nmemenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 2 dan Pasal 4. \n(5) \nPermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan atas dana setoran modal sebagaimana \ndimaksud pada ayat (3) dan/atau penambahan modal \ndisetor \nyang \nmerupakan \nkomponen \nmodal \ninti \ntambahan sebagaimana dimaksud pada ayat (4) huruf \nh dilakukan sesuai dengan tata cara penambahan \nmodal disetor sebagaimana diatur dalam Peraturan \nOtoritas Jasa Keuangan mengenai BPR dan bank \nperekonomian rakyat syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Modal inti utama sebagaimana dimaksud dalam Pasal \n3 ayat (1) huruf a angka 1 terdiri atas: \na. \nmodal disetor; dan \nb. \ncadangan tambahan modal."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Cadangan tambahan modal sebagaimana dimaksud \npada ayat (1) huruf b terdiri atas: \na. \nfaktor penambah, yaitu:  \n1. \nagio; \n2. \nmodal sumbangan; \n3. \ncadangan umum; \n4. \ncadangan tujuan; \n5. \nlaba tahun-tahun lalu; \n6. \nlaba tahun berjalan; \n\n\n \n7. \ndana setoran modal; dan  \n8. \nsaldo surplus revaluasi aset tetap; dan \nb. \nfaktor pengurang, yaitu: \n1. \nperhitungan pajak tangguhan; \n2. \ngoodwill; \n3. \ndisagio; \n4. \nrugi tahun-tahun lalu;  \n5. \nrugi tahun berjalan; \n6. \nAYDA yang telah melampaui 1 (satu) tahun \nsejak pengambilalihan; \n7. \nproperti terbengkalai yang telah melampaui 1 \n(satu) tahun sejak ditetapkan; dan  \n8. \nselisih \nkurang \nantara \nPPKA \natas \naset \nproduktif dan CKPN atas aset produktif."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dana setoran modal sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf a angka 7 harus memperoleh persetujuan dari \nOtoritas Jasa Keuangan dan memenuhi persyaratan: \na. \ntelah disetor secara penuh untuk penambahan \nmodal namun belum memenuhi kelengkapan \nadministrasi untuk dapat digolongkan sebagai \nmodal disetor; \nb. \ndalam hal ditempatkan dalam bentuk deposito: \n1. \npada Bank Umum atau BPR lain di Indonesia \ndengan mencantumkan atas nama “Dewan \nKomisioner Otoritas Jasa Keuangan q.q. \n(nama BPR)” dan mencantumkan keterangan \nnama penyetor tambahan modal; dan/atau  \n2. \npada \nBPR \nyang \nbersangkutan \ndengan \nmencantumkan \natas \nnama \n“Dewan \nKomisioner Otoritas Jasa Keuangan q.q. \n(nama pemegang saham penyetor tambahan \nmodal)”, \nserta \nmencantumkan \nketerangan \nbahwa \npencairannya hanya dapat dilakukan setelah \nmendapat \npersetujuan \ndari \nOtoritas \nJasa \nKeuangan; \nc. \npenambahan modal disetor yang ditempatkan \npada \nBPR \nyang \nbersangkutan \nsebagaimana \ndimaksud dalam huruf b angka 2 hanya berlaku \nbagi BPR dalam status pengawasan normal dan \npenambahan \nmodal \ndisetor \ndilakukan \noleh \npemegang saham BPR yang bersangkutan; \nd. \ntidak diberikan bunga, imbal hasil, dan/atau \ndividen atas dana setoran modal dimaksud dalam \nhal ditempatkan pada BPR yang bersangkutan; \ndan \ne. \ntidak dapat ditarik kembali oleh pemegang saham \natau calon pemegang saham."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Komponen \nmodal \ninti \ntambahan \nsebagaimana \ndimaksud dalam Pasal 3 ayat (1) huruf a angka 2 harus \nmemperoleh persetujuan dari Otoritas Jasa Keuangan \ndan memenuhi persyaratan:  \na. \ntidak dijamin oleh BPR yang bersangkutan dan \ntelah disetor penuh; \n \n\n\n \nb. \nmempunyai kedudukan yang sama dengan modal \ndisetor dalam hal jumlah kerugian BPR melebihi \nlaba tahun-tahun lalu \ndan cadangan yang \ntermasuk modal inti utama, meskipun BPR belum \ndilikuidasi; \nc. \nsumber pendanaan tidak berasal dari BPR yang \nbersangkutan baik secara langsung maupun tidak \nlangsung; \nd. \ntidak memiliki jangka waktu pelunasan dan tidak \nterdapat persyaratan yang mewajibkan pelunasan \noleh BPR di masa mendatang; \ne. \ntidak memiliki hak menerima pembayaran dividen; \nf. \nmemperoleh tingkat imbal hasil paling tinggi sama \ndengan suku bunga terendah dana pihak ketiga di \nBPR tersebut; \ng. \ntidak memperoleh imbal hasil jika BPR dalam \nkeadaan rugi atau memiliki laba yang tidak \nmencukupi untuk membayar imbal hasil dan \npembayaran tidak diakumulasikan pada tahun-\ntahun buku berikutnya; \nh. \ndapat dikonversi menjadi saham biasa; dan \ni. \npembayaran \nkembali \natau \npelunasan \nharus \nmendapat \npersetujuan \ndari \nOtoritas \nJasa \nKeuangan dan dengan pembayaran kembali atau \npelunasan tersebut permodalan BPR tetap sehat \nserta tidak mengakibatkan rasio modal tidak \nmemenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 2 dan Pasal 4."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Permohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan atas dana setoran modal sebagaimana \ndimaksud pada ayat (3) dan/atau penambahan modal \ndisetor \nyang \nmerupakan \nkomponen \nmodal \ninti \ntambahan sebagaimana dimaksud pada ayat (4) huruf \nh dilakukan sesuai dengan tata cara penambahan \nmodal disetor sebagaimana diatur dalam Peraturan \nOtoritas Jasa Keuangan mengenai BPR dan bank \nperekonomian rakyat syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nBPR wajib menyelesaikan kelengkapan administrasi \nsebagaimana dimaksud dalam Pasal 5 ayat (3) huruf a \ndalam jangka waktu paling lama 120 (seratus dua \npuluh) hari kerja terhitung sejak tanggal persetujuan \nOtoritas Jasa Keuangan. \n(2) \nDana setoran modal dicatat sebagai modal disetor \nsetelah BPR memenuhi kelengkapan administrasi \nsebagaimana dimaksud pada ayat (1).  \n(3) \nDalam hal BPR tidak menyelesaikan kelengkapan \nadministrasi dana setoran modal dalam jangka waktu \nsebagaimana dimaksud pada ayat (1), dana setoran \nmodal dimaksud tidak dapat diperhitungkan sebagai \nkomponen modal inti.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR wajib menyelesaikan kelengkapan administrasi \nsebagaimana dimaksud dalam Pasal 5 ayat (3) huruf a \ndalam jangka waktu paling lama 120 (seratus dua \npuluh) hari kerja terhitung sejak tanggal persetujuan \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dana setoran modal dicatat sebagai modal disetor \nsetelah BPR memenuhi kelengkapan administrasi \nsebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal BPR tidak menyelesaikan kelengkapan \nadministrasi dana setoran modal dalam jangka waktu \nsebagaimana dimaksud pada ayat (1), dana setoran \nmodal dimaksud tidak dapat diperhitungkan sebagai \nkomponen modal inti."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nBPR dapat menerima penambahan modal disetor \nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a \ndalam bentuk dana sesuai dengan ketentuan dalam \nPeraturan Otoritas Jasa Keuangan ini dan Peraturan \nOtoritas Jasa Keuangan mengenai BPR dan bank \nperekonomian rakyat syariah. \n(2) \nBPR dapat menerima: \na. \npenambahan \nmodal \ndisetor \nsebagaimana \ndimaksud   dalam Pasal 5 ayat (1) huruf a dalam \nbentuk aset tetap; dan/atau \nb. \nmodal sumbangan sebagaimana dimaksud dalam \nPasal 5 ayat (2) huruf a angka 2 dalam bentuk \ndana dan/atau aset tetap, \nberdasarkan persetujuan Otoritas Jasa Keuangan dan \nsesuai dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini. \n(3) \nSumber dana untuk penambahan modal disetor \ndan/atau modal sumbangan dalam bentuk dana \nsebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \nberasal: \na. \ndari pinjaman atau fasilitas pembiayaan dalam \nbentuk apapun dari bank dan/atau pihak lain; \ndan/atau \nb. \ndari \ndan \nuntuk \ntujuan \npencucian \nuang, \npendanaan terorisme, dan/atau proliferasi senjata \npemusnah massal.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dapat menerima penambahan modal disetor \nsebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a \ndalam bentuk dana sesuai dengan ketentuan dalam \nPeraturan Otoritas Jasa Keuangan ini dan Peraturan \nOtoritas Jasa Keuangan mengenai BPR dan bank \nperekonomian rakyat syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dapat menerima: \na. \npenambahan \nmodal \ndisetor \nsebagaimana \ndimaksud   dalam Pasal 5 ayat (1) huruf a dalam \nbentuk aset tetap; dan/atau \nb. \nmodal sumbangan sebagaimana dimaksud dalam \nPasal 5 ayat (2) huruf a angka 2 dalam bentuk \ndana dan/atau aset tetap, \nberdasarkan persetujuan Otoritas Jasa Keuangan dan \nsesuai dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sumber dana untuk penambahan modal disetor \ndan/atau modal sumbangan dalam bentuk dana \nsebagaimana dimaksud pada ayat (1) dan ayat (2) tidak \nberasal: \na. \ndari pinjaman atau fasilitas pembiayaan dalam \nbentuk apapun dari bank dan/atau pihak lain; \ndan/atau \nb. \ndari \ndan \nuntuk \ntujuan \npencucian \nuang, \npendanaan terorisme, dan/atau proliferasi senjata \npemusnah massal."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nBagi \nBPR \ndengan \nmodal \ninti \npaling \nsedikit \nRp6.000.000.000,00 \n(enam \nmiliar \nrupiah), \npenambahan \nmodal \ndisetor \ndan/atau \nmodal \nsumbangan dalam bentuk aset tetap sebagaimana \ndimaksud dalam Pasal 7 ayat (2) harus memenuhi \npersyaratan: \na. \naset tetap berupa tanah dan bangunan yang \ndimaksudkan untuk operasional BPR; dan \nb. \nberdasarkan \nproyeksi \nBPR, \nBPR \nmampu \nmeningkatkan \nkinerja \nsetelah \nmenerima \npenambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap. \n(2) \nDalam hal BPR tidak menggunakan aset tetap \nsebagaimana dimaksud pada ayat (1) untuk kegiatan \noperasional dalam jangka waktu 3 (tiga) tahun \nterhitung sejak tanggal surat pemberitahuan Otoritas \nJasa Keuangan, aset tetap dimaksud ditetapkan \nsebagai properti terbengkalai sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai kualitas aset BPR. \n(3) \nBPR dengan kondisi selain status pengawasan normal \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan mengenai penetapan status dan tindak \nlanjut pengawasan BPR dan bank perekonomian rakyat \nsyariah tidak dapat menerima penambahan modal \ndisetor dan/atau modal sumbangan berupa aset tetap \nsebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bagi \nBPR \ndengan \nmodal \ninti \npaling \nsedikit \nRp6.000.000.000,00 \n(enam \nmiliar \nrupiah), \npenambahan \nmodal \ndisetor \ndan/atau \nmodal \nsumbangan dalam bentuk aset tetap sebagaimana \ndimaksud dalam Pasal 7 ayat (2) harus memenuhi \npersyaratan: \na. \naset tetap berupa tanah dan bangunan yang \ndimaksudkan untuk operasional BPR; dan \nb. \nberdasarkan \nproyeksi \nBPR, \nBPR \nmampu \nmeningkatkan \nkinerja \nsetelah \nmenerima \npenambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR tidak menggunakan aset tetap \nsebagaimana dimaksud pada ayat (1) untuk kegiatan \noperasional dalam jangka waktu 3 (tiga) tahun \nterhitung sejak tanggal surat pemberitahuan Otoritas \nJasa Keuangan, aset tetap dimaksud ditetapkan \nsebagai properti terbengkalai sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai kualitas aset BPR."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dengan kondisi selain status pengawasan normal \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan mengenai penetapan status dan tindak \nlanjut pengawasan BPR dan bank perekonomian rakyat \nsyariah tidak dapat menerima penambahan modal \ndisetor dan/atau modal sumbangan berupa aset tetap \nsebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nBPR mengajukan permohonan mengenai rencana \nuntuk menerima penambahan modal disetor dan/atau \nmodal \nsumbangan \ndalam \nbentuk \naset \ntetap \nsebagaimana dimaksud dalam Pasal 7 ayat (2) kepada \nOtoritas Jasa Keuangan dengan melampirkan dokumen \npaling sedikit berupa: \na. \nsurat pernyataan dari pemilik bahwa aset tetap \nyang digunakan sebagai penambahan modal \ndisetor dan/atau modal sumbangan bebas dari \ntuntutan atau sengketa; \nb. \ndokumen pendukung; dan \nc. \nhasil penilaian aset tetap oleh lembaga penilai \nindependen. \n(2) \nOtoritas Jasa Keuangan memberikan persetujuan atau \npenolakan \natas \npermohonan \nBPR \nsebagaimana \ndimaksud pada ayat (1) dalam jangka waktu paling \nlama 20 (dua puluh) hari kerja setelah dokumen \nditerima secara lengkap.  \n(3) \nBPR yang telah memperoleh persetujuan sebagaimana \ndimaksud \npada \nayat \n(2) \nharus \npaling \nsedikit \nmelakukan:  \na. \nbalik nama aset tetap dimaksud menjadi atas \nnama BPR; \nb. \nRUPS untuk persetujuan penambahan modal \ndisetor dan/atau modal sumbangan; dan \nc. \nmengumumkan \npenambahan \nmodal \ndisetor \ndan/atau modal sumbangan dalam bentuk aset \ntetap dalam 2 (dua) surat kabar harian dan situs \nweb BPR. \n(4) \nBPR menyampaikan laporan pelaksanaan penambahan \nmodal disetor dan/atau modal sumbangan kepada \nOtoritas Jasa Keuangan dengan melampirkan dokumen \npaling sedikit berupa: \na. \nbukti kepemilikan tanah dan bangunan yang telah \nbalik nama; \nb. \nrisalah RUPS dan bukti lapor, surat keputusan, \natau surat penerimaan pemberitahuan perubahan \nanggaran dasar dari instansi yang berwenang; \nc. \nbukti pengumuman penambahan modal disetor \ndan/atau modal sumbangan dalam bentuk aset \ntetap dalam 2 (dua) surat kabar harian dan situs \nweb BPR; dan \nd. \nrencana penggunaan aset tetap untuk operasional \nBPR. \n(5) \nPenyampaian laporan pelaksanaan penambahan modal \ndisetor dan/atau modal sumbangan sebagaimana \ndimaksud pada ayat (4) dilakukan secara daring \nsebagai laporan insidental melalui sistem pelaporan \nOtoritas Jasa Keuangan sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai pelaporan melalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \ndan \ntransparansi kondisi keuangan bagi BPR dan bank \nperekonomian rakyat syariah. \n \n\n\n \n(6) \nBerdasarkan laporan BPR sebagaimana dimaksud pada \nayat (4), Otoritas Jasa Keuangan menyampaikan surat \npemberitahuan kepada BPR bahwa penambahan modal \ndisetor dan/atau modal sumbangan telah dicatat dalam \nadministrasi pengawasan Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR mengajukan permohonan mengenai rencana \nuntuk menerima penambahan modal disetor dan/atau \nmodal \nsumbangan \ndalam \nbentuk \naset \ntetap \nsebagaimana dimaksud dalam Pasal 7 ayat (2) kepada \nOtoritas Jasa Keuangan dengan melampirkan dokumen \npaling sedikit berupa: \na. \nsurat pernyataan dari pemilik bahwa aset tetap \nyang digunakan sebagai penambahan modal \ndisetor dan/atau modal sumbangan bebas dari \ntuntutan atau sengketa; \nb. \ndokumen pendukung; dan \nc. \nhasil penilaian aset tetap oleh lembaga penilai \nindependen."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan memberikan persetujuan atau \npenolakan \natas \npermohonan \nBPR \nsebagaimana \ndimaksud pada ayat (1) dalam jangka waktu paling \nlama 20 (dua puluh) hari kerja setelah dokumen \nditerima secara lengkap."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR yang telah memperoleh persetujuan sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "harus \npaling \nsedikit \nmelakukan:  \na. \nbalik nama aset tetap dimaksud menjadi atas \nnama BPR; \nb. \nRUPS untuk persetujuan penambahan modal \ndisetor dan/atau modal sumbangan; dan \nc. \nmengumumkan \npenambahan \nmodal \ndisetor \ndan/atau modal sumbangan dalam bentuk aset \ntetap dalam 2 (dua) surat kabar harian dan situs \nweb BPR."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR menyampaikan laporan pelaksanaan penambahan \nmodal disetor dan/atau modal sumbangan kepada \nOtoritas Jasa Keuangan dengan melampirkan dokumen \npaling sedikit berupa: \na. \nbukti kepemilikan tanah dan bangunan yang telah \nbalik nama; \nb. \nrisalah RUPS dan bukti lapor, surat keputusan, \natau surat penerimaan pemberitahuan perubahan \nanggaran dasar dari instansi yang berwenang; \nc. \nbukti pengumuman penambahan modal disetor \ndan/atau modal sumbangan dalam bentuk aset \ntetap dalam 2 (dua) surat kabar harian dan situs \nweb BPR; dan \nd. \nrencana penggunaan aset tetap untuk operasional \nBPR."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penyampaian laporan pelaksanaan penambahan modal \ndisetor dan/atau modal sumbangan sebagaimana \ndimaksud pada ayat (4) dilakukan secara daring \nsebagai laporan insidental melalui sistem pelaporan \nOtoritas Jasa Keuangan sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai pelaporan melalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \ndan \ntransparansi kondisi keuangan bagi BPR dan bank \nperekonomian rakyat syariah."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Berdasarkan laporan BPR sebagaimana dimaksud pada \nayat (4), Otoritas Jasa Keuangan menyampaikan surat \npemberitahuan kepada BPR bahwa penambahan modal \ndisetor dan/atau modal sumbangan telah dicatat dalam \nadministrasi pengawasan Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nModal pelengkap sebagaimana dimaksud dalam Pasal 3 \nayat (1) huruf b terdiri atas:  \na. \nkomponen modal yang memenuhi persyaratan:  \n1. \ntidak dijamin oleh BPR yang bersangkutan \ndan telah disetor penuh;  \n2. \nmempunyai kedudukan yang sama dengan \nmodal dalam hal jumlah kerugian BPR \nmelebihi laba tahun-tahun lalu dan cadangan \nyang termasuk modal inti utama, meskipun \nBPR belum dilikuidasi;  \n3. \nsumber pendanaan tidak berasal dari BPR \nyang bersangkutan secara langsung maupun \ntidak langsung; dan \n4. \nterdapat \nperjanjian \nyang \npaling \nsedikit \nmemuat klausula: \na) \nmencantumkan \npembayaran \npokok \ndan/atau imbal hasil;  \nb) \ntidak  memiliki persyaratan percepatan \npembayaran \npokok \ndan/atau \nimbal \nhasil; \nc) \npembayaran pokok dan/atau imbal hasil \nditangguhkan dan diakumulasikan antar \nperiode \njika \npembayaran \ndimaksud \ndapat menyebabkan rasio KPMM tidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud dalam Pasal 2; \nd) \nhak tagih berlaku paling akhir dalam hal \nterjadi likuidasi; dan \ne) \nmemiliki jangka waktu 5 (lima) tahun \natau lebih dan hanya dapat dilunasi \nsetelah \nmemperoleh \npersetujuan \nOtoritas Jasa Keuangan; dan \nb.  PPKA umum yang wajib dihitung sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai \nkualitas aset BPR paling tinggi sebesar 1,25% (satu \nkoma dua puluh lima persen) dari ATMR. \n(2) \nKomponen modal pelengkap sebagaimana dimaksud \npada ayat (1) harus memperoleh persetujuan Otoritas \nJasa Keuangan untuk diperhitungkan sebagai modal \npelengkap. \n(3) \nPelunasan komponen modal pelengkap sebelum jatuh \ntempo harus mendapat persetujuan dari Otoritas Jasa \nKeuangan dengan syarat setelah pelunasan tersebut \npermodalan BPR tetap sehat. \n(4) \nKomponen modal pelengkap sebagaimana dimaksud \npada ayat (1) huruf a paling tinggi sebesar 50% (lima \npuluh persen) dari modal inti.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Modal pelengkap sebagaimana dimaksud dalam Pasal 3 \nayat (1) huruf b terdiri atas:  \na. \nkomponen modal yang memenuhi persyaratan:  \n1. \ntidak dijamin oleh BPR yang bersangkutan \ndan telah disetor penuh;  \n2. \nmempunyai kedudukan yang sama dengan \nmodal dalam hal jumlah kerugian BPR \nmelebihi laba tahun-tahun lalu dan cadangan \nyang termasuk modal inti utama, meskipun \nBPR belum dilikuidasi;  \n3. \nsumber pendanaan tidak berasal dari BPR \nyang bersangkutan secara langsung maupun \ntidak langsung; dan \n4. \nterdapat \nperjanjian \nyang \npaling \nsedikit \nmemuat klausula: \na) \nmencantumkan \npembayaran \npokok \ndan/atau imbal hasil;  \nb) \ntidak  memiliki persyaratan percepatan \npembayaran \npokok \ndan/atau \nimbal \nhasil; \nc) \npembayaran pokok dan/atau imbal hasil \nditangguhkan dan diakumulasikan antar \nperiode \njika \npembayaran \ndimaksud \ndapat menyebabkan rasio KPMM tidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud dalam Pasal 2; \nd) \nhak tagih berlaku paling akhir dalam hal \nterjadi likuidasi; dan \ne) \nmemiliki jangka waktu 5 (lima) tahun \natau lebih dan hanya dapat dilunasi \nsetelah \nmemperoleh \npersetujuan \nOtoritas Jasa Keuangan; dan \nb.  PPKA umum yang wajib dihitung sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai \nkualitas aset BPR paling tinggi sebesar 1,25% (satu \nkoma dua puluh lima persen) dari ATMR."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komponen modal pelengkap sebagaimana dimaksud \npada ayat (1) harus memperoleh persetujuan Otoritas \nJasa Keuangan untuk diperhitungkan sebagai modal \npelengkap."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pelunasan komponen modal pelengkap sebelum jatuh \ntempo harus mendapat persetujuan dari Otoritas Jasa \nKeuangan dengan syarat setelah pelunasan tersebut \npermodalan BPR tetap sehat."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Komponen modal pelengkap sebagaimana dimaksud \npada ayat (1) huruf a paling tinggi sebesar 50% (lima \npuluh persen) dari modal inti."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "Dalam perhitungan ATMR: \na. \nselisih lebih PPKA umum yang diwajibkan dihitung \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai kualitas aset BPR dari batasan sebagaimana \ndimaksud \ndalam \nPasal \nayat \n(1) \nhuruf \nb \ndiperhitungkan sebagai faktor pengurang perhitungan \nATMR; \nb. \nAYDA yang telah melampaui jangka waktu 1 (satu) \ntahun terhitung sejak pengambilalihan sebagaimana \ndimaksud dalam Pasal 5 ayat (2) huruf b angka 6 tidak \ndiperhitungkan dalam perhitungan ATMR; dan \nc. \nproperti terbengkalai yang telah melampaui jangka \nwaktu 1 (satu) tahun terhitung sejak ditetapkan \nsebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b \nangka 7, tidak diperhitungkan dalam perhitungan \nATMR. \n \nBagian Kedua \nLarangan Distribusi Laba",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf \nb \ndiperhitungkan sebagai faktor pengurang perhitungan \nATMR; \nb. \nAYDA yang telah melampaui jangka waktu 1 (satu) \ntahun terhitung sejak pengambilalihan sebagaimana \ndimaksud dalam Pasal 5 ayat (2) huruf b angka 6 tidak \ndiperhitungkan dalam perhitungan ATMR; dan \nc. \nproperti terbengkalai yang telah melampaui jangka \nwaktu 1 (satu) tahun terhitung sejak ditetapkan \nsebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b \nangka 7, tidak diperhitungkan dalam perhitungan \nATMR. \n \nBagian Kedua \nLarangan Distribusi Laba"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "BPR \ndilarang \nmelakukan \ndistribusi \nlaba \nyang \nmengakibatkan kondisi permodalan BPR tidak memenuhi \nrasio modal sebagaimana dimaksud dalam Pasal 2 dan/atau \nPasal 4. \n \nBagian Ketiga \nSanksi Administratif",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR \ndilarang \nmelakukan \ndistribusi \nlaba \nyang \nmengakibatkan kondisi permodalan BPR tidak memenuhi \nrasio modal sebagaimana dimaksud dalam Pasal 2 dan/atau \nPasal 4. \n \nBagian Ketiga \nSanksi Administratif"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MODAL",
+      "teks_lengkap": "(1) \nBPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 2 dikenai sanksi administratif berupa:  \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan distribusi laba; dan/atau \nc. \npenurunan tingkat kesehatan BPR. \n(2) \nBPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 4, Pasal 6 ayat (1), dan/atau Pasal 12 \ndikenai sanksi administratif berupa teguran tertulis. \n(3) \nDalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2) dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 4 dan Pasal 6 ayat (1), BPR dikenai sanksi \nadministratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan distribusi laba; dan/atau \nc. \npenurunan tingkat kesehatan BPR. \n(4) \nDalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2) dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 12, BPR dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional; dan/atau \nb. \npenurunan tingkat kesehatan BPR. \n\n\n \n(5) \nDalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), \ndan/atau ayat (4) dan tetap melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 2, Pasal 4, Pasal 6 \nayat (1), dan/atau Pasal 12, pihak utama BPR dapat \ndikenai sanksi administratif berupa larangan sebagai \npihak utama sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kembali bagi pihak \nutama lembaga jasa keuangan. \n \nBAB III \nMODAL INTI MINIMUM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 2 dikenai sanksi administratif berupa:  \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan distribusi laba; dan/atau \nc. \npenurunan tingkat kesehatan BPR."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 4, Pasal 6 ayat (1), dan/atau Pasal 12 \ndikenai sanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2) dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 4 dan Pasal 6 ayat (1), BPR dikenai sanksi \nadministratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan distribusi laba; dan/atau \nc. \npenurunan tingkat kesehatan BPR."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2) dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 12, BPR dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional; dan/atau \nb. \npenurunan tingkat kesehatan BPR."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), \ndan/atau ayat (4) dan tetap melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 2, Pasal 4, Pasal 6 \nayat (1), dan/atau Pasal 12, pihak utama BPR dapat \ndikenai sanksi administratif berupa larangan sebagai \npihak utama sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kembali bagi pihak \nutama lembaga jasa keuangan. \n \nBAB III \nMODAL INTI MINIMUM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nBPR wajib memiliki jumlah modal inti minimum paling \nsedikit sebesar Rp6.000.000.000,00 (enam miliar \nrupiah). \n(2) \nBPR dilarang melakukan pembayaran kembali atau \npelunasan \nkomponen \nmodal \ninti \ntambahan \nsebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a \nangka 2, jika pembayaran kembali atau pelunasan \nmengakibatkan menurunnya modal inti BPR menjadi \nkurang dari Rp6.000.000.000,00 (enam miliar rupiah).  \n(3) \nDalam hal modal inti BPR mengalami penurunan \nmenjadi kurang dari Rp6.000.000.000,00 (enam miliar \nrupiah), BPR wajib meningkatkan modal inti menjadi \npaling sedikit sebesar Rp6.000.000.000,00 (enam miliar \nrupiah) paling lambat 6 (enam) bulan sejak: \na. \nlaporan \nberkala \nbulanan \nyang \ndisampaikan \nkepada Otoritas Jasa Keuangan; atau  \nb. \ntanggal risalah hasil pemeriksaan Otoritas Jasa \nKeuangan, \nmenunjukkan \nmodal \ninti \nkurang \ndari \nRp6.000.000.000,00 (enam miliar rupiah). \n(4) \nApabila \nbatas \nwaktu \npemenuhan \nmodal \ninti \nsebagaimana dimaksud pada ayat (3) jatuh pada hari \nSabtu, hari Minggu, dan/atau hari libur, pemenuhan \nmodal inti dilakukan paling lambat pada hari kerja \nberikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR wajib memiliki jumlah modal inti minimum paling \nsedikit sebesar Rp6.000.000.000,00 (enam miliar \nrupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dilarang melakukan pembayaran kembali atau \npelunasan \nkomponen \nmodal \ninti \ntambahan \nsebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a \nangka 2, jika pembayaran kembali atau pelunasan \nmengakibatkan menurunnya modal inti BPR menjadi \nkurang dari Rp6.000.000.000,00 (enam miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal modal inti BPR mengalami penurunan \nmenjadi kurang dari Rp6.000.000.000,00 (enam miliar \nrupiah), BPR wajib meningkatkan modal inti menjadi \npaling sedikit sebesar Rp6.000.000.000,00 (enam miliar \nrupiah) paling lambat 6 (enam) bulan sejak: \na. \nlaporan \nberkala \nbulanan \nyang \ndisampaikan \nkepada Otoritas Jasa Keuangan; atau  \nb. \ntanggal risalah hasil pemeriksaan Otoritas Jasa \nKeuangan, \nmenunjukkan \nmodal \ninti \nkurang \ndari \nRp6.000.000.000,00 (enam miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Apabila \nbatas \nwaktu \npemenuhan \nmodal \ninti \nsebagaimana dimaksud pada ayat (3) jatuh pada hari \nSabtu, hari Minggu, dan/atau hari libur, pemenuhan \nmodal inti dilakukan paling lambat pada hari kerja \nberikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nPemenuhan \nmodal \ninti \nminimum \nsebagaimana \ndimaksud \ndalam \nPasal \nayat \n(1) \ndan/atau \npeningkatan modal inti sebagaimana dimaksud dalam \nPasal 14 ayat (3) dilakukan melalui pertumbuhan laba, \npenambahan \nmodal \ndisetor, \nmodal \nsumbangan, \npenggabungan, peleburan, dan/atau pengambilalihan \noleh pihak lain. \n(2) \nBagi BPR yang belum memenuhi modal inti minimum \npaling sedikit sebesar Rp6.000.000.000,00 (enam miliar \nrupiah), penambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap sebagaimana \ndimaksud dalam Pasal 7 ayat (2) harus memenuhi \npersyaratan: \na. \naset tetap berupa tanah dan bangunan yang \ndimaksudkan untuk operasional BPR; \n\n\n \nb. \nberdasarkan \nproyeksi \nBPR, \nBPR \nmampu \nmeningkatkan \nkinerja \nsetelah \nmenerima \npenambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap; dan \nc. \nrasio KPMM BPR di atas 12% (dua belas persen) \nberdasarkan laporan bulanan posisi terakhir pada \nsaat pengajuan. \n(3) \nOtoritas Jasa Keuangan dapat melarang BPR yang telah \nmelakukan penambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap sebagaimana \ndimaksud pada ayat (2) untuk melakukan distribusi \nlaba dalam jangka waktu tertentu berdasarkan \npertimbangan tertentu. \n(4) \nPenambahan \nmodal \ndisetor \ndan/atau \nmodal \nsumbangan berupa aset tetap sebagaimana dimaksud \npada ayat (2) bagi BPR yang akan melakukan \npenggabungan atau peleburan namun berdasarkan \npenilaian BPR dan hasil penelaahan Otoritas Jasa \nKeuangan \nmodal \ninti \nhasil \npenggabungan \natau \npeleburan \nbelum \nmemenuhi \nmodal \ninti \nRp6.000.000.000,00 (enam miliar rupiah) dikecualikan \ndari pemenuhan persyaratan rasio KPMM sebagaimana \ndimaksud pada ayat (2) huruf c dan larangan distribusi \nlaba sebagaimana dimaksud pada ayat (3). \n(5) \nDalam hal BPR tidak menggunakan aset tetap \nsebagaimana dimaksud pada ayat (2) dan/atau ayat (4) \nuntuk kegiatan operasional dalam jangka waktu 3 (tiga) \ntahun terhitung sejak tanggal surat pemberitahuan \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 9 ayat (6), aset tetap dimaksud ditetapkan sebagai \nproperti terbengkalai sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai kualitas aset BPR. \n(6) \nBPR dengan kondisi selain status pengawasan normal \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan mengenai penetapan status dan tindak \nlanjut pengawasan BPR dan bank perekonomian rakyat \nsyariah tidak dapat menerima penambahan modal \ndisetor dan/atau modal sumbangan berupa aset tetap \nsebagaimana dimaksud pada ayat (2). \n(7) \nTata cara pengajuan permohonan dan persetujuan \nuntuk menerima penambahan modal disetor dan/atau \nmodal \nsumbangan \ndalam \nbentuk \naset \ntetap \nsebagaimana dimaksud pada ayat (2) dilakukan sesuai \ndengan \ntata \ncara \npengajuan \npermohonan \ndan \npersetujuan sebagaimana dimaksud dalam Pasal 9.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemenuhan \nmodal \ninti \nminimum \nsebagaimana \ndimaksud \ndalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dan/atau \npeningkatan modal inti sebagaimana dimaksud dalam \nPasal 14 ayat (3) dilakukan melalui pertumbuhan laba, \npenambahan \nmodal \ndisetor, \nmodal \nsumbangan, \npenggabungan, peleburan, dan/atau pengambilalihan \noleh pihak lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bagi BPR yang belum memenuhi modal inti minimum \npaling sedikit sebesar Rp6.000.000.000,00 (enam miliar \nrupiah), penambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap sebagaimana \ndimaksud dalam Pasal 7 ayat (2) harus memenuhi \npersyaratan: \na. \naset tetap berupa tanah dan bangunan yang \ndimaksudkan untuk operasional BPR; \n\n\n \nb. \nberdasarkan \nproyeksi \nBPR, \nBPR \nmampu \nmeningkatkan \nkinerja \nsetelah \nmenerima \npenambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap; dan \nc. \nrasio KPMM BPR di atas 12% (dua belas persen) \nberdasarkan laporan bulanan posisi terakhir pada \nsaat pengajuan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Otoritas Jasa Keuangan dapat melarang BPR yang telah \nmelakukan penambahan modal disetor dan/atau modal \nsumbangan dalam bentuk aset tetap sebagaimana \ndimaksud pada ayat (2) untuk melakukan distribusi \nlaba dalam jangka waktu tertentu berdasarkan \npertimbangan tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penambahan \nmodal \ndisetor \ndan/atau \nmodal \nsumbangan berupa aset tetap sebagaimana dimaksud \npada ayat (2) bagi BPR yang akan melakukan \npenggabungan atau peleburan namun berdasarkan \npenilaian BPR dan hasil penelaahan Otoritas Jasa \nKeuangan \nmodal \ninti \nhasil \npenggabungan \natau \npeleburan \nbelum \nmemenuhi \nmodal \ninti \nRp6.000.000.000,00 (enam miliar rupiah) dikecualikan \ndari pemenuhan persyaratan rasio KPMM sebagaimana \ndimaksud pada ayat (2) huruf c dan larangan distribusi \nlaba sebagaimana dimaksud pada ayat (3)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal BPR tidak menggunakan aset tetap \nsebagaimana dimaksud pada ayat (2) dan/atau ayat (4) \nuntuk kegiatan operasional dalam jangka waktu 3 (tiga) \ntahun terhitung sejak tanggal surat pemberitahuan \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 9 ayat (6), aset tetap dimaksud ditetapkan sebagai \nproperti terbengkalai sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai kualitas aset BPR."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "BPR dengan kondisi selain status pengawasan normal \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan mengenai penetapan status dan tindak \nlanjut pengawasan BPR dan bank perekonomian rakyat \nsyariah tidak dapat menerima penambahan modal \ndisetor dan/atau modal sumbangan berupa aset tetap \nsebagaimana dimaksud pada ayat (2)."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Tata cara pengajuan permohonan dan persetujuan \nuntuk menerima penambahan modal disetor dan/atau \nmodal \nsumbangan \ndalam \nbentuk \naset \ntetap \nsebagaimana dimaksud pada ayat (2) dilakukan sesuai \ndengan \ntata \ncara \npengajuan \npermohonan \ndan \npersetujuan sebagaimana dimaksud dalam Pasal 9."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "Penggabungan, peleburan, dan/atau pengambilalihan oleh \npihak lain sebagaimana dimaksud dalam Pasal 15 ayat (1) \ndapat dilakukan berdasarkan inisiatif BPR atau perintah \nOtoritas Jasa Keuangan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai BPR dan bank perekonomian \nrakyat syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penggabungan, peleburan, dan/atau pengambilalihan oleh \npihak lain sebagaimana dimaksud dalam Pasal 15 ayat (1) \ndapat dilakukan berdasarkan inisiatif BPR atau perintah \nOtoritas Jasa Keuangan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai BPR dan bank perekonomian \nrakyat syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nBPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (1) dan/atau ayat (3) dikenai sanksi \nadministratif berupa:  \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan ekspansi kegiatan usaha;  \nc. \npenurunan tingkat kesehatan BPR;  \nd. \nlarangan \npenghimpunan \ndana \nbaru \ndan \npenyaluran dana baru; \ne. \nlarangan distribusi laba; dan \nf. \npembatasan tunjangan atau fasilitas lainnya yang \ndipersamakan dengan itu kepada anggota dewan \nkomisaris dan/atau direksi BPR, atau imbalan \nkepada pejabat eksekutif. \n(2) \nBPR \ndapat \ntidak \ndikenai \nsanksi \nadministratif \nsebagaimana \ndimaksud \npada \nayat \n(1), \ndengan \nketentuan: \na. \ntelah memperoleh hasil penelaahan atas dokumen \npersiapan pelaksanaan penggabungan, peleburan, \ndan/atau \npengambilalihan \nyang \nmenyatakan \nbahwa BPR memenuhi persyaratan dan proses \npenggabungan, \npeleburan, \ndan/atau \npengambilalihan oleh pihak lain dapat dilanjutkan, \nbagi \nBPR \nyang \nsedang \ndalam \nproses \npenggabungan, \npeleburan, \ndan/atau \npengambilalihan; dan/atau \nb. \nterdapat setoran modal dari pemegang saham atau \ncalon pemegang saham sesuai dengan ketentuan \nPeraturan Otoritas Jasa Keuangan mengenai BPR \ndan bank perekonomian rakyat syariah, \nsehingga modal inti minimum terpenuhi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (1) dan/atau ayat (3) dikenai sanksi \nadministratif berupa:  \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan ekspansi kegiatan usaha;  \nc. \npenurunan tingkat kesehatan BPR;  \nd. \nlarangan \npenghimpunan \ndana \nbaru \ndan \npenyaluran dana baru; \ne. \nlarangan distribusi laba; dan \nf. \npembatasan tunjangan atau fasilitas lainnya yang \ndipersamakan dengan itu kepada anggota dewan \nkomisaris dan/atau direksi BPR, atau imbalan \nkepada pejabat eksekutif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR \ndapat \ntidak \ndikenai \nsanksi \nadministratif \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \ndengan \nketentuan: \na. \ntelah memperoleh hasil penelaahan atas dokumen \npersiapan pelaksanaan penggabungan, peleburan, \ndan/atau \npengambilalihan \nyang \nmenyatakan \nbahwa BPR memenuhi persyaratan dan proses \npenggabungan, \npeleburan, \ndan/atau \npengambilalihan oleh pihak lain dapat dilanjutkan, \nbagi \nBPR \nyang \nsedang \ndalam \nproses \npenggabungan, \npeleburan, \ndan/atau \npengambilalihan; dan/atau \nb. \nterdapat setoran modal dari pemegang saham atau \ncalon pemegang saham sesuai dengan ketentuan \nPeraturan Otoritas Jasa Keuangan mengenai BPR \ndan bank perekonomian rakyat syariah, \nsehingga modal inti minimum terpenuhi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nBPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (2) dikenai sanksi administratif \nberupa teguran tertulis. \n(2) \nDalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 14 ayat (2), BPR dikenai sanksi administratif \nberupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan distribusi laba; dan/atau \nc. \npenurunan tingkat kesehatan BPR.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (2) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 14 ayat (2), BPR dikenai sanksi administratif \nberupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional;  \nb. \nlarangan distribusi laba; dan/atau \nc. \npenurunan tingkat kesehatan BPR."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nBPR wajib mengumumkan: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional; \nb. \nlarangan ekspansi kegiatan usaha; dan \n \n \n \n\n\n \nc. \nlarangan \npenghimpunan \ndana \nbaru \ndan \npenyaluran dana baru, \nsebagaimana dimaksud dalam Pasal 17 ayat (1) huruf \na, huruf b, dan huruf d, kepada masyarakat melalui \nmedia pengumuman di kantor yang mudah dibaca oleh \npublik dan situs web BPR dalam jangka waktu paling \nlama 5 (lima) hari kerja terhitung sejak tanggal surat \npengenaan sanksi administratif oleh Otoritas Jasa \nKeuangan. \n(2) \nBPR \nwajib \nmenyampaikan \nbukti \npengumuman \nsebagaimana dimaksud pada ayat (1) kepada Otoritas \nJasa Keuangan dalam jangka waktu paling lama 5 \n(lima) hari kerja \nterhitung \nsejak tanggal surat \npengenaan sanksi administratif oleh Otoritas Jasa \nKeuangan secara daring sebagai laporan insidental \nmelalui sistem pelaporan Otoritas Jasa Keuangan \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan melalui sistem pelaporan Otoritas \nJasa Keuangan dan transparansi kondisi keuangan \nbagi BPR dan bank perekonomian rakyat syariah. \n(3) \nFormat pengumuman sebagaimana dimaksud pada \nayat (1) tercantum dalam Lampiran yang merupakan \nbagian tidak terpisahkan dalam Peraturan Otoritas \nJasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR wajib mengumumkan: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional; \nb. \nlarangan ekspansi kegiatan usaha; dan \n \n \n \n\n\n \nc. \nlarangan \npenghimpunan \ndana \nbaru \ndan \npenyaluran dana baru, \nsebagaimana dimaksud dalam Pasal 17 ayat (1) huruf \na, huruf b, dan huruf d, kepada masyarakat melalui \nmedia pengumuman di kantor yang mudah dibaca oleh \npublik dan situs web BPR dalam jangka waktu paling \nlama 5 (lima) hari kerja terhitung sejak tanggal surat \npengenaan sanksi administratif oleh Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR \nwajib \nmenyampaikan \nbukti \npengumuman \nsebagaimana dimaksud pada ayat (1) kepada Otoritas \nJasa Keuangan dalam jangka waktu paling lama 5 \n(lima) hari kerja \nterhitung \nsejak tanggal surat \npengenaan sanksi administratif oleh Otoritas Jasa \nKeuangan secara daring sebagai laporan insidental \nmelalui sistem pelaporan Otoritas Jasa Keuangan \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan melalui sistem pelaporan Otoritas \nJasa Keuangan dan transparansi kondisi keuangan \nbagi BPR dan bank perekonomian rakyat syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Format pengumuman sebagaimana dimaksud pada \nayat (1) tercantum dalam Lampiran yang merupakan \nbagian tidak terpisahkan dalam Peraturan Otoritas \nJasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nBPR \nyang \ntelah \ndikenai \nsanksi \nadministratif \nsebagaimana dimaksud dalam Pasal 17 ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (1) dapat mengajukan permohonan \npencabutan izin usaha atas permintaan BPR sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \nBPR dan bank perekonomian rakyat syariah. \n(2) \nBPR mengajukan permohonan pencabutan izin usaha \natas permintaan BPR sebagaimana dimaksud pada ayat \n(1) paling lambat 6 (enam) bulan sejak tanggal surat \npengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 17 ayat (1) diberikan. \n(3) \nBPR tetap dikenai sanksi sebagaimana dimaksud dalam \nPasal 17 ayat (1) sampai dengan diterbitkannya \nkeputusan \nOtoritas \nJasa \nKeuangan \nmengenai \npencabutan izin usaha.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR \nyang \ntelah \ndikenai \nsanksi \nadministratif \nsebagaimana dimaksud dalam Pasal 17 ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (1) dapat mengajukan permohonan \npencabutan izin usaha atas permintaan BPR sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \nBPR dan bank perekonomian rakyat syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR mengajukan permohonan pencabutan izin usaha \natas permintaan BPR sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "paling lambat 6 (enam) bulan sejak tanggal surat \npengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 17 ayat (1) diberikan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR tetap dikenai sanksi sebagaimana dimaksud dalam \nPasal 17 ayat (1) sampai dengan diterbitkannya \nkeputusan \nOtoritas \nJasa \nKeuangan \nmengenai \npencabutan izin usaha."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MODAL INTI MINIMUM",
+      "teks_lengkap": "(1) \nBPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 19 ayat (1) dikenai sanksi administratif \nberupa teguran tertulis. \n(2) \nBPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 19 ayat (2) dikenai sanksi administratif \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan melalui sistem pelaporan Otoritas \nJasa Keuangan dan transparansi kondisi keuangan \nbagi BPR dan bank perekonomian rakyat syariah. \n \n \n \n\n\n \nBAB IV \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 19 ayat (1) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 19 ayat (2) dikenai sanksi administratif \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan melalui sistem pelaporan Otoritas \nJasa Keuangan dan transparansi kondisi keuangan \nbagi BPR dan bank perekonomian rakyat syariah. \n \n \n \n\n\n \nBAB IV \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat menetapkan kebijakan yang \nberbeda dengan Peraturan Otoritas Jasa Keuangan ini \nberdasarkan pertimbangan tertentu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat menetapkan kebijakan yang \nberbeda dengan Peraturan Otoritas Jasa Keuangan ini \nberdasarkan pertimbangan tertentu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Ketentuan mengenai komponen permodalan, perhitungan \nATMR, tata cara perhitungan rasio KPMM dan modal inti \nminimum, serta tata cara permohonan persetujuan dan \npenyampaian laporan, ditetapkan oleh Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai komponen permodalan, perhitungan \nATMR, tata cara perhitungan rasio KPMM dan modal inti \nminimum, serta tata cara permohonan persetujuan dan \npenyampaian laporan, ditetapkan oleh Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "BPR yang belum pernah memenuhi modal inti minimum \nsebesar Rp6.000.000.000,00 (enam miliar rupiah) sebelum \nPeraturan Otoritas Jasa Keuangan ini berlaku dikenai \nsanksi administratif sebagaimana dimaksud dalam Pasal 17 \nayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR yang belum pernah memenuhi modal inti minimum \nsebesar Rp6.000.000.000,00 (enam miliar rupiah) sebelum \nPeraturan Otoritas Jasa Keuangan ini berlaku dikenai \nsanksi administratif sebagaimana dimaksud dalam Pasal 17 \nayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nBPR yang telah memenuhi modal inti minimum sebesar \nRp6.000.000.000,00 \n(enam \nmiliar \nrupiah) \ndan \nmengalami penurunan sehingga modal inti menjadi \nkurang dari Rp6.000.000.000,00 (enam miliar rupiah) \nsebelum Peraturan Otoritas Jasa Keuangan ini berlaku, \nwajib memenuhi modal inti minimum sebagaimana \ndimaksud dalam Pasal 14 ayat (1) paling lambat 6 \n(enam) bulan sejak: \na. \nlaporan \nberkala \nbulanan \nyang \ndisampaikan \nkepada Otoritas Jasa Keuangan; atau  \nb. \ntanggal risalah hasil pemeriksaan Otoritas Jasa \nKeuangan, \nmenunjukkan modal inti di bawah Rp6.000.000.000,00 \n(enam miliar rupiah). \n(2) \nBPR yang tidak dapat memenuhi modal inti pada \ntanggal batas waktu sebagaimana dimaksud pada ayat \n(1) dikenai sanksi administratif sebagaimana dimaksud \ndalam Pasal 17 ayat (1). \n \nBAB V \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR yang telah memenuhi modal inti minimum sebesar \nRp6.000.000.000,00 \n(enam \nmiliar \nrupiah) \ndan \nmengalami penurunan sehingga modal inti menjadi \nkurang dari Rp6.000.000.000,00 (enam miliar rupiah) \nsebelum Peraturan Otoritas Jasa Keuangan ini berlaku, \nwajib memenuhi modal inti minimum sebagaimana \ndimaksud dalam Pasal 14 ayat (1) paling lambat 6 \n(enam) bulan sejak: \na. \nlaporan \nberkala \nbulanan \nyang \ndisampaikan \nkepada Otoritas Jasa Keuangan; atau  \nb. \ntanggal risalah hasil pemeriksaan Otoritas Jasa \nKeuangan, \nmenunjukkan modal inti di bawah Rp6.000.000.000,00 \n(enam miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR yang tidak dapat memenuhi modal inti pada \ntanggal batas waktu sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dikenai sanksi administratif sebagaimana dimaksud \ndalam Pasal 17 ayat (1). \n \nBAB V \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, ketentuan pelaksanaan Peraturan Otoritas Jasa \nKeuangan Nomor 5/POJK.03/2015 tentang Kewajiban \nPenyediaan Modal Minimum dan Pemenuhan Modal Inti \nMinimum Bank Perkreditan Rakyat (Lembaran Negara \nRepublik Indonesia Tahun 2015 Nomor 73, Tambahan \nLembaran \nNegara \nRepublik \nIndonesia \nNomor \n5686), \ndinyatakan \nmasih \ntetap \nberlaku \nsepanjang \ntidak \nbertentangan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, ketentuan pelaksanaan Peraturan Otoritas Jasa \nKeuangan Nomor 5/POJK.03/2015 tentang Kewajiban \nPenyediaan Modal Minimum dan Pemenuhan Modal Inti \nMinimum Bank Perkreditan Rakyat (Lembaran Negara \nRepublik Indonesia Tahun 2015 Nomor 73, Tambahan \nLembaran \nNegara \nRepublik \nIndonesia \nNomor \n5686), \ndinyatakan \nmasih \ntetap \nberlaku \nsepanjang \ntidak \nbertentangan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n5/POJK.03/2015 tentang Kewajiban Penyediaan Modal \nMinimum dan Pemenuhan Modal Inti Minimum Bank \nPerkreditan Rakyat (Lembaran Negara Republik Indonesia \nTahun 2015 Nomor 73, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5686), dicabut dan dinyatakan \ntidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n5/POJK.03/2015 tentang Kewajiban Penyediaan Modal \nMinimum dan Pemenuhan Modal Inti Minimum Bank \nPerkreditan Rakyat (Lembaran Negara Republik Indonesia \nTahun 2015 Nomor 73, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5686), dicabut dan dinyatakan \ntidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal 30 Juni 2026. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 4 Juni 2026        \n \nKETUA DEWAN KOMISIONER     \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nŒ \n \n \nFRIDERICA WIDYASARI DEWI \n \nDiundangkan di Jakarta  \npada tanggal                   Д \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR        Ж \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \nPENJELASAN  \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA  \nNOMOR 7 TAHUN 2026  \nTENTANG  \nKEWAJIBAN PENYEDIAAN MODAL MINIMUM  \nDAN PEMENUHAN MODAL INTI MINIMUM \nBANK PEREKONOMIAN RAKYAT \n \n \nI. \nUMUM \nBPR \nmemiliki \nperan \npenting \ndalam \npembangunan \ndan \nperkembangan perekonomian nasional. Untuk meningkatkan peran \ndimaksud, BPR harus beroperasi dalam skala ekonomis tertentu dan \nmemiliki kemampuan yang memadai dalam menyerap risiko. Dengan \nberoperasi dalam skala ekonomis, BPR akan mampu bersaing dengan \nlembaga jasa keuangan lain dalam rangka melayani masyarakat. Agar \ndapat mencapai skala ekonomis, BPR wajib memiliki modal yang \nmemadai dalam jumlah tertentu. Modal disetor yang wajib dipenuhi oleh \nBPR pada saat pendirian tidak selamanya mencukupi untuk mencapai \nskala ekonomis dimaksud jika BPR mengalami rugi sehingga perlu \nditetapkan modal inti minimum bagi BPR. \nDalam rangka meningkatkan kemampuan BPR untuk penguatan \nkelembagaan dan menyerap risiko, dilakukan peningkatan kualitas dan \nkuantitas permodalan BPR dengan penambahan instrumen modal inti \ndalam \nkomponen \nmodal \ninti \ndan \npengakuan \natas \nkelebihan \npembentukan PPKA umum sebagai faktor pengurang dalam perhitungan \nATMR. \nMempertimbangkan terdapat beberapa penerbitan ketentuan \nterkait permodalan antara lain Peraturan Otoritas Jasa Keuangan Nomor \n1 Tahun 2024 tentang Kualitas Aset BPR serta perubahan standar \nakuntansi keuangan yang berlaku bagi BPR, maka perlu dilakukan \nharmonisasi ketentuan agar implementasi atas ketentuan dimaksud \ndapat dilakukan dengan baik. \nSecara umum, Peraturan Otoritas Jasa Keuangan ini di antaranya \nmengatur mengenai modal inti minimum, komponen permodalan, dan \npengaturan lainnya. Sehubungan dengan hal tersebut, diperlukan \npenyempurnaan ketentuan tentang KPMM BPR. \n \n \n \n \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal 30 Juni 2026. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 4 Juni 2026        \n \nKETUA DEWAN KOMISIONER     \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nŒ \n \n \nFRIDERICA WIDYASARI DEWI \n \nDiundangkan di Jakarta  \npada tanggal                   Д \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR        Ж \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \nPENJELASAN  \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA  \nNOMOR 7 TAHUN 2026  \nTENTANG  \nKEWAJIBAN PENYEDIAAN MODAL MINIMUM  \nDAN PEMENUHAN MODAL INTI MINIMUM \nBANK PEREKONOMIAN RAKYAT \n \n \nI. \nUMUM \nBPR \nmemiliki \nperan \npenting \ndalam \npembangunan \ndan \nperkembangan perekonomian nasional. Untuk meningkatkan peran \ndimaksud, BPR harus beroperasi dalam skala ekonomis tertentu dan \nmemiliki kemampuan yang memadai dalam menyerap risiko. Dengan \nberoperasi dalam skala ekonomis, BPR akan mampu bersaing dengan \nlembaga jasa keuangan lain dalam rangka melayani masyarakat. Agar \ndapat mencapai skala ekonomis, BPR wajib memiliki modal yang \nmemadai dalam jumlah tertentu. Modal disetor yang wajib dipenuhi oleh \nBPR pada saat pendirian tidak selamanya mencukupi untuk mencapai \nskala ekonomis dimaksud jika BPR mengalami rugi sehingga perlu \nditetapkan modal inti minimum bagi BPR. \nDalam rangka meningkatkan kemampuan BPR untuk penguatan \nkelembagaan dan menyerap risiko, dilakukan peningkatan kualitas dan \nkuantitas permodalan BPR dengan penambahan instrumen modal inti \ndalam \nkomponen \nmodal \ninti \ndan \npengakuan \natas \nkelebihan \npembentukan PPKA umum sebagai faktor pengurang dalam perhitungan \nATMR. \nMempertimbangkan terdapat beberapa penerbitan ketentuan \nterkait permodalan antara lain Peraturan Otoritas Jasa Keuangan Nomor \n1 Tahun 2024 tentang Kualitas Aset BPR serta perubahan standar \nakuntansi keuangan yang berlaku bagi BPR, maka perlu dilakukan \nharmonisasi ketentuan agar implementasi atas ketentuan dimaksud \ndapat dilakukan dengan baik. \nSecara umum, Peraturan Otoritas Jasa Keuangan ini di antaranya \nmengatur mengenai modal inti minimum, komponen permodalan, dan \npengaturan lainnya. Sehubungan dengan hal tersebut, diperlukan \npenyempurnaan ketentuan tentang KPMM BPR. \n \n \n \n \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “modal disetor” adalah modal yang \ntelah disetor secara riil dan efektif oleh pemiliknya serta \ntelah disetujui Otoritas Jasa Keuangan dan telah \nmemenuhi kelengkapan administrasi berupa risalah \nRUPS \ndan \nkeputusan \natau \nsurat \npenerimaan \npemberitahuan perubahan anggaran dasar dari instansi \nyang berwenang. Modal disetor mencakup juga dana yang \ndiperoleh melalui penerbitan saham baru.  \nBagi BPR yang berbentuk badan hukum koperasi, modal \ndisetor adalah simpanan pokok dan simpanan wajib \nsesuai dengan Undang-Undang mengenai perkoperasian.  \nHuruf b \nCukup jelas. \nAyat (2)  \nHuruf a \nAngka 1 \nYang dimaksud dengan “agio” adalah selisih lebih \ntambahan modal yang diterima BPR sebagai akibat \nharga saham yang melebihi nilai nominalnya. \nAngka 2 \nYang dimaksud dengan “modal sumbangan” adalah \nmodal yang diterima BPR yang berasal dari \nsumbangan.  \nAngka 3 \nYang dimaksud dengan “cadangan umum” adalah \ncadangan yang dibentuk dari penyisihan saldo laba \natau laba neto setelah dikurangi pajak untuk tujuan \nmemperkuat modal dan telah mendapat persetujuan \nRUPS. \nAngka 4 \nYang dimaksud dengan “cadangan tujuan” adalah \ncadangan yang dibentuk dari penyisihan saldo laba \natau laba neto setelah dikurangi pajak yang tujuan \npenggunaannya telah ditetapkan dan telah mendapat \npersetujuan RUPS. \nAngka 5 \nYang dimaksud dengan “laba tahun-tahun lalu” \nadalah laba tahun-tahun lalu setelah dikurangi pajak \nkecuali jika diperkenankan untuk dikompensasi \n\n\n \ndengan \nkerugian \nsesuai \ndengan \nketentuan \nperpajakan dan belum ditetapkan penggunaannya \noleh RUPS. \nAngka 6 \nYang dimaksud dengan “laba tahun berjalan” adalah \nlaba yang diperoleh dalam tahun buku berjalan \nsetelah dikurangi taksiran pajak, kecuali jika \ndiperkenankan \nuntuk \ndikompensasi \ndengan \nkerugian sesuai dengan ketentuan perpajakan. \nAngka 7 \nYang dimaksud dengan “dana setoran modal” adalah \ndana yang telah disetor secara riil dengan tujuan \nuntuk penambahan modal namun belum didukung \ndengan \npersyaratan \nuntuk \ndapat \ndigolongkan \nsebagai modal disetor, yaitu telah mendapatkan \npersetujuan RUPS dan bukti lapor, keputusan, atau \nsurat \npenerimaan \npemberitahuan \nperubahan \nanggaran dasar dari instansi yang berwenang. \nAngka 8 \nYang dimaksud dengan “saldo surplus revaluasi aset \ntetap” adalah selisih penilaian kembali aset tetap \nmilik BPR. Pengakuan saldo surplus revaluasi aset \ntetap \nmengikuti \nstandar \nakuntansi \nkeuangan \nmengenai aset tetap yang berlaku bagi BPR.  \nPelaksanaan revaluasi aset mengacu pada ketentuan \nperaturan \nperundang-undangan, \ntermasuk \nkesesuaian dengan standar akuntansi,  perpajakan, \ndan tata kelola yang baik.  \nHuruf b \nAngka 1 \nPajak tangguhan merupakan transaksi yang timbul \nsebagai \nakibat \npenerapan \nstandar \nakuntansi \nkeuangan mengenai akuntansi pajak penghasilan. \nDalam perhitungan KPMM secara individu, pajak \ntangguhan yang dikeluarkan sebesar selisih lebih \ndari aset pajak tangguhan dikurangi kewajiban pajak \ntangguhan. Dalam hal terjadi selisih kurang, \nperhitungan pajak tangguhan yang akan dikeluarkan \nadalah nihil. Dengan dikeluarkannya dampak pajak \ntangguhan dari perhitungan modal inti utama, aset \npajak \ntangguhan \ntidak \ndiperhitungkan \ndalam \nperhitungan ATMR. \nAngka 2 \nYang dimaksud dengan “goodwill” adalah goodwill \nsebagaimana dimaksud dalam standar akuntansi \nkeuangan. \nAngka 3 \nYang dimaksud dengan “disagio” adalah selisih \nkurang setoran modal yang diterima oleh BPR pada \nsaat penerbitan saham karena harga pasar saham \nlebih rendah dari nilai nominal. \nAngka 4 \nYang dimaksud dengan “rugi tahun-tahun lalu” \nadalah seluruh rugi yang dibukukan BPR pada \ntahun-tahun lalu. \n \n\n\n \nAngka 5 \nYang dimaksud dengan “rugi tahun berjalan” adalah \nseluruh rugi yang dibukukan BPR dalam tahun buku \nberjalan. \nAngka 6 \nCukup jelas. \nAngka 7 \nYang dimaksud dengan “properti terbengkalai” \nadalah aset tetap dalam bentuk properti yang dimiliki \nBPR namun tidak digunakan untuk kegiatan usaha \nBPR yang berkaitan operasional BPR sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai kualitas \naset BPR. \nAngka 8 \nYang dimaksud dengan “selisih kurang antara PPKA \natas aset produktif dan CKPN atas aset produktif” \nadalah selisih kurang antara total PPKA (PPKA umum \ndan PPKA khusus atas seluruh aset produktif) yang \nwajib dihitung sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai kualitas aset BPR dengan \ntotal CKPN aset keuangan (impairment) atas seluruh \naset produktif (secara individu dan secara kolektif) \nsesuai standar akuntansi keuangan. \nAyat (3)  \nPersetujuan Otoritas Jasa Keuangan atas dana setoran modal \ndilakukan untuk dana setoran modal guna penambahan modal \ndisetor yang mengakibatkan perubahan pemegang saham \npengendali sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai BPR dan bank perekonomian rakyat syariah. \nHuruf a \nYang dimaksud dengan “kelengkapan administrasi untuk \ndapat digolongkan sebagai modal disetor” antara lain \nrisalah RUPS dan bukti lapor, surat keputusan, atau \nsurat penerimaan pemberitahuan perubahan anggaran \ndasar dari instansi yang berwenang. \nBukti lapor untuk perubahan anggaran dasar yang tidak \nmemerlukan persetujuan dari instansi yang berwenang \nharus ditindaklanjuti dengan penyampaian surat tanda \nterima pelaporan dari instansi yang berwenang. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nBunga atau imbal hasil yang diperoleh dari penempatan \ndana setoran modal pada Bank Umum dan/atau BPR lain \nmenjadi pendapatan BPR. \nHuruf e \nCukup jelas. \nAyat (4)  \nSeluruh persyaratan dituangkan dalam dokumen tertulis yang \ndisepakati antara BPR dan penyedia dana. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “modal disetor” adalah modal yang \ntelah disetor secara riil dan efektif oleh pemiliknya serta \ntelah disetujui Otoritas Jasa Keuangan dan telah \nmemenuhi kelengkapan administrasi berupa risalah \nRUPS \ndan \nkeputusan \natau \nsurat \npenerimaan \npemberitahuan perubahan anggaran dasar dari instansi \nyang berwenang. Modal disetor mencakup juga dana yang \ndiperoleh melalui penerbitan saham baru.  \nBagi BPR yang berbentuk badan hukum koperasi, modal \ndisetor adalah simpanan pokok dan simpanan wajib \nsesuai dengan Undang-Undang mengenai perkoperasian.  \nHuruf b \nCukup jelas. \nAyat (2)  \nHuruf a \nAngka 1 \nYang dimaksud dengan “agio” adalah selisih lebih \ntambahan modal yang diterima BPR sebagai akibat \nharga saham yang melebihi nilai nominalnya. \nAngka 2 \nYang dimaksud dengan “modal sumbangan” adalah \nmodal yang diterima BPR yang berasal dari \nsumbangan.  \nAngka 3 \nYang dimaksud dengan “cadangan umum” adalah \ncadangan yang dibentuk dari penyisihan saldo laba \natau laba neto setelah dikurangi pajak untuk tujuan \nmemperkuat modal dan telah mendapat persetujuan \nRUPS. \nAngka 4 \nYang dimaksud dengan “cadangan tujuan” adalah \ncadangan yang dibentuk dari penyisihan saldo laba \natau laba neto setelah dikurangi pajak yang tujuan \npenggunaannya telah ditetapkan dan telah mendapat \npersetujuan RUPS. \nAngka 5 \nYang dimaksud dengan “laba tahun-tahun lalu” \nadalah laba tahun-tahun lalu setelah dikurangi pajak \nkecuali jika diperkenankan untuk dikompensasi \n\n\n \ndengan \nkerugian \nsesuai \ndengan \nketentuan \nperpajakan dan belum ditetapkan penggunaannya \noleh RUPS. \nAngka 6 \nYang dimaksud dengan “laba tahun berjalan” adalah \nlaba yang diperoleh dalam tahun buku berjalan \nsetelah dikurangi taksiran pajak, kecuali jika \ndiperkenankan \nuntuk \ndikompensasi \ndengan \nkerugian sesuai dengan ketentuan perpajakan. \nAngka 7 \nYang dimaksud dengan “dana setoran modal” adalah \ndana yang telah disetor secara riil dengan tujuan \nuntuk penambahan modal namun belum didukung \ndengan \npersyaratan \nuntuk \ndapat \ndigolongkan \nsebagai modal disetor, yaitu telah mendapatkan \npersetujuan RUPS dan bukti lapor, keputusan, atau \nsurat \npenerimaan \npemberitahuan \nperubahan \nanggaran dasar dari instansi yang berwenang. \nAngka 8 \nYang dimaksud dengan “saldo surplus revaluasi aset \ntetap” adalah selisih penilaian kembali aset tetap \nmilik BPR. Pengakuan saldo surplus revaluasi aset \ntetap \nmengikuti \nstandar \nakuntansi \nkeuangan \nmengenai aset tetap yang berlaku bagi BPR.  \nPelaksanaan revaluasi aset mengacu pada ketentuan \nperaturan \nperundang-undangan, \ntermasuk \nkesesuaian dengan standar akuntansi,  perpajakan, \ndan tata kelola yang baik.  \nHuruf b \nAngka 1 \nPajak tangguhan merupakan transaksi yang timbul \nsebagai \nakibat \npenerapan \nstandar \nakuntansi \nkeuangan mengenai akuntansi pajak penghasilan. \nDalam perhitungan KPMM secara individu, pajak \ntangguhan yang dikeluarkan sebesar selisih lebih \ndari aset pajak tangguhan dikurangi kewajiban pajak \ntangguhan. Dalam hal terjadi selisih kurang, \nperhitungan pajak tangguhan yang akan dikeluarkan \nadalah nihil. Dengan dikeluarkannya dampak pajak \ntangguhan dari perhitungan modal inti utama, aset \npajak \ntangguhan \ntidak \ndiperhitungkan \ndalam \nperhitungan ATMR. \nAngka 2 \nYang dimaksud dengan “goodwill” adalah goodwill \nsebagaimana dimaksud dalam standar akuntansi \nkeuangan. \nAngka 3 \nYang dimaksud dengan “disagio” adalah selisih \nkurang setoran modal yang diterima oleh BPR pada \nsaat penerbitan saham karena harga pasar saham \nlebih rendah dari nilai nominal. \nAngka 4 \nYang dimaksud dengan “rugi tahun-tahun lalu” \nadalah seluruh rugi yang dibukukan BPR pada \ntahun-tahun lalu. \n \n\n\n \nAngka 5 \nYang dimaksud dengan “rugi tahun berjalan” adalah \nseluruh rugi yang dibukukan BPR dalam tahun buku \nberjalan. \nAngka 6 \nCukup jelas. \nAngka 7 \nYang dimaksud dengan “properti terbengkalai” \nadalah aset tetap dalam bentuk properti yang dimiliki \nBPR namun tidak digunakan untuk kegiatan usaha \nBPR yang berkaitan operasional BPR sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai kualitas \naset BPR. \nAngka 8 \nYang dimaksud dengan “selisih kurang antara PPKA \natas aset produktif dan CKPN atas aset produktif” \nadalah selisih kurang antara total PPKA (PPKA umum \ndan PPKA khusus atas seluruh aset produktif) yang \nwajib dihitung sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai kualitas aset BPR dengan \ntotal CKPN aset keuangan (impairment) atas seluruh \naset produktif (secara individu dan secara kolektif) \nsesuai standar akuntansi keuangan. \nAyat (3)  \nPersetujuan Otoritas Jasa Keuangan atas dana setoran modal \ndilakukan untuk dana setoran modal guna penambahan modal \ndisetor yang mengakibatkan perubahan pemegang saham \npengendali sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai BPR dan bank perekonomian rakyat syariah. \nHuruf a \nYang dimaksud dengan “kelengkapan administrasi untuk \ndapat digolongkan sebagai modal disetor” antara lain \nrisalah RUPS dan bukti lapor, surat keputusan, atau \nsurat penerimaan pemberitahuan perubahan anggaran \ndasar dari instansi yang berwenang. \nBukti lapor untuk perubahan anggaran dasar yang tidak \nmemerlukan persetujuan dari instansi yang berwenang \nharus ditindaklanjuti dengan penyampaian surat tanda \nterima pelaporan dari instansi yang berwenang. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nBunga atau imbal hasil yang diperoleh dari penempatan \ndana setoran modal pada Bank Umum dan/atau BPR lain \nmenjadi pendapatan BPR. \nHuruf e \nCukup jelas. \nAyat (4)  \nSeluruh persyaratan dituangkan dalam dokumen tertulis yang \ndisepakati antara BPR dan penyedia dana. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 5 ayat (3) huruf a. \nAyat (2) \nCukup jelas. \nAyat (3)  \nDana setoran modal yang telah mendapat persetujuan Otoritas \nJasa Keuangan dicatat dalam pos dana setoran modal – \nekuitas.  \nBPR yang tidak menyelesaikan kelengkapan administrasi dana \nsetoran modal dalam jangka waktu 120 (seratus dua puluh) \nhari \nkerja \nmaka \ndana \nsetoran \nmodal \ntidak \ndapat \ndiperhitungkan sebagai komponen modal inti namun tetap \ndicatat dalam pos dana setoran modal – ekuitas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 5 ayat (3) huruf a. \nAyat (2) \nCukup jelas. \nAyat (3)  \nDana setoran modal yang telah mendapat persetujuan Otoritas \nJasa Keuangan dicatat dalam pos dana setoran modal – \nekuitas.  \nBPR yang tidak menyelesaikan kelengkapan administrasi dana \nsetoran modal dalam jangka waktu 120 (seratus dua puluh) \nhari \nkerja \nmaka \ndana \nsetoran \nmodal \ntidak \ndapat \ndiperhitungkan sebagai komponen modal inti namun tetap \ndicatat dalam pos dana setoran modal – ekuitas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas.  \nHuruf b \nBPR \nmampu \nmeningkatkan \nkinerja \nantara \nlain \nditunjukkan dengan penurunan biaya sewa gedung \nsehingga meningkatkan laba usaha BPR. \nAyat (2) \nYang \ndimaksud \n“surat \npemberitahuan \nOtoritas \nJasa \nKeuangan” adalah surat pemberitahuan kepada BPR bahwa \npenambahan modal disetor dan/atau modal sumbangan telah \ndicatat \ndalam \nadministrasi \npengawasan \nOtoritas \nJasa \nKeuangan. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas.  \nHuruf b \nBPR \nmampu \nmeningkatkan \nkinerja \nantara \nlain \nditunjukkan dengan penurunan biaya sewa gedung \nsehingga meningkatkan laba usaha BPR. \nAyat (2) \nYang \ndimaksud \n“surat \npemberitahuan \nOtoritas \nJasa \nKeuangan” adalah surat pemberitahuan kepada BPR bahwa \npenambahan modal disetor dan/atau modal sumbangan telah \ndicatat \ndalam \nadministrasi \npengawasan \nOtoritas \nJasa \nKeuangan. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nDokumen pendukung antara lain bukti kepemilikan tanah \ndan bangunan. \nHuruf c \nYang dimaksud dengan “penilai independen” adalah \npenilai yang: \na. \ntidak merupakan pihak terkait dengan BPR;  \nb. \ntidak \nmerupakan \nkelompok \npeminjam \ndengan \ndebitur BPR; dan \nc. \nmemenuhi persyaratan sesuai dengan ketentuan \nyang ditetapkan oleh instansi yang berwenang. \nHasil penilaian aset tetap oleh lembaga penilai independen \nberisi informasi antara lain mengenai nilai/harga, \njenis/macam, status, dan tempat kedudukan aset tetap. \nAyat (2) \nCukup jelas. \n \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nDokumen pendukung antara lain bukti kepemilikan tanah \ndan bangunan. \nHuruf c \nYang dimaksud dengan “penilai independen” adalah \npenilai yang: \na. \ntidak merupakan pihak terkait dengan BPR;  \nb. \ntidak \nmerupakan \nkelompok \npeminjam \ndengan \ndebitur BPR; dan \nc. \nmemenuhi persyaratan sesuai dengan ketentuan \nyang ditetapkan oleh instansi yang berwenang. \nHasil penilaian aset tetap oleh lembaga penilai independen \nberisi informasi antara lain mengenai nilai/harga, \njenis/macam, status, dan tempat kedudukan aset tetap. \nAyat (2) \nCukup jelas. \n \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nHuruf a \nSeluruh persyaratan dituangkan dalam dokumen tertulis \nyang disepakati antara BPR dan penyedia dana. \n \nHuruf b \n \nCukup jelas. \nAyat (2)  \nCukup jelas. \nAyat (3)  \nPengajuan \npermohonan \npersetujuan \nkomponen \nmodal \npelengkap kepada Otoritas Jasa Keuangan dilakukan oleh BPR \ndengan menyampaikan program pembayaran kembali. \nAyat (4)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nHuruf a \nSeluruh persyaratan dituangkan dalam dokumen tertulis \nyang disepakati antara BPR dan penyedia dana. \n \nHuruf b \n \nCukup jelas. \nAyat (2)  \nCukup jelas. \nAyat (3)  \nPengajuan \npermohonan \npersetujuan \nkomponen \nmodal \npelengkap kepada Otoritas Jasa Keuangan dilakukan oleh BPR \ndengan menyampaikan program pembayaran kembali. \nAyat (4)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “distribusi laba” mencakup pembayaran \ndividen kepada pemegang saham, pembagian bonus kepada anggota \ndewan komisaris, dan/atau direksi BPR (tantiem), dan pembayaran \ninsentif yang bersifat non operasional dan operasional kepada \nanggota dewan komisaris, direksi, dan/atau pejabat eksekutif.  \nContoh:  \nApabila dalam suatu periode kepengurusan BPR menunjukkan \nkinerja \nyang \nmembaik \nnamun \nkondisi \npermodalan \ntidak \nmemungkinkan untuk membayar bonus kepada pengurus maka \npembayaran bonus tidak dapat dilakukan sampai dengan kondisi \npermodalan BPR memungkinkan untuk dilakukannya pembayaran \nbonus.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “distribusi laba” mencakup pembayaran \ndividen kepada pemegang saham, pembagian bonus kepada anggota \ndewan komisaris, dan/atau direksi BPR (tantiem), dan pembayaran \ninsentif yang bersifat non operasional dan operasional kepada \nanggota dewan komisaris, direksi, dan/atau pejabat eksekutif.  \nContoh:  \nApabila dalam suatu periode kepengurusan BPR menunjukkan \nkinerja \nyang \nmembaik \nnamun \nkondisi \npermodalan \ntidak \nmemungkinkan untuk membayar bonus kepada pengurus maka \npembayaran bonus tidak dapat dilakukan sampai dengan kondisi \npermodalan BPR memungkinkan untuk dilakukannya pembayaran \nbonus."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nContoh \npenghentian \nsementara \nsebagian \nkegiatan \noperasional antara lain terhadap: \na. \njaringan kantor; \nb. \nkegiatan usaha penukaran valuta asing; dan/atau \nc. \nkegiatan usaha layanan perbankan elektronik. \nHuruf b \nLihat penjelasan Pasal 12. \nHuruf c \nYang dimaksud dengan “penurunan tingkat kesehatan \nBPR” yaitu penurunan pada peringkat komposit. \n\n\n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nContoh \npenghentian \nsementara \nsebagian \nkegiatan \noperasional antara lain terhadap: \na. \njaringan kantor; \nb. \nkegiatan usaha penukaran valuta asing; dan/atau \nc. \nkegiatan usaha layanan perbankan elektronik. \nHuruf b \nLihat penjelasan Pasal 12. \nHuruf c \nYang dimaksud dengan “penurunan tingkat kesehatan \nBPR” yaitu penurunan pada peringkat komposit. \n\n\n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \n \nCukup jelas. \nAyat (3)  \nContoh: \nPada tanggal 30 September 2026, BPR ABC memiliki modal inti \nsebesar Rp7.000.000.000,00 (tujuh miliar rupiah), namun \npada tanggal 31 Oktober 2026 modal inti BPR ABC mengalami \npenurunan menjadi sebesar Rp5.000.000.000,00 (lima miliar \nrupiah). BPR ABC memiliki kewajiban untuk meningkatkan \nmodal inti menjadi Rp6.000.000.000,00 (enam miliar rupiah) \npaling lambat 6 (enam) bulan sejak tanggal 31 Oktober 2026 \nyaitu tanggal 30 April 2027. \nAyat (4) \nYang dimaksud dengan “hari libur” adalah hari libur nasional, \ncuti bersama yang ditetapkan oleh pemerintah, dan/atau hari \nlibur lokal yang ditetapkan oleh pemerintah daerah setempat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \n \nCukup jelas. \nAyat (3)  \nContoh: \nPada tanggal 30 September 2026, BPR ABC memiliki modal inti \nsebesar Rp7.000.000.000,00 (tujuh miliar rupiah), namun \npada tanggal 31 Oktober 2026 modal inti BPR ABC mengalami \npenurunan menjadi sebesar Rp5.000.000.000,00 (lima miliar \nrupiah). BPR ABC memiliki kewajiban untuk meningkatkan \nmodal inti menjadi Rp6.000.000.000,00 (enam miliar rupiah) \npaling lambat 6 (enam) bulan sejak tanggal 31 Oktober 2026 \nyaitu tanggal 30 April 2027. \nAyat (4) \nYang dimaksud dengan “hari libur” adalah hari libur nasional, \ncuti bersama yang ditetapkan oleh pemerintah, dan/atau hari \nlibur lokal yang ditetapkan oleh pemerintah daerah setempat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nLihat penjelasan Pasal 8 ayat (1) huruf b. \nHuruf c \nCukup jelas. \nAyat (3) \nContoh pertimbangan tertentu antara lain didasarkan pada \nkemampuan BPR untuk menghasilkan laba dalam rangka \nmenjamin keberlangsungan usaha BPR. \nAyat (4) \nBPR belum memenuhi modal inti Rp6.000.000.000,00 (enam \nmiliar rupiah) termasuk BPR yang mengalami penurunan \nmodal inti menjadi di bawah Rp6.000.000.000,00 (enam miliar \nrupiah). \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nLihat penjelasan Pasal 8 ayat (1) huruf b. \nHuruf c \nCukup jelas. \nAyat (3) \nContoh pertimbangan tertentu antara lain didasarkan pada \nkemampuan BPR untuk menghasilkan laba dalam rangka \nmenjamin keberlangsungan usaha BPR. \nAyat (4) \nBPR belum memenuhi modal inti Rp6.000.000.000,00 (enam \nmiliar rupiah) termasuk BPR yang mengalami penurunan \nmodal inti menjadi di bawah Rp6.000.000.000,00 (enam miliar \nrupiah). \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nHuruf a \nLihat penjelasan Pasal 13 ayat (1) huruf a. \nHuruf b \nContoh larangan ekspansi kegiatan usaha antara lain \nterhadap: \na. \npembukaan jaringan kantor; dan/atau \nb. \npenerbitan produk, layanan, jasa, dan/atau kegiatan \nlain baru. \nHuruf c \nYang dimaksud dengan “penurunan tingkat kesehatan \nBPR” adalah penurunan 1 (satu) peringkat lebih rendah \npada peringkat komposit. \nHuruf d \nLarangan penghimpunan dana baru tidak termasuk \nsetoran dana dalam rangka pembayaran angsuran kredit \natau perpanjangan deposito. \nLarangan penyaluran dana baru termasuk restrukturisasi \nkredit berupa penambahan fasilitas kredit dan/atau \nkonversi seluruh atau sebagian tunggakan angsuran \nbunga menjadi pokok kredit baru. \nHuruf e \nDistribusi laba mencakup pembayaran dividen kepada \npemegang saham, pembagian bonus kepada anggota \ndewan komisaris dan/atau direksi BPR (tantiem), dan \npembayaran insentif yang bersifat non operasional dan \noperasional kepada anggota dewan komisaris dan/atau \ndireksi BPR dan pejabat eksekutif. \nHuruf f \nPembatasan tunjangan tidak termasuk tunjangan tetap \ndan tunjangan tidak tetap. Tunjangan tetap adalah \npembayaran yang dilakukan teratur dan jumlahnya tetap, \ntidak dipengaruhi kehadiran, contohnya tunjangan \njabatan, tunjangan kesehatan, atau tunjangan hari tua. \nTunjangan \ntidak \ntetap \nadalah \npembayaran \nyang \njumlahnya \nberubah-ubah \nberdasarkan \nkehadiran, \ncontohnya uang lembur, uang makan, atau uang \ntransportasi. \nAyat (2) \nHuruf a \nYang \ndimaksud \ndengan \n“telah \nmemperoleh \nhasil \npenelaahan” adalah telah menerima surat dari Otoritas \nJasa \nKeuangan \nmengenai \npersiapan \npelaksanaan \npenggabungan, peleburan, dan/atau pengambilalihan. \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nHuruf a \nLihat penjelasan Pasal 13 ayat (1) huruf a. \nHuruf b \nContoh larangan ekspansi kegiatan usaha antara lain \nterhadap: \na. \npembukaan jaringan kantor; dan/atau \nb. \npenerbitan produk, layanan, jasa, dan/atau kegiatan \nlain baru. \nHuruf c \nYang dimaksud dengan “penurunan tingkat kesehatan \nBPR” adalah penurunan 1 (satu) peringkat lebih rendah \npada peringkat komposit. \nHuruf d \nLarangan penghimpunan dana baru tidak termasuk \nsetoran dana dalam rangka pembayaran angsuran kredit \natau perpanjangan deposito. \nLarangan penyaluran dana baru termasuk restrukturisasi \nkredit berupa penambahan fasilitas kredit dan/atau \nkonversi seluruh atau sebagian tunggakan angsuran \nbunga menjadi pokok kredit baru. \nHuruf e \nDistribusi laba mencakup pembayaran dividen kepada \npemegang saham, pembagian bonus kepada anggota \ndewan komisaris dan/atau direksi BPR (tantiem), dan \npembayaran insentif yang bersifat non operasional dan \noperasional kepada anggota dewan komisaris dan/atau \ndireksi BPR dan pejabat eksekutif. \nHuruf f \nPembatasan tunjangan tidak termasuk tunjangan tetap \ndan tunjangan tidak tetap. Tunjangan tetap adalah \npembayaran yang dilakukan teratur dan jumlahnya tetap, \ntidak dipengaruhi kehadiran, contohnya tunjangan \njabatan, tunjangan kesehatan, atau tunjangan hari tua. \nTunjangan \ntidak \ntetap \nadalah \npembayaran \nyang \njumlahnya \nberubah-ubah \nberdasarkan \nkehadiran, \ncontohnya uang lembur, uang makan, atau uang \ntransportasi. \nAyat (2) \nHuruf a \nYang \ndimaksud \ndengan \n“telah \nmemperoleh \nhasil \npenelaahan” adalah telah menerima surat dari Otoritas \nJasa \nKeuangan \nmengenai \npersiapan \npelaksanaan \npenggabungan, peleburan, dan/atau pengambilalihan. \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \n \n\n\n \nAyat (2) \nHuruf a \nLihat penjelasan Pasal 13 ayat (1) huruf a. \nHuruf b \nLihat penjelasan Pasal 12.  \nHuruf c \nLihat penjelasan Pasal 17 ayat (1) huruf c.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \n \n\n\n \nAyat (2) \nHuruf a \nLihat penjelasan Pasal 13 ayat (1) huruf a. \nHuruf b \nLihat penjelasan Pasal 12.  \nHuruf c \nLihat penjelasan Pasal 17 ayat (1) huruf c."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pertimbangan tertentu antara lain memperhatikan kondisi BPR \natau penambahan jangka waktu pemenuhan modal inti dengan \nmempertimbangkan pemenuhan ketentuan peraturan perundang-\nundangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pertimbangan tertentu antara lain memperhatikan kondisi BPR \natau penambahan jangka waktu pemenuhan modal inti dengan \nmempertimbangkan pemenuhan ketentuan peraturan perundang-\nundangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh: \nPada tanggal 31 Desember 2024, BPR ABC memiliki modal inti \nsebesar Rp4.000.000.000,00 (empat miliar rupiah) dan pada \ntanggal 30 Juni 2026, BPR ABC memiliki modal inti sebesar \nRp5.000.000.000,00 (lima miliar rupiah), maka pada saat Peraturan \nOtoritas Jasa Keuangan ini berlaku, yaitu tanggal 30 Juni 2026 BPR \ndikenai sanksi administratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh: \nPada tanggal 31 Desember 2024, BPR ABC memiliki modal inti \nsebesar Rp4.000.000.000,00 (empat miliar rupiah) dan pada \ntanggal 30 Juni 2026, BPR ABC memiliki modal inti sebesar \nRp5.000.000.000,00 (lima miliar rupiah), maka pada saat Peraturan \nOtoritas Jasa Keuangan ini berlaku, yaitu tanggal 30 Juni 2026 BPR \ndikenai sanksi administratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh 1: \nPada tanggal 31 Desember 2024, BPR ABC memiliki modal inti \nsebesar Rp7.000.000.000,00 (tujuh miliar rupiah), namun pada \ntanggal 31 Mei 2026 modal inti BPR ABC mengalami penurunan \nmenjadi sebesar Rp5.000.000.000,00 (lima miliar rupiah). BPR ABC \nmemiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \nbulan sejak tanggal 31 Mei 2026 yaitu 30 November 2026. Apabila \nsetelah tanggal 30 November 2026 modal inti BPR ABC masih di \nbawah Rp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai \nsanksi administratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini. \nContoh 2: \nPada tanggal 31 Desember 2024, BPR ABC memiliki modal inti \nsebesar Rp7.000.000.000,00 (tujuh miliar rupiah), namun pada \ntanggal 31 Maret 2025 modal inti BPR ABC mengalami penurunan \nmenjadi sebesar Rp5.000.000.000,00 (lima miliar rupiah). BPR ABC \nmemiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \n\n\n \nbulan sejak tanggal 31 Maret 2025 yaitu 31 September 2025. \nSetelah batas waktu berakhir sampai dengan tanggal 30 Juni 2026, \nBPR ABC masih tidak dapat memenuhi modal inti sebesar \nRp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa Keuangan ini. \nContoh 3: \nPada tanggal 31 Desember 2024, BPR ABC belum memenuhi modal \ninti sebesar Rp6.000.000.000,00 (enam miliar rupiah), namun pada \ntanggal 31 Maret 2025 BPR ABC telah memenuhi modal inti sebesar \nRp6.000.000.000,00 (enam miliar rupiah). Pada tanggal 30 April \nmengalami \npenurunan \nmodal \ninti \nmenjadi \nsebesar \nRp5.000.000.000,00 (lima miliar rupiah). BPR ABC memiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \nbulan sejak tanggal 30 April 2025 yaitu 31 Oktober 2025. Setelah \nbatas waktu berakhir sampai dengan tanggal 30 Juni 2026, BPR \nABC \nmasih \ntidak \ndapat \nmemenuhi \nmodal \ninti \nsebesar \nRp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa Keuangan ini. \nContoh 4: \nPada tanggal 31 Desember 2024, BPR ABC belum memenuhi modal \ninti sebesar Rp6.000.000.000,00 (enam miliar rupiah), namun pada \ntanggal 31 Maret 2026 BPR ABC telah memenuhi modal inti sebesar \nRp6.000.000.000,00 (enam miliar rupiah). Pada tanggal 30 April \nmengalami \npenurunan \nmodal \ninti \nmenjadi \nsebesar \nRp5.000.000.000,00 (lima miliar rupiah). BPR ABC memiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \nbulan sejak tanggal 30 April 2026 yaitu 31 Oktober 2026. Apabila \nsetelah tanggal 31 Oktober 2026 modal inti BPR ABC masih di \nbawah Rp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai \nsanksi administratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh 1: \nPada tanggal 31 Desember 2024, BPR ABC memiliki modal inti \nsebesar Rp7.000.000.000,00 (tujuh miliar rupiah), namun pada \ntanggal 31 Mei 2026 modal inti BPR ABC mengalami penurunan \nmenjadi sebesar Rp5.000.000.000,00 (lima miliar rupiah). BPR ABC \nmemiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \nbulan sejak tanggal 31 Mei 2026 yaitu 30 November 2026. Apabila \nsetelah tanggal 30 November 2026 modal inti BPR ABC masih di \nbawah Rp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai \nsanksi administratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini. \nContoh 2: \nPada tanggal 31 Desember 2024, BPR ABC memiliki modal inti \nsebesar Rp7.000.000.000,00 (tujuh miliar rupiah), namun pada \ntanggal 31 Maret 2025 modal inti BPR ABC mengalami penurunan \nmenjadi sebesar Rp5.000.000.000,00 (lima miliar rupiah). BPR ABC \nmemiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \n\n\n \nbulan sejak tanggal 31 Maret 2025 yaitu 31 September 2025. \nSetelah batas waktu berakhir sampai dengan tanggal 30 Juni 2026, \nBPR ABC masih tidak dapat memenuhi modal inti sebesar \nRp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa Keuangan ini. \nContoh 3: \nPada tanggal 31 Desember 2024, BPR ABC belum memenuhi modal \ninti sebesar Rp6.000.000.000,00 (enam miliar rupiah), namun pada \ntanggal 31 Maret 2025 BPR ABC telah memenuhi modal inti sebesar \nRp6.000.000.000,00 (enam miliar rupiah). Pada tanggal 30 April \nmengalami \npenurunan \nmodal \ninti \nmenjadi \nsebesar \nRp5.000.000.000,00 (lima miliar rupiah). BPR ABC memiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \nbulan sejak tanggal 30 April 2025 yaitu 31 Oktober 2025. Setelah \nbatas waktu berakhir sampai dengan tanggal 30 Juni 2026, BPR \nABC \nmasih \ntidak \ndapat \nmemenuhi \nmodal \ninti \nsebesar \nRp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa Keuangan ini. \nContoh 4: \nPada tanggal 31 Desember 2024, BPR ABC belum memenuhi modal \ninti sebesar Rp6.000.000.000,00 (enam miliar rupiah), namun pada \ntanggal 31 Maret 2026 BPR ABC telah memenuhi modal inti sebesar \nRp6.000.000.000,00 (enam miliar rupiah). Pada tanggal 30 April \nmengalami \npenurunan \nmodal \ninti \nmenjadi \nsebesar \nRp5.000.000.000,00 (lima miliar rupiah). BPR ABC memiliki \nkewajiban \nuntuk \nmemenuhi \nmodal \ninti \nmenjadi \nRp6.000.000.000,00 (enam miliar rupiah) paling lambat 6 (enam) \nbulan sejak tanggal 30 April 2026 yaitu 31 Oktober 2026. Apabila \nsetelah tanggal 31 Oktober 2026 modal inti BPR ABC masih di \nbawah Rp6.000.000.000,00 (enam miliar rupiah), BPR ABC dikenai \nsanksi administratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR       ⸙ \n \n \n\n\n \nLAMPIRAN  \nPERATURAN \nOTORITAS \nJASA \nKEUANGAN \nREPUBLIK \nINDONESIA \nNOMOR 7 TAHUN 2026  \nTENTANG  \nKEWAJIBAN \nPENYEDIAAN \nMODAL \nMINIMUM DAN PEMENUHAN MODAL \nINTI MINIMUM BANK PEREKONOMIAN \nRAKYAT  \n \nContoh Format Pengumuman Larangan Melakukan Ekspansi Kegiatan \nUsaha, Penghentian Sementara Sebagian Kegiatan Operasional, dan/atau \nLarangan Penghimpunan Dana Baru dan/atau Penyaluran Dana Baru: \n \nPENGUMUMAN \n \nBersama ini kami beritahukan kepada seluruh masyarakat dan/atau \nnasabah bahwa berdasarkan surat Otoritas Jasa Keuangan Nomor ... \ntanggal ... Perihal ..., terhitung sejak tanggal ....1, BPR kami: \nNama   : \nAlamat :  \n \n1. DILARANG MELAKUKAN EKSPANSI KEGIATAN USAHA \n2. MENGHENTIKAN SEMENTARA SEBAGIAN KEGIATAN \nOPERASIONAL \n3. DILARANG MELAKUKAN PENGHIMPUNAN DANA BARU DAN \nPENYALURAN DANA BARU \n \nSehubungan dengan hal tersebut, sesuai dengan Pasal XX ayat (X) \nPeraturan Otoritas Jasa Keuangan Nomor … Tahun 2026 tentang \nKewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti \nMinimum Bank Perekonomian Rakyat, selama masa larangan tersebut \nkami antara lain tidak menerima tabungan dan/atau deposito dari \nmasyarakat dan/atau nasabah, tidak menyalurkan kredit atau pembiayaan \nbaru, serta menghentikan operasional berupa penukaran valuta asing, \nserta layanan terminal perbankan elektronis. Larangan tersebut berlaku \nsampai dengan adanya pengumuman lebih lanjut. \n \n \n \nAnggota Dewan Komisaris \n \n \n(ttd) \n(Kota), (tanggal/bulan/tahun) \nAnggota Direksi \n \n \n(ttd) \n \n \nCatatan: 1(diisi sesuai tanggal penetapan pengenaan sanksi) \n \n \nKETUA \nDEWAN \nKOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd. \n \nFRIDERICA WIDYASARI DEWI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR       ⸙ \n \n \n\n\n \nLAMPIRAN  \nPERATURAN \nOTORITAS \nJASA \nKEUANGAN \nREPUBLIK \nINDONESIA \nNOMOR 7 TAHUN 2026  \nTENTANG  \nKEWAJIBAN \nPENYEDIAAN \nMODAL \nMINIMUM DAN PEMENUHAN MODAL \nINTI MINIMUM BANK PEREKONOMIAN \nRAKYAT  \n \nContoh Format Pengumuman Larangan Melakukan Ekspansi Kegiatan \nUsaha, Penghentian Sementara Sebagian Kegiatan Operasional, dan/atau \nLarangan Penghimpunan Dana Baru dan/atau Penyaluran Dana Baru: \n \nPENGUMUMAN \n \nBersama ini kami beritahukan kepada seluruh masyarakat dan/atau \nnasabah bahwa berdasarkan surat Otoritas Jasa Keuangan Nomor ... \ntanggal ... Perihal ..., terhitung sejak tanggal ....1, BPR kami: \nNama   : \nAlamat :  \n \n1. DILARANG MELAKUKAN EKSPANSI KEGIATAN USAHA \n2. MENGHENTIKAN SEMENTARA SEBAGIAN KEGIATAN \nOPERASIONAL \n3. DILARANG MELAKUKAN PENGHIMPUNAN DANA BARU DAN \nPENYALURAN DANA BARU \n \nSehubungan dengan hal tersebut, sesuai dengan Pasal XX ayat (X) \nPeraturan Otoritas Jasa Keuangan Nomor … Tahun 2026 tentang \nKewajiban Penyediaan Modal Minimum dan Pemenuhan Modal Inti \nMinimum Bank Perekonomian Rakyat, selama masa larangan tersebut \nkami antara lain tidak menerima tabungan dan/atau deposito dari \nmasyarakat dan/atau nasabah, tidak menyalurkan kredit atau pembiayaan \nbaru, serta menghentikan operasional berupa penukaran valuta asing, \nserta layanan terminal perbankan elektronis. Larangan tersebut berlaku \nsampai dengan adanya pengumuman lebih lanjut. \n \n \n \nAnggota Dewan Komisaris \n \n \n(ttd) \n(Kota), (tanggal/bulan/tahun) \nAnggota Direksi \n \n \n(ttd) \n \n \nCatatan: 1(diisi sesuai tanggal penetapan pengenaan sanksi) \n \n \nKETUA \nDEWAN \nKOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd. \n \nFRIDERICA WIDYASARI DEWI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 56,
+  "total_ayat": 102,
+  "total_karakter": 50515,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

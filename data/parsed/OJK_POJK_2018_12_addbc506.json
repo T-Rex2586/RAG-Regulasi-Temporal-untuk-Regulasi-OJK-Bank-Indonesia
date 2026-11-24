@@ -1,0 +1,935 @@
+{
+  "doc_id": "OJK_POJK_2018_12_addbc506",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "12",
+  "tahun": "2018",
+  "judul": "Peraturan Otoritas Jasa Keuangan Nomor 12/POJK.03/2018 tentang Penyelenggaraan Layanan Perbankan Digital Oleh Bank Umum",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "6 Agustus 2018",
+  "tanggal_berlaku": "diundangkan (8 Agustus 2018)",
+  "diundangkan_pada": "8 Agustus 2018",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "IMPLEMENTASI LAYANAN PERBANKAN ELEKTRONIK ATAU LAYANAN PERBANKAN DIGITAL"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERLINDUNGAN NASABAH"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan dan Bank Umum Syariah serta Unit Usaha \nSyariah sebagaimana dimaksud dalam Undang-Undang \nNomor 21 Tahun 2008 tentang Perbankan Syariah, \ntermasuk kantor cabang dari bank yang berkedudukan \ndi luar negeri.  \n2. \nTeknologi \nInformasi \nadalah \nsuatu \nteknik \nuntuk \nmengumpulkan, menyiapkan, menyimpan, memproses, \nmengumumkan, menganalisis, dan/atau menyebarkan \ninformasi. \n3. \nLayanan Perbankan Elektronik adalah layanan bagi \nnasabah \nBank \nuntuk \nmemperoleh \ninformasi, \nmelakukan komunikasi, dan melakukan transaksi \nperbankan melalui media elektronik. \n4. \nLayanan Perbankan Digital adalah Layanan Perbankan \nElektronik \nyang \ndikembangkan \ndengan \nmengoptimalkan pemanfaatan data nasabah dalam \nrangka melayani nasabah secara lebih cepat, mudah, \ndan sesuai dengan kebutuhan (customer experience), \nserta dapat dilakukan secara mandiri sepenuhnya oleh \nnasabah, dengan memperhatikan aspek pengamanan.  \n \n\n\n \n \n5. \nLembaga Jasa Keuangan yang selanjutnya disingkat \nLJK adalah lembaga jasa keuangan sebagaimana \ndimaksud dalam Undang-Undang mengenai Otoritas \nJasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan dan Bank Umum Syariah serta Unit Usaha \nSyariah sebagaimana dimaksud dalam Undang-Undang \nNomor 21 Tahun 2008 tentang Perbankan Syariah, \ntermasuk kantor cabang dari bank yang berkedudukan \ndi luar negeri.  \n2. \nTeknologi \nInformasi \nadalah \nsuatu \nteknik \nuntuk \nmengumpulkan, menyiapkan, menyimpan, memproses, \nmengumumkan, menganalisis, dan/atau menyebarkan \ninformasi. \n3. \nLayanan Perbankan Elektronik adalah layanan bagi \nnasabah \nBank \nuntuk \nmemperoleh \ninformasi, \nmelakukan komunikasi, dan melakukan transaksi \nperbankan melalui media elektronik. \n4. \nLayanan Perbankan Digital adalah Layanan Perbankan \nElektronik \nyang \ndikembangkan \ndengan \nmengoptimalkan pemanfaatan data nasabah dalam \nrangka melayani nasabah secara lebih cepat, mudah, \ndan sesuai dengan kebutuhan (customer experience), \nserta dapat dilakukan secara mandiri sepenuhnya oleh \nnasabah, dengan memperhatikan aspek pengamanan.  \n \n\n\n \n \n5. \nLembaga Jasa Keuangan yang selanjutnya disingkat \nLJK adalah lembaga jasa keuangan sebagaimana \ndimaksud dalam Undang-Undang mengenai Otoritas \nJasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) Bank dapat menyelenggarakan Layanan Perbankan \nElektronik atau Layanan Perbankan Digital. \n(2) Bank yang menyelenggarakan Layanan Perbankan \nElektronik atau Layanan Perbankan Digital, wajib \nmenerapkan manajemen risiko, prinsip kehati-hatian, \ndan memenuhi ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini. \n \n \nBAB II \nLAYANAN PERBANKAN ELEKTRONIK \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat menyelenggarakan Layanan Perbankan \nElektronik atau Layanan Perbankan Digital."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang menyelenggarakan Layanan Perbankan \nElektronik atau Layanan Perbankan Digital, wajib \nmenerapkan manajemen risiko, prinsip kehati-hatian, \ndan memenuhi ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini. \n \n \nBAB II \nLAYANAN PERBANKAN ELEKTRONIK \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "Bank menyelenggarakan Layanan Perbankan Elektronik \ndengan memanfaatkan saluran distribusi (delivery channel). \n \nBagian Kedua \nPersyaratan Bank Penyelenggara  \nLayanan Perbankan Elektronik",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank menyelenggarakan Layanan Perbankan Elektronik \ndengan memanfaatkan saluran distribusi (delivery channel). \n \nBagian Kedua \nPersyaratan Bank Penyelenggara  \nLayanan Perbankan Elektronik"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "Bank \nyang \nmenyelenggarakan \nLayanan \nPerbankan \nElektronik sebagaimana dimaksud dalam Pasal 3 wajib \ntermasuk dalam kelompok Bank Umum berdasarkan \nkegiatan usaha sebagaimana diatur dalam ketentuan \nOtoritas Jasa Keuangan. \n \n \n \n\n\n \n \nBagian Ketiga \nTata Cara Permohonan Persetujuan  \nLayanan Perbankan Elektronik",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nyang \nmenyelenggarakan \nLayanan \nPerbankan \nElektronik sebagaimana dimaksud dalam Pasal 3 wajib \ntermasuk dalam kelompok Bank Umum berdasarkan \nkegiatan usaha sebagaimana diatur dalam ketentuan \nOtoritas Jasa Keuangan. \n \n \n \n\n\n \n \nBagian Ketiga \nTata Cara Permohonan Persetujuan  \nLayanan Perbankan Elektronik"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "(1) \nBank wajib memuat rencana penerbitan produk \nLayanan Perbankan Elektronik dalam rencana bisnis \nBank. \n(2) \nBank yang menerbitkan produk Layanan Perbankan \nElektronik \nyang \nbersifat \ntransaksional \nwajib \nmemperoleh persetujuan dari Otoritas Jasa Keuangan. \n(3) \nUntuk \nmemperoleh \npersetujuan \nsebagaimana \ndimaksud pada ayat (2), Bank wajib mengajukan \npermohonan persetujuan produk Layanan Perbankan \nElektronik kepada Otoritas Jasa Keuangan. \n(4) \nPermohonan persetujuan produk Layanan Perbankan \nElektronik sebagaimana dimaksud pada ayat (3) harus \ndilengkapi dengan dokumen berupa: \na. \nbukti kesiapan untuk menyelenggarakan Layanan \nPerbankan Elektronik yang paling sedikit memuat: \n1. \nstruktur \norganisasi \nyang \nmendukung \ntermasuk pengawasan dari pihak manajemen; \n2. \nkebijakan, sistem, prosedur, dan kewenangan \ndalam penerbitan produk Layanan Perbankan \nElektronik; \n3. \nkesiapan infrastruktur Teknologi Informasi \nuntuk \nmendukung \nproduk \nLayanan \nPerbankan Elektronik; \n4. \nhasil analisis dan identifikasi risiko yang \nmelekat pada produk Layanan Perbankan \nElektronik; \n5. \nkesiapan \npenerapan \nmanajemen \nrisiko \nkhususnya \npengendalian \npengamanan \n(security \ncontrol) \nuntuk \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), integritas (integrity), keaslian \n(authentication), \ntidak \ndapat \ndiingkari  \n\n\n \n \n(non \nrepudiation), \ndan \nketersediaan \n(availability); \n6. \nhasil analisis aspek hukum; \n7. \nuraian sistem informasi akuntansi; dan \n8. \nprogram perlindungan dan edukasi nasabah; \nb. \nhasil analisis bisnis mengenai proyeksi produk \nLayanan \nPerbankan \nElektronik \nbaru \nyang \nditerbitkan \npada \nperiode \n(satu) \ntahun \nmendatang; dan \nc. \ndokumen pendukung lain dalam hal diperlukan. \n(5) \nPenyampaian permohonan persetujuan sebagaimana \ndimaksud pada ayat (3) harus dilengkapi dengan hasil \npemeriksaan dari pihak independen untuk memberikan \npendapat atas karakteristik produk dan kecukupan \npengamanan sistem Teknologi Informasi terkait produk \nserta \nkepatuhan \nterhadap \nketentuan \nperaturan \nperundang-undangan di Indonesia, dan/atau praktik \natau standar yang berlaku secara nasional maupun \ninternasional. \n(6) \nPermohonan \npersetujuan \nLayanan \nPerbankan \nElektronik sebagaimana dimaksud pada ayat (3) harus \ndiajukan kepada Otoritas Jasa Keuangan paling lambat \n2 (dua) bulan sebelum implementasi.    \n(7) \nPenyelenggaraan Teknologi Informasi untuk kegiatan \nLayanan Perbankan Elektronik yang dilakukan oleh \npihak penyedia jasa Teknologi Informasi, tunduk pada \nketentuan \nsebagaimana \ndiatur \ndalam \nketentuan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi oleh Bank Umum. \n(8) \nBank yang menyelenggarakan Layanan Perbankan \nElektronik wajib memenuhi ketentuan peraturan \nperundang-undangan \nOtoritas \nJasa \nKeuangan \ndan/atau otoritas terkait. \n \n \n \n\n\n \n \nBagian Keempat \nPengamanan Data dan Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memuat rencana penerbitan produk \nLayanan Perbankan Elektronik dalam rencana bisnis \nBank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang menerbitkan produk Layanan Perbankan \nElektronik \nyang \nbersifat \ntransaksional \nwajib \nmemperoleh persetujuan dari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Untuk \nmemperoleh \npersetujuan \nsebagaimana \ndimaksud pada ayat (2), Bank wajib mengajukan \npermohonan persetujuan produk Layanan Perbankan \nElektronik kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Permohonan persetujuan produk Layanan Perbankan \nElektronik sebagaimana dimaksud pada ayat (3) harus \ndilengkapi dengan dokumen berupa: \na. \nbukti kesiapan untuk menyelenggarakan Layanan \nPerbankan Elektronik yang paling sedikit memuat: \n1. \nstruktur \norganisasi \nyang \nmendukung \ntermasuk pengawasan dari pihak manajemen; \n2. \nkebijakan, sistem, prosedur, dan kewenangan \ndalam penerbitan produk Layanan Perbankan \nElektronik; \n3. \nkesiapan infrastruktur Teknologi Informasi \nuntuk \nmendukung \nproduk \nLayanan \nPerbankan Elektronik; \n4. \nhasil analisis dan identifikasi risiko yang \nmelekat pada produk Layanan Perbankan \nElektronik; \n5. \nkesiapan \npenerapan \nmanajemen \nrisiko \nkhususnya \npengendalian \npengamanan \n(security \ncontrol) \nuntuk \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), integritas (integrity), keaslian \n(authentication), \ntidak \ndapat \ndiingkari  \n\n\n \n \n(non \nrepudiation), \ndan \nketersediaan \n(availability); \n6. \nhasil analisis aspek hukum; \n7. \nuraian sistem informasi akuntansi; dan \n8. \nprogram perlindungan dan edukasi nasabah; \nb. \nhasil analisis bisnis mengenai proyeksi produk \nLayanan \nPerbankan \nElektronik \nbaru \nyang \nditerbitkan \npada \nperiode \n(satu) \ntahun \nmendatang; dan \nc. \ndokumen pendukung lain dalam hal diperlukan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penyampaian permohonan persetujuan sebagaimana \ndimaksud pada ayat (3) harus dilengkapi dengan hasil \npemeriksaan dari pihak independen untuk memberikan \npendapat atas karakteristik produk dan kecukupan \npengamanan sistem Teknologi Informasi terkait produk \nserta \nkepatuhan \nterhadap \nketentuan \nperaturan \nperundang-undangan di Indonesia, dan/atau praktik \natau standar yang berlaku secara nasional maupun \ninternasional."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Permohonan \npersetujuan \nLayanan \nPerbankan \nElektronik sebagaimana dimaksud pada ayat (3) harus \ndiajukan kepada Otoritas Jasa Keuangan paling lambat \n2 (dua) bulan sebelum implementasi."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Penyelenggaraan Teknologi Informasi untuk kegiatan \nLayanan Perbankan Elektronik yang dilakukan oleh \npihak penyedia jasa Teknologi Informasi, tunduk pada \nketentuan \nsebagaimana \ndiatur \ndalam \nketentuan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi oleh Bank Umum."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Bank yang menyelenggarakan Layanan Perbankan \nElektronik wajib memenuhi ketentuan peraturan \nperundang-undangan \nOtoritas \nJasa \nKeuangan \ndan/atau otoritas terkait. \n \n \n \n\n\n \n \nBagian Keempat \nPengamanan Data dan Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "Bank wajib menerapkan prinsip pengendalian pengamanan \ndata dan transaksi nasabah dari Layanan Perbankan \nElektronik pada setiap sistem elektronik yang digunakan \noleh Bank. \n \nBAB III \nLAYANAN PERBANKAN DIGITAL \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menerapkan prinsip pengendalian pengamanan \ndata dan transaksi nasabah dari Layanan Perbankan \nElektronik pada setiap sistem elektronik yang digunakan \noleh Bank. \n \nBAB III \nLAYANAN PERBANKAN DIGITAL \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "Bank menyelenggarakan Layanan Perbankan Digital yang \ndapat berupa produk lanjutan dari Layanan Perbankan \nElektronik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank menyelenggarakan Layanan Perbankan Digital yang \ndapat berupa produk lanjutan dari Layanan Perbankan \nElektronik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nLayanan Perbankan Digital dapat disediakan oleh:  \na. \nBank; dan/atau  \nb. \nBank berdasarkan perjanjian kemitraan antara \nBank dengan mitra Bank. \n(2) \nMitra Bank sebagaimana dimaksud pada ayat (1)    \nhuruf b dapat berupa LJK atau lembaga non-LJK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Layanan Perbankan Digital dapat disediakan oleh:  \na. \nBank; dan/atau  \nb. \nBank berdasarkan perjanjian kemitraan antara \nBank dengan mitra Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Mitra Bank sebagaimana dimaksud pada ayat (1)    \nhuruf b dapat berupa LJK atau lembaga non-LJK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) Bank yang menyelenggarakan Layanan Perbankan \nDigital wajib membentuk unit atau fungsi yang bertugas \nmenangani \npenyelenggaraan \nLayanan \nPerbankan \nDigital. \n \n \n \n \n\n\n \n \n(2) Unit atau fungsi yang menangani penyelenggaraan \nLayanan Perbankan Digital sebagaimana dimaksud \npada ayat (1) memiliki tugas paling sedikit untuk: \na. \nmenyusun kebijakan, standar, dan prosedur \npenyelenggaraan Layanan Perbankan Digital; \nb. \nmemastikan kesesuaian antara penyelenggaraan \nLayanan \nPerbankan \nDigital \ndengan \nrencana \nstrategis kegiatan usaha Bank; \nc. \nmemantau pelaksanaan kerja sama dengan  mitra \nBank dalam penyelenggaraan Layanan Perbankan \nDigital; \nd. \nmemantau data transaksi keuangan Layanan \nPerbankan Digital; \ne. \nmemastikan efektivitas langkah yang digunakan \ndalam menyelenggarakan Layanan Perbankan \nDigital; \nf. \nmemantau kendala dan permasalahan yang \nmuncul dari penyelenggaraan Layanan Perbankan \nDigital; dan \ng. \nmemastikan kecukupan dan alokasi sumber daya \nterkait Layanan Perbankan Digital yang dimiliki \nBank. \n \nBagian Kedua \nLayanan Perbankan Digital oleh Bank",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang menyelenggarakan Layanan Perbankan \nDigital wajib membentuk unit atau fungsi yang bertugas \nmenangani \npenyelenggaraan \nLayanan \nPerbankan \nDigital."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Unit atau fungsi yang menangani penyelenggaraan \nLayanan Perbankan Digital sebagaimana dimaksud \npada ayat (1) memiliki tugas paling sedikit untuk: \na. \nmenyusun kebijakan, standar, dan prosedur \npenyelenggaraan Layanan Perbankan Digital; \nb. \nmemastikan kesesuaian antara penyelenggaraan \nLayanan \nPerbankan \nDigital \ndengan \nrencana \nstrategis kegiatan usaha Bank; \nc. \nmemantau pelaksanaan kerja sama dengan  mitra \nBank dalam penyelenggaraan Layanan Perbankan \nDigital; \nd. \nmemantau data transaksi keuangan Layanan \nPerbankan Digital; \ne. \nmemastikan efektivitas langkah yang digunakan \ndalam menyelenggarakan Layanan Perbankan \nDigital; \nf. \nmemantau kendala dan permasalahan yang \nmuncul dari penyelenggaraan Layanan Perbankan \nDigital; dan \ng. \nmemastikan kecukupan dan alokasi sumber daya \nterkait Layanan Perbankan Digital yang dimiliki \nBank. \n \nBagian Kedua \nLayanan Perbankan Digital oleh Bank"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nLayanan Perbankan Digital yang disediakan oleh Bank \nsebagaimana dimaksud dalam Pasal 8 ayat (1) huruf a \nberupa: \na. \nadministrasi rekening; \nb. \notorisasi transaksi; \nc. \npengelolaan keuangan; dan/atau \nd. \npelayanan produk keuangan lain berdasarkan \npersetujuan Otoritas Jasa Keuangan. \n \n \n\n\n \n \n(2) \nBank dalam menyediakan Layanan Perbankan Digital \nberupa otorisasi transaksi sebagaimana dimaksud pada \nayat (1) huruf b, wajib memanfaatkan data dan/atau \ninformasi \nyang \ndapat \ndipertanggungjawabkan \nkebenarannya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Layanan Perbankan Digital yang disediakan oleh Bank \nsebagaimana dimaksud dalam Pasal 8 ayat (1) huruf a \nberupa: \na. \nadministrasi rekening; \nb. \notorisasi transaksi; \nc. \npengelolaan keuangan; dan/atau \nd. \npelayanan produk keuangan lain berdasarkan \npersetujuan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dalam menyediakan Layanan Perbankan Digital \nberupa otorisasi transaksi sebagaimana dimaksud pada \nayat (1) huruf b, wajib memanfaatkan data dan/atau \ninformasi \nyang \ndapat \ndipertanggungjawabkan \nkebenarannya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nDalam melakukan hubungan usaha dengan nasabah \natau calon nasabah melalui Layanan Perbankan Digital, \nBank wajib melakukan: \na. \nidentifikasi nasabah atau calon nasabah; dan \nb. \nverifikasi atas informasi dan dokumen pendukung \nnasabah \natau \ncalon \nnasabah \nsebagaimana \ndimaksud dalam huruf a. \n(2) \nBank melakukan verifikasi atas informasi dan dokumen \npendukung nasabah atau calon nasabah sebagaimana \ndimaksud pada ayat (1) huruf b dengan: \na. \nmelalui tatap muka: \n1. \nsecara langsung (face to face); atau \n2.  menggunakan perangkat lunak milik Bank \ndengan perangkat keras milik Bank atau \nperangkat keras milik nasabah atau calon \nnasabah; dan/atau \nb. \ntanpa melalui tatap muka namun menggunakan \nperangkat lunak milik Bank dengan perangkat \nkeras milik Bank atau perangkat keras milik \nnasabah atau calon nasabah. \n(3) \nDalam melakukan verifikasi dengan perangkat keras \ndan/atau perangkat lunak sebagaimana dimaksud \npada ayat (2) huruf a angka 2 dan ayat (2) huruf b,  \nBank \nharus \nmemperhatikan \nfaktor \nkeaslian       \n(authentication factor).  \n(4) \nBank wajib menerapkan paling sedikit 2 (dua) faktor \nkeaslian (two factor authentication). \n \n \n\n\n \n \n(5) \nDalam hal Bank melakukan verifikasi tanpa melalui \ntatap muka sebagaimana dimaksud pada ayat (2)     \nhuruf b, Bank wajib menerapkan faktor ciri khas anda        \n(what you are) sebagai salah satu dari 2 (dua) faktor \nkeaslian (two factor authentication).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan hubungan usaha dengan nasabah \natau calon nasabah melalui Layanan Perbankan Digital, \nBank wajib melakukan: \na. \nidentifikasi nasabah atau calon nasabah; dan \nb. \nverifikasi atas informasi dan dokumen pendukung \nnasabah \natau \ncalon \nnasabah \nsebagaimana \ndimaksud dalam huruf a."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank melakukan verifikasi atas informasi dan dokumen \npendukung nasabah atau calon nasabah sebagaimana \ndimaksud pada ayat (1) huruf b dengan: \na. \nmelalui tatap muka: \n1. \nsecara langsung (face to face); atau \n2.  menggunakan perangkat lunak milik Bank \ndengan perangkat keras milik Bank atau \nperangkat keras milik nasabah atau calon \nnasabah; dan/atau \nb. \ntanpa melalui tatap muka namun menggunakan \nperangkat lunak milik Bank dengan perangkat \nkeras milik Bank atau perangkat keras milik \nnasabah atau calon nasabah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam melakukan verifikasi dengan perangkat keras \ndan/atau perangkat lunak sebagaimana dimaksud \npada ayat (2) huruf a angka 2 dan ayat (2) huruf b,  \nBank \nharus \nmemperhatikan \nfaktor \nkeaslian       \n(authentication factor)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank wajib menerapkan paling sedikit 2 (dua) faktor \nkeaslian (two factor authentication)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank melakukan verifikasi tanpa melalui \ntatap muka sebagaimana dimaksud pada ayat (2)     \nhuruf b, Bank wajib menerapkan faktor ciri khas anda        \n(what you are) sebagai salah satu dari 2 (dua) faktor \nkeaslian (two factor authentication)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nDalam melakukan kewajiban sebagaimana dimaksud \ndalam Pasal 11 ayat (1), Bank dapat memanfaatkan \ndata dan/atau informasi milik lembaga atau instansi \nyang berwenang dan/atau sumber lain, yang sudah \nmemiliki hubungan kerja sama dengan Bank. \n(2) \nBank \nharus \nmemastikan \nkesiapan \ninfrastruktur \npendukung \ndalam \npemanfaatan \ndata \ndan/atau \ninformasi sebagaimana dimaksud pada ayat (1). \n \nBagian Ketiga \nLayanan Perbankan Digital oleh Bank  \nBerdasarkan Perjanjian Kemitraan  \nantara Bank dengan Mitra Bank",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan kewajiban sebagaimana dimaksud \ndalam Pasal 11 ayat (1), Bank dapat memanfaatkan \ndata dan/atau informasi milik lembaga atau instansi \nyang berwenang dan/atau sumber lain, yang sudah \nmemiliki hubungan kerja sama dengan Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nharus \nmemastikan \nkesiapan \ninfrastruktur \npendukung \ndalam \npemanfaatan \ndata \ndan/atau \ninformasi sebagaimana dimaksud pada ayat (1). \n \nBagian Ketiga \nLayanan Perbankan Digital oleh Bank  \nBerdasarkan Perjanjian Kemitraan  \nantara Bank dengan Mitra Bank"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nLayanan Perbankan Digital oleh Bank berdasarkan \nperjanjian kemitraan antara Bank dengan mitra Bank \nsebagaimana dimaksud dalam Pasal 8 ayat (1) huruf b \nberupa: \na. \nlayanan informatif;  \nb. \nlayanan transaksional; dan/atau \nc. \nlayanan lain berdasarkan persetujuan Otoritas \nJasa Keuangan. \n(2) \nDalam melakukan kerja sama dengan mitra Bank \nsebagaimana dimaksud pada ayat (1), Bank tetap \nmemperhatikan \nketentuan \nperaturan \nperundang-\nundangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Layanan Perbankan Digital oleh Bank berdasarkan \nperjanjian kemitraan antara Bank dengan mitra Bank \nsebagaimana dimaksud dalam Pasal 8 ayat (1) huruf b \nberupa: \na. \nlayanan informatif;  \nb. \nlayanan transaksional; dan/atau \nc. \nlayanan lain berdasarkan persetujuan Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam melakukan kerja sama dengan mitra Bank \nsebagaimana dimaksud pada ayat (1), Bank tetap \nmemperhatikan \nketentuan \nperaturan \nperundang-\nundangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "Mitra Bank dalam melakukan penyediaan layanan informatif \nsebagaimana dimaksud dalam Pasal 13 ayat (1) huruf a \nwajib berupa LJK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Mitra Bank dalam melakukan penyediaan layanan informatif \nsebagaimana dimaksud dalam Pasal 13 ayat (1) huruf a \nwajib berupa LJK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nMitra Bank dalam melakukan penyediaan layanan \ntransaksional sebagaimana dimaksud dalam Pasal 13 \nayat (1) huruf b berupa: \na. \nLJK; dan/atau \nb. \nlembaga non-LJK. \n(2) \nMitra Bank sebagaimana dimaksud pada ayat (1) yang \nberupa penyedia layanan keuangan berbasis Teknologi \nInformasi wajib telah memperoleh izin dari Otoritas \nJasa Keuangan atau otoritas lain yang berwenang. \n(3) \nPenyediaan \nlayanan \ntransaksional \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndapat \nmemanfaatkan \nkonektivitas antara sistem elektronik milik Bank \ndengan sistem elektronik milik mitra Bank. \n(4) \nBank \ndilarang \nmenjadi \nmarket \nplace \ndalam \nmenyediakan layanan transaksional kepada mitra Bank \nmelalui aplikasi dan/atau situs web milik Bank. \n(5) \nBank wajib menerapkan paling sedikit 2 (dua) faktor \nkeaslian (two factor authentication) untuk verifikasi \ntransaksi keuangan pada layanan transaksional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Mitra Bank dalam melakukan penyediaan layanan \ntransaksional sebagaimana dimaksud dalam Pasal 13 \nayat (1) huruf b berupa: \na. \nLJK; dan/atau \nb. \nlembaga non-LJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Mitra Bank sebagaimana dimaksud pada ayat (1) yang \nberupa penyedia layanan keuangan berbasis Teknologi \nInformasi wajib telah memperoleh izin dari Otoritas \nJasa Keuangan atau otoritas lain yang berwenang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyediaan \nlayanan \ntransaksional \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dapat \nmemanfaatkan \nkonektivitas antara sistem elektronik milik Bank \ndengan sistem elektronik milik mitra Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \ndilarang \nmenjadi \nmarket \nplace \ndalam \nmenyediakan layanan transaksional kepada mitra Bank \nmelalui aplikasi dan/atau situs web milik Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib menerapkan paling sedikit 2 (dua) faktor \nkeaslian (two factor authentication) untuk verifikasi \ntransaksi keuangan pada layanan transaksional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nDalam menyelenggarakan Layanan Perbankan Digital \noleh Bank berdasarkan perjanjian kemitraan antara \nBank dengan mitra Bank, Bank wajib memiliki: \na. \nkebijakan dan prosedur dalam penentuan mitra \nBank; dan \nb. \nperjanjian kerja sama secara tertulis dengan mitra \nBank yang disusun dengan menggunakan Bahasa \nIndonesia. \n \n \n\n\n \n \n(2) \nBank hanya dapat menyediakan informasi produk \ndan/atau jasa yang ditawarkan oleh mitra Bank yang \ndinyatakan dalam perjanjian kerja sama sebagaimana \ndimaksud pada ayat (1) huruf b.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam menyelenggarakan Layanan Perbankan Digital \noleh Bank berdasarkan perjanjian kemitraan antara \nBank dengan mitra Bank, Bank wajib memiliki: \na. \nkebijakan dan prosedur dalam penentuan mitra \nBank; dan \nb. \nperjanjian kerja sama secara tertulis dengan mitra \nBank yang disusun dengan menggunakan Bahasa \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank hanya dapat menyediakan informasi produk \ndan/atau jasa yang ditawarkan oleh mitra Bank yang \ndinyatakan dalam perjanjian kerja sama sebagaimana \ndimaksud pada ayat (1) huruf b."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nBank dilarang menanggung atau turut menanggung \nrisiko yang timbul dari produk dan/atau jasa yang \nditawarkan oleh mitra Bank dalam menyelenggarakan \nLayanan Perbankan Digital oleh Bank berdasarkan \nperjanjian kemitraan antara Bank dengan mitra Bank. \n(2) \nPenggunaan logo dan/atau atribut Bank dalam \ndokumen pemasaran yang digunakan hanya bertujuan \nuntuk menunjukkan kerja sama antara Bank dengan \nmitra Bank. \n(3) \nProduk yang ditawarkan oleh mitra Bank selain LJK \nberupa Bank tidak termasuk dalam cakupan program \npenjaminan sebagaimana dimaksud dalam ketentuan \nperaturan perundang-undangan mengenai lembaga \npenjamin simpanan. \n \nBagian Keempat \n Persyaratan Bank Penyelenggara  \nLayanan Perbankan Digital",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dilarang menanggung atau turut menanggung \nrisiko yang timbul dari produk dan/atau jasa yang \nditawarkan oleh mitra Bank dalam menyelenggarakan \nLayanan Perbankan Digital oleh Bank berdasarkan \nperjanjian kemitraan antara Bank dengan mitra Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penggunaan logo dan/atau atribut Bank dalam \ndokumen pemasaran yang digunakan hanya bertujuan \nuntuk menunjukkan kerja sama antara Bank dengan \nmitra Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Produk yang ditawarkan oleh mitra Bank selain LJK \nberupa Bank tidak termasuk dalam cakupan program \npenjaminan sebagaimana dimaksud dalam ketentuan \nperaturan perundang-undangan mengenai lembaga \npenjamin simpanan. \n \nBagian Keempat \n Persyaratan Bank Penyelenggara  \nLayanan Perbankan Digital"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "Bank yang menyelenggarakan Layanan Perbankan Digital \nsebagaimana dimaksud dalam Pasal 7 harus memenuhi \npersyaratan sebagai berikut: \na. \nmemiliki \nperingkat \nprofil \nrisiko \ndengan  \nPeringkat 1 (satu) atau Peringkat 2 (dua) berdasarkan \npenilaian tingkat kesehatan Bank periode penilaian \nterakhir;  \nb. \nmemiliki \ninfrastruktur \nTeknologi \nInformasi \ndan \nmanajemen \npengelolaan \ninfrastruktur \nTeknologi \nInformasi yang memadai; dan \n \n\n\n \n \nc. \ntermasuk dalam kelompok Bank Umum berdasarkan \nkegiatan usaha yang paling sedikit dapat melakukan \nkegiatan \nusaha \nLayanan \nPerbankan \nElektronik \nsebagaimana diatur dalam ketentuan Otoritas Jasa \nKeuangan. \n \nBagian Kelima \nTata Cara Permohonan Persetujuan Penyelenggaraan \nLayanan Perbankan Digital",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang menyelenggarakan Layanan Perbankan Digital \nsebagaimana dimaksud dalam Pasal 7 harus memenuhi \npersyaratan sebagai berikut: \na. \nmemiliki \nperingkat \nprofil \nrisiko \ndengan  \nPeringkat 1 (satu) atau Peringkat 2 (dua) berdasarkan \npenilaian tingkat kesehatan Bank periode penilaian \nterakhir;  \nb. \nmemiliki \ninfrastruktur \nTeknologi \nInformasi \ndan \nmanajemen \npengelolaan \ninfrastruktur \nTeknologi \nInformasi yang memadai; dan \n \n\n\n \n \nc. \ntermasuk dalam kelompok Bank Umum berdasarkan \nkegiatan usaha yang paling sedikit dapat melakukan \nkegiatan \nusaha \nLayanan \nPerbankan \nElektronik \nsebagaimana diatur dalam ketentuan Otoritas Jasa \nKeuangan. \n \nBagian Kelima \nTata Cara Permohonan Persetujuan Penyelenggaraan \nLayanan Perbankan Digital"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nBank wajib memuat rencana penyelenggaraan Layanan \nPerbankan Digital oleh Bank dan/atau oleh Bank \nberdasarkan perjanjian kemitraan antara Bank dengan \nmitra Bank dalam rencana bisnis Bank. \n(2) \nBank yang memiliki rencana penyelenggaraan Layanan \nPerbankan Digital sebagaimana dimaksud pada ayat (1) \nwajib \nmemperoleh \npersetujuan \nOtoritas \nJasa \nKeuangan. \n(3) \nPenyelenggaraan Layanan Perbankan Digital yang \ndiwajibkan memperoleh persetujuan Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (2) adalah: \na. \nLayanan Perbankan Digital yang baru pertama kali \nditerbitkan; dan/atau \nb. \npengembangan Layanan Perbankan Digital yang \nmemiliki \nkarakteristik \nberbeda \ndan/atau \nmenambah atau meningkatkan eksposur risiko \ntertentu pada Bank. \n(4) \nUntuk \nmemperoleh \npersetujuan \nsebagaimana \ndimaksud pada ayat (2), Bank yang memiliki rencana \npenyelenggaraan Layanan Perbankan Digital wajib \nmengajukan \npermohonan \npersetujuan \nLayanan \nPerbankan Digital kepada Otoritas Jasa Keuangan. \n(5) \nPermohonan persetujuan produk Layanan Perbankan \nDigital sebagaimana dimaksud pada ayat (4) harus \ndilengkapi dengan dokumen yang memuat hal sebagai \nberikut: \n\n\n \n \na. \nbukti kesiapan untuk menyelenggarakan Layanan \nPerbankan Digital yang paling sedikit memuat: \n1. \nstruktur \norganisasi \nyang \nmendukung \ntermasuk pengawasan dari pihak manajemen; \n2. \nkebijakan, sistem, prosedur, dan kewenangan \ndalam penerbitan produk Layanan Perbankan \nDigital; \n3. \nkesiapan infrastruktur Teknologi Informasi \nuntuk \nmendukung \nproduk \nLayanan \nPerbankan Digital; \n4. \nhasil analisis dan identifikasi risiko yang \nmelekat pada produk Layanan Perbankan \nDigital; \n5. \nkesiapan \npenerapan \nmanajemen \nrisiko \nkhususnya \npengendalian \npengamanan \n(security \ncontrol) \nuntuk \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), integritas (integrity), keaslian \n(authentication), tidak dapat diingkari (non \nrepudiation), dan ketersediaan (availability); \n6. \nhasil analisis aspek hukum; \n7. \nuraian sistem informasi akuntansi; dan \n8. \nprogram perlindungan dan edukasi nasabah; \nb.  hasil analisis bisnis mengenai proyeksi produk \nLayanan Perbankan Digital baru yang diterbitkan \npada periode 1 (satu) tahun mendatang; dan \nc. \ndokumen pendukung lain dalam hal diperlukan. \n(6) \nPenyampaian permohonan persetujuan sebagaimana \ndimaksud pada ayat (4) harus dilengkapi dengan hasil \npemeriksaan dari pihak independen untuk memberikan \npendapat atas karakteristik produk dan kecukupan \npengamanan sistem Teknologi Informasi terkait produk \nserta \nkepatuhan \nterhadap \nketentuan \nperaturan \nperundang-undangan di Indonesia, dan/atau praktik \natau standar yang berlaku secara nasional maupun \ninternasional. \n \n\n\n \n \n(7) \nPermohonan persetujuan Layanan Perbankan Digital \nsebagaimana dimaksud pada ayat (4) harus diajukan \nkepada Otoritas Jasa Keuangan paling lambat 2 (dua) \nbulan sebelum implementasi.  \n(8) \nPenyelenggaraan Teknologi Informasi untuk kegiatan \nLayanan Perbankan Digital yang dilakukan oleh pihak \npenyedia jasa Teknologi Informasi, tunduk pada \nketentuan \nsebagaimana \ndiatur \ndalam \nketentuan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi oleh Bank Umum. \n(9) \nBank yang menyelenggarakan Layanan Perbankan \nDigital \nwajib \nmemenuhi \nketentuan \nperaturan \nperundang-undangan \nOtoritas \nJasa \nKeuangan \ndan/atau otoritas terkait. \n \nBAB IV \nIMPLEMENTASI LAYANAN PERBANKAN ELEKTRONIK \nATAU LAYANAN PERBANKAN DIGITAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memuat rencana penyelenggaraan Layanan \nPerbankan Digital oleh Bank dan/atau oleh Bank \nberdasarkan perjanjian kemitraan antara Bank dengan \nmitra Bank dalam rencana bisnis Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang memiliki rencana penyelenggaraan Layanan \nPerbankan Digital sebagaimana dimaksud pada ayat (1) \nwajib \nmemperoleh \npersetujuan \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggaraan Layanan Perbankan Digital yang \ndiwajibkan memperoleh persetujuan Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (2) adalah: \na. \nLayanan Perbankan Digital yang baru pertama kali \nditerbitkan; dan/atau \nb. \npengembangan Layanan Perbankan Digital yang \nmemiliki \nkarakteristik \nberbeda \ndan/atau \nmenambah atau meningkatkan eksposur risiko \ntertentu pada Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Untuk \nmemperoleh \npersetujuan \nsebagaimana \ndimaksud pada ayat (2), Bank yang memiliki rencana \npenyelenggaraan Layanan Perbankan Digital wajib \nmengajukan \npermohonan \npersetujuan \nLayanan \nPerbankan Digital kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Permohonan persetujuan produk Layanan Perbankan \nDigital sebagaimana dimaksud pada ayat (4) harus \ndilengkapi dengan dokumen yang memuat hal sebagai \nberikut: \n\n\n \n \na. \nbukti kesiapan untuk menyelenggarakan Layanan \nPerbankan Digital yang paling sedikit memuat: \n1. \nstruktur \norganisasi \nyang \nmendukung \ntermasuk pengawasan dari pihak manajemen; \n2. \nkebijakan, sistem, prosedur, dan kewenangan \ndalam penerbitan produk Layanan Perbankan \nDigital; \n3. \nkesiapan infrastruktur Teknologi Informasi \nuntuk \nmendukung \nproduk \nLayanan \nPerbankan Digital; \n4. \nhasil analisis dan identifikasi risiko yang \nmelekat pada produk Layanan Perbankan \nDigital; \n5. \nkesiapan \npenerapan \nmanajemen \nrisiko \nkhususnya \npengendalian \npengamanan \n(security \ncontrol) \nuntuk \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), integritas (integrity), keaslian \n(authentication), tidak dapat diingkari (non \nrepudiation), dan ketersediaan (availability); \n6. \nhasil analisis aspek hukum; \n7. \nuraian sistem informasi akuntansi; dan \n8. \nprogram perlindungan dan edukasi nasabah; \nb.  hasil analisis bisnis mengenai proyeksi produk \nLayanan Perbankan Digital baru yang diterbitkan \npada periode 1 (satu) tahun mendatang; dan \nc. \ndokumen pendukung lain dalam hal diperlukan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penyampaian permohonan persetujuan sebagaimana \ndimaksud pada ayat (4) harus dilengkapi dengan hasil \npemeriksaan dari pihak independen untuk memberikan \npendapat atas karakteristik produk dan kecukupan \npengamanan sistem Teknologi Informasi terkait produk \nserta \nkepatuhan \nterhadap \nketentuan \nperaturan \nperundang-undangan di Indonesia, dan/atau praktik \natau standar yang berlaku secara nasional maupun \ninternasional."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Permohonan persetujuan Layanan Perbankan Digital \nsebagaimana dimaksud pada ayat (4) harus diajukan \nkepada Otoritas Jasa Keuangan paling lambat 2 (dua) \nbulan sebelum implementasi."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Penyelenggaraan Teknologi Informasi untuk kegiatan \nLayanan Perbankan Digital yang dilakukan oleh pihak \npenyedia jasa Teknologi Informasi, tunduk pada \nketentuan \nsebagaimana \ndiatur \ndalam \nketentuan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi oleh Bank Umum."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Bank yang menyelenggarakan Layanan Perbankan \nDigital \nwajib \nmemenuhi \nketentuan \nperaturan \nperundang-undangan \nOtoritas \nJasa \nKeuangan \ndan/atau otoritas terkait. \n \nBAB IV \nIMPLEMENTASI LAYANAN PERBANKAN ELEKTRONIK \nATAU LAYANAN PERBANKAN DIGITAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "IMPLEMENTASI LAYANAN PERBANKAN ELEKTRONIK ATAU LAYANAN PERBANKAN DIGITAL",
+      "teks_lengkap": "(1) \nBank harus melakukan implementasi rencana Layanan \nPerbankan Elektronik sebagaimana dimaksud dalam \nPasal 5 atau Layanan Perbankan Digital sebagaimana \ndimaksud dalam Pasal 19 paling lama 6 (enam) bulan \nsejak \npersetujuan \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan.  \n(2) \nDalam hal Bank tidak melakukan implementasi \nrencana Layanan Perbankan Elektronik atau Layanan \nPerbankan Digital dalam jangka waktu 6 (enam) bulan \nsejak \npersetujuan \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (1), \npersetujuan Otoritas Jasa Keuangan menjadi tidak \nberlaku. \n \n \n \n\n\n \n \n(3) \nDalam hal persetujuan Otoritas Jasa Keuangan sudah \ntidak berlaku sebagaimana dimaksud pada ayat (2), dan \nBank tetap akan melakukan implementasi rencana \nLayanan \nPerbankan \nElektronik \natau \nLayanan \nPerbankan Digital, Bank wajib menyampaikan kembali \npermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan. \n \nBAB V \nPERLINDUNGAN NASABAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank harus melakukan implementasi rencana Layanan \nPerbankan Elektronik sebagaimana dimaksud dalam \nPasal 5 atau Layanan Perbankan Digital sebagaimana \ndimaksud dalam Pasal 19 paling lama 6 (enam) bulan \nsejak \npersetujuan \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank tidak melakukan implementasi \nrencana Layanan Perbankan Elektronik atau Layanan \nPerbankan Digital dalam jangka waktu 6 (enam) bulan \nsejak \npersetujuan \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (1), \npersetujuan Otoritas Jasa Keuangan menjadi tidak \nberlaku."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal persetujuan Otoritas Jasa Keuangan sudah \ntidak berlaku sebagaimana dimaksud pada ayat (2), dan \nBank tetap akan melakukan implementasi rencana \nLayanan \nPerbankan \nElektronik \natau \nLayanan \nPerbankan Digital, Bank wajib menyampaikan kembali \npermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan. \n \nBAB V \nPERLINDUNGAN NASABAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERLINDUNGAN NASABAH",
+      "teks_lengkap": "(1) \nBank penyelenggara Layanan Perbankan Elektronik \natau Layanan Perbankan Digital wajib menerapkan \nprinsip \nperlindungan \nkonsumen \nsebagaimana \ndimaksud dalam ketentuan peraturan perundang-\nundangan mengenai perlindungan konsumen sektor \njasa keuangan. \n(2) \nBank penyelenggara Layanan Perbankan Digital wajib \nmemiliki fungsi dan mekanisme penanganan setiap \npertanyaan dan/atau pengaduan dari nasabah yang \nberoperasi selama 24 (dua puluh empat) jam dalam \nsehari. \n(3) \nMekanisme \ndan \ntata \ncara \npenerapan \nprinsip \nperlindungan konsumen sebagaimana dimaksud pada \nayat \n(1) \nmengacu \npada \nketentuan \nperaturan \nperundang-undangan \nmengenai \nperlindungan \nkonsumen sektor jasa keuangan. \n \nBAB VI \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank penyelenggara Layanan Perbankan Elektronik \natau Layanan Perbankan Digital wajib menerapkan \nprinsip \nperlindungan \nkonsumen \nsebagaimana \ndimaksud dalam ketentuan peraturan perundang-\nundangan mengenai perlindungan konsumen sektor \njasa keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank penyelenggara Layanan Perbankan Digital wajib \nmemiliki fungsi dan mekanisme penanganan setiap \npertanyaan dan/atau pengaduan dari nasabah yang \nberoperasi selama 24 (dua puluh empat) jam dalam \nsehari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Mekanisme \ndan \ntata \ncara \npenerapan \nprinsip \nperlindungan konsumen sebagaimana dimaksud pada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "mengacu \npada \nketentuan \nperaturan \nperundang-undangan \nmengenai \nperlindungan \nkonsumen sektor jasa keuangan. \n \nBAB VI \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank wajib menyampaikan laporan realisasi Layanan \nPerbankan Elektronik atau Layanan Perbankan Digital \nkepada Otoritas Jasa Keuangan paling lama 3 (tiga) \nbulan setelah implementasi. \n\n\n \n \n(2) \nBank wajib menyampaikan laporan kondisi terkini \npenggunaan Teknologi Informasi, laporan rencana \npengembangan Teknologi Informasi, laporan hasil audit \nTeknologi Informasi, dan laporan insidentil dalam \npenyelenggaraan Teknologi Informasi yang terkait \ndengan Layanan Perbankan Elektronik atau Layanan \nPerbankan Digital.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyampaikan laporan realisasi Layanan \nPerbankan Elektronik atau Layanan Perbankan Digital \nkepada Otoritas Jasa Keuangan paling lama 3 (tiga) \nbulan setelah implementasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menyampaikan laporan kondisi terkini \npenggunaan Teknologi Informasi, laporan rencana \npengembangan Teknologi Informasi, laporan hasil audit \nTeknologi Informasi, dan laporan insidentil dalam \npenyelenggaraan Teknologi Informasi yang terkait \ndengan Layanan Perbankan Elektronik atau Layanan \nPerbankan Digital."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nFormat permohonan persetujuan Layanan Perbankan \nElektronik sebagaimana dimaksud dalam Pasal 5 dan \nformat permohonan persetujuan Layanan Perbankan \nDigital sebagaimana dimaksud dalam Pasal 19, serta \nlaporan realisasi Layanan Perbankan Elektronik atau \nLayanan Perbankan Digital sebagaimana dimaksud \ndalam Pasal 22 ayat (1) mengacu pada Lampiran yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nOtoritas Jasa Keuangan ini. \n(2) \nJangka waktu dan format penyampaian laporan \nsebagaimana dimaksud dalam Pasal 22 ayat (2) \nmengacu pada ketentuan Otoritas Jasa Keuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan teknologi informasi oleh Bank Umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Format permohonan persetujuan Layanan Perbankan \nElektronik sebagaimana dimaksud dalam Pasal 5 dan \nformat permohonan persetujuan Layanan Perbankan \nDigital sebagaimana dimaksud dalam Pasal 19, serta \nlaporan realisasi Layanan Perbankan Elektronik atau \nLayanan Perbankan Digital sebagaimana dimaksud \ndalam Pasal 22 ayat (1) mengacu pada Lampiran yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nOtoritas Jasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu dan format penyampaian laporan \nsebagaimana dimaksud dalam Pasal 22 ayat (2) \nmengacu pada ketentuan Otoritas Jasa Keuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan teknologi informasi oleh Bank Umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nPermohonan persetujuan penyelenggaraan Layanan \nPerbankan Elektronik sebagaimana dimaksud dalam    \nPasal 5 atau Layanan Perbankan Digital sebagaimana \ndimaksud dalam Pasal 19, serta penyampaian laporan \nsebagaimana dimaksud dalam Pasal 22 dan Pasal 23 \ndisampaikan kepada Otoritas Jasa Keuangan secara \ndaring (online). \n \n \n \n \n \n\n\n \n \n(2) \nDalam \nhal \nsarana \npenyampaian \npermohonan \npersetujuan dan/atau pelaporan secara daring (online)  \nsebagaimana dimaksud pada ayat (1) belum tersedia \natau telah tersedia namun terdapat gangguan teknis, \npermohonan \npersetujuan \ndan/atau \npelaporan \ndisampaikan kepada Otoritas Jasa Keuangan dengan \nalamat:  \na. \nDepartemen \nPengawasan \nBank \nterkait, \nDepartemen Perbankan Syariah atau Kantor \nRegional Otoritas Jasa Keuangan di Jakarta, bagi \nBank yang berkantor pusat di wilayah provinsi \nDaerah Khusus Ibukota Jakarta; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau \nKantor Otoritas Jasa Keuangan setempat, sesuai \ndengan wilayah tempat kedudukan kantor pusat \nBank. \n \nBAB VII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan persetujuan penyelenggaraan Layanan \nPerbankan Elektronik sebagaimana dimaksud dalam    \nPasal 5 atau Layanan Perbankan Digital sebagaimana \ndimaksud dalam Pasal 19, serta penyampaian laporan \nsebagaimana dimaksud dalam Pasal 22 dan Pasal 23 \ndisampaikan kepada Otoritas Jasa Keuangan secara \ndaring (online)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \nsarana \npenyampaian \npermohonan \npersetujuan dan/atau pelaporan secara daring (online)  \nsebagaimana dimaksud pada ayat (1) belum tersedia \natau telah tersedia namun terdapat gangguan teknis, \npermohonan \npersetujuan \ndan/atau \npelaporan \ndisampaikan kepada Otoritas Jasa Keuangan dengan \nalamat:  \na. \nDepartemen \nPengawasan \nBank \nterkait, \nDepartemen Perbankan Syariah atau Kantor \nRegional Otoritas Jasa Keuangan di Jakarta, bagi \nBank yang berkantor pusat di wilayah provinsi \nDaerah Khusus Ibukota Jakarta; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau \nKantor Otoritas Jasa Keuangan setempat, sesuai \ndengan wilayah tempat kedudukan kantor pusat \nBank. \n \nBAB VII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat memerintahkan Bank untuk \nmenghentikan \npenyelenggaraan \nLayanan \nPerbankan \nElektronik atau Layanan Perbankan Digital, dalam hal \nberdasarkan evaluasi Otoritas Jasa Keuangan, layanan yang \ndiselenggarakan:  \na. \ntidak sesuai dengan rencana pelaksanaan aktivitas \nbaru yang dilaporkan kepada Otoritas Jasa Keuangan \natau persetujuan dan/atau pencatatan produk dari \nOtoritas Jasa Keuangan; dan/atau \nb. \nberpotensi berdampak negatif terhadap kinerja dan \nreputasi Bank.  \n \n \n \n \n \n\n\n \n \nBAB VIII \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat memerintahkan Bank untuk \nmenghentikan \npenyelenggaraan \nLayanan \nPerbankan \nElektronik atau Layanan Perbankan Digital, dalam hal \nberdasarkan evaluasi Otoritas Jasa Keuangan, layanan yang \ndiselenggarakan:  \na. \ntidak sesuai dengan rencana pelaksanaan aktivitas \nbaru yang dilaporkan kepada Otoritas Jasa Keuangan \natau persetujuan dan/atau pencatatan produk dari \nOtoritas Jasa Keuangan; dan/atau \nb. \nberpotensi berdampak negatif terhadap kinerja dan \nreputasi Bank.  \n \n \n \n \n \n\n\n \n \nBAB VIII \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank \nyang \ntidak \nmelaksanakan \nketentuan \nsebagaimana dimaksud dalam Pasal 2 ayat (2),  \nPasal 4, Pasal 5 ayat (1), Pasal 5 ayat (2),   \nPasal  5  ayat (3), Pasal 5 ayat (8), Pasal 6, Pasal 9  \nayat (1), Pasal 10 ayat (2), Pasal 11 ayat (1),  \nPasal 11 ayat (4), Pasal 11 ayat (5), Pasal 14, Pasal 15 \nayat (2), Pasal 15 ayat (4), Pasal 15 ayat (5), Pasal 16 \nayat (1), Pasal 17 ayat (1), Pasal 19 ayat (1), Pasal 19 \nayat (2), Pasal 19 ayat (4), Pasal 19 ayat (9), Pasal 20 \nayat (3), Pasal 21 ayat (1), dan/atau Pasal 21 ayat (2), \ndikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan berupa penurunan \nperingkat faktor tata kelola dalam penilaian tingkat \nkesehatan Bank; \nc. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; \nd. \npembekuan kegiatan usaha tertentu; dan/atau \ne. \npencantuman anggota direksi, dewan komisaris, \ndan pejabat eksekutif dalam daftar tidak lulus \nmelalui \nmekanisme \nuji \nkemampuan \ndan \nkepatutan. \n(2) \nSanksi sebagaimana dimaksud pada ayat (1) huruf b, \nhuruf c, huruf d, dan/atau huruf e dapat dikenakan \nbaik dengan atau tanpa didahului pengenaan sanksi \nteguran \ntertulis \nsebagaimana \ndimaksud \npada              \nayat (1) huruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \ntidak \nmelaksanakan \nketentuan \nsebagaimana dimaksud dalam Pasal 2 ayat (2),  \nPasal 4, Pasal 5 ayat (1), Pasal 5 ayat (2),   \nPasal  5  ayat (3), Pasal 5 ayat (8), Pasal 6, Pasal 9  \nayat (1), Pasal 10 ayat (2), Pasal 11 ayat (1),  \nPasal 11 ayat (4), Pasal 11 ayat (5), Pasal 14, Pasal 15 \nayat (2), Pasal 15 ayat (4), Pasal 15 ayat (5), Pasal 16 \nayat (1), Pasal 17 ayat (1), Pasal 19 ayat (1), Pasal 19 \nayat (2), Pasal 19 ayat (4), Pasal 19 ayat (9), Pasal 20 \nayat (3), Pasal 21 ayat (1), dan/atau Pasal 21 ayat (2), \ndikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan berupa penurunan \nperingkat faktor tata kelola dalam penilaian tingkat \nkesehatan Bank; \nc. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; \nd. \npembekuan kegiatan usaha tertentu; dan/atau \ne. \npencantuman anggota direksi, dewan komisaris, \ndan pejabat eksekutif dalam daftar tidak lulus \nmelalui \nmekanisme \nuji \nkemampuan \ndan \nkepatutan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sanksi sebagaimana dimaksud pada ayat (1) huruf b, \nhuruf c, huruf d, dan/atau huruf e dapat dikenakan \nbaik dengan atau tanpa didahului pengenaan sanksi \nteguran \ntertulis \nsebagaimana \ndimaksud \npada              \nayat (1) huruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank yang tidak memenuhi ketentuan pelaporan \nsebagaimana dimaksud dalam Pasal 22 dikenakan \nsanksi administratif berupa:  \na. \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) \nper hari keterlambatan per laporan; atau  \nb. \ndenda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah) per laporan, bagi Bank yang belum \nmenyampaikan laporan setelah 1 (satu) bulan \nsejak batas akhir waktu penyampaian laporan.  \n(2) \nPengenaan sanksi denda sebagaimana dimaksud pada \nayat (1) tidak menghilangkan kewajiban penyampaian \nlaporan. \n \nBAB IX \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang tidak memenuhi ketentuan pelaporan \nsebagaimana dimaksud dalam Pasal 22 dikenakan \nsanksi administratif berupa:  \na. \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) \nper hari keterlambatan per laporan; atau  \nb. \ndenda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah) per laporan, bagi Bank yang belum \nmenyampaikan laporan setelah 1 (satu) bulan \nsejak batas akhir waktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan sanksi denda sebagaimana dimaksud pada \nayat (1) tidak menghilangkan kewajiban penyampaian \nlaporan. \n \nBAB IX \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nProses \npengajuan \npermohonan \npersetujuan \npenyelenggaraan Layanan Perbankan Elektronik yang \ntelah diajukan sebelum Peraturan Otoritas Jasa \nKeuangan ini berlaku, mengacu pada ketentuan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi oleh Bank Umum. \n(2) \nPada saat Peraturan Otoritas Jasa Keuangan ini \nberlaku, \npengajuan \npermohonan \npersetujuan \npenyelenggaraan \nLayanan \nPerbankan \nElektronik \ntunduk pada Peraturan Otoritas Jasa Keuangan ini dan \nSurat Edaran Otoritas Jasa Keuangan mengenai \nPenerapan Manajemen Risiko dalam Penggunaan \nTeknologi Informasi oleh Bank Umum. \n \n \n \n \n \n\n\n \n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Proses \npengajuan \npermohonan \npersetujuan \npenyelenggaraan Layanan Perbankan Elektronik yang \ntelah diajukan sebelum Peraturan Otoritas Jasa \nKeuangan ini berlaku, mengacu pada ketentuan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi oleh Bank Umum."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini \nberlaku, \npengajuan \npermohonan \npersetujuan \npenyelenggaraan \nLayanan \nPerbankan \nElektronik \ntunduk pada Peraturan Otoritas Jasa Keuangan ini dan \nSurat Edaran Otoritas Jasa Keuangan mengenai \nPenerapan Manajemen Risiko dalam Penggunaan \nTeknologi Informasi oleh Bank Umum. \n \n \n \n \n \n\n\n \n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal  diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \nDitetapkan di Jakarta \npada tanggal 6 Agustus 2018 \n                        \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \nttd \n    WIMBOH SANTOSO \n \ndiundangkan di Jakarta \npada tanggal 8 Agustus 2018 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \nttd \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 127\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 12 /POJK.03/2018 \nTENTANG \nPENYELENGGARAAN LAYANAN PERBANKAN DIGITAL OLEH BANK UMUM \n \nI. \nUMUM  \nIndustri jasa keuangan di Indonesia merupakan salah satu industri \nyang memegang peranan penting dalam kegiatan perekonomian. \nBanyaknya variasi pelaku industri jasa keuangan menyebabkan tingkat \npersaingan yang tinggi, khususnya untuk memperoleh nasabah.  \nPada sisi lain, perkembangan zaman juga menunjukkan perubahan baik \ndari sisi perkembangan Teknologi Informasi maupun perubahan pola \nperilaku masyarakat dalam menggunakan layanan yang disediakan oleh \nLembaga Jasa Keuangan. Fenomena tersebut dewasa ini mendorong \nmunculnya pelaku jasa keuangan baru yang dikenal sebagai penyedia \nlayanan \njasa \nkeuangan \nberbasis \nTeknologi \nInformasi \n(financial \ntechnology) yang menawarkan inovasi baru dalam layanan jasa \nkeuangan. Hal tersebut berdampak terhadap peningkatan persaingan \npada industri jasa keuangan dan mendorong para pelaku untuk dapat \nmemberikan layanan yang lebih berkualitas dan memberikan nilai \ntambah kepada nasabah agar dapat mempertahankan eksistensinya. \nBank sebagai salah satu pelaku utama industri jasa keuangan yang \nmemberikan layanan perbankan secara langsung kepada masyarakat \njuga perlu melakukan terobosan dalam memberikan pelayanan. Pola \ninteraksi yang terjadi antara nasabah dengan Bank saat ini sebagian \nbesar masih berupa interaksi fisik yang dilakukan baik melalui jaringan \nkantor Bank maupun perangkat milik Bank secara manual, yang \nmemerlukan waktu relatif lebih lama dan kurang praktis. \n\n\n \nPada sisi lain, pelayanan terhadap nasabah Bank di Indonesia \nmasih berorientasi pada produk (product-centric). Dalam menjawab \ntantangan persaingan yang semakin ketat, Bank perlu menyelaraskan \nstrategi penyediaan layanan jasa keuangan yang berorientasi pada \nnasabah secara personal (customer-centric).  \nPeran Teknologi Informasi menjadi aspek yang sangat penting \nmengingat semakin tinggi penggunaan perangkat gawai (mobile device) \ndan komputer sebagai media transaksi keuangan. Hal tersebut juga \ndidukung dengan meningkatnya penggunaan jaringan internet di \nIndonesia yang diikuti dengan perluasan pembangunan infrastruktur \njaringan internet. Penggunaan Teknologi Informasi menjadi salah satu \nprasyarat dalam penyediaan jasa keuangan oleh Bank. Penggunaan \nTeknologi Informasi tersebut dapat dilakukan oleh Bank baik dengan \npengembangan infrastruktur pendukung secara mandiri maupun \nmelalui kerja sama dengan mitra Bank. Dengan memanfaatkan \nTeknologi Informasi, Bank diharapkan dapat memberikan layanan \nkepada nasabah tanpa  batasan tempat dan waktu, serta dengan biaya \nseminimal mungkin yang memberikan kenyamanan maksimal kepada \nnasabah sesuai dengan preferensi nasabah.  \nPeningkatan penggunaan Teknologi Informasi dalam peningkatan \nlayanan kepada nasabah secara personal mengarahkan Bank dalam \nsuatu era baru yaitu era perbankan digital. Layanan kepada nasabah \nsecara personal pada era perbankan digital dapat diwujudkan sejak \nhubungan usaha antara nasabah dengan Bank dimulai sampai dengan \nberakhir. Proses pembukaan rekening simpanan, eksekusi transaksi \nkeuangan, hingga penutupan rekening simpanan dapat dilakukan \ndengan memanfaatkan Teknologi Informasi. \nInovasi pelayanan, kerja sama dengan mitra Bank, dan otomatisasi \nproses menjadi beberapa hal yang harus diperhatikan oleh Bank, \nterutama dalam menghadapi risiko yang mungkin muncul dari setiap \nstrategi yang akan dirumuskan pada masa depan. Layanan Perbankan \nDigital (Digital Banking) diharapkan dapat memberikan kemudahan pada \nlevel yang lebih tinggi dibandingkan dengan layanan yang sudah ada. \nPada sisi lain Layanan Perbankan Digital meningkatkan risiko yang akan \ndihadapi Bank, terutama terkait dengan risiko operasional, risiko \nstrategi, dan risiko reputasi. \n \n\n\n \nDengan diterbitkannya Peraturan Otoritas Jasa Keuangan ini, \nBank diharapkan dapat menyelenggarakan Layanan Perbankan Digital \ndengan tetap mengedepankan manajemen risiko dalam penggunaan \nTeknologi Informasi. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal  diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \nDitetapkan di Jakarta \npada tanggal 6 Agustus 2018 \n                        \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \nttd \n    WIMBOH SANTOSO \n \ndiundangkan di Jakarta \npada tanggal 8 Agustus 2018 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \nttd \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 127\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 12 /POJK.03/2018 \nTENTANG \nPENYELENGGARAAN LAYANAN PERBANKAN DIGITAL OLEH BANK UMUM \n \nI. \nUMUM  \nIndustri jasa keuangan di Indonesia merupakan salah satu industri \nyang memegang peranan penting dalam kegiatan perekonomian. \nBanyaknya variasi pelaku industri jasa keuangan menyebabkan tingkat \npersaingan yang tinggi, khususnya untuk memperoleh nasabah.  \nPada sisi lain, perkembangan zaman juga menunjukkan perubahan baik \ndari sisi perkembangan Teknologi Informasi maupun perubahan pola \nperilaku masyarakat dalam menggunakan layanan yang disediakan oleh \nLembaga Jasa Keuangan. Fenomena tersebut dewasa ini mendorong \nmunculnya pelaku jasa keuangan baru yang dikenal sebagai penyedia \nlayanan \njasa \nkeuangan \nberbasis \nTeknologi \nInformasi \n(financial \ntechnology) yang menawarkan inovasi baru dalam layanan jasa \nkeuangan. Hal tersebut berdampak terhadap peningkatan persaingan \npada industri jasa keuangan dan mendorong para pelaku untuk dapat \nmemberikan layanan yang lebih berkualitas dan memberikan nilai \ntambah kepada nasabah agar dapat mempertahankan eksistensinya. \nBank sebagai salah satu pelaku utama industri jasa keuangan yang \nmemberikan layanan perbankan secara langsung kepada masyarakat \njuga perlu melakukan terobosan dalam memberikan pelayanan. Pola \ninteraksi yang terjadi antara nasabah dengan Bank saat ini sebagian \nbesar masih berupa interaksi fisik yang dilakukan baik melalui jaringan \nkantor Bank maupun perangkat milik Bank secara manual, yang \nmemerlukan waktu relatif lebih lama dan kurang praktis. \n\n\n \nPada sisi lain, pelayanan terhadap nasabah Bank di Indonesia \nmasih berorientasi pada produk (product-centric). Dalam menjawab \ntantangan persaingan yang semakin ketat, Bank perlu menyelaraskan \nstrategi penyediaan layanan jasa keuangan yang berorientasi pada \nnasabah secara personal (customer-centric).  \nPeran Teknologi Informasi menjadi aspek yang sangat penting \nmengingat semakin tinggi penggunaan perangkat gawai (mobile device) \ndan komputer sebagai media transaksi keuangan. Hal tersebut juga \ndidukung dengan meningkatnya penggunaan jaringan internet di \nIndonesia yang diikuti dengan perluasan pembangunan infrastruktur \njaringan internet. Penggunaan Teknologi Informasi menjadi salah satu \nprasyarat dalam penyediaan jasa keuangan oleh Bank. Penggunaan \nTeknologi Informasi tersebut dapat dilakukan oleh Bank baik dengan \npengembangan infrastruktur pendukung secara mandiri maupun \nmelalui kerja sama dengan mitra Bank. Dengan memanfaatkan \nTeknologi Informasi, Bank diharapkan dapat memberikan layanan \nkepada nasabah tanpa  batasan tempat dan waktu, serta dengan biaya \nseminimal mungkin yang memberikan kenyamanan maksimal kepada \nnasabah sesuai dengan preferensi nasabah.  \nPeningkatan penggunaan Teknologi Informasi dalam peningkatan \nlayanan kepada nasabah secara personal mengarahkan Bank dalam \nsuatu era baru yaitu era perbankan digital. Layanan kepada nasabah \nsecara personal pada era perbankan digital dapat diwujudkan sejak \nhubungan usaha antara nasabah dengan Bank dimulai sampai dengan \nberakhir. Proses pembukaan rekening simpanan, eksekusi transaksi \nkeuangan, hingga penutupan rekening simpanan dapat dilakukan \ndengan memanfaatkan Teknologi Informasi. \nInovasi pelayanan, kerja sama dengan mitra Bank, dan otomatisasi \nproses menjadi beberapa hal yang harus diperhatikan oleh Bank, \nterutama dalam menghadapi risiko yang mungkin muncul dari setiap \nstrategi yang akan dirumuskan pada masa depan. Layanan Perbankan \nDigital (Digital Banking) diharapkan dapat memberikan kemudahan pada \nlevel yang lebih tinggi dibandingkan dengan layanan yang sudah ada. \nPada sisi lain Layanan Perbankan Digital meningkatkan risiko yang akan \ndihadapi Bank, terutama terkait dengan risiko operasional, risiko \nstrategi, dan risiko reputasi. \n \n\n\n \nDengan diterbitkannya Peraturan Otoritas Jasa Keuangan ini, \nBank diharapkan dapat menyelenggarakan Layanan Perbankan Digital \ndengan tetap mengedepankan manajemen risiko dalam penggunaan \nTeknologi Informasi. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenyelenggaraan Layanan Perbankan Elektronik atau Layanan \nPerbankan Digital merupakan salah satu upaya Bank dalam \nrangka berperan aktif untuk memperluas akses keuangan \nmasyarakat. \nPerluasan akses keuangan masyarakat antara lain melalui \npembukaan rekening simpanan di Bank yang dapat dilakukan \nsecara mandiri dan peningkatan layanan keuangan untuk \nmempermudah pengelolaan keuangan nasabah. \nAyat (2) \nPenerapan manajemen risiko mengacu pada ketentuan \nOtoritas Jasa Keuangan mengenai penerapan manajemen \nrisiko oleh Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenyelenggaraan Layanan Perbankan Elektronik atau Layanan \nPerbankan Digital merupakan salah satu upaya Bank dalam \nrangka berperan aktif untuk memperluas akses keuangan \nmasyarakat. \nPerluasan akses keuangan masyarakat antara lain melalui \npembukaan rekening simpanan di Bank yang dapat dilakukan \nsecara mandiri dan peningkatan layanan keuangan untuk \nmempermudah pengelolaan keuangan nasabah. \nAyat (2) \nPenerapan manajemen risiko mengacu pada ketentuan \nOtoritas Jasa Keuangan mengenai penerapan manajemen \nrisiko oleh Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh saluran distribusi (delivery channel) Layanan Perbankan \nElektronik antara lain Automated Teller Machine (ATM), Cash \nDeposit Machine (CDM), phone banking, Short Message Services \n(SMS) banking, Electronic Data Capture (EDC), Point of Sales (POS), \ninternet banking, dan mobile banking.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh saluran distribusi (delivery channel) Layanan Perbankan \nElektronik antara lain Automated Teller Machine (ATM), Cash \nDeposit Machine (CDM), phone banking, Short Message Services \n(SMS) banking, Electronic Data Capture (EDC), Point of Sales (POS), \ninternet banking, dan mobile banking."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “ketentuan Otoritas Jasa Keuangan” antara \nlain mengenai kegiatan usaha dan jaringan kantor berdasarkan \nmodal inti bank, kegiatan usaha Bank Umum berdasarkan modal \ninti, dan/atau produk dan aktivitas Bank Umum Syariah dan Unit \nUsaha Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “ketentuan Otoritas Jasa Keuangan” antara \nlain mengenai kegiatan usaha dan jaringan kantor berdasarkan \nmodal inti bank, kegiatan usaha Bank Umum berdasarkan modal \ninti, dan/atau produk dan aktivitas Bank Umum Syariah dan Unit \nUsaha Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nProduk \nLayanan \nPerbankan \nElektronik \nyang \nbersifat \ntransaksional yang perlu memperoleh persetujuan Otoritas \nJasa \nKeuangan \nadalah \nproduk \nbaru \nyang \nmemiliki \nkarakteristik berbeda dengan produk yang telah ada di Bank \ndan/atau menambah atau meningkatkan eksposur risiko \ntertentu pada Bank. \nContoh \nLayanan \nPerbankan \nElektronik \nyang \nbersifat \ntransaksional antara lain pemindahbukuan, transfer dana, \npembayaran, dan pembelian. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nAngka 1 \nYang dimaksud dengan “manajemen” antara lain \ndireksi, dewan komisaris, dan komite pengarah \nTeknologi Informasi. \nAngka 2 \nCukup jelas. \nAngka 3 \nCukup jelas. \nAngka 4 \nCukup jelas. \nAngka 5 \nCukup jelas. \n \n\n\n \nAngka 6 \nCukup jelas. \nAngka 7 \nCukup jelas. \nAngka 8 \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nDokumen \npendukung \nantara \nlain \ndokumen \nyang \ndipersyaratkan oleh otoritas terkait, seperti: \n1. \ntanda terdaftar sistem elektronik dan bukti perolehan \nsertifikasi sistem elektronik, yang diterbitkan oleh \nKementerian Komunikasi dan Informatika Republik \nIndonesia; dan/atau \n2.  dokumen yang sesuai dengan ketentuan peraturan \nperundang-undangan \nyang \nmengatur \nmengenai \npenyelenggaraan sistem dan transaksi elektronik. \nAyat (5) \nHasil pemeriksaan dari pihak independen di luar Bank \ndiperlukan untuk produk Layanan Perbankan Elektronik yang \nbaru pertama kali diterbitkan oleh Bank seperti internet \nbanking dan SMS banking, yang bersifat transaksional. Untuk \npenambahan fitur layanan produk Layanan Perbankan \nElektronik yang telah ada dan dapat menambah atau \nmeningkatkan eksposur risiko, Bank dapat menyampaikan \nhasil pemeriksaan yang dilakukan oleh pihak intern Bank yang \ntidak ikut serta dalam perancangan dan pengembangan sistem \naplikasi serta pengambilan keputusan dalam implementasi \nLayanan Perbankan Elektronik. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \n \n \n \n\n\n \nAyat (8) \nKetentuan Otoritas Jasa Keuangan antara lain: \na. \npenerapan manajemen risiko bagi Bank Umum; \nb. \npenerapan manajemen risiko bagi Bank Umum Syariah \ndan Unit Usaha Syariah; \nc. \npenerapan manajemen risiko dalam penggunaan teknologi \ninformasi oleh Bank Umum; \nd. \nkegiatan usaha dan jaringan kantor berdasarkan modal \ninti bank; \ne. \npenerapan program anti pencucian uang dan pencegahan \npendanaan terorisme di sektor jasa keuangan; dan/atau \nf. \nperlindungan konsumen sektor jasa keuangan. \nKetentuan otoritas terkait antara lain ketentuan mengenai \npenyelenggaraan kegiatan alat pembayaran menggunakan \nkartu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nProduk \nLayanan \nPerbankan \nElektronik \nyang \nbersifat \ntransaksional yang perlu memperoleh persetujuan Otoritas \nJasa \nKeuangan \nadalah \nproduk \nbaru \nyang \nmemiliki \nkarakteristik berbeda dengan produk yang telah ada di Bank \ndan/atau menambah atau meningkatkan eksposur risiko \ntertentu pada Bank. \nContoh \nLayanan \nPerbankan \nElektronik \nyang \nbersifat \ntransaksional antara lain pemindahbukuan, transfer dana, \npembayaran, dan pembelian. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nAngka 1 \nYang dimaksud dengan “manajemen” antara lain \ndireksi, dewan komisaris, dan komite pengarah \nTeknologi Informasi. \nAngka 2 \nCukup jelas. \nAngka 3 \nCukup jelas. \nAngka 4 \nCukup jelas. \nAngka 5 \nCukup jelas. \n \n\n\n \nAngka 6 \nCukup jelas. \nAngka 7 \nCukup jelas. \nAngka 8 \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nDokumen \npendukung \nantara \nlain \ndokumen \nyang \ndipersyaratkan oleh otoritas terkait, seperti: \n1. \ntanda terdaftar sistem elektronik dan bukti perolehan \nsertifikasi sistem elektronik, yang diterbitkan oleh \nKementerian Komunikasi dan Informatika Republik \nIndonesia; dan/atau \n2.  dokumen yang sesuai dengan ketentuan peraturan \nperundang-undangan \nyang \nmengatur \nmengenai \npenyelenggaraan sistem dan transaksi elektronik. \nAyat (5) \nHasil pemeriksaan dari pihak independen di luar Bank \ndiperlukan untuk produk Layanan Perbankan Elektronik yang \nbaru pertama kali diterbitkan oleh Bank seperti internet \nbanking dan SMS banking, yang bersifat transaksional. Untuk \npenambahan fitur layanan produk Layanan Perbankan \nElektronik yang telah ada dan dapat menambah atau \nmeningkatkan eksposur risiko, Bank dapat menyampaikan \nhasil pemeriksaan yang dilakukan oleh pihak intern Bank yang \ntidak ikut serta dalam perancangan dan pengembangan sistem \naplikasi serta pengambilan keputusan dalam implementasi \nLayanan Perbankan Elektronik. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \n \n \n \n\n\n \nAyat (8) \nKetentuan Otoritas Jasa Keuangan antara lain: \na. \npenerapan manajemen risiko bagi Bank Umum; \nb. \npenerapan manajemen risiko bagi Bank Umum Syariah \ndan Unit Usaha Syariah; \nc. \npenerapan manajemen risiko dalam penggunaan teknologi \ninformasi oleh Bank Umum; \nd. \nkegiatan usaha dan jaringan kantor berdasarkan modal \ninti bank; \ne. \npenerapan program anti pencucian uang dan pencegahan \npendanaan terorisme di sektor jasa keuangan; dan/atau \nf. \nperlindungan konsumen sektor jasa keuangan. \nKetentuan otoritas terkait antara lain ketentuan mengenai \npenyelenggaraan kegiatan alat pembayaran menggunakan \nkartu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Prinsip pengendalian pengamanan data dan transaksi nasabah dari \nLayanan Perbankan Elektronik pada setiap sistem elektronik \nmencakup antara lain:  \na. \nkerahasiaan (confidentiality); \nb. \nintegritas (integrity); \nc. \nketersediaan (availability); \nd. \nkeaslian (authentication); \ne. \ntidak dapat diingkari (non repudiation); \nf. \npengendalian \notorisasi \ndalam \nsistem, \npangkalan \ndata  \n(database), dan aplikasi (authorization of control); \ng. \npemisahan tugas dan tanggung jawab (segregation of duties); \ndan \nh. \npemeliharaan jejak audit (maintenance of audit trails). \nYang dimaksud dengan “sistem elektronik” adalah sebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan mengenai \nPenerapan Manajemen Risiko dalam Penggunaan Teknologi \nInformasi bagi Bank Umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prinsip pengendalian pengamanan data dan transaksi nasabah dari \nLayanan Perbankan Elektronik pada setiap sistem elektronik \nmencakup antara lain:  \na. \nkerahasiaan (confidentiality); \nb. \nintegritas (integrity); \nc. \nketersediaan (availability); \nd. \nkeaslian (authentication); \ne. \ntidak dapat diingkari (non repudiation); \nf. \npengendalian \notorisasi \ndalam \nsistem, \npangkalan \ndata  \n(database), dan aplikasi (authorization of control); \ng. \npemisahan tugas dan tanggung jawab (segregation of duties); \ndan \nh. \npemeliharaan jejak audit (maintenance of audit trails). \nYang dimaksud dengan “sistem elektronik” adalah sebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan mengenai \nPenerapan Manajemen Risiko dalam Penggunaan Teknologi \nInformasi bagi Bank Umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh Layanan Perbankan Digital: \na. \nlayanan pembukaan rekening secara mandiri oleh nasabah \nmelalui ATM yang sudah dikembangkan atau aplikasi Bank \nyang terdapat pada smartphone, dan didukung dengan fasilitas \nantara lain pemindai sidik jari, pemindai kartu identitas, \ndan/atau video banking;  \nb. \nlayanan pengajuan kredit perumahan kepada nasabah. Dalam \nmemberikan persetujuan kredit, Bank menganalisis data \nkeuangan nasabah berupa posisi keuangan, pola transaksi, \ndan portofolio keuangan. Selain itu, Bank juga memberikan \nsaran kepada nasabah dalam \nmembantu pengambilan \nkeputusan pembelian rumah dengan menyediakan data seperti \nharga dan lokasi rumah dari pihak ketiga yang sesuai dengan \nkebutuhan dan karakteristik nasabah. Pengajuan kredit \ndilakukan secara langsung melalui aplikasi Bank yang terdapat \npada smartphone nasabah dengan otorisasi transaksi antara \nlain menggunakan sidik jari.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh Layanan Perbankan Digital: \na. \nlayanan pembukaan rekening secara mandiri oleh nasabah \nmelalui ATM yang sudah dikembangkan atau aplikasi Bank \nyang terdapat pada smartphone, dan didukung dengan fasilitas \nantara lain pemindai sidik jari, pemindai kartu identitas, \ndan/atau video banking;  \nb. \nlayanan pengajuan kredit perumahan kepada nasabah. Dalam \nmemberikan persetujuan kredit, Bank menganalisis data \nkeuangan nasabah berupa posisi keuangan, pola transaksi, \ndan portofolio keuangan. Selain itu, Bank juga memberikan \nsaran kepada nasabah dalam \nmembantu pengambilan \nkeputusan pembelian rumah dengan menyediakan data seperti \nharga dan lokasi rumah dari pihak ketiga yang sesuai dengan \nkebutuhan dan karakteristik nasabah. Pengajuan kredit \ndilakukan secara langsung melalui aplikasi Bank yang terdapat \npada smartphone nasabah dengan otorisasi transaksi antara \nlain menggunakan sidik jari."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “disediakan oleh Bank” adalah \nLayanan Perbankan Digital yang diselenggarakan oleh \nBank. \nPenyelenggaraan \nTeknologi \nInformasi \nterkait \ndengan Layanan Perbankan Digital oleh Bank dapat \ndilakukan oleh Bank secara mandiri dan/atau pihak \npenyedia jasa Teknologi Informasi.  \nHuruf b \nYang \ndimaksud \ndengan \n“disediakan \noleh \nBank \nberdasarkan perjanjian kemitraan antara Bank dengan \nmitra Bank” adalah Layanan Perbankan Digital yang \ndiselenggarakan oleh Bank bekerja sama dengan mitra \nBank. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “disediakan oleh Bank” adalah \nLayanan Perbankan Digital yang diselenggarakan oleh \nBank. \nPenyelenggaraan \nTeknologi \nInformasi \nterkait \ndengan Layanan Perbankan Digital oleh Bank dapat \ndilakukan oleh Bank secara mandiri dan/atau pihak \npenyedia jasa Teknologi Informasi.  \nHuruf b \nYang \ndimaksud \ndengan \n“disediakan \noleh \nBank \nberdasarkan perjanjian kemitraan antara Bank dengan \nmitra Bank” adalah Layanan Perbankan Digital yang \ndiselenggarakan oleh Bank bekerja sama dengan mitra \nBank. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nFungsi yang bertugas menangani penyelenggaraan Layanan \nPerbankan Digital dapat dilaksanakan oleh satuan kerja atau \nunit kerja yang telah ada terkait operasional di Bank, sesuai \ndengan kompleksitas usaha Bank. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nPemantauan \ndata \ntransaksi \nkeuangan \nLayanan \nPerbankan Digital antara lain pemantauan terhadap \nnominal transaksi, jenis transaksi, frekuensi transaksi, \ndan kendala yang terjadi dalam transaksi sesuai dengan \nkelompok periode pemantauan. \nHuruf e \nTugas \nini \ndilakukan \nagar \ninvestasi \nBank \ndalam \npenyelenggaraan dan pengembangan Layanan Perbankan \nDigital memberikan kontribusi yang signifikan terhadap \npencapaian tujuan bisnis Bank. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nFungsi yang bertugas menangani penyelenggaraan Layanan \nPerbankan Digital dapat dilaksanakan oleh satuan kerja atau \nunit kerja yang telah ada terkait operasional di Bank, sesuai \ndengan kompleksitas usaha Bank. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nPemantauan \ndata \ntransaksi \nkeuangan \nLayanan \nPerbankan Digital antara lain pemantauan terhadap \nnominal transaksi, jenis transaksi, frekuensi transaksi, \ndan kendala yang terjadi dalam transaksi sesuai dengan \nkelompok periode pemantauan. \nHuruf e \nTugas \nini \ndilakukan \nagar \ninvestasi \nBank \ndalam \npenyelenggaraan dan pengembangan Layanan Perbankan \nDigital memberikan kontribusi yang signifikan terhadap \npencapaian tujuan bisnis Bank. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nAdministrasi rekening mencakup antara lain pembukaan \nrekening, pengkinian data nasabah, hingga penutupan \nrekening,  dengan memanfaatkan media elektronik. \nRekening dapat berupa antara lain: \n \n\n\n \n1. \nrekening simpanan termasuk simpanan berdasarkan \nprinsip syariah dengan akad mudharabah dan/atau \nwadi’ah;  \n2. \nrekening kredit atau pembiayaan; dan/atau \n3. \nrekening \nadministratif \nseperti \npengajuan \npermohonan jaminan antara lain bank garansi, Letter \nof Credit (L/C), dan jaminan lain. \nContoh administrasi rekening:  \n1. \nNasabah membuka rekening simpanan melalui \naplikasi Bank pada smartphone milik nasabah. \nNasabah \nmelengkapi \npengisian \ndata \nuntuk \nmemenuhi persyaratan identitas yang diberikan oleh \nBank dengan memanfaatkan fasilitas antara lain \npemindai sidik jari, pemindai kartu identitas, dan \nkamera. Bank dalam melakukan verifikasi data \nnasabah dapat memanfaatkan data dari pihak ketiga \nyang telah bekerja sama dengan Bank.  \n2. \nAplikasi Bank pada smartphone nasabah dilengkapi \ndengan fasilitas pengkinian data nasabah dan dapat \ndiverifikasi secara daring (online) oleh Bank. Otorisasi \nperubahan \ndata \nnasabah \ndapat \nmenggunakan \ninformasi biometric, password, dan/atau informasi \nelektronik lain seperti Quick Response code (QR code). \n3. \nBank menyediakan fasilitas penutupan rekening \nsecara daring (online) melalui ATM yang dilengkapi \ndengan fasilitas pemindai sidik jari dan kartu \nidentitas. \nBank \nmemverifikasi \npermohonan \npenutupan rekening tersebut. \nHuruf b \nOtorisasi \ntransaksi \nmencakup \ntransaksi \nkeuangan \ndan/atau transaksi non-keuangan.  \nContoh otorisasi transaksi:  \n1. \nBank menyediakan aplikasi mobile banking yang \nsudah dikembangkan dengan teknologi yang dapat \nmembaca data suara nasabah. Nasabah Bank yang \ntelah memiliki smartphone yang dilengkapi dengan \npemindai suara dapat membuka dan masuk pada \n\n\n \naplikasi mobile banking dengan perintah tertentu. \n2. \nNasabah memiliki \nsmartphone \nyang dilengkapi \ndengan \nteknologi \ndan \naplikasi \npendukung \npenggunaan \nQR \ncode \ndan/atau \nNear \nField \nCommunication (NFC). Dalam melakukan transaksi \npembayaran pada merchant yang bekerja sama \ndengan Bank, nasabah dapat memindai QR code \ndan/atau NFC dalam smartphone pada mesin \npembaca yang disediakan oleh merchant untuk \npendebetan secara otomatis sesuai dengan nominal \ntransaksi. \nHuruf c \nPengelolaan keuangan merupakan salah satu layanan \nyang disediakan oleh Bank untuk membantu nasabah \ndalam menganalisis dan merencanakan penggunaan dana \nsehingga \nnasabah \ndapat \nmengambil \nkeputusan \npenggunaan dana secara lebih bijak.   \nPengelolaan keuangan antara lain meliputi perencanaan \nkeuangan, eksekusi transaksi keuangan, dan konsultasi \nkeuangan yang terkait dengan layanan perbankan. \nContoh pengelolaan keuangan bagi nasabah perorangan, \nantara lain: \n1. \nBerdasarkan data nasabah, Bank menyediakan \nfasilitas pengelolaan keuangan secara personal, \nseperti perencanaan tabungan berjangka untuk \nkebutuhan pendidikan anak. Bank memberikan hasil \nanalisis terhadap kemampuan keuangan nasabah \ntermasuk alternatif produk keuangan yang sesuai \nbagi nasabah pada aplikasi Bank. Dalam hal nasabah \nberminat, nasabah dapat mengajukan produk yang \ndiinginkan melalui aplikasi Bank dengan proses \notorisasi sesuai dengan kebutuhan. Bank juga dapat \nmemberikan laporan berkala dan notifikasi terkait \ndengan periode nasabah dapat menikmati manfaat \ndari produk yang sudah diajukan. \n \n \n\n\n \n2. \nBerdasarkan hasil analisis Bank terhadap data \nnasabah secara personal, Bank dapat menyediakan \ninformasi pola penggunaan dana nasabah sehingga \npada saat nasabah hendak melakukan transaksi di \nluar \nkemampuan \nfinansialnya, \nBank \ndapat \nmemberikan saran secara spesifik bagi nasabah. \nContoh pengelolaan keuangan bagi nasabah berupa \nbadan usaha misalnya dalam rangka membantu proses \nbisnis nasabah, Bank dapat menyediakan fasilitas \npengelolaan keuangan yang dapat diakses melalui media \nelektronik antara lain saluran internet banking. Dengan \nmemanfaatkan data dan/atau informasi nasabah, Bank \nmemberikan informasi kritikal terkait bisnis nasabah yang \nberpengaruh pada posisi keuangan badan usaha nasabah. \nBank dapat menyediakan antara lain status pembayaran \norder nasabah, saldo rekening nasabah, serta status \nkredit dan penggunaan jaminan. \nHuruf d \nCukup jelas. \nAyat (2) \nYang dimaksud dengan data dan/atau informasi yang dapat \ndipertanggungjawabkan kebenarannya berupa biometric antara \nlain sidik jari, suara, dan iris mata dan/atau instrumen \nelektronik lain antara lain QR code dan NFC.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nAdministrasi rekening mencakup antara lain pembukaan \nrekening, pengkinian data nasabah, hingga penutupan \nrekening,  dengan memanfaatkan media elektronik. \nRekening dapat berupa antara lain: \n \n\n\n \n1. \nrekening simpanan termasuk simpanan berdasarkan \nprinsip syariah dengan akad mudharabah dan/atau \nwadi’ah;  \n2. \nrekening kredit atau pembiayaan; dan/atau \n3. \nrekening \nadministratif \nseperti \npengajuan \npermohonan jaminan antara lain bank garansi, Letter \nof Credit (L/C), dan jaminan lain. \nContoh administrasi rekening:  \n1. \nNasabah membuka rekening simpanan melalui \naplikasi Bank pada smartphone milik nasabah. \nNasabah \nmelengkapi \npengisian \ndata \nuntuk \nmemenuhi persyaratan identitas yang diberikan oleh \nBank dengan memanfaatkan fasilitas antara lain \npemindai sidik jari, pemindai kartu identitas, dan \nkamera. Bank dalam melakukan verifikasi data \nnasabah dapat memanfaatkan data dari pihak ketiga \nyang telah bekerja sama dengan Bank.  \n2. \nAplikasi Bank pada smartphone nasabah dilengkapi \ndengan fasilitas pengkinian data nasabah dan dapat \ndiverifikasi secara daring (online) oleh Bank. Otorisasi \nperubahan \ndata \nnasabah \ndapat \nmenggunakan \ninformasi biometric, password, dan/atau informasi \nelektronik lain seperti Quick Response code (QR code). \n3. \nBank menyediakan fasilitas penutupan rekening \nsecara daring (online) melalui ATM yang dilengkapi \ndengan fasilitas pemindai sidik jari dan kartu \nidentitas. \nBank \nmemverifikasi \npermohonan \npenutupan rekening tersebut. \nHuruf b \nOtorisasi \ntransaksi \nmencakup \ntransaksi \nkeuangan \ndan/atau transaksi non-keuangan.  \nContoh otorisasi transaksi:  \n1. \nBank menyediakan aplikasi mobile banking yang \nsudah dikembangkan dengan teknologi yang dapat \nmembaca data suara nasabah. Nasabah Bank yang \ntelah memiliki smartphone yang dilengkapi dengan \npemindai suara dapat membuka dan masuk pada \n\n\n \naplikasi mobile banking dengan perintah tertentu. \n2. \nNasabah memiliki \nsmartphone \nyang dilengkapi \ndengan \nteknologi \ndan \naplikasi \npendukung \npenggunaan \nQR \ncode \ndan/atau \nNear \nField \nCommunication (NFC). Dalam melakukan transaksi \npembayaran pada merchant yang bekerja sama \ndengan Bank, nasabah dapat memindai QR code \ndan/atau NFC dalam smartphone pada mesin \npembaca yang disediakan oleh merchant untuk \npendebetan secara otomatis sesuai dengan nominal \ntransaksi. \nHuruf c \nPengelolaan keuangan merupakan salah satu layanan \nyang disediakan oleh Bank untuk membantu nasabah \ndalam menganalisis dan merencanakan penggunaan dana \nsehingga \nnasabah \ndapat \nmengambil \nkeputusan \npenggunaan dana secara lebih bijak.   \nPengelolaan keuangan antara lain meliputi perencanaan \nkeuangan, eksekusi transaksi keuangan, dan konsultasi \nkeuangan yang terkait dengan layanan perbankan. \nContoh pengelolaan keuangan bagi nasabah perorangan, \nantara lain: \n1. \nBerdasarkan data nasabah, Bank menyediakan \nfasilitas pengelolaan keuangan secara personal, \nseperti perencanaan tabungan berjangka untuk \nkebutuhan pendidikan anak. Bank memberikan hasil \nanalisis terhadap kemampuan keuangan nasabah \ntermasuk alternatif produk keuangan yang sesuai \nbagi nasabah pada aplikasi Bank. Dalam hal nasabah \nberminat, nasabah dapat mengajukan produk yang \ndiinginkan melalui aplikasi Bank dengan proses \notorisasi sesuai dengan kebutuhan. Bank juga dapat \nmemberikan laporan berkala dan notifikasi terkait \ndengan periode nasabah dapat menikmati manfaat \ndari produk yang sudah diajukan. \n \n \n\n\n \n2. \nBerdasarkan hasil analisis Bank terhadap data \nnasabah secara personal, Bank dapat menyediakan \ninformasi pola penggunaan dana nasabah sehingga \npada saat nasabah hendak melakukan transaksi di \nluar \nkemampuan \nfinansialnya, \nBank \ndapat \nmemberikan saran secara spesifik bagi nasabah. \nContoh pengelolaan keuangan bagi nasabah berupa \nbadan usaha misalnya dalam rangka membantu proses \nbisnis nasabah, Bank dapat menyediakan fasilitas \npengelolaan keuangan yang dapat diakses melalui media \nelektronik antara lain saluran internet banking. Dengan \nmemanfaatkan data dan/atau informasi nasabah, Bank \nmemberikan informasi kritikal terkait bisnis nasabah yang \nberpengaruh pada posisi keuangan badan usaha nasabah. \nBank dapat menyediakan antara lain status pembayaran \norder nasabah, saldo rekening nasabah, serta status \nkredit dan penggunaan jaminan. \nHuruf d \nCukup jelas. \nAyat (2) \nYang dimaksud dengan data dan/atau informasi yang dapat \ndipertanggungjawabkan kebenarannya berupa biometric antara \nlain sidik jari, suara, dan iris mata dan/atau instrumen \nelektronik lain antara lain QR code dan NFC."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nIdentifikasi nasabah atau calon nasabah dilakukan \nmelalui permintaan data dan informasi sebagaimana \ndiatur dalam ketentuan Otoritas Jasa Keuangan mengenai \npenerapan program anti pencucian uang dan pencegahan \npendanaan terorisme di sektor jasa keuangan. \nHuruf b \nCukup jelas. \n \n \n\n\n \nAyat (2) \nHuruf a \nAngka 1) \nCukup jelas.  \nAngka 2)  \nContoh  perangkat lunak milik Bank dan perangkat \nkeras milik Bank yang digunakan untuk verifikasi \nmelalui tatap muka menggunakan perangkat antara \nlain ATM yang berada pada jaringan kantor Bank \nyang dilengkapi dengan aplikasi video banking yang \nterhubung langsung secara real-time online dengan \npegawai Bank. \nBank dapat memanfaatkan perangkat lunak dan \nperangkat keras lain milik Bank yang dapat \nmemfasilitasi tatap muka antara nasabah atau calon \nnasabah dengan pegawai Bank secara real-time \nonline. \nContoh \nperangkat \nlunak \nmilik \nBank \ndengan \nperangkat keras milik nasabah atau calon nasabah \nyang digunakan untuk verifikasi melalui tatap muka \nantara lain aplikasi milik Bank yang dapat diakses \nmelalui smartphone dan/atau komputer tablet milik \nnasabah atau calon nasabah yang dilengkapi dengan \nfasilitas video banking. \nPerangkat keras milik nasabah atau calon nasabah \nBank dilengkapi dengan fitur pendukung verifikasi \nseperti kamera dan alat pemindai kartu identitas. \nHuruf b  \nContoh perangkat lunak dan perangkat keras milik Bank \nyang digunakan untuk verifikasi tanpa tatap muka antara \nlain ATM yang berada pada jaringan kantor Bank \ndilengkapi dengan aplikasi yang telah memiliki fungsi \nantara lain pemindai sidik jari dan pemindai kartu \nidentitas. \nContoh perangkat lunak milik Bank dan perangkat keras \nmilik nasabah atau calon nasabah yang digunakan untuk \nverifikasi tanpa tatap muka antara lain:  \n\n\n \n1. \naplikasi milik Bank yang dapat diakses dengan \nperangkat \ngawai \n(mobile \ndevice) \nantara \nlain \nsmartphone dan/atau komputer tablet; dan/atau \n2. \nsitus web (website) Bank yang dapat diakses melalui \nperangkat elektronik antara lain komputer dan/atau \nlaptop. \nBank memastikan media elektronik milik nasabah atau \ncalon nasabah dilengkapi dengan fitur pendukung \nverifikasi seperti kamera, pemindai, perekam, dan/atau \npelacak lokasi. \nAyat (3) \nFaktor keaslian (authentication factor) berupa: \na. \napa yang anda tahu (what you know), antara lain Personal \nIdentification Number (PIN), password, nomor kartu \nidentitas dan data pribadi; \nb. \napa yang anda punya (what you have), antara lain kartu \nmagnetis, kartu ber-chip, token, digital signature, dan \nbentuk lain yang dapat dipersamakan; dan \nc. \nciri khas anda (what you are) antara lain biometric seperti \nsidik jari, suara, dan iris mata.  \nCiri khas anda (what you are) sebagaimana dimaksud \npada \nayat \nini \nsama \ndengan \nsomething \nyou \nare \nsebagaimana diatur dalam ketentuan Otoritas Jasa \nKeuangan mengenai penerapan manajemen risiko dalam \npenggunaan teknologi informasi oleh Bank Umum dan \nlayanan keuangan tanpa kantor dalam rangka keuangan \ninklusif.  \nSelain faktor keaslian (authentication factor) sebagaimana \ndimaksud dalam huruf a sampai dengan huruf c, Bank dapat \nmemperhatikan faktor keaslian (authentication factor) lainnya.  \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nIdentifikasi nasabah atau calon nasabah dilakukan \nmelalui permintaan data dan informasi sebagaimana \ndiatur dalam ketentuan Otoritas Jasa Keuangan mengenai \npenerapan program anti pencucian uang dan pencegahan \npendanaan terorisme di sektor jasa keuangan. \nHuruf b \nCukup jelas. \n \n \n\n\n \nAyat (2) \nHuruf a \nAngka 1) \nCukup jelas.  \nAngka 2)  \nContoh  perangkat lunak milik Bank dan perangkat \nkeras milik Bank yang digunakan untuk verifikasi \nmelalui tatap muka menggunakan perangkat antara \nlain ATM yang berada pada jaringan kantor Bank \nyang dilengkapi dengan aplikasi video banking yang \nterhubung langsung secara real-time online dengan \npegawai Bank. \nBank dapat memanfaatkan perangkat lunak dan \nperangkat keras lain milik Bank yang dapat \nmemfasilitasi tatap muka antara nasabah atau calon \nnasabah dengan pegawai Bank secara real-time \nonline. \nContoh \nperangkat \nlunak \nmilik \nBank \ndengan \nperangkat keras milik nasabah atau calon nasabah \nyang digunakan untuk verifikasi melalui tatap muka \nantara lain aplikasi milik Bank yang dapat diakses \nmelalui smartphone dan/atau komputer tablet milik \nnasabah atau calon nasabah yang dilengkapi dengan \nfasilitas video banking. \nPerangkat keras milik nasabah atau calon nasabah \nBank dilengkapi dengan fitur pendukung verifikasi \nseperti kamera dan alat pemindai kartu identitas. \nHuruf b  \nContoh perangkat lunak dan perangkat keras milik Bank \nyang digunakan untuk verifikasi tanpa tatap muka antara \nlain ATM yang berada pada jaringan kantor Bank \ndilengkapi dengan aplikasi yang telah memiliki fungsi \nantara lain pemindai sidik jari dan pemindai kartu \nidentitas. \nContoh perangkat lunak milik Bank dan perangkat keras \nmilik nasabah atau calon nasabah yang digunakan untuk \nverifikasi tanpa tatap muka antara lain:  \n\n\n \n1. \naplikasi milik Bank yang dapat diakses dengan \nperangkat \ngawai \n(mobile \ndevice) \nantara \nlain \nsmartphone dan/atau komputer tablet; dan/atau \n2. \nsitus web (website) Bank yang dapat diakses melalui \nperangkat elektronik antara lain komputer dan/atau \nlaptop. \nBank memastikan media elektronik milik nasabah atau \ncalon nasabah dilengkapi dengan fitur pendukung \nverifikasi seperti kamera, pemindai, perekam, dan/atau \npelacak lokasi. \nAyat (3) \nFaktor keaslian (authentication factor) berupa: \na. \napa yang anda tahu (what you know), antara lain Personal \nIdentification Number (PIN), password, nomor kartu \nidentitas dan data pribadi; \nb. \napa yang anda punya (what you have), antara lain kartu \nmagnetis, kartu ber-chip, token, digital signature, dan \nbentuk lain yang dapat dipersamakan; dan \nc. \nciri khas anda (what you are) antara lain biometric seperti \nsidik jari, suara, dan iris mata.  \nCiri khas anda (what you are) sebagaimana dimaksud \npada \nayat \nini \nsama \ndengan \nsomething \nyou \nare \nsebagaimana diatur dalam ketentuan Otoritas Jasa \nKeuangan mengenai penerapan manajemen risiko dalam \npenggunaan teknologi informasi oleh Bank Umum dan \nlayanan keuangan tanpa kantor dalam rangka keuangan \ninklusif.  \nSelain faktor keaslian (authentication factor) sebagaimana \ndimaksud dalam huruf a sampai dengan huruf c, Bank dapat \nmemperhatikan faktor keaslian (authentication factor) lainnya.  \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLembaga \natau \ninstansi \nyang \nberwenang \nantara \nlain \nKementerian Dalam Negeri, Kementerian Hukum dan Hak \nAsasi \nManusia, \nKementerian \nKeuangan, \nKementerian \nKomunikasi dan Informatika, Kementerian Pendidikan dan \nKebudayaan, Kementerian Sosial, dan/atau Kepolisian Negara \nRepublik Indonesia. \nContoh sumber lain adalah perusahaan telekomunikasi \ndan/atau perusahaan penyedia data lain, yang dapat \ndipertanggungjawabkan kebenaran datanya. \nAyat (2) \nInfrastruktur pendukung dalam pemanfaatan data atau \ninformasi antara lain berupa perjanjian kerja sama serta \nketersediaan perangkat keras dan perangkat lunak yang \ndiperlukan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLembaga \natau \ninstansi \nyang \nberwenang \nantara \nlain \nKementerian Dalam Negeri, Kementerian Hukum dan Hak \nAsasi \nManusia, \nKementerian \nKeuangan, \nKementerian \nKomunikasi dan Informatika, Kementerian Pendidikan dan \nKebudayaan, Kementerian Sosial, dan/atau Kepolisian Negara \nRepublik Indonesia. \nContoh sumber lain adalah perusahaan telekomunikasi \ndan/atau perusahaan penyedia data lain, yang dapat \ndipertanggungjawabkan kebenaran datanya. \nAyat (2) \nInfrastruktur pendukung dalam pemanfaatan data atau \ninformasi antara lain berupa perjanjian kerja sama serta \nketersediaan perangkat keras dan perangkat lunak yang \ndiperlukan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “layanan informatif” adalah \nlayanan yang hanya terbatas pada penyediaan informasi \nkepada nasabah Bank tanpa ada interaksi lebih lanjut dan \ntidak diikuti eksekusi transaksi keuangan.  \nPenyediaan informasi kepada nasabah Bank antara lain: \n1. \ndidasarkan pada hasil analisis Bank terhadap \nportofolio nasabah; dan \n2. \nbersifat personal atau spesifik sesuai dengan \nkarakteristik dan kebutuhan nasabah, \nsehingga informasi yang disediakan Bank  untuk  satu \nnasabah dengan nasabah yang lain dapat berbeda. \nHuruf b \nYang dimaksud dengan “layanan transaksional” adalah \nlayanan yang diawali dengan penyediaan informasi \nkepada nasabah Bank yang dapat disertai dengan fasilitas \nuntuk berinteraksi dengan Bank dalam rangka membantu \npengambilan keputusan transaksi keuangan sesuai \n\n\n \ndengan kebutuhan dan kemampuan nasabah, sebelum \ndilakukannya eksekusi transaksi oleh nasabah.    \nPenyediaan informasi kepada nasabah Bank antara lain: \n1. \ndidasarkan pada hasil analisis Bank terhadap \nportofolio nasabah; dan \n2. \nbersifat personal atau spesifik sesuai dengan \nkarakteristik dan kebutuhan nasabah, \nsehingga informasi yang disediakan Bank untuk  satu \nnasabah dengan nasabah yang lain dapat berbeda. \nHuruf c \nYang dimaksud dengan “layanan lain” adalah bentuk \nlayanan baru selain layanan informatif dan layanan \ntransaksional. \nAyat (2) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” antara lain Undang-Undang mengenai perbankan, \nUndang-Undang mengenai \nperbankan syariah, \nUndang-\nUndang mengenai pasar modal,  dan/atau Undang-Undang \nmengenai asuransi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “layanan informatif” adalah \nlayanan yang hanya terbatas pada penyediaan informasi \nkepada nasabah Bank tanpa ada interaksi lebih lanjut dan \ntidak diikuti eksekusi transaksi keuangan.  \nPenyediaan informasi kepada nasabah Bank antara lain: \n1. \ndidasarkan pada hasil analisis Bank terhadap \nportofolio nasabah; dan \n2. \nbersifat personal atau spesifik sesuai dengan \nkarakteristik dan kebutuhan nasabah, \nsehingga informasi yang disediakan Bank  untuk  satu \nnasabah dengan nasabah yang lain dapat berbeda. \nHuruf b \nYang dimaksud dengan “layanan transaksional” adalah \nlayanan yang diawali dengan penyediaan informasi \nkepada nasabah Bank yang dapat disertai dengan fasilitas \nuntuk berinteraksi dengan Bank dalam rangka membantu \npengambilan keputusan transaksi keuangan sesuai \n\n\n \ndengan kebutuhan dan kemampuan nasabah, sebelum \ndilakukannya eksekusi transaksi oleh nasabah.    \nPenyediaan informasi kepada nasabah Bank antara lain: \n1. \ndidasarkan pada hasil analisis Bank terhadap \nportofolio nasabah; dan \n2. \nbersifat personal atau spesifik sesuai dengan \nkarakteristik dan kebutuhan nasabah, \nsehingga informasi yang disediakan Bank untuk  satu \nnasabah dengan nasabah yang lain dapat berbeda. \nHuruf c \nYang dimaksud dengan “layanan lain” adalah bentuk \nlayanan baru selain layanan informatif dan layanan \ntransaksional. \nAyat (2) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” antara lain Undang-Undang mengenai perbankan, \nUndang-Undang mengenai \nperbankan syariah, \nUndang-\nUndang mengenai pasar modal,  dan/atau Undang-Undang \nmengenai asuransi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh layanan informatif yang dapat disediakan oleh Bank \nberdasarkan perjanjian kemitraan antara Bank dengan mitra Bank \nberupa LJK antara lain: \n1. \nBank “A” yang telah memperoleh persetujuan dari Otoritas \nJasa Keuangan untuk melakukan aktivitas bancassurance \nmodel bisnis referensi dapat menyediakan tautan informasi \nproduk keuangan asuransi PT “XYZ” pada aplikasi dan/atau \nsitus web milik Bank “A”. Tautan yang disediakan oleh Bank \ndisajikan sesuai dengan hasil analisis Bank terhadap data \nkemampuan keuangan nasabah dan data pendukung lain; \n2. \nPT “DEF” (Perusahaan Pembiayaan) menyediakan tautan \ninformasi produk keuangan Bank “B” pada aplikasi dan/atau \nsitus web milik PT “DEF”.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh layanan informatif yang dapat disediakan oleh Bank \nberdasarkan perjanjian kemitraan antara Bank dengan mitra Bank \nberupa LJK antara lain: \n1. \nBank “A” yang telah memperoleh persetujuan dari Otoritas \nJasa Keuangan untuk melakukan aktivitas bancassurance \nmodel bisnis referensi dapat menyediakan tautan informasi \nproduk keuangan asuransi PT “XYZ” pada aplikasi dan/atau \nsitus web milik Bank “A”. Tautan yang disediakan oleh Bank \ndisajikan sesuai dengan hasil analisis Bank terhadap data \nkemampuan keuangan nasabah dan data pendukung lain; \n2. \nPT “DEF” (Perusahaan Pembiayaan) menyediakan tautan \ninformasi produk keuangan Bank “B” pada aplikasi dan/atau \nsitus web milik PT “DEF”."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nContoh penyediaan layanan transaksional dengan LJK: \nBank “P” yang telah memperoleh persetujuan dari Otoritas \nJasa \nKeuangan \nuntuk \nmelakukan \naktivitas \nbancassurance model bisnis kerja sama distribusi.       \nBank “P” menawarkan produk asuransi jiwa milik \nperusahaan asuransi PT “QRS” yang sesuai dengan profil \nnasabah. Dalam hal nasabah berminat, nasabah Bank “P” \ndapat mengajukan permohonan penutupan polis asuransi \njiwa milik PT “QRS” melalui aplikasi dan/atau situs web \nmilik Bank “P”.  \nHuruf b \nContoh \npenyediaan \nlayanan \ntransaksional \ndengan \nlembaga non-LJK: \n1. \nSalah satu produk Bank Umum konvensional C \n(Bank “C”) berupa fasilitas kredit kepemilikan rumah.  \nBank “C” bekerja sama dengan penyedia pangkalan \ndata (database) properti (PT “GHI”). \nAplikasi dan/atau situs web Bank “C” terhubung \ndengan situs PT “GHI” untuk menyajikan informasi \npendukung seperti lokasi rumah, harga pasar rumah \npada daerah tertentu, dan kondisi lingkungan kepada \nnasabah. Informasi yang disajikan kepada nasabah \ntelah disesuaikan dengan kemampuan nasabah \nberdasarkan hasil analisis Bank terhadap data \ndan/atau \ninformasi \nmengenai \nnasabah \nsecara \npersonal. \nDalam hal nasabah berminat, nasabah dapat \nmelakukan \nsimulasi \nkredit \ndan \nkemudian \nmengajukan \npermohonan \nkredit \nsecara \ndaring \n(online) \nmelalui \naplikasi \ndan/atau \nsitus \nweb  \nBank “C”. \n \n \n \n\n\n \nBank “C” melakukan analisis kredit atas permohonan \nnasabah sebelum memberikan persetujuan atas \npermohonan kredit. Kredit yang telah disetujui oleh \nBank “C” ditindaklanjuti dengan pencairan kredit.   \n2. \nBank “D” bekerja sama dengan PT “JKL” yang \nmenyediakan situs market place. \nAplikasi dan/atau situs web Bank “D” terhubung \ndengan situs PT “JKL” untuk menyajikan informasi \nproduk komersial yang dijualtitipkan pada situs PT \n“JKL” kepada nasabah. Informasi produk komersial \nyang disajikan kepada nasabah merupakan informasi \nyang bersifat personal berdasarkan hasil analisis \nBank terhadap perilaku belanja dan pembayaran \nnasabah serta posisi keuangan nasabah. \nDalam hal nasabah berminat melakukan pembelian, \naplikasi dan/atau situs web Bank “D” menyediakan \nfasilitas pembayaran.  \nAyat (2) \nCukup jelas. \nAyat (3) \nKoneksi antara sistem elektronik milik Bank dengan sistem \nelektronik milik mitra Bank antara lain melalui aplikasi \npemrograman antar muka secara terbuka (Open Application \nProgramming Interface/Open API). \nContoh penggunaan Open API: \nAplikasi dan/atau situs web milik perusahaan penerbangan              \nPT “MNO” terhubung dengan fasilitas pembayaran milik  \nBank “E”.  \nDalam hal nasabah Bank “E” hendak melakukan transaksi \npembayaran tiket pesawat, nasabah dapat secara langsung \nmengakses fitur pembayaran pada aplikasi dan/atau situs     \nPT “MNO” yang telah terkoneksi dengan open API dari aplikasi \ndan/atau situs web milik Bank “E”. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nContoh penyediaan layanan transaksional dengan LJK: \nBank “P” yang telah memperoleh persetujuan dari Otoritas \nJasa \nKeuangan \nuntuk \nmelakukan \naktivitas \nbancassurance model bisnis kerja sama distribusi.       \nBank “P” menawarkan produk asuransi jiwa milik \nperusahaan asuransi PT “QRS” yang sesuai dengan profil \nnasabah. Dalam hal nasabah berminat, nasabah Bank “P” \ndapat mengajukan permohonan penutupan polis asuransi \njiwa milik PT “QRS” melalui aplikasi dan/atau situs web \nmilik Bank “P”.  \nHuruf b \nContoh \npenyediaan \nlayanan \ntransaksional \ndengan \nlembaga non-LJK: \n1. \nSalah satu produk Bank Umum konvensional C \n(Bank “C”) berupa fasilitas kredit kepemilikan rumah.  \nBank “C” bekerja sama dengan penyedia pangkalan \ndata (database) properti (PT “GHI”). \nAplikasi dan/atau situs web Bank “C” terhubung \ndengan situs PT “GHI” untuk menyajikan informasi \npendukung seperti lokasi rumah, harga pasar rumah \npada daerah tertentu, dan kondisi lingkungan kepada \nnasabah. Informasi yang disajikan kepada nasabah \ntelah disesuaikan dengan kemampuan nasabah \nberdasarkan hasil analisis Bank terhadap data \ndan/atau \ninformasi \nmengenai \nnasabah \nsecara \npersonal. \nDalam hal nasabah berminat, nasabah dapat \nmelakukan \nsimulasi \nkredit \ndan \nkemudian \nmengajukan \npermohonan \nkredit \nsecara \ndaring \n(online) \nmelalui \naplikasi \ndan/atau \nsitus \nweb  \nBank “C”. \n \n \n \n\n\n \nBank “C” melakukan analisis kredit atas permohonan \nnasabah sebelum memberikan persetujuan atas \npermohonan kredit. Kredit yang telah disetujui oleh \nBank “C” ditindaklanjuti dengan pencairan kredit.   \n2. \nBank “D” bekerja sama dengan PT “JKL” yang \nmenyediakan situs market place. \nAplikasi dan/atau situs web Bank “D” terhubung \ndengan situs PT “JKL” untuk menyajikan informasi \nproduk komersial yang dijualtitipkan pada situs PT \n“JKL” kepada nasabah. Informasi produk komersial \nyang disajikan kepada nasabah merupakan informasi \nyang bersifat personal berdasarkan hasil analisis \nBank terhadap perilaku belanja dan pembayaran \nnasabah serta posisi keuangan nasabah. \nDalam hal nasabah berminat melakukan pembelian, \naplikasi dan/atau situs web Bank “D” menyediakan \nfasilitas pembayaran.  \nAyat (2) \nCukup jelas. \nAyat (3) \nKoneksi antara sistem elektronik milik Bank dengan sistem \nelektronik milik mitra Bank antara lain melalui aplikasi \npemrograman antar muka secara terbuka (Open Application \nProgramming Interface/Open API). \nContoh penggunaan Open API: \nAplikasi dan/atau situs web milik perusahaan penerbangan              \nPT “MNO” terhubung dengan fasilitas pembayaran milik  \nBank “E”.  \nDalam hal nasabah Bank “E” hendak melakukan transaksi \npembayaran tiket pesawat, nasabah dapat secara langsung \nmengakses fitur pembayaran pada aplikasi dan/atau situs     \nPT “MNO” yang telah terkoneksi dengan open API dari aplikasi \ndan/atau situs web milik Bank “E”. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nKebijakan dan prosedur dalam penentuan mitra Bank \nantara lain memuat: \n1. \nkriteria mitra Bank; \n2. \nproses know your partner terhadap calon mitra Bank; \ndan \n3. \nproses pemilihan calon mitra Bank. \nHuruf b \nPerjanjian kerja sama secara tertulis antara lain memuat: \n1. \nhak dan kewajiban; \n2. \nruang lingkup layanan dan produk yang ditawarkan; \n3. \njangka \nwaktu \npelaksanaan \nkerja \nsama \ndan \nmekanisme perpanjangan;  \n4. \nsyarat dan tata cara perubahan perjanjian kerja \nsama; \n5. \npenetapan sanksi dan mekanisme pengenaan sanksi; \n6. \nkondisi dan tata cara penghentian perjanjian kerja \nsama; dan \n7. \ntata cara penyelesaian perselisihan. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nKebijakan dan prosedur dalam penentuan mitra Bank \nantara lain memuat: \n1. \nkriteria mitra Bank; \n2. \nproses know your partner terhadap calon mitra Bank; \ndan \n3. \nproses pemilihan calon mitra Bank. \nHuruf b \nPerjanjian kerja sama secara tertulis antara lain memuat: \n1. \nhak dan kewajiban; \n2. \nruang lingkup layanan dan produk yang ditawarkan; \n3. \njangka \nwaktu \npelaksanaan \nkerja \nsama \ndan \nmekanisme perpanjangan;  \n4. \nsyarat dan tata cara perubahan perjanjian kerja \nsama; \n5. \npenetapan sanksi dan mekanisme pengenaan sanksi; \n6. \nkondisi dan tata cara penghentian perjanjian kerja \nsama; dan \n7. \ntata cara penyelesaian perselisihan. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh risiko yang timbul dari produk dan/atau jasa yang \nditawarkan \noleh \nmitra \nBank \nterkait \ndengan \nLayanan \nPerbankan Digital berupa layanan transaksional antara lain: \n1. \nketidaksesuaian spesifikasi barang yang dijual atau jasa \nyang ditawarkan oleh mitra Bank berupa lembaga  \nnon-LJK; atau \n2. \nketidaksesuaian manfaat produk milik LJK mitra Bank \nantara yang diajukan melalui aplikasi milik Bank dengan \nperjanjian kerja sama antara nasabah dengan mitra Bank \ntersebut. \n \n\n\n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh risiko yang timbul dari produk dan/atau jasa yang \nditawarkan \noleh \nmitra \nBank \nterkait \ndengan \nLayanan \nPerbankan Digital berupa layanan transaksional antara lain: \n1. \nketidaksesuaian spesifikasi barang yang dijual atau jasa \nyang ditawarkan oleh mitra Bank berupa lembaga  \nnon-LJK; atau \n2. \nketidaksesuaian manfaat produk milik LJK mitra Bank \nantara yang diajukan melalui aplikasi milik Bank dengan \nperjanjian kerja sama antara nasabah dengan mitra Bank \ntersebut. \n \n\n\n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPenilaian peringkat profil risiko antara lain mengacu pada \nketentuan Otoritas Jasa Keuangan mengenai penilaian tingkat \nkesehatan Bank Umum atau penilaian tingkat kesehatan Bank \nUmum Syariah dan Unit Usaha Syariah.  \nPenilaian peringkat profil risiko yang digunakan adalah hasil \npenilaian oleh Otoritas Jasa Keuangan. \nHuruf b \nCukup jelas. \nHuruf c \nKetentuan Otoritas Jasa Keuangan antara lain ketentuan \nmengenai kegiatan usaha dan jaringan kantor berdasarkan \nmodal inti bank, kegiatan usaha Bank Umum berdasarkan \nmodal inti, dan/atau produk dan aktivitas Bank Umum \nSyariah dan Unit Usaha Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPenilaian peringkat profil risiko antara lain mengacu pada \nketentuan Otoritas Jasa Keuangan mengenai penilaian tingkat \nkesehatan Bank Umum atau penilaian tingkat kesehatan Bank \nUmum Syariah dan Unit Usaha Syariah.  \nPenilaian peringkat profil risiko yang digunakan adalah hasil \npenilaian oleh Otoritas Jasa Keuangan. \nHuruf b \nCukup jelas. \nHuruf c \nKetentuan Otoritas Jasa Keuangan antara lain ketentuan \nmengenai kegiatan usaha dan jaringan kantor berdasarkan \nmodal inti bank, kegiatan usaha Bank Umum berdasarkan \nmodal inti, dan/atau produk dan aktivitas Bank Umum \nSyariah dan Unit Usaha Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \n\n\n \nAyat (8) \nCukup jelas. \nAyat (9) \nKetentuan Otoritas Jasa Keuangan antara lain: \na. \npenerapan manajemen risiko bagi Bank Umum; \nb.     penerapan manajemen risiko bagi Bank Umum Syariah \ndan Unit Usaha Syariah;  \nc.   penerapan \nmanajemen \nrisiko \ndalam \npenggunaan  \nteknologi informasi oleh Bank Umum; \nd.   kegiatan usaha dan jaringan kantor berdasarkan modal \ninti bank; \ne. \npenerapan program anti pencucian uang dan pencegahan \npendanaan terorisme di sektor jasa keuangan;  \nf. \nperlindungan konsumen sektor jasa keuangan; \ng. \npenerapan manajemen risiko pada bank yang melakukan \naktivitas kerja sama pemasaran dengan perusahaan \nasuransi (bancassurance); dan/atau \nh. \nlayanan pinjam meminjam uang berbasis teknologi \ninformasi. \nKetentuan \nuntuk \npenyelenggaraan \nTeknologi \nInformasi \nkegiatan Layanan Perbankan Digital yang dilakukan oleh pihak \npenyedia jasa Teknologi Informasi (Bank dan/atau pihak \npenyedia \njasa \nTeknologi \nInformasi) \nberpedoman \npada \nketentuan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko dalam penggunaan teknologi informasi oleh \nBank Umum. \nKetentuan otoritas terkait antara lain ketentuan peraturan \nperundang-undangan mengenai penyelenggaraan kegiatan alat \npembayaran dengan menggunakan kartu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \n\n\n \nAyat (8) \nCukup jelas. \nAyat (9) \nKetentuan Otoritas Jasa Keuangan antara lain: \na. \npenerapan manajemen risiko bagi Bank Umum; \nb.     penerapan manajemen risiko bagi Bank Umum Syariah \ndan Unit Usaha Syariah;  \nc.   penerapan \nmanajemen \nrisiko \ndalam \npenggunaan  \nteknologi informasi oleh Bank Umum; \nd.   kegiatan usaha dan jaringan kantor berdasarkan modal \ninti bank; \ne. \npenerapan program anti pencucian uang dan pencegahan \npendanaan terorisme di sektor jasa keuangan;  \nf. \nperlindungan konsumen sektor jasa keuangan; \ng. \npenerapan manajemen risiko pada bank yang melakukan \naktivitas kerja sama pemasaran dengan perusahaan \nasuransi (bancassurance); dan/atau \nh. \nlayanan pinjam meminjam uang berbasis teknologi \ninformasi. \nKetentuan \nuntuk \npenyelenggaraan \nTeknologi \nInformasi \nkegiatan Layanan Perbankan Digital yang dilakukan oleh pihak \npenyedia jasa Teknologi Informasi (Bank dan/atau pihak \npenyedia \njasa \nTeknologi \nInformasi) \nberpedoman \npada \nketentuan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko dalam penggunaan teknologi informasi oleh \nBank Umum. \nKetentuan otoritas terkait antara lain ketentuan peraturan \nperundang-undangan mengenai penyelenggaraan kegiatan alat \npembayaran dengan menggunakan kartu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPrinsip perlindungan konsumen mencakup: \na. \ntransparansi; \n\n\n \nb. \nperlakuan yang adil; \nc. \nkeandalan; \nd. \nkerahasiaan dan keamanan data/informasi konsumen; \ndan \ne. \npenanganan pengaduan serta penyelesaian sengketa \nkonsumen secara sederhana, cepat, dan biaya terjangkau. \nAyat (2) \nFungsi dan mekanisme penanganan setiap pertanyaan \ndan/atau pengaduan nasabah dapat difasilitasi melalui media \nantara lain seperti telepon, surat elektronik, dan dokumen \nsurat.  \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPrinsip perlindungan konsumen mencakup: \na. \ntransparansi; \n\n\n \nb. \nperlakuan yang adil; \nc. \nkeandalan; \nd. \nkerahasiaan dan keamanan data/informasi konsumen; \ndan \ne. \npenanganan pengaduan serta penyelesaian sengketa \nkonsumen secara sederhana, cepat, dan biaya terjangkau. \nAyat (2) \nFungsi dan mekanisme penanganan setiap pertanyaan \ndan/atau pengaduan nasabah dapat difasilitasi melalui media \nantara lain seperti telepon, surat elektronik, dan dokumen \nsurat.  \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nAudit Layanan Perbankan Elektronik atau Layanan Perbankan \nDigital antara lain audit terhadap aplikasi milik Bank dan/atau \nsitus web Bank yang digunakan dalam menyediakan Layanan \nPerbankan Elektronik atau Layanan Perbankan Digital.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nAudit Layanan Perbankan Elektronik atau Layanan Perbankan \nDigital antara lain audit terhadap aplikasi milik Bank dan/atau \nsitus web Bank yang digunakan dalam menyediakan Layanan \nPerbankan Elektronik atau Layanan Perbankan Digital."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nLaporan pada ayat ini yang terkait dengan penyelenggaraan \nLayanan Perbankan Elektronik merupakan laporan yang sama \ndengan laporan sebagaimana dimaksud dalam ketentuan \nOtoritas Jasa Keuangan mengenai penerapan manajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi \noleh                  \nBank Umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nLaporan pada ayat ini yang terkait dengan penyelenggaraan \nLayanan Perbankan Elektronik merupakan laporan yang sama \ndengan laporan sebagaimana dimaksud dalam ketentuan \nOtoritas Jasa Keuangan mengenai penerapan manajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi \noleh                  \nBank Umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6235 \n\n\n \n \n \nLAMPIRAN \nPERATURAN OTORITAS JASA KEUANGAN  \nNOMOR 12 /POJK.03/2018 \nTENTANG  \nPENYELENGGARAAN LAYANAN PERBANKAN \nDIGITAL OLEH BANK UMUM \n \n \n \n \n \n \n \n \n \nFORMAT LAPORAN PENYELENGGARAAN  \nLAYANAN PERBANKAN DIGITAL OLEH BANK UMUM \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nDAFTAR ISI \n \nLampiran A \nPERMOHONAN \nPERSETUJUAN \nPENYELENGGARAAN \nLAYANAN PERBANKAN ELEKTRONIK OLEH BANK UMUM \nLampiran B \nLAPORAN \nREALISASI \nPENYELENGGARAAN \nLAYANAN \nPERBANKAN ELEKTRONIK OLEH BANK UMUM \nLampiran C \nPERMOHONAN \nPERSETUJUAN \nPENYELENGGARAAN \nLAYANAN PERBANKAN DIGITAL OLEH BANK UMUM \nLampiran D \nLAPORAN \nREALISASI \nPENYELENGGARAAN \nLAYANAN \nPERBANKAN DIGITAL OLEH BANK UMUM \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nLampiran A  \n \n \nPERMOHONAN PERSETUJUAN  \nPENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK \nOLEH BANK UMUM \n \n \n \n \nNama Bank:  ...................................... \nAlamat Kantor Pusat Bank:  ............... \nNomor Telepon:  ................................. \n \n \n \n \nNama Pelapor:  ................................... \nKantor/Divisi/Bagian Pelapor:  ........... \nAlamat Pelapor:  ................................. \nNomor Telepon:  ................................. \n \n \n \nTanggal Laporan:  ............................... \n \n \n\n\n \nLampiran A \n \n \nPERMOHONAN PERSETUJUAN \nRENCANA PENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK OLEH \nBANK UMUM*) \n \n1. \nKebijakan sistem, prosedur, dan kewenangan dalam penyelenggaraan \nLayanan Perbankan Elektronik oleh Bank Umum. \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Elektronik \noleh Bank Umum yang akan diselenggarakan.  \n3. \nKesiapan infrastruktur Teknologi Informasi untuk mendukung produk \nmasing-masing Layanan Perbankan Elektronik. \n4. \nPenjelasan \nmengenai \nsistem \narsitektur \nTeknologi \nInformasi \ndari \npenyelenggaraan layanan Perbankan Elektronik oleh Bank Umum  yang \nakan dilakukan dan bentuk koneksi dengan core banking system.  \n5. \nHasil analisis dan identifikasi risiko yang melekat pada Layanan \nPerbankan Elektronik dan bentuk pengendalian pengamanan untuk \nmitigasi risiko tersebut antara lain untuk memastikan terpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation).  \n6. \nPenjelasan aturan yang diterapkan Bank Umum mengenai:   \na. \ndua faktor keaslian (two factor authentication) yang akan digunakan;  \nb. \nenkripsi yang akan digunakan; dan \nc. \npassword (kriteria numeric alphanumeric, panjang password). \n7. \nUraian sistem informasi akuntansi yang akan diterapkan untuk \nmenyelenggarakan Layanan Perbankan Elektronik. \n8. \nHasil analisis dan identifikasi risiko penyelenggaraan layanan Perbankan \nElektronik oleh Bank Umum  dalam bentuk identifikasi, pengukuran, \npemantauan, \ndan \nmitigasi \nrisiko \ndari \nPenyelenggaraan \nLayanan \nPerbankan Elektronik, antara lain risiko operasional, hukum, dan \nreputasi. \n9. \nHasil pemeriksaan pihak independen yang memberikan pendapat atas \nkarakteristik produk dan kecukupan pengamanan sistem Teknologi \nInformasi terkait penyelenggaraan layanan Perbankan Elektronik oleh \nBank Umum serta kepatuhan terhadap ketentuan peraturan perundang-\n\n\n \nundangan, standar yang ditetapkan, dan/atau praktik-praktik yang \nberlaku umum (best practices).  \n10. Uraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) yang akan diterapkan atas Layanan \nPerbankan Elektronik yang akan diselenggarakan. \n11. Hasil analisis bisnis mengenai proyeksi penerbitan produk Layanan \nPerbankan Elektronik baru pada periode 1 (satu) tahun mendatang. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n*) \nPermohonan persetujuan rencana Penyelenggaraan Layanan Perbankan \nElektronik disampaikan kepada OJK paling lambat 2 (dua) bulan sebelum \nimplementasi sebagaimana dipersyaratkan dalam POJK Penyelenggaraan \nLayanan Perbankan Digital oleh Bank Umum.  \n \n\n\n \n \n \n \n \n \n \n \nLampiran B  \n \n \nLAPORAN REALISASI  \nPENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK  \nOLEH BANK UMUM \n \n \n \nNama Bank:  ......................................  \nAlamat Kantor Pusat Bank:  ...............  \nNomor Telepon:  .................................  \n \n \n \n \nNama Pelapor: ...................................  \nKantor/Divisi/Bagian Pelapor:  ..........  \nAlamat Pelapor:  .................................  \nNomor Telepon:  .................................  \n \n \n \nTanggal Laporan:  ..............................  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nLampiran B \n \n \nREALISASI PENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK \nOLEH BANK UMUM \n \n1. \nTanggal realisasi ... (diisi dengan format dd/mm/yyyy). \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Elektronik \nyang baru diselenggarakan. \n3. \nPenjelasan mengenai sistem arsitektur Teknologi Informasi  dari Layanan \nPerbankan Elektronik yang baru diselenggarakan dan bentuk koneksi \ndengan core banking system.  \n4. \nPenjelasan \nmengenai \nbentuk \npengendalian \nintern, \nkhususnya \npengendalian \nkeamanan \nyang \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation). \n5. \nUraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) atas Layanan Perbankan Elektronik. \n6. \nKebijakan dan prosedur yang menjelaskan kesiapan infrastruktur \nTeknologi Informasi Layanan Perbankan Elektronik. \n7. \nHasil kajian pascaimplementasi atas penggunaan Teknologi Informasi \nterkait Layanan Perbankan Elektronik yang diselenggarakan, yang tidak \nterbatas pada kaji ulang mengenai:   \na. \nkinerja sistem (system performance review); \nb. \nkomplain nasabah dan tindak lanjutnya; \nc. \nkesesuaian dengan user requirement; \nd. \nmasalah yang terjadi beserta solusi atau eskalasi atau langkah \npenyelesaian yang dilakukan; dan \ne. \nefektivitas pengamanan yang ditetapkan. \n \n \n \n \n \n \n \n\n\n \nLampiran C  \n \n \nPERMOHONAN PERSETUJUAN  \nPENYELENGGARAAN LAYANAN PERBANKAN DIGITAL  \nOLEH BANK UMUM \n \n \n \n \nNama Bank:  ...................................... \nAlamat Kantor Pusat Bank:  ............... \nNomor Telepon:  ................................. \n \n \n \n \nNama Pelapor:  ................................... \nKantor/Divisi/Bagian Pelapor:  ........... \nAlamat Pelapor:  ................................. \nNomor Telepon:  ................................. \n \n \n \nTanggal Laporan:  ............................... \n \n \n\n\n \nLampiran C \n \n \nPERMOHONAN PERSETUJUAN \nRENCANA PENYELENGGARAAN LAYANAN PERBANKAN DIGITAL OLEH BANK \nUMUM*) \n \n1. \nKebijakan sistem, prosedur, dan kewenangan dalam penyelenggaraan \nLayanan Perbankan Digital oleh Bank Umum. \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Digital oleh \nBank Umum yang akan diselenggarakan.  \n3. \nKesiapan infrastruktur  Teknologi Informasi untuk mendukung produk \nmasing-masing Layanan Perbankan Digital. \n4. \nPenjelasan mengenai sistem arsitektur  Teknologi Informasi dari \npenyelenggaraan layanan Perbankan Digital oleh Bank Umum yang akan \ndilakukan dan bentuk koneksi dengan core banking system.   \n5. \nHasil analisis dan identifikasi risiko yang melekat pada Layanan \nPerbankan Digital dan bentuk pengendalian pengamanan untuk mitigasi \nrisiko tersebut antara lain untuk memastikan terpenuhinya prinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation).  \n6. \nPenjelasan aturan yang diterapkan Bank Umum mengenai:   \na. \ndua faktor keaslian (two factor authentication) yang akan digunakan;  \nb. \nenkripsi yang akan digunakan; dan \nc. \npassword (kriteria numeric alphanumeric, panjang password). \n7. \nUraian sistem informasi akuntansi yang akan diterapkan untuk \nmenyelenggarakan Layanan Perbankan Digital. \n8. \nHasil analisis dan identifikasi risiko penyelenggaraan layanan Perbankan \nDigital oleh Bank Umum dalam bentuk identifikasi, pengukuran, \npemantauan, \ndan \nmitigasi \nrisiko \ndari \nPenyelenggaraan \nLayanan \nPerbankan Digital, antara lain risiko operasional, risiko hukum, dan \nrisiko reputasi. \n9. \nUraian mengenai mekanisme kerja sama yang dilakukan dengan mitra \nBank dalam rangka penyelenggaraan layanan Perbankan Digital oleh \nBank Umum. Uraian tersebut juga disertai dengan informasi pendukung \nantara lain profil mitra Bank, kebijakan dan prosedur pemilihan calon \n\n\n \nmitra Bank, perjanjian kerja sama dengan mitra Bank, dan hasil analisis \nkerja sama dengan mitra Bank. \n10. Hasil pemeriksaan pihak independen yang memberikan pendapat atas \nkarakteristik produk dan kecukupan pengamanan sistem Teknologi \nInformasi terkait penyelenggaraan layanan Perbankan Digital oleh Bank \nUmum serta kepatuhan terhadap ketentuan peraturan perundang-\nundangan, standar yang ditetapkan, dan/atau praktik-praktik yang \nberlaku umum (best practices).  \n11. Uraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) yang akan diterapkan atas Layanan \nPerbankan Digital yang akan diselenggarakan. \n12. Hasil analisis bisnis mengenai proyeksi penerbitan produk baru Layanan \nPerbankan Digital pada periode 1 (satu) tahun mendatang. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n*) \nPermohonan persetujuan rencana Penyelenggaraan Layanan Perbankan \nDigital disampaikan kepada OJK paling lambat 2 (dua) bulan sebelum \nimplementasi sebagaimana dipersyaratkan dalam POJK Penyelenggaraan \nLayanan Perbankan Digital oleh Bank Umum. \n \n \n\n\n \nLampiran D \n \n \nLAPORAN REALISASI PENYELENGGARAAN LAYANAN PERBANKAN DIGITAL \nOLEH BANK UMUM \n \n \n \nNama Bank:  ......................................  \nAlamat Kantor Pusat Bank:  ...............  \nNomor Telepon:  .................................  \n \n \n \n \nNama Pelapor: ...................................  \nKantor/Divisi/Bagian Pelapor:  ..........  \nAlamat Pelapor:  .................................  \nNomor Telepon:  .................................  \n \n \n \nTanggal Laporan:  ..............................  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nLampiran D \n \nREALISASI PENYELENGGARAAN LAYANAN PERBANKAN DIGITAL  \nOLEH BANK UMUM \n \n1. \nTanggal realisasi ... (diisi dengan format dd/mm/yyyy). \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Digital  \nyang baru diselenggarakan.  \n3. \nPenjelasan mengenai sistem arsitektur Teknologi Informasi dari Layanan \nPerbankan Digital yang baru diselenggarakan dan bentuk koneksi dengan \ncore banking system.   \n4. \nPenjelasan \nmengenai \nbentuk \npengendalian \nintern, \nkhususnya \npengendalian \nkeamanan \nyang \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation). \n5. \nUraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) atas Layanan Perbankan Digital. \n6. \nKebijakan dan prosedur yang menjelaskan kesiapan infrastruktur \nTeknologi Informasi Layanan Perbankan Digital. \n7. \nHasil kajian pascaimplementasi atas penggunaan Teknologi Informasi \nterkait Layanan Perbankan Digital yang diselenggarakan, yang tidak \nterbatas pada kaji ulang mengenai:  \na. \nkinerja sistem (system performance review); \nb. \nkomplain nasabah dan tindak lanjutnya; \nc. \nkesesuaian dengan user requirement; \nd. \nmasalah yang terjadi beserta solusi atau eskalasi atau langkah \npenyelesaian yang dilakukan;  \ne. \nevaluasi terhadap kerja sama dengan mitra Bank; dan \nf. \nefektivitas pengamanan yang ditetapkan. \n \n \n \n \n \n \n \n \nKETUA DEWAN KOMISIONER \n \n \n \n \n \n \n \nOTORITAS JASA KEUANGAN, \n \n \n \n \n \n \n \n \n \n \nttd \n \n \n \n \n \n \n \n \n    WIMBOH SANTOSO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6235 \n\n\n \n \n \nLAMPIRAN \nPERATURAN OTORITAS JASA KEUANGAN  \nNOMOR 12 /POJK.03/2018 \nTENTANG  \nPENYELENGGARAAN LAYANAN PERBANKAN \nDIGITAL OLEH BANK UMUM \n \n \n \n \n \n \n \n \n \nFORMAT LAPORAN PENYELENGGARAAN  \nLAYANAN PERBANKAN DIGITAL OLEH BANK UMUM \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nDAFTAR ISI \n \nLampiran A \nPERMOHONAN \nPERSETUJUAN \nPENYELENGGARAAN \nLAYANAN PERBANKAN ELEKTRONIK OLEH BANK UMUM \nLampiran B \nLAPORAN \nREALISASI \nPENYELENGGARAAN \nLAYANAN \nPERBANKAN ELEKTRONIK OLEH BANK UMUM \nLampiran C \nPERMOHONAN \nPERSETUJUAN \nPENYELENGGARAAN \nLAYANAN PERBANKAN DIGITAL OLEH BANK UMUM \nLampiran D \nLAPORAN \nREALISASI \nPENYELENGGARAAN \nLAYANAN \nPERBANKAN DIGITAL OLEH BANK UMUM \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nLampiran A  \n \n \nPERMOHONAN PERSETUJUAN  \nPENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK \nOLEH BANK UMUM \n \n \n \n \nNama Bank:  ...................................... \nAlamat Kantor Pusat Bank:  ............... \nNomor Telepon:  ................................. \n \n \n \n \nNama Pelapor:  ................................... \nKantor/Divisi/Bagian Pelapor:  ........... \nAlamat Pelapor:  ................................. \nNomor Telepon:  ................................. \n \n \n \nTanggal Laporan:  ............................... \n \n \n\n\n \nLampiran A \n \n \nPERMOHONAN PERSETUJUAN \nRENCANA PENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK OLEH \nBANK UMUM*) \n \n1. \nKebijakan sistem, prosedur, dan kewenangan dalam penyelenggaraan \nLayanan Perbankan Elektronik oleh Bank Umum. \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Elektronik \noleh Bank Umum yang akan diselenggarakan.  \n3. \nKesiapan infrastruktur Teknologi Informasi untuk mendukung produk \nmasing-masing Layanan Perbankan Elektronik. \n4. \nPenjelasan \nmengenai \nsistem \narsitektur \nTeknologi \nInformasi \ndari \npenyelenggaraan layanan Perbankan Elektronik oleh Bank Umum  yang \nakan dilakukan dan bentuk koneksi dengan core banking system.  \n5. \nHasil analisis dan identifikasi risiko yang melekat pada Layanan \nPerbankan Elektronik dan bentuk pengendalian pengamanan untuk \nmitigasi risiko tersebut antara lain untuk memastikan terpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation).  \n6. \nPenjelasan aturan yang diterapkan Bank Umum mengenai:   \na. \ndua faktor keaslian (two factor authentication) yang akan digunakan;  \nb. \nenkripsi yang akan digunakan; dan \nc. \npassword (kriteria numeric alphanumeric, panjang password). \n7. \nUraian sistem informasi akuntansi yang akan diterapkan untuk \nmenyelenggarakan Layanan Perbankan Elektronik. \n8. \nHasil analisis dan identifikasi risiko penyelenggaraan layanan Perbankan \nElektronik oleh Bank Umum  dalam bentuk identifikasi, pengukuran, \npemantauan, \ndan \nmitigasi \nrisiko \ndari \nPenyelenggaraan \nLayanan \nPerbankan Elektronik, antara lain risiko operasional, hukum, dan \nreputasi. \n9. \nHasil pemeriksaan pihak independen yang memberikan pendapat atas \nkarakteristik produk dan kecukupan pengamanan sistem Teknologi \nInformasi terkait penyelenggaraan layanan Perbankan Elektronik oleh \nBank Umum serta kepatuhan terhadap ketentuan peraturan perundang-\n\n\n \nundangan, standar yang ditetapkan, dan/atau praktik-praktik yang \nberlaku umum (best practices).  \n10. Uraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) yang akan diterapkan atas Layanan \nPerbankan Elektronik yang akan diselenggarakan. \n11. Hasil analisis bisnis mengenai proyeksi penerbitan produk Layanan \nPerbankan Elektronik baru pada periode 1 (satu) tahun mendatang. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n*) \nPermohonan persetujuan rencana Penyelenggaraan Layanan Perbankan \nElektronik disampaikan kepada OJK paling lambat 2 (dua) bulan sebelum \nimplementasi sebagaimana dipersyaratkan dalam POJK Penyelenggaraan \nLayanan Perbankan Digital oleh Bank Umum.  \n \n\n\n \n \n \n \n \n \n \n \nLampiran B  \n \n \nLAPORAN REALISASI  \nPENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK  \nOLEH BANK UMUM \n \n \n \nNama Bank:  ......................................  \nAlamat Kantor Pusat Bank:  ...............  \nNomor Telepon:  .................................  \n \n \n \n \nNama Pelapor: ...................................  \nKantor/Divisi/Bagian Pelapor:  ..........  \nAlamat Pelapor:  .................................  \nNomor Telepon:  .................................  \n \n \n \nTanggal Laporan:  ..............................  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nLampiran B \n \n \nREALISASI PENYELENGGARAAN LAYANAN PERBANKAN ELEKTRONIK \nOLEH BANK UMUM \n \n1. \nTanggal realisasi ... (diisi dengan format dd/mm/yyyy). \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Elektronik \nyang baru diselenggarakan. \n3. \nPenjelasan mengenai sistem arsitektur Teknologi Informasi  dari Layanan \nPerbankan Elektronik yang baru diselenggarakan dan bentuk koneksi \ndengan core banking system.  \n4. \nPenjelasan \nmengenai \nbentuk \npengendalian \nintern, \nkhususnya \npengendalian \nkeamanan \nyang \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation). \n5. \nUraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) atas Layanan Perbankan Elektronik. \n6. \nKebijakan dan prosedur yang menjelaskan kesiapan infrastruktur \nTeknologi Informasi Layanan Perbankan Elektronik. \n7. \nHasil kajian pascaimplementasi atas penggunaan Teknologi Informasi \nterkait Layanan Perbankan Elektronik yang diselenggarakan, yang tidak \nterbatas pada kaji ulang mengenai:   \na. \nkinerja sistem (system performance review); \nb. \nkomplain nasabah dan tindak lanjutnya; \nc. \nkesesuaian dengan user requirement; \nd. \nmasalah yang terjadi beserta solusi atau eskalasi atau langkah \npenyelesaian yang dilakukan; dan \ne. \nefektivitas pengamanan yang ditetapkan. \n \n \n \n \n \n \n \n\n\n \nLampiran C  \n \n \nPERMOHONAN PERSETUJUAN  \nPENYELENGGARAAN LAYANAN PERBANKAN DIGITAL  \nOLEH BANK UMUM \n \n \n \n \nNama Bank:  ...................................... \nAlamat Kantor Pusat Bank:  ............... \nNomor Telepon:  ................................. \n \n \n \n \nNama Pelapor:  ................................... \nKantor/Divisi/Bagian Pelapor:  ........... \nAlamat Pelapor:  ................................. \nNomor Telepon:  ................................. \n \n \n \nTanggal Laporan:  ............................... \n \n \n\n\n \nLampiran C \n \n \nPERMOHONAN PERSETUJUAN \nRENCANA PENYELENGGARAAN LAYANAN PERBANKAN DIGITAL OLEH BANK \nUMUM*) \n \n1. \nKebijakan sistem, prosedur, dan kewenangan dalam penyelenggaraan \nLayanan Perbankan Digital oleh Bank Umum. \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Digital oleh \nBank Umum yang akan diselenggarakan.  \n3. \nKesiapan infrastruktur  Teknologi Informasi untuk mendukung produk \nmasing-masing Layanan Perbankan Digital. \n4. \nPenjelasan mengenai sistem arsitektur  Teknologi Informasi dari \npenyelenggaraan layanan Perbankan Digital oleh Bank Umum yang akan \ndilakukan dan bentuk koneksi dengan core banking system.   \n5. \nHasil analisis dan identifikasi risiko yang melekat pada Layanan \nPerbankan Digital dan bentuk pengendalian pengamanan untuk mitigasi \nrisiko tersebut antara lain untuk memastikan terpenuhinya prinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation).  \n6. \nPenjelasan aturan yang diterapkan Bank Umum mengenai:   \na. \ndua faktor keaslian (two factor authentication) yang akan digunakan;  \nb. \nenkripsi yang akan digunakan; dan \nc. \npassword (kriteria numeric alphanumeric, panjang password). \n7. \nUraian sistem informasi akuntansi yang akan diterapkan untuk \nmenyelenggarakan Layanan Perbankan Digital. \n8. \nHasil analisis dan identifikasi risiko penyelenggaraan layanan Perbankan \nDigital oleh Bank Umum dalam bentuk identifikasi, pengukuran, \npemantauan, \ndan \nmitigasi \nrisiko \ndari \nPenyelenggaraan \nLayanan \nPerbankan Digital, antara lain risiko operasional, risiko hukum, dan \nrisiko reputasi. \n9. \nUraian mengenai mekanisme kerja sama yang dilakukan dengan mitra \nBank dalam rangka penyelenggaraan layanan Perbankan Digital oleh \nBank Umum. Uraian tersebut juga disertai dengan informasi pendukung \nantara lain profil mitra Bank, kebijakan dan prosedur pemilihan calon \n\n\n \nmitra Bank, perjanjian kerja sama dengan mitra Bank, dan hasil analisis \nkerja sama dengan mitra Bank. \n10. Hasil pemeriksaan pihak independen yang memberikan pendapat atas \nkarakteristik produk dan kecukupan pengamanan sistem Teknologi \nInformasi terkait penyelenggaraan layanan Perbankan Digital oleh Bank \nUmum serta kepatuhan terhadap ketentuan peraturan perundang-\nundangan, standar yang ditetapkan, dan/atau praktik-praktik yang \nberlaku umum (best practices).  \n11. Uraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) yang akan diterapkan atas Layanan \nPerbankan Digital yang akan diselenggarakan. \n12. Hasil analisis bisnis mengenai proyeksi penerbitan produk baru Layanan \nPerbankan Digital pada periode 1 (satu) tahun mendatang. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n*) \nPermohonan persetujuan rencana Penyelenggaraan Layanan Perbankan \nDigital disampaikan kepada OJK paling lambat 2 (dua) bulan sebelum \nimplementasi sebagaimana dipersyaratkan dalam POJK Penyelenggaraan \nLayanan Perbankan Digital oleh Bank Umum. \n \n \n\n\n \nLampiran D \n \n \nLAPORAN REALISASI PENYELENGGARAAN LAYANAN PERBANKAN DIGITAL \nOLEH BANK UMUM \n \n \n \nNama Bank:  ......................................  \nAlamat Kantor Pusat Bank:  ...............  \nNomor Telepon:  .................................  \n \n \n \n \nNama Pelapor: ...................................  \nKantor/Divisi/Bagian Pelapor:  ..........  \nAlamat Pelapor:  .................................  \nNomor Telepon:  .................................  \n \n \n \nTanggal Laporan:  ..............................  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nLampiran D \n \nREALISASI PENYELENGGARAAN LAYANAN PERBANKAN DIGITAL  \nOLEH BANK UMUM \n \n1. \nTanggal realisasi ... (diisi dengan format dd/mm/yyyy). \n2. \nUraian singkat atau penjelasan mengenai Layanan Perbankan Digital  \nyang baru diselenggarakan.  \n3. \nPenjelasan mengenai sistem arsitektur Teknologi Informasi dari Layanan \nPerbankan Digital yang baru diselenggarakan dan bentuk koneksi dengan \ncore banking system.   \n4. \nPenjelasan \nmengenai \nbentuk \npengendalian \nintern, \nkhususnya \npengendalian \nkeamanan \nyang \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), \nintegritas \n(integrity), \nkeaslian \n(authentication), ketersediaan (availability), dan tidak dapat diingkari    \n(non repudiation). \n5. \nUraian kesiapan struktur organisasi pendukung dan bentuk pengawasan \nyang melekat (built in control) atas Layanan Perbankan Digital. \n6. \nKebijakan dan prosedur yang menjelaskan kesiapan infrastruktur \nTeknologi Informasi Layanan Perbankan Digital. \n7. \nHasil kajian pascaimplementasi atas penggunaan Teknologi Informasi \nterkait Layanan Perbankan Digital yang diselenggarakan, yang tidak \nterbatas pada kaji ulang mengenai:  \na. \nkinerja sistem (system performance review); \nb. \nkomplain nasabah dan tindak lanjutnya; \nc. \nkesesuaian dengan user requirement; \nd. \nmasalah yang terjadi beserta solusi atau eskalasi atau langkah \npenyelesaian yang dilakukan;  \ne. \nevaluasi terhadap kerja sama dengan mitra Bank; dan \nf. \nefektivitas pengamanan yang ditetapkan. \n \n \n \n \n \n \n \n \nKETUA DEWAN KOMISIONER \n \n \n \n \n \n \n \nOTORITAS JASA KEUANGAN, \n \n \n \n \n \n \n \n \n \n \nttd \n \n \n \n \n \n \n \n \n    WIMBOH SANTOSO"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 58,
+  "total_ayat": 102,
+  "total_karakter": 68648,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

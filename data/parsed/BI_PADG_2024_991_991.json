@@ -1,0 +1,711 @@
+{
+  "doc_id": "BI_PADG_2024_991_991",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "991",
+  "tahun": "2024",
+  "judul": "PERATURAN PELAKSANAAN RASIO PENDANAAN LUAR NEGERI BANK",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "1 Agustus 2024",
+  "tanggal_berlaku": "1 Agustus 2024",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "CAKUPAN ULN BANK JANGKA PENDEK DAN KEWAJIBAN BANK LAINNYA DALAM VALUTA ASING JANGKA PENDEK"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DALAM PEMENUHAN RPLN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "SUMBER DATA DAN PERHITUNGAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank umum sebagaimana dimaksud dalam \nUndang-Undang mengenai perbankan dan bank umum \nsyariah sebagaimana dimaksud dalam Undang-Undang \nmengenai perbankan syariah, termasuk kantor cabang \ndari bank yang \nberkedudukan di luar negeri dan \nberoperasional di Indonesia, serta kantor bank umum dan \nbank umum syariah berbadan hukum Indonesia yang \nberoperasi di luar negeri. \n2. \nUtang Luar Negeri Bank yang selanjutnya disebut ULN \nBank adalah utang Bank kepada bukan penduduk dalam \nvaluta asing dan/atau rupiah, termasuk di dalamnya \npembiayaan berdasarkan prinsip syariah. \n3. \nUtang Luar Negeri Bank Jangka Pendek yang selanjutnya \ndisebut ULN Bank Jangka Pendek adalah utang Bank \nkepada bukan penduduk dalam valuta asing dan/atau \nrupiah, termasuk di dalamnya pembiayaan berdasarkan \nprinsip syariah yang berjangka waktu asal (original \nmaturity) sampai dengan 1 (satu) tahun. \n4. \nPenduduk adalah penduduk sebagaimana dimaksud \ndalam Undang-Undang mengenai lalu lintas devisa dan \nsistem nilai tukar. \n5. \nKewajiban Jangka Pendek adalah kewajiban Bank berupa \nULN Bank Jangka Pendek dan kewajiban Bank lainnya \ndalam valuta asing yang berjangka waktu asal (original \nmaturity) sampai dengan 1 (satu) tahun. \n6. \nModal Bank adalah modal Bank sebagaimana dimaksud \ndalam Peraturan Otoritas Jasa Keuangan mengenai \nkewajiban penyediaan modal minimum bank umum dan \nPeraturan Otoritas Jasa Keuangan mengenai kewajiban \npenyediaan modal minimum bank umum syariah. \n7. \nRasio Pendanaan Luar Negeri Bank yang selanjutnya \ndisebut RPLN adalah rasio Kewajiban Jangka Pendek \nterhadap Modal Bank. \n8. \nSurat Utang Valuta Asing Domestik Jangka Pendek yang \nselanjutnya disebut Surat Utang Valas Domestik Jangka \nPendek adalah surat utang dalam valuta asing yang \nditerbitkan Bank di bursa dalam negeri maupun dijual \nsecara private placement kepada Penduduk yang berjangka \nwaktu asal (original maturity) sampai dengan 1 (satu) \ntahun. \n9. \nTransaksi \nPartisipasi Risiko \nJangka \nPendek \nyang \nselanjutnya \ndisingkat TPR \nJangka Pendek adalah \ntransaksi pengalihan risiko \natas \nindividual kredit \ndan/atau fasilitas lainnya berdasarkan perjanjian induk \ntransaksi partisipasi risiko (master risk participation \nagreement) yang berjangka waktu asal (original maturity) \nsampai dengan 1 (satu) tahun. \n10. Otoritas Jasa Keuangan yang selanjutnya disingkat OJK \nadalah lembaga negara yang independen yang mempunyai  \n\n\n \n \nfungsi, tugas, dan wewenang pengaturan, pengawasan, \npemeriksaan, dan penyidikan sebagaimana dimaksud \ndalam Undang-Undang mengenai Otoritas Jasa Keuangan. \n11. Surat Berharga Negara yang selanjutnya disingkat SBN \nadalah surat utang negara sebagaimana dimaksud \ndalam Undang-Undang mengenai surat utang negara dan \nsurat berharga syariah negara sebagaimana dimaksud \ndalam Undang-Undang mengenai surat berharga syariah \nnegara. \n12. Laporan Bank Umum Terintegrasi yang selanjutnya \ndisingkat LBUT adalah laporan bank umum terintegrasi \nsebagaimana dimaksud dalam Peraturan Bank Indonesia \nmengenai laporan bank umum terintegrasi. \n \nBAB II \nCAKUPAN ULN BANK JANGKA PENDEK DAN KEWAJIBAN \nBANK LAINNYA DALAM VALUTA ASING JANGKA PENDEK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank umum sebagaimana dimaksud dalam \nUndang-Undang mengenai perbankan dan bank umum \nsyariah sebagaimana dimaksud dalam Undang-Undang \nmengenai perbankan syariah, termasuk kantor cabang \ndari bank yang \nberkedudukan di luar negeri dan \nberoperasional di Indonesia, serta kantor bank umum dan \nbank umum syariah berbadan hukum Indonesia yang \nberoperasi di luar negeri. \n2. \nUtang Luar Negeri Bank yang selanjutnya disebut ULN \nBank adalah utang Bank kepada bukan penduduk dalam \nvaluta asing dan/atau rupiah, termasuk di dalamnya \npembiayaan berdasarkan prinsip syariah. \n3. \nUtang Luar Negeri Bank Jangka Pendek yang selanjutnya \ndisebut ULN Bank Jangka Pendek adalah utang Bank \nkepada bukan penduduk dalam valuta asing dan/atau \nrupiah, termasuk di dalamnya pembiayaan berdasarkan \nprinsip syariah yang berjangka waktu asal (original \nmaturity) sampai dengan 1 (satu) tahun. \n4. \nPenduduk adalah penduduk sebagaimana dimaksud \ndalam Undang-Undang mengenai lalu lintas devisa dan \nsistem nilai tukar. \n5. \nKewajiban Jangka Pendek adalah kewajiban Bank berupa \nULN Bank Jangka Pendek dan kewajiban Bank lainnya \ndalam valuta asing yang berjangka waktu asal (original \nmaturity) sampai dengan 1 (satu) tahun. \n6. \nModal Bank adalah modal Bank sebagaimana dimaksud \ndalam Peraturan Otoritas Jasa Keuangan mengenai \nkewajiban penyediaan modal minimum bank umum dan \nPeraturan Otoritas Jasa Keuangan mengenai kewajiban \npenyediaan modal minimum bank umum syariah. \n7. \nRasio Pendanaan Luar Negeri Bank yang selanjutnya \ndisebut RPLN adalah rasio Kewajiban Jangka Pendek \nterhadap Modal Bank. \n8. \nSurat Utang Valuta Asing Domestik Jangka Pendek yang \nselanjutnya disebut Surat Utang Valas Domestik Jangka \nPendek adalah surat utang dalam valuta asing yang \nditerbitkan Bank di bursa dalam negeri maupun dijual \nsecara private placement kepada Penduduk yang berjangka \nwaktu asal (original maturity) sampai dengan 1 (satu) \ntahun. \n9. \nTransaksi \nPartisipasi Risiko \nJangka \nPendek \nyang \nselanjutnya \ndisingkat TPR \nJangka Pendek adalah \ntransaksi pengalihan risiko \natas \nindividual kredit \ndan/atau fasilitas lainnya berdasarkan perjanjian induk \ntransaksi partisipasi risiko (master risk participation \nagreement) yang berjangka waktu asal (original maturity) \nsampai dengan 1 (satu) tahun. \n10. Otoritas Jasa Keuangan yang selanjutnya disingkat OJK \nadalah lembaga negara yang independen yang mempunyai  \n\n\n \n \nfungsi, tugas, dan wewenang pengaturan, pengawasan, \npemeriksaan, dan penyidikan sebagaimana dimaksud \ndalam Undang-Undang mengenai Otoritas Jasa Keuangan. \n11. Surat Berharga Negara yang selanjutnya disingkat SBN \nadalah surat utang negara sebagaimana dimaksud \ndalam Undang-Undang mengenai surat utang negara dan \nsurat berharga syariah negara sebagaimana dimaksud \ndalam Undang-Undang mengenai surat berharga syariah \nnegara. \n12. Laporan Bank Umum Terintegrasi yang selanjutnya \ndisingkat LBUT adalah laporan bank umum terintegrasi \nsebagaimana dimaksud dalam Peraturan Bank Indonesia \nmengenai laporan bank umum terintegrasi. \n \nBAB II \nCAKUPAN ULN BANK JANGKA PENDEK DAN KEWAJIBAN \nBANK LAINNYA DALAM VALUTA ASING JANGKA PENDEK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "CAKUPAN ULN BANK JANGKA PENDEK DAN KEWAJIBAN BANK LAINNYA DALAM VALUTA ASING JANGKA PENDEK",
+      "teks_lengkap": "(1) \nBank dapat memiliki Kewajiban Jangka Pendek. \n(2) \nKewajiban Jangka Pendek sebagaimana dimaksud pada \nayat (1) berupa ULN Bank Jangka Pendek meliputi: \na. \nULN Bank Jangka Pendek berdasarkan perjanjian \npinjaman; \nb. \nULN Bank Jangka Pendek berdasarkan surat utang \n(debt securities); \nc. \nULN Bank Jangka Pendek dalam bentuk giro, \ndeposito, tabungan, dan call money; dan/atau \nd. \nULN Bank Jangka Pendek lain yang dicatat dalam \nneraca (on balance sheet), tidak termasuk kewajiban \nlainnya antarkantor Bank. \n(3) \nKewajiban Jangka Pendek sebagaimana dimaksud pada \nayat (1) berupa kewajiban Bank lainnya dalam valuta asing \njangka pendek meliputi: \na. \nSurat Utang \nValas Domestik \nJangka \nPendek; \ndan/atau \nb. \nTPR Jangka Pendek.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat memiliki Kewajiban Jangka Pendek."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewajiban Jangka Pendek sebagaimana dimaksud pada \nayat (1) berupa ULN Bank Jangka Pendek meliputi: \na. \nULN Bank Jangka Pendek berdasarkan perjanjian \npinjaman; \nb. \nULN Bank Jangka Pendek berdasarkan surat utang \n(debt securities); \nc. \nULN Bank Jangka Pendek dalam bentuk giro, \ndeposito, tabungan, dan call money; dan/atau \nd. \nULN Bank Jangka Pendek lain yang dicatat dalam \nneraca (on balance sheet), tidak termasuk kewajiban \nlainnya antarkantor Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewajiban Jangka Pendek sebagaimana dimaksud pada \nayat (1) berupa kewajiban Bank lainnya dalam valuta asing \njangka pendek meliputi: \na. \nSurat Utang \nValas Domestik \nJangka \nPendek; \ndan/atau \nb. \nTPR Jangka Pendek."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "CAKUPAN ULN BANK JANGKA PENDEK DAN KEWAJIBAN BANK LAINNYA DALAM VALUTA ASING JANGKA PENDEK",
+      "teks_lengkap": "(1) \nTPR Jangka Pendek sebagaimana dimaksud dalam Pasal 2 \nayat (3) huruf b harus memenuhi persyaratan: \na. \ndilakukan oleh Bank sebagai grantor dengan pihak \nlain bukan Penduduk sebagai participant; \nb. \ndisertai dengan aliran dana dari pihak lain bukan \nPenduduk sebagai participant kepada Bank sebagai \ngrantor saat transaksi mulai berlaku (funded); dan \nc. \ntanpa pengalihan hak tagih dari Bank sebagai grantor \nkepada \npihak \nlain \nbukan \nPenduduk \nsebagai \nparticipant. \n(2) \nTPR Jangka Pendek sebagaimana dimaksud pada ayat (1) \nyang dialihkan hak tagihnya kepada pihak lain bukan \nPenduduk sebagai participant diperlakukan sebagai utang \nluar negeri milik debitur Bank kepada participant. \n(3) \nPengalihan hak tagih kepada pihak lain bukan Penduduk \nsebagaimana   dimaksud   pada   ayat    (2)  diberitahukan  \n\n\n \n \nkepada debitur Bank sesuai dengan ketentuan peraturan \nperundang-undangan. \n \nBAB III \nKEWAJIBAN RPLN \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "TPR Jangka Pendek sebagaimana dimaksud dalam Pasal 2 \nayat (3) huruf b harus memenuhi persyaratan: \na. \ndilakukan oleh Bank sebagai grantor dengan pihak \nlain bukan Penduduk sebagai participant; \nb. \ndisertai dengan aliran dana dari pihak lain bukan \nPenduduk sebagai participant kepada Bank sebagai \ngrantor saat transaksi mulai berlaku (funded); dan \nc. \ntanpa pengalihan hak tagih dari Bank sebagai grantor \nkepada \npihak \nlain \nbukan \nPenduduk \nsebagai \nparticipant."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "TPR Jangka Pendek sebagaimana dimaksud pada ayat (1) \nyang dialihkan hak tagihnya kepada pihak lain bukan \nPenduduk sebagai participant diperlakukan sebagai utang \nluar negeri milik debitur Bank kepada participant."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengalihan hak tagih kepada pihak lain bukan Penduduk \nsebagaimana   dimaksud   pada   ayat    (2)  diberitahukan  \n\n\n \n \nkepada debitur Bank sesuai dengan ketentuan peraturan \nperundang-undangan. \n \nBAB III \nKEWAJIBAN RPLN \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan batasan RPLN. \n(2) \nBank wajib mematuhi batasan RPLN sebagaimana \ndimaksud pada ayat (1) secara harian. \n(3) \nBagi Bank yang memiliki:  \na. \nunit usaha syariah; dan/atau  \nb. \nkantor bank umum dan bank umum syariah \nberbadan hukum Indonesia yang beroperasi di luar \nnegeri, \nkewajiban pemenuhan batasan RPLN \nsebagaimana \ndimaksud pada ayat (2) diperhitungkan sebagai satu \nkesatuan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan batasan RPLN."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib mematuhi batasan RPLN sebagaimana \ndimaksud pada ayat (1) secara harian."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bagi Bank yang memiliki:  \na. \nunit usaha syariah; dan/atau  \nb. \nkantor bank umum dan bank umum syariah \nberbadan hukum Indonesia yang beroperasi di luar \nnegeri, \nkewajiban pemenuhan batasan RPLN \nsebagaimana \ndimaksud pada ayat (2) diperhitungkan sebagai satu \nkesatuan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan batasan RPLN dengan \nmemperhitungkan parameter kontrasiklikal. \n(2) \nBatasan RPLN sebagaimana dimaksud pada ayat (1) paling \ntinggi \nsebesar \n30% \n(tiga \npuluh \npersen) \ndengan \npenambahan atau pengurangan persentase parameter \nkontrasiklikal yang ditetapkan oleh Bank Indonesia. \n \n \nBagian Kedua \nKewajiban Jangka Pendek",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan batasan RPLN dengan \nmemperhitungkan parameter kontrasiklikal."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Batasan RPLN sebagaimana dimaksud pada ayat (1) paling \ntinggi \nsebesar \n30% \n(tiga \npuluh \npersen) \ndengan \npenambahan atau pengurangan persentase parameter \nkontrasiklikal yang ditetapkan oleh Bank Indonesia. \n \n \nBagian Kedua \nKewajiban Jangka Pendek"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nKewajiban Jangka Pendek yang diperhitungkan dalam \nRPLN sebagaimana dimaksud dalam Pasal 2 ayat (1) terdiri \natas: \na. \nULN Bank Jangka Pendek; \nb. \nSurat Utang \nValas Domestik \nJangka \nPendek; \ndan/atau \nc. \nTPR Jangka Pendek. \n(2) \nDalam hal terdapat ULN Bank, surat utang valuta asing \ndomestik, dan transaksi partisipasi risiko, yang jangka \nwaktunya diperpendek sehingga jangka waktu asal \n(original maturity) kewajiban tersebut menjadi sampai \ndengan 1 (satu) tahun maka termasuk dalam perhitungan \nKewajiban Jangka Pendek. \n(3) \nBank melaporkan perpendekan jangka waktu asal (original \nmaturity) kewajiban sebagaimana dimaksud pada ayat (2) \nmelalui laporan realisasi masuk pasar kepada Bank \nIndonesia berdasarkan format sebagaimana tercantum \ndalam Lampiran I \nyang merupakan \nbagian tidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur ini. \n \n\n\n \n \n(4) \nLaporan sebagaimana dimaksud pada ayat (3) ditujukan \nkepada: \nBank Indonesia \nDepartemen Surveilans Makroprudensial, Moneter, dan \nMarket \nJl. M.H. Thamrin No. 2, Jakarta 10350 \n(5) \nDalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (4), Bank Indonesia \nmemberitahukan perubahan dimaksud melalui surat \ndan/atau media lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewajiban Jangka Pendek yang diperhitungkan dalam \nRPLN sebagaimana dimaksud dalam Pasal 2 ayat (1) terdiri \natas: \na. \nULN Bank Jangka Pendek; \nb. \nSurat Utang \nValas Domestik \nJangka \nPendek; \ndan/atau \nc. \nTPR Jangka Pendek."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat ULN Bank, surat utang valuta asing \ndomestik, dan transaksi partisipasi risiko, yang jangka \nwaktunya diperpendek sehingga jangka waktu asal \n(original maturity) kewajiban tersebut menjadi sampai \ndengan 1 (satu) tahun maka termasuk dalam perhitungan \nKewajiban Jangka Pendek."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank melaporkan perpendekan jangka waktu asal (original \nmaturity) kewajiban sebagaimana dimaksud pada ayat (2) \nmelalui laporan realisasi masuk pasar kepada Bank \nIndonesia berdasarkan format sebagaimana tercantum \ndalam Lampiran I \nyang merupakan \nbagian tidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur ini."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (3) ditujukan \nkepada: \nBank Indonesia \nDepartemen Surveilans Makroprudensial, Moneter, dan \nMarket \nJl. M.H. Thamrin No. 2, Jakarta 10350"
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (4), Bank Indonesia \nmemberitahukan perubahan dimaksud melalui surat \ndan/atau media lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nPerhitungan Kewajiban Jangka Pendek sebagaimana \ndimaksud dalam Pasal 6 ayat (1) tidak termasuk: \na. \nULN Bank Jangka Pendek dari pemegang saham \npengendali untuk mengatasi kesulitan likuiditas \nBank; \nb. \nULN Bank Jangka Pendek dari pemegang saham \npengendali untuk penyaluran kredit ke sektor riil; \nc. \ndana \nusaha \nkantor \ncabang \ndari \nBank \nyang \nberkedudukan di luar negeri sampai dengan 100% \n(seratus persen) dari dana usaha yang dinyatakan \n(declared dana usaha); \nd. \nkewajiban Bank kepada bukan Penduduk yang \ntimbul dari transaksi lindung nilai; \ne. \ngiro, tabungan, dan deposito milik perwakilan negara \nasing dan lembaga internasional, termasuk anggota \nstaf \nperwakilan \nnegara \nasing \ndan \nlembaga \ninternasional; \nf. \ngiro milik bukan Penduduk yang digunakan untuk \nkegiatan investasi di \nIndonesia yang \nmeliputi \npenyertaan langsung, pembelian saham, pembelian \nobligasi \nkorporasi \nIndonesia, \npembelian \nSBN, \npembelian surat berharga yang diterbitkan oleh Bank \nIndonesia; \ng. \ngiro milik bukan Penduduk yang menampung dana \nhasil \npenjualan \nkembali \natau \ndivestasi \natas \npenyertaan langsung, pembelian saham, pembelian \nobligasi \nkorporasi \nIndonesia, \npembelian \nSBN, \npembelian surat berharga yang diterbitkan oleh Bank \nIndonesia; \nh. \ngiro milik bukan Penduduk nonpemegang saham \npengendali yang digunakan untuk penyaluran kredit \nke proyek infrastruktur; \ni. \ngiro milik bukan Penduduk yang menampung dana \nhasil penerbitan obligasi berdenominasi rupiah oleh \nlembaga supranasional untuk pembiayaan proyek \ninfrastruktur; \nj. \ngiro atau deposito milik bukan Penduduk yang \ndiperuntukkan sebagai penyimpanan sementara \ndana setoran modal Bank sebagaimana dimaksud \ndalam Peraturan OJK; \nk. \ngiro, tabungan, dan deposito milik bukan Penduduk \nyang ditempatkan di kantor cabang luar negeri Bank \nyang  berkantor  pusat  di  Indonesia  dan  digunakan  \n\n\n \n \nuntuk penyaluran kredit atau pembiayaan kepada \nbukan Penduduk; \nl. \nkewajiban yang muncul kepada bukan Penduduk \nyang timbul akibat transaksi repurchase agreement \n(repo) instrumen valuta asing yang diterbitkan oleh \nPemerintah atau Bank Indonesia; \nm. \nULN Bank Jangka Pendek yang dijamin atau memiliki \nagunan \nberupa \ninstrumen \nvaluta asing \nyang \nditerbitkan \nPemerintah \natau \nBank \nIndonesia; \ndan/atau \nn. \nbentuk pendanaan lainnya yang ditetapkan oleh \nBank Indonesia. \n(2) \nBank harus memastikan bahwa hal yang tidak termasuk \ndalam perhitungan Kewajiban Jangka Pendek sebagaimana \ndimaksud pada ayat (1) tidak dihitung lebih dari satu kali.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perhitungan Kewajiban Jangka Pendek sebagaimana \ndimaksud dalam Pasal 6 ayat (1) tidak termasuk: \na. \nULN Bank Jangka Pendek dari pemegang saham \npengendali untuk mengatasi kesulitan likuiditas \nBank; \nb. \nULN Bank Jangka Pendek dari pemegang saham \npengendali untuk penyaluran kredit ke sektor riil; \nc. \ndana \nusaha \nkantor \ncabang \ndari \nBank \nyang \nberkedudukan di luar negeri sampai dengan 100% \n(seratus persen) dari dana usaha yang dinyatakan \n(declared dana usaha); \nd. \nkewajiban Bank kepada bukan Penduduk yang \ntimbul dari transaksi lindung nilai; \ne. \ngiro, tabungan, dan deposito milik perwakilan negara \nasing dan lembaga internasional, termasuk anggota \nstaf \nperwakilan \nnegara \nasing \ndan \nlembaga \ninternasional; \nf. \ngiro milik bukan Penduduk yang digunakan untuk \nkegiatan investasi di \nIndonesia yang \nmeliputi \npenyertaan langsung, pembelian saham, pembelian \nobligasi \nkorporasi \nIndonesia, \npembelian \nSBN, \npembelian surat berharga yang diterbitkan oleh Bank \nIndonesia; \ng. \ngiro milik bukan Penduduk yang menampung dana \nhasil \npenjualan \nkembali \natau \ndivestasi \natas \npenyertaan langsung, pembelian saham, pembelian \nobligasi \nkorporasi \nIndonesia, \npembelian \nSBN, \npembelian surat berharga yang diterbitkan oleh Bank \nIndonesia; \nh. \ngiro milik bukan Penduduk nonpemegang saham \npengendali yang digunakan untuk penyaluran kredit \nke proyek infrastruktur; \ni. \ngiro milik bukan Penduduk yang menampung dana \nhasil penerbitan obligasi berdenominasi rupiah oleh \nlembaga supranasional untuk pembiayaan proyek \ninfrastruktur; \nj. \ngiro atau deposito milik bukan Penduduk yang \ndiperuntukkan sebagai penyimpanan sementara \ndana setoran modal Bank sebagaimana dimaksud \ndalam Peraturan OJK; \nk. \ngiro, tabungan, dan deposito milik bukan Penduduk \nyang ditempatkan di kantor cabang luar negeri Bank \nyang  berkantor  pusat  di  Indonesia  dan  digunakan  \n\n\n \n \nuntuk penyaluran kredit atau pembiayaan kepada \nbukan Penduduk; \nl. \nkewajiban yang muncul kepada bukan Penduduk \nyang timbul akibat transaksi repurchase agreement \n(repo) instrumen valuta asing yang diterbitkan oleh \nPemerintah atau Bank Indonesia; \nm. \nULN Bank Jangka Pendek yang dijamin atau memiliki \nagunan \nberupa \ninstrumen \nvaluta asing \nyang \nditerbitkan \nPemerintah \natau \nBank \nIndonesia; \ndan/atau \nn. \nbentuk pendanaan lainnya yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank harus memastikan bahwa hal yang tidak termasuk \ndalam perhitungan Kewajiban Jangka Pendek sebagaimana \ndimaksud pada ayat (1) tidak dihitung lebih dari satu kali."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "Instrumen valuta asing sebagaimana dimaksud dalam Pasal 7 \nayat (1) huruf l dan huruf m yang diterbitkan oleh Pemerintah \natau Bank Indonesia meliputi: \na. \nsekuritas valuta asing Bank Indonesia; dan \nb. \nsukuk valuta asing Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Instrumen valuta asing sebagaimana dimaksud dalam Pasal 7 \nayat (1) huruf l dan huruf m yang diterbitkan oleh Pemerintah \natau Bank Indonesia meliputi: \na. \nsekuritas valuta asing Bank Indonesia; dan \nb. \nsukuk valuta asing Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nPerhitungan atas hal yang tidak termasuk dalam \nKewajiban Jangka Pendek sebagaimana dimaksud dalam \nPasal 7 ayat (1) harus didukung dengan data dan/atau \ndokumen yang memadai, yaitu: \na. \nuntuk ULN Bank Jangka Pendek dari pemegang \nsaham \npengendali \nguna \nmengatasi \nkesulitan \nlikuiditas Bank, paling sedikit berupa laporan \nproyeksi arus kas serta bukti mutasi penerimaan \ndana dan laporan posisi likuiditas; \nb. \nuntuk ULN Bank Jangka Pendek dari pemegang \nsaham pengendali guna penyaluran kredit ke sektor \nriil, paling sedikit berupa nominatif kredit per sektor \nekonomi, bukti mutasi penerimaan dana, dan \nrealisasi kredit; \nc. \nuntuk penempatan dana usaha dari kantor pusat \nBank yang berkedudukan di luar negeri pada kantor \ncabangnya di Indonesia, paling sedikit berupa bukti \npenempatan atau transfer dan laporan keuangan \nBank; \nd. \nuntuk kewajiban Bank kepada bukan Penduduk yang \ntimbul dari transaksi lindung nilai Bank, paling \nsedikit berupa deal ticket dan jurnal pembukuan \nmark-to-market; \ne. \nuntuk giro, tabungan, dan deposito milik perwakilan \nnegara asing serta lembaga internasional termasuk \nanggota stafnya, paling sedikit berupa fotokopi \nidentitas pemilik rekening; \nf. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk kegiatan investasi di Indonesia melalui  \n \n\n\n \npenyertaan langsung, paling sedikit berupa bukti \npenyertaan termasuk nominal, identitas penyetor, \ndan identitas penerima penyertaan; \ng. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk pembelian surat berharga, paling sedikit \nberupa bukti pembelian saham, obligasi, atau reksa \ndana yang tercatat di lembaga kustodian atau bursa \nefek; \nh. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk pembelian SBN atau surat berharga yang \nditerbitkan oleh Bank Indonesia, paling sedikit telah \ntercatat pada Bank Indonesia-Scripless Securities \nSettlement System; \ni. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk \npenjualan kembali \natau divestasi atas \npenyertaan langsung atau penjualan kembali surat \nberharga, paling sedikit berupa bukti perubahan \nkepemilikan saham atau surat berharga; \nj. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk penjualan kembali SBN atau surat berharga \nyang diterbitkan oleh Bank Indonesia, paling sedikit \ntelah \ntercatat \npada \nBank \nIndonesia-Scripless \nSecurities Settlement System; \nk. \nuntuk giro milik bukan Penduduk yang menampung \ndana yang diterima Bank dari kreditur nonpemegang \nsaham pengendali untuk penyaluran kredit ke proyek \ninfrastruktur, \npaling \nsedikit \nberupa \nsalinan \nperjanjian kredit antara pemilik giro dengan debitur \nproyek infrastruktur; \nl. \nuntuk giro milik bukan Penduduk yang menampung \ndana hasil penerbitan obligasi berdenominasi rupiah \noleh lembaga supranasional untuk pembiayaan \nproyek \ninfrastruktur, \npaling \nsedikit \nberupa \nprospektus obligasi dan bukti penerbitan obligasi; \nm. \nuntuk giro atau deposito milik bukan Penduduk yang \ndiperuntukkan sebagai penyimpanan sementara \ndana setoran modal Bank, paling sedikit berupa bukti \nmasuk dana setoran modal ke Bank dan bukti \npelaksaaan due dilligence oleh pihak yang ditunjuk \ncalon investor; \nn. \nuntuk giro, tabungan, dan deposito milik bukan \nPenduduk yang ditempatkan di kantor cabang luar \nnegeri Bank yang berkantor pusat di Indonesia dan \ndigunakan untuk penyaluran kredit atau pembiayaan \nkepada bukan Penduduk, paling sedikit berupa \nnominatif kredit per sektor ekonomi, bukti mutasi \npenerimaan dana, dan realisasi kredit; \no. \nuntuk \nkewajiban yang muncul kepada bukan \nPenduduk yang timbul akibat transaksi repurchase \nagreement \n(repo) instrumen valuta asing yang \nditerbitkan oleh Pemerintah atau Bank Indonesia, \npaling sedikit berupa bukti transaksi repurchase \nagreement (repo); dan/atau \np. \nuntuk ULN Bank Jangka Pendek yang dijamin atau \nmemiliki agunan surat berharga valuta asing (back-to- \n \n\n\n \nback) yang diterbitkan oleh pemerintah atau Bank \nIndonesia, paling sedikit berupa bukti agunan surat \nberharga valuta asing yang dijaminkan. \n(2) \nBank \nIndonesia \ndapat \nmeminta \nBank \nuntuk \nmenyampaikan data dan/atau dokumen pendukung \nterkait hal yang tidak termasuk dalam perhitungan \nKewajiban Jangka Pendek sebagaimana dimaksud pada \nayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perhitungan atas hal yang tidak termasuk dalam \nKewajiban Jangka Pendek sebagaimana dimaksud dalam \nPasal 7 ayat (1) harus didukung dengan data dan/atau \ndokumen yang memadai, yaitu: \na. \nuntuk ULN Bank Jangka Pendek dari pemegang \nsaham \npengendali \nguna \nmengatasi \nkesulitan \nlikuiditas Bank, paling sedikit berupa laporan \nproyeksi arus kas serta bukti mutasi penerimaan \ndana dan laporan posisi likuiditas; \nb. \nuntuk ULN Bank Jangka Pendek dari pemegang \nsaham pengendali guna penyaluran kredit ke sektor \nriil, paling sedikit berupa nominatif kredit per sektor \nekonomi, bukti mutasi penerimaan dana, dan \nrealisasi kredit; \nc. \nuntuk penempatan dana usaha dari kantor pusat \nBank yang berkedudukan di luar negeri pada kantor \ncabangnya di Indonesia, paling sedikit berupa bukti \npenempatan atau transfer dan laporan keuangan \nBank; \nd. \nuntuk kewajiban Bank kepada bukan Penduduk yang \ntimbul dari transaksi lindung nilai Bank, paling \nsedikit berupa deal ticket dan jurnal pembukuan \nmark-to-market; \ne. \nuntuk giro, tabungan, dan deposito milik perwakilan \nnegara asing serta lembaga internasional termasuk \nanggota stafnya, paling sedikit berupa fotokopi \nidentitas pemilik rekening; \nf. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk kegiatan investasi di Indonesia melalui  \n \n\n\n \npenyertaan langsung, paling sedikit berupa bukti \npenyertaan termasuk nominal, identitas penyetor, \ndan identitas penerima penyertaan; \ng. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk pembelian surat berharga, paling sedikit \nberupa bukti pembelian saham, obligasi, atau reksa \ndana yang tercatat di lembaga kustodian atau bursa \nefek; \nh. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk pembelian SBN atau surat berharga yang \nditerbitkan oleh Bank Indonesia, paling sedikit telah \ntercatat pada Bank Indonesia-Scripless Securities \nSettlement System; \ni. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk \npenjualan kembali \natau divestasi atas \npenyertaan langsung atau penjualan kembali surat \nberharga, paling sedikit berupa bukti perubahan \nkepemilikan saham atau surat berharga; \nj. \nuntuk giro milik bukan Penduduk yang digunakan \nuntuk penjualan kembali SBN atau surat berharga \nyang diterbitkan oleh Bank Indonesia, paling sedikit \ntelah \ntercatat \npada \nBank \nIndonesia-Scripless \nSecurities Settlement System; \nk. \nuntuk giro milik bukan Penduduk yang menampung \ndana yang diterima Bank dari kreditur nonpemegang \nsaham pengendali untuk penyaluran kredit ke proyek \ninfrastruktur, \npaling \nsedikit \nberupa \nsalinan \nperjanjian kredit antara pemilik giro dengan debitur \nproyek infrastruktur; \nl. \nuntuk giro milik bukan Penduduk yang menampung \ndana hasil penerbitan obligasi berdenominasi rupiah \noleh lembaga supranasional untuk pembiayaan \nproyek \ninfrastruktur, \npaling \nsedikit \nberupa \nprospektus obligasi dan bukti penerbitan obligasi; \nm. \nuntuk giro atau deposito milik bukan Penduduk yang \ndiperuntukkan sebagai penyimpanan sementara \ndana setoran modal Bank, paling sedikit berupa bukti \nmasuk dana setoran modal ke Bank dan bukti \npelaksaaan due dilligence oleh pihak yang ditunjuk \ncalon investor; \nn. \nuntuk giro, tabungan, dan deposito milik bukan \nPenduduk yang ditempatkan di kantor cabang luar \nnegeri Bank yang berkantor pusat di Indonesia dan \ndigunakan untuk penyaluran kredit atau pembiayaan \nkepada bukan Penduduk, paling sedikit berupa \nnominatif kredit per sektor ekonomi, bukti mutasi \npenerimaan dana, dan realisasi kredit; \no. \nuntuk \nkewajiban yang muncul kepada bukan \nPenduduk yang timbul akibat transaksi repurchase \nagreement \n(repo) instrumen valuta asing yang \nditerbitkan oleh Pemerintah atau Bank Indonesia, \npaling sedikit berupa bukti transaksi repurchase \nagreement (repo); dan/atau \np. \nuntuk ULN Bank Jangka Pendek yang dijamin atau \nmemiliki agunan surat berharga valuta asing (back-to- \n \n\n\n \nback) yang diterbitkan oleh pemerintah atau Bank \nIndonesia, paling sedikit berupa bukti agunan surat \nberharga valuta asing yang dijaminkan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \ndapat \nmeminta \nBank \nuntuk \nmenyampaikan data dan/atau dokumen pendukung \nterkait hal yang tidak termasuk dalam perhitungan \nKewajiban Jangka Pendek sebagaimana dimaksud pada \nayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "Contoh perhitungan pemenuhan batasan RPLN oleh Bank \nsebagaimana tercantum dalam Lampiran II yang merupakan \nbagian tidak terpisahkan dari Peraturan Anggota Dewan \nGubernur ini. \n \nBagian Ketiga \nParameter Kontrasiklikal",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh perhitungan pemenuhan batasan RPLN oleh Bank \nsebagaimana tercantum dalam Lampiran II yang merupakan \nbagian tidak terpisahkan dari Peraturan Anggota Dewan \nGubernur ini. \n \nBagian Ketiga \nParameter Kontrasiklikal"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan parameter kontrasiklikal \nsebagaimana dimaksud dalam Pasal 5 ayat (1) sebesar: \na. \npositif 5% (lima persen); \nb. \n0% (nol persen); atau \nc. \nnegatif 5% (lima persen). \n(2) \nPenetapan \nparameter \nkontrasiklikal \nsebagaimana \ndimaksud pada ayat (1) mempertimbangkan: \na. \nsiklus keuangan; \nb. \nfaktor eksternal; \nc. \nrisiko stabilitas sistem keuangan; dan/atau \nd. \nkondisi lainnya yang relevan. \n(3) \nPenetapan \nparameter \nkontrasiklikal \nsebagaimana \ndimaksud pada ayat (1) meliputi: \na. \nbesaran parameter kontrasiklikal; \nb. \ntanggal mulai berlakunya parameter kontrasiklikal; \nc. \ntanggal \npengakhiran \nberlakunya \nparameter \nkontrasiklikal; dan/atau \nd. \npenetapan lain yang diperlukan. \n(4) \nDalam hal parameter kontrasiklikal sebagai faktor \npenambah batasan RPLN, tanggal mulai berlakunya \nparameter kontrasiklikal sebagaimana dimaksud pada \nayat (3) huruf b pada saat ditetapkan. \n(5) \nDalam hal parameter kontrasiklikal sebagai faktor \npengurang batasan RPLN, tanggal mulai berlakunya \nparameter kontrasiklikal sebagaimana dimaksud pada \nayat (3) huruf b paling lambat 6 (enam) bulan setelah \nditetapkan. \n \nBagian Keempat \nDana Usaha",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan parameter kontrasiklikal \nsebagaimana dimaksud dalam Pasal 5 ayat (1) sebesar: \na. \npositif 5% (lima persen); \nb. \n0% (nol persen); atau \nc. \nnegatif 5% (lima persen)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan \nparameter \nkontrasiklikal \nsebagaimana \ndimaksud pada ayat (1) mempertimbangkan: \na. \nsiklus keuangan; \nb. \nfaktor eksternal; \nc. \nrisiko stabilitas sistem keuangan; dan/atau \nd. \nkondisi lainnya yang relevan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan \nparameter \nkontrasiklikal \nsebagaimana \ndimaksud pada ayat (1) meliputi: \na. \nbesaran parameter kontrasiklikal; \nb. \ntanggal mulai berlakunya parameter kontrasiklikal; \nc. \ntanggal \npengakhiran \nberlakunya \nparameter \nkontrasiklikal; dan/atau \nd. \npenetapan lain yang diperlukan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal parameter kontrasiklikal sebagai faktor \npenambah batasan RPLN, tanggal mulai berlakunya \nparameter kontrasiklikal sebagaimana dimaksud pada \nayat (3) huruf b pada saat ditetapkan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal parameter kontrasiklikal sebagai faktor \npengurang batasan RPLN, tanggal mulai berlakunya \nparameter kontrasiklikal sebagaimana dimaksud pada \nayat (3) huruf b paling lambat 6 (enam) bulan setelah \nditetapkan. \n \nBagian Keempat \nDana Usaha"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nKantor cabang dari Bank yang berkedudukan di luar \nnegeri wajib menginformasikan hasil penetapan dan \nperubahan dana usaha yang dinyatakan (declared dana \nusaha) kepada Bank Indonesia. \n \n\n\n \n(2) \nKantor cabang dari Bank yang berkedudukan di luar \nnegeri wajib memelihara posisi harian dana usaha paling \nrendah 90% (sembilan puluh persen) dari jumlah dana \nusaha \nyang \ndinyatakan \n(declared \ndana \nusaha) \nsebagaimana dimaksud pada ayat (1). \n(3) \nKantor cabang dari Bank yang berkedudukan di luar \nnegeri dapat memelihara posisi harian dana usaha lebih \ndari 100% (seratus persen) dari dana usaha yang \ndinyatakan (declared dana usaha) sebagaimana dimaksud \npada ayat (1). \n(4) \nKelebihan dana usaha sebagaimana dimaksud pada ayat \n(3) diperhitungkan sebagai Kewajiban Jangka Pendek. \n \nBagian Kelima \nKondisi Tertentu",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kantor cabang dari Bank yang berkedudukan di luar \nnegeri wajib menginformasikan hasil penetapan dan \nperubahan dana usaha yang dinyatakan (declared dana \nusaha) kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kantor cabang dari Bank yang berkedudukan di luar \nnegeri wajib memelihara posisi harian dana usaha paling \nrendah 90% (sembilan puluh persen) dari jumlah dana \nusaha \nyang \ndinyatakan \n(declared \ndana \nusaha) \nsebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kantor cabang dari Bank yang berkedudukan di luar \nnegeri dapat memelihara posisi harian dana usaha lebih \ndari 100% (seratus persen) dari dana usaha yang \ndinyatakan (declared dana usaha) sebagaimana dimaksud \npada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kelebihan dana usaha sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "diperhitungkan sebagai Kewajiban Jangka Pendek. \n \nBagian Kelima \nKondisi Tertentu"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEWAJIBAN RPLN",
+      "teks_lengkap": "(1) \nDalam hal Bank memerlukan Kewajiban Jangka Pendek \nuntuk mengatasi permasalahan Bank yang mendesak \ndan/atau \nuntuk \nmemenuhi \nketentuan \notoritas \nberdasarkan informasi dan/atau rekomendasi otoritas \nterkait, Bank Indonesia dapat memberikan pengecualian \nterhadap kewajiban Bank untuk memenuhi batasan RPLN \nsebagaimana dimaksud dalam Pasal 4 ayat (2). \n(2) \nUntuk mendapatkan pengecualian terhadap kewajiban \nmemenuhi batasan RPLN sebagaimana dimaksud pada \nayat (1), Bank menyampaikan permohonan kepada Bank \nIndonesia \ndengan \nmenggunakan \ncontoh \nsurat \npermohonan sebagaimana tercantum dalam Lampiran III \nyang merupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n(3) \nPengajuan surat permohonan kepada Bank Indonesia \nsebagaimana dimaksud pada ayat (2) disertai dengan surat \ndan/atau dokumen lainnya dari otoritas terkait yang \nberisi: \na. \ninformasi bahwa Bank sangat memerlukan Kewajiban \nJangka Pendek untuk mengatasi permasalahan Bank \nyang \nmendesak \ndan/atau \nuntuk \nmemenuhi \nketentuan otoritas terkait; dan/atau \nb. \nrekomendasi \nkepada \nBank \nuntuk \nmelakukan \nKewajiban \nJangka \nPendek \nguna \nmengatasi \npermasalahan yang mendesak dan/atau untuk \nmemenuhi ketentuan otoritas terkait. \n(4) \nSurat permohonan sebagaimana dimaksud pada ayat (2) \nditujukan kepada: \nBank Indonesia \nDepartemen Surveilans Makroprudensial, Moneter, dan \nMarket \nJl. M.H. Thamrin No. 2, Jakarta 10350 \n(5) \nDalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (4), Bank Indonesia \nmemberitahukan perubahan dimaksud melalui surat \ndan/atau media lainnya. \n(6) \nBank \nIndonesia \nmemberikan \njawaban \natas \nsurat \npermohonan  sebagaimana dimaksud pada ayat (2)  paling  \n \n\n\n \nlambat 15 (lima belas) hari kerja sejak surat permohonan \nyang dilengkapi dengan surat dan/atau dokumen lainnya \nsebagaimana dimaksud pada ayat (3) diterima dengan \nlengkap. \n \nBAB IV \nPENERAPAN PRINSIP KEHATI-HATIAN DALAM PEMENUHAN \nRPLN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank memerlukan Kewajiban Jangka Pendek \nuntuk mengatasi permasalahan Bank yang mendesak \ndan/atau \nuntuk \nmemenuhi \nketentuan \notoritas \nberdasarkan informasi dan/atau rekomendasi otoritas \nterkait, Bank Indonesia dapat memberikan pengecualian \nterhadap kewajiban Bank untuk memenuhi batasan RPLN \nsebagaimana dimaksud dalam Pasal 4 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk mendapatkan pengecualian terhadap kewajiban \nmemenuhi batasan RPLN sebagaimana dimaksud pada \nayat (1), Bank menyampaikan permohonan kepada Bank \nIndonesia \ndengan \nmenggunakan \ncontoh \nsurat \npermohonan sebagaimana tercantum dalam Lampiran III \nyang merupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengajuan surat permohonan kepada Bank Indonesia \nsebagaimana dimaksud pada ayat (2) disertai dengan surat \ndan/atau dokumen lainnya dari otoritas terkait yang \nberisi: \na. \ninformasi bahwa Bank sangat memerlukan Kewajiban \nJangka Pendek untuk mengatasi permasalahan Bank \nyang \nmendesak \ndan/atau \nuntuk \nmemenuhi \nketentuan otoritas terkait; dan/atau \nb. \nrekomendasi \nkepada \nBank \nuntuk \nmelakukan \nKewajiban \nJangka \nPendek \nguna \nmengatasi \npermasalahan yang mendesak dan/atau untuk \nmemenuhi ketentuan otoritas terkait."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Surat permohonan sebagaimana dimaksud pada ayat (2) \nditujukan kepada: \nBank Indonesia \nDepartemen Surveilans Makroprudensial, Moneter, dan \nMarket \nJl. M.H. Thamrin No. 2, Jakarta 10350"
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (4), Bank Indonesia \nmemberitahukan perubahan dimaksud melalui surat \ndan/atau media lainnya."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Bank \nIndonesia \nmemberikan \njawaban \natas \nsurat \npermohonan  sebagaimana dimaksud pada ayat (2)  paling  \n \n\n\n \nlambat 15 (lima belas) hari kerja sejak surat permohonan \nyang dilengkapi dengan surat dan/atau dokumen lainnya \nsebagaimana dimaksud pada ayat (3) diterima dengan \nlengkap. \n \nBAB IV \nPENERAPAN PRINSIP KEHATI-HATIAN DALAM PEMENUHAN \nRPLN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN PRINSIP KEHATI-HATIAN DALAM PEMENUHAN RPLN",
+      "teks_lengkap": "(1) \nBank yang memiliki Kewajiban Jangka Pendek harus \nmenerapkan prinsip kehati-hatian. \n(2) \nPenerapan prinsip kehati-hatian sebagaimana dimaksud \npada ayat (1) dilaksanakan melalui pemenuhan indikator \nyang ditetapkan oleh Bank Indonesia. \n(3) \nIndikator sebagaimana dimaksud pada ayat (2) meliputi: \na. \nkapasitas \npermodalan \nberupa \nrasio \nkewajiban \npenyediaan modal minimum sesuai profil risiko Bank; \nb. \nrisiko kredit berupa rasio kredit atau pembiayaan \nbermasalah secara bruto lebih kecil dari 5% (lima \npersen); dan \nc. \nrisiko pasar berupa posisi devisa neto dengan besaran \npersentase \nposisi \ndevisa \nneto \nsesuai \ndengan \nketentuan Bank Indonesia mengenai posisi devisa \nneto. \n(4) \nDalam hal Bank tidak memenuhi penerapan prinsip \nkehati-hatian, Bank Indonesia berwenang menerapkan \ntindak lanjut berupa: \na. \npenyesuaian batasan RPLN yang wajib dipenuhi oleh \nBank yang bersangkutan; dan/atau \nb. \nkegiatan pengawasan lainnya yang diperlukan. \n(5) \nDalam hal Bank Indonesia melakukan penyesuaian \nbatasan RPLN sebagaimana dimaksud pada ayat (4) huruf \na, Bank Indonesia menyampaikan pemberitahuan hal \ntersebut kepada Bank melalui surat dan/atau media \nlainnya yang ditetapkan oleh Bank Indonesia. \n \nBAB V \nSUMBER DATA DAN PERHITUNGAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang memiliki Kewajiban Jangka Pendek harus \nmenerapkan prinsip kehati-hatian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan prinsip kehati-hatian sebagaimana dimaksud \npada ayat (1) dilaksanakan melalui pemenuhan indikator \nyang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Indikator sebagaimana dimaksud pada ayat (2) meliputi: \na. \nkapasitas \npermodalan \nberupa \nrasio \nkewajiban \npenyediaan modal minimum sesuai profil risiko Bank; \nb. \nrisiko kredit berupa rasio kredit atau pembiayaan \nbermasalah secara bruto lebih kecil dari 5% (lima \npersen); dan \nc. \nrisiko pasar berupa posisi devisa neto dengan besaran \npersentase \nposisi \ndevisa \nneto \nsesuai \ndengan \nketentuan Bank Indonesia mengenai posisi devisa \nneto."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Bank tidak memenuhi penerapan prinsip \nkehati-hatian, Bank Indonesia berwenang menerapkan \ntindak lanjut berupa: \na. \npenyesuaian batasan RPLN yang wajib dipenuhi oleh \nBank yang bersangkutan; dan/atau \nb. \nkegiatan pengawasan lainnya yang diperlukan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank Indonesia melakukan penyesuaian \nbatasan RPLN sebagaimana dimaksud pada ayat (4) huruf \na, Bank Indonesia menyampaikan pemberitahuan hal \ntersebut kepada Bank melalui surat dan/atau media \nlainnya yang ditetapkan oleh Bank Indonesia. \n \nBAB V \nSUMBER DATA DAN PERHITUNGAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "SUMBER DATA DAN PERHITUNGAN",
+      "teks_lengkap": "(1) \nSumber data untuk perhitungan RPLN sebagaimana \ndimaksud dalam Pasal 4 ayat (2) didasarkan dari laporan \nBank mengenai utang luar negeri dan kewajiban Bank \nlainnya dalam valuta asing jangka pendek yang dilaporkan \nsecara harian melalui LBUT. \n(2) \nPerhitungan RPLN sebagaimana dimaksud dalam Pasal 4 \nayat (2) dilakukan secara harian pada setiap hari kerja \ndengan \nmenggunakan \nposisi \n(dua) \nhari \nkerja \nsebelumnya. \n(3) \nSumber data untuk perhitungan RPLN sebagaimana \ndimaksud pada ayat (1) sebagaimana tercantum dalam \nLampiran IV yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sumber data untuk perhitungan RPLN sebagaimana \ndimaksud dalam Pasal 4 ayat (2) didasarkan dari laporan \nBank mengenai utang luar negeri dan kewajiban Bank \nlainnya dalam valuta asing jangka pendek yang dilaporkan \nsecara harian melalui LBUT."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perhitungan RPLN sebagaimana dimaksud dalam Pasal 4 \nayat (2) dilakukan secara harian pada setiap hari kerja \ndengan \nmenggunakan \nposisi \n(dua) \nhari \nkerja \nsebelumnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sumber data untuk perhitungan RPLN sebagaimana \ndimaksud pada ayat (1) sebagaimana tercantum dalam \nLampiran IV yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "SUMBER DATA DAN PERHITUNGAN",
+      "teks_lengkap": "(1) \nSumber data untuk indikator sebagaimana dimaksud \ndalam Pasal 14 ayat (3) diperoleh dari: \na. \nOJK \nyang \ndiakses \nmelalui \nsistem \ninformasi \npertukaran data antara Bank Indonesia dan OJK \nuntuk rasio kewajiban penyediaan modal minimum \nsesuai profil risiko Bank; \nb. \nLBUT untuk data kredit bermasalah bank umum \nkonvensional dan data total kredit bank umum \nkonvensional serta data pembiayaan bermasalah \nbank umum syariah dan unit usaha syariah dan data \ntotal pembiayaan bank umum syariah dan unit usaha \nsyariah \nsebagai \nkomponen \nrasio \nkredit \natau \npembiayaan bermasalah secara bruto; dan \nc. \nsistem informasi Bank Indonesia untuk posisi devisa \nneto. \n(2) \nDalam \nhal \nterdapat \nperbedaan \nperhitungan \nrasio \nkewajiban penyediaan modal minimum sebagaimana \ndimaksud pada ayat (1) huruf a antara hasil perhitungan \nBank dan OJK maka yang digunakan adalah informasi \nyang diperoleh dari OJK. \n(3) \nRincian sumber data untuk komponen rasio kredit atau \npembiayaan bermasalah secara bruto \nsebagaimana \ndimaksud pada ayat (1) huruf b sebagaimana tercantum \ndalam Lampiran IV. \n \nBAB VI \nTATA CARA PENGENAAN SANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sumber data untuk indikator sebagaimana dimaksud \ndalam Pasal 14 ayat (3) diperoleh dari: \na. \nOJK \nyang \ndiakses \nmelalui \nsistem \ninformasi \npertukaran data antara Bank Indonesia dan OJK \nuntuk rasio kewajiban penyediaan modal minimum \nsesuai profil risiko Bank; \nb. \nLBUT untuk data kredit bermasalah bank umum \nkonvensional dan data total kredit bank umum \nkonvensional serta data pembiayaan bermasalah \nbank umum syariah dan unit usaha syariah dan data \ntotal pembiayaan bank umum syariah dan unit usaha \nsyariah \nsebagai \nkomponen \nrasio \nkredit \natau \npembiayaan bermasalah secara bruto; dan \nc. \nsistem informasi Bank Indonesia untuk posisi devisa \nneto."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \nterdapat \nperbedaan \nperhitungan \nrasio \nkewajiban penyediaan modal minimum sebagaimana \ndimaksud pada ayat (1) huruf a antara hasil perhitungan \nBank dan OJK maka yang digunakan adalah informasi \nyang diperoleh dari OJK."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Rincian sumber data untuk komponen rasio kredit atau \npembiayaan bermasalah secara bruto \nsebagaimana \ndimaksud pada ayat (1) huruf b sebagaimana tercantum \ndalam Lampiran IV. \n \nBAB VI \nTATA CARA PENGENAAN SANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nBank yang melanggar ketentuan dalam Peraturan Bank \nIndonesia mengenai RPLN dikenai sanksi administratif. \n(2) \nBank Indonesia menyampaikan surat pengenaan sanksi \nadministratif kepada Bank dengan menyebutkan: \na. \njenis pelanggaran; \nb. \ntanggal pelanggaran; \nc. \nbesaran dan/atau rincian nominal sanksi, untuk \nsanksi administratif berupa kewajiban membayar; \ndan/atau \nd. \ninformasi terkait lainnya. \n(3) \nSurat pengenaan sanksi administratif kepada Bank \nsebagaimana dimaksud pada ayat (2) ditembuskan kepada \nOJK. \n(4) \nBank Indonesia dapat meminta konfirmasi kepada Bank \nsebelum \nmenyampaikan \nsurat \npengenaan \nsanksi \nadministratif sebagaimana dimaksud pada ayat (2) \nmengenai indikasi pelanggaran kewajiban yang diatur \ndalam Peraturan Bank Indonesia mengenai RPLN. \n(5) \nPengenaan \nsanksi \nadministratif \nberupa \nkewajiban \nmembayar dilakukan dengan mendebit saldo rekening giro \nrupiah Bank yang ada di Bank Indonesia. \n \n \n \n \n \n\n\n \nBAB VII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang melanggar ketentuan dalam Peraturan Bank \nIndonesia mengenai RPLN dikenai sanksi administratif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia menyampaikan surat pengenaan sanksi \nadministratif kepada Bank dengan menyebutkan: \na. \njenis pelanggaran; \nb. \ntanggal pelanggaran; \nc. \nbesaran dan/atau rincian nominal sanksi, untuk \nsanksi administratif berupa kewajiban membayar; \ndan/atau \nd. \ninformasi terkait lainnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Surat pengenaan sanksi administratif kepada Bank \nsebagaimana dimaksud pada ayat (2) ditembuskan kepada \nOJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia dapat meminta konfirmasi kepada Bank \nsebelum \nmenyampaikan \nsurat \npengenaan \nsanksi \nadministratif sebagaimana dimaksud pada ayat (2) \nmengenai indikasi pelanggaran kewajiban yang diatur \ndalam Peraturan Bank Indonesia mengenai RPLN."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengenaan \nsanksi \nadministratif \nberupa \nkewajiban \nmembayar dilakukan dengan mendebit saldo rekening giro \nrupiah Bank yang ada di Bank Indonesia. \n \n \n \n \n \n\n\n \nBAB VII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1) \nPada saat Peraturan Anggota Dewan Gubernur ini berlaku, \nparameter kontrasikilikal sebagaimana dimaksud dalam \nPasal 5 ayat (1) ditetapkan sebesar 0% (nol persen). \n(2) \nBatasan \nRPLN \nsetelah \nmemperhitungkan \nbesaran \nparameter kontrasiklikal sebagaimana dimaksud pada \nayat (1) menjadi sebesar 30% (tiga puluh persen).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Anggota Dewan Gubernur ini berlaku, \nparameter kontrasikilikal sebagaimana dimaksud dalam \nPasal 5 ayat (1) ditetapkan sebesar 0% (nol persen)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Batasan \nRPLN \nsetelah \nmemperhitungkan \nbesaran \nparameter kontrasiklikal sebagaimana dimaksud pada \nayat (1) menjadi sebesar 30% (tiga puluh persen)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Anggota Dewan Gubernur ini mulai \nberlaku, Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 8, dan Pasal \n15 ayat (4) Peraturan Anggota Dewan Gubernur Nomor \n21/3/PADG/2019 tanggal 15 Februari 2019 tentang Utang \nLuar Negeri Bank dan Kewajiban Bank Lainnya dalam Valuta \nAsing, dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Anggota Dewan Gubernur ini mulai \nberlaku, Pasal 4, Pasal 5, Pasal 6, Pasal 7, Pasal 8, dan Pasal \n15 ayat (4) Peraturan Anggota Dewan Gubernur Nomor \n21/3/PADG/2019 tanggal 15 Februari 2019 tentang Utang \nLuar Negeri Bank dan Kewajiban Bank Lainnya dalam Valuta \nAsing, dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Perhitungan RPLN dengan cakupan Kewajiban Jangka Pendek \nyang telah menerapkan ketentuan sebagaimana dimaksud \ndalam Pasal 7 dilakukan sejak posisi data laporan mengenai \nRPLN tanggal 1 Agustus 2024.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Perhitungan RPLN dengan cakupan Kewajiban Jangka Pendek \nyang telah menerapkan ketentuan sebagaimana dimaksud \ndalam Pasal 7 dilakukan sejak posisi data laporan mengenai \nRPLN tanggal 1 Agustus 2024."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal 1 Agustus 2024. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 1 Agustus 2024 \n \nANGGOTA DEWAN GUBERNUR,  \n \n \n \n \nTTD \n \nJUDA AGUNG \n \n \n\n\nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR  7  TAHUN 2024 \nTENTANG \nPERATURAN PELAKSANAAN RASIO PENDANAAN LUAR NEGERI BANK \n \nI. \nUMUM \nBank Indonesia telah menerbitkan Peraturan Bank Indonesia \nNomor   7    Tahun 2024 tentang Rasio Pendanaan Luar Negeri Bank yang \ndalam implementasinya perlu didukung dengan aturan pelaksanaan \nmengenai mekanisme pelaksanaan dan teknis terkait pengaturan rasio \npendanaan luar negeri bank, sehingga dapat terlaksana dengan baik.  \nAturan pelaksanaan dimaksud antara lain rincian terkait kewajiban \nRPLN, sumber data, penerapan prinsip kehati-hatian, dan tata cara \npengenaan \nsanksi. \nRPLN \ndikelola \nmelalui \ninstrumen \nkebijakan \nmakroprudensial dan diimplementasikan melalui penerapan parameter \nkontrasiklikal. Besaran parameter kontrasiklikal bersifat dinamis yang \nmempertimbangkan asesmen siklus keuangan, faktor eksternal, risiko \nstabilitas sistem keuangan, dan/atau kondisi lainnya yang relevan. \nBesaran parameter kontrasiklikal akan direviu secara berkala oleh Bank \nIndonesia.  \nBerdasarkan hal tersebut di atas, perlu ditetapkan Peraturan Anggota \nDewan Gubernur mengenai peraturan pelaksanaan RPLN. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal 1 Agustus 2024. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 1 Agustus 2024 \n \nANGGOTA DEWAN GUBERNUR,  \n \n \n \n \nTTD \n \nJUDA AGUNG \n \n \n\n\nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR  7  TAHUN 2024 \nTENTANG \nPERATURAN PELAKSANAAN RASIO PENDANAAN LUAR NEGERI BANK \n \nI. \nUMUM \nBank Indonesia telah menerbitkan Peraturan Bank Indonesia \nNomor   7    Tahun 2024 tentang Rasio Pendanaan Luar Negeri Bank yang \ndalam implementasinya perlu didukung dengan aturan pelaksanaan \nmengenai mekanisme pelaksanaan dan teknis terkait pengaturan rasio \npendanaan luar negeri bank, sehingga dapat terlaksana dengan baik.  \nAturan pelaksanaan dimaksud antara lain rincian terkait kewajiban \nRPLN, sumber data, penerapan prinsip kehati-hatian, dan tata cara \npengenaan \nsanksi. \nRPLN \ndikelola \nmelalui \ninstrumen \nkebijakan \nmakroprudensial dan diimplementasikan melalui penerapan parameter \nkontrasiklikal. Besaran parameter kontrasiklikal bersifat dinamis yang \nmempertimbangkan asesmen siklus keuangan, faktor eksternal, risiko \nstabilitas sistem keuangan, dan/atau kondisi lainnya yang relevan. \nBesaran parameter kontrasiklikal akan direviu secara berkala oleh Bank \nIndonesia.  \nBerdasarkan hal tersebut di atas, perlu ditetapkan Peraturan Anggota \nDewan Gubernur mengenai peraturan pelaksanaan RPLN. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nULN Jangka Pendek termasuk ULN Bank berdasarkan \nperjanjian pembiayaan. \nHuruf b \nSurat utang (debt securities) antara lain letter of credit (L/C) \nimpor yang diakseptasi oleh Bank (banker’s acceptance), \nobligasi, commercial papers, dan promissory notes, dan \nsukuk jangka pendek. \nHuruf c \nYang dimaksud dengan “call money” adalah penempatan \natau peminjaman dana antar-Bank dalam hitungan hari. \n\n\n \nHuruf d \nCukup jelas. \nAyat (3) \nHuruf a \n \nSurat Utang Valas Domestik Jangka Pendek antara lain \n \nobligasi, floating rate notes, dan promissory notes. \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nULN Jangka Pendek termasuk ULN Bank berdasarkan \nperjanjian pembiayaan. \nHuruf b \nSurat utang (debt securities) antara lain letter of credit (L/C) \nimpor yang diakseptasi oleh Bank (banker’s acceptance), \nobligasi, commercial papers, dan promissory notes, dan \nsukuk jangka pendek. \nHuruf c \nYang dimaksud dengan “call money” adalah penempatan \natau peminjaman dana antar-Bank dalam hitungan hari. \n\n\n \nHuruf d \nCukup jelas. \nAyat (3) \nHuruf a \n \nSurat Utang Valas Domestik Jangka Pendek antara lain \n \nobligasi, floating rate notes, dan promissory notes. \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “grantor” adalah pihak yang menjual \nrisiko. \nYang dimaksud dengan “participant” adalah pihak yang membeli \natau menerima risiko. \nAyat (2) \nParticipant lihat penjelasan ayat (1). \nULN debitur Bank yang merupakan korporasi non-Bank tunduk \npada ketentuan Bank Indonesia mengenai ULN korporasi non-\nBank. \nPendanaan luar negeri debitur Bank yang merupakan badan \nusaha milik negara atau kredit dan/atau fasilitas lainnya yang \nmenjadi dasar TPR Jangka Pendek merupakan kredit dan/atau \nfasilitas yang terkait dengan proyek Pemerintah tunduk pada \nketentuan peraturan perundang-undangan mengenai pinjaman \nkomersial luar negeri. \nContoh: \nBank E menyalurkan kredit sebesar USD200,000,000.00 (dua \nratus juta dolar Amerika Serikat) kepada PT ABC dengan jangka \nwaktu kredit 3 (tiga) tahun yang ditandatangani pada bulan \nJanuari 2025 dan jatuh tempo pada bulan Januari 2028. Pada \nbulan Juni 2025, Bank E melakukan TPR Jangka Pendek funded \ndengan Bank F di Australia (bukan Penduduk) dengan nominal \npartisipasi sebesar USD90,000,000.00 (sembilan puluh juta dolar \nAmerika Serikat) dan jangka waktu sampai dengan jatuh tempo \nkredit (Januari 2028). Pada bulan September 2025 Bank E \nmengalihkan hak tagih atas kredit tersebut kepada Bank F \nsebagai participant. Pengalihan hak tagih dari Bank E kepada \nBank F menyebabkan PT ABC memiliki pendanaan luar negeri \nsebesar US$90,000,000.00 (sembilan puluh juta dolar Amerika \nSerikat) kepada Bank F. \nAyat (3) \nYang dimaksud dengan “pengalihan hak tagih kepada pihak lain \nbukan Penduduk” adalah perbuatan hukum sebagaimana diatur \ndalam Pasal 613 Kitab Undang-Undang Hukum Perdata dan \nuntuk pengalihan produk syariah, memperhatikan pemenuhan \nprinsip syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “grantor” adalah pihak yang menjual \nrisiko. \nYang dimaksud dengan “participant” adalah pihak yang membeli \natau menerima risiko. \nAyat (2) \nParticipant lihat penjelasan ayat (1). \nULN debitur Bank yang merupakan korporasi non-Bank tunduk \npada ketentuan Bank Indonesia mengenai ULN korporasi non-\nBank. \nPendanaan luar negeri debitur Bank yang merupakan badan \nusaha milik negara atau kredit dan/atau fasilitas lainnya yang \nmenjadi dasar TPR Jangka Pendek merupakan kredit dan/atau \nfasilitas yang terkait dengan proyek Pemerintah tunduk pada \nketentuan peraturan perundang-undangan mengenai pinjaman \nkomersial luar negeri. \nContoh: \nBank E menyalurkan kredit sebesar USD200,000,000.00 (dua \nratus juta dolar Amerika Serikat) kepada PT ABC dengan jangka \nwaktu kredit 3 (tiga) tahun yang ditandatangani pada bulan \nJanuari 2025 dan jatuh tempo pada bulan Januari 2028. Pada \nbulan Juni 2025, Bank E melakukan TPR Jangka Pendek funded \ndengan Bank F di Australia (bukan Penduduk) dengan nominal \npartisipasi sebesar USD90,000,000.00 (sembilan puluh juta dolar \nAmerika Serikat) dan jangka waktu sampai dengan jatuh tempo \nkredit (Januari 2028). Pada bulan September 2025 Bank E \nmengalihkan hak tagih atas kredit tersebut kepada Bank F \nsebagai participant. Pengalihan hak tagih dari Bank E kepada \nBank F menyebabkan PT ABC memiliki pendanaan luar negeri \nsebesar US$90,000,000.00 (sembilan puluh juta dolar Amerika \nSerikat) kepada Bank F. \nAyat (3) \nYang dimaksud dengan “pengalihan hak tagih kepada pihak lain \nbukan Penduduk” adalah perbuatan hukum sebagaimana diatur \ndalam Pasal 613 Kitab Undang-Undang Hukum Perdata dan \nuntuk pengalihan produk syariah, memperhatikan pemenuhan \nprinsip syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nRPLN diperhitungkan sampai dengan 2 (dua) angka di belakang \nkoma dengan rumus: \nRPLN bagi Bank = (\n𝐾𝑒𝑤𝑎𝑗𝑖𝑏𝑎𝑛 𝐽𝑎𝑛𝑔𝑘𝑎 𝑃𝑒𝑛𝑑𝑒𝑘\n𝑀𝑜𝑑𝑎𝑙 𝐵𝑎𝑛𝑘\n) X 100% \n\n\n \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nRPLN diperhitungkan sampai dengan 2 (dua) angka di belakang \nkoma dengan rumus: \nRPLN bagi Bank = (\n𝐾𝑒𝑤𝑎𝑗𝑖𝑏𝑎𝑛 𝐽𝑎𝑛𝑔𝑘𝑎 𝑃𝑒𝑛𝑑𝑒𝑘\n𝑀𝑜𝑑𝑎𝑙 𝐵𝑎𝑛𝑘\n) X 100% \n\n\n \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nPenerapan parameter kontrasiklikal dapat bersifat sebagai faktor \npenambah atau faktor pengurang batasan RPLN. \nBatasan \nRPLN \ndengan \npenambahan \natau \npengurangan \npersentase parameter kontrasiklikal dihitung dengan rumus:  \nBatasan RPLN = 30% ± parameter kontrasiklikal. \nContoh 1: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \npositif 5% (lima persen) sejak tanggal 1 Oktober 2024. Dengan \nadanya tambahan parameter kontrasiklikal tersebut maka \nbatasan RPLN menjadi paling tinggi sebesar = 30% (tiga puluh \npersen) + 5% (lima persen) = 35% (tiga puluh lima persen). \nContoh 2: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \nnegatif 5% (lima persen) sejak tanggal 1 Oktober 2025. Dengan \nadanya pengurang parameter kontrasiklikal tersebut maka \nbatasan RPLN menjadi paling tinggi sebesar = 30% (tiga puluh \npersen) - 5% (lima persen) = 25% (dua puluh lima persen).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nPenerapan parameter kontrasiklikal dapat bersifat sebagai faktor \npenambah atau faktor pengurang batasan RPLN. \nBatasan \nRPLN \ndengan \npenambahan \natau \npengurangan \npersentase parameter kontrasiklikal dihitung dengan rumus:  \nBatasan RPLN = 30% ± parameter kontrasiklikal. \nContoh 1: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \npositif 5% (lima persen) sejak tanggal 1 Oktober 2024. Dengan \nadanya tambahan parameter kontrasiklikal tersebut maka \nbatasan RPLN menjadi paling tinggi sebesar = 30% (tiga puluh \npersen) + 5% (lima persen) = 35% (tiga puluh lima persen). \nContoh 2: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \nnegatif 5% (lima persen) sejak tanggal 1 Oktober 2025. Dengan \nadanya pengurang parameter kontrasiklikal tersebut maka \nbatasan RPLN menjadi paling tinggi sebesar = 30% (tiga puluh \npersen) - 5% (lima persen) = 25% (dua puluh lima persen)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nTermasuk ULN Bank Jangka Pendek antara lain: \n1. \ngiro; \n2. \ndeposito; dan \n3. \ntabungan, \nmilik bukan Penduduk tanpa memperhitungkan jangka \nwaktunya. \nHuruf b \nSurat Utang Valas Domestik Jangka Pendek termasuk sukuk \nvaluta asing domestik jangka pendek. \nHuruf c \nNilai TPR Jangka Pendek yang diperhitungkan dalam posisi \nsaldo harian Kewajiban Jangka Pendek yaitu sebesar nilai \nkredit dan/atau fasilitas lainnya yang dipartisipasikan. \nAyat (2) \nYang dimaksud dengan “jangka waktu asal (original maturity)” \nadalah jangka waktu dari sejak timbulnya kewajiban Bank \nsampai dengan jatuh waktu. \nContoh 1: \nBank A memiliki ULN Bank dalam bentuk perjanjian kredit  \ndengan jangka waktu 8 (delapan) bulan. Pada saat ULN Bank \ntersebut jatuh waktu, Bank A melakukan perpanjangan (roll over) \ndengan jangka waktu 7 (tujuh) bulan. ULN Bank A setelah roll over \ntetap merupakan Kewajiban Jangka Pendek. \nContoh 2: \nBank B memiliki surat utang valuta asing domestik dengan \njangka waktu 9 (sembilan) bulan. Satu bulan sebelum surat utang \nvaluta asing domestik tersebut jatuh waktu, Bank B melakukan \n\n\n \nreschedule dengan jangka waktu baru 5 (lima) bulan. Dalam \nkasus ini, surat utang valuta asing domestik Bank B setelah \nreschedule tetap merupakan Kewajiban Jangka Pendek. \nContoh 3: \nBank D memiliki ULN Bank dalam bentuk perjanjian kredit  \ndengan jangka waktu 13 (tiga belas) bulan yang ditandatangani \npada bulan Januari 2025 dan jatuh waktu pada bulan Februari \n2026. Pada tanggal 21 November 2025, Bank D melakukan \nperubahan jangka waktu sehingga jatuh waktu ULN Bank \ntersebut menjadi bulan Desember 2025. Dalam kasus ini, ULN \nBank D setelah diperpendek jangka waktunya diperlakukan \nsebagai \nKewajiban \nJangka \nPendek, \nsehingga \nharus \ndiperhitungkan dalam kewajiban pembatasan saldo harian \nKewajiban Jangka Pendek mulai 21 November 2025. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nTermasuk ULN Bank Jangka Pendek antara lain: \n1. \ngiro; \n2. \ndeposito; dan \n3. \ntabungan, \nmilik bukan Penduduk tanpa memperhitungkan jangka \nwaktunya. \nHuruf b \nSurat Utang Valas Domestik Jangka Pendek termasuk sukuk \nvaluta asing domestik jangka pendek. \nHuruf c \nNilai TPR Jangka Pendek yang diperhitungkan dalam posisi \nsaldo harian Kewajiban Jangka Pendek yaitu sebesar nilai \nkredit dan/atau fasilitas lainnya yang dipartisipasikan. \nAyat (2) \nYang dimaksud dengan “jangka waktu asal (original maturity)” \nadalah jangka waktu dari sejak timbulnya kewajiban Bank \nsampai dengan jatuh waktu. \nContoh 1: \nBank A memiliki ULN Bank dalam bentuk perjanjian kredit  \ndengan jangka waktu 8 (delapan) bulan. Pada saat ULN Bank \ntersebut jatuh waktu, Bank A melakukan perpanjangan (roll over) \ndengan jangka waktu 7 (tujuh) bulan. ULN Bank A setelah roll over \ntetap merupakan Kewajiban Jangka Pendek. \nContoh 2: \nBank B memiliki surat utang valuta asing domestik dengan \njangka waktu 9 (sembilan) bulan. Satu bulan sebelum surat utang \nvaluta asing domestik tersebut jatuh waktu, Bank B melakukan \n\n\n \nreschedule dengan jangka waktu baru 5 (lima) bulan. Dalam \nkasus ini, surat utang valuta asing domestik Bank B setelah \nreschedule tetap merupakan Kewajiban Jangka Pendek. \nContoh 3: \nBank D memiliki ULN Bank dalam bentuk perjanjian kredit  \ndengan jangka waktu 13 (tiga belas) bulan yang ditandatangani \npada bulan Januari 2025 dan jatuh waktu pada bulan Februari \n2026. Pada tanggal 21 November 2025, Bank D melakukan \nperubahan jangka waktu sehingga jatuh waktu ULN Bank \ntersebut menjadi bulan Desember 2025. Dalam kasus ini, ULN \nBank D setelah diperpendek jangka waktunya diperlakukan \nsebagai \nKewajiban \nJangka \nPendek, \nsehingga \nharus \ndiperhitungkan dalam kewajiban pembatasan saldo harian \nKewajiban Jangka Pendek mulai 21 November 2025. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “pemegang saham pengendali” \nadalah pemegang saham pengendali sebagaimana dimaksud \ndalam Undang-Undang Nomor 4 Tahun 2023 tentang \nPengembangan dan Penguatan Sektor Keuangan. \nYang dimaksud \ndengan “kesulitan likuiditas” adalah \nkesulitan memenuhi \nkewajiban jangka pendek \nyang \ndisebabkan oleh terjadinya arus dana masuk yang lebih kecil \ndibandingkan dengan arus dana keluar (mismatch) baik \nvaluta asing maupun rupiah, tidak termasuk untuk kegiatan \nekspansi usaha. \nHuruf b \nYang dimaksud dengan “penyaluran kredit ke sektor riil” \nadalah penyaluran kredit secara langsung dari Bank kepada \nsektor riil. \nYang dimaksud dengan “sektor riil” adalah kegiatan usaha \nsuatu entitas di Indonesia yang menghasilkan barang dan \njasa, tidak termasuk di dalamnya kegiatan usaha di sektor \nkeuangan. \nHuruf c \nYang dimaksud dengan “dana usaha” adalah dana usaha \nsebagaimana dimaksud dalam Peraturan OJK mengenai \ndana usaha. \nHuruf d \nYang dimaksud dengan “kewajiban Bank kepada bukan \nPenduduk yang timbul dari transaksi lindung nilai” adalah \nkewajiban Bank yang muncul akibat kegiatan mark-to-\nmarket transaksi derivatif Bank dan tercatat di on balance \nsheet. \nTransaksi derivatif merupakan transaksi yang didasari oleh \nsuatu kontrak atau perjanjian pembayaran yang nilainya \nmerupakan turunan dari nilai instrumen yang mendasarinya \n\n\n \nseperti suku bunga, nilai tukar, komoditi, ekuiti, dan indeks, \nbaik yang diikuti dengan pergerakan atau tanpa pergerakan \ndana atau instrumen, tidak termasuk transaksi derivatif \nkredit. Transaksi derivatif valuta asing terhadap rupiah \ntunduk pada Peraturan Bank Indonesia mengenai transaksi \nvaluta asing terhadap rupiah antara Bank dan pihak asing. \nYang dimaksud dengan “lindung nilai” adalah cara atau \nteknik untuk mengurangi risiko yang timbul maupun yang \ndiperkirakan akan timbul akibat adanya fluktuasi harga di \npasar keuangan. Transaksi lindung nilai yang dilakukan \nBank mengacu pada Peraturan Bank Indonesia mengenai \ntransaksi lindung nilai Bank. \nHuruf e \nYang dimaksud dengan “giro, tabungan, dan deposito milik \nperwakilan negara asing dan lembaga internasional” adalah \ngiro, tabungan, dan deposito yang digunakan untuk kegiatan \noperasional. Giro, tabungan, dan deposito anggota staf \nperwakilan negara \nasing \ndan \nlembaga \ninternasional \nmerupakan giro, tabungan, dan deposito milik pribadi \nanggota \nstaf perwakilan negara asing dan \nlembaga \ninternasional. Perwakilan negara asing mencakup juga \nperwakilan Pemerintah daerah negara asing yang mewakili \nsecara resmi Pemerintah daerah negara asing tersebut dalam \nmelakukan tugasnya. \nYang dimaksud dengan “lembaga internasional” adalah \nlembaga dengan keanggotaan, cakupan pekerjaan, dan/atau \nkeberadaan yang bersifat internasional yang kegiatan \nutamanya bersifat nirlaba, seperti International Monetary \nFund dan Islamic Development Bank. \nHuruf f \nKegiatan investasi di Indonesia termasuk di dalamnya reksa \ndana saham, reksa dana obligasi, dan kombinasi keduanya. \nDeposito, tabungan, dan lainnya yang sejenis di luar giro \nmilik bukan Penduduk yang digunakan untuk kegiatan \ninvestasi tidak termasuk yang dikecualikan. \nHuruf g \nHasil penjualan kembali atau divestasi meliputi pokok dan \nimbal hasil. Deposito, tabungan, dan lainnya yang sejenis di \nluar giro milik bukan Penduduk yang digunakan untuk \nmenampung dana hasil penjualan kembali atau divestasi \ntidak termasuk yang dikecualikan. \nHuruf h \nPenggunaan giro milik bukan Penduduk nonpemegang \nsaham pengendali Bank dalam penyaluran kredit ke proyek \ninfrastruktur meliputi: \n1. \nuntuk menampung sementara dana sebelum disalurkan \noleh pemilik rekening giro tersebut kepada debitur di \nproyek infrastruktur; dan \n2. \nuntuk menerima pembayaran dari debitur di proyek \ninfrastruktur, \ntidak termasuk kredit yang diberikan secara two step loan. \nCakupan proyek infrastruktur mengacu pada ketentuan \notoritas terkait mengenai tata cara pelaksanaan kerja sama \nPemerintah dengan \nbadan \nusaha \ndalam \npenyediaan \ninfrastruktur. \n\n\n \nHuruf i \nYang dimaksud dengan “lembaga supranasional” adalah \nlembaga keuangan multilateral yang dibentuk oleh 2 (dua) \natau lebih negara dan dalam kegiatannya menyediakan \npembiayaan, hibah, dan/atau bantuan teknis untuk \nmendorong pembangunan ekonomi negara anggotanya. \nContoh \nlembaga \nsupranasional \nantara \nlain \nAsian \nDevelopment Bank, Islamic Development Bank, dan World \nBank Group yang terdiri atas International Bank for \nReconstruction and Development dan International Finance \nCorporation. \nCakupan proyek infrastruktur lihat penjelasan huruf h. \nHuruf j \nYang dimaksud dengan “Peraturan OJK” adalah Peraturan \nOJK mengenai kewajiban penyediaan modal minimum bank \numum dan Peraturan OJK mengenai kewajiban penyediaan \nmodal minimum bank umum syariah. \nGiro atau deposito dapat berada di Bank yang akan \nmenerima setoran modal atau Bank lain yang ditunjuk oleh \nOJK. \nHuruf k \nContoh: \nBank X yang berkantor pusat di Jakarta memiliki kantor \ncabang di Tokyo yang menerima giro bukan Penduduk dan \ndisalurkan kepada \nanak \nusaha perusahaan otomotif \nIndonesia di Tokyo yang merupakan bukan Penduduk. Giro \nbukan Penduduk tersebut tidak termasuk dalam cakupan \nperhitungan Kewajiban Jangka Pendek untuk RPLN. \nHuruf l \nCukup jelas. \nHuruf m \nCukup jelas. \nHuruf n \nCukup jelas. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “pemegang saham pengendali” \nadalah pemegang saham pengendali sebagaimana dimaksud \ndalam Undang-Undang Nomor 4 Tahun 2023 tentang \nPengembangan dan Penguatan Sektor Keuangan. \nYang dimaksud \ndengan “kesulitan likuiditas” adalah \nkesulitan memenuhi \nkewajiban jangka pendek \nyang \ndisebabkan oleh terjadinya arus dana masuk yang lebih kecil \ndibandingkan dengan arus dana keluar (mismatch) baik \nvaluta asing maupun rupiah, tidak termasuk untuk kegiatan \nekspansi usaha. \nHuruf b \nYang dimaksud dengan “penyaluran kredit ke sektor riil” \nadalah penyaluran kredit secara langsung dari Bank kepada \nsektor riil. \nYang dimaksud dengan “sektor riil” adalah kegiatan usaha \nsuatu entitas di Indonesia yang menghasilkan barang dan \njasa, tidak termasuk di dalamnya kegiatan usaha di sektor \nkeuangan. \nHuruf c \nYang dimaksud dengan “dana usaha” adalah dana usaha \nsebagaimana dimaksud dalam Peraturan OJK mengenai \ndana usaha. \nHuruf d \nYang dimaksud dengan “kewajiban Bank kepada bukan \nPenduduk yang timbul dari transaksi lindung nilai” adalah \nkewajiban Bank yang muncul akibat kegiatan mark-to-\nmarket transaksi derivatif Bank dan tercatat di on balance \nsheet. \nTransaksi derivatif merupakan transaksi yang didasari oleh \nsuatu kontrak atau perjanjian pembayaran yang nilainya \nmerupakan turunan dari nilai instrumen yang mendasarinya \n\n\n \nseperti suku bunga, nilai tukar, komoditi, ekuiti, dan indeks, \nbaik yang diikuti dengan pergerakan atau tanpa pergerakan \ndana atau instrumen, tidak termasuk transaksi derivatif \nkredit. Transaksi derivatif valuta asing terhadap rupiah \ntunduk pada Peraturan Bank Indonesia mengenai transaksi \nvaluta asing terhadap rupiah antara Bank dan pihak asing. \nYang dimaksud dengan “lindung nilai” adalah cara atau \nteknik untuk mengurangi risiko yang timbul maupun yang \ndiperkirakan akan timbul akibat adanya fluktuasi harga di \npasar keuangan. Transaksi lindung nilai yang dilakukan \nBank mengacu pada Peraturan Bank Indonesia mengenai \ntransaksi lindung nilai Bank. \nHuruf e \nYang dimaksud dengan “giro, tabungan, dan deposito milik \nperwakilan negara asing dan lembaga internasional” adalah \ngiro, tabungan, dan deposito yang digunakan untuk kegiatan \noperasional. Giro, tabungan, dan deposito anggota staf \nperwakilan negara \nasing \ndan \nlembaga \ninternasional \nmerupakan giro, tabungan, dan deposito milik pribadi \nanggota \nstaf perwakilan negara asing dan \nlembaga \ninternasional. Perwakilan negara asing mencakup juga \nperwakilan Pemerintah daerah negara asing yang mewakili \nsecara resmi Pemerintah daerah negara asing tersebut dalam \nmelakukan tugasnya. \nYang dimaksud dengan “lembaga internasional” adalah \nlembaga dengan keanggotaan, cakupan pekerjaan, dan/atau \nkeberadaan yang bersifat internasional yang kegiatan \nutamanya bersifat nirlaba, seperti International Monetary \nFund dan Islamic Development Bank. \nHuruf f \nKegiatan investasi di Indonesia termasuk di dalamnya reksa \ndana saham, reksa dana obligasi, dan kombinasi keduanya. \nDeposito, tabungan, dan lainnya yang sejenis di luar giro \nmilik bukan Penduduk yang digunakan untuk kegiatan \ninvestasi tidak termasuk yang dikecualikan. \nHuruf g \nHasil penjualan kembali atau divestasi meliputi pokok dan \nimbal hasil. Deposito, tabungan, dan lainnya yang sejenis di \nluar giro milik bukan Penduduk yang digunakan untuk \nmenampung dana hasil penjualan kembali atau divestasi \ntidak termasuk yang dikecualikan. \nHuruf h \nPenggunaan giro milik bukan Penduduk nonpemegang \nsaham pengendali Bank dalam penyaluran kredit ke proyek \ninfrastruktur meliputi: \n1. \nuntuk menampung sementara dana sebelum disalurkan \noleh pemilik rekening giro tersebut kepada debitur di \nproyek infrastruktur; dan \n2. \nuntuk menerima pembayaran dari debitur di proyek \ninfrastruktur, \ntidak termasuk kredit yang diberikan secara two step loan. \nCakupan proyek infrastruktur mengacu pada ketentuan \notoritas terkait mengenai tata cara pelaksanaan kerja sama \nPemerintah dengan \nbadan \nusaha \ndalam \npenyediaan \ninfrastruktur. \n\n\n \nHuruf i \nYang dimaksud dengan “lembaga supranasional” adalah \nlembaga keuangan multilateral yang dibentuk oleh 2 (dua) \natau lebih negara dan dalam kegiatannya menyediakan \npembiayaan, hibah, dan/atau bantuan teknis untuk \nmendorong pembangunan ekonomi negara anggotanya. \nContoh \nlembaga \nsupranasional \nantara \nlain \nAsian \nDevelopment Bank, Islamic Development Bank, dan World \nBank Group yang terdiri atas International Bank for \nReconstruction and Development dan International Finance \nCorporation. \nCakupan proyek infrastruktur lihat penjelasan huruf h. \nHuruf j \nYang dimaksud dengan “Peraturan OJK” adalah Peraturan \nOJK mengenai kewajiban penyediaan modal minimum bank \numum dan Peraturan OJK mengenai kewajiban penyediaan \nmodal minimum bank umum syariah. \nGiro atau deposito dapat berada di Bank yang akan \nmenerima setoran modal atau Bank lain yang ditunjuk oleh \nOJK. \nHuruf k \nContoh: \nBank X yang berkantor pusat di Jakarta memiliki kantor \ncabang di Tokyo yang menerima giro bukan Penduduk dan \ndisalurkan kepada \nanak \nusaha perusahaan otomotif \nIndonesia di Tokyo yang merupakan bukan Penduduk. Giro \nbukan Penduduk tersebut tidak termasuk dalam cakupan \nperhitungan Kewajiban Jangka Pendek untuk RPLN. \nHuruf l \nCukup jelas. \nHuruf m \nCukup jelas. \nHuruf n \nCukup jelas. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \nContoh: \nBank X yang kantor pusatnya di Jakarta memiliki sekuritas \nvaluta asing Bank Indonesia. Bank X melakukan transaksi repo \ndengan Bank yang berkantor pusat dan beroperasi di Singapura \nuntuk kebutuhan likuiditas valuta asing. Kewajiban yang timbul \natas transaksi repo Bank X kepada Bank di Singapura tersebut \ntidak termasuk dalam cakupan perhitungan RPLN. \nHuruf b \nContoh: \nBank Y yang kantor pusatnya di Jakarta memiliki kantor cabang \ndi New York. Bank Y mempunyai sukuk valuta asing Bank \nIndonesia yang digunakan sebagai agunan untuk mendapatkan \npinjaman dari Bank asing di New York. Pinjaman tersebut tidak \ntermasuk dalam cakupan perhitungan RPLN.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \nContoh: \nBank X yang kantor pusatnya di Jakarta memiliki sekuritas \nvaluta asing Bank Indonesia. Bank X melakukan transaksi repo \ndengan Bank yang berkantor pusat dan beroperasi di Singapura \nuntuk kebutuhan likuiditas valuta asing. Kewajiban yang timbul \natas transaksi repo Bank X kepada Bank di Singapura tersebut \ntidak termasuk dalam cakupan perhitungan RPLN. \nHuruf b \nContoh: \nBank Y yang kantor pusatnya di Jakarta memiliki kantor cabang \ndi New York. Bank Y mempunyai sukuk valuta asing Bank \nIndonesia yang digunakan sebagai agunan untuk mendapatkan \npinjaman dari Bank asing di New York. Pinjaman tersebut tidak \ntermasuk dalam cakupan perhitungan RPLN."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nSiklus keuangan tecermin dari kondisi siklus keuangan \nIndonesia dan kondisi lainnya yang relevan. \nHuruf b \nFaktor eksternal tecermin dari indikator terkait yang meliputi \nsuku bunga global, yield global, nilai tukar, inflasi global, \ndan indikator lainnya yang relevan. \nHuruf c \nRisiko stabilitas sistem keuangan tecermin dari indikator \nterkait yang meliputi produk domestik bruto, inflasi, output \ngap, pembiayaan dalam arti luas, credit to gross-domestic-\nproduct gap, funding gap, suku bunga perbankan domestik \nantara lain suku bunga dana pihak ketiga dan suku bunga \nkredit, dan indikator lainnya yang relevan. \nHuruf d \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nContoh: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \npositif 5% (lima persen) sebagai penambah dari kewajiban \nbatasan RPLN yang saat ini sebesar 30% (tiga puluh persen). \nDengan \nadanya \nparameter \nkontrasiklikal tersebut \nmaka \nkewajiban batasan RPLN menjadi 35% (tiga puluh lima persen). \nBank Indonesia menetapkan tanggal mulai berlakunya parameter \nkontrasiklikal sejak Peraturan Anggota Dewan Gubernur yang \nmengatur hal tersebut diterbitkan. \nAyat (5) \nContoh: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \nnegatif 5% (lima persen) sebagai pengurang dari kewajiban \nbatasan RPLN yang saat ini sebesar 30% (tiga puluh persen). \nDengan \nadanya \nparameter \nkontrasiklikal tersebut \nmaka \nkewajiban batasan RPLN menjadi 25% (dua puluh lima persen). \nBank Indonesia menetapkan tanggal mulai berlakunya parameter \nkontrasiklikal paling lambat 6 (enam) bulan sejak Peraturan \nAnggota \nDewan \nGubernur \nyang \nmengatur \nhal \ntersebut \nditerbitkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nSiklus keuangan tecermin dari kondisi siklus keuangan \nIndonesia dan kondisi lainnya yang relevan. \nHuruf b \nFaktor eksternal tecermin dari indikator terkait yang meliputi \nsuku bunga global, yield global, nilai tukar, inflasi global, \ndan indikator lainnya yang relevan. \nHuruf c \nRisiko stabilitas sistem keuangan tecermin dari indikator \nterkait yang meliputi produk domestik bruto, inflasi, output \ngap, pembiayaan dalam arti luas, credit to gross-domestic-\nproduct gap, funding gap, suku bunga perbankan domestik \nantara lain suku bunga dana pihak ketiga dan suku bunga \nkredit, dan indikator lainnya yang relevan. \nHuruf d \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nContoh: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \npositif 5% (lima persen) sebagai penambah dari kewajiban \nbatasan RPLN yang saat ini sebesar 30% (tiga puluh persen). \nDengan \nadanya \nparameter \nkontrasiklikal tersebut \nmaka \nkewajiban batasan RPLN menjadi 35% (tiga puluh lima persen). \nBank Indonesia menetapkan tanggal mulai berlakunya parameter \nkontrasiklikal sejak Peraturan Anggota Dewan Gubernur yang \nmengatur hal tersebut diterbitkan. \nAyat (5) \nContoh: \nBank Indonesia menetapkan parameter kontrasiklikal sebesar \nnegatif 5% (lima persen) sebagai pengurang dari kewajiban \nbatasan RPLN yang saat ini sebesar 30% (tiga puluh persen). \nDengan \nadanya \nparameter \nkontrasiklikal tersebut \nmaka \nkewajiban batasan RPLN menjadi 25% (dua puluh lima persen). \nBank Indonesia menetapkan tanggal mulai berlakunya parameter \nkontrasiklikal paling lambat 6 (enam) bulan sejak Peraturan \nAnggota \nDewan \nGubernur \nyang \nmengatur \nhal \ntersebut \nditerbitkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPengecualian terhadap kewajiban Bank untuk memenuhi batasan \nRPLN dilakukan untuk mengatasi permasalahan Bank yang \nmendesak antara lain untuk penyehatan Bank. \nYang dimaksud dengan “otoritas terkait” adalah OJK dan/atau \nLembaga Penjamin Simpanan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “hari kerja” adalah setiap hari selain hari \nSabtu, Minggu, hari libur nasional, cuti bersama, dan hari kerja \noperasional terbatas Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPengecualian terhadap kewajiban Bank untuk memenuhi batasan \nRPLN dilakukan untuk mengatasi permasalahan Bank yang \nmendesak antara lain untuk penyehatan Bank. \nYang dimaksud dengan “otoritas terkait” adalah OJK dan/atau \nLembaga Penjamin Simpanan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “hari kerja” adalah setiap hari selain hari \nSabtu, Minggu, hari libur nasional, cuti bersama, dan hari kerja \noperasional terbatas Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (4) \nHuruf a \nPenyesuaian batasan RPLN dilakukan dengan menetapkan \nbatasan RPLN \nyang \nlebih ketat \nuntuk \nBank \nyang \nbersangkutan. \nHuruf b \nKegiatan pengawasan lainnya yang diperlukan antara lain \nberupa penyusunan rencana tindak (action plan) terkait \npemenuhan kewajiban RPLN. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (4) \nHuruf a \nPenyesuaian batasan RPLN dilakukan dengan menetapkan \nbatasan RPLN \nyang \nlebih ketat \nuntuk \nBank \nyang \nbersangkutan. \nHuruf b \nKegiatan pengawasan lainnya yang diperlukan antara lain \nberupa penyusunan rencana tindak (action plan) terkait \npemenuhan kewajiban RPLN. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \n \n \n\n\n \nHuruf c \nSistem informasi Bank Indonesia mengenai posisi devisa neto \ndidasarkan pada laporan Bank mengenai posisi devisa neto \nyang dilaporkan dalam LBUT. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \n \n \n\n\n \nHuruf c \nSistem informasi Bank Indonesia mengenai posisi devisa neto \ndidasarkan pada laporan Bank mengenai posisi devisa neto \nyang dilaporkan dalam LBUT. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nJenis \npelanggaran \nyang \ndisebutkan \ndalam \nsurat \npemberitahuan sanksi antara lain berupa RPLN Bank \nmelebihi dari batasan yang ditetapkan oleh Bank Indonesia. \nHuruf b \nTanggal pelanggaran untuk pelanggaran berupa RPLN Bank \nmelebihi dari batasan yang ditetapkan oleh Bank Indonesia \nyaitu tanggal terjadinya pelampauan batasan RPLN Bank. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nJenis \npelanggaran \nyang \ndisebutkan \ndalam \nsurat \npemberitahuan sanksi antara lain berupa RPLN Bank \nmelebihi dari batasan yang ditetapkan oleh Bank Indonesia. \nHuruf b \nTanggal pelanggaran untuk pelanggaran berupa RPLN Bank \nmelebihi dari batasan yang ditetapkan oleh Bank Indonesia \nyaitu tanggal terjadinya pelampauan batasan RPLN Bank. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \n\n\nLAMPIRAN I  \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nFORMULIR LAPORAN REALISASI MASUK PASAR \n \nKepada Yth. \nDepartemen Surveilans Makroprudensial, Moneter, dan Market \nBank Indonesia \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350 \n \nPerihal: Laporan Realisasi Masuk Pasar \n \nMenunjuk persetujuan rencana masuk pasar Bank Indonesia melalui \nSurat Nomor ………. Tanggal ………. Perihal ……………….., dengan ini \ndisampaikan bahwa kami telah merealisasikan rencana masuk pasar pada \ntanggal ………..[Dalam hal syarat dan ketentuan (terms and condition) \nsebagaimana diatur dalam ketentuan mengenai Utang Luar Negeri Bank dan \nKewajiban Bank Lainnya dalam Valuta Asing dan ketentuan mengenai Rasio \nPendanaan Luar Negeri Bank, yang tercantum dalam persetujuan rencana \nmasuk pasar yang diberikan oleh Bank Indonesia berbeda dengan realisasi \nmasuk pasar, Bank wajib mengemukakan perbedaan serta penyebab perbedaan \ntersebut.] \nDemikian agar maklum. \n \n[Kota, Tanggal/Bulan/Tahun] \n[Nama Bank] \n \n \n \n \n(Tanda Tangan dan Cap) \n[Nama Jelas Pejabat yang Berwenang] \n \n \nTembusan: \nOtoritas Jasa Keuangan, Departemen Pengawasan Bank 1/2/3/Syariah \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \n \n \nTTD \n \n \n \n \n \nJUDA AGUNG \n\n\nLAMPIRAN II \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nCONTOH PERHITUNGAN RASIO PENDANAAN LUAR NEGERI BANK \n \nContoh 1 \n1. Bank Indonesia menetapkan parameter kontrasiklikal sebesar 0% (nol \npersen), sehingga batasan RPLN sebesar 30% + 0% = 30% yang berlaku pada \nsaat ditetapkan yaitu tanggal 1 September 2024. \n2. Bank A yang merupakan Bank yang berkantor pusat di Indonesia memiliki \nkomposisi Kewajiban Jangka Pendek sebagai berikut: \na. giro milik bukan Penduduk yang digunakan untuk penyaluran kredit ke \nproyek infrastruktur, sebesar ekuivalen Rp350.000.000.000,00 (tiga \nratus lima puluh miliar rupiah); \nb. deposito berjangka waktu 1 (satu) tahun milik Mr. John yang merupakan \nPenduduk Australia, sebesar ekuivalen Rp2.000.000.000,00 (dua miliar \nrupiah); \nc. giro milik capital insurance (bukan Penduduk) yang digunakan untuk \ninvestasi di SBN, sebesar ekuivalen Rp450.000.000.000,00 (empat ratus \nlima puluh miliar rupiah); \nd. surat utang yang dimiliki oleh investor bukan Penduduk di Indonesia \nsenilai Rp80.000.000.000,00 (delapan puluh miliar rupiah); dan \ne. TPR \njangka \npendek \nterhadap \nkredit \nsebesar \nekuivalen \nRp120.000.000.000,00 (seratus dua puluh miliar rupiah). \n3. Posisi modal Bank A sebesar Rp16.000.000.000.000,00 (enam belas triliun \nrupiah). \n4. Kewajiban Jangka Pendek yang diperhitungkan dalam pembatasan RPLN \nadalah kewajiban sebagaimana dimaksud dalam angka 2 huruf b, huruf d, \ndan \nhuruf \ne \nyaitu \nsebesar \nekuivalen \nRp2.000.000.000,00 \n+ \nRp80.000.000.000,00 + Rp120.000.000.000,00 = Rp202.000.000.000,00. \n5. RPLN Bank = (\nRp202.000.000.000,00\nRp16.000.000.000.000,00) X 100% = 1,26% \n6. RPLN Bank sebesar 1,26% (satu koma dua enam persen) tidak melampaui \nbatasan RPLN 30% (tiga puluh persen). \n \nContoh 2 \n1. Bank Indonesia menetapkan parameter kontrasiklikal sebagai faktor \npengurang sebesar 5% (lima persen), sehingga batasan RPLN sebesar 30% - \n5% = 25% yang berlaku mulai tanggal 1 April 2025 (6 bulan sejak \nditetapkan). \n2. Bank B yang merupakan kantor cabang dari Bank yang berkedudukan di \nluar negeri memiliki komposisi Kewajiban Jangka Pendek sebagai berikut: \na. giro milik bukan Penduduk yang digunakan untuk penyaluran kredit ke \nsektor keuangan, sebesar ekuivalen Rp300.000.000.000,00 (tiga ratus \nmiliar rupiah); \nb. giro milik bukan Penduduk yang dimiliki anggota staf perwakilan negara \nasing, sebesar ekuivalen Rp100.000.000.000,00 (seratus miliar rupiah); \nc. pinjaman dari Bank X di luar negeri dengan jangka waktu 6 (enam) \nbulan, outstanding sebesar ekuivalen Rp500.000.000.000,00 (lima ratus \nmiliar rupiah); dan \n\n\n \nd. pinjaman dari Bank Y yang merupakan pemegang saham pengendali di \nluar negeri dengan jangka waktu 9 (sembilan) bulan, untuk penyaluran \nkredit ke sektor jasa perhotelan, dengan outstanding sebesar ekuivalen \nRp200.000.000.000,00 (dua ratus miliar rupiah). \n3. Posisi modal Bank B sebesar Rp25.000.000.000.000,00 (dua puluh lima \ntriliun rupiah). Adapun dana usaha yang dinyatakan (declared dana usaha) \nBank B sebesar Rp20.600.000.000.000,00 (dua puluh triliun enam ratus \nmiliar \nrupiah) \nsementara \nposisi \ndana \nusahanya \nsebesar \nRp21.000.000.000.000,00 (dua puluh satu triliun rupiah). \n4. Kewajiban Jangka Pendek yang diperhitungkan dalam pembatasan RPLN \nadalah: \na. kewajiban sebagaimana dimaksud dalam angka 2 huruf a dan huruf c \ndengan \ntotal \nsebesar \nekuivalen \nRp300.000.000.000,00 \n+ \nRp500.000.000.000,00 = Rp800.000.000.000,00; dan \nb. kelebihan posisi dana usaha di atas dana usaha yang dinyatakan \n(declared dana usaha), yaitu sebesar Rp21.000.000.000.000,00 \n- \nRp20,600.000.000.000,00 = Rp400.000.000.000,00, \nsehingga total Kewajiban Jangka Pendek yang diperhitungkan dalam \npembatasan \nRPLN \nadalah \nsebesar \nRp800.000.000.000,00 \n+ \nRp400.000.000.000,00 = Rp1.200.000.000.000,00. \n5. RPLN Bank \n= \n(\nRp1.200.000.000.000,00\nRp25.000.000.000.000,00) X 100% = 4,80% \n6. RPLN Bank sebesar 4,80% (empat koma delapan nol persen), tidak \nmelampaui batasan RPLN 25% (dua puluh lima persen). \n \nContoh 3 \n1. Bank Indonesia menetapkan parameter kontrasiklikal sebagai faktor \npenambah sebesar 5% (lima persen), sehingga batasan RPLN sebesar 30% + \n5% = 35% yang mulai berlaku pada tanggal ditetapkan tanggal 1 Desember \n2024. \n2. Bank C yang merupakan Bank yang berkantor pusat di Indonesia memiliki \nkomposisi Kewajiban Jangka Pendek sebagai berikut: \na. surat utang yang dimiliki oleh investor bukan Penduduk di Indonesia \nsenilai Rp1.500.000.000.000,00 (satu triliun lima ratus miliar rupiah); \nb. giro milik Perusahaan X yang merupakan bukan Penduduk yang \ndigunakan \nuntuk \npenyaluran kredit Perusahaan X \nke \nproyek \ninfrastruktur, sebesar ekuivalen Rp2.000.000.000,00 (dua miliar rupiah); \nc. transaksi repo SUVBI sebesar Rp300.000.000.000,00 (tiga ratus miliar \nrupiah); \nd. TPR \njangka \npendek \nterhadap \nkredit \nsebesar \nekuivalen \nRp1.000.000.000.000,00 (satu triliun rupiah); \ne. pinjaman dari Bank Y di luar negeri dengan jangka waktu 1 (satu) tahun, \noutstanding sebesar ekuivalen Rp1.000.000.000.000,00 (satu triliun \nrupiah). \n3. Posisi Modal Bank C sebesar Rp15.000.000.000.000,00 (lima belas triliun \nrupiah). \n4. Kewajiban Jangka Pendek yang diperhitungkan dalam pembatasan RPLN \nadalah kewajiban sebagaimana dimaksud dalam angka 2 huruf a, huruf d, \ndan huruf e dengan total sebesar ekuivalen Rp1.500.000.000.000,00 + \nRp1.000.000.000.000,00 \n+ \nRp1.000.000.000.000,00 \n= \nRp3.500.000.000.000,00. \n5. RPLN Bank \n= \n(\nRp3.500.000.000.000,00\nRp15.000.000.000.000,00) X 100% = 23,33% \n6. RPLN Bank sebesar 23,33% (dua puluh tiga koma tiga tiga persen), tidak \nmelampaui batasan RPLN 35% (tiga puluh lima persen). \n\n\n \n7. Pada tahun 2025, kinerja perkreditan bank C memburuk sehingga NPL \nsecara bruto Bank C yang semula di bawah 5% (lima persen) meningkat \nmenjadi di atas 5% (lima persen) mulai Juni 2025 dengan tren meningkat. \nBerdasarkan kondisi dimaksud, sebagai tindak lanjut dari penerapan prinsip \nkehati-hatian untuk pengelolaan Kewajiban Jangka Pendek, Bank Indonesia \nmenyesuaikan batasan RPLN bagi Bank C dari sebesar 35% (tiga puluh lima \npersen) menjadi sebesar 30% (tiga puluh persen) dengan masa transisi 6 \n(enam) bulan, sementara untuk Bank lainnya tetap sebesar 35% (tiga puluh \nlima persen). \n8. Sehubungan angka 6, Bank C kemudian wajib mematuhi batasan RPLN \nsebesar 30% (tiga puluh persen) setelah masa transisi berakhir. \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \nTTD \n \n \n \nJUDA AGUNG \n \n\n\nLAMPIRAN III \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nCONTOH SURAT PERMOHONAN PENGECUALIAN PEMBATASAN SALDO \nHARIAN KEWAJIBAN JANGKA PENDEK BANK \n \nKepada Yth. \nDepartemen Surveilans Makroprudensial, Moneter, dan Market \nBank Indonesia \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350 \n \nPerihal: Permohonan Pengecualian Pembatasan Saldo Harian Kewajiban Jangka \nPendek Bank \n \nSehubungan dengan Peraturan Bank Indonesia Nomor ….. Tahun 2024 \ntentang Rasio Pendanaan Luar Negeri Bank berikut peraturan pelaksanaannya, \nbersama ini kami mengajukan permohonan pengecualian pembatasan saldo \nharian Kewajiban Jangka Pendek Bank dengan penjelasan sebagai berikut: \n1. [alasan pengajuan permohonan]; \n2. [periode waktu pengecualian yang dimohonkan]; dan \n3. [otoritas yang memberikan rekomendasi] (dilengkapi surat rekomendasi \ndan/atau informasi dari otoritas terkait). \nDemikian agar maklum. \n \n \n[Kota, Tanggal/Bulan/Tahun] \n \n[Nama Bank] \n \n \n \n \n \n(Tanda Tangan dan Cap) \n \n \n \n \n \n[Nama Jelas Pejabat yang Berwenang] \n \n \n \n \n \n \nTembusan: \n• Otoritas Jasa Keuangan, Departemen Pengawasan Bank 1/2/3/Syariah \n• Otoritas terkait lainnya (jika diperlukan) \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \nTTD \n \n \n \n \nJUDA AGUNG \n\n\nLAMPIRAN IV \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nRINCIAN JENIS UTANG LUAR NEGERI DAN KEWAJIBAN BANK LAINNYA \nDALAM VALUTA ASING JANGKA PENDEK SERTA RINCIAN SUMBER DATA \nKREDIT ATAU PEMBIAYAAN \n \nA. \nRincian Sumber Data Jenis ULN dan Kewajiban Bank Lainnya dalam \nValuta Asing Jangka Pendek untuk Perhitungan RPLN \n1. Data Total Utang Luar Negeri dan Kewajiban Bank Lainnya dalam Valuta \nAsing \nSumber data total utang luar negeri dan kewajiban bank lainnya dalam \nvaluta asing berasal dari LBUT menggunakan nilai dalam dimensi \nNominal dari Informasi Utang Luar Negeri dan Kewajiban Bank Lainnya \ndalam Valuta Asing Jangka Pendek dengan filter: \nJenis Utang Luar Negeri dan Kewajiban \nBank Lainnya dalam Valas Jangka \nPendek \nSandi \nUtang Luar Negeri dan Kewajiban dalam \nValas \nsandi 01 s.d. 27 \nKeterangan: \na. \nTata cara pelaporan dan pengisiannya mengacu pada ketentuan \nBank Indonesia mengenai laporan keuangan terintegrasi (LBUT) \npada informasi utang luar negeri dan kewajiban Bank lainnya \ndalam valuta asing jangka pendek di kelompok informasi risiko. \nb. \nPengisian ULN dan Kewajiban Bank Lainnya dalam Valuta Asing \ndi atas bersifat net (telah mengeluarkan hal-hal yang tidak \ntermasuk dalam Kewajiban Jangka Pendek). \n2. Data Modal \nSumber data modal berasal dari LBUT menggunakan nilai yang \ndilaporkan dalam dimensi Modal dari Informasi Utang Luar Negeri dan \nKewajiban Bank Lainnya dalam Valuta Asing Jangka Pendek. \n \n \nB. \nRincian Sumber Data untuk Total Kredit dan Kredit Bermasalah BUK \nuntuk Perhitungan Rasio Kredit Bermasalah secara Bruto \n1. \nData Total Kredit BUK \nSumber data total kredit berasal dari LBUT menggunakan nilai dalam \nJumlah (jumlah bulan laporan) dari Kelompok Informasi Keuangan \nBulanan – Kredit/Pembiayaan dengan filter: \nGolongan Pihak Lawan \nSandi \nPihak Ketiga Bukan Bank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L, dan \nS222B22L)) \nDalam hal Bank memiliki UUS maka data total kredit meliputi total \npembiayaan dari UUS dengan rincian sebagai berikut: \na. \nSumber data total pembiayaan berasal dari LBUT pada Kelompok \nInformasi Keuangan Bulanan – Kredit/Pembiayaan dengan filter: \n\n\n \nGolongan Pihak \nLawan \nSandi \nPihak Ketiga Bukan \nBank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nb. \nSumber data total pembiayaan menggunakan nilai: \nJenis Akad \nSandi \nDimensi \n1) Mudharabah  \nJumlah \n2) Mudharabah Muqayyadah \n3) Musyarakah \n4) Musyarakah Mutanaqisah \n5) Ijarah \nHarga perolehan aset – \n(akumulasi \npenyusutan/amortisasi - \ncadangan penurunan nilai \naset ijarah) + tunggakan \npokok \n6) Ijarah Muntahiya Bittamlik \n7) Multijasa – Pendidikan \nSaldo harga pokok \n8) Multijasa – Ibadah \n9) Multijasa – Kesehatan \n10) Multijasa – Pernikahan \n11) Multijasa – Lainnya \n12) Piutang Murabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n15) Pembiayaan Bagi Hasil \nLainnya \n2. \nData Kredit Bermasalah BUK \nSumber data kredit bermasalah berasal dari LBUT menggunakan nilai \ndalam Jumlah (jumlah bulan laporan) dari Kelompok Informasi \nKeuangan Bulanan – Kredit/Pembiayaan dengan kualitas kurang \nlancar, diragukan, dan macet dengan filter: \nGolongan \nPihak Lawan \nSandi \nKualitas Kredit \nPihak Ketiga \nBukan Bank \nselain sandi S121, S122, dan S222L \n(S221L, S222AL, S222B1L (S222B11L \ndan \nS222B12L), \ndan \nS222B2L \n(S222B21L dan S222B22L)) \nKurang Lancar, \nDiragukan, dan \nMacet \nDalam hal Bank memiliki UUS maka data kredit bermasalah meliputi \npembiayaan bermasalah dari UUS dengan rincian sebagai berikut: \na. \nSumber data pembiayaan bermasalah berasal dari LBUT dengan \nfilter: \nGolongan Pihak \nLawan \nSandi \nPihak Ketiga Bukan \nBank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nb. \nSumber data pembiayaan bermasalah menggunakan nilai: \nJenis Akad \nSandi \nDimensi \nKualitas \nPembiayaan \n1) Mudharabah  \nJumlah \nKurang Lancar, \nDiragukan, dan \nMacet \n2) Mudharabah \nMuqayyadah \n3) Musyarakah \n4) Musyarakah \n\n\n \nJenis Akad \nSandi \nDimensi \nKualitas \nPembiayaan \nMutanaqisah \n5) Ijarah \nHarga perolehan \naset – (akumulasi \npenyusutan/amo\nrtisasi - \ncadangan \npenurunan nilai \naset ijarah) + \ntunggakan pokok \n6) Ijarah Muntahiya \nBittamlik \n7) Multijasa – \nPendidikan \nSaldo harga \npokok \n8) Multijasa – \nIbadah \n9) Multijasa – \nKesehatan \n10) Multijasa – \nPernikahan \n11) Multijasa – \nLainnya \n12) Piutang \nMurabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n15) Pembiayaan Bagi \nHasil Lainnya \n \nC. \nRincian Sumber Data untuk Total Pembiayaan dan Pembiayaan \nBermasalah BUS untuk Perhitungan Rasio Pembiayaan Bermasalah \nsecara Bruto \n1. \nData Total Pembiayaan BUS \nSumber data total pembiayaan berasal dari LBUT dengan filter: \nGolongan Pihak Lawan \nSandi \nPihak Ketiga Bukan Bank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nSumber data total pembiayaan menggunakan nilai: \nJenis Akad \nSandi \nDimensi \n1) Mudharabah  \nJumlah \n2) Mudharabah Muqayyadah \n3) Musyarakah \n4) Musyarakah Mutanaqisah \n5) Ijarah \nHarga perolehan aset – \n(akumulasi \npenyusutan/amortisasi - \ncadangan penurunan nilai \naset ijarah) + tunggakan \npokok \n6) Ijarah Muntahiya Bittamlik \n7) Multijasa – Pendidikan \nSaldo harga pokok \n8) Multijasa – Ibadah \n9) Multijasa – Kesehatan \n10) Multijasa – Pernikahan \n11) Multijasa – Lainnya \n12) Piutang Murabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n\n\n \nJenis Akad \nSandi \nDimensi \n15) Pembiayaan Bagi Hasil Lainnya \n2. \nData Pembiayaan Bermasalah BUS \nSumber data pembiayaan bermasalah berasal dari LBUT dengan filter: \nGolongan Pihak Lawan \nSandi \nPihak Ketiga Bukan Bank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nSumber data pembiayaan bermasalah menggunakan nilai: \nJenis Akad \nSandi \nDimensi \nKualitas \nPembiayaan \n1) Mudharabah  \nJumlah \nKurang Lancar, \nDiragukan, dan \nMacet \n2) Mudharabah \nMuqayyadah \n3) Musyarakah \n4) Musyarakah \nMutanaqisah \n5) Ijarah \nHarga perolehan aset \n– (akumulasi \npenyusutan/amortis\nasi - cadangan \npenurunan nilai aset \nijarah) + tunggakan \npokok \n6) Ijarah Muntahiya \nBittamlik \n7) Multijasa – \nPendidikan \nSaldo harga pokok \n8) Multijasa – Ibadah \n9) Multijasa – \nKesehatan \n10) Multijasa – \nPernikahan \n11) Multijasa – Lainnya \n12) Piutang Murabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n15) Pembiayaan Bagi \nHasil Lainnya \n \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \nTTD \n \n \n \nJUDA AGUNG",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \n\n\nLAMPIRAN I  \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nFORMULIR LAPORAN REALISASI MASUK PASAR \n \nKepada Yth. \nDepartemen Surveilans Makroprudensial, Moneter, dan Market \nBank Indonesia \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350 \n \nPerihal: Laporan Realisasi Masuk Pasar \n \nMenunjuk persetujuan rencana masuk pasar Bank Indonesia melalui \nSurat Nomor ………. Tanggal ………. Perihal ……………….., dengan ini \ndisampaikan bahwa kami telah merealisasikan rencana masuk pasar pada \ntanggal ………..[Dalam hal syarat dan ketentuan (terms and condition) \nsebagaimana diatur dalam ketentuan mengenai Utang Luar Negeri Bank dan \nKewajiban Bank Lainnya dalam Valuta Asing dan ketentuan mengenai Rasio \nPendanaan Luar Negeri Bank, yang tercantum dalam persetujuan rencana \nmasuk pasar yang diberikan oleh Bank Indonesia berbeda dengan realisasi \nmasuk pasar, Bank wajib mengemukakan perbedaan serta penyebab perbedaan \ntersebut.] \nDemikian agar maklum. \n \n[Kota, Tanggal/Bulan/Tahun] \n[Nama Bank] \n \n \n \n \n(Tanda Tangan dan Cap) \n[Nama Jelas Pejabat yang Berwenang] \n \n \nTembusan: \nOtoritas Jasa Keuangan, Departemen Pengawasan Bank 1/2/3/Syariah \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \n \n \nTTD \n \n \n \n \n \nJUDA AGUNG \n\n\nLAMPIRAN II \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nCONTOH PERHITUNGAN RASIO PENDANAAN LUAR NEGERI BANK \n \nContoh 1 \n1. Bank Indonesia menetapkan parameter kontrasiklikal sebesar 0% (nol \npersen), sehingga batasan RPLN sebesar 30% + 0% = 30% yang berlaku pada \nsaat ditetapkan yaitu tanggal 1 September 2024. \n2. Bank A yang merupakan Bank yang berkantor pusat di Indonesia memiliki \nkomposisi Kewajiban Jangka Pendek sebagai berikut: \na. giro milik bukan Penduduk yang digunakan untuk penyaluran kredit ke \nproyek infrastruktur, sebesar ekuivalen Rp350.000.000.000,00 (tiga \nratus lima puluh miliar rupiah); \nb. deposito berjangka waktu 1 (satu) tahun milik Mr. John yang merupakan \nPenduduk Australia, sebesar ekuivalen Rp2.000.000.000,00 (dua miliar \nrupiah); \nc. giro milik capital insurance (bukan Penduduk) yang digunakan untuk \ninvestasi di SBN, sebesar ekuivalen Rp450.000.000.000,00 (empat ratus \nlima puluh miliar rupiah); \nd. surat utang yang dimiliki oleh investor bukan Penduduk di Indonesia \nsenilai Rp80.000.000.000,00 (delapan puluh miliar rupiah); dan \ne. TPR \njangka \npendek \nterhadap \nkredit \nsebesar \nekuivalen \nRp120.000.000.000,00 (seratus dua puluh miliar rupiah). \n3. Posisi modal Bank A sebesar Rp16.000.000.000.000,00 (enam belas triliun \nrupiah). \n4. Kewajiban Jangka Pendek yang diperhitungkan dalam pembatasan RPLN \nadalah kewajiban sebagaimana dimaksud dalam angka 2 huruf b, huruf d, \ndan \nhuruf \ne \nyaitu \nsebesar \nekuivalen \nRp2.000.000.000,00 \n+ \nRp80.000.000.000,00 + Rp120.000.000.000,00 = Rp202.000.000.000,00. \n5. RPLN Bank = (\nRp202.000.000.000,00\nRp16.000.000.000.000,00) X 100% = 1,26% \n6. RPLN Bank sebesar 1,26% (satu koma dua enam persen) tidak melampaui \nbatasan RPLN 30% (tiga puluh persen). \n \nContoh 2 \n1. Bank Indonesia menetapkan parameter kontrasiklikal sebagai faktor \npengurang sebesar 5% (lima persen), sehingga batasan RPLN sebesar 30% - \n5% = 25% yang berlaku mulai tanggal 1 April 2025 (6 bulan sejak \nditetapkan). \n2. Bank B yang merupakan kantor cabang dari Bank yang berkedudukan di \nluar negeri memiliki komposisi Kewajiban Jangka Pendek sebagai berikut: \na. giro milik bukan Penduduk yang digunakan untuk penyaluran kredit ke \nsektor keuangan, sebesar ekuivalen Rp300.000.000.000,00 (tiga ratus \nmiliar rupiah); \nb. giro milik bukan Penduduk yang dimiliki anggota staf perwakilan negara \nasing, sebesar ekuivalen Rp100.000.000.000,00 (seratus miliar rupiah); \nc. pinjaman dari Bank X di luar negeri dengan jangka waktu 6 (enam) \nbulan, outstanding sebesar ekuivalen Rp500.000.000.000,00 (lima ratus \nmiliar rupiah); dan \n\n\n \nd. pinjaman dari Bank Y yang merupakan pemegang saham pengendali di \nluar negeri dengan jangka waktu 9 (sembilan) bulan, untuk penyaluran \nkredit ke sektor jasa perhotelan, dengan outstanding sebesar ekuivalen \nRp200.000.000.000,00 (dua ratus miliar rupiah). \n3. Posisi modal Bank B sebesar Rp25.000.000.000.000,00 (dua puluh lima \ntriliun rupiah). Adapun dana usaha yang dinyatakan (declared dana usaha) \nBank B sebesar Rp20.600.000.000.000,00 (dua puluh triliun enam ratus \nmiliar \nrupiah) \nsementara \nposisi \ndana \nusahanya \nsebesar \nRp21.000.000.000.000,00 (dua puluh satu triliun rupiah). \n4. Kewajiban Jangka Pendek yang diperhitungkan dalam pembatasan RPLN \nadalah: \na. kewajiban sebagaimana dimaksud dalam angka 2 huruf a dan huruf c \ndengan \ntotal \nsebesar \nekuivalen \nRp300.000.000.000,00 \n+ \nRp500.000.000.000,00 = Rp800.000.000.000,00; dan \nb. kelebihan posisi dana usaha di atas dana usaha yang dinyatakan \n(declared dana usaha), yaitu sebesar Rp21.000.000.000.000,00 \n- \nRp20,600.000.000.000,00 = Rp400.000.000.000,00, \nsehingga total Kewajiban Jangka Pendek yang diperhitungkan dalam \npembatasan \nRPLN \nadalah \nsebesar \nRp800.000.000.000,00 \n+ \nRp400.000.000.000,00 = Rp1.200.000.000.000,00. \n5. RPLN Bank \n= \n(\nRp1.200.000.000.000,00\nRp25.000.000.000.000,00) X 100% = 4,80% \n6. RPLN Bank sebesar 4,80% (empat koma delapan nol persen), tidak \nmelampaui batasan RPLN 25% (dua puluh lima persen). \n \nContoh 3 \n1. Bank Indonesia menetapkan parameter kontrasiklikal sebagai faktor \npenambah sebesar 5% (lima persen), sehingga batasan RPLN sebesar 30% + \n5% = 35% yang mulai berlaku pada tanggal ditetapkan tanggal 1 Desember \n2024. \n2. Bank C yang merupakan Bank yang berkantor pusat di Indonesia memiliki \nkomposisi Kewajiban Jangka Pendek sebagai berikut: \na. surat utang yang dimiliki oleh investor bukan Penduduk di Indonesia \nsenilai Rp1.500.000.000.000,00 (satu triliun lima ratus miliar rupiah); \nb. giro milik Perusahaan X yang merupakan bukan Penduduk yang \ndigunakan \nuntuk \npenyaluran kredit Perusahaan X \nke \nproyek \ninfrastruktur, sebesar ekuivalen Rp2.000.000.000,00 (dua miliar rupiah); \nc. transaksi repo SUVBI sebesar Rp300.000.000.000,00 (tiga ratus miliar \nrupiah); \nd. TPR \njangka \npendek \nterhadap \nkredit \nsebesar \nekuivalen \nRp1.000.000.000.000,00 (satu triliun rupiah); \ne. pinjaman dari Bank Y di luar negeri dengan jangka waktu 1 (satu) tahun, \noutstanding sebesar ekuivalen Rp1.000.000.000.000,00 (satu triliun \nrupiah). \n3. Posisi Modal Bank C sebesar Rp15.000.000.000.000,00 (lima belas triliun \nrupiah). \n4. Kewajiban Jangka Pendek yang diperhitungkan dalam pembatasan RPLN \nadalah kewajiban sebagaimana dimaksud dalam angka 2 huruf a, huruf d, \ndan huruf e dengan total sebesar ekuivalen Rp1.500.000.000.000,00 + \nRp1.000.000.000.000,00 \n+ \nRp1.000.000.000.000,00 \n= \nRp3.500.000.000.000,00. \n5. RPLN Bank \n= \n(\nRp3.500.000.000.000,00\nRp15.000.000.000.000,00) X 100% = 23,33% \n6. RPLN Bank sebesar 23,33% (dua puluh tiga koma tiga tiga persen), tidak \nmelampaui batasan RPLN 35% (tiga puluh lima persen). \n\n\n \n7. Pada tahun 2025, kinerja perkreditan bank C memburuk sehingga NPL \nsecara bruto Bank C yang semula di bawah 5% (lima persen) meningkat \nmenjadi di atas 5% (lima persen) mulai Juni 2025 dengan tren meningkat. \nBerdasarkan kondisi dimaksud, sebagai tindak lanjut dari penerapan prinsip \nkehati-hatian untuk pengelolaan Kewajiban Jangka Pendek, Bank Indonesia \nmenyesuaikan batasan RPLN bagi Bank C dari sebesar 35% (tiga puluh lima \npersen) menjadi sebesar 30% (tiga puluh persen) dengan masa transisi 6 \n(enam) bulan, sementara untuk Bank lainnya tetap sebesar 35% (tiga puluh \nlima persen). \n8. Sehubungan angka 6, Bank C kemudian wajib mematuhi batasan RPLN \nsebesar 30% (tiga puluh persen) setelah masa transisi berakhir. \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \nTTD \n \n \n \nJUDA AGUNG \n \n\n\nLAMPIRAN III \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nCONTOH SURAT PERMOHONAN PENGECUALIAN PEMBATASAN SALDO \nHARIAN KEWAJIBAN JANGKA PENDEK BANK \n \nKepada Yth. \nDepartemen Surveilans Makroprudensial, Moneter, dan Market \nBank Indonesia \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350 \n \nPerihal: Permohonan Pengecualian Pembatasan Saldo Harian Kewajiban Jangka \nPendek Bank \n \nSehubungan dengan Peraturan Bank Indonesia Nomor ….. Tahun 2024 \ntentang Rasio Pendanaan Luar Negeri Bank berikut peraturan pelaksanaannya, \nbersama ini kami mengajukan permohonan pengecualian pembatasan saldo \nharian Kewajiban Jangka Pendek Bank dengan penjelasan sebagai berikut: \n1. [alasan pengajuan permohonan]; \n2. [periode waktu pengecualian yang dimohonkan]; dan \n3. [otoritas yang memberikan rekomendasi] (dilengkapi surat rekomendasi \ndan/atau informasi dari otoritas terkait). \nDemikian agar maklum. \n \n \n[Kota, Tanggal/Bulan/Tahun] \n \n[Nama Bank] \n \n \n \n \n \n(Tanda Tangan dan Cap) \n \n \n \n \n \n[Nama Jelas Pejabat yang Berwenang] \n \n \n \n \n \n \nTembusan: \n• Otoritas Jasa Keuangan, Departemen Pengawasan Bank 1/2/3/Syariah \n• Otoritas terkait lainnya (jika diperlukan) \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \nTTD \n \n \n \n \nJUDA AGUNG \n\n\nLAMPIRAN IV \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 7 TAHUN 2024 \nTANGGAL 1 AGUSTUS 2024 \nTENTANG \nPERATURAN \nPELAKSANAAN \nRASIO \nPENDANAAN LUAR NEGERI BANK \n \n \nRINCIAN JENIS UTANG LUAR NEGERI DAN KEWAJIBAN BANK LAINNYA \nDALAM VALUTA ASING JANGKA PENDEK SERTA RINCIAN SUMBER DATA \nKREDIT ATAU PEMBIAYAAN \n \nA. \nRincian Sumber Data Jenis ULN dan Kewajiban Bank Lainnya dalam \nValuta Asing Jangka Pendek untuk Perhitungan RPLN \n1. Data Total Utang Luar Negeri dan Kewajiban Bank Lainnya dalam Valuta \nAsing \nSumber data total utang luar negeri dan kewajiban bank lainnya dalam \nvaluta asing berasal dari LBUT menggunakan nilai dalam dimensi \nNominal dari Informasi Utang Luar Negeri dan Kewajiban Bank Lainnya \ndalam Valuta Asing Jangka Pendek dengan filter: \nJenis Utang Luar Negeri dan Kewajiban \nBank Lainnya dalam Valas Jangka \nPendek \nSandi \nUtang Luar Negeri dan Kewajiban dalam \nValas \nsandi 01 s.d. 27 \nKeterangan: \na. \nTata cara pelaporan dan pengisiannya mengacu pada ketentuan \nBank Indonesia mengenai laporan keuangan terintegrasi (LBUT) \npada informasi utang luar negeri dan kewajiban Bank lainnya \ndalam valuta asing jangka pendek di kelompok informasi risiko. \nb. \nPengisian ULN dan Kewajiban Bank Lainnya dalam Valuta Asing \ndi atas bersifat net (telah mengeluarkan hal-hal yang tidak \ntermasuk dalam Kewajiban Jangka Pendek). \n2. Data Modal \nSumber data modal berasal dari LBUT menggunakan nilai yang \ndilaporkan dalam dimensi Modal dari Informasi Utang Luar Negeri dan \nKewajiban Bank Lainnya dalam Valuta Asing Jangka Pendek. \n \n \nB. \nRincian Sumber Data untuk Total Kredit dan Kredit Bermasalah BUK \nuntuk Perhitungan Rasio Kredit Bermasalah secara Bruto \n1. \nData Total Kredit BUK \nSumber data total kredit berasal dari LBUT menggunakan nilai dalam \nJumlah (jumlah bulan laporan) dari Kelompok Informasi Keuangan \nBulanan – Kredit/Pembiayaan dengan filter: \nGolongan Pihak Lawan \nSandi \nPihak Ketiga Bukan Bank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L, dan \nS222B22L)) \nDalam hal Bank memiliki UUS maka data total kredit meliputi total \npembiayaan dari UUS dengan rincian sebagai berikut: \na. \nSumber data total pembiayaan berasal dari LBUT pada Kelompok \nInformasi Keuangan Bulanan – Kredit/Pembiayaan dengan filter: \n\n\n \nGolongan Pihak \nLawan \nSandi \nPihak Ketiga Bukan \nBank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nb. \nSumber data total pembiayaan menggunakan nilai: \nJenis Akad \nSandi \nDimensi \n1) Mudharabah  \nJumlah \n2) Mudharabah Muqayyadah \n3) Musyarakah \n4) Musyarakah Mutanaqisah \n5) Ijarah \nHarga perolehan aset – \n(akumulasi \npenyusutan/amortisasi - \ncadangan penurunan nilai \naset ijarah) + tunggakan \npokok \n6) Ijarah Muntahiya Bittamlik \n7) Multijasa – Pendidikan \nSaldo harga pokok \n8) Multijasa – Ibadah \n9) Multijasa – Kesehatan \n10) Multijasa – Pernikahan \n11) Multijasa – Lainnya \n12) Piutang Murabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n15) Pembiayaan Bagi Hasil \nLainnya \n2. \nData Kredit Bermasalah BUK \nSumber data kredit bermasalah berasal dari LBUT menggunakan nilai \ndalam Jumlah (jumlah bulan laporan) dari Kelompok Informasi \nKeuangan Bulanan – Kredit/Pembiayaan dengan kualitas kurang \nlancar, diragukan, dan macet dengan filter: \nGolongan \nPihak Lawan \nSandi \nKualitas Kredit \nPihak Ketiga \nBukan Bank \nselain sandi S121, S122, dan S222L \n(S221L, S222AL, S222B1L (S222B11L \ndan \nS222B12L), \ndan \nS222B2L \n(S222B21L dan S222B22L)) \nKurang Lancar, \nDiragukan, dan \nMacet \nDalam hal Bank memiliki UUS maka data kredit bermasalah meliputi \npembiayaan bermasalah dari UUS dengan rincian sebagai berikut: \na. \nSumber data pembiayaan bermasalah berasal dari LBUT dengan \nfilter: \nGolongan Pihak \nLawan \nSandi \nPihak Ketiga Bukan \nBank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nb. \nSumber data pembiayaan bermasalah menggunakan nilai: \nJenis Akad \nSandi \nDimensi \nKualitas \nPembiayaan \n1) Mudharabah  \nJumlah \nKurang Lancar, \nDiragukan, dan \nMacet \n2) Mudharabah \nMuqayyadah \n3) Musyarakah \n4) Musyarakah \n\n\n \nJenis Akad \nSandi \nDimensi \nKualitas \nPembiayaan \nMutanaqisah \n5) Ijarah \nHarga perolehan \naset – (akumulasi \npenyusutan/amo\nrtisasi - \ncadangan \npenurunan nilai \naset ijarah) + \ntunggakan pokok \n6) Ijarah Muntahiya \nBittamlik \n7) Multijasa – \nPendidikan \nSaldo harga \npokok \n8) Multijasa – \nIbadah \n9) Multijasa – \nKesehatan \n10) Multijasa – \nPernikahan \n11) Multijasa – \nLainnya \n12) Piutang \nMurabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n15) Pembiayaan Bagi \nHasil Lainnya \n \nC. \nRincian Sumber Data untuk Total Pembiayaan dan Pembiayaan \nBermasalah BUS untuk Perhitungan Rasio Pembiayaan Bermasalah \nsecara Bruto \n1. \nData Total Pembiayaan BUS \nSumber data total pembiayaan berasal dari LBUT dengan filter: \nGolongan Pihak Lawan \nSandi \nPihak Ketiga Bukan Bank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nSumber data total pembiayaan menggunakan nilai: \nJenis Akad \nSandi \nDimensi \n1) Mudharabah  \nJumlah \n2) Mudharabah Muqayyadah \n3) Musyarakah \n4) Musyarakah Mutanaqisah \n5) Ijarah \nHarga perolehan aset – \n(akumulasi \npenyusutan/amortisasi - \ncadangan penurunan nilai \naset ijarah) + tunggakan \npokok \n6) Ijarah Muntahiya Bittamlik \n7) Multijasa – Pendidikan \nSaldo harga pokok \n8) Multijasa – Ibadah \n9) Multijasa – Kesehatan \n10) Multijasa – Pernikahan \n11) Multijasa – Lainnya \n12) Piutang Murabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n\n\n \nJenis Akad \nSandi \nDimensi \n15) Pembiayaan Bagi Hasil Lainnya \n2. \nData Pembiayaan Bermasalah BUS \nSumber data pembiayaan bermasalah berasal dari LBUT dengan filter: \nGolongan Pihak Lawan \nSandi \nPihak Ketiga Bukan Bank \nselain sandi S121, S122, dan S222L (S221L, \nS222AL, \nS222B1L \n(S222B11L \ndan \nS222B12L), dan S222B2L (S222B21L dan \nS222B22L)) \nSumber data pembiayaan bermasalah menggunakan nilai: \nJenis Akad \nSandi \nDimensi \nKualitas \nPembiayaan \n1) Mudharabah  \nJumlah \nKurang Lancar, \nDiragukan, dan \nMacet \n2) Mudharabah \nMuqayyadah \n3) Musyarakah \n4) Musyarakah \nMutanaqisah \n5) Ijarah \nHarga perolehan aset \n– (akumulasi \npenyusutan/amortis\nasi - cadangan \npenurunan nilai aset \nijarah) + tunggakan \npokok \n6) Ijarah Muntahiya \nBittamlik \n7) Multijasa – \nPendidikan \nSaldo harga pokok \n8) Multijasa – Ibadah \n9) Multijasa – \nKesehatan \n10) Multijasa – \nPernikahan \n11) Multijasa – Lainnya \n12) Piutang Murabahah \n13) Piutang Istishna’ \n14) Qardh \nJumlah \n15) Pembiayaan Bagi \nHasil Lainnya \n \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \nTTD \n \n \n \nJUDA AGUNG"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 42,
+  "total_ayat": 81,
+  "total_karakter": 57126,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

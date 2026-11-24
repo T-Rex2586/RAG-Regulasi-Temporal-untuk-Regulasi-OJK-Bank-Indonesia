@@ -1,0 +1,643 @@
+{
+  "doc_id": "OJK_POJK_2017_50_c7cee55c",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "50",
+  "tahun": "2017",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 50/POJK.03/2017 tentang Kewajiban Pemenuhan Rasio Pendanaan Stabil Bersih (Net Stable Funding Ratio) bagi Bank Umum",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "13 Juli 2017",
+  "tanggal_berlaku": "diundangkan (17 Juli 2017)",
+  "diundangkan_pada": "17 Juli 2017",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan, termasuk kantor cabang dari bank yang \nberkedudukan \ndi \nluar \nnegeri, \nyang \nmelaksanakan \nkegiatan usaha secara konvensional. \n2. \nPendanaan Stabil yang Tersedia atau Available Stable \nFunding yang selanjutnya disingkat ASF adalah jumlah \nliabilitas dan ekuitas yang stabil selama periode 1 (satu) \ntahun untuk mendanai aktivitas Bank. \n3. \nPendanaan Stabil yang Diperlukan atau Required Stable \nFunding yang selanjutnya disingkat RSF adalah jumlah \naset dan transaksi rekening administratif yang perlu \ndidanai oleh pendanaan stabil. \n \n\n\n \n4. \nRasio Pendanaan Stabil Bersih atau Net Stable Funding \nRatio \nyang \nselanjutnya \ndisingkat \nNSFR \nadalah \nperbandingan antara ASF dengan RSF.  \n5. \nLaporan NSFR adalah laporan yang menyajikan informasi \nkuantitatif berupa perhitungan dan nilai NSFR, serta \ninformasi kualitatif berupa analisis perkembangan NSFR. \n6. \nKertas Kerja NSFR adalah laporan yang memuat \nperhitungan NSFR secara rinci sebagai sumber data \ndalam menyusun Laporan NSFR.  \n7. \nRencana Tindak Pemenuhan NSFR adalah laporan yang \npaling \nsedikit \nmemuat \nrencana \nperbaikan \nuntuk \npemenuhan kecukupan NSFR disertai jangka waktu \npenyelesaian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan, termasuk kantor cabang dari bank yang \nberkedudukan \ndi \nluar \nnegeri, \nyang \nmelaksanakan \nkegiatan usaha secara konvensional. \n2. \nPendanaan Stabil yang Tersedia atau Available Stable \nFunding yang selanjutnya disingkat ASF adalah jumlah \nliabilitas dan ekuitas yang stabil selama periode 1 (satu) \ntahun untuk mendanai aktivitas Bank. \n3. \nPendanaan Stabil yang Diperlukan atau Required Stable \nFunding yang selanjutnya disingkat RSF adalah jumlah \naset dan transaksi rekening administratif yang perlu \ndidanai oleh pendanaan stabil. \n \n\n\n \n4. \nRasio Pendanaan Stabil Bersih atau Net Stable Funding \nRatio \nyang \nselanjutnya \ndisingkat \nNSFR \nadalah \nperbandingan antara ASF dengan RSF.  \n5. \nLaporan NSFR adalah laporan yang menyajikan informasi \nkuantitatif berupa perhitungan dan nilai NSFR, serta \ninformasi kualitatif berupa analisis perkembangan NSFR. \n6. \nKertas Kerja NSFR adalah laporan yang memuat \nperhitungan NSFR secara rinci sebagai sumber data \ndalam menyusun Laporan NSFR.  \n7. \nRencana Tindak Pemenuhan NSFR adalah laporan yang \npaling \nsedikit \nmemuat \nrencana \nperbaikan \nuntuk \npemenuhan kecukupan NSFR disertai jangka waktu \npenyelesaian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank wajib memelihara pendanaan stabil yang memadai.  \n(2) \nPemenuhan pendanaan stabil sebagaimana dimaksud \npada ayat (1) dihitung dengan menggunakan NSFR. \n(3) \nPerhitungan NSFR sebagaimana dimaksud pada ayat (2) \ndihitung dalam denominasi rupiah. \n(4) \nPemenuhan NSFR sebagaimana dimaksud pada ayat (2) \nditetapkan paling rendah 100% (seratus persen). \n(5) \nOtoritas Jasa Keuangan berwenang menetapkan NSFR \nyang \nberbeda \ndari \nkewajiban \npemenuhan \nNSFR \nsebagaimana dimaksud pada ayat (4).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memelihara pendanaan stabil yang memadai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemenuhan pendanaan stabil sebagaimana dimaksud \npada ayat (1) dihitung dengan menggunakan NSFR."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perhitungan NSFR sebagaimana dimaksud pada ayat (2) \ndihitung dalam denominasi rupiah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemenuhan NSFR sebagaimana dimaksud pada ayat (2) \nditetapkan paling rendah 100% (seratus persen)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Otoritas Jasa Keuangan berwenang menetapkan NSFR \nyang \nberbeda \ndari \nkewajiban \npemenuhan \nNSFR \nsebagaimana dimaksud pada ayat (4)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam hal Bank memiliki dan/atau melakukan pengendalian \nterhadap perusahaan anak, kewajiban pemenuhan NSFR \nsebagaimana dimaksud dalam Pasal 2 ayat (4) berlaku bagi \nBank baik secara individu maupun secara konsolidasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal Bank memiliki dan/atau melakukan pengendalian \nterhadap perusahaan anak, kewajiban pemenuhan NSFR \nsebagaimana dimaksud dalam Pasal 2 ayat (4) berlaku bagi \nBank baik secara individu maupun secara konsolidasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Pemenuhan NSFR sebagaimana dimaksud dalam Pasal 2   \nayat (4) berlaku untuk: \na. \nBank yang termasuk dalam kelompok Bank Umum \nKegiatan Usaha (BUKU) 4;  \n\n\n \nb. \nBank yang termasuk dalam kelompok BUKU 3; dan \nc. \nbank asing. \n \nBAB II \nPERHITUNGAN RASIO PENDANAAN STABIL BERSIH \n(NET STABLE FUNDING RATIO)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pemenuhan NSFR sebagaimana dimaksud dalam Pasal 2   \nayat (4) berlaku untuk: \na. \nBank yang termasuk dalam kelompok Bank Umum \nKegiatan Usaha (BUKU) 4;  \n\n\n \nb. \nBank yang termasuk dalam kelompok BUKU 3; dan \nc. \nbank asing. \n \nBAB II \nPERHITUNGAN RASIO PENDANAAN STABIL BERSIH \n(NET STABLE FUNDING RATIO)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nUntuk pemenuhan NSFR sebagaimana dimaksud dalam \nPasal 2 ayat (4), Bank wajib menghitung nilai ASF dan \nRSF. \n(2) \nNilai ASF yang diperhitungkan dalam perhitungan NSFR \nmerupakan penjumlahan dari seluruh hasil perkalian \nantara seluruh nilai tercatat (carrying value) liabilitas dan \nekuitas pada laporan posisi keuangan (neraca) dengan \nfaktor ASF. \n(3) \nNilai RSF yang diperhitungkan dalam perhitungan NSFR \nmerupakan penjumlahan dari seluruh hasil perkalian \nantara seluruh nilai tercatat (carrying value) aset pada \nlaporan posisi keuangan (neraca) dan seluruh nilai \ntransaksi rekening administratif pada laporan komitmen \ndan kontinjensi dengan faktor RSF. \n(4) \nKetentuan mengenai perhitungan nilai ASF dan RSF \nsebagaimana dimaksud pada ayat (2) dan ayat (3) \nmengacu pada Lampiran I yang merupakan bagian tidak \nterpisahkan dari Peraturan Otoritas Jasa Keuangan ini. \n \nBAB III \nPEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO \nPENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO) \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk pemenuhan NSFR sebagaimana dimaksud dalam \nPasal 2 ayat (4), Bank wajib menghitung nilai ASF dan \nRSF."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Nilai ASF yang diperhitungkan dalam perhitungan NSFR \nmerupakan penjumlahan dari seluruh hasil perkalian \nantara seluruh nilai tercatat (carrying value) liabilitas dan \nekuitas pada laporan posisi keuangan (neraca) dengan \nfaktor ASF."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Nilai RSF yang diperhitungkan dalam perhitungan NSFR \nmerupakan penjumlahan dari seluruh hasil perkalian \nantara seluruh nilai tercatat (carrying value) aset pada \nlaporan posisi keuangan (neraca) dan seluruh nilai \ntransaksi rekening administratif pada laporan komitmen \ndan kontinjensi dengan faktor RSF."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai perhitungan nilai ASF dan RSF \nsebagaimana dimaksud pada ayat (2) dan ayat (3) \nmengacu pada Lampiran I yang merupakan bagian tidak \nterpisahkan dari Peraturan Otoritas Jasa Keuangan ini. \n \nBAB III \nPEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO \nPENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO) \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "Bank \nyang \nmemenuhi \nkewajiban \nuntuk \nmelakukan \nperhitungan NSFR sebagaimana dimaksud dalam Pasal 4 \n\n\n \nwajib \nmelakukan \npemantauan \npemenuhan \nNSFR \ndan \nmenyampaikan laporan perhitungan NSFR baik secara \nindividu maupun konsolidasi. \n \nBagian Kedua \nPemantauan Rasio Pendanaan Stabil Bersih \n(Net Stable Funding Ratio)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nyang \nmemenuhi \nkewajiban \nuntuk \nmelakukan \nperhitungan NSFR sebagaimana dimaksud dalam Pasal 4 \n\n\n \nwajib \nmelakukan \npemantauan \npemenuhan \nNSFR \ndan \nmenyampaikan laporan perhitungan NSFR baik secara \nindividu maupun konsolidasi. \n \nBagian Kedua \nPemantauan Rasio Pendanaan Stabil Bersih \n(Net Stable Funding Ratio)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nBank wajib memantau pemenuhan NSFR secara bulanan. \n(2) \nPemantauan sebagaimana dimaksud pada ayat (1) \ndilakukan oleh Bank dengan menyusun Kertas Kerja \nNSFR dan Laporan NSFR berdasarkan posisi akhir bulan \nlaporan.  \n(3) \nLaporan NSFR sebagaimana dimaksud pada ayat (2) \npaling sedikit memuat informasi:  \na. \nperhitungan NSFR; dan \nb. \nanalisis perkembangan NSFR.  \n(4) Analisis perkembangan NSFR sebagaimana dimaksud \npada ayat (3) huruf b paling sedikit menjelaskan: \na. \nfaktor utama yang mempengaruhi perhitungan NSFR; \nb. faktor atau kondisi yang menyebabkan penurunan \natau peningkatan NSFR; dan \nc. \nkomposisi aset dan liabilitas yang saling bergantung \n(interdependent) serta keterkaitan transaksi antara \naset dan liabilitas. \n(5) \nBank wajib mendokumentasikan Kertas Kerja NSFR dan \nLaporan NSFR sebagaimana dimaksud pada ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memantau pemenuhan NSFR secara bulanan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemantauan sebagaimana dimaksud pada ayat (1) \ndilakukan oleh Bank dengan menyusun Kertas Kerja \nNSFR dan Laporan NSFR berdasarkan posisi akhir bulan \nlaporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan NSFR sebagaimana dimaksud pada ayat (2) \npaling sedikit memuat informasi:  \na. \nperhitungan NSFR; dan \nb. \nanalisis perkembangan NSFR."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Analisis perkembangan NSFR sebagaimana dimaksud \npada ayat (3) huruf b paling sedikit menjelaskan: \na. \nfaktor utama yang mempengaruhi perhitungan NSFR; \nb. faktor atau kondisi yang menyebabkan penurunan \natau peningkatan NSFR; dan \nc. \nkomposisi aset dan liabilitas yang saling bergantung \n(interdependent) serta keterkaitan transaksi antara \naset dan liabilitas."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib mendokumentasikan Kertas Kerja NSFR dan \nLaporan NSFR sebagaimana dimaksud pada ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nKewajiban pemantauan pemenuhan NSFR bulanan \nsebagaimana dimaksud dalam Pasal 7 ayat (1) pertama \nkali dilakukan untuk posisi laporan akhir bulan Januari \ntahun 2018. \n(2) \nKetentuan mengenai penyusunan Kertas Kerja NSFR dan \nLaporan NSFR sebagaimana dimaksud dalam Pasal 7 \nayat (2) mengacu pada Lampiran I, Lampiran II, dan \n\n\n \nLampiran III yang merupakan bagian tidak terpisahkan \ndari Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewajiban pemantauan pemenuhan NSFR bulanan \nsebagaimana dimaksud dalam Pasal 7 ayat (1) pertama \nkali dilakukan untuk posisi laporan akhir bulan Januari \ntahun 2018."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai penyusunan Kertas Kerja NSFR dan \nLaporan NSFR sebagaimana dimaksud dalam Pasal 7 \nayat (2) mengacu pada Lampiran I, Lampiran II, dan \n\n\n \nLampiran III yang merupakan bagian tidak terpisahkan \ndari Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nDalam hal Bank tidak mampu memenuhi NSFR sampai \ndengan \n100% \n(seratus \npersen) \nberdasarkan \nhasil \npemantauan dalam Pasal 7 ayat (1), Bank wajib \nmenyusun Rencana Tindak Pemenuhan NSFR baik \nsecara individu maupun konsolidasi. \n(2) \nKetentuan mengenai format Rencana Tindak Pemenuhan \nNSFR sebagaimana dimaksud pada ayat (1) mengacu \npada Lampiran IV yang merupakan bagian tidak \nterpisahkan dari Peraturan Otoritas Jasa Keuangan ini. \n \nBagian Ketiga \nPelaporan Rasio Pendanaan Stabil Bersih \n(Net Stable Funding Ratio)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank tidak mampu memenuhi NSFR sampai \ndengan \n100% \n(seratus \npersen) \nberdasarkan \nhasil \npemantauan dalam Pasal 7 ayat (1), Bank wajib \nmenyusun Rencana Tindak Pemenuhan NSFR baik \nsecara individu maupun konsolidasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai format Rencana Tindak Pemenuhan \nNSFR sebagaimana dimaksud pada ayat (1) mengacu \npada Lampiran IV yang merupakan bagian tidak \nterpisahkan dari Peraturan Otoritas Jasa Keuangan ini. \n \nBagian Ketiga \nPelaporan Rasio Pendanaan Stabil Bersih \n(Net Stable Funding Ratio)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nBank wajib menyampaikan Kertas Kerja NSFR dan \nLaporan NSFR berdasarkan posisi akhir triwulan laporan \nkepada Otoritas Jasa Keuangan. \n(2) \nPosisi akhir triwulan laporan sebagaimana dimaksud \npada ayat (1) merupakan laporan untuk posisi akhir \nbulan Maret, bulan Juni, bulan September, dan bulan \nDesember.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyampaikan Kertas Kerja NSFR dan \nLaporan NSFR berdasarkan posisi akhir triwulan laporan \nkepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Posisi akhir triwulan laporan sebagaimana dimaksud \npada ayat (1) merupakan laporan untuk posisi akhir \nbulan Maret, bulan Juni, bulan September, dan bulan \nDesember."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nDalam hal terdapat kondisi sebagaimana dimaksud \ndalam Pasal 9 ayat (1), Bank wajib menyampaikan \nkepada Otoritas Jasa Keuangan: \na. \nKertas Kerja NSFR dan Laporan NSFR posisi akhir \nbulan laporan sebagaimana dimaksud dalam Pasal 7 \nayat (2); dan  \nb. \nRencana Tindak Pemenuhan NSFR sebagaimana \ndimaksud dalam Pasal 9. \n \n\n\n \n(2) \nOtoritas Jasa Keuangan berwenang meminta Bank untuk \nmelakukan \npenyesuaian \nterhadap \nRencana \nTindak \nPemenuhan NSFR sebagaimana dimaksud pada ayat (1) \nhuruf b.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terdapat kondisi sebagaimana dimaksud \ndalam Pasal 9 ayat (1), Bank wajib menyampaikan \nkepada Otoritas Jasa Keuangan: \na. \nKertas Kerja NSFR dan Laporan NSFR posisi akhir \nbulan laporan sebagaimana dimaksud dalam Pasal 7 \nayat (2); dan  \nb. \nRencana Tindak Pemenuhan NSFR sebagaimana \ndimaksud dalam Pasal 9."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan berwenang meminta Bank untuk \nmelakukan \npenyesuaian \nterhadap \nRencana \nTindak \nPemenuhan NSFR sebagaimana dimaksud pada ayat (1) \nhuruf b."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nBank \nwajib \nmenyampaikan \nlaporan \npelaksanaan \nRencana \nTindak \nPemenuhan \nNSFR \nsebagaimana \ndimaksud dalam Pasal 11 ayat (1) huruf b kepada \nOtoritas Jasa Keuangan paling lama 10 (sepuluh) hari \nkerja setelah target waktu penyelesaian Rencana Tindak \nPemenuhan NSFR. \n(2) \nLaporan pelaksanaan Rencana Tindak Pemenuhan NSFR \nsebagaimana dimaksud pada ayat (1) memuat paling \nsedikit: \na. \ntindakan perbaikan yang telah dilakukan oleh \nBank; \nb. \nkendala dalam melaksanakan tindakan perbaikan; \ndan \nc. \nwaktu pelaksanaan perbaikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmenyampaikan \nlaporan \npelaksanaan \nRencana \nTindak \nPemenuhan \nNSFR \nsebagaimana \ndimaksud dalam Pasal 11 ayat (1) huruf b kepada \nOtoritas Jasa Keuangan paling lama 10 (sepuluh) hari \nkerja setelah target waktu penyelesaian Rencana Tindak \nPemenuhan NSFR."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan pelaksanaan Rencana Tindak Pemenuhan NSFR \nsebagaimana dimaksud pada ayat (1) memuat paling \nsedikit: \na. \ntindakan perbaikan yang telah dilakukan oleh \nBank; \nb. \nkendala dalam melaksanakan tindakan perbaikan; \ndan \nc. \nwaktu pelaksanaan perbaikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nBank wajib menyampaikan Kertas Kerja NSFR dan \nLaporan NSFR sebagaimana dimaksud dalam Pasal 10 \nayat (1) dan Pasal 11 ayat (1) huruf a paling lambat: \na. \ntanggal 15 setelah akhir bulan laporan, untuk \nKertas Kerja NSFR dan Laporan NSFR secara \nindividu; dan \nb. \nakhir bulan setelah akhir bulan laporan, untuk \nKertas Kerja NSFR dan Laporan NSFR secara \nkonsolidasi. \n(2) \nBank wajib menyampaikan Rencana Tindak Pemenuhan \nNSFR \nbaik \nsecara \nindividu \nmaupun \nkonsolidasi \nsebagaimana dimaksud dalam Pasal 11 ayat 1 huruf (b) \npaling lambat akhir bulan berikutnya sejak Bank \nmenghadapi \nkondisi \nsebagaimana \ndimaksud \ndalam   \nPasal 9 ayat (1). \n\n\n \n(3) \nBank wajib menyampaikan Kertas Kerja NSFR, Laporan \nNSFR, \ndan \nRencana \nTindak \nPemenuhan \nNSFR \nsebagaimana dimaksud pada ayat (1) dan ayat (2) secara \ndaring (online) melalui sistem pelaporan Otoritas Jasa \nKeuangan. \n(4) \nDalam hal sistem pelaporan Otoritas Jasa Keuangan \nsebagaimana dimaksud pada ayat (3) belum tersedia, \nBank wajib menyampaikan Kertas Kerja NSFR, Laporan \nNSFR, dan Rencana Tindak Pemenuhan NSFR secara \nluring (offline). \n(5) \nApabila batas waktu penyampaian Kertas Kerja NSFR, \nLaporan NSFR, dan Rencana Tindak Pemenuhan NSFR \nsebagaimana dimaksud pada ayat (3) dan ayat (4) jatuh \npada hari Sabtu, hari Minggu, dan/atau hari libur, \nlaporan disampaikan pada hari kerja berikutnya. \n(6) \nPenyampaian \nsecara \nluring \n(offline) \nsebagaimana \ndimaksud pada ayat (4) dan penyampaian laporan \npelaksanaan \nRencana \nTindak \nPemenuhan \nNSFR \nsebagaimana \ndimaksud \ndalam \nPasal \nayat \n(1) \ndisampaikan kepada: \na. Departemen Pengawasan Bank terkait bagi Bank \nyang berkantor pusat atau kantor cabang dari bank \nyang berkedudukan di luar negeri yang berada di \nwilayah Provinsi Daerah Khusus Ibukota Jakarta; \natau \nb. Kantor Regional atau Kantor Otoritas Jasa Keuangan \nsetempat, bagi Bank yang berkantor pusat di luar \nwilayah Provinsi Daerah Khusus Ibukota Jakarta.  \n \nBagian Keempat \nPublikasi Rasio Pendanaan Stabil Bersih \n(Net Stable Funding Ratio)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyampaikan Kertas Kerja NSFR dan \nLaporan NSFR sebagaimana dimaksud dalam Pasal 10 \nayat (1) dan Pasal 11 ayat (1) huruf a paling lambat: \na. \ntanggal 15 setelah akhir bulan laporan, untuk \nKertas Kerja NSFR dan Laporan NSFR secara \nindividu; dan \nb. \nakhir bulan setelah akhir bulan laporan, untuk \nKertas Kerja NSFR dan Laporan NSFR secara \nkonsolidasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menyampaikan Rencana Tindak Pemenuhan \nNSFR \nbaik \nsecara \nindividu \nmaupun \nkonsolidasi \nsebagaimana dimaksud dalam Pasal 11 ayat 1 huruf (b) \npaling lambat akhir bulan berikutnya sejak Bank \nmenghadapi \nkondisi \nsebagaimana \ndimaksud \ndalam   \nPasal 9 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib menyampaikan Kertas Kerja NSFR, Laporan \nNSFR, \ndan \nRencana \nTindak \nPemenuhan \nNSFR \nsebagaimana dimaksud pada ayat (1) dan ayat (2) secara \ndaring (online) melalui sistem pelaporan Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal sistem pelaporan Otoritas Jasa Keuangan \nsebagaimana dimaksud pada ayat (3) belum tersedia, \nBank wajib menyampaikan Kertas Kerja NSFR, Laporan \nNSFR, dan Rencana Tindak Pemenuhan NSFR secara \nluring (offline)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Apabila batas waktu penyampaian Kertas Kerja NSFR, \nLaporan NSFR, dan Rencana Tindak Pemenuhan NSFR \nsebagaimana dimaksud pada ayat (3) dan ayat (4) jatuh \npada hari Sabtu, hari Minggu, dan/atau hari libur, \nlaporan disampaikan pada hari kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penyampaian \nsecara \nluring \n(offline) \nsebagaimana \ndimaksud pada ayat (4) dan penyampaian laporan \npelaksanaan \nRencana \nTindak \nPemenuhan \nNSFR \nsebagaimana \ndimaksud \ndalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan kepada: \na. Departemen Pengawasan Bank terkait bagi Bank \nyang berkantor pusat atau kantor cabang dari bank \nyang berkedudukan di luar negeri yang berada di \nwilayah Provinsi Daerah Khusus Ibukota Jakarta; \natau \nb. Kantor Regional atau Kantor Otoritas Jasa Keuangan \nsetempat, bagi Bank yang berkantor pusat di luar \nwilayah Provinsi Daerah Khusus Ibukota Jakarta.  \n \nBagian Keempat \nPublikasi Rasio Pendanaan Stabil Bersih \n(Net Stable Funding Ratio)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nBank wajib \nmempublikasikan dan mengungkapkan \nLaporan NSFR berdasarkan posisi akhir triwulan laporan \nsebagaimana dimaksud dalam Pasal 10 ayat (1) untuk \n\n\n \nposisi akhir bulan Maret, bulan Juni, bulan September, \ndan bulan Desember.  \n(2) \nPublikasi dan pengungkapan Laporan NSFR posisi akhir \ntriwulan laporan sebagaimana dimaksud pada ayat (1) \nwajib dilakukan melalui:  \na. \nsitus web Bank untuk Laporan NSFR posisi akhir \ntriwulan laporan; dan \nb. \npaling sedikit 1 (satu) surat kabar harian cetak \nberbahasa Indonesia yang memiliki peredaran luas, \nsitus web Bank, dan secara daring (online) untuk \nnilai persentase NSFR posisi akhir triwulan laporan \nyang \ndicantumkan \npada \nlaporan \npublikasi \ntriwulanan.  \n(3) \nKewajiban publikasi Laporan NSFR posisi akhir triwulan \nsebagaimana dimaksud pada ayat (2) huruf a dilakukan \npaling lambat: \na. \ntanggal 15 bulan kedua setelah berakhirnya bulan \nlaporan untuk laporan posisi akhir bulan Maret, \nbulan Juni, dan bulan September; dan \nb. \nakhir \nbulan \nMaret \ntahun \nberikutnya \nsetelah \nberakhirnya bulan laporan, untuk laporan akhir \nbulan Desember.  \n(4) \nTata cara, format, dan jangka waktu penyampaian \nlaporan publikasi triwulanan untuk nilai persentase \nNSFR triwulanan sebagaimana dimaksud pada ayat (2) \nhuruf b dilakukan sesuai tata cara, format, dan jangka \nwaktu publikasi sebagaimana diatur dalam ketentuan \nOtoritas Jasa Keuangan \nyang mengatur \nmengenai \ntransparansi dan publikasi laporan Bank. \n(5) \nBank wajib memelihara pengumuman Laporan NSFR \nposisi akhir triwulan laporan pada situs web Bank \nsebagaimana dimaksud pada ayat (2) huruf a paling \nsedikit untuk 5 (lima) tahun buku terakhir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib \nmempublikasikan dan mengungkapkan \nLaporan NSFR berdasarkan posisi akhir triwulan laporan \nsebagaimana dimaksud dalam Pasal 10 ayat (1) untuk \n\n\n \nposisi akhir bulan Maret, bulan Juni, bulan September, \ndan bulan Desember."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Publikasi dan pengungkapan Laporan NSFR posisi akhir \ntriwulan laporan sebagaimana dimaksud pada ayat (1) \nwajib dilakukan melalui:  \na. \nsitus web Bank untuk Laporan NSFR posisi akhir \ntriwulan laporan; dan \nb. \npaling sedikit 1 (satu) surat kabar harian cetak \nberbahasa Indonesia yang memiliki peredaran luas, \nsitus web Bank, dan secara daring (online) untuk \nnilai persentase NSFR posisi akhir triwulan laporan \nyang \ndicantumkan \npada \nlaporan \npublikasi \ntriwulanan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewajiban publikasi Laporan NSFR posisi akhir triwulan \nsebagaimana dimaksud pada ayat (2) huruf a dilakukan \npaling lambat: \na. \ntanggal 15 bulan kedua setelah berakhirnya bulan \nlaporan untuk laporan posisi akhir bulan Maret, \nbulan Juni, dan bulan September; dan \nb. \nakhir \nbulan \nMaret \ntahun \nberikutnya \nsetelah \nberakhirnya bulan laporan, untuk laporan akhir \nbulan Desember."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Tata cara, format, dan jangka waktu penyampaian \nlaporan publikasi triwulanan untuk nilai persentase \nNSFR triwulanan sebagaimana dimaksud pada ayat (2) \nhuruf b dilakukan sesuai tata cara, format, dan jangka \nwaktu publikasi sebagaimana diatur dalam ketentuan \nOtoritas Jasa Keuangan \nyang mengatur \nmengenai \ntransparansi dan publikasi laporan Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib memelihara pengumuman Laporan NSFR \nposisi akhir triwulan laporan pada situs web Bank \nsebagaimana dimaksud pada ayat (2) huruf a paling \nsedikit untuk 5 (lima) tahun buku terakhir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nKewajiban penyampaian Laporan NSFR posisi akhir \ntriwulan laporan sebagaimana dimaksud dalam Pasal 10 \n\n\n \ndan publikasi Laporan NSFR posisi akhir triwulan \nlaporan sebagaimana dimaksud dalam Pasal 14 ayat (1) \npertama kali dilakukan untuk posisi laporan akhir bulan \nMaret 2018.  \n(2) \nBank dinyatakan tidak mempublikasikan nilai NSFR \nposisi akhir triwulan sebagaimana dimaksud pada      \nayat (1) dalam hal laporan publikasi triwulanan yang \ndiumumkan tidak mencantumkan informasi mengenai \nnilai persentase NSFR posisi akhir triwulan laporan. \n \nBagian Kelima \nLaporan bagi Bank yang Berpindah Kelompok",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewajiban penyampaian Laporan NSFR posisi akhir \ntriwulan laporan sebagaimana dimaksud dalam Pasal 10 \n\n\n \ndan publikasi Laporan NSFR posisi akhir triwulan \nlaporan sebagaimana dimaksud dalam Pasal 14 ayat (1) \npertama kali dilakukan untuk posisi laporan akhir bulan \nMaret 2018."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dinyatakan tidak mempublikasikan nilai NSFR \nposisi akhir triwulan sebagaimana dimaksud pada      \nayat (1) dalam hal laporan publikasi triwulanan yang \ndiumumkan tidak mencantumkan informasi mengenai \nnilai persentase NSFR posisi akhir triwulan laporan. \n \nBagian Kelima \nLaporan bagi Bank yang Berpindah Kelompok"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PEMANTAUAN, PELAPORAN, DAN PUBLIKASI RASIO PENDANAAN STABIL BERSIH (NET STABLE FUNDING RATIO)",
+      "teks_lengkap": "(1) \nBank yang termasuk dalam kelompok BUKU 1 dan \nBUKU 2 yang pada awalnya tidak diwajibkan memenuhi \nketentuan \nNSFR, \nkemudian \nmenjadi \nBank \nyang \ntermasuk dalam kelompok BUKU 3, BUKU 4, atau bank \nasing sebagaimana dimaksud dalam Pasal 4, wajib \nmemenuhi ketentuan Peraturan Otoritas Jasa Keuangan \nini. \n(2) \nKewajiban pemantauan pemenuhan NSFR sebagaimana \ndimaksud dalam Pasal 7 dilakukan pertama kali pada \nbulan ketiga sejak dinyatakan sebagai Bank yang \ntermasuk dalam kelompok BUKU 3, BUKU 4 atau bank \nasing. \n(3) \nKewajiban \npenyampaian \nperhitungan \nNSFR \nserta \npublikasi \ndan \npengungkapan \nLaporan \nNSFR \nsebagaimana dimaksud dalam Pasal 10 dan Pasal 14 \ndilakukan pertama kali pada periode triwulan berikutnya \nsetelah melaksanakan pemantauan pemenuhan NSFR \nsebagaimana dimaksud pada ayat (2). \n(4) \nDalam \nhal \nterdapat \nBank \nyang \ntermasuk \ndalam \nkelompok BUKU 3, BUKU 4, atau bank asing kemudian \nmenjadi Bank yang tidak termasuk dalam kelompok \nsebagaimana dimaksud dalam Pasal 4, Bank tetap wajib \nmemenuhi \nketentuan \nperhitungan \ndan \npelaporan                \n\n\n \nNSFR sebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan ini. \n \nBAB IV \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang termasuk dalam kelompok BUKU 1 dan \nBUKU 2 yang pada awalnya tidak diwajibkan memenuhi \nketentuan \nNSFR, \nkemudian \nmenjadi \nBank \nyang \ntermasuk dalam kelompok BUKU 3, BUKU 4, atau bank \nasing sebagaimana dimaksud dalam Pasal 4, wajib \nmemenuhi ketentuan Peraturan Otoritas Jasa Keuangan \nini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewajiban pemantauan pemenuhan NSFR sebagaimana \ndimaksud dalam Pasal 7 dilakukan pertama kali pada \nbulan ketiga sejak dinyatakan sebagai Bank yang \ntermasuk dalam kelompok BUKU 3, BUKU 4 atau bank \nasing."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewajiban \npenyampaian \nperhitungan \nNSFR \nserta \npublikasi \ndan \npengungkapan \nLaporan \nNSFR \nsebagaimana dimaksud dalam Pasal 10 dan Pasal 14 \ndilakukan pertama kali pada periode triwulan berikutnya \nsetelah melaksanakan pemantauan pemenuhan NSFR \nsebagaimana dimaksud pada ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nhal \nterdapat \nBank \nyang \ntermasuk \ndalam \nkelompok BUKU 3, BUKU 4, atau bank asing kemudian \nmenjadi Bank yang tidak termasuk dalam kelompok \nsebagaimana dimaksud dalam Pasal 4, Bank tetap wajib \nmemenuhi \nketentuan \nperhitungan \ndan \npelaporan                \n\n\n \nNSFR sebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan ini. \n \nBAB IV \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak memenuhi Peratuan Otoritas Jasa Keuangan \nini dan melanggar ketentuan sebagaimana dimaksud dalam \nPasal 2 ayat (1), Pasal 3, Pasal 5 ayat (1), Pasal 6, Pasal 7   \nayat (1), Pasal 7 ayat (5), Pasal 8 ayat (1), Pasal 9 ayat (1), \nPasal 10 ayat (1), Pasal 11 ayat (1), Pasal 12 ayat (1), Pasal 13 \nayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), \nPasal 14 ayat (1), Pasal 14 ayat (2), Pasal 14 ayat (3), Pasal 14 \nayat (5), Pasal 15 ayat (1), dan/atau Pasal 16 dikenakan \nsanksi administratif berupa: \na. \nteguran tertulis; \nb. \nlarangan transfer laba bagi kantor cabang dari bank \nyang berkedudukan di luar negeri; \nc. \npenundaan pembagian dividen atas seluruh kepemilikan \nsaham dari pemegang saham yang melakukan setoran \nmodal; \nd. \npembekuan kegiatan usaha tertentu; \ne. \nlarangan pembukaan jaringan kantor; \nf. \npenurunan tingkat kesehatan Bank; dan/atau \ng. \npencantuman pengurus dan/atau pemegang saham \nlembaga jasa keuangan dalam daftar orang yang dilarang \nmenjadi pemegang saham dan pengurus lembaga jasa \nkeuangan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan mengenai uji kemampuan dan \nkepatutan (fit and proper test).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang tidak memenuhi Peratuan Otoritas Jasa Keuangan \nini dan melanggar ketentuan sebagaimana dimaksud dalam \nPasal 2 ayat (1), Pasal 3, Pasal 5 ayat (1), Pasal 6, Pasal 7   \nayat (1), Pasal 7 ayat (5), Pasal 8 ayat (1), Pasal 9 ayat (1), \nPasal 10 ayat (1), Pasal 11 ayat (1), Pasal 12 ayat (1), Pasal 13 \nayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), \nPasal 14 ayat (1), Pasal 14 ayat (2), Pasal 14 ayat (3), Pasal 14 \nayat (5), Pasal 15 ayat (1), dan/atau Pasal 16 dikenakan \nsanksi administratif berupa: \na. \nteguran tertulis; \nb. \nlarangan transfer laba bagi kantor cabang dari bank \nyang berkedudukan di luar negeri; \nc. \npenundaan pembagian dividen atas seluruh kepemilikan \nsaham dari pemegang saham yang melakukan setoran \nmodal; \nd. \npembekuan kegiatan usaha tertentu; \ne. \nlarangan pembukaan jaringan kantor; \nf. \npenurunan tingkat kesehatan Bank; dan/atau \ng. \npencantuman pengurus dan/atau pemegang saham \nlembaga jasa keuangan dalam daftar orang yang dilarang \nmenjadi pemegang saham dan pengurus lembaga jasa \nkeuangan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan mengenai uji kemampuan dan \nkepatutan (fit and proper test)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang terlambat menyampaikan Kertas Kerja NSFR dan \nLaporan NSFR posisi akhir triwulan laporan sebagaimana \ndimaksud dalam Pasal 13 ayat (1) dikenakan sanksi \nadministratif berupa denda sebesar Rp1.000.000,00 (satu juta \n\n\n \nrupiah) per hari kerja keterlambatan atau paling banyak   \nsebesar Rp50.000.000,00 (lima puluh juta rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang terlambat menyampaikan Kertas Kerja NSFR dan \nLaporan NSFR posisi akhir triwulan laporan sebagaimana \ndimaksud dalam Pasal 13 ayat (1) dikenakan sanksi \nadministratif berupa denda sebesar Rp1.000.000,00 (satu juta \n\n\n \nrupiah) per hari kerja keterlambatan atau paling banyak   \nsebesar Rp50.000.000,00 (lima puluh juta rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak mencantumkan nilai persentase NSFR posisi \nakhir triwulan laporan dalam laporan publikasi triwulanan \nsebagaimana dimaksud dalam Pasal 14 ayat (2) huruf b \ndikenakan sanksi sesuai dengan ketentuan Otoritas Jasa \nKeuangan \nyang \nmengatur \nmengenai \ntransparansi \ndan \npublikasi laporan Bank. \n \nBAB VI \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang tidak mencantumkan nilai persentase NSFR posisi \nakhir triwulan laporan dalam laporan publikasi triwulanan \nsebagaimana dimaksud dalam Pasal 14 ayat (2) huruf b \ndikenakan sanksi sesuai dengan ketentuan Otoritas Jasa \nKeuangan \nyang \nmengatur \nmengenai \ntransparansi \ndan \npublikasi laporan Bank. \n \nBAB VI \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 13 Juli 2017 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 17 Juli 2017    \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 159 \n \n \n \n \n \n \n \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 50 /POJK.03/2017 \nTENTANG \nKEWAJIBAN PEMENUHAN RASIO PENDANAAN STABIL BERSIH  \n(NET STABLE FUNDING RATIO) BAGI BANK UMUM \n \n \nI. \nUMUM \nPengalaman krisis keuangan dan ekonomi yang terjadi di berbagai \nnegara pada tahun 2008 menunjukkan bahwa meskipun permodalan \nBank memadai namun apabila Bank tidak memerhatikan prinsip kehati-\nhatian dalam mengelola likuiditas maka dapat mengganggu kelangsungan \nusaha Bank. \nDengan demikian seperti halnya permodalan, dibutuhkan suatu \nstandar perhitungan rasio likuiditas terkait sumber pendanaan untuk \nmengukur tingkat minimum pendanaan stabil yang harus dipelihara oleh \nBank dan disesuaikan dengan standar internasional yang berlaku yaitu \nBasel III: The Net Stable Funding Ratio. \nPenetapan \nNSFR \nbertujuan \nuntuk \nmemastikan \nbahwa \nBank \nmemelihara pendanaan stabil yang disesuaikan dengan komposisi aset \ndan rekening administratif. Bank diharapkan dapat mengurangi risiko \nlikuiditas terkait sumber pendanaan untuk jangka waktu yang lebih \npanjang. Dengan demikian, Bank perlu untuk meningkatkan stabilitas \npendanaan dengan membatasi ketergantungan yang berlebihan terhadap \nsumber \npendanaan \njangka \npendek \nyang \nberasal \ndari \nkorporasi. \nSehubungan dengan hal tersebut, diperlukan pengaturan tentang \nKewajiban Pemenuhan Rasio Pendanaan Stabil Bersih (Net Stable Funding \nRatio) bagi Bank Umum. \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 13 Juli 2017 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 17 Juli 2017    \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 159 \n \n \n \n \n \n \n \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 50 /POJK.03/2017 \nTENTANG \nKEWAJIBAN PEMENUHAN RASIO PENDANAAN STABIL BERSIH  \n(NET STABLE FUNDING RATIO) BAGI BANK UMUM \n \n \nI. \nUMUM \nPengalaman krisis keuangan dan ekonomi yang terjadi di berbagai \nnegara pada tahun 2008 menunjukkan bahwa meskipun permodalan \nBank memadai namun apabila Bank tidak memerhatikan prinsip kehati-\nhatian dalam mengelola likuiditas maka dapat mengganggu kelangsungan \nusaha Bank. \nDengan demikian seperti halnya permodalan, dibutuhkan suatu \nstandar perhitungan rasio likuiditas terkait sumber pendanaan untuk \nmengukur tingkat minimum pendanaan stabil yang harus dipelihara oleh \nBank dan disesuaikan dengan standar internasional yang berlaku yaitu \nBasel III: The Net Stable Funding Ratio. \nPenetapan \nNSFR \nbertujuan \nuntuk \nmemastikan \nbahwa \nBank \nmemelihara pendanaan stabil yang disesuaikan dengan komposisi aset \ndan rekening administratif. Bank diharapkan dapat mengurangi risiko \nlikuiditas terkait sumber pendanaan untuk jangka waktu yang lebih \npanjang. Dengan demikian, Bank perlu untuk meningkatkan stabilitas \npendanaan dengan membatasi ketergantungan yang berlebihan terhadap \nsumber \npendanaan \njangka \npendek \nyang \nberasal \ndari \nkorporasi. \nSehubungan dengan hal tersebut, diperlukan pengaturan tentang \nKewajiban Pemenuhan Rasio Pendanaan Stabil Bersih (Net Stable Funding \nRatio) bagi Bank Umum. \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nNSFR dihitung dengan formula sebagai berikut: \n . \n \nAyat (3) \n \n \nKonversi mata uang asing menjadi rupiah dilakukan dengan \nmenggunakan kurs tengah penutupan Bank Indonesia pada \ntanggal laporan. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nPenetapan NSFR yang berbeda didasarkan antara lain dalam hal \nOtoritas Jasa Keuangan menilai Bank menghadapi potensi risiko \nlikuiditas \nterkait \npendanaan \nyang \nlebih \ntinggi \nsehingga \nmembutuhkan pemenuhan NSFR lebih tinggi dari pemenuhan \nNSFR minimum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nNSFR dihitung dengan formula sebagai berikut: \n . \n \nAyat (3) \n \n \nKonversi mata uang asing menjadi rupiah dilakukan dengan \nmenggunakan kurs tengah penutupan Bank Indonesia pada \ntanggal laporan. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nPenetapan NSFR yang berbeda didasarkan antara lain dalam hal \nOtoritas Jasa Keuangan menilai Bank menghadapi potensi risiko \nlikuiditas \nterkait \npendanaan \nyang \nlebih \ntinggi \nsehingga \nmembutuhkan pemenuhan NSFR lebih tinggi dari pemenuhan \nNSFR minimum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang \ndimaksud \ndengan \n“pengendalian” \nadalah \npengendalian \nsebagaimana dimaksud dalam standar akuntansi keuangan.  \n \nYang dimaksud dengan “perusahaan anak” adalah perusahaan anak \nsebagaimana dimaksud dalam ketentuan Otoritas Jasa Keuangan \nyang mengatur mengenai penerapan manajemen risiko secara \nkonsolidasi bagi Bank yang melakukan pengendalian terhadap \nperusahaan anak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang \ndimaksud \ndengan \n“pengendalian” \nadalah \npengendalian \nsebagaimana dimaksud dalam standar akuntansi keuangan.  \n \nYang dimaksud dengan “perusahaan anak” adalah perusahaan anak \nsebagaimana dimaksud dalam ketentuan Otoritas Jasa Keuangan \nyang mengatur mengenai penerapan manajemen risiko secara \nkonsolidasi bagi Bank yang melakukan pengendalian terhadap \nperusahaan anak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “Bank dalam kelompok BUKU 3 dan BUKU 4” \nadalah sebagaimana dimaksud dalam ketentuan Otoritas Jasa \nKeuangan yang mengatur mengenai kegiatan usaha dan jaringan \n\n\n \nkantor berdasarkan modal inti Bank. \n \nYang dimaksud dengan “bank asing” adalah: \n1. \nkantor cabang dari bank yang berkedudukan di luar negeri; \n2. \nbank umum berbentuk badan hukum Indonesia yang lebih dari \n50% (lima puluh persen) sahamnya dimiliki oleh warga negara \nasing dan/atau badan hukum asing baik secara sendiri atau \nsecara bersama-sama; dan/atau  \n3. \nbank yang dimiliki baik secara sendiri atau bersama-sama oleh \nwarga negara asing dan/atau badan hukum asing kurang  dari \natau sama dengan 50% (lima puluh persen) namun terdapat \npengendalian oleh warga negara asing dan/atau badan hukum \nasing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “Bank dalam kelompok BUKU 3 dan BUKU 4” \nadalah sebagaimana dimaksud dalam ketentuan Otoritas Jasa \nKeuangan yang mengatur mengenai kegiatan usaha dan jaringan \n\n\n \nkantor berdasarkan modal inti Bank. \n \nYang dimaksud dengan “bank asing” adalah: \n1. \nkantor cabang dari bank yang berkedudukan di luar negeri; \n2. \nbank umum berbentuk badan hukum Indonesia yang lebih dari \n50% (lima puluh persen) sahamnya dimiliki oleh warga negara \nasing dan/atau badan hukum asing baik secara sendiri atau \nsecara bersama-sama; dan/atau  \n3. \nbank yang dimiliki baik secara sendiri atau bersama-sama oleh \nwarga negara asing dan/atau badan hukum asing kurang  dari \natau sama dengan 50% (lima puluh persen) namun terdapat \npengendalian oleh warga negara asing dan/atau badan hukum \nasing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas.  \n \nAyat (2) \n \nNilai tercatat (carrying value) yang diperhitungkan adalah nilai \ntercatat (carrying value) sebelum faktor pengurang berdasarkan \npengaturan (regulatory deductions), atau penyesuaian lain.  \n \n Contoh:  \n \n Modal inti (Tier 1) dan modal pelengkap (Tier 2) tidak \nmemperhitungkan faktor-faktor yang menjadi pengurang modal \nsebagaimana \ndimaksud \ndalam \nPeraturan \nOtoritas \nJasa \nKeuangan mengenai Kewajiban Penyediaan Modal Minimum \nBank Umum. \n \nAyat (3) \nYang dimaksud dengan “seluruh nilai tercatat (carrying value) \naset pada laporan posisi keuangan (neraca)” dalam ketentuan ini \ntermasuk giro wajib minimum sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai giro wajib \nminimum, dan Capital Equivalency Maintained Assets (CEMA) \nsebagaimana dalam ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai kewajiban penyediaan modal minimum \nbank umum dan CEMA. \nUntuk aset pada laporan posisi keuangan (neraca), nilai tercatat \n(carrying value) yang diperhitungkan adalah nilai tercatat \n\n\n \n(carrying value) aset setelah dikurangi dengan Cadangan \nKerugian Penurunan Nilai (CKPN) atas aset yang dihitung sesuai \nstandar akuntansi keuangan. \nKhusus untuk aset yang penurunan nilai atas aset tersebut \ndihitung secara kolektif, CKPN yang dapat dikurangkan adalah \nCKPN atas aset yang telah teridentifikasi mengalami penurunan \nnilai secara individu. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas.  \n \nAyat (2) \n \nNilai tercatat (carrying value) yang diperhitungkan adalah nilai \ntercatat (carrying value) sebelum faktor pengurang berdasarkan \npengaturan (regulatory deductions), atau penyesuaian lain.  \n \n Contoh:  \n \n Modal inti (Tier 1) dan modal pelengkap (Tier 2) tidak \nmemperhitungkan faktor-faktor yang menjadi pengurang modal \nsebagaimana \ndimaksud \ndalam \nPeraturan \nOtoritas \nJasa \nKeuangan mengenai Kewajiban Penyediaan Modal Minimum \nBank Umum. \n \nAyat (3) \nYang dimaksud dengan “seluruh nilai tercatat (carrying value) \naset pada laporan posisi keuangan (neraca)” dalam ketentuan ini \ntermasuk giro wajib minimum sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai giro wajib \nminimum, dan Capital Equivalency Maintained Assets (CEMA) \nsebagaimana dalam ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai kewajiban penyediaan modal minimum \nbank umum dan CEMA. \nUntuk aset pada laporan posisi keuangan (neraca), nilai tercatat \n(carrying value) yang diperhitungkan adalah nilai tercatat \n\n\n \n(carrying value) aset setelah dikurangi dengan Cadangan \nKerugian Penurunan Nilai (CKPN) atas aset yang dihitung sesuai \nstandar akuntansi keuangan. \nKhusus untuk aset yang penurunan nilai atas aset tersebut \ndihitung secara kolektif, CKPN yang dapat dikurangkan adalah \nCKPN atas aset yang telah teridentifikasi mengalami penurunan \nnilai secara individu. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n Format Laporan NSFR disusun sesuai dengan yang ditetapkan \noleh Basel Committee on Banking Supervision (BCBS) pada \ndokumen Basel III : The Net Stable Funding Ratio.  \nAyat (3) \nCukup jelas. \nAyat (4) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nContoh: \nterdapat \nperubahan \nstrategi \ndan \nstruktur \npendanaan. \n \n \nHuruf c \n \n \n \nYang dimaksud dengan “saling bergantung (interdependent)” \nadalah aset dan liabilitas tertentu saling bergantung satu \nsama lain berdasarkan perjanjian kontraktual sehingga \nliabilitas tidak akan jatuh tempo selama aset yang terkait \nmasih tercatat di neraca, arus pembayaran pokok dari aset \nyang terkait hanya dapat digunakan untuk melunasi \nliabilitas yang terkait, dan liabilitas yang terkait tidak dapat \ndigunakan untuk mendanai aset lain. \n\n\n \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n Format Laporan NSFR disusun sesuai dengan yang ditetapkan \noleh Basel Committee on Banking Supervision (BCBS) pada \ndokumen Basel III : The Net Stable Funding Ratio.  \nAyat (3) \nCukup jelas. \nAyat (4) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nContoh: \nterdapat \nperubahan \nstrategi \ndan \nstruktur \npendanaan. \n \n \nHuruf c \n \n \n \nYang dimaksud dengan “saling bergantung (interdependent)” \nadalah aset dan liabilitas tertentu saling bergantung satu \nsama lain berdasarkan perjanjian kontraktual sehingga \nliabilitas tidak akan jatuh tempo selama aset yang terkait \nmasih tercatat di neraca, arus pembayaran pokok dari aset \nyang terkait hanya dapat digunakan untuk melunasi \nliabilitas yang terkait, dan liabilitas yang terkait tidak dapat \ndigunakan untuk mendanai aset lain. \n\n\n \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nRencana Tindak Pemenuhan NSFR memuat langkah perbaikan \nyang akan dilaksanakan oleh Bank untuk memperbaiki kondisi \nlikuiditas Bank dan target waktu penyelesaian, antara lain: \na. \npenambahan jumlah dana stabil yang tersedia; \nb. \npembatasan eksposur Bank terhadap risiko likuiditas \nmelalui pembatasan ekspansi kredit jangka panjang; \ndan/atau \nc. \npenguatan kebijakan, proses, dan prosedur Bank terkait \nmanajemen risiko likuiditas. \nRencana Tindak Pemenuhan NSFR yang disampaikan oleh Bank \nmerupakan komitmen Bank kepada Otoritas Jasa Keuangan. \n \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nRencana Tindak Pemenuhan NSFR memuat langkah perbaikan \nyang akan dilaksanakan oleh Bank untuk memperbaiki kondisi \nlikuiditas Bank dan target waktu penyelesaian, antara lain: \na. \npenambahan jumlah dana stabil yang tersedia; \nb. \npembatasan eksposur Bank terhadap risiko likuiditas \nmelalui pembatasan ekspansi kredit jangka panjang; \ndan/atau \nc. \npenguatan kebijakan, proses, dan prosedur Bank terkait \nmanajemen risiko likuiditas. \nRencana Tindak Pemenuhan NSFR yang disampaikan oleh Bank \nmerupakan komitmen Bank kepada Otoritas Jasa Keuangan. \n \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nTarget waktu penyelesaian Rencana Tindak Pemenuhan NSFR \nmeliputi target waktu penyelesaian setiap tahapan Rencana \nTindak \nPemenuhan \nNSFR \nmaupun \npenyelesaian \nsecara \nkeseluruhan. \n \nAyat (2) \n \n \nLaporan pelaksanaan Rencana Tindak Pemenuhan NSFR yang \ndisampaikan oleh Bank antara lain memuat penjelasan \n\n\n \nmengenai realisasi pelaksanaan Rencana Tindak Pemenuhan \nNSFR, \ndisertai \nbukti \npelaksanaan \ndan/atau \ndokumen \npendukung terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nTarget waktu penyelesaian Rencana Tindak Pemenuhan NSFR \nmeliputi target waktu penyelesaian setiap tahapan Rencana \nTindak \nPemenuhan \nNSFR \nmaupun \npenyelesaian \nsecara \nkeseluruhan. \n \nAyat (2) \n \n \nLaporan pelaksanaan Rencana Tindak Pemenuhan NSFR yang \ndisampaikan oleh Bank antara lain memuat penjelasan \n\n\n \nmengenai realisasi pelaksanaan Rencana Tindak Pemenuhan \nNSFR, \ndisertai \nbukti \npelaksanaan \ndan/atau \ndokumen \npendukung terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nDalam hal Bank tidak mampu memenuhi NSFR sampai dengan \n100% (seratus persen) pada bulan Februari 2018, Bank wajib \nmenyampaikan Kertas Kerja NSFR dan Laporan NSFR paling \nlambat tanggal 15 Maret 2018 untuk Kertas Kerja NSFR dan \nLaporan NSFR secara individu dan tanggal 31 Maret 2018 untuk \nKertas Kerja NSFR dan Laporan NSFR secara konsolidasi. \n \nAyat (2) \n \n \nDalam hal Bank tidak mampu memenuhi NSFR sampai dengan \n100% (seratus persen) pada bulan Februari 2018, Bank wajib \nmenyampaikan Rencana Tindak Pemenuhan NSFR baik secara \nindividu dan konsolidasi paling lambat tanggal 31 Maret 2018. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat. \n \nAyat (6) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nDalam hal Bank tidak mampu memenuhi NSFR sampai dengan \n100% (seratus persen) pada bulan Februari 2018, Bank wajib \nmenyampaikan Kertas Kerja NSFR dan Laporan NSFR paling \nlambat tanggal 15 Maret 2018 untuk Kertas Kerja NSFR dan \nLaporan NSFR secara individu dan tanggal 31 Maret 2018 untuk \nKertas Kerja NSFR dan Laporan NSFR secara konsolidasi. \n \nAyat (2) \n \n \nDalam hal Bank tidak mampu memenuhi NSFR sampai dengan \n100% (seratus persen) pada bulan Februari 2018, Bank wajib \nmenyampaikan Rencana Tindak Pemenuhan NSFR baik secara \nindividu dan konsolidasi paling lambat tanggal 31 Maret 2018. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat. \n \nAyat (6) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nPencantuman dalam situs web Bank dilakukan secara rinci \ndengan \nmemuat \nperhitungan \nNSFR \ndalam \nbentuk \nperbandingan dengan perhitungan NSFR triwulanan periode \nsebelumnya. \n\n\n \n \nYang dimaksud dengan ”situs web Bank” adalah situs web \nberdomain Indonesia yang bukan merupakan bagian dari \nsitus web entitas induk atau kelompok usaha Bank. \nPengumuman laporan pada situs web Bank ditempatkan \npada halaman yang mudah diakses, misalnya dengan \nmemberikan tautan khusus untuk laporan publikasi NSFR \npada halaman depan situs web Bank.  \n \n \nHuruf b \n \n \n \nPublikasi dalam surat kabar harian cetak berbahasa \nIndonesia dilakukan dengan mencantumkan nilai NSFR \ndalam bentuk perbandingan dengan nilai NSFR triwulanan \nperiode tahun sebelumnya. \n \n \n \nSurat kabar harian cetak berbahasa Indonesia yang \nmemiliki peredaran luas di tempat kedudukan kantor pusat \nBank atau di tempat kedudukan kantor cabang dari bank \nyang berkedudukan di luar negeri.  \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nContoh: Laporan NSFR posisi akhir bulan Maret 2018 dipelihara \npada situs web Bank sampai dengan bulan Maret 2023.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nPencantuman dalam situs web Bank dilakukan secara rinci \ndengan \nmemuat \nperhitungan \nNSFR \ndalam \nbentuk \nperbandingan dengan perhitungan NSFR triwulanan periode \nsebelumnya. \n\n\n \n \nYang dimaksud dengan ”situs web Bank” adalah situs web \nberdomain Indonesia yang bukan merupakan bagian dari \nsitus web entitas induk atau kelompok usaha Bank. \nPengumuman laporan pada situs web Bank ditempatkan \npada halaman yang mudah diakses, misalnya dengan \nmemberikan tautan khusus untuk laporan publikasi NSFR \npada halaman depan situs web Bank.  \n \n \nHuruf b \n \n \n \nPublikasi dalam surat kabar harian cetak berbahasa \nIndonesia dilakukan dengan mencantumkan nilai NSFR \ndalam bentuk perbandingan dengan nilai NSFR triwulanan \nperiode tahun sebelumnya. \n \n \n \nSurat kabar harian cetak berbahasa Indonesia yang \nmemiliki peredaran luas di tempat kedudukan kantor pusat \nBank atau di tempat kedudukan kantor cabang dari bank \nyang berkedudukan di luar negeri.  \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nContoh: Laporan NSFR posisi akhir bulan Maret 2018 dipelihara \npada situs web Bank sampai dengan bulan Maret 2023."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nBank kelompok BUKU 1 dan BUKU 2 dapat menjadi Bank \nkelompok BUKU 3 atau BUKU 4 karena peningkatan modal atau \nmenjadi bank asing. \nPemenuhan kewajiban sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini antara lain melakukan pemantauan pemenuhan \nNSFR, \nmenyampaikan \nlaporan \nperhitungan \nNSFR, \nserta \nmelakukan publikasi dan pengungkapan Laporan NSFR.  \n\n\n \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nBank kelompok BUKU 1 dan BUKU 2 dapat menjadi Bank \nkelompok BUKU 3 atau BUKU 4 karena peningkatan modal atau \nmenjadi bank asing. \nPemenuhan kewajiban sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini antara lain melakukan pemantauan pemenuhan \nNSFR, \nmenyampaikan \nlaporan \nperhitungan \nNSFR, \nserta \nmelakukan publikasi dan pengungkapan Laporan NSFR.  \n\n\n \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6099",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6099"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 40,
+  "total_ayat": 70,
+  "total_karakter": 26685,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

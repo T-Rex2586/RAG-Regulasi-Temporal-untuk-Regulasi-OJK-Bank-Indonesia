@@ -1,0 +1,1523 @@
+{
+  "doc_id": "BI_PBI_2023_849_849",
+  "regulator": "BI",
+  "jenis": "PBI",
+  "nomor": "849",
+  "tahun": "2023",
+  "judul": "PEMBIAYAAN LIKUIDITAS JANGKA PENDEK BERDASARKAN PRINSIP SYARIAH BAGI BANK UMUM SYARIAH",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "27 Juni 2023",
+  "tanggal_berlaku": "diundangkan (27 Juni 2023)",
+  "diundangkan_pada": "27 Juni 2023",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERMOHONAN PLJPS"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJPS"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJPS"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERPANJANGAN JANGKA WAKTU PLJPS"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJPS"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUS PENERIMA PLJPS"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BAGI HASIL"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "BIAYA"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN"
+    },
+    {
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nBank Indonesia adalah Bank Sentral Republik Indonesia \nsebagaimana dimaksud dalam Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.  \n2. \nOtoritas Jasa Keuangan  yang selanjutnya disingkat OJK  \nadalah lembaga negara yang independen yang mempunyai \nfungsi, tugas, dan wewenang pengaturan, pengawasan, \npemeriksaan, dan penyidikan sebagaimana dimaksud \ndalam Undang-Undang mengenai Otoritas Jasa Keuangan. \n3. \nBank adalah badan usaha yang menghimpun dana dari \nmasyarakat dalam bentuk simpanan dan menyalurkannya \nkepada masyarakat dalam bentuk kredit atau pembiayaan \ndan/atau bentuk lainnya dalam rangka meningkatkan \ntaraf hidup rakyat. \n4. \nBank Syariah adalah badan usaha yang menghimpun \ndana dari masyarakat dalam bentuk simpanan dan \ninvestasi dan menyalurkan kepada masyarakat dalam \nbentuk pembiayaan dan/atau bentuk lain berdasarkan \nprinsip syariah dan menurut jenisnya terdiri atas bank \numum syariah dan bank perekonomian rakyat syariah.  \n5. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah jenis Bank Syariah yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran.  \n6. \nPrinsip Syariah adalah prinsip hukum Islam berdasarkan \nfatwa dan/atau pernyataan kesesuaian syariah yang \ndikeluarkan oleh lembaga yang memiliki kewenangan \ndalam penetapan fatwa di bidang syariah. \n\n\n \n7. \nGiro Wajib Minimum yang selanjutnya disingkat GWM \nadalah giro wajib minimum dalam rupiah sebagaimana \ndimaksud dalam ketentuan Peraturan Bank Indonesia \nmengenai giro wajib minimum dalam rupiah dan valuta \nasing bagi bank umum konvensional, BUS, dan unit usaha \nsyariah. \n8. \nKesulitan Likuiditas adalah kesulitan likuiditas jangka \npendek yang disebabkan oleh arus dana masuk yang lebih \nkecil dibandingkan arus dana keluar (mismatch) sehingga \nBUS tidak dapat memenuhi kewajiban GWM. \n9. \nPembiayaan Likuiditas Jangka Pendek Berdasarkan \nPrinsip Syariah yang selanjutnya disingkat PLJPS adalah \npembiayaan berdasarkan Prinsip Syariah dari Bank \nIndonesia kepada BUS untuk mengatasi Kesulitan \nLikuiditas yang dialami oleh BUS. \n10. Sertifikat Bank Indonesia Syariah yang selanjutnya \ndisingkat SBIS adalah Sertifikat Bank Indonesia Syariah \nsebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \n11. Sukuk Bank Indonesia yang selanjutnya disebut SukBI \nadalah Sukuk Bank Indonesia sebagaimana dimaksud \ndalam ketentuan Peraturan Bank Indonesia mengenai \noperasi moneter. \n12. Surat Berharga Syariah Negara yang selanjutnya disingkat \nSBSN, atau dapat disebut Sukuk Negara, adalah surat \nberharga negara yang diterbitkan berdasarkan Prinsip \nSyariah, sebagai bukti atas bagian penyertaan terhadap \naset SBSN tidak termasuk SBSN dalam mata uang valuta \nasing. \n13. Pembiayaan adalah penyediaan dana atau tagihan yang \ndapat dipersamakan dengan itu berdasarkan persetujuan \natau kesepakatan antara BUS dan pihak lain yang \nmewajibkan pihak yang dibiayai dan/atau diberi fasilitas \ndana untuk mengembalikan dana tersebut setelah jangka \nwaktu tertentu dengan imbalan ujrah, tanpa imbalan, atau \nbagi hasil, yang meliputi transaksi bagi hasil, transaksi \nsewa-menyewa, transaksi jual beli, transaksi pinjam \nmeminjam, dan transaksi sewa-menyewa jasa sesuai \ndengan Prinsip Syariah. \n14. Aset Pembiayaan adalah aset BUS berupa Pembiayaan, \ntidak termasuk Pembiayaan dalam mata uang valuta \nasing. \n15. Al-Muqaradhah bi Dhaman Ra’s al-Mal adalah akad PLJPS \ndalam bentuk Pembiayaan berdasarkan Prinsip Syariah \ndari Bank Indonesia kepada BUS untuk mengatasi \nKesulitan Likuiditas BUS, yang mewajibkan BUS untuk \nmengembalikan Pembiayaan sesuai dengan komitmen \n(iltizam), dijamin dengan agunan, dan disertai nisbah bagi \nhasil. \n \nBAB II  \nPERSYARATAN PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nBank Indonesia adalah Bank Sentral Republik Indonesia \nsebagaimana dimaksud dalam Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945.  \n2. \nOtoritas Jasa Keuangan  yang selanjutnya disingkat OJK  \nadalah lembaga negara yang independen yang mempunyai \nfungsi, tugas, dan wewenang pengaturan, pengawasan, \npemeriksaan, dan penyidikan sebagaimana dimaksud \ndalam Undang-Undang mengenai Otoritas Jasa Keuangan. \n3. \nBank adalah badan usaha yang menghimpun dana dari \nmasyarakat dalam bentuk simpanan dan menyalurkannya \nkepada masyarakat dalam bentuk kredit atau pembiayaan \ndan/atau bentuk lainnya dalam rangka meningkatkan \ntaraf hidup rakyat. \n4. \nBank Syariah adalah badan usaha yang menghimpun \ndana dari masyarakat dalam bentuk simpanan dan \ninvestasi dan menyalurkan kepada masyarakat dalam \nbentuk pembiayaan dan/atau bentuk lain berdasarkan \nprinsip syariah dan menurut jenisnya terdiri atas bank \numum syariah dan bank perekonomian rakyat syariah.  \n5. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah jenis Bank Syariah yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran.  \n6. \nPrinsip Syariah adalah prinsip hukum Islam berdasarkan \nfatwa dan/atau pernyataan kesesuaian syariah yang \ndikeluarkan oleh lembaga yang memiliki kewenangan \ndalam penetapan fatwa di bidang syariah. \n\n\n \n7. \nGiro Wajib Minimum yang selanjutnya disingkat GWM \nadalah giro wajib minimum dalam rupiah sebagaimana \ndimaksud dalam ketentuan Peraturan Bank Indonesia \nmengenai giro wajib minimum dalam rupiah dan valuta \nasing bagi bank umum konvensional, BUS, dan unit usaha \nsyariah. \n8. \nKesulitan Likuiditas adalah kesulitan likuiditas jangka \npendek yang disebabkan oleh arus dana masuk yang lebih \nkecil dibandingkan arus dana keluar (mismatch) sehingga \nBUS tidak dapat memenuhi kewajiban GWM. \n9. \nPembiayaan Likuiditas Jangka Pendek Berdasarkan \nPrinsip Syariah yang selanjutnya disingkat PLJPS adalah \npembiayaan berdasarkan Prinsip Syariah dari Bank \nIndonesia kepada BUS untuk mengatasi Kesulitan \nLikuiditas yang dialami oleh BUS. \n10. Sertifikat Bank Indonesia Syariah yang selanjutnya \ndisingkat SBIS adalah Sertifikat Bank Indonesia Syariah \nsebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \n11. Sukuk Bank Indonesia yang selanjutnya disebut SukBI \nadalah Sukuk Bank Indonesia sebagaimana dimaksud \ndalam ketentuan Peraturan Bank Indonesia mengenai \noperasi moneter. \n12. Surat Berharga Syariah Negara yang selanjutnya disingkat \nSBSN, atau dapat disebut Sukuk Negara, adalah surat \nberharga negara yang diterbitkan berdasarkan Prinsip \nSyariah, sebagai bukti atas bagian penyertaan terhadap \naset SBSN tidak termasuk SBSN dalam mata uang valuta \nasing. \n13. Pembiayaan adalah penyediaan dana atau tagihan yang \ndapat dipersamakan dengan itu berdasarkan persetujuan \natau kesepakatan antara BUS dan pihak lain yang \nmewajibkan pihak yang dibiayai dan/atau diberi fasilitas \ndana untuk mengembalikan dana tersebut setelah jangka \nwaktu tertentu dengan imbalan ujrah, tanpa imbalan, atau \nbagi hasil, yang meliputi transaksi bagi hasil, transaksi \nsewa-menyewa, transaksi jual beli, transaksi pinjam \nmeminjam, dan transaksi sewa-menyewa jasa sesuai \ndengan Prinsip Syariah. \n14. Aset Pembiayaan adalah aset BUS berupa Pembiayaan, \ntidak termasuk Pembiayaan dalam mata uang valuta \nasing. \n15. Al-Muqaradhah bi Dhaman Ra’s al-Mal adalah akad PLJPS \ndalam bentuk Pembiayaan berdasarkan Prinsip Syariah \ndari Bank Indonesia kepada BUS untuk mengatasi \nKesulitan Likuiditas BUS, yang mewajibkan BUS untuk \nmengembalikan Pembiayaan sesuai dengan komitmen \n(iltizam), dijamin dengan agunan, dan disertai nisbah bagi \nhasil. \n \nBAB II  \nPERSYARATAN PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nBUS \nyang \nmengalami \nKesulitan \nLikuiditas \ndapat \nmengajukan permohonan secara tertulis kepada Bank \n\n\n \nIndonesia \nuntuk \nmemperoleh \nPLJPS \ndengan \nmenyampaikan tembusan permohonan kepada OJK. \n(2) \nUntuk memperoleh PLJPS sebagaimana dimaksud pada \nayat (1), BUS harus memenuhi persyaratan: \na. \nsolvabilitas; \nb. \nmemiliki agunan yang cukup sebagai jaminan PLJPS; \ndan \nc. \nmemiliki proyeksi arus kas yang memadai untuk \nmengembalikan PLJPS.  \n(3) \nBUS mengajukan plafon PLJPS berdasarkan perkiraan \njumlah \nkebutuhan \nlikuiditas \nsampai \ndengan \nBUS \nmemenuhi GWM. \n(4) \nKetentuan lebih lanjut mengenai persyaratan BUS untuk \nmemperoleh PLJPS diatur dalam Peraturan Anggota \nDewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS \nyang \nmengalami \nKesulitan \nLikuiditas \ndapat \nmengajukan permohonan secara tertulis kepada Bank \n\n\n \nIndonesia \nuntuk \nmemperoleh \nPLJPS \ndengan \nmenyampaikan tembusan permohonan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk memperoleh PLJPS sebagaimana dimaksud pada \nayat (1), BUS harus memenuhi persyaratan: \na. \nsolvabilitas; \nb. \nmemiliki agunan yang cukup sebagai jaminan PLJPS; \ndan \nc. \nmemiliki proyeksi arus kas yang memadai untuk \nmengembalikan PLJPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS mengajukan plafon PLJPS berdasarkan perkiraan \njumlah \nkebutuhan \nlikuiditas \nsampai \ndengan \nBUS \nmemenuhi GWM."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai persyaratan BUS untuk \nmemperoleh PLJPS diatur dalam Peraturan Anggota \nDewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "PLJPS \nyang \ndiberikan \nBank \nIndonesia \nkepada \nBUS \nsebagaimana dimaksud dalam Pasal 2 ayat (1) menggunakan \nakad Al-Muqaradhah bi Dhaman Ra’s al-Mal.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "PLJPS \nyang \ndiberikan \nBank \nIndonesia \nkepada \nBUS \nsebagaimana dimaksud dalam Pasal 2 ayat (1) menggunakan \nakad Al-Muqaradhah bi Dhaman Ra’s al-Mal."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nAgunan yang cukup sebagai jaminan PLJPS sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b berupa: \na. \nsurat berharga syariah yang memiliki peringkat \ntinggi; \nb. \nAset Pembiayaan; dan \nc. \naset tetap. \n(2) \nJenis surat berharga syariah sebagaimana dimaksud pada \nayat (1) huruf a berupa:  \na. \nSBIS; \nb. \nSukBI; \nc. \nSBSN; dan/ atau \nd. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain yang memenuhi persyaratan: \n1. \nmemiliki peringkat paling rendah peringkat \ninvestasi; \n2. \naktif diperdagangkan; dan \n3. \nmemiliki sisa jangka waktu yang ditetapkan oleh \nBank Indonesia. \n(3) \nAset Pembiayaan sebagaimana dimaksud pada ayat (1) \nhuruf b harus memenuhi persyaratan: \na. \nPembiayaan \ndengan \nakad \nmudarabah, \nakad \nmusyarakah, dan/atau akad ijarah nonjasa; \nb. \nkualitas tergolong lancar selama 12 (dua belas) bulan \nterakhir berturut-turut; \nc. \ndijamin dengan agunan tanah dan bangunan \ndan/atau tanah, kecuali Pembiayaan pegawai atau \npensiunan; \nd. \nbukan merupakan Pembiayaan kepada pihak terkait \nBUS; \ne. \ntidak pernah direstrukturisasi dalam waktu 2 (dua) \ntahun terakhir;  \nf. \nsisa jangka waktu jatuh waktu Pembiayaan paling \nsingkat \n(sembilan) \nbulan \nsejak \ntanggal \npenandatanganan perjanjian pemberian PLJPS; \n\n\n \ng. \nsaldo pokok Pembiayaan tidak melebihi batas \nmaksimum penyaluran dana pada saat diberikan dan \ntidak melebihi plafon Pembiayaan; \nh. \nmemiliki akad Pembiayaan serta pengikatan agunan \nyang mempunyai kekuatan hukum; dan  \ni. \ndalam akad Pembiayaan antara BUS dan nasabah \ntercantum \nklausul \nbahwa \nPembiayaan \ndapat \ndialihkan kepada pihak lain. \n(4) \nDalam hal Aset Pembiayaan yang memenuhi persyaratan \ntidak pernah direstrukturisasi sebagaimana dimaksud \npada ayat (3) huruf e tidak mencukupi, BUS dapat \nmenggunakan Aset Pembiayaan yang direstrukturisasi \nselama periode stimulus corona virus disease 2019  \nsebagai agunan dengan ketentuan: \na. \nAset Pembiayaan tidak pernah direstrukturisasi \ndalam 2 (dua) tahun terakhir diluar periode stimulus \ncorona virus disease 2019; dan \nb. \npersyaratan Aset Pembiayaan lain sebagaimana \ndimaksud pada ayat (3) huruf a, huruf b, huruf c, \nhuruf d, huruf f, huruf g, huruf h, dan huruf i telah \nterpenuhi. \n(5) \nAset tetap sebagaimana dimaksud pada ayat (1) huruf c \nharus memenuhi persyaratan: \na. \njenis aset tetap berupa: \n1. \ntanah dan bangunan;  dan/atau  \n2. \ntanah;  \nb. \ndimiliki oleh BUS; dan \nc. \nbukan merupakan properti terbengkalai. \n(6) \nSukuk korporasi sebagaimana dimaksud pada ayat (2) \nhuruf d hanya dapat digunakan sebagai agunan PLJPS \njika \nBUS \ntidak \nmemiliki \nsurat \nberharga \nsyariah \nsebagaimana dimaksud pada ayat (2) huruf a sampai \ndengan huruf c dalam jumlah yang cukup untuk menjadi \nagunan PLJPS pada saat permohonan PLJPS. \n(7) \nAset Pembiayaan sebagaimana dimaksud pada ayat (3) \ndan ayat (4) hanya dapat digunakan sebagai agunan \nPLJPS jika BUS tidak memiliki surat berharga syariah \nsebagaimana dimaksud pada ayat (2) yang memenuhi \npersyaratan agunan PLJPS dalam jumlah yang cukup \nuntuk menjadi agunan PLJPS pada saat permohonan \nPLJPS. \n(8) \nAset tetap sebagaimana dimaksud pada ayat (5) hanya \ndapat digunakan sebagai agunan PLJPS jika BUS tidak \nmemiliki surat berharga syariah sebagaimana dimaksud \npada ayat (2) dan Aset Pembiayaan sebagaimana \ndimaksud pada ayat (3) yang memenuhi persyaratan \nagunan PLJPS dalam jumlah yang cukup pada saat \npermohonan PLJPS. \n(9) \nAgunan PLJPS sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung. \n(10) BUS menjamin agunan PLJPS sebagaimana dimaksud \npada ayat (1) telah memenuhi persyaratan agunan PLJPS. \n(11) Ketentuan \nlebih \nlanjut \nmengenai \nkriteria \nagunan, \nmekanisme pengagunan, dan dokumen agunan, diatur \ndalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agunan yang cukup sebagai jaminan PLJPS sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b berupa: \na. \nsurat berharga syariah yang memiliki peringkat \ntinggi; \nb. \nAset Pembiayaan; dan \nc. \naset tetap."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jenis surat berharga syariah sebagaimana dimaksud pada \nayat (1) huruf a berupa:  \na. \nSBIS; \nb. \nSukBI; \nc. \nSBSN; dan/ atau \nd. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain yang memenuhi persyaratan: \n1. \nmemiliki peringkat paling rendah peringkat \ninvestasi; \n2. \naktif diperdagangkan; dan \n3. \nmemiliki sisa jangka waktu yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Aset Pembiayaan sebagaimana dimaksud pada ayat (1) \nhuruf b harus memenuhi persyaratan: \na. \nPembiayaan \ndengan \nakad \nmudarabah, \nakad \nmusyarakah, dan/atau akad ijarah nonjasa; \nb. \nkualitas tergolong lancar selama 12 (dua belas) bulan \nterakhir berturut-turut; \nc. \ndijamin dengan agunan tanah dan bangunan \ndan/atau tanah, kecuali Pembiayaan pegawai atau \npensiunan; \nd. \nbukan merupakan Pembiayaan kepada pihak terkait \nBUS; \ne. \ntidak pernah direstrukturisasi dalam waktu 2 (dua) \ntahun terakhir;  \nf. \nsisa jangka waktu jatuh waktu Pembiayaan paling \nsingkat \n(sembilan) \nbulan \nsejak \ntanggal \npenandatanganan perjanjian pemberian PLJPS; \n\n\n \ng. \nsaldo pokok Pembiayaan tidak melebihi batas \nmaksimum penyaluran dana pada saat diberikan dan \ntidak melebihi plafon Pembiayaan; \nh. \nmemiliki akad Pembiayaan serta pengikatan agunan \nyang mempunyai kekuatan hukum; dan  \ni. \ndalam akad Pembiayaan antara BUS dan nasabah \ntercantum \nklausul \nbahwa \nPembiayaan \ndapat \ndialihkan kepada pihak lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Aset Pembiayaan yang memenuhi persyaratan \ntidak pernah direstrukturisasi sebagaimana dimaksud \npada ayat (3) huruf e tidak mencukupi, BUS dapat \nmenggunakan Aset Pembiayaan yang direstrukturisasi \nselama periode stimulus corona virus disease 2019  \nsebagai agunan dengan ketentuan: \na. \nAset Pembiayaan tidak pernah direstrukturisasi \ndalam 2 (dua) tahun terakhir diluar periode stimulus \ncorona virus disease 2019; dan \nb. \npersyaratan Aset Pembiayaan lain sebagaimana \ndimaksud pada ayat (3) huruf a, huruf b, huruf c, \nhuruf d, huruf f, huruf g, huruf h, dan huruf i telah \nterpenuhi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Aset tetap sebagaimana dimaksud pada ayat (1) huruf c \nharus memenuhi persyaratan: \na. \njenis aset tetap berupa: \n1. \ntanah dan bangunan;  dan/atau  \n2. \ntanah;  \nb. \ndimiliki oleh BUS; dan \nc. \nbukan merupakan properti terbengkalai."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Sukuk korporasi sebagaimana dimaksud pada ayat (2) \nhuruf d hanya dapat digunakan sebagai agunan PLJPS \njika \nBUS \ntidak \nmemiliki \nsurat \nberharga \nsyariah \nsebagaimana dimaksud pada ayat (2) huruf a sampai \ndengan huruf c dalam jumlah yang cukup untuk menjadi \nagunan PLJPS pada saat permohonan PLJPS."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Aset Pembiayaan sebagaimana dimaksud pada ayat (3) \ndan ayat (4) hanya dapat digunakan sebagai agunan \nPLJPS jika BUS tidak memiliki surat berharga syariah \nsebagaimana dimaksud pada ayat (2) yang memenuhi \npersyaratan agunan PLJPS dalam jumlah yang cukup \nuntuk menjadi agunan PLJPS pada saat permohonan \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Aset tetap sebagaimana dimaksud pada ayat (5) hanya \ndapat digunakan sebagai agunan PLJPS jika BUS tidak \nmemiliki surat berharga syariah sebagaimana dimaksud \npada ayat (2) dan Aset Pembiayaan sebagaimana \ndimaksud pada ayat (3) yang memenuhi persyaratan \nagunan PLJPS dalam jumlah yang cukup pada saat \npermohonan PLJPS."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Agunan PLJPS sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(10)",
+          "teks": "BUS menjamin agunan PLJPS sebagaimana dimaksud \npada ayat (1) telah memenuhi persyaratan agunan PLJPS."
+        },
+        {
+          "ayat_nomor": "(11)",
+          "teks": "Ketentuan \nlebih \nlanjut \nmengenai \nkriteria \nagunan, \nmekanisme pengagunan, dan dokumen agunan, diatur \ndalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia dapat meminta BUS untuk menyerahkan \nagunan lain dengan kondisi agunan PLJPS yang telah \nditerima oleh Bank Indonesia pada periode pemberian \nPLJPS mengalami penurunan nilai sehingga tidak \nmemenuhi kecukupan perhitungan nilai agunan yang \ndibutuhkan dan BUS tidak dapat mengganti atau \nmenambah agunan sebagaimana dimaksud dalam Pasal 4 \nayat (1) sampai dengan ayat (5). \n(2) \nAgunan lain sebagaimana dimaksud pada ayat (1) berupa:  \na. \ntanah dan bangunan dan/atau tanah milik pihak \nlain; dan/atau \nb. \naset lain milik BUS dan/atau pihak lain yang \nditentukan oleh Bank Indonesia. \n(3) \nAgunan lain sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung. \n(4) \nKetentuan lebih lanjut mengenai agunan lain diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat meminta BUS untuk menyerahkan \nagunan lain dengan kondisi agunan PLJPS yang telah \nditerima oleh Bank Indonesia pada periode pemberian \nPLJPS mengalami penurunan nilai sehingga tidak \nmemenuhi kecukupan perhitungan nilai agunan yang \ndibutuhkan dan BUS tidak dapat mengganti atau \nmenambah agunan sebagaimana dimaksud dalam Pasal 4 \nayat (1) sampai dengan ayat (5)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Agunan lain sebagaimana dimaksud pada ayat (1) berupa:  \na. \ntanah dan bangunan dan/atau tanah milik pihak \nlain; dan/atau \nb. \naset lain milik BUS dan/atau pihak lain yang \nditentukan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Agunan lain sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai agunan lain diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nAgunan PLJPS sebagaimana dimaksud dalam Pasal 4 dan \nPasal 5 harus berada dalam kondisi bebas dari segala \nperikatan, sengketa, sitaan, dan tidak sedang dijaminkan \nkepada pihak lain dan/atau Bank Indonesia. \n(2) \nBUS \ntidak \ndapat \nmemperjualbelikan \ndan/atau \nmenjaminkan \nkembali \nagunan \nPLJPS \nsebagaimana \ndimaksud dalam Pasal 4 dan Pasal 5 yang masih dalam \nstatus sebagai agunan PLJPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agunan PLJPS sebagaimana dimaksud dalam Pasal 4 dan \nPasal 5 harus berada dalam kondisi bebas dari segala \nperikatan, sengketa, sitaan, dan tidak sedang dijaminkan \nkepada pihak lain dan/atau Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS \ntidak \ndapat \nmemperjualbelikan \ndan/atau \nmenjaminkan \nkembali \nagunan \nPLJPS \nsebagaimana \ndimaksud dalam Pasal 4 dan Pasal 5 yang masih dalam \nstatus sebagai agunan PLJPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nNilai surat berharga syariah, Aset Pembiayaan, dan aset \ntetap yang digunakan sebagai agunan PLJPS ditetapkan: \na. \nSBIS dihitung berdasarkan nilai nominal SBIS;  \nb. \nSukBI dihitung berdasarkan nilai jual SukBI;  \nc. \nSBSN dihitung berdasarkan nilai pasar SBSN;  \nd. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain \ndihitung \nberdasarkan \nnilai \npasar \nsukuk \nkorporasi dimaksud;  \ne. \nAset Pembiayaan dihitung berdasarkan nilai pasar \nAset Pembiayaan; dan \nf. \naset tetap dihitung berdasarkan nilai pasar aset tetap. \n(2) \nUntuk mitigasi risiko penurunan nilai surat berharga \nsyariah, Aset Pembiayaan, dan aset tetap sebagaimana \ndimaksud pada ayat (1), Bank Indonesia melakukan \nperhitungan: \na. \nnilai agunan berupa SBIS ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJPS yang dihitung \nberdasarkan \nnilai \nnominal \nSBIS \nsebagaimana \ndimaksud pada ayat (1) huruf a; \nb. \nnilai agunan berupa SukBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJPS yang dihitung \nberdasarkan nilai jual SukBI sebagaimana dimaksud \npada ayat (1) huruf b;  \nc. \nnilai agunan berupa SBSN ditetapkan paling rendah \nsebesar 102% (seratus dua persen) dari plafon PLJPS \n\n\n \nyang \ndihitung \nberdasarkan \nnilai \npasar \nSBSN \nsebagaimana dimaksud pada ayat (1) huruf c; \nd. \nnilai \nagunan \nberupa \nsukuk \nkorporasi \nyang \nditerbitkan oleh badan hukum lain ditetapkan paling \nrendah sebesar 120% (seratus dua puluh persen) dari \nplafon PLJPS yang dihitung berdasarkan nilai pasar \nsukuk korporasi sebagaimana dimaksud pada ayat \n(1) huruf d;  \ne. \nnilai agunan berupa Aset Pembiayaan ditetapkan: \n1. \npaling rendah sebesar 200% (dua ratus persen) \ndari plafon PLJPS yang dijamin dengan Aset \nPembiayaan sebagaimana dimaksud dalam Pasal \n4 ayat (3) yang dihitung dengan menggunakan \nnilai dasar perhitungan Aset Pembiayaan; dan \n2. \npaling rendah sebesar 250% (dua ratus lima \npuluh persen) dari plafon PLJPS yang dijamin \ndengan \nAset \nPembiayaan \nsebagaimana \ndimaksud dalam Pasal 4 ayat (4) yang dihitung \ndengan menggunakan nilai dasar perhitungan \nAset Pembiayaan; \nf. \nnilai \ndasar \nperhitungan \nAset \nPembiayaan \nsebagaimana dimaksud dalam huruf e meliputi:  \n1. \nnilai terendah dari: \na) \nnilai pasar Aset Pembiayaan; atau \nb) \nnilai pasar agunan dari Aset Pembiayaan \nberupa tanah dan bangunan dan/atau \ntanah yang telah disesuaikan berdasarkan \nposisi penilaian,  \nuntuk setiap individual Aset Pembiayaan yang \ndijamin dengan tanah dan bangunan dan/atau \ntanah; dan \n2. \nnilai \npasar \nAset \nPembiayaan \nuntuk \nAset \nPembiayaan berupa Aset Pembiayaan pegawai \natau pensiunan; dan \ng. \nnilai agunan berupa aset tetap ditetapkan paling \nrendah sebesar 200% (dua ratus persen) dari plafon \nPLJPS yang dihitung berdasarkan nilai pasar aset \ntetap sebagaimana dimaksud pada ayat (1) huruf f. \n(3) \nKetentuan lebih lanjut mengenai nilai agunan dan tata \ncara perhitungan nilai agunan diatur dalam Peraturan \nAnggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nilai surat berharga syariah, Aset Pembiayaan, dan aset \ntetap yang digunakan sebagai agunan PLJPS ditetapkan: \na. \nSBIS dihitung berdasarkan nilai nominal SBIS;  \nb. \nSukBI dihitung berdasarkan nilai jual SukBI;  \nc. \nSBSN dihitung berdasarkan nilai pasar SBSN;  \nd. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain \ndihitung \nberdasarkan \nnilai \npasar \nsukuk \nkorporasi dimaksud;  \ne. \nAset Pembiayaan dihitung berdasarkan nilai pasar \nAset Pembiayaan; dan \nf. \naset tetap dihitung berdasarkan nilai pasar aset tetap."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk mitigasi risiko penurunan nilai surat berharga \nsyariah, Aset Pembiayaan, dan aset tetap sebagaimana \ndimaksud pada ayat (1), Bank Indonesia melakukan \nperhitungan: \na. \nnilai agunan berupa SBIS ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJPS yang dihitung \nberdasarkan \nnilai \nnominal \nSBIS \nsebagaimana \ndimaksud pada ayat (1) huruf a; \nb. \nnilai agunan berupa SukBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJPS yang dihitung \nberdasarkan nilai jual SukBI sebagaimana dimaksud \npada ayat (1) huruf b;  \nc. \nnilai agunan berupa SBSN ditetapkan paling rendah \nsebesar 102% (seratus dua persen) dari plafon PLJPS \n\n\n \nyang \ndihitung \nberdasarkan \nnilai \npasar \nSBSN \nsebagaimana dimaksud pada ayat (1) huruf c; \nd. \nnilai \nagunan \nberupa \nsukuk \nkorporasi \nyang \nditerbitkan oleh badan hukum lain ditetapkan paling \nrendah sebesar 120% (seratus dua puluh persen) dari \nplafon PLJPS yang dihitung berdasarkan nilai pasar \nsukuk korporasi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf d;  \ne. \nnilai agunan berupa Aset Pembiayaan ditetapkan: \n1. \npaling rendah sebesar 200% (dua ratus persen) \ndari plafon PLJPS yang dijamin dengan Aset \nPembiayaan sebagaimana dimaksud dalam Pasal \n4 ayat (3) yang dihitung dengan menggunakan \nnilai dasar perhitungan Aset Pembiayaan; dan \n2. \npaling rendah sebesar 250% (dua ratus lima \npuluh persen) dari plafon PLJPS yang dijamin \ndengan \nAset \nPembiayaan \nsebagaimana \ndimaksud dalam Pasal 4 ayat (4) yang dihitung \ndengan menggunakan nilai dasar perhitungan \nAset Pembiayaan; \nf. \nnilai \ndasar \nperhitungan \nAset \nPembiayaan \nsebagaimana dimaksud dalam huruf e meliputi:  \n1. \nnilai terendah dari: \na) \nnilai pasar Aset Pembiayaan; atau \nb) \nnilai pasar agunan dari Aset Pembiayaan \nberupa tanah dan bangunan dan/atau \ntanah yang telah disesuaikan berdasarkan \nposisi penilaian,  \nuntuk setiap individual Aset Pembiayaan yang \ndijamin dengan tanah dan bangunan dan/atau \ntanah; dan \n2. \nnilai \npasar \nAset \nPembiayaan \nuntuk \nAset \nPembiayaan berupa Aset Pembiayaan pegawai \natau pensiunan; dan \ng. \nnilai agunan berupa aset tetap ditetapkan paling \nrendah sebesar 200% (dua ratus persen) dari plafon \nPLJPS yang dihitung berdasarkan nilai pasar aset \ntetap sebagaimana dimaksud pada ayat (1) huruf f."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai nilai agunan dan tata \ncara perhitungan nilai agunan diatur dalam Peraturan \nAnggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nBUS harus mengganti agunan PLJPS: \na. \nagunan PLJPS tidak memenuhi kondisi sebagaimana \ndimaksud dalam Pasal 6; \nb. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain tidak lagi memenuhi persyaratan peringkat \nsebagaimana dimaksud dalam Pasal 4 ayat (2) huruf \nd angka 1; \nc. \nterdapat \npelunasan \nPembiayaan \nyang \nmenjadi \nagunan PLJPS oleh nasabah BUS; dan/atau \n \n \n\n\n \nd. \nAset \nPembiayaan \nyang \ndiagunkan \ntidak \nlagi \nmemenuhi \npersyaratan \nkualitas \nsebagaimana \ndimaksud dalam Pasal 4 ayat (3) huruf b,  \nsehingga nilai agunan PLJPS mengalami penurunan dan \nsecara keseluruhan tidak lagi memenuhi plafon PLJPS. \n(2) \nPenggantian agunan PLJPS diprioritaskan dengan agunan \nberupa surat berharga syariah sebagaimana dimaksud \ndalam Pasal 4 ayat (2). \n(3) \nDalam hal BUS tidak memiliki surat berharga syariah yang \nmemenuhi persyaratan agunan PLJPS dalam jumlah yang  \ncukup untuk menjadi agunan PLJPS, Aset Pembiayaan \nsebagaimana dimaksud dalam Pasal 4 ayat (3) dan ayat (4) \ndapat digunakan sebagai pengganti agunan PLJPS. \n(4) \nDalam hal BUS tidak memiliki surat berharga syariah \ndan/atau Aset Pembiayaan yang memenuhi persyaratan \nagunan PLJPS dalam jumlah yang  cukup untuk menjadi \nagunan PLJPS, aset tetap sebagaimana dimaksud dalam \nPasal 4 ayat (5) dapat digunakan sebagai pengganti \nagunan PLJPS. \n(5) \nSelama Bank Indonesia memproses penggantian agunan \nPLJPS sebagaimana dimaksud pada ayat (1), pada periode \npemberian PLJPS, BUS tetap dapat mengajukan pencairan \nPLJPS sepanjang terdapat plafon atau sisa plafon dan \nagunan PLJPS yang mencukupi. \n(6) \nKetentuan lebih lanjut mengenai tata cara penggantian \nagunan PLJPS diatur dalam Peraturan Anggota Dewan \nGubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS harus mengganti agunan PLJPS: \na. \nagunan PLJPS tidak memenuhi kondisi sebagaimana \ndimaksud dalam Pasal 6; \nb. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain tidak lagi memenuhi persyaratan peringkat \nsebagaimana dimaksud dalam Pasal 4 ayat (2) huruf \nd angka 1; \nc. \nterdapat \npelunasan \nPembiayaan \nyang \nmenjadi \nagunan PLJPS oleh nasabah BUS; dan/atau \n \n \n\n\n \nd. \nAset \nPembiayaan \nyang \ndiagunkan \ntidak \nlagi \nmemenuhi \npersyaratan \nkualitas \nsebagaimana \ndimaksud dalam Pasal 4 ayat (3) huruf b,  \nsehingga nilai agunan PLJPS mengalami penurunan dan \nsecara keseluruhan tidak lagi memenuhi plafon PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penggantian agunan PLJPS diprioritaskan dengan agunan \nberupa surat berharga syariah sebagaimana dimaksud \ndalam Pasal 4 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal BUS tidak memiliki surat berharga syariah yang \nmemenuhi persyaratan agunan PLJPS dalam jumlah yang  \ncukup untuk menjadi agunan PLJPS, Aset Pembiayaan \nsebagaimana dimaksud dalam Pasal 4 ayat (3) dan ayat (4) \ndapat digunakan sebagai pengganti agunan PLJPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BUS tidak memiliki surat berharga syariah \ndan/atau Aset Pembiayaan yang memenuhi persyaratan \nagunan PLJPS dalam jumlah yang  cukup untuk menjadi \nagunan PLJPS, aset tetap sebagaimana dimaksud dalam \nPasal 4 ayat (5) dapat digunakan sebagai pengganti \nagunan PLJPS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Selama Bank Indonesia memproses penggantian agunan \nPLJPS sebagaimana dimaksud pada ayat (1), pada periode \npemberian PLJPS, BUS tetap dapat mengajukan pencairan \nPLJPS sepanjang terdapat plafon atau sisa plafon dan \nagunan PLJPS yang mencukupi."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara penggantian \nagunan PLJPS diatur dalam Peraturan Anggota Dewan \nGubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nBUS harus melakukan pemeliharaan dan penatausahaan \nterhadap daftar agunan yang memenuhi persyaratan dan \ndialokasikan untuk menjadi agunan PLJPS. \n(2) \nBUS harus melakukan asesmen mandiri atas pemenuhan \npersyaratan sebelum mengajukan permohonan PLJPS.  \n(3) \nKetentuan mengenai pelaksanaan asesmen mandiri diatur \ndalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS harus melakukan pemeliharaan dan penatausahaan \nterhadap daftar agunan yang memenuhi persyaratan dan \ndialokasikan untuk menjadi agunan PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS harus melakukan asesmen mandiri atas pemenuhan \npersyaratan sebelum mengajukan permohonan PLJPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai pelaksanaan asesmen mandiri diatur \ndalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJPS",
+      "teks_lengkap": "(1) \nPengikatan agunan PLJPS dilakukan sesuai dengan \nketentuan peraturan perundangan-undangan. \n(2) \nBank Indonesia menatausahakan dokumen yang terkait \nagunan PLJPS. \n(3) \nKetentuan lebih lanjut mengenai pengikatan agunan \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB III \nPERMOHONAN PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengikatan agunan PLJPS dilakukan sesuai dengan \nketentuan peraturan perundangan-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia menatausahakan dokumen yang terkait \nagunan PLJPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai pengikatan agunan \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB III \nPERMOHONAN PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERMOHONAN PLJPS",
+      "teks_lengkap": "(1) \nPermohonan PLJPS secara tertulis sebagaimana dimaksud \ndalam Pasal 2 ayat (1) harus dilengkapi dengan dokumen \nyang meliputi:  \na. \nsurat pernyataan BUS yang memuat paling sedikit: \n1. \nBUS mengalami Kesulitan Likuiditas; \n\n\n \n2. \nBUS menjamin agunan PLJPS telah memenuhi \nseluruh \npersyaratan \nagunan \nPLJPS \nsebagaimana dimaksud dalam Pasal 4 ayat (10); \n3. \naset yang menjadi agunan PLJPS berada dalam \nkondisi bebas dari segala perikatan, sengketa, \nsitaan, dan tidak sedang dijaminkan kepada \npihak \nlain \ndan/atau \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 6 ayat (1); \n4. \nBUS tidak akan memperjualbelikan dan/atau \nmenjaminkan kembali agunan PLJPS yang \nmasih dalam status sebagai agunan PLJPS \nsebagaimana dimaksud dalam Pasal 6 ayat (2); \n5. \nBUS sanggup untuk membayar segala kewajiban \nterkait PLJPS; \n6. \nBUS menjamin kebenaran data dan dokumen \nyang disampaikan; dan \n7. \nBUS sanggup untuk menyampaikan data dan \ndokumen lain yang diminta oleh Bank Indonesia; \nb. \nsurat pernyataan dari pemegang saham pengendali \nBUS bahwa pemegang saham pengendali BUS \nmenjamin pembayaran kembali PLJPS serta sanggup \nuntuk \nmenerbitkan \njaminan \npribadi \ndan/atau \njaminan perusahaan yang disertai dengan daftar aset \npemegang saham pengendali; \nc. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nd. \ndaftar seluruh aset yang menjadi agunan PLJPS \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \ne. \nhasil \npemeringkatan \nsukuk \nkorporasi \nyang \nditerbitkan oleh paling sedikit 1 (satu) lembaga \npemeringkat yang diakui oleh OJK jika terdapat \nagunan \nberupa \nsukuk \nkorporasi \ndan \nhasil \npemeringkatan tersebut belum melebihi 1 (satu) \ntahun sampai dengan tanggal permohonan PLJPS; \nf. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJPS; dan \n2. \nagunan dari Aset Pembiayaan berupa tanah dan \nbangunan dan/atau tanah jika terdapat agunan \nPLJPS berupa Aset Pembiayaan yang dijamin \ndengan tanah dan bangunan dan/atau tanah; \ng. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJPS; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJPS; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJPS; \nh. \nsurat persetujuan mengenai permohonan PLJPS \ndan/atau penggunaan aset BUS sebagai agunan \nPLJPS dari pihak yang memiliki kewenangan sesuai \ndengan anggaran dasar atau anggaran rumah tangga \nBUS dan ketentuan peraturan perundang-undangan; \ni. \nanggaran dasar atau anggaran rumah tangga BUS, \ntermasuk perubahannya; dan \nj. \ndokumen lain yang diminta oleh Bank Indonesia. \n\n\n \n(2) \nBUS wajib menjamin kebenaran data dan dokumen yang \ndisampaikan \nkepada \nBank \nIndonesia \nsebagaimana \ndimaksud pada ayat (1). \n(3) \nBUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (3) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJPS tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu. \n(4) \nKetentuan lebih lanjut mengenai tata cara permohonan \nPLJPS, penilaian oleh kantor jasa penilai publik, verifikasi \noleh kantor akuntan publik, dan tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan PLJPS secara tertulis sebagaimana dimaksud \ndalam Pasal 2 ayat (1) harus dilengkapi dengan dokumen \nyang meliputi:  \na. \nsurat pernyataan BUS yang memuat paling sedikit: \n1. \nBUS mengalami Kesulitan Likuiditas; \n\n\n \n2. \nBUS menjamin agunan PLJPS telah memenuhi \nseluruh \npersyaratan \nagunan \nPLJPS \nsebagaimana dimaksud dalam Pasal 4 ayat (10); \n3. \naset yang menjadi agunan PLJPS berada dalam \nkondisi bebas dari segala perikatan, sengketa, \nsitaan, dan tidak sedang dijaminkan kepada \npihak \nlain \ndan/atau \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 6 ayat (1); \n4. \nBUS tidak akan memperjualbelikan dan/atau \nmenjaminkan kembali agunan PLJPS yang \nmasih dalam status sebagai agunan PLJPS \nsebagaimana dimaksud dalam Pasal 6 ayat (2); \n5. \nBUS sanggup untuk membayar segala kewajiban \nterkait PLJPS; \n6. \nBUS menjamin kebenaran data dan dokumen \nyang disampaikan; dan \n7. \nBUS sanggup untuk menyampaikan data dan \ndokumen lain yang diminta oleh Bank Indonesia; \nb. \nsurat pernyataan dari pemegang saham pengendali \nBUS bahwa pemegang saham pengendali BUS \nmenjamin pembayaran kembali PLJPS serta sanggup \nuntuk \nmenerbitkan \njaminan \npribadi \ndan/atau \njaminan perusahaan yang disertai dengan daftar aset \npemegang saham pengendali; \nc. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nd. \ndaftar seluruh aset yang menjadi agunan PLJPS \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \ne. \nhasil \npemeringkatan \nsukuk \nkorporasi \nyang \nditerbitkan oleh paling sedikit 1 (satu) lembaga \npemeringkat yang diakui oleh OJK jika terdapat \nagunan \nberupa \nsukuk \nkorporasi \ndan \nhasil \npemeringkatan tersebut belum melebihi 1 (satu) \ntahun sampai dengan tanggal permohonan PLJPS; \nf. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJPS; dan \n2. \nagunan dari Aset Pembiayaan berupa tanah dan \nbangunan dan/atau tanah jika terdapat agunan \nPLJPS berupa Aset Pembiayaan yang dijamin \ndengan tanah dan bangunan dan/atau tanah; \ng. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJPS; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJPS; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJPS; \nh. \nsurat persetujuan mengenai permohonan PLJPS \ndan/atau penggunaan aset BUS sebagai agunan \nPLJPS dari pihak yang memiliki kewenangan sesuai \ndengan anggaran dasar atau anggaran rumah tangga \nBUS dan ketentuan peraturan perundang-undangan; \ni. \nanggaran dasar atau anggaran rumah tangga BUS, \ntermasuk perubahannya; dan \nj. \ndokumen lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS wajib menjamin kebenaran data dan dokumen yang \ndisampaikan \nkepada \nBank \nIndonesia \nsebagaimana \ndimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (3) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJPS tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara permohonan \nPLJPS, penilaian oleh kantor jasa penilai publik, verifikasi \noleh kantor akuntan publik, dan tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERMOHONAN PLJPS",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti \npermohonan \nPLJPS \nsebagaimana \ndimaksud dalam Pasal 11 ayat (1). \n(2) \nKoordinasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan dalam menilai pemenuhan persyaratan PLJPS \nsebagaimana dimaksud dalam Pasal 2 ayat (2). \n(3) \nKoordinasi antara Bank Indonesia dan OJK sebagaimana \ndimaksud pada ayat (2) paling sedikit mengenai:  \na. \npermintaan \npenilaian \nkepada \nOJK \nmengenai \npemenuhan persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUS; dan  \nb. \npelaksanaan penilaian bersama Bank Indonesia dan \nOJK mengenai pemenuhan kecukupan agunan dan \nproyeksi arus kas untuk mengembalikan PLJPS. \n \nBAB IV  \nPERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti \npermohonan \nPLJPS \nsebagaimana \ndimaksud dalam Pasal 11 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan dalam menilai pemenuhan persyaratan PLJPS \nsebagaimana dimaksud dalam Pasal 2 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Koordinasi antara Bank Indonesia dan OJK sebagaimana \ndimaksud pada ayat (2) paling sedikit mengenai:  \na. \npermintaan \npenilaian \nkepada \nOJK \nmengenai \npemenuhan persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUS; dan  \nb. \npelaksanaan penilaian bersama Bank Indonesia dan \nOJK mengenai pemenuhan kecukupan agunan dan \nproyeksi arus kas untuk mengembalikan PLJPS. \n \nBAB IV  \nPERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan persetujuan atau penolakan \natas permohonan PLJPS sebagaimana dimaksud dalam \nPasal 11 ayat (1). \n(2) \nDalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2);  \nb. \nkelengkapan \ndokumen \npermohonan \nPLJPS \nsebagaimana dimaksud dalam Pasal 11 ayat (1); dan \nc. \nanalisis mengenai perkiraan jumlah kebutuhan \nlikuiditas BUS. \n(3) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUS dengan \ntembusan kepada OJK. \n(4) \nBerdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUS harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJPS; \nb. \nmenunjuk notaris; \n\n\n \nc. \nmenyampaikan dokumen berupa rancangan akta \nperjanjian pemberian PLJPS dan rancangan akta \npengikatan agunan PLJPS; dan \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia.  \n(5) \nBank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUS sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d. \n(6) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUS \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perjanjian pemberian \nPLJPS dan akta pengikatan agunan PLJPS. \n(7) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUS tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon dan BUS tidak dapat \nmenambah agunan PLJPS, plafon PLJPS diturunkan \nsesuai dengan nilai agunan yang tersedia sepanjang BUS \nmempunyai \nsumber \ndana \nlain \nuntuk \nmenutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS. \n(8) \nPersetujuan \natas \npermohonan \nPLJPS \nsebagaimana \ndimaksud pada ayat (1) dibatalkan oleh Bank Indonesia \njika: \na. \nBUS \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUS tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon, \nBUS tidak dapat menambah agunan PLJPS, dan BUS \ntidak mempunyai sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS; dan/atau \nc. \ndiketahui \nbahwa \nBUS \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2). \n(9) \nKetentuan lebih lanjut mengenai pemberian persetujuan \natau penolakan atas permohonan PLJPS diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan persetujuan atau penolakan \natas permohonan PLJPS sebagaimana dimaksud dalam \nPasal 11 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2);  \nb. \nkelengkapan \ndokumen \npermohonan \nPLJPS \nsebagaimana dimaksud dalam Pasal 11 ayat (1); dan \nc. \nanalisis mengenai perkiraan jumlah kebutuhan \nlikuiditas BUS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUS dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUS harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJPS; \nb. \nmenunjuk notaris; \n\n\n \nc. \nmenyampaikan dokumen berupa rancangan akta \nperjanjian pemberian PLJPS dan rancangan akta \npengikatan agunan PLJPS; dan \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUS sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUS \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perjanjian pemberian \nPLJPS dan akta pengikatan agunan PLJPS."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUS tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon dan BUS tidak dapat \nmenambah agunan PLJPS, plafon PLJPS diturunkan \nsesuai dengan nilai agunan yang tersedia sepanjang BUS \nmempunyai \nsumber \ndana \nlain \nuntuk \nmenutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Persetujuan \natas \npermohonan \nPLJPS \nsebagaimana \ndimaksud pada ayat (1) dibatalkan oleh Bank Indonesia \njika: \na. \nBUS \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUS tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon, \nBUS tidak dapat menambah agunan PLJPS, dan BUS \ntidak mempunyai sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS; dan/atau \nc. \ndiketahui \nbahwa \nBUS \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Ketentuan lebih lanjut mengenai pemberian persetujuan \natau penolakan atas permohonan PLJPS diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJPS",
+      "teks_lengkap": "Berdasarkan \npertimbangan \ntertentu \nsesuai \ndengan \nkewenangan Bank Indonesia, Bank Indonesia dapat menolak \npermohonan PLJPS meskipun BUS telah memenuhi seluruh \npersyaratan PLJPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berdasarkan \npertimbangan \ntertentu \nsesuai \ndengan \nkewenangan Bank Indonesia, Bank Indonesia dapat menolak \npermohonan PLJPS meskipun BUS telah memenuhi seluruh \npersyaratan PLJPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan PLJPS untuk jangka waktu \npaling lama 30 (tiga puluh) hari kalender untuk setiap \nperiode pemberian PLJPS. \n(2) \nJangka waktu sebagaimana dimaksud pada ayat (1) \nberlaku efektif sejak tanggal aktivasi pemberian PLJPS \noleh Bank Indonesia. \n\n\n \n(3) \nJangka waktu sebagaimana dimaksud pada ayat (1) dapat \ndiperpanjang secara berturut-turut paling banyak 2 (dua) \nperiode. \n \nBAB V \nPENCAIRAN PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan PLJPS untuk jangka waktu \npaling lama 30 (tiga puluh) hari kalender untuk setiap \nperiode pemberian PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu sebagaimana dimaksud pada ayat (1) \nberlaku efektif sejak tanggal aktivasi pemberian PLJPS \noleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu sebagaimana dimaksud pada ayat (1) dapat \ndiperpanjang secara berturut-turut paling banyak 2 (dua) \nperiode. \n \nBAB V \nPENCAIRAN PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJPS",
+      "teks_lengkap": "(1) \nBUS dapat mengajukan pencairan PLJPS sejak tanggal \naktivasi \npemberian \nPLJPS \noleh \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 15 ayat (2). \n(2) \nPencairan PLJPS dilakukan paling banyak 1 (satu) kali \ndalam sehari sebesar perkiraan kebutuhan BUS untuk \nmengatasi Kesulitan Likuiditas. \n(3) \nPengajuan pencairan PLJPS sebagaimana dimaksud pada \nayat (1) disampaikan kepada Bank Indonesia dengan \nmelampirkan dokumen yang meliputi:  \na. \nsurat sanggup bayar sebesar pengajuan pencairan; \ndan \nb. \nproyeksi arus kas yang mencerminkan kebutuhan \npencairan. \n(4) \nPencairan PLJPS dilakukan melalui rekening giro rupiah \nBUS yang bersangkutan pada Bank Indonesia. \n(5) \nKetentuan lebih lanjut mengenai pencairan PLJPS diatur \ndalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dapat mengajukan pencairan PLJPS sejak tanggal \naktivasi \npemberian \nPLJPS \noleh \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 15 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pencairan PLJPS dilakukan paling banyak 1 (satu) kali \ndalam sehari sebesar perkiraan kebutuhan BUS untuk \nmengatasi Kesulitan Likuiditas."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengajuan pencairan PLJPS sebagaimana dimaksud pada \nayat (1) disampaikan kepada Bank Indonesia dengan \nmelampirkan dokumen yang meliputi:  \na. \nsurat sanggup bayar sebesar pengajuan pencairan; \ndan \nb. \nproyeksi arus kas yang mencerminkan kebutuhan \npencairan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pencairan PLJPS dilakukan melalui rekening giro rupiah \nBUS yang bersangkutan pada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai pencairan PLJPS diatur \ndalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia berwenang melakukan pembatasan \npencairan PLJPS. \n(2) \nPembatasan pencairan PLJPS sebagaimana dimaksud \npada ayat (1) dilakukan dengan kondisi nilai agunan tidak \nmencukupi plafon dan BUS tidak dapat menambah \ndan/atau mengganti agunan PLJPS sehingga secara \nkeseluruhan nilai agunan tidak mencukupi plafon. \n(3) \nKetentuan lebih lanjut mengenai pembatasan pencairan \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia berwenang melakukan pembatasan \npencairan PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembatasan pencairan PLJPS sebagaimana dimaksud \npada ayat (1) dilakukan dengan kondisi nilai agunan tidak \nmencukupi plafon dan BUS tidak dapat menambah \ndan/atau mengganti agunan PLJPS sehingga secara \nkeseluruhan nilai agunan tidak mencukupi plafon."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai pembatasan pencairan \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia berwenang menghentikan pencairan \nPLJPS sebelum jatuh waktu jika menurut penilaian OJK \nyang disampaikan kepada Bank Indonesia, BUS tidak lagi \nmemenuhi persyaratan atau kecukupan solvabilitas dan \ntingkat kesehatan BUS. \n(2) \nKetentuan lebih lanjut mengenai penghentian pencairan \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VI \nPERPANJANGAN JANGKA WAKTU PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia berwenang menghentikan pencairan \nPLJPS sebelum jatuh waktu jika menurut penilaian OJK \nyang disampaikan kepada Bank Indonesia, BUS tidak lagi \nmemenuhi persyaratan atau kecukupan solvabilitas dan \ntingkat kesehatan BUS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan lebih lanjut mengenai penghentian pencairan \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VI \nPERPANJANGAN JANGKA WAKTU PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERPANJANGAN JANGKA WAKTU PLJPS",
+      "teks_lengkap": "(1) \nBUS dapat mengajukan permohonan perpanjangan jangka \nwaktu PLJPS secara tertulis kepada Bank Indonesia \ndengan menyampaikan tembusan permohonan kepada \nOJK. \n\n\n \n(2) \nPermohonan \nperpanjangan \njangka \nwaktu \nPLJPS \nsebagaimana dimaksud pada ayat (1) harus dilengkapi \ndengan dokumen yang meliputi:  \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJPS \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJPS; dan \n2. \nagunan dari Aset Pembiayaan berupa tanah dan \nbangunan dan/atau tanah jika terdapat agunan \nPLJPS berupa Aset Pembiayaan yang dijamin \ndengan tanah dan bangunan dan/atau tanah; \nd. \nhasil verifikasi kantor akuntan publik atas:  \n1. \npemenuhan persyaratan agunan PLJPS; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJPS; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJPS; dan \ne. \ndokumen lain yang diminta oleh Bank Indonesia. \n(3) \nUntuk keperluan perpanjangan jangka waktu PLJPS, BUS \ntetap dapat menggunakan agunan PLJPS pada periode \npemberian \nPLJPS \nsebelumnya \nsepanjang \nmasih \nmemenuhi persyaratan dan kecukupan jumlah agunan \nPLJPS. \n(4) \nDalam hal BUS memiliki surat berharga syariah yang \nmemenuhi \npersyaratan \nagunan \nPLJPS \npada \nsaat \npermohonan perpanjangan jangka waktu PLJPS, BUS \nharus menyerahkan surat berharga syariah tersebut \nsebagai agunan untuk perpanjangan jangka waktu PLJPS. \n(5) \nBank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti permohonan perpanjangan jangka waktu \nPLJPS sebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dapat mengajukan permohonan perpanjangan jangka \nwaktu PLJPS secara tertulis kepada Bank Indonesia \ndengan menyampaikan tembusan permohonan kepada \nOJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan \nperpanjangan \njangka \nwaktu \nPLJPS \nsebagaimana dimaksud pada ayat (1) harus dilengkapi \ndengan dokumen yang meliputi:  \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJPS \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJPS; dan \n2. \nagunan dari Aset Pembiayaan berupa tanah dan \nbangunan dan/atau tanah jika terdapat agunan \nPLJPS berupa Aset Pembiayaan yang dijamin \ndengan tanah dan bangunan dan/atau tanah; \nd. \nhasil verifikasi kantor akuntan publik atas:  \n1. \npemenuhan persyaratan agunan PLJPS; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJPS; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJPS; dan \ne. \ndokumen lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Untuk keperluan perpanjangan jangka waktu PLJPS, BUS \ntetap dapat menggunakan agunan PLJPS pada periode \npemberian \nPLJPS \nsebelumnya \nsepanjang \nmasih \nmemenuhi persyaratan dan kecukupan jumlah agunan \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BUS memiliki surat berharga syariah yang \nmemenuhi \npersyaratan \nagunan \nPLJPS \npada \nsaat \npermohonan perpanjangan jangka waktu PLJPS, BUS \nharus menyerahkan surat berharga syariah tersebut \nsebagai agunan untuk perpanjangan jangka waktu PLJPS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti permohonan perpanjangan jangka waktu \nPLJPS sebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERPANJANGAN JANGKA WAKTU PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan persetujuan atau penolakan \natas permohonan perpanjangan jangka waktu PLJPS \nsebagaimana dimaksud dalam Pasal 19 ayat (1). \n(2) \nDalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit:  \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \njangka waktu PLJPS secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 15 ayat (3); dan \nc. \nBUS telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 19 ayat (2). \n(3) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUS dengan \ntembusan kepada OJK. \n \n \n\n\n \n(4) \nBerdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUS harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJPS \njika \nterdapat \npenambahan \ndan/atau \npenggantian agunan PLJPS;  \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan \nperjanjian \npemberian \nPLJPS \ndan \nrancangan akta perubahan pengikatan agunan \nPLJPS; \nd. \nmelunasi bagi hasil PLJPS pada saat jatuh waktu; \ndan \ne. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia. \n(5) \nBank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUS sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf e. \n(6) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUS \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJPS dan akta perubahan pengikatan agunan \nPLJPS. \n(7) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUS tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon PLJPS, BUS harus: \na. \nmenambah agunan PLJPS; dan/atau \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS. \n(8) \nPersetujuan atas permohonan perpanjangan jangka waktu \nPLJPS sebagaimana dimaksud pada ayat (1) dibatalkan \noleh Bank Indonesia jika: \na. \nBUS \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUS tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \ndan BUS tidak dapat menambah agunan PLJPS \ndan/atau BUS tidak menyediakan sumber dana lain \nuntuk menutup kekurangan likuiditas yang tidak \ndapat diperoleh dari PLJPS sebagaimana dimaksud \npada ayat (7); dan/atau \nc. \ndiketahui \nbahwa \nBUS \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2). \n(9) \nKetentuan lebih lanjut mengenai perpanjangan jangka \nwaktu PLJPS diatur dalam Peraturan Anggota Dewan \nGubernur. \n \n \n \n \n \n\n\n \nBAB VII \nPENAMBAHAN DAN PENURUNAN PLAFON PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan persetujuan atau penolakan \natas permohonan perpanjangan jangka waktu PLJPS \nsebagaimana dimaksud dalam Pasal 19 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit:  \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \njangka waktu PLJPS secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 15 ayat (3); dan \nc. \nBUS telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 19 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUS dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUS harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJPS \njika \nterdapat \npenambahan \ndan/atau \npenggantian agunan PLJPS;  \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan \nperjanjian \npemberian \nPLJPS \ndan \nrancangan akta perubahan pengikatan agunan \nPLJPS; \nd. \nmelunasi bagi hasil PLJPS pada saat jatuh waktu; \ndan \ne. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUS sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf e."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUS \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJPS dan akta perubahan pengikatan agunan \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUS tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon PLJPS, BUS harus: \na. \nmenambah agunan PLJPS; dan/atau \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Persetujuan atas permohonan perpanjangan jangka waktu \nPLJPS sebagaimana dimaksud pada ayat (1) dibatalkan \noleh Bank Indonesia jika: \na. \nBUS \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUS tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \ndan BUS tidak dapat menambah agunan PLJPS \ndan/atau BUS tidak menyediakan sumber dana lain \nuntuk menutup kekurangan likuiditas yang tidak \ndapat diperoleh dari PLJPS sebagaimana dimaksud \npada ayat (7); dan/atau \nc. \ndiketahui \nbahwa \nBUS \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Ketentuan lebih lanjut mengenai perpanjangan jangka \nwaktu PLJPS diatur dalam Peraturan Anggota Dewan \nGubernur. \n \n \n \n \n \n\n\n \nBAB VII \nPENAMBAHAN DAN PENURUNAN PLAFON PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJPS",
+      "teks_lengkap": "(1) \nBUS dapat mengajukan permohonan penambahan plafon \nPLJPS secara tertulis kepada Bank Indonesia dengan \nmenyampaikan tembusan permohonan kepada OJK. \n(2) \nPermohonan penambahan plafon PLJPS sebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \npermohonan \nperpanjangan \njangka \nwaktu \nPLJPS \nsebagaimana dimaksud dalam Pasal 19 ayat (1).  \n(3) \nPermohonan penambahan plafon PLJPS sebagaimana \ndimaksud pada ayat (1) harus dilengkapi dengan dokumen \nyang meliputi: \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJPS \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJPS; dan \n2. \nagunan dari Aset Pembiayaan berupa tanah dan \nbangunan dan/atau tanah jika terdapat agunan \nPLJPS berupa Aset Pembiayaan yang dijamin \ndengan tanah dan bangunan dan/atau tanah; \nd. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJPS; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJPS; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJPS; dan \ne. \ndokumen lain yang diminta oleh Bank Indonesia. \n(4) \nBank \nIndonesia \nberkoordinasi \ndengan \nOJK \nuntuk \nmenindaklanjuti permohonan penambahan plafon PLJPS \nsebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dapat mengajukan permohonan penambahan plafon \nPLJPS secara tertulis kepada Bank Indonesia dengan \nmenyampaikan tembusan permohonan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan penambahan plafon PLJPS sebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \npermohonan \nperpanjangan \njangka \nwaktu \nPLJPS \nsebagaimana dimaksud dalam Pasal 19 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Permohonan penambahan plafon PLJPS sebagaimana \ndimaksud pada ayat (1) harus dilengkapi dengan dokumen \nyang meliputi: \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJPS \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJPS; dan \n2. \nagunan dari Aset Pembiayaan berupa tanah dan \nbangunan dan/atau tanah jika terdapat agunan \nPLJPS berupa Aset Pembiayaan yang dijamin \ndengan tanah dan bangunan dan/atau tanah; \nd. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJPS; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJPS; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJPS; dan \ne. \ndokumen lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \nIndonesia \nberkoordinasi \ndengan \nOJK \nuntuk \nmenindaklanjuti permohonan penambahan plafon PLJPS \nsebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJPS",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan persetujuan atau penolakan \natas permohonan penambahan plafon PLJPS sebagaimana \ndimaksud dalam Pasal 21 ayat (1). \n(2) \nDalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \njangka waktu PLJPS secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 15 ayat (3); dan \nc. \nBUS telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 21 ayat (3). \n(3) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUS dengan \ntembusan kepada OJK. \n \n\n\n \n(4) \nBerdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUS harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJPS jika terdapat tambahan agunan PLJPS; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan perjanjian pemberian PLJPS dan akta \nperubahan pengikatan agunan PLJPS; dan \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia. \n(5) \nBank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUS sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d. \n(6) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUS \ntelah \nlengkap,akan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJPS dan akta perubahan pengikatan agunan \nPLJPS. \n(7) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUS tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon PLJPS, BUS harus: \na. \nmenambah agunan PLJPS; dan/atau \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS. \n(8) \nPersetujuan atas permohonan penambahan plafon PLJPS \nsebagaimana dimaksud pada ayat (1) dibatalkan oleh \nBank Indonesia jika: \na. \nBUS \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUS tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \nPLJPS dan BUS tidak dapat menambah agunan \nPLJPS dan/atau BUS tidak menyediakan sumber \ndana lain untuk menutup kekurangan likuiditas yang \ntidak dapat diperoleh dari PLJPS sebagaimana \ndimaksud pada ayat (7); dan/atau \nc. \ndiketahui \nbahwa \nBUS \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2). \n(9) \nTambahan \nplafon \nPLJPS \nyang \ndisetujui \nakan \ndiakumulasikan dengan plafon PLJPS sebelumnya. \n(10) Ketentuan lebih lanjut mengenai penambahan plafon \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan persetujuan atau penolakan \natas permohonan penambahan plafon PLJPS sebagaimana \ndimaksud dalam Pasal 21 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \njangka waktu PLJPS secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 15 ayat (3); dan \nc. \nBUS telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 21 ayat (3)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUS dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUS harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJPS jika terdapat tambahan agunan PLJPS; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan perjanjian pemberian PLJPS dan akta \nperubahan pengikatan agunan PLJPS; dan \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUS sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUS \ntelah \nlengkap,akan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJPS dan akta perubahan pengikatan agunan \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUS tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon PLJPS, BUS harus: \na. \nmenambah agunan PLJPS; dan/atau \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Persetujuan atas permohonan penambahan plafon PLJPS \nsebagaimana dimaksud pada ayat (1) dibatalkan oleh \nBank Indonesia jika: \na. \nBUS \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUS tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \nPLJPS dan BUS tidak dapat menambah agunan \nPLJPS dan/atau BUS tidak menyediakan sumber \ndana lain untuk menutup kekurangan likuiditas yang \ntidak dapat diperoleh dari PLJPS sebagaimana \ndimaksud pada ayat (7); dan/atau \nc. \ndiketahui \nbahwa \nBUS \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Tambahan \nplafon \nPLJPS \nyang \ndisetujui \nakan \ndiakumulasikan dengan plafon PLJPS sebelumnya."
+        },
+        {
+          "ayat_nomor": "(10)",
+          "teks": "Ketentuan lebih lanjut mengenai penambahan plafon \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJPS",
+      "teks_lengkap": "(1) \nBUS dapat mengajukan permohonan penurunan plafon \nPLJPS secara tertulis kepada Bank Indonesia dengan \ntembusan kepada OJK.  \n(2) \nPermohonan penurunan plafon PLJPS sebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \n\n\n \npermohonan \nperpanjangan \njangka \nwaktu \nPLJPS \nsebagaimana dimaksud dalam Pasal 19 ayat (1).  \n(3) \nProses penurunan plafon PLJPS dilakukan sesuai dengan \nproses \nperpanjangan \nwaktu \nPLJPS \nsebagaimana \ndimaksud dalam Pasal 19 dan Pasal 20.  \n(4) \nKetentuan lebih lanjut mengenai penurunan plafon PLJPS \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VIII  \nLARANGAN DAN PEMBATASAN KEGIATAN  \nBAGI BUS PENERIMA PLJPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dapat mengajukan permohonan penurunan plafon \nPLJPS secara tertulis kepada Bank Indonesia dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan penurunan plafon PLJPS sebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \n\n\n \npermohonan \nperpanjangan \njangka \nwaktu \nPLJPS \nsebagaimana dimaksud dalam Pasal 19 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Proses penurunan plafon PLJPS dilakukan sesuai dengan \nproses \nperpanjangan \nwaktu \nPLJPS \nsebagaimana \ndimaksud dalam Pasal 19 dan Pasal 20."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai penurunan plafon PLJPS \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VIII  \nLARANGAN DAN PEMBATASAN KEGIATAN  \nBAGI BUS PENERIMA PLJPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUS PENERIMA PLJPS",
+      "teks_lengkap": "(1) \nSelama periode pemberian PLJPS atau selama BUS belum \nmelakukan pembayaran kembali kewajiban PLJPS, BUS \ndilarang: \na. \nmelakukan penempatan dana;  \nb. \nmenyalurkan Pembiayaan baru kepada pihak terkait \nBUS, kecuali untuk pemenuhan komitmen yang telah \ndiperjanjikan sebelumnya; \nc. \nmerealisasikan penarikan dana oleh pihak terkait \nBUS; dan \nd. \nmelakukan pembagian dividen. \n(2) \nLarangan sebagaimana dimaksud pada ayat (1) tidak \nmeniadakan larangan lain yang telah dikeluarkan oleh \nOJK. \n(3) \nBUS yang melanggar larangan selama periode pemberian \nPLJPS atau selama BUS belum melakukan pembayaran \nkembali kewajiban PLJPS sebagaimana dimaksud pada \nayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJPS tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu. \n(4) \nKetentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Selama periode pemberian PLJPS atau selama BUS belum \nmelakukan pembayaran kembali kewajiban PLJPS, BUS \ndilarang: \na. \nmelakukan penempatan dana;  \nb. \nmenyalurkan Pembiayaan baru kepada pihak terkait \nBUS, kecuali untuk pemenuhan komitmen yang telah \ndiperjanjikan sebelumnya; \nc. \nmerealisasikan penarikan dana oleh pihak terkait \nBUS; dan \nd. \nmelakukan pembagian dividen."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Larangan sebagaimana dimaksud pada ayat (1) tidak \nmeniadakan larangan lain yang telah dikeluarkan oleh \nOJK."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS yang melanggar larangan selama periode pemberian \nPLJPS atau selama BUS belum melakukan pembayaran \nkembali kewajiban PLJPS sebagaimana dimaksud pada \nayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJPS tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUS PENERIMA PLJPS",
+      "teks_lengkap": "Selama periode pemberian PLJPS, BUS dibatasi hanya dapat \nmengikuti operasi moneter syariah Bank Indonesia yang \nbersifat ekspansi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Selama periode pemberian PLJPS, BUS dibatasi hanya dapat \nmengikuti operasi moneter syariah Bank Indonesia yang \nbersifat ekspansi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUS PENERIMA PLJPS",
+      "teks_lengkap": "Larangan sebagaimana dimaksud dalam Pasal 24 dan \npembatasan \nsebagaimana \ndimaksud \ndalam \nPasal \n25, \ndisampaikan Bank Indonesia melalui surat kepada BUS dengan \ntembusan kepada OJK. \n \nBAB IX  \nBAGI HASIL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Larangan sebagaimana dimaksud dalam Pasal 24 dan \npembatasan \nsebagaimana \ndimaksud \ndalam \nPasal \n25, \ndisampaikan Bank Indonesia melalui surat kepada BUS dengan \ntembusan kepada OJK. \n \nBAB IX  \nBAGI HASIL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BAGI HASIL",
+      "teks_lengkap": "(1) \nBank Indonesia memperoleh bagi hasil secara harian dari \nBUS atas saldo pokok PLJPS. \n\n\n \n(2) \nDalam perhitungan bagi hasil sebagaimana dimaksud \npada ayat (1) ditetapkan nisbah bagi hasil untuk Bank \nIndonesia sebesar 80% (delapan puluh persen). \n(3) \nBagi hasil sebagaimana dimaksud pada ayat (1) dihitung \ndengan menggunakan nisbah bagi hasil untuk Bank \nIndonesia sebagaimana dimaksud pada ayat (2) dikalikan \ndengan tingkat realisasi imbalan deposito investasi \nmudarabah sebelum distribusi pada BUS yang menerima \nPLJPS. \n(4) \nKetentuan lebih lanjut mengenai perhitungan bagi hasil \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB X \nPEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memperoleh bagi hasil secara harian dari \nBUS atas saldo pokok PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam perhitungan bagi hasil sebagaimana dimaksud \npada ayat (1) ditetapkan nisbah bagi hasil untuk Bank \nIndonesia sebesar 80% (delapan puluh persen)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bagi hasil sebagaimana dimaksud pada ayat (1) dihitung \ndengan menggunakan nisbah bagi hasil untuk Bank \nIndonesia sebagaimana dimaksud pada ayat (2) dikalikan \ndengan tingkat realisasi imbalan deposito investasi \nmudarabah sebelum distribusi pada BUS yang menerima \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai perhitungan bagi hasil \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB X \nPEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nBUS wajib melakukan pembayaran kembali PLJPS pada \nsaat jatuh waktu sebesar saldo pokok dan bagi hasil \nPLJPS. \n(2) \nBUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu; dan \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter syariah. \n(3) \nKetentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS wajib melakukan pembayaran kembali PLJPS pada \nsaat jatuh waktu sebesar saldo pokok dan bagi hasil \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu; dan \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nBUS yang tidak melakukan pembayaran kembali PLJPS \npada saat jatuh waktu dinyatakan cidera janji.  \n(2) \nBUS yang cidera janji sebagaimana dimaksud pada ayat \n(1) dengan sukarela menyerahkan seluruh agunan PLJPS \nkepada Bank Indonesia untuk dilakukan eksekusi \nagunan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS yang tidak melakukan pembayaran kembali PLJPS \npada saat jatuh waktu dinyatakan cidera janji."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS yang cidera janji sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dengan sukarela menyerahkan seluruh agunan PLJPS \nkepada Bank Indonesia untuk dilakukan eksekusi \nagunan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nDalam hal BUS belum melakukan pembayaran kembali \nsaldo pokok PLJPS pada saat jatuh waktu, BUS dikenai \nkewajiban membayar (gharamah maliyah). \n(2) \nPengenaan kewajiban membayar (gharamah maliyah) \nsebagaimana dimaksud pada ayat (1) dilakukan sampai \ndengan BUS melakukan pembayaran kembali saldo pokok \nPLJPS. \n(3) \nKewajiban membayar (gharamah maliyah) dihitung secara \nharian dari saldo pokok PLJPS yang belum dibayar \nkembali. \n(4) \nDalam perhitungan kewajiban membayar (gharamah \nmaliyah) ditetapkan nisbah bagi hasil untuk Bank \nIndonesia sebesar 80% (delapan puluh persen). \n(5) \nKewajiban membayar (gharamah maliyah) sebagaimana \ndimaksud pada ayat (1) dihitung dengan menggunakan \nnisbah bagi hasil untuk Bank Indonesia sebagaimana \ndimaksud pada ayat (4) dikalikan dengan tingkat realisasi \n\n\n \nimbalan deposito investasi mudarabah sebelum distribusi \npada BUS yang menerima PLJPS.  \n(6) \nKetentuan lebih lanjut mengenai perhitungan kewajiban \nmembayar (gharamah maliyah) diatur dalam Peraturan \nAnggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal BUS belum melakukan pembayaran kembali \nsaldo pokok PLJPS pada saat jatuh waktu, BUS dikenai \nkewajiban membayar (gharamah maliyah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan kewajiban membayar (gharamah maliyah) \nsebagaimana dimaksud pada ayat (1) dilakukan sampai \ndengan BUS melakukan pembayaran kembali saldo pokok \nPLJPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewajiban membayar (gharamah maliyah) dihitung secara \nharian dari saldo pokok PLJPS yang belum dibayar \nkembali."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam perhitungan kewajiban membayar (gharamah \nmaliyah) ditetapkan nisbah bagi hasil untuk Bank \nIndonesia sebesar 80% (delapan puluh persen)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kewajiban membayar (gharamah maliyah) sebagaimana \ndimaksud pada ayat (1) dihitung dengan menggunakan \nnisbah bagi hasil untuk Bank Indonesia sebagaimana \ndimaksud pada ayat (4) dikalikan dengan tingkat realisasi \n\n\n \nimbalan deposito investasi mudarabah sebelum distribusi \npada BUS yang menerima PLJPS."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Ketentuan lebih lanjut mengenai perhitungan kewajiban \nmembayar (gharamah maliyah) diatur dalam Peraturan \nAnggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nBank Indonesia mendebit rekening giro BUS dalam rupiah \ndi Bank Indonesia dalam hal: \na. \nsebelum PLJPS jatuh waktu dan saldo rekening giro \nBUS di Bank Indonesia melebihi kewajiban GWM \nditambah 10% (sepuluh persen) dari kewajiban GWM; \nb. \nBUS meminta pembayaran kembali sebelum PLJPS \njatuh waktu; dan/atau \nc. \nPLJPS jatuh waktu. \n(2) \nBank Indonesia melakukan pendebitan rekening giro BUS \nsecara harian sampai dengan kewajiban PLJPS dibayar \nkembali. \n(3) \nDalam hal saldo rekening giro BUS dalam rupiah di Bank \nIndonesia tidak mencukupi untuk membayar saldo pokok \ndan bagi hasil PLJPS sebagaimana dimaksud dalam Pasal \n28 ayat (1) serta kewajiban membayar (gharamah maliyah) \nsebagaimana dimaksud dalam Pasal 30 ayat (1), Bank \nIndonesia melakukan penihilan rekening giro BUS dalam \nrupiah dan rekening giro BUS dalam valuta asing. \n(4) \nKetentuan lebih lanjut mengenai pembayaran kembali  \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mendebit rekening giro BUS dalam rupiah \ndi Bank Indonesia dalam hal: \na. \nsebelum PLJPS jatuh waktu dan saldo rekening giro \nBUS di Bank Indonesia melebihi kewajiban GWM \nditambah 10% (sepuluh persen) dari kewajiban GWM; \nb. \nBUS meminta pembayaran kembali sebelum PLJPS \njatuh waktu; dan/atau \nc. \nPLJPS jatuh waktu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia melakukan pendebitan rekening giro BUS \nsecara harian sampai dengan kewajiban PLJPS dibayar \nkembali."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal saldo rekening giro BUS dalam rupiah di Bank \nIndonesia tidak mencukupi untuk membayar saldo pokok \ndan bagi hasil PLJPS sebagaimana dimaksud dalam Pasal \n28 ayat (1) serta kewajiban membayar (gharamah maliyah) \nsebagaimana dimaksud dalam Pasal 30 ayat (1), Bank \nIndonesia melakukan penihilan rekening giro BUS dalam \nrupiah dan rekening giro BUS dalam valuta asing."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai pembayaran kembali  \nPLJPS diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nDalam hal BUS dinyatakan cidera janji sebagaimana \ndimaksud dalam Pasal 29 ayat (1), selain melakukan \npendebetan rekening giro BUS setelah PLJPS jatuh waktu \nsebagaimana dimaksud dalam Pasal 31 ayat (2) dan ayat \n(3), Bank Indonesia melakukan: \na. \neksekusi agunan PLJPS; atau \nb. \npenjualan atau pengalihan hak tagih atas PLJPS. \n(2) \nPelaksanaan eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJPS sebagaimana dimaksud \npada ayat (1) dilakukan Bank Indonesia tanpa harus \nmemperoleh persetujuan BUS. \n(3) \nDalam hal nilai hasil eksekusi agunan sebagaimana \ndimaksud pada ayat (1) lebih kecil dari kewajiban PLJPS, \nBUS wajib melakukan pembayaran kembali melalui \nsetoran kekurangan kewajiban PLJPS kepada Bank \nIndonesia. \n(4) \nDalam hal nilai hasil eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJPS sebagaimana dimaksud \npada ayat (1) lebih besar dari kewajiban PLJPS, Bank \nIndonesia mengembalikan kelebihan tersebut kepada \nBUS. \n(5) \nPelaksanaan eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJPS sebagaimana dimaksud \npada ayat (1) mengacu pada ketentuan peraturan \nperundang-undangan. \n\n\n \n(6) \nBUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (3) setelah eksekusi agunan \ndilakukan, dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu; \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter syariah; \nd. \npenurunan \nstatus \nkepesertaan \nsistem \nkliring \nnasional Bank Indonesia; \ne. \npenurunan status kepesertaan Bank Indonesia - real \ntime gross settlement;  \nf. \npenurunan status kepesertaan Bank Indonesia - fast \npayment; dan/atau \ng. \npenurunan status kepesertaan Bank Indonesia - \nscripless securities settlement system. \n(7) \nKetentuan lebih lanjut mengenai tata cara pengenaan \nsanksi sebagaimana dimaksud pada ayat (6) diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal BUS dinyatakan cidera janji sebagaimana \ndimaksud dalam Pasal 29 ayat (1), selain melakukan \npendebetan rekening giro BUS setelah PLJPS jatuh waktu \nsebagaimana dimaksud dalam Pasal 31 ayat (2) dan ayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": ", Bank Indonesia melakukan: \na. \neksekusi agunan PLJPS; atau \nb. \npenjualan atau pengalihan hak tagih atas PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJPS sebagaimana dimaksud \npada ayat (1) dilakukan Bank Indonesia tanpa harus \nmemperoleh persetujuan BUS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal nilai hasil eksekusi agunan sebagaimana \ndimaksud pada ayat (1) lebih kecil dari kewajiban PLJPS, \nBUS wajib melakukan pembayaran kembali melalui \nsetoran kekurangan kewajiban PLJPS kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal nilai hasil eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJPS sebagaimana dimaksud \npada ayat (1) lebih besar dari kewajiban PLJPS, Bank \nIndonesia mengembalikan kelebihan tersebut kepada \nBUS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pelaksanaan eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJPS sebagaimana dimaksud \npada ayat (1) mengacu pada ketentuan peraturan \nperundang-undangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "BUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (3) setelah eksekusi agunan \ndilakukan, dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu; \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter syariah; \nd. \npenurunan \nstatus \nkepesertaan \nsistem \nkliring \nnasional Bank Indonesia; \ne. \npenurunan status kepesertaan Bank Indonesia - real \ntime gross settlement;  \nf. \npenurunan status kepesertaan Bank Indonesia - fast \npayment; dan/atau \ng. \npenurunan status kepesertaan Bank Indonesia - \nscripless securities settlement system."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara pengenaan \nsanksi sebagaimana dimaksud pada ayat (6) diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJPS DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nDalam melaksanakan eksekusi agunan PLJPS atau \npenjualan atau pengalihan hak tagih atas PLJPS \nsebagaimana dimaksud dalam Pasal 32 ayat (1), Bank \nIndonesia dapat berkoordinasi dengan OJK dan/atau \nbekerja sama dengan pihak lain. \n(2) \nBUS harus bekerja sama dengan Bank Indonesia untuk \nkelancaran pelaksanaan eksekusi agunan PLJPS atau \npenjualan atau pengalihan hak tagih atas PLJPS. \n(3) \nKetentuan lebih lanjut mengenai eksekusi agunan PLJPS \natau penjualan atau pengalihan hak tagih atas PLJPS \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB XI \nBIAYA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan eksekusi agunan PLJPS atau \npenjualan atau pengalihan hak tagih atas PLJPS \nsebagaimana dimaksud dalam Pasal 32 ayat (1), Bank \nIndonesia dapat berkoordinasi dengan OJK dan/atau \nbekerja sama dengan pihak lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS harus bekerja sama dengan Bank Indonesia untuk \nkelancaran pelaksanaan eksekusi agunan PLJPS atau \npenjualan atau pengalihan hak tagih atas PLJPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai eksekusi agunan PLJPS \natau penjualan atau pengalihan hak tagih atas PLJPS \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB XI \nBIAYA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "BIAYA",
+      "teks_lengkap": "(1) \nBiaya yang timbul dari proses PLJPS menjadi beban BUS. \n(2) \nKetentuan mengenai biaya yang timbul dari proses PLJPS \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB XII \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Biaya yang timbul dari proses PLJPS menjadi beban BUS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai biaya yang timbul dari proses PLJPS \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB XII \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBUS yang menerima PLJPS wajib menyampaikan laporan \nkepada Bank Indonesia dengan tembusan kepada OJK \nyang meliputi: \na. \nlaporan penggunaan PLJPS;  \nb. \nlaporan kondisi likuiditas BUS; \nc. \nlaporan perhitungan rasio kewajiban penyediaan \nmodal minimum; \nd. \nlaporan agunan jika terdapat: \n1. \nsukuk \nkorporasi \nyang \ntidak \nmemenuhi \npersyaratan peringkat yang ditetapkan oleh \nBank Indonesia; \n\n\n \n2. \npelunasan Pembiayaan yang menjadi agunan \nPLJPS oleh nasabah BUS; dan/atau \n3. \nAset Pembiayaan yang mengalami penurunan \nkualitas; \ne. \nlaporan proyeksi arus kas 30 (tiga puluh) hari \nkalender ke depan secara harian; \nf. \nrencana \ntindak \nuntuk \nmengatasi \nKesulitan \nLikuiditas; dan \ng. \nlaporan lain yang diminta oleh Bank Indonesia. \n(2) \nPenyampaian laporan proyeksi arus kas secara harian \nsebagaimana dimaksud pada ayat (1) huruf e dilakukan \nselama periode pemberian PLJPS sebagaimana dimaksud \ndalam Pasal 15 ayat (2) sampai dengan 1 (satu) hari kerja \nsebelum tanggal jatuh waktu atau tanggal pembayaran \nkembali PLJPS yang dipercepat. \n(3) \nBUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJPS tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu. \n(4) \nKetentuan lebih lanjut mengenai penyampaian laporan \ndan tata cara pengenaan sanksi diatur dalam Peraturan \nAnggota Dewan Gubernur. \n \nBAB XIII \nPENGAWASAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS yang menerima PLJPS wajib menyampaikan laporan \nkepada Bank Indonesia dengan tembusan kepada OJK \nyang meliputi: \na. \nlaporan penggunaan PLJPS;  \nb. \nlaporan kondisi likuiditas BUS; \nc. \nlaporan perhitungan rasio kewajiban penyediaan \nmodal minimum; \nd. \nlaporan agunan jika terdapat: \n1. \nsukuk \nkorporasi \nyang \ntidak \nmemenuhi \npersyaratan peringkat yang ditetapkan oleh \nBank Indonesia; \n\n\n \n2. \npelunasan Pembiayaan yang menjadi agunan \nPLJPS oleh nasabah BUS; dan/atau \n3. \nAset Pembiayaan yang mengalami penurunan \nkualitas; \ne. \nlaporan proyeksi arus kas 30 (tiga puluh) hari \nkalender ke depan secara harian; \nf. \nrencana \ntindak \nuntuk \nmengatasi \nKesulitan \nLikuiditas; dan \ng. \nlaporan lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan proyeksi arus kas secara harian \nsebagaimana dimaksud pada ayat (1) huruf e dilakukan \nselama periode pemberian PLJPS sebagaimana dimaksud \ndalam Pasal 15 ayat (2) sampai dengan 1 (satu) hari kerja \nsebelum tanggal jatuh waktu atau tanggal pembayaran \nkembali PLJPS yang dipercepat."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJPS tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJPS dalam \njangka waktu tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai penyampaian laporan \ndan tata cara pengenaan sanksi diatur dalam Peraturan \nAnggota Dewan Gubernur. \n \nBAB XIII \nPENGAWASAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) \nPengawasan terhadap BUS yang menerima PLJPS \ndilakukan oleh OJK berkoordinasi dengan Bank Indonesia \nuntuk memastikan penggunaan dana PLJPS sesuai \ndengan \nperuntukannya \ndan \npelaksanaan \nrencana \npembayaran kembali PLJPS sesuai dengan perjanjian \npemberian PLJPS. \n(2) \nPengawasan oleh OJK berkoordinasi dengan Bank \nIndonesia \nsebagaimana \ndimaksud \npada \nayat \n(1) \nmencakup: \na. \npenggunaan dana PLJPS yang diberikan sesuai \ndengan peruntukannya; \nb. \npotensi \nBUS \ndapat \nmelaksanakan \nrencana \npembayaran kembali PLJPS sesuai dengan perjanjian \npemberian PLJPS, termasuk dari laporan rencana \ntindak BUS; \nc. \nkesesuaian agunan terhadap persyaratan agunan \nPLJPS; dan/atau \nd. \ninformasi pengawasan lain yang relevan dengan \npemberian PLJPS. \n(3) \nBank Indonesia menyampaikan surat kepada BUS \nsebagaimana dimaksud dalam Pasal 26 sebagai bagian \ndari pengawasan sebagaimana dimaksud pada ayat (2) \nhuruf a. \n(4) \nPengawasan sebagaimana dimaksud pada ayat (1) juga \ndimaksudkan untuk memastikan pemenuhan persyaratan \nPLJPS selama periode pemberian PLJPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengawasan terhadap BUS yang menerima PLJPS \ndilakukan oleh OJK berkoordinasi dengan Bank Indonesia \nuntuk memastikan penggunaan dana PLJPS sesuai \ndengan \nperuntukannya \ndan \npelaksanaan \nrencana \npembayaran kembali PLJPS sesuai dengan perjanjian \npemberian PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan oleh OJK berkoordinasi dengan Bank \nIndonesia \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "mencakup: \na. \npenggunaan dana PLJPS yang diberikan sesuai \ndengan peruntukannya; \nb. \npotensi \nBUS \ndapat \nmelaksanakan \nrencana \npembayaran kembali PLJPS sesuai dengan perjanjian \npemberian PLJPS, termasuk dari laporan rencana \ntindak BUS; \nc. \nkesesuaian agunan terhadap persyaratan agunan \nPLJPS; dan/atau \nd. \ninformasi pengawasan lain yang relevan dengan \npemberian PLJPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menyampaikan surat kepada BUS \nsebagaimana dimaksud dalam Pasal 26 sebagai bagian \ndari pengawasan sebagaimana dimaksud pada ayat (2) \nhuruf a."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengawasan sebagaimana dimaksud pada ayat (1) juga \ndimaksudkan untuk memastikan pemenuhan persyaratan \nPLJPS selama periode pemberian PLJPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan pemeriksaan terhadap \nBUS yang menerima PLJPS. \n(2) \nPemeriksaan sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan cara: \na. \npemeriksaan langsung kepada BUS; atau \nb. \npemeriksaan bersama OJK kepada BUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan pemeriksaan terhadap \nBUS yang menerima PLJPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan cara: \na. \npemeriksaan langsung kepada BUS; atau \nb. \npemeriksaan bersama OJK kepada BUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "Bank \nIndonesia \nmenyampaikan \npengenaan \nsanksi \nsebagaimana  dimaksud  dalam  Pasal 11 ayat (3), Pasal  24  \nayat (3), Pasal 28 ayat (2), Pasal 32 ayat (6), dan Pasal 35 ayat \n(3) melalui surat kepada BUS dengan tembusan kepada OJK. \n \nBAB XIV  \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(3)",
+          "teks": "melalui surat kepada BUS dengan tembusan kepada OJK. \n \nBAB XIV  \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, \nperaturan yang merupakan peraturan pelaksanaan dari \nPeraturan Bank Indonesia Nomor 19/4/PBI/2017 tentang \nPembiayaan Likuiditas Jangka Pendek Syariah bagi Bank \nUmum Syariah (Lembaran Negara Republik Indonesia Tahun \n2017 Nomor 83, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6045) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n22/16/PBI/2020 tentang Perubahan Ketiga atas Peraturan \nBank Indonesia Nomor 19/4/PBI/2017 tentang Pembiayaan \nLikuiditas Jangka Pendek Syariah bagi Bank Umum Syariah \n(Lembaran Negara Republik Indonesia Tahun 2020 Nomor 222, \nTambahan Lembaran Negara Republik Indonesia Nomor 6558), \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan \ndengan ketentuan dalam Peraturan Bank Indonesia ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, \nperaturan yang merupakan peraturan pelaksanaan dari \nPeraturan Bank Indonesia Nomor 19/4/PBI/2017 tentang \nPembiayaan Likuiditas Jangka Pendek Syariah bagi Bank \nUmum Syariah (Lembaran Negara Republik Indonesia Tahun \n2017 Nomor 83, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6045) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n22/16/PBI/2020 tentang Perubahan Ketiga atas Peraturan \nBank Indonesia Nomor 19/4/PBI/2017 tentang Pembiayaan \nLikuiditas Jangka Pendek Syariah bagi Bank Umum Syariah \n(Lembaran Negara Republik Indonesia Tahun 2020 Nomor 222, \nTambahan Lembaran Negara Republik Indonesia Nomor 6558), \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan \ndengan ketentuan dalam Peraturan Bank Indonesia ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n11/29/PBI/2009 \ntentang Fasilitas Pendanaan Jangka Pendek Syariah bagi \nBank Pembiayaan Rakyat Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 107, Tambahan \nLembaran Negara Republik Indonesia Nomor 5033); dan \nb. \nPeraturan Bank Indonesia Nomor 19/4/PBI/2017 tentang \nPembiayaan Likuiditas Jangka Pendek Syariah bagi Bank \nUmum Syariah (Lembaran Negara Republik Indonesia \nTahun 2017 Nomor 83, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6045) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 22/16/PBI/2020 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n19/4/PBI/2017 tentang Pembiayaan Likuiditas Jangka \nPendek Syariah bagi Bank Umum Syariah (Lembaran \nNegara Republik Indonesia Tahun 2020 Nomor 222, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6558), \ndicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n11/29/PBI/2009 \ntentang Fasilitas Pendanaan Jangka Pendek Syariah bagi \nBank Pembiayaan Rakyat Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2009 Nomor 107, Tambahan \nLembaran Negara Republik Indonesia Nomor 5033); dan \nb. \nPeraturan Bank Indonesia Nomor 19/4/PBI/2017 tentang \nPembiayaan Likuiditas Jangka Pendek Syariah bagi Bank \nUmum Syariah (Lembaran Negara Republik Indonesia \nTahun 2017 Nomor 83, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6045) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 22/16/PBI/2020 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n19/4/PBI/2017 tentang Pembiayaan Likuiditas Jangka \nPendek Syariah bagi Bank Umum Syariah (Lembaran \nNegara Republik Indonesia Tahun 2020 Nomor 222, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6558), \ndicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \n \nDitetapkan di Jakarta  \n \npada tanggal 27 Juni 2023  \n \n \nGUBERNUR BANK INDONESIA,  \n \n \n    TTD \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta  \npada tanggal 27 Juni 2023 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \n \nTTD \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 15/BI \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 5 TAHUN 2023 \nTENTANG \nPEMBIAYAAN LIKUIDITAS JANGKA PENDEK BERDASARKAN  \nPRINSIP SYARIAH BAGI BANK UMUM SYARIAH \n \nI. \nUMUM \nUntuk mendorong pertumbuhan ekonomi nasional yang berkelanjutan \ndan sistem keuangan yang kuat, Pemerintah telah menerbitkan Undang-\nUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan yang menguatkan pengaturan berbagai aspek di sektor keuangan \nantara lain mengenai penguatan kelembagaan otoritas serta pencegahan dan \npenanganan \npermasalahan \nsistem \nkeuangan \nkhususnya \nmengenai \npenguatan penanganan permasalahan BUS. Dalam melaksanakan salah \nsatu tugas Bank Indonesia untuk menetapkan dan melaksanakan kebijakan \nmakroprudensial, undang-undang tersebut menguatkan kewenangan Bank \nIndonesia sebagai lender of the last resort melalui pemberian PLJPS kepada \nBUS yang mengalami Kesulitan Likuiditas dan memenuhi persyaratan. \nPenguatan pengaturan PLJPS dalam undang-undang dimaksud \nmencakup persyaratan bagi BUS untuk memperoleh PLJPS, agunan PLJPS, \njangka waktu, dan koordinasi Bank Indonesia dengan OJK terkait pemberian \nPLJPS.  Selain itu, Bank Indonesia juga melakukan penguatan pengaturan \nantara lain meliputi nilai agunan terhadap plafon untuk SBSN dan \npersyaratan Aset Pembiayaan untuk dapat diterima sebagai agunan PLJPS \nagar sejalan dengan kebijakan terkini dari otoritas. \nBerdasarkan hal tersebut, Bank Indonesia perlu \nmenetapkan  \nPeraturan Bank Indonesia tentang Pembiayaan Likuiditas Jangka Pendek \nBerdasarkan Prinsip Syariah bagi Bank Umum Syariah.  \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \n \nDitetapkan di Jakarta  \n \npada tanggal 27 Juni 2023  \n \n \nGUBERNUR BANK INDONESIA,  \n \n \n    TTD \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta  \npada tanggal 27 Juni 2023 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \n \nTTD \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 15/BI \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 5 TAHUN 2023 \nTENTANG \nPEMBIAYAAN LIKUIDITAS JANGKA PENDEK BERDASARKAN  \nPRINSIP SYARIAH BAGI BANK UMUM SYARIAH \n \nI. \nUMUM \nUntuk mendorong pertumbuhan ekonomi nasional yang berkelanjutan \ndan sistem keuangan yang kuat, Pemerintah telah menerbitkan Undang-\nUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan yang menguatkan pengaturan berbagai aspek di sektor keuangan \nantara lain mengenai penguatan kelembagaan otoritas serta pencegahan dan \npenanganan \npermasalahan \nsistem \nkeuangan \nkhususnya \nmengenai \npenguatan penanganan permasalahan BUS. Dalam melaksanakan salah \nsatu tugas Bank Indonesia untuk menetapkan dan melaksanakan kebijakan \nmakroprudensial, undang-undang tersebut menguatkan kewenangan Bank \nIndonesia sebagai lender of the last resort melalui pemberian PLJPS kepada \nBUS yang mengalami Kesulitan Likuiditas dan memenuhi persyaratan. \nPenguatan pengaturan PLJPS dalam undang-undang dimaksud \nmencakup persyaratan bagi BUS untuk memperoleh PLJPS, agunan PLJPS, \njangka waktu, dan koordinasi Bank Indonesia dengan OJK terkait pemberian \nPLJPS.  Selain itu, Bank Indonesia juga melakukan penguatan pengaturan \nantara lain meliputi nilai agunan terhadap plafon untuk SBSN dan \npersyaratan Aset Pembiayaan untuk dapat diterima sebagai agunan PLJPS \nagar sejalan dengan kebijakan terkini dari otoritas. \nBerdasarkan hal tersebut, Bank Indonesia perlu \nmenetapkan  \nPeraturan Bank Indonesia tentang Pembiayaan Likuiditas Jangka Pendek \nBerdasarkan Prinsip Syariah bagi Bank Umum Syariah.  \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n\n\nAyat (2) \nHuruf a \nPersyaratan solvabilitas menunjukkan BUS menjalankan \nfungsinya dengan baik dan berkelanjutan (going concern) yang \ntercermin \nantara \nlain \ndari \nkecukupan \npermodalan \nberdasarkan \npenilaian \nOJK \nterkini \ntermasuk \ntelah \nmemperhitungkan \nperistiwa \nsetelah \nperiode \npelaporan \n(subsequent events). \nHuruf b \n \nCukup jelas. \nHuruf c \n \nYang dimaksud dengan “memadai untuk mengembalikan \nPLJPS” \nadalah \nBUS \nmemiliki \nsumber \ndana \nuntuk \nmengembalikan PLJPS. \nAyat (3) \nPerkiraan BUS atas jumlah kebutuhan likuiditas didasarkan pada \nproyeksi arus kas paling singkat 45 (empat puluh lima) hari \nkalender sejak tanggal permohonan PLJPS. \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n\n\nAyat (2) \nHuruf a \nPersyaratan solvabilitas menunjukkan BUS menjalankan \nfungsinya dengan baik dan berkelanjutan (going concern) yang \ntercermin \nantara \nlain \ndari \nkecukupan \npermodalan \nberdasarkan \npenilaian \nOJK \nterkini \ntermasuk \ntelah \nmemperhitungkan \nperistiwa \nsetelah \nperiode \npelaporan \n(subsequent events). \nHuruf b \n \nCukup jelas. \nHuruf c \n \nYang dimaksud dengan “memadai untuk mengembalikan \nPLJPS” \nadalah \nBUS \nmemiliki \nsumber \ndana \nuntuk \nmengembalikan PLJPS. \nAyat (3) \nPerkiraan BUS atas jumlah kebutuhan likuiditas didasarkan pada \nproyeksi arus kas paling singkat 45 (empat puluh lima) hari \nkalender sejak tanggal permohonan PLJPS. \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \nHuruf a \n \nCukup jelas. \nHuruf b \n \nCukup jelas. \nHuruf c \nSBSN yang dapat digunakan sebagai agunan PLJPS yaitu \nSBSN yang dapat diperdagangkan. \nHuruf d \nYang dimaksud dengan \"sukuk korporasi yang diterbitkan \noleh badan hukum lain\" adalah sukuk korporasi yang \nditerbitkan oleh badan hukum Indonesia selain BUS yang \nmengajukan permohonan PLJPS. \nAngka 1 \nPeringkat investasi (investment grade) mengacu \npada hasil penilaian lembaga pemeringkat yang \ndiakui oleh OJK dengan memperhatikan ketentuan \nOJK mengenai lembaga pemeringkat dan peringkat \nyang diakui oleh OJK. \nAngka 2 \n \nCukup jelas. \nAngka 3 \n \nCukup jelas. \nAyat (3) \nHuruf a \nYang dimaksud dengan “akad mudarabah” adalah akad \nkerja sama suatu usaha antara pihak pertama (malik, \nshahibul mal, atau BUS) yang menyediakan seluruh modal \n\n\ndan pihak kedua (‘amil, mudharib, atau nasabah) yang \nbertindak \nselaku \npengelola \ndana \ndengan \nmembagi \nkeuntungan usaha sesuai dengan kesepakatan yang \ndituangkan dalam akad, sedangkan kerugian ditanggung \nsepenuhnya oleh BUS kecuali jika pihak kedua melakukan \nkesalahan yang disengaja, lalai, atau menyalahi perjanjian. \nYang dimaksud dengan “akad musyarakah” adalah akad \nkerja sama di antara dua pihak atau lebih untuk suatu \nusaha tertentu yang masing-masing pihak memberikan porsi \ndana dengan ketentuan bahwa keuntungan akan dibagi \nsesuai dengan kesepakatan, sedangkan kerugian ditanggung \nsesuai dengan porsi dana masing-masing.  \nYang dimaksud dengan “akad ijarah nonjasa” adalah akad \npenyediaan dana untuk memindahkan hak guna atau \nmanfaat dari suatu barang berdasarkan transaksi sewa, \ntanpa diikuti dengan pemindahan kepemilikan barang itu \nsendiri atau dengan opsi pemindahan kepemilikan barang. \nHuruf b \nYang dimaksud dengan “kualitas tergolong lancar” adalah  \nkualitas tergolong lancar  sebagaimana dimaksud dalam \nketentuan Peraturan OJK mengenai penilaian kualitas aset \nBUS dan unit usaha syariah. \nHuruf c \nYang \ndimaksud \ndengan \n“Pembiayaan \npegawai \natau \npensiunan” adalah Pembiayaan yang memenuhi kriteria \nsebagai berikut:  \n1. \ndiberikan kepada pegawai atau pensiunan dari Pegawai \nNegeri Sipil, anggota  Tentara Nasional Indonesia, \nanggota Kepolisian Negara Republik Indonesia, dan \npegawai lembaga negara;  \n2. \npembayaran angsuran atau pelunasan Pembiayaan \nbersumber dari gaji atau pensiun berdasarkan surat \nkuasa memotong gaji atau pensiun kepada BUS pemberi \nPembiayaan; dan \n3. \npegawai atau pensiunan penerima Pembiayaan dijamin \ndengan asuransi jiwa dan khusus pensiunan ditambah \ndengan asuransi Pembiayaan dari perusahaan asuransi \nyang berstatus sebagai badan usaha milik negara atau \nperusahaan asuransi swasta yang memiliki peringkat \npaling \nrendah \nperingkat \ninvestasi \ndari \nlembaga \npemeringkat \nyang \ndiakui \noleh \nOJK \ndengan \nmemperhatikan ketentuan OJK mengenai lembaga \npemeringkat dan peringkat yang diakui OJK. \nHuruf d \nYang dimaksud dengan \"pihak terkait\" adalah pihak terkait \nsebagaimana dimaksud dalam ketentuan Peraturan OJK \nmengenai batas maksimum penyaluran dana dan penyaluran \ndana besar bagi BUS. \nHuruf e \nYang \ndimaksud \ndengan \n“direstrukturisasi” \nadalah \nrestrukturisasi sebagaimana dimaksud dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset BUS dan unit \nusaha syariah. \nHuruf f \nCukup jelas. \n\n\nHuruf g \nBatas maksimum penyaluran dana mengacu pada ketentuan \nPeraturan OJK mengenai batas maksimum penyaluran dana \ndan penyaluran dana besar bagi BUS. \nHuruf h \nPersyaratan memiliki pengikatan agunan yang mempunyai \nkekuatan hukum berlaku untuk Aset Pembiayaan yang \ndijamin dengan tanah dan bangunan dan/atau tanah. \nHuruf i \nCukup jelas. \nAyat (4) \nHuruf a \nYang dimaksud dengan “periode stimulus corona virus \ndisease 2019” adalah periode tanggal 16 Maret 2020 sampai \ndengan tanggal 31 Maret 2023 sebagaimana diatur dalam \nketentuan Peraturan OJK mengenai stimulus perekonomian \nnasional \nsebagai \nkebijakan \ncountercyclical \ndampak \npenyebaran corona virus disease 2019. \nKhusus periode stimulus corona virus disease 2019 untuk \nsektor dan/atau daerah tertentu yakni tanggal 16 Maret \n2020 sampai dengan tanggal 31 Maret 2024 dengan \nmemperhatikan \nKeputusan \nDewan \nKomisioner \nOJK \nmengenai penetapan sektor penyediaan akomodasi dan \npenyediaan makan minum, sektor tekstil dan produk tekstil \nserta alas kaki, segmen usaha mikro, kecil, dan menengah, \nserta Provinsi Bali sebagai sektor dan daerah yang \nmemerlukan perlakuan khusus terhadap kredit atau \nPembiayaan Bank. \nHuruf b \nCukup jelas. \nAyat (5) \nHuruf a \nCukup jelas. \nHuruf b \nKepemilikan aset tetap oleh BUS didukung dengan dokumen \nkepemilikan yang sah. \nHuruf c \nYang dimaksud dengan “properti terbengkalai” adalah \nproperti terbengkalai sebagaimana diatur dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset BUS dan unit \nusaha syariah. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nCukup jelas. \nAyat (9) \nYang dimaksud dengan “dokumen pendukung” antara lain: \na. \ndokumen Aset Pembiayaan antara lain berupa akad \nPembiayaan antara BUS dengan nasabah, bukti pengikatan \nagunan, dan bukti kepemilikan atas aset yang menjadi \nagunan Pembiayaan; dan \nb. \nbukti kepemilikan aset tetap. \n \n\n\nAyat (10) \nCukup jelas. \nAyat (11) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \nHuruf a \n \nCukup jelas. \nHuruf b \n \nCukup jelas. \nHuruf c \nSBSN yang dapat digunakan sebagai agunan PLJPS yaitu \nSBSN yang dapat diperdagangkan. \nHuruf d \nYang dimaksud dengan \"sukuk korporasi yang diterbitkan \noleh badan hukum lain\" adalah sukuk korporasi yang \nditerbitkan oleh badan hukum Indonesia selain BUS yang \nmengajukan permohonan PLJPS. \nAngka 1 \nPeringkat investasi (investment grade) mengacu \npada hasil penilaian lembaga pemeringkat yang \ndiakui oleh OJK dengan memperhatikan ketentuan \nOJK mengenai lembaga pemeringkat dan peringkat \nyang diakui oleh OJK. \nAngka 2 \n \nCukup jelas. \nAngka 3 \n \nCukup jelas. \nAyat (3) \nHuruf a \nYang dimaksud dengan “akad mudarabah” adalah akad \nkerja sama suatu usaha antara pihak pertama (malik, \nshahibul mal, atau BUS) yang menyediakan seluruh modal \n\n\ndan pihak kedua (‘amil, mudharib, atau nasabah) yang \nbertindak \nselaku \npengelola \ndana \ndengan \nmembagi \nkeuntungan usaha sesuai dengan kesepakatan yang \ndituangkan dalam akad, sedangkan kerugian ditanggung \nsepenuhnya oleh BUS kecuali jika pihak kedua melakukan \nkesalahan yang disengaja, lalai, atau menyalahi perjanjian. \nYang dimaksud dengan “akad musyarakah” adalah akad \nkerja sama di antara dua pihak atau lebih untuk suatu \nusaha tertentu yang masing-masing pihak memberikan porsi \ndana dengan ketentuan bahwa keuntungan akan dibagi \nsesuai dengan kesepakatan, sedangkan kerugian ditanggung \nsesuai dengan porsi dana masing-masing.  \nYang dimaksud dengan “akad ijarah nonjasa” adalah akad \npenyediaan dana untuk memindahkan hak guna atau \nmanfaat dari suatu barang berdasarkan transaksi sewa, \ntanpa diikuti dengan pemindahan kepemilikan barang itu \nsendiri atau dengan opsi pemindahan kepemilikan barang. \nHuruf b \nYang dimaksud dengan “kualitas tergolong lancar” adalah  \nkualitas tergolong lancar  sebagaimana dimaksud dalam \nketentuan Peraturan OJK mengenai penilaian kualitas aset \nBUS dan unit usaha syariah. \nHuruf c \nYang \ndimaksud \ndengan \n“Pembiayaan \npegawai \natau \npensiunan” adalah Pembiayaan yang memenuhi kriteria \nsebagai berikut:  \n1. \ndiberikan kepada pegawai atau pensiunan dari Pegawai \nNegeri Sipil, anggota  Tentara Nasional Indonesia, \nanggota Kepolisian Negara Republik Indonesia, dan \npegawai lembaga negara;  \n2. \npembayaran angsuran atau pelunasan Pembiayaan \nbersumber dari gaji atau pensiun berdasarkan surat \nkuasa memotong gaji atau pensiun kepada BUS pemberi \nPembiayaan; dan \n3. \npegawai atau pensiunan penerima Pembiayaan dijamin \ndengan asuransi jiwa dan khusus pensiunan ditambah \ndengan asuransi Pembiayaan dari perusahaan asuransi \nyang berstatus sebagai badan usaha milik negara atau \nperusahaan asuransi swasta yang memiliki peringkat \npaling \nrendah \nperingkat \ninvestasi \ndari \nlembaga \npemeringkat \nyang \ndiakui \noleh \nOJK \ndengan \nmemperhatikan ketentuan OJK mengenai lembaga \npemeringkat dan peringkat yang diakui OJK. \nHuruf d \nYang dimaksud dengan \"pihak terkait\" adalah pihak terkait \nsebagaimana dimaksud dalam ketentuan Peraturan OJK \nmengenai batas maksimum penyaluran dana dan penyaluran \ndana besar bagi BUS. \nHuruf e \nYang \ndimaksud \ndengan \n“direstrukturisasi” \nadalah \nrestrukturisasi sebagaimana dimaksud dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset BUS dan unit \nusaha syariah. \nHuruf f \nCukup jelas. \n\n\nHuruf g \nBatas maksimum penyaluran dana mengacu pada ketentuan \nPeraturan OJK mengenai batas maksimum penyaluran dana \ndan penyaluran dana besar bagi BUS. \nHuruf h \nPersyaratan memiliki pengikatan agunan yang mempunyai \nkekuatan hukum berlaku untuk Aset Pembiayaan yang \ndijamin dengan tanah dan bangunan dan/atau tanah. \nHuruf i \nCukup jelas. \nAyat (4) \nHuruf a \nYang dimaksud dengan “periode stimulus corona virus \ndisease 2019” adalah periode tanggal 16 Maret 2020 sampai \ndengan tanggal 31 Maret 2023 sebagaimana diatur dalam \nketentuan Peraturan OJK mengenai stimulus perekonomian \nnasional \nsebagai \nkebijakan \ncountercyclical \ndampak \npenyebaran corona virus disease 2019. \nKhusus periode stimulus corona virus disease 2019 untuk \nsektor dan/atau daerah tertentu yakni tanggal 16 Maret \n2020 sampai dengan tanggal 31 Maret 2024 dengan \nmemperhatikan \nKeputusan \nDewan \nKomisioner \nOJK \nmengenai penetapan sektor penyediaan akomodasi dan \npenyediaan makan minum, sektor tekstil dan produk tekstil \nserta alas kaki, segmen usaha mikro, kecil, dan menengah, \nserta Provinsi Bali sebagai sektor dan daerah yang \nmemerlukan perlakuan khusus terhadap kredit atau \nPembiayaan Bank. \nHuruf b \nCukup jelas. \nAyat (5) \nHuruf a \nCukup jelas. \nHuruf b \nKepemilikan aset tetap oleh BUS didukung dengan dokumen \nkepemilikan yang sah. \nHuruf c \nYang dimaksud dengan “properti terbengkalai” adalah \nproperti terbengkalai sebagaimana diatur dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset BUS dan unit \nusaha syariah. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nCukup jelas. \nAyat (9) \nYang dimaksud dengan “dokumen pendukung” antara lain: \na. \ndokumen Aset Pembiayaan antara lain berupa akad \nPembiayaan antara BUS dengan nasabah, bukti pengikatan \nagunan, dan bukti kepemilikan atas aset yang menjadi \nagunan Pembiayaan; dan \nb. \nbukti kepemilikan aset tetap. \n \n\n\nAyat (10) \nCukup jelas. \nAyat (11) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nNilai jual SukBI mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system.  \nHuruf c \nNilai pasar SBSN mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nNilai jual SukBI mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system.  \nHuruf c \nNilai pasar SBSN mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nPemeliharaan dan penatausahaan daftar agunan dilakukan \nterhadap aset yang akan dialokasikan oleh BUS sebagai agunan \nguna mengantisipasi kebutuhan PLJPS. \nAyat (2) \nPelaksanaan asesmen mandiri (self assessment) atas pemenuhan \npersyaratan antara lain persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUS. Dalam melakukan asesmen mandiri \n(self assessment) atas pemenuhan persyaratan PLJPS, BUS \nberkonsultasi dengan otoritas terkait. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nPemeliharaan dan penatausahaan daftar agunan dilakukan \nterhadap aset yang akan dialokasikan oleh BUS sebagai agunan \nguna mengantisipasi kebutuhan PLJPS. \nAyat (2) \nPelaksanaan asesmen mandiri (self assessment) atas pemenuhan \npersyaratan antara lain persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUS. Dalam melakukan asesmen mandiri \n(self assessment) atas pemenuhan persyaratan PLJPS, BUS \nberkonsultasi dengan otoritas terkait. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang \ndimaksud \ndengan \"ketentuan \nperaturan \nperundang-\nundangan\" antara lain Kitab Undang-Undang Hukum Perdata dan \nketentuan Undang-Undang terkait fidusia dan hak tanggungan. \n \n\n\nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang \ndimaksud \ndengan \"ketentuan \nperaturan \nperundang-\nundangan\" antara lain Kitab Undang-Undang Hukum Perdata dan \nketentuan Undang-Undang terkait fidusia dan hak tanggungan. \n \n\n\nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \n \nCukup jelas. \nHuruf b \nKesanggupan untuk menerbitkan jaminan pribadi (personal \nguarantee) \ndan/atau \njaminan \nperusahaan \n(corporate \nguarantee) yang disertai dengan daftar aset pemegang saham \npengendali dilakukan sesuai dengan ketentuan peraturan \nperundang-undangan. \nHuruf c \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan PLJPS. \nHuruf d \nYang dimaksud dengan “kantor jasa penilai publik” adalah \nbadan usaha yang telah mendapat izin usaha dari Menteri \nKeuangan \nsebagai wadah \nbagi \npenilai \npublik \ndalam \nmemberikan jasanya.  \nYang dimaksud dengan “kantor akuntan publik” adalah \nbadan \nusaha \nyang \ndidirikan \nberdasarkan \nketentuan \nperaturan perundang-undangan dan mendapatkan izin \nusaha berdasarkan undang-undang mengenai akuntan \npublik. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas. \nHuruf h \nSurat persetujuan disampaikan apabila diatur dalam \nanggaran dasar atau anggaran rumah tangga BUS dan \nketentuan peraturan perundang-undangan. \nHuruf i \nCukup jelas. \nHuruf j \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \n \nCukup jelas. \nHuruf b \nKesanggupan untuk menerbitkan jaminan pribadi (personal \nguarantee) \ndan/atau \njaminan \nperusahaan \n(corporate \nguarantee) yang disertai dengan daftar aset pemegang saham \npengendali dilakukan sesuai dengan ketentuan peraturan \nperundang-undangan. \nHuruf c \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan PLJPS. \nHuruf d \nYang dimaksud dengan “kantor jasa penilai publik” adalah \nbadan usaha yang telah mendapat izin usaha dari Menteri \nKeuangan \nsebagai wadah \nbagi \npenilai \npublik \ndalam \nmemberikan jasanya.  \nYang dimaksud dengan “kantor akuntan publik” adalah \nbadan \nusaha \nyang \ndidirikan \nberdasarkan \nketentuan \nperaturan perundang-undangan dan mendapatkan izin \nusaha berdasarkan undang-undang mengenai akuntan \npublik. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas. \nHuruf h \nSurat persetujuan disampaikan apabila diatur dalam \nanggaran dasar atau anggaran rumah tangga BUS dan \nketentuan peraturan perundang-undangan. \nHuruf i \nCukup jelas. \nHuruf j \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nSumber dana lain dibuktikan dengan tersedianya tambahan dana \ndi rekening giro BUS di Bank Indonesia yang disertai dokumen \ndan/atau data pendukung. \nAyat (8) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nInformasi bahwa BUS tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \nAyat (9) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nSumber dana lain dibuktikan dengan tersedianya tambahan dana \ndi rekening giro BUS di Bank Indonesia yang disertai dokumen \ndan/atau data pendukung. \nAyat (8) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nInformasi bahwa BUS tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \nAyat (9) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “pertimbangan tertentu” antara lain hasil \nsimulasi kondisi BUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “pertimbangan tertentu” antara lain hasil \nsimulasi kondisi BUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nTanggal aktivasi pemberian PLJPS akan disampaikan oleh Bank \nIndonesia melalui surat yang merupakan bagian tidak terpisahkan \ndari perjanjian pemberian PLJPS.  \nAyat (3) \nYang dimaksud dengan “2 (dua) periode” adalah masing-masing \nperiode paling lama 30 (tiga puluh) hari kalender. Dengan \ndemikian, perpanjangan 2 (dua) periode secara berturut-turut \npaling lama 60 hari (enam puluh) hari kalender sehingga jangka \nwaktu PLJPS keseluruhan paling lama 90 (sembilan puluh) hari \nkalender.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nTanggal aktivasi pemberian PLJPS akan disampaikan oleh Bank \nIndonesia melalui surat yang merupakan bagian tidak terpisahkan \ndari perjanjian pemberian PLJPS.  \nAyat (3) \nYang dimaksud dengan “2 (dua) periode” adalah masing-masing \nperiode paling lama 30 (tiga puluh) hari kalender. Dengan \ndemikian, perpanjangan 2 (dua) periode secara berturut-turut \npaling lama 60 hari (enam puluh) hari kalender sehingga jangka \nwaktu PLJPS keseluruhan paling lama 90 (sembilan puluh) hari \nkalender."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \n \nCukup jelas. \n \n \n \n\n\nAyat (3) \nHuruf a \nYang dimaksud dengan “surat sanggup bayar” adalah surat \nyang memuat kesanggupan dari BUS untuk membayar \nkepada Bank Indonesia atas pencairan dana PLJPS. Surat \nsanggup bayar (promissory note) tersebut tidak dapat \ndiperdagangkan di pasar uang. \nHuruf b \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \n \nCukup jelas. \n \n \n \n\n\nAyat (3) \nHuruf a \nYang dimaksud dengan “surat sanggup bayar” adalah surat \nyang memuat kesanggupan dari BUS untuk membayar \nkepada Bank Indonesia atas pencairan dana PLJPS. Surat \nsanggup bayar (promissory note) tersebut tidak dapat \ndiperdagangkan di pasar uang. \nHuruf b \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Dengan pembatasan pencairan PLJPS maka BUS hanya dapat \nmencairkan PLJPS paling banyak sebesar kelonggaran tarik yang \ndidukung dengan kecukupan agunan. \nContoh pembatasan pencairan: \nPlafon awal PLJPS sebesar Rp500.000.000.000,00 (lima ratus miliar \nrupiah). \nNilai agunan secara keseluruhan turun sehingga nilai agunan hanya \nmencukupi untuk plafon PLJPS sebesar Rp450.000.000.000,00 (empat \nratus lima puluh miliar rupiah). \nPosisi saldo pokok PLJPS saat ini sebesar Rp250.000.000.000,00 (dua \nratus lima puluh miliar rupiah).  \nDengan saldo pokok tersebut maka masih terdapat kelonggaran tarik \nsebesar \nRp450.000.000.000,00 \n– \nRp250.000.000.000,00 \n= \nRp200.000.000.000,00 (dua ratus miliar rupiah).  \nBerdasarkan kondisi tersebut maka nilai agunan masih mencukupi \nsaldo pokok PLJPS dan masih memiliki kelonggaran tarik. Oleh karena \nitu, Bank Indonesia melakukan pembatasan pencairan PLJPS paling \nbanyak sampai dengan Rp450.000.000.000,00 (empat ratus lima puluh \nmiliar rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dengan pembatasan pencairan PLJPS maka BUS hanya dapat \nmencairkan PLJPS paling banyak sebesar kelonggaran tarik yang \ndidukung dengan kecukupan agunan. \nContoh pembatasan pencairan: \nPlafon awal PLJPS sebesar Rp500.000.000.000,00 (lima ratus miliar \nrupiah). \nNilai agunan secara keseluruhan turun sehingga nilai agunan hanya \nmencukupi untuk plafon PLJPS sebesar Rp450.000.000.000,00 (empat \nratus lima puluh miliar rupiah). \nPosisi saldo pokok PLJPS saat ini sebesar Rp250.000.000.000,00 (dua \nratus lima puluh miliar rupiah).  \nDengan saldo pokok tersebut maka masih terdapat kelonggaran tarik \nsebesar \nRp450.000.000.000,00 \n– \nRp250.000.000.000,00 \n= \nRp200.000.000.000,00 (dua ratus miliar rupiah).  \nBerdasarkan kondisi tersebut maka nilai agunan masih mencukupi \nsaldo pokok PLJPS dan masih memiliki kelonggaran tarik. Oleh karena \nitu, Bank Indonesia melakukan pembatasan pencairan PLJPS paling \nbanyak sampai dengan Rp450.000.000.000,00 (empat ratus lima puluh \nmiliar rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nMeskipun pencairan PLJPS dihentikan sebelum jatuh waktu, \npembayaran kembali PLJPS tetap dilakukan pada saat jatuh \nwaktu. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nMeskipun pencairan PLJPS dihentikan sebelum jatuh waktu, \npembayaran kembali PLJPS tetap dilakukan pada saat jatuh \nwaktu. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas.  \nAyat (2) \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan perpanjangan \njangka waktu PLJPS. \nHuruf b \nCukup jelas. \n\n\nHuruf c \nNilai pasar agunan PLJPS menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nPenyerahan surat berharga syariah oleh BUS sebagai agunan \nuntuk perpanjangan jangka waktu PLJPS tidak digantungkan \npada kecukupan jumlah agunan PLJPS. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas.  \nAyat (2) \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan perpanjangan \njangka waktu PLJPS. \nHuruf b \nCukup jelas. \n\n\nHuruf c \nNilai pasar agunan PLJPS menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nPenyerahan surat berharga syariah oleh BUS sebagai agunan \nuntuk perpanjangan jangka waktu PLJPS tidak digantungkan \npada kecukupan jumlah agunan PLJPS. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nInformasi bahwa BUS tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \nAyat (9) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nInformasi bahwa BUS tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \nAyat (9) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \n \n \nAyat (3) \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan penambahan plafon \nPLJPS. \n \n\n\nHuruf b \nCukup jelas. \nHuruf c \nNilai pasar agunan PLJPS menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \n \n \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nAyat (4) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \n \n \nAyat (3) \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan penambahan plafon \nPLJPS. \n \n\n\nHuruf b \nCukup jelas. \nHuruf c \nNilai pasar agunan PLJPS menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \n \n \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nAyat (4) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.  \nAyat (6) \nCukup jelas. \nAyat (7) \n \n \nCukup jelas. \nAyat (8) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nInformasi bahwa BUS tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \nAyat (9) \nCukup jelas. \nAyat (10) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.  \nAyat (6) \nCukup jelas. \nAyat (7) \n \n \nCukup jelas. \nAyat (8) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nInformasi bahwa BUS tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \nAyat (9) \nCukup jelas. \nAyat (10) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPermohonan penurunan plafon didasarkan pada kebutuhan \nlikuiditas BUS sampai dengan BUS memenuhi GWM sesuai \ndengan ketentuan Peraturan Bank Indonesia mengenai giro wajib \nminimum, yang didukung dengan proyeksi arus kas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPermohonan penurunan plafon didasarkan pada kebutuhan \nlikuiditas BUS sampai dengan BUS memenuhi GWM sesuai \ndengan ketentuan Peraturan Bank Indonesia mengenai giro wajib \nminimum, yang didukung dengan proyeksi arus kas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kewajiban PLJPS” adalah saldo pokok \nPLJPS, bagi hasil PLJPS, dan biaya lainnya terkait PLJPS.   \nHuruf a \nYang dimaksud dengan “penempatan dana” antara lain \npenempatan \ndana \npada \npasar \nuang \nantarbank \nberdasarkan Prinsip Syariah dan pembelian surat \nberharga syariah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kewajiban PLJPS” adalah saldo pokok \nPLJPS, bagi hasil PLJPS, dan biaya lainnya terkait PLJPS.   \nHuruf a \nYang dimaksud dengan “penempatan dana” antara lain \npenempatan \ndana \npada \npasar \nuang \nantarbank \nberdasarkan Prinsip Syariah dan pembelian surat \nberharga syariah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Operasi moneter syariah Bank Indonesia yang bersifat ekspansi antara \nlain transaksi repurchase agreement (repo) dan/atau pengelolaan \nlikuiditas berdasarkan Prinsip Syariah Bank Indonesia dalam rangka \noperasi pasar terbuka dan transaksi financing facility dalam rangka \nstanding facilities.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi moneter syariah Bank Indonesia yang bersifat ekspansi antara \nlain transaksi repurchase agreement (repo) dan/atau pengelolaan \nlikuiditas berdasarkan Prinsip Syariah Bank Indonesia dalam rangka \noperasi pasar terbuka dan transaksi financing facility dalam rangka \nstanding facilities."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nRumus perhitungan besarnya bagi hasil PLJPS: \nX = P x R x k x t/360 \nKeterangan:  \nX: besarnya bagi hasil yang diterima Bank Indonesia.  \nP: saldo pokok PLJPS.  \nR: tingkat realisasi imbalan deposito investasi mudarabah sebelum \ndistribusi pada BUS yang menerima PLJPS.  \nk: nisbah bagi hasil untuk Bank Indonesia.  \nt:  jumlah hari kalender perhitungan bagi hasil. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nRumus perhitungan besarnya bagi hasil PLJPS: \nX = P x R x k x t/360 \nKeterangan:  \nX: besarnya bagi hasil yang diterima Bank Indonesia.  \nP: saldo pokok PLJPS.  \nR: tingkat realisasi imbalan deposito investasi mudarabah sebelum \ndistribusi pada BUS yang menerima PLJPS.  \nk: nisbah bagi hasil untuk Bank Indonesia.  \nt:  jumlah hari kalender perhitungan bagi hasil. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nRumus perhitungan besarnya kewajiban membayar (gharamah \nmaliyah) PLJPS:  \nG = P x R x k x t/360 \nKeterangan:  \nG:besarnya kewajiban membayar (gharamah maliyah) yang \nditerima Bank Indonesia.  \nP: saldo pokok PLJPS.  \nR: tingkat realisasi imbalan deposito investasi mudarabah sebelum \ndistribusi pada BUS yang menerima PLJPS.  \nk: nisbah bagi hasil untuk Bank Indonesia.  \nt: jumlah hari kalender perhitungan kewajiban membayar \n(gharamah maliyah). \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nRumus perhitungan besarnya kewajiban membayar (gharamah \nmaliyah) PLJPS:  \nG = P x R x k x t/360 \nKeterangan:  \nG:besarnya kewajiban membayar (gharamah maliyah) yang \nditerima Bank Indonesia.  \nP: saldo pokok PLJPS.  \nR: tingkat realisasi imbalan deposito investasi mudarabah sebelum \ndistribusi pada BUS yang menerima PLJPS.  \nk: nisbah bagi hasil untuk Bank Indonesia.  \nt: jumlah hari kalender perhitungan kewajiban membayar \n(gharamah maliyah). \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nPendebitan saldo rekening giro BUS dilakukan sepanjang \nterdapat saldo pokok PLJPS, paling tinggi sebesar nilai \nterendah antara saldo pokok PLJPS dan kelebihan saldo \nrekening giro dari kewajiban GWM ditambah 10% (sepuluh \npersen) dari kewajiban GWM. \nHuruf b \nPembayaran kembali sebelum PLJPS jatuh waktu dilakukan \ndengan mendebit saldo rekening giro BUS sebesar saldo pokok \ndan bagi hasil PLJPS. \nHuruf c \nApabila saat jatuh waktu PLJPS bertepatan pada hari Sabtu, \nhari Minggu, hari libur, atau pada hari kerja yang kemudian \nditetapkan sebagai hari libur maka pendebitan saldo rekening \ngiro BUS dilakukan pada hari kerja berikutnya, tanpa \nmemperhitungkan bagi hasil PLJPS pada hari tersebut.  \nDalam hal Bank Indonesia beroperasi secara terbatas pada \nhari libur atau cuti bersama, dimana Bank Indonesia \nmengoperasikan sistem Bank Indonesia - real time gross \nsettlement maka hari tersebut termasuk sebagai hari kerja. \nAyat (2) \nPembayaran kembali kewajiban PLJPS merupakan transaksi high \npriority sebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai penyelenggaraan transaksi, penatausahaan \nsurat berharga, dan setelmen dana seketika yang penyelesaiannya \ndilakukan mendahului penyelesaian transaksi lainnya. \nAyat (3) \nCukup jelas. \n\n\nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nPendebitan saldo rekening giro BUS dilakukan sepanjang \nterdapat saldo pokok PLJPS, paling tinggi sebesar nilai \nterendah antara saldo pokok PLJPS dan kelebihan saldo \nrekening giro dari kewajiban GWM ditambah 10% (sepuluh \npersen) dari kewajiban GWM. \nHuruf b \nPembayaran kembali sebelum PLJPS jatuh waktu dilakukan \ndengan mendebit saldo rekening giro BUS sebesar saldo pokok \ndan bagi hasil PLJPS. \nHuruf c \nApabila saat jatuh waktu PLJPS bertepatan pada hari Sabtu, \nhari Minggu, hari libur, atau pada hari kerja yang kemudian \nditetapkan sebagai hari libur maka pendebitan saldo rekening \ngiro BUS dilakukan pada hari kerja berikutnya, tanpa \nmemperhitungkan bagi hasil PLJPS pada hari tersebut.  \nDalam hal Bank Indonesia beroperasi secara terbatas pada \nhari libur atau cuti bersama, dimana Bank Indonesia \nmengoperasikan sistem Bank Indonesia - real time gross \nsettlement maka hari tersebut termasuk sebagai hari kerja. \nAyat (2) \nPembayaran kembali kewajiban PLJPS merupakan transaksi high \npriority sebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai penyelenggaraan transaksi, penatausahaan \nsurat berharga, dan setelmen dana seketika yang penyelesaiannya \ndilakukan mendahului penyelesaian transaksi lainnya. \nAyat (3) \nCukup jelas. \n\n\nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nBiaya yang timbul dari proses PLJPS antara lain biaya notaris \nuntuk pengikatan perjanjian dan pengikatan agunan, biaya untuk \neksekusi agunan atau penjualan atau pengalihan hak tagih atas \nPLJPS, dan biaya penyimpanan dokumen terkait agunan. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nBiaya yang timbul dari proses PLJPS antara lain biaya notaris \nuntuk pengikatan perjanjian dan pengikatan agunan, biaya untuk \neksekusi agunan atau penjualan atau pengalihan hak tagih atas \nPLJPS, dan biaya penyimpanan dokumen terkait agunan. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \nCukup jelas. \nHuruf f \n \n \n \nYang dimaksud dengan “rencana tindak” adalah rencana \ntindak sebagaimana dimaksud dalam ketentuan Peraturan \nOJK \nmengenai \npenetapan \nstatus \ndan \ntindak \nlanjut \npengawasan Bank umum. \nHuruf g \n \n \n \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \nCukup jelas. \nHuruf f \n \n \n \nYang dimaksud dengan “rencana tindak” adalah rencana \ntindak sebagaimana dimaksud dalam ketentuan Peraturan \nOJK \nmengenai \npenetapan \nstatus \ndan \ntindak \nlanjut \npengawasan Bank umum. \nHuruf g \n \n \n \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nDalam melakukan pemeriksaan kepada BUS, Bank Indonesia \nmenyampaikan surat pemberitahuan secara tertulis kepada OJK. \nDalam melakukan pemeriksaan baik dilakukan langsung oleh \nBank Indonesia atau Bank Indonesia bersama OJK, Bank \n\n\nIndonesia dapat menggunakan data antara lain data yang \ndiperoleh dari OJK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nDalam melakukan pemeriksaan kepada BUS, Bank Indonesia \nmenyampaikan surat pemberitahuan secara tertulis kepada OJK. \nDalam melakukan pemeriksaan baik dilakukan langsung oleh \nBank Indonesia atau Bank Indonesia bersama OJK, Bank \n\n\nIndonesia dapat menggunakan data antara lain data yang \ndiperoleh dari OJK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.  \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 40/BI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas.  \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 40/BI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 82,
+  "total_ayat": 197,
+  "total_karakter": 69453,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

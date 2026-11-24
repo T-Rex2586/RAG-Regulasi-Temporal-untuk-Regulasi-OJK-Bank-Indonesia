@@ -1,0 +1,1547 @@
+{
+  "doc_id": "BI_PADG_2025_273_273",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "273",
+  "tahun": "2025",
+  "judul": "PENYELESAIAN TRANSAKSI BILATERAL ANTARA INDONESIA DAN UNI EMIRAT ARAB MENGGUNAKAN RUPIAH DAN DIRHAM MELALUI BANK",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "24 Januari 2025",
+  "tanggal_berlaku": "31 Januari 2025",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN DIRHAM"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KUOTASI HARGA"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KORESPONDENSI"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank yang melaksanakan kegiatan usaha \nsecara konvensional dan/atau berdasarkan prinsip \nsyariah yang dalam kegiatannya memberikan jasa dalam \nlalu lintas pembayaran, termasuk kantor cabang dari \nbank yang berkedudukan di luar negeri. \n2. \nPenyelesaian Transaksi Bilateral Menggunakan Rupiah \ndan Dirham yang selanjutnya disebut Transaksi Bilateral \nRupiah dan Dirham adalah penyelesaian transaksi yang \ndilakukan secara bilateral oleh pelaku usaha di Indonesia \ndan di Uni Emirat Arab dengan menggunakan rupiah dan \ndirham. \n3. \nBank yang Ditunjuk untuk Melaksanakan Transaksi Mata \nUang atau Appointed Cross-Currency Dealer Bank yang \nselanjutnya disebut Bank ACCD adalah Bank yang \nditunjuk untuk melakukan penyelesaian kegiatan dan \ntransaksi \nkeuangan \ntertentu \nuntuk \nkepentingan \npelaksanaan Transaksi Bilateral Rupiah dan Dirham. \n4. \nBank ACCD Indonesia adalah Bank ACCD di Indonesia. \n5. \nBank ACCD Uni Emirat Arab adalah Bank ACCD di Uni \nEmirat Arab. \n6. \nUnderlying Transaksi adalah seluruh kegiatan ekonomi \nyang mendasari pelaksanaan Transaksi Bilateral Rupiah \ndan Dirham. \n7. \nNasabah Indonesia dalam Transaksi Bilateral Rupiah dan \nDirham yang selanjutnya disebut Nasabah Indonesia \nadalah pihak di Indonesia yang melakukan Underlying \nTransaksi dengan nasabah Uni Emirat Arab. \n8. \nNasabah Uni Emirat Arab dalam Transaksi Bilateral \nRupiah dan Dirham yang selanjutnya disebut Nasabah \nUni Emirat Arab adalah pihak di Uni Emirat Arab yang \nmelakukan \nUnderlying \nTransaksi \ndengan \nNasabah \nIndonesia. \n9. \nPembiayaan adalah pembiayaan yang diberikan oleh Bank \nACCD Indonesia kepada Nasabah Indonesia atau oleh \nBank ACCD Uni Emirat Arab kepada Nasabah Uni Emirat \nArab. \n10. Rekening Special Purpose Non-Resident Account Rupiah \nyang selanjutnya disebut SNA Rupiah adalah rekening \n\n\n \n \n \n \nkhusus milik Bank ACCD Uni Emirat Arab dalam mata \nuang rupiah yang dibuka pada Bank ACCD Indonesia \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n11. Rekening Sub-Special Purpose Non-Resident Account \nRupiah yang selanjutnya disebut Sub-SNA Rupiah adalah \nrekening khusus milik Nasabah Uni Emirat Arab dalam \nmata uang rupiah yang dibuka pada Bank ACCD Uni \nEmirat Arab untuk kepentingan pelaksanaan Transaksi \nBilateral Rupiah dan Dirham. \n12. Rekening Special Purpose Non-Resident Account Dirham \nyang selanjutnya disebut SNA Dirham adalah rekening \nkhusus milik Bank ACCD Indonesia dalam mata uang \ndirham yang dibuka pada Bank ACCD Uni Emirat Arab \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n13. Rekening Sub-Special Purpose Non-Resident Account \nDirham yang selanjutnya disebut Sub-SNA Dirham adalah \nrekening khusus milik Nasabah Indonesia dalam mata \nuang dirham yang dibuka pada Bank ACCD Indonesia \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n14. Aksi \nKorporasi \nadalah \npenggabungan, \npeleburan, \npemisahan, dan/atau integrasi. \n15. Hari adalah hari kerja. \n \nBAB II \nKERANGKA PENGATURAN, PENGEMBANGAN,  \nDAN PENGAWASAN TRANSAKSI BILATERAL  \nRUPIAH DAN DIRHAM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank yang melaksanakan kegiatan usaha \nsecara konvensional dan/atau berdasarkan prinsip \nsyariah yang dalam kegiatannya memberikan jasa dalam \nlalu lintas pembayaran, termasuk kantor cabang dari \nbank yang berkedudukan di luar negeri. \n2. \nPenyelesaian Transaksi Bilateral Menggunakan Rupiah \ndan Dirham yang selanjutnya disebut Transaksi Bilateral \nRupiah dan Dirham adalah penyelesaian transaksi yang \ndilakukan secara bilateral oleh pelaku usaha di Indonesia \ndan di Uni Emirat Arab dengan menggunakan rupiah dan \ndirham. \n3. \nBank yang Ditunjuk untuk Melaksanakan Transaksi Mata \nUang atau Appointed Cross-Currency Dealer Bank yang \nselanjutnya disebut Bank ACCD adalah Bank yang \nditunjuk untuk melakukan penyelesaian kegiatan dan \ntransaksi \nkeuangan \ntertentu \nuntuk \nkepentingan \npelaksanaan Transaksi Bilateral Rupiah dan Dirham. \n4. \nBank ACCD Indonesia adalah Bank ACCD di Indonesia. \n5. \nBank ACCD Uni Emirat Arab adalah Bank ACCD di Uni \nEmirat Arab. \n6. \nUnderlying Transaksi adalah seluruh kegiatan ekonomi \nyang mendasari pelaksanaan Transaksi Bilateral Rupiah \ndan Dirham. \n7. \nNasabah Indonesia dalam Transaksi Bilateral Rupiah dan \nDirham yang selanjutnya disebut Nasabah Indonesia \nadalah pihak di Indonesia yang melakukan Underlying \nTransaksi dengan nasabah Uni Emirat Arab. \n8. \nNasabah Uni Emirat Arab dalam Transaksi Bilateral \nRupiah dan Dirham yang selanjutnya disebut Nasabah \nUni Emirat Arab adalah pihak di Uni Emirat Arab yang \nmelakukan \nUnderlying \nTransaksi \ndengan \nNasabah \nIndonesia. \n9. \nPembiayaan adalah pembiayaan yang diberikan oleh Bank \nACCD Indonesia kepada Nasabah Indonesia atau oleh \nBank ACCD Uni Emirat Arab kepada Nasabah Uni Emirat \nArab. \n10. Rekening Special Purpose Non-Resident Account Rupiah \nyang selanjutnya disebut SNA Rupiah adalah rekening \n\n\n \n \n \n \nkhusus milik Bank ACCD Uni Emirat Arab dalam mata \nuang rupiah yang dibuka pada Bank ACCD Indonesia \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n11. Rekening Sub-Special Purpose Non-Resident Account \nRupiah yang selanjutnya disebut Sub-SNA Rupiah adalah \nrekening khusus milik Nasabah Uni Emirat Arab dalam \nmata uang rupiah yang dibuka pada Bank ACCD Uni \nEmirat Arab untuk kepentingan pelaksanaan Transaksi \nBilateral Rupiah dan Dirham. \n12. Rekening Special Purpose Non-Resident Account Dirham \nyang selanjutnya disebut SNA Dirham adalah rekening \nkhusus milik Bank ACCD Indonesia dalam mata uang \ndirham yang dibuka pada Bank ACCD Uni Emirat Arab \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n13. Rekening Sub-Special Purpose Non-Resident Account \nDirham yang selanjutnya disebut Sub-SNA Dirham adalah \nrekening khusus milik Nasabah Indonesia dalam mata \nuang dirham yang dibuka pada Bank ACCD Indonesia \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n14. Aksi \nKorporasi \nadalah \npenggabungan, \npeleburan, \npemisahan, dan/atau integrasi. \n15. Hari adalah hari kerja. \n \nBAB II \nKERANGKA PENGATURAN, PENGEMBANGAN,  \nDAN PENGAWASAN TRANSAKSI BILATERAL  \nRUPIAH DAN DIRHAM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN DIRHAM",
+      "teks_lengkap": "Prinsip dalam pengaturan, pengembangan, dan pengawasan \natas Transaksi Bilateral Rupiah dan Dirham meliputi: \na. \nmemperhatikan kebijakan Bank Indonesia dalam menjaga \nkestabilan \nnilai \ntukar \nrupiah \nmelalui \nkebijakan \npenggunaan rupiah pada kegiatan internasional (policy \ndriven); \nb. \nmempertimbangkan kesepakatan Bank Indonesia dengan \notoritas Uni Emirat Arab; \nc. \nmempertimbangkan kebutuhan pasar (market driven) \nterhadap Transaksi Bilateral Rupiah dan Dirham; dan \nd. \nbersifat efektif, efisien, dan bertata kelola yang baik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prinsip dalam pengaturan, pengembangan, dan pengawasan \natas Transaksi Bilateral Rupiah dan Dirham meliputi: \na. \nmemperhatikan kebijakan Bank Indonesia dalam menjaga \nkestabilan \nnilai \ntukar \nrupiah \nmelalui \nkebijakan \npenggunaan rupiah pada kegiatan internasional (policy \ndriven); \nb. \nmempertimbangkan kesepakatan Bank Indonesia dengan \notoritas Uni Emirat Arab; \nc. \nmempertimbangkan kebutuhan pasar (market driven) \nterhadap Transaksi Bilateral Rupiah dan Dirham; dan \nd. \nbersifat efektif, efisien, dan bertata kelola yang baik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN DIRHAM",
+      "teks_lengkap": "Ruang lingkup pengaturan, pengembangan, dan pengawasan \natas Transaksi Bilateral Rupiah dan Dirham meliputi: \na. \npelaku Transaksi Bilateral Rupiah dan Dirham; \nb. \nkegiatan keuangan dalam Transaksi Bilateral Rupiah dan \nDirham; \nc. \ntransaksi keuangan Bank ACCD Indonesia; \nd. \nkuotasi harga; \ne. \npelaporan Transaksi Bilateral Rupiah dan Dirham; \nf. \ntata cara pengenaan sanksi; dan \ng. \nkorespondensi. \n \n\n\n \n \n \n \nBAB III \nPELAKU TRANSAKSI \n \nBagian Kesatu \nBank ACCD Indonesia \n \nParagraf 1 \nKriteria Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup pengaturan, pengembangan, dan pengawasan \natas Transaksi Bilateral Rupiah dan Dirham meliputi: \na. \npelaku Transaksi Bilateral Rupiah dan Dirham; \nb. \nkegiatan keuangan dalam Transaksi Bilateral Rupiah dan \nDirham; \nc. \ntransaksi keuangan Bank ACCD Indonesia; \nd. \nkuotasi harga; \ne. \npelaporan Transaksi Bilateral Rupiah dan Dirham; \nf. \ntata cara pengenaan sanksi; dan \ng. \nkorespondensi. \n \n\n\n \n \n \n \nBAB III \nPELAKU TRANSAKSI \n \nBagian Kesatu \nBank ACCD Indonesia \n \nParagraf 1 \nKriteria Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nPenunjukan Bank sebagai Bank ACCD Indonesia oleh \nBank Indonesia dilakukan dengan mempertimbangkan \nkriteria: \na. \nukuran (size); \nb. \nketerkaitan (interconnectedness); dan \nc. \nkompleksitas (complexity). \n(2) \nSelain \nmempertimbangkan \nkriteria \nsebagaimana \ndimaksud pada ayat (1) dalam penunjukan Bank ACCD \nIndonesia, Bank Indonesia juga mempertimbangkan: \na. \nperanan dalam mendukung pengembangan pasar \nuang dan pasar valuta asing dan/atau industri \nsistem pembayaran; \nb. \nrekomendasi dari otoritas Uni Emirat Arab; dan/atau \nc. \npertimbangan lain yang ditetapkan oleh Bank \nIndonesia bersama Central Bank of the United Arab \nEmirates. \n \nParagraf 2 \nMekanisme Penunjukan Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penunjukan Bank sebagai Bank ACCD Indonesia oleh \nBank Indonesia dilakukan dengan mempertimbangkan \nkriteria: \na. \nukuran (size); \nb. \nketerkaitan (interconnectedness); dan \nc. \nkompleksitas (complexity)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain \nmempertimbangkan \nkriteria \nsebagaimana \ndimaksud pada ayat (1) dalam penunjukan Bank ACCD \nIndonesia, Bank Indonesia juga mempertimbangkan: \na. \nperanan dalam mendukung pengembangan pasar \nuang dan pasar valuta asing dan/atau industri \nsistem pembayaran; \nb. \nrekomendasi dari otoritas Uni Emirat Arab; dan/atau \nc. \npertimbangan lain yang ditetapkan oleh Bank \nIndonesia bersama Central Bank of the United Arab \nEmirates. \n \nParagraf 2 \nMekanisme Penunjukan Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nMekanisme penunjukan Bank sebagai Bank ACCD \nIndonesia paling sedikit dilakukan dengan ketentuan: \na. \ncalon Bank ACCD Indonesia menyampaikan surat \npermohonan kepada Bank Indonesia; \nb. \nBank Indonesia melakukan pemrosesan permohonan \ndari calon Bank ACCD Indonesia; dan  \nc. \nBank \nIndonesia \nmemberikan \npersetujuan \npenunjukan Bank sebagai Bank ACCD Indonesia.  \n(2) \nSurat permohonan dari calon Bank ACCD Indonesia \nkepada Bank Indonesia sebagaimana dimaksud pada ayat \n(1) huruf a paling sedikit memuat pernyataan minat dan \nkesiapan untuk menjadi Bank ACCD Indonesia.  \n(3) \nContoh surat permohonan sebagaimana dimaksud pada \nayat (1) huruf a tercantum dalam Lampiran I yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \nParagraf 3 \nEvaluasi Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Mekanisme penunjukan Bank sebagai Bank ACCD \nIndonesia paling sedikit dilakukan dengan ketentuan: \na. \ncalon Bank ACCD Indonesia menyampaikan surat \npermohonan kepada Bank Indonesia; \nb. \nBank Indonesia melakukan pemrosesan permohonan \ndari calon Bank ACCD Indonesia; dan  \nc. \nBank \nIndonesia \nmemberikan \npersetujuan \npenunjukan Bank sebagai Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Surat permohonan dari calon Bank ACCD Indonesia \nkepada Bank Indonesia sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf a paling sedikit memuat pernyataan minat dan \nkesiapan untuk menjadi Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Contoh surat permohonan sebagaimana dimaksud pada \nayat (1) huruf a tercantum dalam Lampiran I yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \nParagraf 3 \nEvaluasi Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan evaluasi terhadap Bank \nACCD Indonesia. \n\n\n \n \n \n \n(2) \nEvaluasi terhadap Bank ACCD Indonesia sebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank \nIndonesia berkoordinasi dengan: \na. \notoritas di Uni Emirat Arab; dan/atau \nb. \notoritas terkait di Indonesia. \n(3) \nEvaluasi sebagaimana dimaksud pada ayat (1) dilakukan \ndengan mempertimbangkan perkembangan bisnis Bank \nACCD \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Dirham serta kepatuhan \nBank \nACCD \nIndonesia \nterhadap \nketentuan \nBank \nIndonesia mengenai penyelesaian transaksi bilateral \nmenggunakan mata uang lokal melalui Bank. \n \nParagraf 4 \nPengakhiran Penunjukan Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan evaluasi terhadap Bank \nACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi terhadap Bank ACCD Indonesia sebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank \nIndonesia berkoordinasi dengan: \na. \notoritas di Uni Emirat Arab; dan/atau \nb. \notoritas terkait di Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan \ndengan mempertimbangkan perkembangan bisnis Bank \nACCD \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Dirham serta kepatuhan \nBank \nACCD \nIndonesia \nterhadap \nketentuan \nBank \nIndonesia mengenai penyelesaian transaksi bilateral \nmenggunakan mata uang lokal melalui Bank. \n \nParagraf 4 \nPengakhiran Penunjukan Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat mengakhiri penunjukan Bank \nsebagai Bank ACCD Indonesia. \n(2) \nPengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia sebagaimana dimaksud pada ayat (1) dilakukan \ndengan pertimbangan: \na. \nberdasarkan hasil evaluasi terhadap Bank ACCD \nIndonesia yang dilakukan oleh Bank Indonesia \nberkoordinasi dengan otoritas di Uni Emirat Arab \nsebagaimana dimaksud dalam Pasal 6 ayat (2) huruf \na; \nb. \ndalam hal Bank ACCD Indonesia melakukan Aksi \nKorporasi dan Bank ACCD Indonesia tersebut bukan \nmerupakan Bank hasil Aksi Korporasi; \nc. \ndalam hal Bank ACCD Indonesia dicabut izin \nusahanya oleh otoritas yang berwenang; atau \nd. \nberdasarkan permintaan Bank ACCD Indonesia \nsendiri. \n(3) \nBank ACCD Indonesia yang: \na. \nberencana melakukan Aksi Korporasi sebagaimana \ndimaksud pada ayat (2) huruf b; atau \nb. \nsedang \ndalam \nproses \npencabutan izin \nusaha \nsebagaimana dimaksud pada ayat (2) huruf c, \nwajib menyampaikan surat \npemberitahuan tertulis \nkepada Bank Indonesia disertai dengan hasil rapat umum \npemegang saham terkait rencana Aksi Korporasi atau \nrencana pencabutan izin usaha. \n(4) \nBank ACCD Indonesia menyampaikan surat keputusan \nterkait Aksi Korporasi atau pencabutan izin usaha kepada \nBank Indonesia dalam hal telah mendapatkan izin, \npersetujuan, atau rekomendasi dari otoritas terkait: \na. \nAksi Korporasi; \nb. \npencabutan izin usaha oleh otoritas yang berwenang; \natau \nc. \npencabutan izin usaha atas inisiatif sendiri (self- \nliquidation). \n(5) \nDalam hal Bank hasil Aksi Korporasi bukan merupakan \nBank ACCD Indonesia dan bermaksud menjadi Bank \nACCD Indonesia, Bank wajib memenuhi kriteria sebagai \nBank ACCD Indonesia sebagaimana dimaksud dalam \n\n\n \n \n \n \nPasal 4 dan mengajukan permohonan penunjukan \nsebagai Bank ACCD Indonesia sebagaimana dimaksud \ndalam Pasal 5 ayat (1) huruf a. \n(6) \nContoh \nsurat \npemberitahuan tertulis sebagaimana \ndimaksud pada ayat (3) tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat mengakhiri penunjukan Bank \nsebagai Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia sebagaimana dimaksud pada ayat (1) dilakukan \ndengan pertimbangan: \na. \nberdasarkan hasil evaluasi terhadap Bank ACCD \nIndonesia yang dilakukan oleh Bank Indonesia \nberkoordinasi dengan otoritas di Uni Emirat Arab \nsebagaimana dimaksud dalam Pasal 6 ayat (2) huruf \na; \nb. \ndalam hal Bank ACCD Indonesia melakukan Aksi \nKorporasi dan Bank ACCD Indonesia tersebut bukan \nmerupakan Bank hasil Aksi Korporasi; \nc. \ndalam hal Bank ACCD Indonesia dicabut izin \nusahanya oleh otoritas yang berwenang; atau \nd. \nberdasarkan permintaan Bank ACCD Indonesia \nsendiri."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia yang: \na. \nberencana melakukan Aksi Korporasi sebagaimana \ndimaksud pada ayat (2) huruf b; atau \nb. \nsedang \ndalam \nproses \npencabutan izin \nusaha \nsebagaimana dimaksud pada ayat (2) huruf c, \nwajib menyampaikan surat \npemberitahuan tertulis \nkepada Bank Indonesia disertai dengan hasil rapat umum \npemegang saham terkait rencana Aksi Korporasi atau \nrencana pencabutan izin usaha."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia menyampaikan surat keputusan \nterkait Aksi Korporasi atau pencabutan izin usaha kepada \nBank Indonesia dalam hal telah mendapatkan izin, \npersetujuan, atau rekomendasi dari otoritas terkait: \na. \nAksi Korporasi; \nb. \npencabutan izin usaha oleh otoritas yang berwenang; \natau \nc. \npencabutan izin usaha atas inisiatif sendiri (self- \nliquidation)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank hasil Aksi Korporasi bukan merupakan \nBank ACCD Indonesia dan bermaksud menjadi Bank \nACCD Indonesia, Bank wajib memenuhi kriteria sebagai \nBank ACCD Indonesia sebagaimana dimaksud dalam \n\n\n \n \n \n \nPasal 4 dan mengajukan permohonan penunjukan \nsebagai Bank ACCD Indonesia sebagaimana dimaksud \ndalam Pasal 5 ayat (1) huruf a."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Contoh \nsurat \npemberitahuan tertulis sebagaimana \ndimaksud pada ayat (3) tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmemberitahukan \nsecara \ntertulis \npengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia kepada Bank ACCD Indonesia berdasarkan \npertimbangan sebagaimana dimaksud dalam Pasal 7 ayat \n(2). \n(2) \nBank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD Indonesia sebagaimana dimaksud pada ayat (1) \ntidak dapat melakukan kegiatan dan transaksi keuangan \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham. \n(3) \nBank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD Indonesia sebagaimana dimaksud pada ayat (1) \nharus segera memberitahukan kepada \nnasabahnya \nmengenai: \na. \npenghentian kegiatan Bank sebagai Bank ACCD \nIndonesia; dan \nb. \nmekanisme \npenyelesaian \nhak \ndan \nkewajiban \nnasabah terkait: \n1. \npenutupan SNA Rupiah, SNA Dirham, dan/atau \nSub-SNA Dirham; \n2. \npenyelesaian Pembiayaan; dan \n3. \nhal lain terkait transaksi Bank dengan Nasabah \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Dirham. \n \nBagian Kedua \nNasabah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmemberitahukan \nsecara \ntertulis \npengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia kepada Bank ACCD Indonesia berdasarkan \npertimbangan sebagaimana dimaksud dalam Pasal 7 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD Indonesia sebagaimana dimaksud pada ayat (1) \ntidak dapat melakukan kegiatan dan transaksi keuangan \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD Indonesia sebagaimana dimaksud pada ayat (1) \nharus segera memberitahukan kepada \nnasabahnya \nmengenai: \na. \npenghentian kegiatan Bank sebagai Bank ACCD \nIndonesia; dan \nb. \nmekanisme \npenyelesaian \nhak \ndan \nkewajiban \nnasabah terkait: \n1. \npenutupan SNA Rupiah, SNA Dirham, dan/atau \nSub-SNA Dirham; \n2. \npenyelesaian Pembiayaan; dan \n3. \nhal lain terkait transaksi Bank dengan Nasabah \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Dirham. \n \nBagian Kedua \nNasabah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nNasabah Indonesia dapat berupa: \na. \nindividu; \nb. \nlembaga jasa keuangan; \nc. \nkorporasi; \nd. \npenyelenggara infrastruktur sistem pembayaran; \natau \ne. \npihak lain yang ditetapkan oleh Bank Indonesia. \n(2) \nInformasi mengenai pihak lain yang ditetapkan oleh Bank \nIndonesia \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndisampaikan melalui surat dan/atau dipublikasikan \ndalam laman resmi Bank Indonesia. \n \n \n \n \n \n\n\n \n \n \n \nBAB IV \nKEGIATAN KEUANGAN \n \nBagian Kesatu \nPembukaan atau Penunjukan SNA Rupiah dan SNA Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nasabah Indonesia dapat berupa: \na. \nindividu; \nb. \nlembaga jasa keuangan; \nc. \nkorporasi; \nd. \npenyelenggara infrastruktur sistem pembayaran; \natau \ne. \npihak lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Informasi mengenai pihak lain yang ditetapkan oleh Bank \nIndonesia \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan melalui surat dan/atau dipublikasikan \ndalam laman resmi Bank Indonesia. \n \n \n \n \n \n\n\n \n \n \n \nBAB IV \nKEGIATAN KEUANGAN \n \nBagian Kesatu \nPembukaan atau Penunjukan SNA Rupiah dan SNA Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia menerima permintaan pembukaan \nSNA Rupiah dari Bank ACCD Uni Emirat Arab. \n(2) \nPembukaan SNA Rupiah sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru SNA Rupiah di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Uni Emirat Arab di Bank ACCD Indonesia. \n(3) \nBank ACCD Indonesia hanya dapat membukakan 1 (satu) \nSNA Rupiah dari masing-masing Bank ACCD Uni Emirat \nArab (one-to-many relationship). \n(4) \nBank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk SNA Rupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia menerima permintaan pembukaan \nSNA Rupiah dari Bank ACCD Uni Emirat Arab."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukaan SNA Rupiah sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru SNA Rupiah di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Uni Emirat Arab di Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia hanya dapat membukakan 1 (satu) \nSNA Rupiah dari masing-masing Bank ACCD Uni Emirat \nArab (one-to-many relationship)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk SNA Rupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia membuka SNA Dirham pada Bank \nACCD Uni Emirat Arab. \n(2) \nPembukaan SNA Dirham sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru SNA Dirham di Bank \nACCD Uni Emirat Arab; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Indonesia di Bank ACCD Uni Emirat Arab. \n(3) \nBank ACCD Indonesia hanya dapat membuka 1 (satu) \nSNA Dirham pada masing-masing Bank ACCD Uni \nEmirat Arab (one-to-many relationship).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia membuka SNA Dirham pada Bank \nACCD Uni Emirat Arab."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukaan SNA Dirham sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru SNA Dirham di Bank \nACCD Uni Emirat Arab; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Indonesia di Bank ACCD Uni Emirat Arab."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia hanya dapat membuka 1 (satu) \nSNA Dirham pada masing-masing Bank ACCD Uni \nEmirat Arab (one-to-many relationship)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nJumlah saldo SNA Rupiah dari suatu Bank ACCD Uni \nEmirat Arab di seluruh Bank ACCD Indonesia dibatasi \npaling banyak sebesar Rp400.000.000.000,00 (empat \nratus miliar rupiah) pada akhir Hari. \n(2) \nBank ACCD Indonesia memonitor dan memastikan agar \nsaldo SNA Rupiah tidak melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari.  \n(3) \nSaldo SNA Rupiah dapat melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari \nsepanjang Bank ACCD Indonesia menerima dokumen dari \nBank ACCD Uni Emirat Arab yang membuktikan bahwa \nkelebihan saldo SNA Rupiah tersebut digunakan untuk \nmembayar kewajiban:  \na. \nUnderlying Transaksi antara Indonesia dan Uni \nEmirat Arab pada Hari berikutnya; atau \nb. \ninvestasi pada instrumen keuangan dalam rupiah. \n \n \n \n \n \n\n\n \n \n \n \nBagian Kedua \nPengelolaan SNA Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Jumlah saldo SNA Rupiah dari suatu Bank ACCD Uni \nEmirat Arab di seluruh Bank ACCD Indonesia dibatasi \npaling banyak sebesar Rp400.000.000.000,00 (empat \nratus miliar rupiah) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia memonitor dan memastikan agar \nsaldo SNA Rupiah tidak melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Saldo SNA Rupiah dapat melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari \nsepanjang Bank ACCD Indonesia menerima dokumen dari \nBank ACCD Uni Emirat Arab yang membuktikan bahwa \nkelebihan saldo SNA Rupiah tersebut digunakan untuk \nmembayar kewajiban:  \na. \nUnderlying Transaksi antara Indonesia dan Uni \nEmirat Arab pada Hari berikutnya; atau \nb. \ninvestasi pada instrumen keuangan dalam rupiah. \n \n \n \n \n \n\n\n \n \n \n \nBagian Kedua \nPengelolaan SNA Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nUntuk kepentingan pengelolaan saldo SNA Dirham, Bank \nACCD \nIndonesia dapat melakukan transaksi yang \nmeliputi: \na. \ninvestasi pada instrumen keuangan dalam dirham di \nUni Emirat Arab; \nb. \ntransaksi swap dirham terhadap rupiah atau valuta \nasing \ndengan \nBank \nACCD \nIndonesia \nlainnya \ndan/atau dengan Bank ACCD Uni Emirat Arab; \ndan/atau \nc. \nkonversi dari dirham ke rupiah atau valuta asing \nlainnya. \n(2) \nInvestasi sebagaimana dimaksud pada ayat (1) huruf a, \ndilarang untuk ditempatkan di Uni Emirat Arab dalam \nbentuk: \na. \ndeposito; \nb. \ntabungan; \nc. \nsertifikat deposito; atau \nd. \nbentuk lain yang dipersamakan. \n(3) \nDalam hal Bank ACCD Indonesia melakukan investasi \npada instrumen keuangan dalam dirham di Uni Emirat \nArab, pokok dan hasil dari investasi tersebut dapat \nditransfer kembali ke SNA Dirham.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pengelolaan saldo SNA Dirham, Bank \nACCD \nIndonesia dapat melakukan transaksi yang \nmeliputi: \na. \ninvestasi pada instrumen keuangan dalam dirham di \nUni Emirat Arab; \nb. \ntransaksi swap dirham terhadap rupiah atau valuta \nasing \ndengan \nBank \nACCD \nIndonesia \nlainnya \ndan/atau dengan Bank ACCD Uni Emirat Arab; \ndan/atau \nc. \nkonversi dari dirham ke rupiah atau valuta asing \nlainnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Investasi sebagaimana dimaksud pada ayat (1) huruf a, \ndilarang untuk ditempatkan di Uni Emirat Arab dalam \nbentuk: \na. \ndeposito; \nb. \ntabungan; \nc. \nsertifikat deposito; atau \nd. \nbentuk lain yang dipersamakan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank ACCD Indonesia melakukan investasi \npada instrumen keuangan dalam dirham di Uni Emirat \nArab, pokok dan hasil dari investasi tersebut dapat \nditransfer kembali ke SNA Dirham."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Dalam melakukan transaksi swap rupiah terhadap dirham \natau valuta asing dengan Bank ACCD Uni Emirat Arab, Bank \nACCD Indonesia memastikan posisi transaksi tersebut tidak \nmelebihi Rp400.000.000.000,00 (empat ratus miliar rupiah) \npada akhir Hari. \n \nBagian Ketiga \nPembukaan atau Penunjukan Sub-SNA Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam melakukan transaksi swap rupiah terhadap dirham \natau valuta asing dengan Bank ACCD Uni Emirat Arab, Bank \nACCD Indonesia memastikan posisi transaksi tersebut tidak \nmelebihi Rp400.000.000.000,00 (empat ratus miliar rupiah) \npada akhir Hari. \n \nBagian Ketiga \nPembukaan atau Penunjukan Sub-SNA Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia menerima permintaan pembukaan \nSub-SNA \nDirham \nbagi \nNasabah \nIndonesia \nuntuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nDirham. \n(2) \nPembukaan Sub-SNA Dirham sebagaimana dimaksud \npada ayat (1) dilakukan dengan: \na. \npembukaan rekening baru Sub-SNA Dirham di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh \nNasabah Indonesia di Bank ACCD Indonesia untuk \nmenjadi Sub-SNA Dirham. \n(3) \nBank ACCD Indonesia tidak dapat menerima pembukaan \nSub-SNA \nDirham bagi pihak lain selain Nasabah \nIndonesia. \n(4) \nBank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk Sub-SNA Dirham. \n \n \n\n\n \n \n \n \nBagian Keempat \nPengelolaan Saldo Sub-SNA Dirham dan  \nSaldo Sub-SNA Rupiah \n \nParagraf 1 \nPengelolaan Saldo Sub-SNA Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia menerima permintaan pembukaan \nSub-SNA \nDirham \nbagi \nNasabah \nIndonesia \nuntuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nDirham."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukaan Sub-SNA Dirham sebagaimana dimaksud \npada ayat (1) dilakukan dengan: \na. \npembukaan rekening baru Sub-SNA Dirham di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh \nNasabah Indonesia di Bank ACCD Indonesia untuk \nmenjadi Sub-SNA Dirham."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia tidak dapat menerima pembukaan \nSub-SNA \nDirham bagi pihak lain selain Nasabah \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk Sub-SNA Dirham. \n \n \n\n\n \n \n \n \nBagian Keempat \nPengelolaan Saldo Sub-SNA Dirham dan  \nSaldo Sub-SNA Rupiah \n \nParagraf 1 \nPengelolaan Saldo Sub-SNA Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nUntuk kepentingan pengelolaan saldo Sub-SNA Dirham, \nNasabah Indonesia dapat melakukan investasi pada \ninstrumen keuangan dalam dirham di Uni Emirat Arab, \nkecuali dalam bentuk: \na. \ndeposito; \nb. \ntabungan; \nc. \nsertifikat deposito; atau \nd. \nbentuk lain yang dipersamakan. \n(2) \nInvestasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan oleh \nBank \nACCD \nUni Emirat Arab \nberdasarkan perintah dari Nasabah Indonesia melalui \nBank ACCD Indonesia. \n(3) \nPokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Dirham \nmilik Nasabah Indonesia. \n \nParagraf 2 \nPenambahan Saldo Sub-SNA Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pengelolaan saldo Sub-SNA Dirham, \nNasabah Indonesia dapat melakukan investasi pada \ninstrumen keuangan dalam dirham di Uni Emirat Arab, \nkecuali dalam bentuk: \na. \ndeposito; \nb. \ntabungan; \nc. \nsertifikat deposito; atau \nd. \nbentuk lain yang dipersamakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Investasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan oleh \nBank \nACCD \nUni Emirat Arab \nberdasarkan perintah dari Nasabah Indonesia melalui \nBank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Dirham \nmilik Nasabah Indonesia. \n \nParagraf 2 \nPenambahan Saldo Sub-SNA Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Penambahan saldo Sub-SNA Dirham milik Nasabah Indonesia \nhanya bersumber dari: \na. \npenerimaan dari Nasabah Uni Emirat Arab untuk \npenyelesaian Underlying Transaksi; \nb. \npembelian dirham terhadap rupiah atau valuta asing \nmelalui transaksi spot, forward, swap, dan/atau cross-\ncurrency swap untuk penyelesaian Underlying Transaksi; \nc. \npenerimaan bunga dan/atau bagi hasil atas saldo Sub-\nSNA Dirham; \nd. \npenerimaan atas pencairan dana dari Pembiayaan; \ndan/atau \ne. \npenerimaan pokok dan hasil investasi pada instrumen \nkeuangan sebagaimana dimaksud dalam Pasal 16 ayat (1). \n \nParagraf 3 \nPengurangan Saldo Sub-SNA Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penambahan saldo Sub-SNA Dirham milik Nasabah Indonesia \nhanya bersumber dari: \na. \npenerimaan dari Nasabah Uni Emirat Arab untuk \npenyelesaian Underlying Transaksi; \nb. \npembelian dirham terhadap rupiah atau valuta asing \nmelalui transaksi spot, forward, swap, dan/atau cross-\ncurrency swap untuk penyelesaian Underlying Transaksi; \nc. \npenerimaan bunga dan/atau bagi hasil atas saldo Sub-\nSNA Dirham; \nd. \npenerimaan atas pencairan dana dari Pembiayaan; \ndan/atau \ne. \npenerimaan pokok dan hasil investasi pada instrumen \nkeuangan sebagaimana dimaksud dalam Pasal 16 ayat (1). \n \nParagraf 3 \nPengurangan Saldo Sub-SNA Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Pengurangan saldo Sub-SNA Dirham milik Nasabah Indonesia \nhanya bersumber dari: \na. \npembayaran kepada Nasabah Uni Emirat Arab untuk \ntujuan penyelesaian Underlying Transaksi; \nb. \npenjualan dirham terhadap rupiah atau valuta asing \nmelalui transaksi spot, forward, swap, dan/atau cross-\ncurrency swap dari Underlying Transaksi; \nc. \npelunasan Pembiayaan, termasuk pembayaran pokok \nserta bunga dan/atau bagi hasil atas Pembiayaan \ntersebut; dan/atau \n\n\n \n \n \n \nd. \ntransfer dirham untuk kepentingan investasi Nasabah \nIndonesia pada instrumen keuangan dalam dirham di Uni \nEmirat Arab. \n \nParagraf 4 \nPengelolaan Saldo Sub-SNA Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengurangan saldo Sub-SNA Dirham milik Nasabah Indonesia \nhanya bersumber dari: \na. \npembayaran kepada Nasabah Uni Emirat Arab untuk \ntujuan penyelesaian Underlying Transaksi; \nb. \npenjualan dirham terhadap rupiah atau valuta asing \nmelalui transaksi spot, forward, swap, dan/atau cross-\ncurrency swap dari Underlying Transaksi; \nc. \npelunasan Pembiayaan, termasuk pembayaran pokok \nserta bunga dan/atau bagi hasil atas Pembiayaan \ntersebut; dan/atau \n\n\n \n \n \n \nd. \ntransfer dirham untuk kepentingan investasi Nasabah \nIndonesia pada instrumen keuangan dalam dirham di Uni \nEmirat Arab. \n \nParagraf 4 \nPengelolaan Saldo Sub-SNA Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nUntuk kepentingan pengelolaan saldo Sub-SNA Rupiah, \nNasabah Uni Emirat Arab dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia, kecuali \ndalam bentuk: \na. \ndeposito; \nb. \ntabungan; \nc. \nsertifikat deposito; atau \nd. \nbentuk lain yang dipersamakan. \n(2) \nInvestasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan oleh Bank ACCD Indonesia berdasarkan \nperintah dari Nasabah Uni Emirat Arab melalui Bank \nACCD Uni Emirat Arab.  \n(3) \nPokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Rupiah milik \nNasabah Uni Emirat Arab.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pengelolaan saldo Sub-SNA Rupiah, \nNasabah Uni Emirat Arab dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia, kecuali \ndalam bentuk: \na. \ndeposito; \nb. \ntabungan; \nc. \nsertifikat deposito; atau \nd. \nbentuk lain yang dipersamakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Investasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan oleh Bank ACCD Indonesia berdasarkan \nperintah dari Nasabah Uni Emirat Arab melalui Bank \nACCD Uni Emirat Arab."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Rupiah milik \nNasabah Uni Emirat Arab."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Penyetoran dan penarikan rupiah secara tunai pada Sub-SNA \nRupiah tidak dapat dilakukan di Uni Emirat Arab.  \n \nBagian Kelima \nTransfer Rupiah dan Dirham",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyetoran dan penarikan rupiah secara tunai pada Sub-SNA \nRupiah tidak dapat dilakukan di Uni Emirat Arab.  \n \nBagian Kelima \nTransfer Rupiah dan Dirham"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia hanya dapat melakukan transfer \nrupiah untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Dirham. \n(2) \nTransfer rupiah sebagaimana dimaksud pada ayat (1) \ndapat dilakukan: \na. \nantar-SNA Rupiah; \nb. \nantara SNA Rupiah dengan non-SNA Rupiah baik di \nBank ACCD Indonesia maupun non-Bank ACCD di \nIndonesia; dan/atau \nc. \nantara rekening rupiah di non-Bank ACCD Indonesia \ndengan Sub-SNA Rupiah di Bank ACCD Uni Emirat \nArab.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia hanya dapat melakukan transfer \nrupiah untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Dirham."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transfer rupiah sebagaimana dimaksud pada ayat (1) \ndapat dilakukan: \na. \nantar-SNA Rupiah; \nb. \nantara SNA Rupiah dengan non-SNA Rupiah baik di \nBank ACCD Indonesia maupun non-Bank ACCD di \nIndonesia; dan/atau \nc. \nantara rekening rupiah di non-Bank ACCD Indonesia \ndengan Sub-SNA Rupiah di Bank ACCD Uni Emirat \nArab."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia hanya dapat melakukan transfer \ndirham untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Dirham. \n(2) \nTransfer dirham sebagaimana dimaksud pada ayat (1) \ndapat dilakukan: \na. \nantar-SNA Dirham; \nb. \nantara SNA Dirham dengan non-SNA Dirham baik di \nBank ACCD Uni Emirat Arab maupun non-Bank \nACCD di Uni Emirat Arab; dan/atau \n\n\n \n \n \n \nc. \nantara Sub-SNA Dirham di Bank ACCD Indonesia \ndengan rekening dirham di non-Bank ACCD Uni \nEmirat Arab.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia hanya dapat melakukan transfer \ndirham untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Dirham."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transfer dirham sebagaimana dimaksud pada ayat (1) \ndapat dilakukan: \na. \nantar-SNA Dirham; \nb. \nantara SNA Dirham dengan non-SNA Dirham baik di \nBank ACCD Uni Emirat Arab maupun non-Bank \nACCD di Uni Emirat Arab; dan/atau \n\n\n \n \n \n \nc. \nantara Sub-SNA Dirham di Bank ACCD Indonesia \ndengan rekening dirham di non-Bank ACCD Uni \nEmirat Arab."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Bank ACCD Indonesia dilarang melakukan transfer antar-Sub-\nSNA Dirham yang dimiliki oleh Nasabah Indonesia yang \nberbeda.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank ACCD Indonesia dilarang melakukan transfer antar-Sub-\nSNA Dirham yang dimiliki oleh Nasabah Indonesia yang \nberbeda."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Bank ACCD Indonesia dan/atau Bank ACCD Uni Emirat Arab \nyang melakukan transfer dana yang ditujukan pada rekening \nrupiah milik non-Bank ACCD Uni Emirat Arab di Indonesia \nharus memastikan transfer rupiah dilakukan sesuai tujuan \ntransaksi dalam pelaksanaan Transaksi Bilateral Rupiah dan \nDirham. \n \nBagian Keenam \nPembiayaan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank ACCD Indonesia dan/atau Bank ACCD Uni Emirat Arab \nyang melakukan transfer dana yang ditujukan pada rekening \nrupiah milik non-Bank ACCD Uni Emirat Arab di Indonesia \nharus memastikan transfer rupiah dilakukan sesuai tujuan \ntransaksi dalam pelaksanaan Transaksi Bilateral Rupiah dan \nDirham. \n \nBagian Keenam \nPembiayaan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat memberikan Pembiayaan \ndalam dirham kepada Nasabah Indonesia. \n(2) \nPembiayaan sebagaimana dimaksud pada ayat (1) dapat \nberupa: \na. \npembiayaan kegiatan perdagangan (trade financing); \ndan \nb. \ndirect investment. \n(3) \nPembiayaan sebagaimana dimaksud \npada ayat (2) \nmemiliki Underlying Transaksi antara Nasabah Indonesia \ndan Nasabah Uni Emirat Arab. \n(4) \nPenyediaan dana dalam dirham untuk Pembiayaan \nsebagaimana dimaksud pada ayat (1) dilakukan melalui: \na. \npenggunaan dana dalam dirham yang telah dimiliki \noleh Bank ACCD Indonesia; \nb. \ntransaksi dirham terhadap rupiah atau valuta asing \nmelalui transaksi \nswap \ndengan \nBank \nACCD \nIndonesia lainnya dan/atau Bank ACCD Uni Emirat \nArab; dan/atau \nc. \npinjaman langsung (direct borrowing) dalam dirham \ndari Bank ACCD Indonesia lainnya dan/atau Bank \nACCD Uni Emirat Arab. \n(5) \nBank ACCD Indonesia yang menerima pinjaman langsung \n(direct borrowing) sebagaimana dimaksud pada ayat (4) \nhuruf c wajib memiliki Underlying Transaksi yang \ndibuktikan dengan dokumen pemberian Pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat memberikan Pembiayaan \ndalam dirham kepada Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembiayaan sebagaimana dimaksud pada ayat (1) dapat \nberupa: \na. \npembiayaan kegiatan perdagangan (trade financing); \ndan \nb. \ndirect investment."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pembiayaan sebagaimana dimaksud \npada ayat (2) \nmemiliki Underlying Transaksi antara Nasabah Indonesia \ndan Nasabah Uni Emirat Arab."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyediaan dana dalam dirham untuk Pembiayaan \nsebagaimana dimaksud pada ayat (1) dilakukan melalui: \na. \npenggunaan dana dalam dirham yang telah dimiliki \noleh Bank ACCD Indonesia; \nb. \ntransaksi dirham terhadap rupiah atau valuta asing \nmelalui transaksi \nswap \ndengan \nBank \nACCD \nIndonesia lainnya dan/atau Bank ACCD Uni Emirat \nArab; dan/atau \nc. \npinjaman langsung (direct borrowing) dalam dirham \ndari Bank ACCD Indonesia lainnya dan/atau Bank \nACCD Uni Emirat Arab."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank ACCD Indonesia yang menerima pinjaman langsung \n(direct borrowing) sebagaimana dimaksud pada ayat (4) \nhuruf c wajib memiliki Underlying Transaksi yang \ndibuktikan dengan dokumen pemberian Pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Untuk kepentingan pemberian fasilitas Pembiayaan dalam \nrupiah oleh Bank ACCD Uni Emirat Arab kepada Nasabah Uni \nEmirat Arab, Bank ACCD Indonesia dapat melaksanakan: \na. \ntransaksi dirham atau valuta asing lainnya terhadap \nrupiah melalui transaksi swap dengan Bank ACCD Uni \nEmirat Arab; dan/atau \nb. \npenempatan dalam rupiah kepada Bank ACCD Uni Emirat \nArab.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk kepentingan pemberian fasilitas Pembiayaan dalam \nrupiah oleh Bank ACCD Uni Emirat Arab kepada Nasabah Uni \nEmirat Arab, Bank ACCD Indonesia dapat melaksanakan: \na. \ntransaksi dirham atau valuta asing lainnya terhadap \nrupiah melalui transaksi swap dengan Bank ACCD Uni \nEmirat Arab; dan/atau \nb. \npenempatan dalam rupiah kepada Bank ACCD Uni Emirat \nArab."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN",
+      "teks_lengkap": "Pinjaman \nlangsung \n(direct \nborrowing) \ndalam \ndirham \nsebagaimana dimaksud dalam Pasal 25 ayat (4) huruf c dan \npenempatan dalam rupiah sebagaimana dimaksud dalam Pasal \n26 huruf b dilarang: \na. \nmelebihi 1 (satu) tahun; \nb. \nmelebihi jangka waktu Underlying Transaksi; dan \nc. \nmelebihi jumlah nominal Underlying Transaksi. \n \nBAB V \nTRANSAKSI KEUANGAN BANK ACCD INDONESIA \n \nBagian Kesatu \nTransaksi Domestic Non-Deliverable Forward",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pinjaman \nlangsung \n(direct \nborrowing) \ndalam \ndirham \nsebagaimana dimaksud dalam Pasal 25 ayat (4) huruf c dan \npenempatan dalam rupiah sebagaimana dimaksud dalam Pasal \n26 huruf b dilarang: \na. \nmelebihi 1 (satu) tahun; \nb. \nmelebihi jangka waktu Underlying Transaksi; dan \nc. \nmelebihi jumlah nominal Underlying Transaksi. \n \nBAB V \nTRANSAKSI KEUANGAN BANK ACCD INDONESIA \n \nBagian Kesatu \nTransaksi Domestic Non-Deliverable Forward"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "Bank ACCD Indonesia dikecualikan dari larangan untuk \nmelakukan transaksi domestic non-deliverable forward di Uni \nEmirat Arab dalam mata uang dirham terhadap rupiah. \n \nBagian Kedua \nTransaksi Dirham terhadap Rupiah \n \nParagraf 1 \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank ACCD Indonesia dikecualikan dari larangan untuk \nmelakukan transaksi domestic non-deliverable forward di Uni \nEmirat Arab dalam mata uang dirham terhadap rupiah. \n \nBagian Kedua \nTransaksi Dirham terhadap Rupiah \n \nParagraf 1 \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nUntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham, Bank ACCD Indonesia dapat \nmelakukan transaksi dirham terhadap rupiah berupa: \na. \ntransaksi spot; \nb. \ntransaksi forward; \nc. \ntransaksi swap; \nd. \ntransaksi cross-currency swap; \ne. \ntransaksi domestic non-deliverable forward; dan/atau \nf. \ntransaksi \nlain \nyang \nditetapkan \nberdasarkan \nkesepakatan antara Bank Indonesia dan Central \nBank of the United Arab Emirates. \n(2) \nTransaksi \ndirham \nterhadap \nrupiah \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank ACCD \nIndonesia dengan: \na. \nBank ACCD Indonesia lainnya; \nb. \nBank ACCD Uni Emirat Arab; \nc. \nNasabah Indonesia; \nd. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau \ne. \nnon-Bank ACCD Uni Emirat Arab untuk kepentingan \nsquaring position. \n \n \n \n \n \n \n \n\n\n \n \n \n \nParagraf 2 \nTransaksi Dirham terhadap Rupiah Antar-Bank ACCD",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham, Bank ACCD Indonesia dapat \nmelakukan transaksi dirham terhadap rupiah berupa: \na. \ntransaksi spot; \nb. \ntransaksi forward; \nc. \ntransaksi swap; \nd. \ntransaksi cross-currency swap; \ne. \ntransaksi domestic non-deliverable forward; dan/atau \nf. \ntransaksi \nlain \nyang \nditetapkan \nberdasarkan \nkesepakatan antara Bank Indonesia dan Central \nBank of the United Arab Emirates."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi \ndirham \nterhadap \nrupiah \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank ACCD \nIndonesia dengan: \na. \nBank ACCD Indonesia lainnya; \nb. \nBank ACCD Uni Emirat Arab; \nc. \nNasabah Indonesia; \nd. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau \ne. \nnon-Bank ACCD Uni Emirat Arab untuk kepentingan \nsquaring position. \n \n \n \n \n \n \n \n\n\n \n \n \n \nParagraf 2 \nTransaksi Dirham terhadap Rupiah Antar-Bank ACCD"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat melakukan transaksi \ndirham terhadap rupiah sebagaimana dimaksud dalam \nPasal 29 ayat (1) dengan: \na. \nBank ACCD Indonesia lainnya; dan/atau \nb. \nBank ACCD Uni Emirat Arab, \nuntuk kepentingan pelaksanaan manajemen likuiditas. \n(2) \nTransaksi dirham terhadap rupiah yang dilakukan untuk \nkepentingan kegiatan sebagaimana dimaksud pada \nayat (1) dapat dilakukan tanpa Underlying Transaksi. \n \nParagraf 3 \nTransaksi Dirham terhadap Rupiah antara Bank ACCD \nIndonesia dan Nasabah Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat melakukan transaksi \ndirham terhadap rupiah sebagaimana dimaksud dalam \nPasal 29 ayat (1) dengan: \na. \nBank ACCD Indonesia lainnya; dan/atau \nb. \nBank ACCD Uni Emirat Arab, \nuntuk kepentingan pelaksanaan manajemen likuiditas."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi dirham terhadap rupiah yang dilakukan untuk \nkepentingan kegiatan sebagaimana dimaksud pada \nayat (1) dapat dilakukan tanpa Underlying Transaksi. \n \nParagraf 3 \nTransaksi Dirham terhadap Rupiah antara Bank ACCD \nIndonesia dan Nasabah Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat melakukan transaksi \ndirham terhadap rupiah sebagaimana dimaksud dalam \nPasal 29 ayat (1) dengan: \na. \nNasabah Indonesia; dan/atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia. \n(2) \nTransaksi \ndirham \nterhadap \nrupiah \nsebagaimana \ndimaksud pada ayat (1) dengan nominal di atas jumlah \ntertentu (threshold) per transaksi wajib dibuktikan dengan \ndokumen Underlying Transaksi. \n(3) \nJumlah tertentu (threshold) sebagaimana dimaksud pada \nayat (2) untuk: \na. \ntransaksi pembelian dirham terhadap rupiah sebesar \nekuivalen USD500.000,00 (lima ratus ribu dolar \nAmerika Serikat) per transaksi, kecuali transaksi \nswap beli dirham terhadap rupiah; dan \nb. \ntransaksi swap \nbeli \ndirham \nterhadap \nrupiah \nsebagaimana dimaksud dalam huruf a dan transaksi \npenjualan dirham terhadap rupiah dilaksanakan \nsesuai dengan ketentuan Bank Indonesia mengenai \ntransaksi pasar valuta asing. \n(4) \nNominal dan jangka waktu transaksi pembelian dirham \nterhadap rupiah sebagaimana dimaksud pada ayat (3) \ndilarang melebihi nominal dan jangka waktu Underlying \nTransaksi. \n(5) \nNasabah Indonesia dapat melakukan transaksi pembelian \ndirham terhadap rupiah dengan menggunakan dokumen \nUnderlying Transaksi sebagaimana dimaksud pada ayat \n(2) dalam denominasi mata uang selain dirham. \n \nBagian Ketiga \nPenyesuaian Penyelesaian Transaksi Keuangan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat melakukan transaksi \ndirham terhadap rupiah sebagaimana dimaksud dalam \nPasal 29 ayat (1) dengan: \na. \nNasabah Indonesia; dan/atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi \ndirham \nterhadap \nrupiah \nsebagaimana \ndimaksud pada ayat (1) dengan nominal di atas jumlah \ntertentu (threshold) per transaksi wajib dibuktikan dengan \ndokumen Underlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jumlah tertentu (threshold) sebagaimana dimaksud pada \nayat (2) untuk: \na. \ntransaksi pembelian dirham terhadap rupiah sebesar \nekuivalen USD500.000,00 (lima ratus ribu dolar \nAmerika Serikat) per transaksi, kecuali transaksi \nswap beli dirham terhadap rupiah; dan \nb. \ntransaksi swap \nbeli \ndirham \nterhadap \nrupiah \nsebagaimana dimaksud dalam huruf a dan transaksi \npenjualan dirham terhadap rupiah dilaksanakan \nsesuai dengan ketentuan Bank Indonesia mengenai \ntransaksi pasar valuta asing."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Nominal dan jangka waktu transaksi pembelian dirham \nterhadap rupiah sebagaimana dimaksud pada ayat (3) \ndilarang melebihi nominal dan jangka waktu Underlying \nTransaksi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Nasabah Indonesia dapat melakukan transaksi pembelian \ndirham terhadap rupiah dengan menggunakan dokumen \nUnderlying Transaksi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dalam denominasi mata uang selain dirham. \n \nBagian Ketiga \nPenyesuaian Penyelesaian Transaksi Keuangan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPenyesuaian penyelesaian transaksi dirham terhadap \nrupiah sebagaimana dimaksud dalam Pasal 29 ayat (1) \ndapat dilakukan melalui: \n\n\n \n \n \n \na. \nperpanjangan transaksi; \nb. \npercepatan penyelesaian transaksi; dan/atau \nc. \npengakhiran transaksi. \n(2) \nPenyesuaian \npenyelesaian \ntransaksi \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan secara netting.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyesuaian penyelesaian transaksi dirham terhadap \nrupiah sebagaimana dimaksud dalam Pasal 29 ayat (1) \ndapat dilakukan melalui: \n\n\n \n \n \n \na. \nperpanjangan transaksi; \nb. \npercepatan penyelesaian transaksi; dan/atau \nc. \npengakhiran transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyesuaian \npenyelesaian \ntransaksi \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan secara netting."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPenyesuaian penyelesaian transaksi dirham terhadap \nrupiah melalui perpanjangan transaksi, percepatan \npenyelesaian transaksi, dan/atau pengakhiran transaksi \nsebagaimana dimaksud dalam Pasal 32 ayat (1) dapat \ndilakukan tanpa dokumen Underlying Transaksi. \n(2) \nNominal transaksi untuk penyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndapat \ndilakukan \npaling \nbanyak \nsebesar \nnominal \nUnderlying Transaksi awal. \n(3) \nJangka waktu transaksi untuk penyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndilakukan paling lambat pada saat: \na. \njangka waktu Underlying Transaksi awal berakhir; \natau \nb. \ntanggal penyelesaian yang telah disesuaikan pada \ndokumen \nUnderlying \nTransaksi \nyang \ndapat \ndilengkapi dengan dokumen pendukung. \n(4) \nPenyesuaian \npenyelesaian \ntransaksi \nkeuangan \nsebagaimana dimaksud pada ayat (1) harus dilakukan \ndengan Bank ACCD Indonesia atau Bank ACCD Uni \nEmirat Arab yang sama sesuai dengan kontrak transaksi \nawal. \n \nBagian Keempat \nPenyelesaian Transaksi Dirham terhadap Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyesuaian penyelesaian transaksi dirham terhadap \nrupiah melalui perpanjangan transaksi, percepatan \npenyelesaian transaksi, dan/atau pengakhiran transaksi \nsebagaimana dimaksud dalam Pasal 32 ayat (1) dapat \ndilakukan tanpa dokumen Underlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Nominal transaksi untuk penyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndapat \ndilakukan \npaling \nbanyak \nsebesar \nnominal \nUnderlying Transaksi awal."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu transaksi untuk penyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndilakukan paling lambat pada saat: \na. \njangka waktu Underlying Transaksi awal berakhir; \natau \nb. \ntanggal penyelesaian yang telah disesuaikan pada \ndokumen \nUnderlying \nTransaksi \nyang \ndapat \ndilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyesuaian \npenyelesaian \ntransaksi \nkeuangan \nsebagaimana dimaksud pada ayat (1) harus dilakukan \ndengan Bank ACCD Indonesia atau Bank ACCD Uni \nEmirat Arab yang sama sesuai dengan kontrak transaksi \nawal. \n \nBagian Keempat \nPenyelesaian Transaksi Dirham terhadap Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPenyelesaian transaksi dirham terhadap rupiah yang \ndilakukan Bank ACCD Indonesia dengan: \na. \nBank \nACCD \nIndonesia \nlainnya \nsebagaimana \ndimaksud dalam Pasal 30 ayat (1) huruf a; dan \nb. \nNasabah Indonesia sebagaimana dimaksud dalam \nPasal 31 ayat (1) huruf a, \ndapat dilakukan dengan pemindahan dana pokok secara \npenuh (gross) atau secara netting. \n(2) \nPenyelesaian transaksi dirham terhadap rupiah yang \ndilakukan Bank ACCD Indonesia dengan non-Bank ACCD \nIndonesia sebagaimana dimaksud dalam Pasal 31 ayat (1) \nhuruf b dilakukan melalui pemindahan dana pokok secara \npenuh (gross). \n \nBagian Kelima \nSquaring Position",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelesaian transaksi dirham terhadap rupiah yang \ndilakukan Bank ACCD Indonesia dengan: \na. \nBank \nACCD \nIndonesia \nlainnya \nsebagaimana \ndimaksud dalam Pasal 30 ayat (1) huruf a; dan \nb. \nNasabah Indonesia sebagaimana dimaksud dalam \nPasal 31 ayat (1) huruf a, \ndapat dilakukan dengan pemindahan dana pokok secara \npenuh (gross) atau secara netting."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelesaian transaksi dirham terhadap rupiah yang \ndilakukan Bank ACCD Indonesia dengan non-Bank ACCD \nIndonesia sebagaimana dimaksud dalam Pasal 31 ayat (1) \nhuruf b dilakukan melalui pemindahan dana pokok secara \npenuh (gross). \n \nBagian Kelima \nSquaring Position"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat melakukan transaksi dirham \nterhadap rupiah sebagaimana dimaksud dalam Pasal 29 \nayat (1) dengan: \na. \nBank ACCD Indonesia lainnya; \n\n\n \n \n \n \nb. \nBank ACCD Uni Emirat Arab; \nc. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau \nd. \nnon-Bank ACCD Uni Emirat Arab atas dasar \nUnderlying \nTransaksi yang \ndilakukan Nasabah \nIndonesia, \nuntuk kepentingan pelaksanaan squaring position.  \n(2) \nBank ACCD Indonesia dapat melakukan squaring position \nsebagaimana dimaksud pada ayat (1) atas transaksi \ndirham terhadap rupiah secara: \na. \npenuh (gross) atau secara netting dengan: \n1. \nBank ACCD Indonesia lainnya; dan/atau \n2. \nBank ACCD Uni Emirat Arab, \ntanpa dokumen Underlying Transaksi; atau \nb. \npenuh (gross) dengan: \n1. \nnon-Bank ACCD Indonesia lainnya; dan/atau \n2. \nnon-Bank ACCD Uni Emirat Arab, \nyang wajib dibuktikan dengan dokumen Underlying \nTransaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat melakukan transaksi dirham \nterhadap rupiah sebagaimana dimaksud dalam Pasal 29 \nayat (1) dengan: \na. \nBank ACCD Indonesia lainnya; \n\n\n \n \n \n \nb. \nBank ACCD Uni Emirat Arab; \nc. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau \nd. \nnon-Bank ACCD Uni Emirat Arab atas dasar \nUnderlying \nTransaksi yang \ndilakukan Nasabah \nIndonesia, \nuntuk kepentingan pelaksanaan squaring position."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia dapat melakukan squaring position \nsebagaimana dimaksud pada ayat (1) atas transaksi \ndirham terhadap rupiah secara: \na. \npenuh (gross) atau secara netting dengan: \n1. \nBank ACCD Indonesia lainnya; dan/atau \n2. \nBank ACCD Uni Emirat Arab, \ntanpa dokumen Underlying Transaksi; atau \nb. \npenuh (gross) dengan: \n1. \nnon-Bank ACCD Indonesia lainnya; dan/atau \n2. \nnon-Bank ACCD Uni Emirat Arab, \nyang wajib dibuktikan dengan dokumen Underlying \nTransaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nUntuk pelaksanaan squaring position dari Bank ACCD Uni \nEmirat Arab, Bank ACCD Indonesia dapat melaksanakan \ntransaksi dirham terhadap rupiah sebagaimana dimaksud \ndalam Pasal 31 ayat (1). \n(2) \nBank ACCD Indonesia dapat melaksanakan transaksi \nuntuk pelaksanaan squaring position dari Bank ACCD Uni \nEmirat Arab sebagaimana dimaksud pada ayat (1) secara: \na. \npenuh (gross); atau \nb. \nnetting. \n(3) \nPelaksanaan squaring position sebagaimana dimaksud \npada ayat (1) dilakukan tanpa dokumen Underlying \nTransaksi. \n \nBagian Keenam \nUnderlying Transaksi \n \nParagraf 1 \nJenis Underlying Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk pelaksanaan squaring position dari Bank ACCD Uni \nEmirat Arab, Bank ACCD Indonesia dapat melaksanakan \ntransaksi dirham terhadap rupiah sebagaimana dimaksud \ndalam Pasal 31 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia dapat melaksanakan transaksi \nuntuk pelaksanaan squaring position dari Bank ACCD Uni \nEmirat Arab sebagaimana dimaksud pada ayat (1) secara: \na. \npenuh (gross); atau \nb. \nnetting."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pelaksanaan squaring position sebagaimana dimaksud \npada ayat (1) dilakukan tanpa dokumen Underlying \nTransaksi. \n \nBagian Keenam \nUnderlying Transaksi \n \nParagraf 1 \nJenis Underlying Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "Underlying \nTransaksi \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Dirham meliputi: \na. \nkegiatan transaksi berjalan antara Nasabah Indonesia dan \nNasabah Uni Emirat Arab berupa: \n1. \ntransaksi perdagangan barang dan jasa antara \nIndonesia dan Uni Emirat Arab; \n2. \ntransaksi pendapatan primer yang meliputi: \na) \ntransaksi \npenerimaan \ndan \npembayaran \nkompensasi tenaga kerja; dan \nb) \npendapatan investasi dari: \n1) \ninvestasi langsung; \n2) \ninvestasi portofolio; dan/atau \n3) \ninvestasi lain; dan \n3. \ntransaksi pendapatan sekunder meliputi: \n\n\n \n \n \n \na) \npenerimaan \ndan \npembayaran \nsektor \npemerintah; \nb) \npenerimaan \ndan \npembayaran \nsektor \nlain \ntermasuk remitansi; dan \nc) \ntransaksi pendapatan sekunder lain, \ntetapi tidak \ntermasuk \nhibah, hadiah, \ndonasi, \ndan/atau sejenisnya; \nb. \nkegiatan investasi langsung antara Nasabah Indonesia \ndan Nasabah Uni Emirat Arab berupa: \n1. \ninvestasi antara Nasabah Indonesia dan Nasabah Uni \nEmirat Arab, dengan batasan minimum kepemilikan \nekuitas 10% (sepuluh persen); \n2. \npinjaman antarperusahaan dalam satu grup yang \nsama; dan/atau \n3. \npengeluaran modal oleh Nasabah Indonesia pada \nentitas di Uni Emirat Arab atau proyek di Uni Emirat \nArab \nberdasarkan \nsuatu \nperjanjian, \ndengan \nkontribusi paling sedikit 10% (sepuluh persen) dari \nbiaya proyek; \nc. \nkegiatan investasi portofolio antara Nasabah Indonesia \ndan Nasabah Uni Emirat Arab berupa: \n1. \nsurat utang; \n2. \nsaham; dan/atau \n3. \nkegiatan investasi portofolio lain sesuai dengan \nkesepakatan antara Bank Indonesia dan otoritas Uni \nEmirat Arab; \nd. \nkegiatan transaksi modal antara Nasabah Indonesia dan \nNasabah Uni Emirat Arab berupa: \n1. \ntransfer modal termasuk hibah modal dan transfer \nlain yang tidak melibatkan pertukaran barang atau \njasa; \n2. \npembelian atau penjualan aset bukan finansial \nberupa hak kekayaan intelektual, tanah, dan aset \nlain; dan/atau \n3. \nkegiatan \ntransfer \nmodal \nlain \nsesuai \ndengan \nkesepakatan antara Bank Indonesia dan otoritas Uni \nEmirat Arab; \ne. \nPembiayaan dari Bank ACCD Indonesia kepada Nasabah \nIndonesia sebagaimana dimaksud dalam Pasal 25; dan \nf. \nUnderlying Transaksi lain. \n \nParagraf 2 \nDokumen Underlying Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Underlying \nTransaksi \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Dirham meliputi: \na. \nkegiatan transaksi berjalan antara Nasabah Indonesia dan \nNasabah Uni Emirat Arab berupa: \n1. \ntransaksi perdagangan barang dan jasa antara \nIndonesia dan Uni Emirat Arab; \n2. \ntransaksi pendapatan primer yang meliputi: \na) \ntransaksi \npenerimaan \ndan \npembayaran \nkompensasi tenaga kerja; dan \nb) \npendapatan investasi dari: \n1) \ninvestasi langsung; \n2) \ninvestasi portofolio; dan/atau \n3) \ninvestasi lain; dan \n3. \ntransaksi pendapatan sekunder meliputi: \n\n\n \n \n \n \na) \npenerimaan \ndan \npembayaran \nsektor \npemerintah; \nb) \npenerimaan \ndan \npembayaran \nsektor \nlain \ntermasuk remitansi; dan \nc) \ntransaksi pendapatan sekunder lain, \ntetapi tidak \ntermasuk \nhibah, hadiah, \ndonasi, \ndan/atau sejenisnya; \nb. \nkegiatan investasi langsung antara Nasabah Indonesia \ndan Nasabah Uni Emirat Arab berupa: \n1. \ninvestasi antara Nasabah Indonesia dan Nasabah Uni \nEmirat Arab, dengan batasan minimum kepemilikan \nekuitas 10% (sepuluh persen); \n2. \npinjaman antarperusahaan dalam satu grup yang \nsama; dan/atau \n3. \npengeluaran modal oleh Nasabah Indonesia pada \nentitas di Uni Emirat Arab atau proyek di Uni Emirat \nArab \nberdasarkan \nsuatu \nperjanjian, \ndengan \nkontribusi paling sedikit 10% (sepuluh persen) dari \nbiaya proyek; \nc. \nkegiatan investasi portofolio antara Nasabah Indonesia \ndan Nasabah Uni Emirat Arab berupa: \n1. \nsurat utang; \n2. \nsaham; dan/atau \n3. \nkegiatan investasi portofolio lain sesuai dengan \nkesepakatan antara Bank Indonesia dan otoritas Uni \nEmirat Arab; \nd. \nkegiatan transaksi modal antara Nasabah Indonesia dan \nNasabah Uni Emirat Arab berupa: \n1. \ntransfer modal termasuk hibah modal dan transfer \nlain yang tidak melibatkan pertukaran barang atau \njasa; \n2. \npembelian atau penjualan aset bukan finansial \nberupa hak kekayaan intelektual, tanah, dan aset \nlain; dan/atau \n3. \nkegiatan \ntransfer \nmodal \nlain \nsesuai \ndengan \nkesepakatan antara Bank Indonesia dan otoritas Uni \nEmirat Arab; \ne. \nPembiayaan dari Bank ACCD Indonesia kepada Nasabah \nIndonesia sebagaimana dimaksud dalam Pasal 25; dan \nf. \nUnderlying Transaksi lain. \n \nParagraf 2 \nDokumen Underlying Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nDokumen Underlying Transaksi dapat berupa: \na. \ndokumen Underlying Transaksi yang bersifat final; \natau \nb. \ndokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan. \n(2) \nRincian dokumen Underlying Transaksi sebagaimana \ndimaksud pada ayat (1) tercantum dalam Lampiran III \nyang merupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dokumen Underlying Transaksi dapat berupa: \na. \ndokumen Underlying Transaksi yang bersifat final; \natau \nb. \ndokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rincian dokumen Underlying Transaksi sebagaimana \ndimaksud pada ayat (1) tercantum dalam Lampiran III \nyang merupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nDokumen Underlying Transaksi yang bersifat perkiraan \nsebagaimana dimaksud dalam Pasal 38 ayat (1) huruf b \nhanya diperbolehkan untuk kegiatan transaksi berjalan \nsebagaimana dimaksud dalam Pasal 37 huruf a. \n(2) \nPerhitungan Underlying Transaksi yang bersifat perkiraan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan \nberdasarkan \nrencana penerimaan atau \nkebutuhan \npembayaran kegiatan transaksi berjalan yang didukung \noleh riwayat data realisasi transaksi atau berdasarkan \nhasil asesmen Bank ACCD jika riwayat data realisasi \ntransaksi tidak tersedia. \n(3) \nJangka waktu transaksi dengan menggunakan dokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan \nsebagaimana dimaksud pada ayat (1) tidak dapat melebihi \njangka waktu perkiraan rencana penerimaan atau \nkebutuhan pembayaran kegiatan transaksi berjalan. \n(4) \nNominal transaksi dengan \nmenggunakan \ndokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan \nsebagaimana dimaksud pada ayat (1) tidak dapat melebihi \nnominal perkiraan rencana penerimaan atau kebutuhan \npembayaran kegiatan transaksi berjalan. \n \nParagraf 3 \nUnderlying Transaksi melalui Cross-Border Payment",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dokumen Underlying Transaksi yang bersifat perkiraan \nsebagaimana dimaksud dalam Pasal 38 ayat (1) huruf b \nhanya diperbolehkan untuk kegiatan transaksi berjalan \nsebagaimana dimaksud dalam Pasal 37 huruf a."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perhitungan Underlying Transaksi yang bersifat perkiraan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \nberdasarkan \nrencana penerimaan atau \nkebutuhan \npembayaran kegiatan transaksi berjalan yang didukung \noleh riwayat data realisasi transaksi atau berdasarkan \nhasil asesmen Bank ACCD jika riwayat data realisasi \ntransaksi tidak tersedia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu transaksi dengan menggunakan dokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan \nsebagaimana dimaksud pada ayat (1) tidak dapat melebihi \njangka waktu perkiraan rencana penerimaan atau \nkebutuhan pembayaran kegiatan transaksi berjalan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Nominal transaksi dengan \nmenggunakan \ndokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan \nsebagaimana dimaksud pada ayat (1) tidak dapat melebihi \nnominal perkiraan rencana penerimaan atau kebutuhan \npembayaran kegiatan transaksi berjalan. \n \nParagraf 3 \nUnderlying Transaksi melalui Cross-Border Payment"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nUnderlying Transaksi sebagaimana dimaksud dalam Pasal \ntermasuk \nkegiatan \ntransaksi \nberjalan \nyang \npembayarannya dilakukan melalui cross-border payment. \n(2) \nPenyelenggara infrastruktur sistem pembayaran yang \nmenyediakan fasilitas cross-border payment sebagaimana \ndimaksud pada ayat (1) menggunakan Bank ACCD \nIndonesia untuk melakukan: \na. \npembukaan Sub-SNA Dirham; dan \nb. \ntransaksi dirham terhadap rupiah. \n \nParagraf 4 \nDokumen Underlying Transaksi untuk Transaksi Dirham \nterhadap Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Underlying Transaksi sebagaimana dimaksud dalam Pasal \ntermasuk \nkegiatan \ntransaksi \nberjalan \nyang \npembayarannya dilakukan melalui cross-border payment."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggara infrastruktur sistem pembayaran yang \nmenyediakan fasilitas cross-border payment sebagaimana \ndimaksud pada ayat (1) menggunakan Bank ACCD \nIndonesia untuk melakukan: \na. \npembukaan Sub-SNA Dirham; dan \nb. \ntransaksi dirham terhadap rupiah. \n \nParagraf 4 \nDokumen Underlying Transaksi untuk Transaksi Dirham \nterhadap Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nTransaksi dirham terhadap rupiah berupa spot antara \nBank ACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \nsebagaimana dimaksud dalam Pasal 29, wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final. \n(2) \nTransaksi dirham terhadap rupiah berupa forward, swap, \ncross-currency swap, dan/atau domestic non-deliverable \nforward, antara Bank ACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \n\n\n \n \n \n \nsebagaimana dimaksud dalam Pasal 29, wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final \natau dokumen \nUnderlying \nTransaksi yang \nbersifat \nperkiraan. \n(3) \nDokumen Underlying Transaksi sebagaimana dimaksud \npada ayat (1) dan ayat (2) wajib diterima oleh Bank ACCD \nIndonesia paling lambat pada tanggal penyelesaian \ntransaksi (settlement date). \n \nParagraf 5 \nDokumen Underlying Transaksi untuk Pembiayaan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi dirham terhadap rupiah berupa spot antara \nBank ACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \nsebagaimana dimaksud dalam Pasal 29, wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi dirham terhadap rupiah berupa forward, swap, \ncross-currency swap, dan/atau domestic non-deliverable \nforward, antara Bank ACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \n\n\n \n \n \n \nsebagaimana dimaksud dalam Pasal 29, wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final \natau dokumen \nUnderlying \nTransaksi yang \nbersifat \nperkiraan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dokumen Underlying Transaksi sebagaimana dimaksud \npada ayat (1) dan ayat (2) wajib diterima oleh Bank ACCD \nIndonesia paling lambat pada tanggal penyelesaian \ntransaksi (settlement date). \n \nParagraf 5 \nDokumen Underlying Transaksi untuk Pembiayaan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPembiayaan dalam dirham yang diberikan oleh Bank \nACCD Indonesia sebagaimana dimaksud dalam Pasal 25 \nwajib dibuktikan dengan dokumen Underlying Transaksi \nyang bersifat final dari Nasabah Indonesia. \n(2) \nBank \nACCD \nIndonesia \nharus \nmemastikan \nbahwa \ndokumen \nUnderlying \nTransaksi yang \nbersifat final \nsebagaimana dimaksud pada ayat (1) telah sesuai dengan \ntujuan Pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembiayaan dalam dirham yang diberikan oleh Bank \nACCD Indonesia sebagaimana dimaksud dalam Pasal 25 \nwajib dibuktikan dengan dokumen Underlying Transaksi \nyang bersifat final dari Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nACCD \nIndonesia \nharus \nmemastikan \nbahwa \ndokumen \nUnderlying \nTransaksi yang \nbersifat final \nsebagaimana dimaksud pada ayat (1) telah sesuai dengan \ntujuan Pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPembiayaan dalam dirham yang diberikan oleh Bank \nACCD Indonesia sebagaimana dimaksud dalam Pasal 25 \ndapat menggunakan dokumen Underlying Transaksi \ndalam denominasi mata uang selain dirham. \n(2) \nPembiayaan yang menggunakan dokumen Underlying \nTransaksi dalam denominasi mata uang selain dirham \nsebagaimana dimaksud pada ayat (1) harus dinyatakan \ndalam ekuivalen dirham dan dibayarkan dalam dirham. \n \nBAB VI \nKUOTASI HARGA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembiayaan dalam dirham yang diberikan oleh Bank \nACCD Indonesia sebagaimana dimaksud dalam Pasal 25 \ndapat menggunakan dokumen Underlying Transaksi \ndalam denominasi mata uang selain dirham."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembiayaan yang menggunakan dokumen Underlying \nTransaksi dalam denominasi mata uang selain dirham \nsebagaimana dimaksud pada ayat (1) harus dinyatakan \ndalam ekuivalen dirham dan dibayarkan dalam dirham. \n \nBAB VI \nKUOTASI HARGA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KUOTASI HARGA",
+      "teks_lengkap": "(1) \nBank \nACCD \nIndonesia \nwajib \nmenerbitkan \ndan \nmenampilkan kuotasi harga dirham terhadap rupiah pada \nsarana penyedia informasi. \n(2) \nKuotasi harga dirham terhadap rupiah diterbitkan dan \nditampilkan pada sarana penyedia informasi paling sedikit \n1 (satu) kali setiap Hari. \n(3) \nPenetapan kuotasi harga sebagaimana dimaksud pada \nayat (1) harus: \na. \nmerefleksikan harga wajar yang terjadi di pasar \nvaluta asing; dan \nb. \ndapat ditransaksikan atau dieksekusi. \n(4) \nBank ACCD Indonesia menggunakan kuotasi harga \nsebagaimana dimaksud pada ayat (1) sebagai acuan dalam \nmelakukan transaksi dirham terhadap rupiah. \n \n \n \n \n \n \n\n\n \n \n \n \nBAB VII \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nACCD \nIndonesia \nwajib \nmenerbitkan \ndan \nmenampilkan kuotasi harga dirham terhadap rupiah pada \nsarana penyedia informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kuotasi harga dirham terhadap rupiah diterbitkan dan \nditampilkan pada sarana penyedia informasi paling sedikit \n1 (satu) kali setiap Hari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan kuotasi harga sebagaimana dimaksud pada \nayat (1) harus: \na. \nmerefleksikan harga wajar yang terjadi di pasar \nvaluta asing; dan \nb. \ndapat ditransaksikan atau dieksekusi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia menggunakan kuotasi harga \nsebagaimana dimaksud pada ayat (1) sebagai acuan dalam \nmelakukan transaksi dirham terhadap rupiah. \n \n \n \n \n \n \n\n\n \n \n \n \nBAB VII \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia wajib menyampaikan laporan \nmengenai pelaksanaan Transaksi Bilateral Rupiah dan \nDirham kepada Bank Indonesia. \n(2) \nPenyampaian laporan sebagaimana dimaksud pada ayat \n(1) dipenuhi melalui: \na. \nlaporan bank umum terintegrasi;  \nb. \nlaporan lalu lintas devisa; dan \nc. \nlaporan lain yang ditetapkan Bank Indonesia. \n(3) \nMekanisme penyampaian laporan sebagaimana dimaksud \npada ayat (2) dilakukan sesuai dengan ketentuan Bank \nIndonesia mengenai pelaporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia wajib menyampaikan laporan \nmengenai pelaksanaan Transaksi Bilateral Rupiah dan \nDirham kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dipenuhi melalui: \na. \nlaporan bank umum terintegrasi;  \nb. \nlaporan lalu lintas devisa; dan \nc. \nlaporan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Mekanisme penyampaian laporan sebagaimana dimaksud \npada ayat (2) dilakukan sesuai dengan ketentuan Bank \nIndonesia mengenai pelaporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nDalam hal diperlukan, Bank Indonesia dapat meminta \nlaporan insidental mengenai pelaksanaan Transaksi \nBilateral Rupiah dan Dirham kepada Bank ACCD \nIndonesia. \n(2) \nBank ACCD Indonesia wajib menyampaikan laporan \ninsidental sebagaimana dimaksud pada ayat (1). \n(3) \nBank \nACCD \nIndonesia \nyang \nmelanggar ketentuan \nsebagaimana dimaksud pada ayat (2) dikenai sanksi \nadministratif berupa teguran tertulis. \n \nBAB VIII \nTATA CARA PENGENAAN SANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal diperlukan, Bank Indonesia dapat meminta \nlaporan insidental mengenai pelaksanaan Transaksi \nBilateral Rupiah dan Dirham kepada Bank ACCD \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia wajib menyampaikan laporan \ninsidental sebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nACCD \nIndonesia \nyang \nmelanggar ketentuan \nsebagaimana dimaksud pada ayat (2) dikenai sanksi \nadministratif berupa teguran tertulis. \n \nBAB VIII \nTATA CARA PENGENAAN SANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nBank Indonesia mengenakan sanksi berupa teguran \ntertulis kepada Bank ACCD Indonesia yang melanggar \nketentuan dalam Peraturan Bank Indonesia mengenai \npenyelesaian transaksi bilateral menggunakan mata uang \nlokal melalui bank. \n(2) \nTeguran tertulis sebagaimana dimaksud pada ayat (1) \ndisampaikan melalui surat dengan tembusan kepada \notoritas terkait. \n \nBAB IX \nKORESPONDENSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengenakan sanksi berupa teguran \ntertulis kepada Bank ACCD Indonesia yang melanggar \nketentuan dalam Peraturan Bank Indonesia mengenai \npenyelesaian transaksi bilateral menggunakan mata uang \nlokal melalui bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Teguran tertulis sebagaimana dimaksud pada ayat (1) \ndisampaikan melalui surat dengan tembusan kepada \notoritas terkait. \n \nBAB IX \nKORESPONDENSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KORESPONDENSI",
+      "teks_lengkap": "(1) \nSurat-menyurat atau korespondensi terkait penunjukan \nBank ACCD Indonesia dan pengakhiran penunjukan Bank \nACCD Indonesia disampaikan kepada: \nDepartemen \nInternasional \ndan \nDepartemen \nPengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2  \nJakarta Pusat – 10350 \nSurat \nelektronik: \nDInt-HI3@bi.go.id \ndan                  \nDPPK-KPVA@bi.go.id.  \n\n\n \n \n \n \n(2) \nSurat-menyurat atau korespondensi terkait pelaporan \nmengikuti \nketentuan \nBank \nIndonesia \nmengenai \npelaporan. \n(3) \nSurat-menyurat atau korespondensi terkait pelaksanaan \nTransaksi Bilateral Rupiah dan Dirham disampaikan \nmelalui alamat surat elektronik contact center BICARA: \nbicara@bi.go.id. \n(4) \nDalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1), ayat (2), dan/atau \nayat (3), Bank Indonesia menginformasikan perubahan \nalamat tersebut melalui surat dan/atau media lain. \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Surat-menyurat atau korespondensi terkait penunjukan \nBank ACCD Indonesia dan pengakhiran penunjukan Bank \nACCD Indonesia disampaikan kepada: \nDepartemen \nInternasional \ndan \nDepartemen \nPengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2  \nJakarta Pusat – 10350 \nSurat \nelektronik: \nDInt-HI3@bi.go.id \ndan                  \nDPPK-KPVA@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Surat-menyurat atau korespondensi terkait pelaporan \nmengikuti \nketentuan \nBank \nIndonesia \nmengenai \npelaporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Surat-menyurat atau korespondensi terkait pelaksanaan \nTransaksi Bilateral Rupiah dan Dirham disampaikan \nmelalui alamat surat elektronik contact center BICARA: \nbicara@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1), ayat (2), dan/atau \nayat (3), Bank Indonesia menginformasikan perubahan \nalamat tersebut melalui surat dan/atau media lain. \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal 31 Januari 2025. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 24 Januari 2025 \n \nANGGOTA DEWAN GUBERNUR, \n \n  \n \nTTD \n \nDESTRY DAMAYANTI \n \n\n\nPENJELASAN \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 2 TAHUN 2025 \nTENTANG \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA INDONESIA DAN UNI \nEMIRAT ARAB MENGGUNAKAN RUPIAH DAN DIRHAM MELALUI BANK \n \nI. \nUMUM \nStabilitas nilai tukar rupiah berperan penting untuk mencapai dan \nmenjaga stabilitas sistem keuangan. Untuk mencapai stabilitas nilai tukar \nrupiah tersebut, Bank Indonesia terus memperkuat kebijakan dalam \nmenjaga stabilitas nilai tukar rupiah dan meningkatkan penggunaan mata \nuang lokal dalam transaksi perdagangan internasional dan pendalaman \npasar keuangan, termasuk skema penyelesaian transaksi bilateral \nmenggunakan mata uang lokal.  \nSelanjutnya, Bank Indonesia dan Central Bank of the United Arab \nEmirates telah melakukan kesepakatan guna mendorong penggunaan \nrupiah dan dirham untuk mendorong Transaksi Bilateral Rupiah dan \nDirham, sehingga diharapkan pelaksanaan kerja sama antara Bank \nIndonesia dan Central Bank of the United Arab Emirates dapat berjalan baik \ndan terstruktur. \nGuna mendukung pelaksanaan kesepakatan tersebut, diperlukan \nperaturan pelaksanaan sebagai pedoman bagi pelaku Transaksi Bilateral \nRupiah dan Dirham.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Penyelesaian Transaksi \nBilateral antara Indonesia dan Uni Emirat Arab menggunakan Rupiah dan \nDirham melalui Bank. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal 31 Januari 2025. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 24 Januari 2025 \n \nANGGOTA DEWAN GUBERNUR, \n \n  \n \nTTD \n \nDESTRY DAMAYANTI \n \n\n\nPENJELASAN \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 2 TAHUN 2025 \nTENTANG \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA INDONESIA DAN UNI \nEMIRAT ARAB MENGGUNAKAN RUPIAH DAN DIRHAM MELALUI BANK \n \nI. \nUMUM \nStabilitas nilai tukar rupiah berperan penting untuk mencapai dan \nmenjaga stabilitas sistem keuangan. Untuk mencapai stabilitas nilai tukar \nrupiah tersebut, Bank Indonesia terus memperkuat kebijakan dalam \nmenjaga stabilitas nilai tukar rupiah dan meningkatkan penggunaan mata \nuang lokal dalam transaksi perdagangan internasional dan pendalaman \npasar keuangan, termasuk skema penyelesaian transaksi bilateral \nmenggunakan mata uang lokal.  \nSelanjutnya, Bank Indonesia dan Central Bank of the United Arab \nEmirates telah melakukan kesepakatan guna mendorong penggunaan \nrupiah dan dirham untuk mendorong Transaksi Bilateral Rupiah dan \nDirham, sehingga diharapkan pelaksanaan kerja sama antara Bank \nIndonesia dan Central Bank of the United Arab Emirates dapat berjalan baik \ndan terstruktur. \nGuna mendukung pelaksanaan kesepakatan tersebut, diperlukan \nperaturan pelaksanaan sebagai pedoman bagi pelaku Transaksi Bilateral \nRupiah dan Dirham.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Penyelesaian Transaksi \nBilateral antara Indonesia dan Uni Emirat Arab menggunakan Rupiah dan \nDirham melalui Bank. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKebutuhan pasar (market driven) terhadap Transaksi Bilateral \nRupiah dan Dirham antara lain dilaksanakan sejalan dengan \nprinsip pengelolaan lalu lintas devisa.\n\n\n \n \n \n \n \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKebutuhan pasar (market driven) terhadap Transaksi Bilateral \nRupiah dan Dirham antara lain dilaksanakan sejalan dengan \nprinsip pengelolaan lalu lintas devisa.\n\n\n \n \n \n \n \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKriteria kompleksitas (complexity) mencakup komponen \nkemungkinan tergantikan (substitutability). \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKriteria kompleksitas (complexity) mencakup komponen \nkemungkinan tergantikan (substitutability). \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nSurat permohonan dari calon Bank ACCD Indonesia dapat \ndisertai dengan informasi mengenai calon mitra Bank ACCD \nIndonesia di Uni Emirat Arab. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nSurat permohonan dari calon Bank ACCD Indonesia dapat \ndisertai dengan informasi mengenai calon mitra Bank ACCD \nIndonesia di Uni Emirat Arab. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nPertimbangan mengenai perkembangan bisnis Bank ACCD \nIndonesia untuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham serta kepatuhan Bank ACCD Indonesia \nterhadap ketentuan Bank Indonesia mengenai penyelesaian \ntransaksi bilateral menggunakan mata uang lokal melalui Bank, \nantara lain diperoleh berdasarkan hasil pengawasan yang \ndilakukan oleh Bank Indonesia dan/atau hasil koordinasi antara \nBank Indonesia dan otoritas terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nPertimbangan mengenai perkembangan bisnis Bank ACCD \nIndonesia untuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Dirham serta kepatuhan Bank ACCD Indonesia \nterhadap ketentuan Bank Indonesia mengenai penyelesaian \ntransaksi bilateral menggunakan mata uang lokal melalui Bank, \nantara lain diperoleh berdasarkan hasil pengawasan yang \ndilakukan oleh Bank Indonesia dan/atau hasil koordinasi antara \nBank Indonesia dan otoritas terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \n\n\n \n \n \n \n \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat menerima \npembukaan masing-masing 1 (satu) SNA Rupiah dari Bank X dan \n1 (satu) SNA Rupiah dari Bank Y yang keduanya merupakan Bank \nACCD Uni Emirat Arab. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \n\n\n \n \n \n \n \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat menerima \npembukaan masing-masing 1 (satu) SNA Rupiah dari Bank X dan \n1 (satu) SNA Rupiah dari Bank Y yang keduanya merupakan Bank \nACCD Uni Emirat Arab. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat membuka \n1 (satu) SNA Dirham di Bank X dan 1 (satu) SNA Dirham di Bank \nY yang keduanya merupakan Bank ACCD Uni Emirat Arab.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat membuka \n1 (satu) SNA Dirham di Bank X dan 1 (satu) SNA Dirham di Bank \nY yang keduanya merupakan Bank ACCD Uni Emirat Arab."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nBank X yang merupakan Bank ACCD Uni Emirat Arab memiliki \nSNA Rupiah di Bank A, Bank B, dan Bank C yang ketiganya \nmerupakan Bank ACCD Indonesia. Total saldo keseluruhan di \nBank A, Bank B, dan Bank C paling banyak sebesar \nRp400.000.000.000,00 (empat ratus miliar rupiah) pada akhir \nHari. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank X yang merupakan Bank ACCD Uni Emirat Arab memiliki \nSNA Rupiah di Bank A yang merupakan Bank ACCD Indonesia. \nPada akhir Hari tanggal 1 Agustus 2025, total saldo SNA Rupiah \nBank X di Bank A sebesar Rp600.000.000.000,00 (enam ratus \nmiliar rupiah). \nSaldo \nSNA \nRupiah \ntersebut \ndapat \nmelebihi \nlimit \nRp400.000.000.000,00 (empat ratus miliar rupiah) sepanjang \nBank X menyampaikan dokumen yang menyatakan bahwa \nkelebihan saldo tersebut akan digunakan untuk membayar \nkewajiban impor kepada eksportir di Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nBank X yang merupakan Bank ACCD Uni Emirat Arab memiliki \nSNA Rupiah di Bank A, Bank B, dan Bank C yang ketiganya \nmerupakan Bank ACCD Indonesia. Total saldo keseluruhan di \nBank A, Bank B, dan Bank C paling banyak sebesar \nRp400.000.000.000,00 (empat ratus miliar rupiah) pada akhir \nHari. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank X yang merupakan Bank ACCD Uni Emirat Arab memiliki \nSNA Rupiah di Bank A yang merupakan Bank ACCD Indonesia. \nPada akhir Hari tanggal 1 Agustus 2025, total saldo SNA Rupiah \nBank X di Bank A sebesar Rp600.000.000.000,00 (enam ratus \nmiliar rupiah). \nSaldo \nSNA \nRupiah \ntersebut \ndapat \nmelebihi \nlimit \nRp400.000.000.000,00 (empat ratus miliar rupiah) sepanjang \nBank X menyampaikan dokumen yang menyatakan bahwa \nkelebihan saldo tersebut akan digunakan untuk membayar \nkewajiban impor kepada eksportir di Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia melakukan \ninvestasi pada surat berharga negara Uni Emirat Arab sebesar \nAED300.000,00 (tiga ratus ribu dirham) dengan kupon 3% (tiga \n\n\n \n \n \n \n \npersen) per tahun. Berdasarkan investasi tersebut, pada saat \njatuh waktu pembayaran kupon, Bank A menerima kupon secara \ntriwulanan sebesar AED2.250,00 (dua ribu dua ratus lima puluh \ndirham). Penerimaan kupon tersebut dapat ditransfer ke SNA \nDirham milik Bank A.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia melakukan \ninvestasi pada surat berharga negara Uni Emirat Arab sebesar \nAED300.000,00 (tiga ratus ribu dirham) dengan kupon 3% (tiga \n\n\n \n \n \n \n \npersen) per tahun. Berdasarkan investasi tersebut, pada saat \njatuh waktu pembayaran kupon, Bank A menerima kupon secara \ntriwulanan sebesar AED2.250,00 (dua ribu dua ratus lima puluh \ndirham). Penerimaan kupon tersebut dapat ditransfer ke SNA \nDirham milik Bank A."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Perhitungan posisi transaksi swap rupiah terhadap dirham atau \nvaluta asing dapat dilakukan secara netting. \nYang dimaksud dengan “netting” adalah penyelesaian transaksi yang \ndilakukan tanpa pemindahan dana pokok secara penuh sehingga yang \nbergerak hanya sejumlah dana yang merupakan hasil perhitungan \nnominal transaksi (notional) dengan selisih kurs.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Perhitungan posisi transaksi swap rupiah terhadap dirham atau \nvaluta asing dapat dilakukan secara netting. \nYang dimaksud dengan “netting” adalah penyelesaian transaksi yang \ndilakukan tanpa pemindahan dana pokok secara penuh sehingga yang \nbergerak hanya sejumlah dana yang merupakan hasil perhitungan \nnominal transaksi (notional) dengan selisih kurs."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nContoh: \nBank X yang merupakan Bank ACCD Uni Emirat Arab \nmelaksanakan perintah nasabah AAA yang merupakan Nasabah \nIndonesia melalui Bank A yang merupakan Bank ACCD Indonesia \nuntuk melakukan investasi berupa pembelian surat berharga \nnegara di Uni Emirat Arab sebesar AED200.000,00 (dua ratus \nribu dirham) menggunakan saldo Sub-SNA Dirham. \nAyat (3) \nContoh: \nNasabah AAA yang merupakan Nasabah Indonesia bermaksud \nuntuk menjual saham perusahaan Uni Emirat Arab sebesar \nAED10.000,00 (sepuluh ribu dirham). Dana hasil penjualan \nsaham tersebut dapat ditransfer kembali ke Sub-SNA Dirham \nmilik nasabah AAA pada Bank ACCD Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nContoh: \nBank X yang merupakan Bank ACCD Uni Emirat Arab \nmelaksanakan perintah nasabah AAA yang merupakan Nasabah \nIndonesia melalui Bank A yang merupakan Bank ACCD Indonesia \nuntuk melakukan investasi berupa pembelian surat berharga \nnegara di Uni Emirat Arab sebesar AED200.000,00 (dua ratus \nribu dirham) menggunakan saldo Sub-SNA Dirham. \nAyat (3) \nContoh: \nNasabah AAA yang merupakan Nasabah Indonesia bermaksud \nuntuk menjual saham perusahaan Uni Emirat Arab sebesar \nAED10.000,00 (sepuluh ribu dirham). Dana hasil penjualan \nsaham tersebut dapat ditransfer kembali ke Sub-SNA Dirham \nmilik nasabah AAA pada Bank ACCD Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia bertambah sebesar AED100.000,00 (seratus ribu \ndirham) karena menerima hasil penjualan barang ekspor dari \nimportir di Uni Emirat Arab. \nHuruf b \nTransaksi spot termasuk transaksi today dan tomorrow. \nContoh: \nNasabah Indonesia melakukan transaksi spot beli AED/IDR \nsebesar AED100.000,00 (seratus ribu dirham) dengan Bank \nACCD \nIndonesia untuk \npembayaran perdagangan kepada \nNasabah Uni Emirat Arab. \nBerdasarkan transaksi tersebut, saldo Sub-SNA Dirham milik \nNasabah Indonesia bertambah sebesar AED100.000,00  (seratus \nribu dirham). \n \n \n \n\n\n \n \n \n \n \nHuruf c \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia bertambah sebesar AED100,00 (seratus dirham) karena \nmemperoleh bunga dan/atau bagi hasil dari rata-rata saldo Sub-\nSNA Dirham. \nHuruf d \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia bertambah sebesar AED100.000,00 (seratus ribu \ndirham) karena menerima pencairan dana \ndari \nfasilitas \nPembiayaan. \nHuruf e \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia bertambah sebesar AED100.000,00 (seratus ribu \ndirham) karena menerima hasil penjualan barang ekspor dari \nimportir di Uni Emirat Arab. \nHuruf b \nTransaksi spot termasuk transaksi today dan tomorrow. \nContoh: \nNasabah Indonesia melakukan transaksi spot beli AED/IDR \nsebesar AED100.000,00 (seratus ribu dirham) dengan Bank \nACCD \nIndonesia untuk \npembayaran perdagangan kepada \nNasabah Uni Emirat Arab. \nBerdasarkan transaksi tersebut, saldo Sub-SNA Dirham milik \nNasabah Indonesia bertambah sebesar AED100.000,00  (seratus \nribu dirham). \n \n \n \n\n\n \n \n \n \n \nHuruf c \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia bertambah sebesar AED100,00 (seratus dirham) karena \nmemperoleh bunga dan/atau bagi hasil dari rata-rata saldo Sub-\nSNA Dirham. \nHuruf d \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia bertambah sebesar AED100.000,00 (seratus ribu \ndirham) karena menerima pencairan dana \ndari \nfasilitas \nPembiayaan. \nHuruf e \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia berkurang sebesar AED100.000,00 (seratus ribu \ndirham) karena digunakan untuk membayar pembelian barang \nimpor kepada eksportir di Uni Emirat Arab. \nHuruf b \nTransaksi spot termasuk transaksi today dan tomorrow. \nContoh: \nNasabah Indonesia melakukan transaksi spot jual AED/IDR \nsebesar AED100.000,00 (seratus ribu dirham) dengan Bank \nACCD Indonesia untuk mengonversi devisa hasil ekspor dalam \ndirham. Berdasarkan transaksi tersebut, saldo Sub-SNA Dirham \nmilik Nasabah Indonesia berkurang sebesar AED100.000,00 \n(seratus ribu dirham). \nHuruf c \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia berkurang sebesar AED1.000,00 (seribu dirham) \nkarena digunakan untuk melunasi fasilitas Pembiayaan. \nHuruf d \nContoh: \nPT AAA \nyang merupakan Nasabah Indonesia melakukan \npembelian surat berharga atau obligasi pemerintah Uni Emirat \nArab sebesar AED100.000,00 (seratus ribu dirham). Berdasarkan \ntransaksi tersebut, saldo Sub-SNA Dirham milik PT AAA \nberkurang sebesar AED100.000,00 (seratus ribu dirham).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia berkurang sebesar AED100.000,00 (seratus ribu \ndirham) karena digunakan untuk membayar pembelian barang \nimpor kepada eksportir di Uni Emirat Arab. \nHuruf b \nTransaksi spot termasuk transaksi today dan tomorrow. \nContoh: \nNasabah Indonesia melakukan transaksi spot jual AED/IDR \nsebesar AED100.000,00 (seratus ribu dirham) dengan Bank \nACCD Indonesia untuk mengonversi devisa hasil ekspor dalam \ndirham. Berdasarkan transaksi tersebut, saldo Sub-SNA Dirham \nmilik Nasabah Indonesia berkurang sebesar AED100.000,00 \n(seratus ribu dirham). \nHuruf c \nContoh: \nSaldo Sub-SNA Dirham milik PT AAA yang merupakan Nasabah \nIndonesia berkurang sebesar AED1.000,00 (seribu dirham) \nkarena digunakan untuk melunasi fasilitas Pembiayaan. \nHuruf d \nContoh: \nPT AAA \nyang merupakan Nasabah Indonesia melakukan \npembelian surat berharga atau obligasi pemerintah Uni Emirat \nArab sebesar AED100.000,00 (seratus ribu dirham). Berdasarkan \ntransaksi tersebut, saldo Sub-SNA Dirham milik PT AAA \nberkurang sebesar AED100.000,00 (seratus ribu dirham)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nNasabah Uni Emirat Arab yang dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia merupakan \nNasabah Uni Emirat Arab yang memiliki saldo yang berasal dari \nkegiatan Underlying Transaksi. \nAyat (2) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia melaksanakan \nperintah nasabah XXX yang merupakan Nasabah Uni Emirat Arab \nmelalui Bank X yang merupakan Bank ACCD Uni Emirat Arab, \nuntuk melakukan investasi berupa pembelian surat berharga \n\n\n \n \n \n \n \nnegara (SBN) di Indonesia sebesar Rp100.000.000.000,00 \n(seratus miliar rupiah) menggunakan saldo Sub-SNA Rupiah. \nAyat (3) \nContoh: \nEksportir XXX di Uni Emirat Arab memiliki saldo Sub-SNA Rupiah \nsebesar Rp1.000.000.000,00 (satu miliar rupiah) yang dananya \nberasal dari hasil ekspor. \nBerdasarkan saldo Sub-SNA Rupiah tersebut, eksportir XXX \ndapat melakukan pembelian surat berharga negara (SBN) di \nIndonesia sebesar Rp500.000.000,00 (lima ratus juta rupiah). \nEnam bulan kemudian, eksportir XXX bermaksud untuk menjual  \nsurat berharga negara (SBN) tersebut. \nDana hasil penjualan surat berharga negara (SBN) tersebut dapat \nditransfer kembali ke Sub-SNA Rupiah eksportir XXX pada Bank \nACCD Uni Emirat Arab.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nNasabah Uni Emirat Arab yang dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia merupakan \nNasabah Uni Emirat Arab yang memiliki saldo yang berasal dari \nkegiatan Underlying Transaksi. \nAyat (2) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia melaksanakan \nperintah nasabah XXX yang merupakan Nasabah Uni Emirat Arab \nmelalui Bank X yang merupakan Bank ACCD Uni Emirat Arab, \nuntuk melakukan investasi berupa pembelian surat berharga \n\n\n \n \n \n \n \nnegara (SBN) di Indonesia sebesar Rp100.000.000.000,00 \n(seratus miliar rupiah) menggunakan saldo Sub-SNA Rupiah. \nAyat (3) \nContoh: \nEksportir XXX di Uni Emirat Arab memiliki saldo Sub-SNA Rupiah \nsebesar Rp1.000.000.000,00 (satu miliar rupiah) yang dananya \nberasal dari hasil ekspor. \nBerdasarkan saldo Sub-SNA Rupiah tersebut, eksportir XXX \ndapat melakukan pembelian surat berharga negara (SBN) di \nIndonesia sebesar Rp500.000.000,00 (lima ratus juta rupiah). \nEnam bulan kemudian, eksportir XXX bermaksud untuk menjual  \nsurat berharga negara (SBN) tersebut. \nDana hasil penjualan surat berharga negara (SBN) tersebut dapat \nditransfer kembali ke Sub-SNA Rupiah eksportir XXX pada Bank \nACCD Uni Emirat Arab."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenyelesaian transaksi dalam kerangka Transaksi Bilateral \nRupiah dan Dirham termasuk penyelesaian Underlying Transaksi \ndan penyelesaian investasi pada instrumen keuangan dalam \nrupiah di Indonesia. \nAyat (2) \nNon-SNA Rupiah mencakup rekening milik Bank atau milik \nNasabah Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenyelesaian transaksi dalam kerangka Transaksi Bilateral \nRupiah dan Dirham termasuk penyelesaian Underlying Transaksi \ndan penyelesaian investasi pada instrumen keuangan dalam \nrupiah di Indonesia. \nAyat (2) \nNon-SNA Rupiah mencakup rekening milik Bank atau milik \nNasabah Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “tujuan transaksi” adalah tujuan sebagaimana \ntercantum dalam Underlying Transaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “tujuan transaksi” adalah tujuan sebagaimana \ntercantum dalam Underlying Transaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nTransaksi spot termasuk transaksi today dan tomorrow. \n \n\n\n \n \n \n \n \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nYang dimaksud dengan “squaring position” adalah transaksi \nyang \ndilakukan \noleh \nBank \nACCD \nIndonesia \nuntuk \nmenihilkan posisi terbuka yang timbul dari transaksi \nsebelumnya. \nContoh: \nBank A yang merupakan Bank ACCD Indonesia memiliki \nposisi \nshort \ndalam \nmata \nuang \ndirham \nsebesar \nAED100.000,00 (seratus ribu dirham). Sehubungan dengan \nposisi short tersebut, Bank A dapat melakukan squaring \nposition dengan Bank X yang merupakan non-Bank ACCD \nUni Emirat Arab berupa transaksi forward beli AED/IDR \nsebesar AED100.000,00 (seratus ribu dirham).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nTransaksi spot termasuk transaksi today dan tomorrow. \n \n\n\n \n \n \n \n \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nYang dimaksud dengan “squaring position” adalah transaksi \nyang \ndilakukan \noleh \nBank \nACCD \nIndonesia \nuntuk \nmenihilkan posisi terbuka yang timbul dari transaksi \nsebelumnya. \nContoh: \nBank A yang merupakan Bank ACCD Indonesia memiliki \nposisi \nshort \ndalam \nmata \nuang \ndirham \nsebesar \nAED100.000,00 (seratus ribu dirham). Sehubungan dengan \nposisi short tersebut, Bank A dapat melakukan squaring \nposition dengan Bank X yang merupakan non-Bank ACCD \nUni Emirat Arab berupa transaksi forward beli AED/IDR \nsebesar AED100.000,00 (seratus ribu dirham)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTermasuk dalam manajemen likuiditas adalah pengelolaan saldo \nSNA Dirham.  \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk dalam manajemen likuiditas adalah pengelolaan saldo \nSNA Dirham.  \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nJumlah \ntertentu \n(threshold) \nsebesar \nekuivalen \nUSD500.000,00 (lima ratus ribu dolar Amerika Serikat) per \ntransaksi juga berlaku untuk transfer rupiah dan dirham. \nContoh: \nBank D yang merupakan non-Bank ACCD Indonesia, untuk \nkepentingan importir AAA \nyang merupakan Nasabah \nIndonesia yang akan melakukan pembayaran pembelian \nbarang kepada eksportir di Uni Emirat Arab, melakukan \npembelian \nAED/IDR \nmelalui \ntransaksi spot \nsebesar \n\n\n \n \n \n \n \nAED500.000,00 \n(lima ratus ribu dirham) atau setara \nUSD136.000,00 (seratus tiga puluh enam ribu dolar Amerika \nSerikat) kepada Bank A yang merupakan Bank ACCD \nIndonesia. Pembelian AED/IDR oleh Bank D tersebut tidak \nperlu dibuktikan dengan dokumen Underlying Transaksi dari \nimportir AAA. \nHuruf b \nCukup jelas. \nAyat (4) \nContoh: \nImportir AAA yang merupakan Nasabah Indonesia sesuai kontrak \npenjualan (sales contract) memiliki kewajiban kepada eksportir di \nUni Emirat Arab yang akan jatuh waktu 1 (satu) bulan sebesar \nAED1.000.000,00 (satu juta dirham) atau setara USD272.000,00 \n(dua ratus tujuh puluh dua ribu dolar Amerika Serikat). \nBerdasarkan Underlying Transaksi tersebut maka importir AAA \ndapat \nmelakukan \ntransaksi pembelian \nAED/IDR \nmelalui \ntransaksi forward paling banyak sebesar AED1.000.000,00 (satu \njuta dirham) dengan jangka waktu paling lama 1 (satu) bulan. \nAyat (5) \nContoh: \nImportir AAA yang merupakan Nasabah Indonesia bermaksud \nuntuk melunasi tagihan dari eksportir XXX yang merupakan \nNasabah Uni Emirat Arab sebesar USD1.000.000,00 (satu juta \ndolar Amerika Serikat) atau ekuivalen sebesar AED3.673.000,00 \n(tiga juta enam ratus tujuh puluh tiga ribu dirham) dengan kurs \nUSD/AED sebesar 3,673. Berdasarkan tagihan tersebut, importir \nAAA dapat melakukan pembelian AED/IDR melalui transaksi spot \nsebesar AED3.673.000,00 (tiga juta enam ratus tujuh puluh tiga \nribu dirham).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nJumlah \ntertentu \n(threshold) \nsebesar \nekuivalen \nUSD500.000,00 (lima ratus ribu dolar Amerika Serikat) per \ntransaksi juga berlaku untuk transfer rupiah dan dirham. \nContoh: \nBank D yang merupakan non-Bank ACCD Indonesia, untuk \nkepentingan importir AAA \nyang merupakan Nasabah \nIndonesia yang akan melakukan pembayaran pembelian \nbarang kepada eksportir di Uni Emirat Arab, melakukan \npembelian \nAED/IDR \nmelalui \ntransaksi spot \nsebesar \n\n\n \n \n \n \n \nAED500.000,00 \n(lima ratus ribu dirham) atau setara \nUSD136.000,00 (seratus tiga puluh enam ribu dolar Amerika \nSerikat) kepada Bank A yang merupakan Bank ACCD \nIndonesia. Pembelian AED/IDR oleh Bank D tersebut tidak \nperlu dibuktikan dengan dokumen Underlying Transaksi dari \nimportir AAA. \nHuruf b \nCukup jelas. \nAyat (4) \nContoh: \nImportir AAA yang merupakan Nasabah Indonesia sesuai kontrak \npenjualan (sales contract) memiliki kewajiban kepada eksportir di \nUni Emirat Arab yang akan jatuh waktu 1 (satu) bulan sebesar \nAED1.000.000,00 (satu juta dirham) atau setara USD272.000,00 \n(dua ratus tujuh puluh dua ribu dolar Amerika Serikat). \nBerdasarkan Underlying Transaksi tersebut maka importir AAA \ndapat \nmelakukan \ntransaksi pembelian \nAED/IDR \nmelalui \ntransaksi forward paling banyak sebesar AED1.000.000,00 (satu \njuta dirham) dengan jangka waktu paling lama 1 (satu) bulan. \nAyat (5) \nContoh: \nImportir AAA yang merupakan Nasabah Indonesia bermaksud \nuntuk melunasi tagihan dari eksportir XXX yang merupakan \nNasabah Uni Emirat Arab sebesar USD1.000.000,00 (satu juta \ndolar Amerika Serikat) atau ekuivalen sebesar AED3.673.000,00 \n(tiga juta enam ratus tujuh puluh tiga ribu dirham) dengan kurs \nUSD/AED sebesar 3,673. Berdasarkan tagihan tersebut, importir \nAAA dapat melakukan pembelian AED/IDR melalui transaksi spot \nsebesar AED3.673.000,00 (tiga juta enam ratus tujuh puluh tiga \nribu dirham)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nContoh: \nPada tanggal 2 Desember 2025, nasabah AAA yang \nmerupakan \nNasabah \nIndonesia \nmelakukan \ntransaksi \nforward beli AED/IDR dengan Bank A yang merupakan Bank \nACCD Indonesia dengan jangka waktu 3 (tiga) bulan sampai \ndengan tanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah \nAAA mendapat informasi bahwa pengapalan barang oleh \npenjual di luar negeri mengalami keterlambatan selama 1 \n(satu) bulan sehingga jatuh waktu Underlying Transaksi \npembayaran mundur menjadi tanggal 2 April 2026. Untuk \nmemperpanjang transaksi tersebut, pada \ntanggal 26 \nFebruari 2026 nasabah AAA dapat melakukan perpanjangan \ntransaksi (roll over) dengan Bank A dari yang sebelumnya \njatuh waktu pada tanggal 2 Maret 2026 menjadi tanggal 2 \nApril 2026. \nHuruf b \nContoh: \nPada tanggal 2 Desember 2025, nasabah AAA yang \nmerupakan \nNasabah \nIndonesia \nmelakukan \ntransaksi \nforward beli AED/IDR dengan Bank A yang merupakan Bank \nACCD Indonesia dengan jangka waktu 3 (tiga) bulan sampai \ndengan tanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah \n\n\n \n \n \n \n \nAAA mendapat informasi bahwa pengapalan barang oleh \npenjual di luar negeri dapat dipercepat 1 (satu) bulan, \nsehingga jatuh waktu pembayaran dimajukan menjadi pada \ntanggal 2 Februari 2026. Untuk percepatan penyelesaian \ntransaksi tersebut, pada tanggal 29 Januari 2026 nasabah A \ndapat melakukan pengakhiran awal (early termination) \ndengan Bank A dari yang sebelumnya jatuh waktu pada \ntanggal 2 Maret 2026 menjadi tanggal 2 Februari 2026. \nHuruf c \nContoh: \nPada tanggal 2 Desember 2025, nasabah AAA yang \nmerupakan \nNasabah \nIndonesia \nmelakukan \ntransaksi \nforward beli AED/IDR dengan Bank A yang merupakan Bank \nACCD Indonesia dengan jangka waktu 3 (tiga) bulan sampai \ndengan tanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah \nAAA mendapat informasi bahwa terjadi force majeure \nsehingga transaksi jual beli dibatalkan oleh penjual di luar \nnegeri. Berdasarkan hal tersebut, nasabah AAA dapat \nmelakukan \npengakhiran \ntransaksi \n(unwind) \ndengan \nmelakukan transaksi forward jual dengan Bank B. \nAyat (2) \nYang dimaksud dengan “netting” adalah penyelesaian transaksi \nyang dilakukan tanpa pemindahan dana pokok secara penuh \nsehingga yang bergerak hanya sejumlah dana yang merupakan \nhasil perhitungan nominal transaksi (notional) dengan selisih \nkurs.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nContoh: \nPada tanggal 2 Desember 2025, nasabah AAA yang \nmerupakan \nNasabah \nIndonesia \nmelakukan \ntransaksi \nforward beli AED/IDR dengan Bank A yang merupakan Bank \nACCD Indonesia dengan jangka waktu 3 (tiga) bulan sampai \ndengan tanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah \nAAA mendapat informasi bahwa pengapalan barang oleh \npenjual di luar negeri mengalami keterlambatan selama 1 \n(satu) bulan sehingga jatuh waktu Underlying Transaksi \npembayaran mundur menjadi tanggal 2 April 2026. Untuk \nmemperpanjang transaksi tersebut, pada \ntanggal 26 \nFebruari 2026 nasabah AAA dapat melakukan perpanjangan \ntransaksi (roll over) dengan Bank A dari yang sebelumnya \njatuh waktu pada tanggal 2 Maret 2026 menjadi tanggal 2 \nApril 2026. \nHuruf b \nContoh: \nPada tanggal 2 Desember 2025, nasabah AAA yang \nmerupakan \nNasabah \nIndonesia \nmelakukan \ntransaksi \nforward beli AED/IDR dengan Bank A yang merupakan Bank \nACCD Indonesia dengan jangka waktu 3 (tiga) bulan sampai \ndengan tanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah \n\n\n \n \n \n \n \nAAA mendapat informasi bahwa pengapalan barang oleh \npenjual di luar negeri dapat dipercepat 1 (satu) bulan, \nsehingga jatuh waktu pembayaran dimajukan menjadi pada \ntanggal 2 Februari 2026. Untuk percepatan penyelesaian \ntransaksi tersebut, pada tanggal 29 Januari 2026 nasabah A \ndapat melakukan pengakhiran awal (early termination) \ndengan Bank A dari yang sebelumnya jatuh waktu pada \ntanggal 2 Maret 2026 menjadi tanggal 2 Februari 2026. \nHuruf c \nContoh: \nPada tanggal 2 Desember 2025, nasabah AAA yang \nmerupakan \nNasabah \nIndonesia \nmelakukan \ntransaksi \nforward beli AED/IDR dengan Bank A yang merupakan Bank \nACCD Indonesia dengan jangka waktu 3 (tiga) bulan sampai \ndengan tanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah \nAAA mendapat informasi bahwa terjadi force majeure \nsehingga transaksi jual beli dibatalkan oleh penjual di luar \nnegeri. Berdasarkan hal tersebut, nasabah AAA dapat \nmelakukan \npengakhiran \ntransaksi \n(unwind) \ndengan \nmelakukan transaksi forward jual dengan Bank B. \nAyat (2) \nYang dimaksud dengan “netting” adalah penyelesaian transaksi \nyang dilakukan tanpa pemindahan dana pokok secara penuh \nsehingga yang bergerak hanya sejumlah dana yang merupakan \nhasil perhitungan nominal transaksi (notional) dengan selisih \nkurs."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 32 ayat (2). \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 32 ayat (2). \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “squaring position” adalah transaksi yang \ndilakukan oleh Bank ACCD Indonesia untuk menihilkan posisi \nterbuka yang timbul dari transaksi sebelumnya. \nAyat (2) \nLihat penjelasan ayat (1). \nHuruf a \nLihat penjelasan Pasal 32 ayat (2). \nContoh: \nImportir \nAAA \nyang \nmerupakan \nNasabah \nIndonesia \nmelakukan pembelian AED/IDR kepada Bank A yang \nmerupakan Bank ACCD Indonesia melalui transaksi spot \nsebesar AED5.000.000,00 (lima juta dirham). Kemudian, \neksportir C yang merupakan Nasabah Indonesia melakukan \npenjualan \nAED/IDR \nmelalui \ntransaksi spot \nsebesar \nAED2.000.000,00 \n(dua juta dirham) kepada Bank A. \nBerdasarkan transaksi tersebut, Bank A dapat melakukan \nsquaring \nposition \nsecara \nnetting \ndengan \nmelakukan \npembelian AED/IDR kepada Bank ACCD lainnya sebesar \n\n\n \n \n \n \n \nAED3.000.000,00 (tiga juta dirham) yang merupakan selisih \ndari \nAED5.000.000,00 \n(lima \njuta \ndirham) \ndan \nAED2.000.000,00 \n(dua \njuta dirham) tanpa \ndokumen \nUnderlying Transaksi. \nHuruf b \nContoh: \nImportir \nAAA \nyang \nmerupakan \nNasabah \nIndonesia \nmelakukan transaksi spot beli AED/IDR kepada Bank A yang \nmerupakan Bank ACCD Indonesia melalui transaksi spot \nsebesar AED5.000.000,00 (lima juta dirham). Eksportir BBB \nyang merupakan Nasabah Indonesia juga melakukan \npenjualan \nAED/IDR \nmelalui \ntransaksi \nspot \nsebesar \nAED2.000.000,00 (dua juta dirham) kepada Bank A. Dalam \nhal Bank A akan melakukan squaring position dengan non-\nBank ACCD Uni Emirat Arab, Bank A harus melakukan \nsquaring position secara penuh (gross) dengan melakukan \ntransaksi spot beli AED/IDR sebesar AED5.000.000,00 (lima \njuta dirham) dan transaksi spot jual AED/IDR sebesar \nAED2.000.000,00 \n(dua juta. dirham) disertai dengan \ndokumen Underlying Transaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “squaring position” adalah transaksi yang \ndilakukan oleh Bank ACCD Indonesia untuk menihilkan posisi \nterbuka yang timbul dari transaksi sebelumnya. \nAyat (2) \nLihat penjelasan ayat (1). \nHuruf a \nLihat penjelasan Pasal 32 ayat (2). \nContoh: \nImportir \nAAA \nyang \nmerupakan \nNasabah \nIndonesia \nmelakukan pembelian AED/IDR kepada Bank A yang \nmerupakan Bank ACCD Indonesia melalui transaksi spot \nsebesar AED5.000.000,00 (lima juta dirham). Kemudian, \neksportir C yang merupakan Nasabah Indonesia melakukan \npenjualan \nAED/IDR \nmelalui \ntransaksi spot \nsebesar \nAED2.000.000,00 \n(dua juta dirham) kepada Bank A. \nBerdasarkan transaksi tersebut, Bank A dapat melakukan \nsquaring \nposition \nsecara \nnetting \ndengan \nmelakukan \npembelian AED/IDR kepada Bank ACCD lainnya sebesar \n\n\n \n \n \n \n \nAED3.000.000,00 (tiga juta dirham) yang merupakan selisih \ndari \nAED5.000.000,00 \n(lima \njuta \ndirham) \ndan \nAED2.000.000,00 \n(dua \njuta dirham) tanpa \ndokumen \nUnderlying Transaksi. \nHuruf b \nContoh: \nImportir \nAAA \nyang \nmerupakan \nNasabah \nIndonesia \nmelakukan transaksi spot beli AED/IDR kepada Bank A yang \nmerupakan Bank ACCD Indonesia melalui transaksi spot \nsebesar AED5.000.000,00 (lima juta dirham). Eksportir BBB \nyang merupakan Nasabah Indonesia juga melakukan \npenjualan \nAED/IDR \nmelalui \ntransaksi \nspot \nsebesar \nAED2.000.000,00 (dua juta dirham) kepada Bank A. Dalam \nhal Bank A akan melakukan squaring position dengan non-\nBank ACCD Uni Emirat Arab, Bank A harus melakukan \nsquaring position secara penuh (gross) dengan melakukan \ntransaksi spot beli AED/IDR sebesar AED5.000.000,00 (lima \njuta dirham) dan transaksi spot jual AED/IDR sebesar \nAED2.000.000,00 \n(dua juta. dirham) disertai dengan \ndokumen Underlying Transaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 35 ayat (1) \nAyat (2) \nLihat penjelasan Pasal 35 ayat (1). \nHuruf a \nCukup jelas. \nHuruf b \nLihat penjelasan Pasal 32 ayat (2). \nContoh: \nNasabah XXX yang merupakan Nasabah Uni Emirat Arab \nmelakukan penjualan AED/IDR kepada Bank X yang \nmerupakan Bank ACCD Uni Emirat Arab melalui transaksi \nspot sebesar Rp1.000.000.000,00 \n(satu miliar rupiah). \nKemudian, nasabah YYY yang merupakan Nasabah Uni \nEmirat Arab melakukan pembelian AED/IDR melalui \ntransaksi spot sebesar Rp600.000.000,00 (enam ratus juta \nrupiah) kepada Bank X. Berdasarkan transaksi tersebut, \nBank X dapat melakukan squaring position secara netting \ndengan melakukan penjualan AED/IDR kepada Bank ACCD \nIndonesia melalui transaksi spot sebesar Rp400.000.000,00 \n(empat ratus juta rupiah) yang merupakan selisih dari \nRp1.000.000.000,00 \n(satu \nmiliar \nrupiah) \ndikurangi \nRp600.000.000,00 (enam ratus juta rupiah). \nAyat (3) \nLihat penjelasan Pasal 35 ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 35 ayat (1) \nAyat (2) \nLihat penjelasan Pasal 35 ayat (1). \nHuruf a \nCukup jelas. \nHuruf b \nLihat penjelasan Pasal 32 ayat (2). \nContoh: \nNasabah XXX yang merupakan Nasabah Uni Emirat Arab \nmelakukan penjualan AED/IDR kepada Bank X yang \nmerupakan Bank ACCD Uni Emirat Arab melalui transaksi \nspot sebesar Rp1.000.000.000,00 \n(satu miliar rupiah). \nKemudian, nasabah YYY yang merupakan Nasabah Uni \nEmirat Arab melakukan pembelian AED/IDR melalui \ntransaksi spot sebesar Rp600.000.000,00 (enam ratus juta \nrupiah) kepada Bank X. Berdasarkan transaksi tersebut, \nBank X dapat melakukan squaring position secara netting \ndengan melakukan penjualan AED/IDR kepada Bank ACCD \nIndonesia melalui transaksi spot sebesar Rp400.000.000,00 \n(empat ratus juta rupiah) yang merupakan selisih dari \nRp1.000.000.000,00 \n(satu \nmiliar \nrupiah) \ndikurangi \nRp600.000.000,00 (enam ratus juta rupiah). \nAyat (3) \nLihat penjelasan Pasal 35 ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \n\n\n \n \n \n \n \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nTermasuk Underlying Transaksi lain yaitu sewa dan pajak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \n\n\n \n \n \n \n \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nTermasuk Underlying Transaksi lain yaitu sewa dan pajak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat final” adalah dokumen yang mengikat secara hukum \n(legally binding) yang menunjukkan kewajiban untuk \nmembayar atau hak untuk menerima pembayaran dengan \njumlah nominal yang tidak berubah. \nHuruf b \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat perkiraan” adalah dokumen yang menunjukkan \nperkiraan \nbesarnya \nkebutuhan \npembayaran \natau \npenerimaan berdasarkan data historis. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat final” adalah dokumen yang mengikat secara hukum \n(legally binding) yang menunjukkan kewajiban untuk \nmembayar atau hak untuk menerima pembayaran dengan \njumlah nominal yang tidak berubah. \nHuruf b \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat perkiraan” adalah dokumen yang menunjukkan \nperkiraan \nbesarnya \nkebutuhan \npembayaran \natau \npenerimaan berdasarkan data historis. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nJenis dokumen Underlying Transaksi yang bersifat perkiraan \nadalah dokumen terkait dengan rencana penerimaan atau \nkebutuhan pembayaran kegiatan transaksi berjalan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nJenis dokumen Underlying Transaksi yang bersifat perkiraan \nadalah dokumen terkait dengan rencana penerimaan atau \nkebutuhan pembayaran kegiatan transaksi berjalan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “cross-border payment” adalah transaksi \npembayaran antara payor dan payee yang tunduk pada yurisdiksi \nnegara yang berbeda. \nCross-border payment dapat berupa quick response payment dan \nmetode cross-border payment lain.  \nQuick \nResponse \nPayment \ndapat \nmendukung \nkegiatan \nperdagangan ritel dan transaksi pendapatan sekunder. \nAyat (2) \nYang dimaksud dengan “penyelenggara infrastruktur sistem \npembayaran” adalah pihak yang telah mendapatkan izin atau \npenetapan untuk menyelenggarakan kegiatan sistem pembayaran \nmengacu pada ketentuan Bank Indonesia mengenai sistem \npembayaran.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “cross-border payment” adalah transaksi \npembayaran antara payor dan payee yang tunduk pada yurisdiksi \nnegara yang berbeda. \nCross-border payment dapat berupa quick response payment dan \nmetode cross-border payment lain.  \nQuick \nResponse \nPayment \ndapat \nmendukung \nkegiatan \nperdagangan ritel dan transaksi pendapatan sekunder. \nAyat (2) \nYang dimaksud dengan “penyelenggara infrastruktur sistem \npembayaran” adalah pihak yang telah mendapatkan izin atau \npenetapan untuk menyelenggarakan kegiatan sistem pembayaran \nmengacu pada ketentuan Bank Indonesia mengenai sistem \npembayaran."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 29 ayat (1) huruf a.  \n \n \n\n\n \n \n \n \n \nContoh: \nBank ACCD Indonesia melakukan transaksi spot AED/IDR \ndengan Nasabah Indonesia atau non-Bank ACCD Indonesia. Non-\nBank ACCD Indonesia wajib menyampaikan dokumen Underlying \nTransaksi antara lain letter of credit atau invoice yang \nmenunjukkan transaksi perdagangan antara Indonesia dan Uni \nEmirat Arab. \nAyat (2) \nContoh: \nBank ACCD Indonesia melakukan transaksi forward AED/IDR \ndengan Nasabah Indonesia. Bank ACCD Indonesia wajib meminta \nNasabah Indonesia untuk menyampaikan dokumen Underlying \nTransaksi yang bersifat final atau bersifat perkiraan. Dokumen \nyang bersifat final antara lain letter of credit atau invoice. \nSedangkan dokumen yang bersifat perkiraan yang menunjukkan \nperkiraan rencana penerimaan atau kebutuhan pembayaran \nantara lain:  \na. \nproforma invoice; atau  \nb. \nperkiraan arus kas (cash flow projection) dengan didukung \noleh riwayat data realisasi transaksi. \nAyat (3) \nContoh: \nPada tanggal 1 Desember 2025, Bank ACCD Indonesia melakukan \ntransaksi forward AED/IDR dengan Nasabah Indonesia dengan \ntenor 1 (satu) tahun untuk keperluan impor dari Uni Emirat Arab. \nDengan demikian Nasabah Indonesia memiliki waktu paling \nlambat hingga tanggal penyelesaian transaksi (settlement date) \nyaitu tanggal 1 Desember 2026 untuk memberikan dokumen \nUnderlying Transaksi kepada Bank ACCD Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 29 ayat (1) huruf a.  \n \n \n\n\n \n \n \n \n \nContoh: \nBank ACCD Indonesia melakukan transaksi spot AED/IDR \ndengan Nasabah Indonesia atau non-Bank ACCD Indonesia. Non-\nBank ACCD Indonesia wajib menyampaikan dokumen Underlying \nTransaksi antara lain letter of credit atau invoice yang \nmenunjukkan transaksi perdagangan antara Indonesia dan Uni \nEmirat Arab. \nAyat (2) \nContoh: \nBank ACCD Indonesia melakukan transaksi forward AED/IDR \ndengan Nasabah Indonesia. Bank ACCD Indonesia wajib meminta \nNasabah Indonesia untuk menyampaikan dokumen Underlying \nTransaksi yang bersifat final atau bersifat perkiraan. Dokumen \nyang bersifat final antara lain letter of credit atau invoice. \nSedangkan dokumen yang bersifat perkiraan yang menunjukkan \nperkiraan rencana penerimaan atau kebutuhan pembayaran \nantara lain:  \na. \nproforma invoice; atau  \nb. \nperkiraan arus kas (cash flow projection) dengan didukung \noleh riwayat data realisasi transaksi. \nAyat (3) \nContoh: \nPada tanggal 1 Desember 2025, Bank ACCD Indonesia melakukan \ntransaksi forward AED/IDR dengan Nasabah Indonesia dengan \ntenor 1 (satu) tahun untuk keperluan impor dari Uni Emirat Arab. \nDengan demikian Nasabah Indonesia memiliki waktu paling \nlambat hingga tanggal penyelesaian transaksi (settlement date) \nyaitu tanggal 1 Desember 2026 untuk memberikan dokumen \nUnderlying Transaksi kepada Bank ACCD Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nNasabah Indonesia melakukan pembelian barang dari Nasabah \nUni Emirat Arab sebesar USD100.000,00 (seratus ribu dolar \nAmerika Serikat). Nasabah Indonesia dan Nasabah Uni Emirat \nArab kemudian sepakat bahwa pembayaran juga dapat dilakukan \ndalam mata uang dirham. Nasabah Indonesia kemudian \nmembuka letter of credit di Bank A yang merupakan Bank ACCD \nIndonesia untuk pembayaran tagihan sebesar AED367.300,00 \n(tiga ratus enam puluh tujuh ribu tiga ratus dirham) yang \nekuivalen USD100.000,00 (seratus ribu dolar Amerika Serikat). \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nNasabah Indonesia melakukan pembelian barang dari Nasabah \nUni Emirat Arab sebesar USD100.000,00 (seratus ribu dolar \nAmerika Serikat). Nasabah Indonesia dan Nasabah Uni Emirat \nArab kemudian sepakat bahwa pembayaran juga dapat dilakukan \ndalam mata uang dirham. Nasabah Indonesia kemudian \nmembuka letter of credit di Bank A yang merupakan Bank ACCD \nIndonesia untuk pembayaran tagihan sebesar AED367.300,00 \n(tiga ratus enam puluh tujuh ribu tiga ratus dirham) yang \nekuivalen USD100.000,00 (seratus ribu dolar Amerika Serikat). \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kuotasi harga dirham terhadap rupiah” \nadalah:  \na. \nkuotasi spot; dan  \nb. \nkuotasi forward, dalam hal dibutuhkan. \n\n\n \n \n \n \n \nYang dimaksud dengan “sarana penyedia informasi” antara lain \nsarana yang disediakan oleh Refinitiv, Bloomberg, dan/atau \nsarana lain yang dapat diakses oleh publik. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenetapan kuotasi harga dapat mempertimbangkan harga acuan \nyang dipublikasikan pada laman resmi Bank Indonesia dan/atau \nmedia lain yang ditetapkan oleh Bank Indonesia, atau harga \ntransaksi yang tersedia pada sarana penyedia informasi lain yang \ndisepakati. \nHuruf a \nCukup jelas. \nHuruf b \nKuotasi \nyang \ndapat \nditransaksikan atau \ndieksekusi \ndilakukan dengan mengacu pada manajemen risiko Bank \nACCD Indonesia. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kuotasi harga dirham terhadap rupiah” \nadalah:  \na. \nkuotasi spot; dan  \nb. \nkuotasi forward, dalam hal dibutuhkan. \n\n\n \n \n \n \n \nYang dimaksud dengan “sarana penyedia informasi” antara lain \nsarana yang disediakan oleh Refinitiv, Bloomberg, dan/atau \nsarana lain yang dapat diakses oleh publik. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenetapan kuotasi harga dapat mempertimbangkan harga acuan \nyang dipublikasikan pada laman resmi Bank Indonesia dan/atau \nmedia lain yang ditetapkan oleh Bank Indonesia, atau harga \ntransaksi yang tersedia pada sarana penyedia informasi lain yang \ndisepakati. \nHuruf a \nCukup jelas. \nHuruf b \nKuotasi \nyang \ndapat \nditransaksikan atau \ndieksekusi \ndilakukan dengan mengacu pada manajemen risiko Bank \nACCD Indonesia. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nKetentuan Bank Indonesia mengenai pelaporan antara lain \nketentuan Bank Indonesia mengenai laporan bank umum \nterintegrasi dan ketentuan Bank Indonesia mengenai laporan lalu \nlintas devisa.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nKetentuan Bank Indonesia mengenai pelaporan antara lain \nketentuan Bank Indonesia mengenai laporan bank umum \nterintegrasi dan ketentuan Bank Indonesia mengenai laporan lalu \nlintas devisa."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nData dan informasi dalam laporan insidental antara lain transaksi \nvaluta asing dirham terhadap rupiah, posisi saldo SNA Dirham, \ntransfer dana, posisi saldo dan mutasi Sub-SNA Dirham, posisi \nPembiayaan, serta saldo dan mutasi SNA Rupiah. \nAyat (2) \nCukup jelas. \nAyat (3) \n Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nData dan informasi dalam laporan insidental antara lain transaksi \nvaluta asing dirham terhadap rupiah, posisi saldo SNA Dirham, \ntransfer dana, posisi saldo dan mutasi Sub-SNA Dirham, posisi \nPembiayaan, serta saldo dan mutasi SNA Rupiah. \nAyat (2) \nCukup jelas. \nAyat (3) \n Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \n Lihat penjelasan Pasal 45 ayat (3). \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \n Lihat penjelasan Pasal 45 ayat (3). \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n\n\nLAMPIRAN I \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 2 TAHUN 2025 \nTANGGAL 24 JANUARI 2025 \nTENTANG    \nPENYELESAIAN \nTRANSAKSI \nBILATERAL \nANTARA INDONESIA DAN UNI EMIRAT ARAB \nMENGGUNAKAN \nRUPIAH \nDAN \nDIRHAM \nMELALUI BANK \n \nCONTOH SURAT PERMOHONAN UNTUK MENJADI BANK ACCD INDONESIA  \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Permohonan sebagai Bank ACCD Indonesia \n \n \nDengan ini kami mengajukan permohonan menjadi Bank ACCD Indonesia \ndalam rangka pelaksanaan Transaksi Bilateral Rupiah dan Dirham untuk \nmemenuhi ketentuan dalam Peraturan Bank Indonesia Nomor 22/12/PBI/2020 \ntentang Penyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal \nmelalui Bank sebagaimana telah diubah dengan Peraturan Bank Indonesia \nNomor 23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia \nNomor 22/12/PBI/2020 tentang Penyelesaian Transaksi Bilateral Menggunakan \nMata Uang Lokal melalui Bank, beserta peraturan pelaksanaannya. Kami \nmenyatakan berminat dan siap secara operasional untuk ditunjuk sebagai Bank \nACCD Indonesia.  \nSehubungan dengan hal tersebut, kami mengusulkan calon mitra Bank \nACCD Uni Emirat Arab yaitu (... diisi dengan nama calon atau beberapa calon \nmitra di Uni Emirat Arab)*). \nSurat permohonan ini kami buat dengan sebenar-benarnya dan apabila di \nkemudian hari diketahui terdapat hal-hal yang tidak benar maka kami bersedia \nmenerima segala tindakan yang diambil oleh Bank Indonesia. \nDemikian agar maklum dan atas perhatiannya kami ucapkan terima kasih. \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n*) Dapat ditambahkan jika pemohon memiliki informasi mengani calon mitra di \nUni Emirat Arab. \n \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nDESTRY DAMAYANTI \n\n\nLAMPIRAN II \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 2 TAHUN 2025 \nTANGGAL 24 JANUARI 2025 \nTENTANG    \nPENYELESAIAN \nTRANSAKSI \nBILATERAL \nANTARA INDONESIA DAN UNI EMIRAT ARAB \nMENGGUNAKAN \nRUPIAH \nDAN \nDIRHAM \nMELALUI BANK \n \nCONTOH SURAT PEMBERITAHUAN RENCANA AKSI KORPORASI/PROSES \nPENCABUTAN IZIN USAHA*) BANK ACCD INDONESIA  \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Pemberitahuan Rencana Aksi Korporasi/Proses Pencabutan Izin \nUsaha*) Bank ACCD Indonesia \n \n \nSehubungan dengan penunjukan kami sebagai Bank ACCD Indonesia dan \nmenunjuk Peraturan Bank Indonesia Nomor \n22/12/PBI/2020 \ntentang \nPenyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal melalui Bank \nsebagaimana telah diubah \ndengan Peraturan Bank \nIndonesia \nNomor \n23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia Nomor \n22/12/PBI/2020 tentang Penyelesaian Transaksi Bilateral Menggunakan Mata \nUang Lokal melalui Bank beserta peraturan pelaksanaannya, bersama ini kami \nmemberitahukan \nbahwa \nBank \nkami \nberencana \nmelakukan \nAksi \nKorporasi/sedang dalam proses pencabutan izin usaha*). \nSehubungan dengan hal tersebut, bersama ini kami lampirkan dokumen \npendukung antara lain hasil rapat umum pemegang saham terkait rencana Aksi \nKorporasi/pencabutan izin usaha*). \nDemikian kami sampaikan dan atas perhatiannya kami mengucapkan \nterima kasih. \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n*) pilih salah satu \n\n\nLAMPIRAN III \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 2 TAHUN 2025 \nTANGGAL 24 JANUARI 2025 \nTENTANG    \nPENYELESAIAN \nTRANSAKSI \nBILATERAL \nANTARA INDONESIA DAN UNI EMIRAT ARAB \nMENGGUNAKAN \nRUPIAH \nDAN \nDIRHAM \nMELALUI BANK \n \nDOKUMEN UNDERLYING TRANSAKSI  \n \nA. \nDokumen Underlying Transaksi yang bersifat final antara lain mencakup: \n1. \nletter of credit (L/C) dan perubahan letter of credit (L/C), standby letter \nof credit (L/C), trust receipt, atau letter of guarantee;  \n2. \ndokumen yang bersifat tagihan atau yang menimbulkan kewajiban \npembayaran, antara lain: \na. \ninvoice atau commercial invoice dengan masa berlaku sampai \ndengan tanggal jatuh waktu (due date) invoice atau commercial \ninvoice dimaksud.  \n \nDalam hal invoice tidak memiliki tanggal jatuh waktu maka \ninvoice tersebut dapat digunakan maksimal 3 (tiga) bulan sejak \ntanggal penerbitan;  \nb. \nnota debit (debit note) yang informasi di dalamnya dapat \ndiverifikasi;  \nc. \nkontrak penjualan (sales contract) yang memiliki masa berlaku \ndan nominal yang sesuai dengan yang tercantum dalam kontrak; \ndan \nd. \nlist of invoices yang didukung oleh pernyataan nasabah yang \nberisi: \n1) \nvaliditas list of invoices dimaksud; \n2) \ntanggung jawab nasabah untuk \nmengadministrasikan \ninvoices dimaksud; dan \n3) \nkomitmen penyediaan invoices apabila dibutuhkan oleh \nBank; \n3. \nfotokopi pemberitahuan impor barang (PIB);  \n4. \nfotokopi pemberitahuan ekspor barang (PEB); \n5. \nbukti dokumen yang menunjukkan adanya kebutuhan remitansi; \n6. \nfotokopi kontrak jasa konsultan; \n7. \nfotokopi surat perjanjian kerja atau dokumen pendukung lain antara \ntenaga kerja asing yang bersangkutan dengan badan usaha, termasuk \nbukti penerimaan dalam rupiah seperti slip gaji tenaga kerja asing; \n8. \nbukti penerimaan dalam rupiah atau dirham yang dimiliki oleh \nnasabah untuk kebutuhan repatriasi, antara lain berupa slip gaji dan \nhasil kegiatan perdagangan barang dan jasa; \n9. \nbukti penerimaan dan pembayaran imbal hasil surat berharga; \n10. bukti pembagian dividen dan bukti hasil investasi lain; \n11. risalah rapat umum pemegang saham dan tambahan dokumen lain \nyang menggambarkan besarnya nominal untuk pembayaran dividen \nke pemegang saham di Uni Emirat Arab; \n12. bukti pembelian dan pembayaran produk investasi portofolio; \n13. bukti kegiatan transfer modal; dan \n14. bukti pembelian atau penjualan aset bukan finansial antara lain hak \nkekayaan intelektual, tanah, dan aset lain; \n \n \n\n\n \n \nB. \nDokumen Underlying Transaksi berupa perkiraan antara lain mencakup: \n1. \nperkiraan arus kas (cash flow projection) untuk kegiatan perdagangan \nbarang dan jasa (ekspor-impor), yang disusun oleh nasabah dan \nditandatangani oleh pejabat berwenang dari nasabah. Proyeksi \ntersebut paling kurang berisi rincian secara bulanan mengenai \npenerimaan dan pengeluaran valuta asing secara penuh (gross); \n2. \ndokumen pembelian antara lain berupa purchase order yang telah \ndikonfirmasi oleh penjual dan selanjutnya dilengkapi dengan bukti \npengiriman barang;  \n3. \nproforma invoice;  \n4. \npurchase agreement; \n5. \nperkiraan penerimaan dan pembayaran dividen, atau hasil investasi \nyang didasarkan pada data historis 1 (satu) tahun sebelumnya; dan \n6. \nperkiraan: \na. biaya sekolah dan biaya hidup di luar negeri;  \nb. biaya berobat dan akomodasi;  \nc. biaya perjalanan dan akomodasi; dan \nd. penerimaan dan pembayaran gaji yang akan dilakukan remitansi, \nyang ditandatangani di atas meterai oleh nasabah Transaksi Bilateral \nRupiah dan Dirham di Indonesia. \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \nTTD \n \nDESTRY DAMAYANTI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n\n\nLAMPIRAN I \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 2 TAHUN 2025 \nTANGGAL 24 JANUARI 2025 \nTENTANG    \nPENYELESAIAN \nTRANSAKSI \nBILATERAL \nANTARA INDONESIA DAN UNI EMIRAT ARAB \nMENGGUNAKAN \nRUPIAH \nDAN \nDIRHAM \nMELALUI BANK \n \nCONTOH SURAT PERMOHONAN UNTUK MENJADI BANK ACCD INDONESIA  \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Permohonan sebagai Bank ACCD Indonesia \n \n \nDengan ini kami mengajukan permohonan menjadi Bank ACCD Indonesia \ndalam rangka pelaksanaan Transaksi Bilateral Rupiah dan Dirham untuk \nmemenuhi ketentuan dalam Peraturan Bank Indonesia Nomor 22/12/PBI/2020 \ntentang Penyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal \nmelalui Bank sebagaimana telah diubah dengan Peraturan Bank Indonesia \nNomor 23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia \nNomor 22/12/PBI/2020 tentang Penyelesaian Transaksi Bilateral Menggunakan \nMata Uang Lokal melalui Bank, beserta peraturan pelaksanaannya. Kami \nmenyatakan berminat dan siap secara operasional untuk ditunjuk sebagai Bank \nACCD Indonesia.  \nSehubungan dengan hal tersebut, kami mengusulkan calon mitra Bank \nACCD Uni Emirat Arab yaitu (... diisi dengan nama calon atau beberapa calon \nmitra di Uni Emirat Arab)*). \nSurat permohonan ini kami buat dengan sebenar-benarnya dan apabila di \nkemudian hari diketahui terdapat hal-hal yang tidak benar maka kami bersedia \nmenerima segala tindakan yang diambil oleh Bank Indonesia. \nDemikian agar maklum dan atas perhatiannya kami ucapkan terima kasih. \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n*) Dapat ditambahkan jika pemohon memiliki informasi mengani calon mitra di \nUni Emirat Arab. \n \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nDESTRY DAMAYANTI \n\n\nLAMPIRAN II \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 2 TAHUN 2025 \nTANGGAL 24 JANUARI 2025 \nTENTANG    \nPENYELESAIAN \nTRANSAKSI \nBILATERAL \nANTARA INDONESIA DAN UNI EMIRAT ARAB \nMENGGUNAKAN \nRUPIAH \nDAN \nDIRHAM \nMELALUI BANK \n \nCONTOH SURAT PEMBERITAHUAN RENCANA AKSI KORPORASI/PROSES \nPENCABUTAN IZIN USAHA*) BANK ACCD INDONESIA  \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Pemberitahuan Rencana Aksi Korporasi/Proses Pencabutan Izin \nUsaha*) Bank ACCD Indonesia \n \n \nSehubungan dengan penunjukan kami sebagai Bank ACCD Indonesia dan \nmenunjuk Peraturan Bank Indonesia Nomor \n22/12/PBI/2020 \ntentang \nPenyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal melalui Bank \nsebagaimana telah diubah \ndengan Peraturan Bank \nIndonesia \nNomor \n23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia Nomor \n22/12/PBI/2020 tentang Penyelesaian Transaksi Bilateral Menggunakan Mata \nUang Lokal melalui Bank beserta peraturan pelaksanaannya, bersama ini kami \nmemberitahukan \nbahwa \nBank \nkami \nberencana \nmelakukan \nAksi \nKorporasi/sedang dalam proses pencabutan izin usaha*). \nSehubungan dengan hal tersebut, bersama ini kami lampirkan dokumen \npendukung antara lain hasil rapat umum pemegang saham terkait rencana Aksi \nKorporasi/pencabutan izin usaha*). \nDemikian kami sampaikan dan atas perhatiannya kami mengucapkan \nterima kasih. \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n*) pilih salah satu \n\n\nLAMPIRAN III \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 2 TAHUN 2025 \nTANGGAL 24 JANUARI 2025 \nTENTANG    \nPENYELESAIAN \nTRANSAKSI \nBILATERAL \nANTARA INDONESIA DAN UNI EMIRAT ARAB \nMENGGUNAKAN \nRUPIAH \nDAN \nDIRHAM \nMELALUI BANK \n \nDOKUMEN UNDERLYING TRANSAKSI  \n \nA. \nDokumen Underlying Transaksi yang bersifat final antara lain mencakup: \n1. \nletter of credit (L/C) dan perubahan letter of credit (L/C), standby letter \nof credit (L/C), trust receipt, atau letter of guarantee;  \n2. \ndokumen yang bersifat tagihan atau yang menimbulkan kewajiban \npembayaran, antara lain: \na. \ninvoice atau commercial invoice dengan masa berlaku sampai \ndengan tanggal jatuh waktu (due date) invoice atau commercial \ninvoice dimaksud.  \n \nDalam hal invoice tidak memiliki tanggal jatuh waktu maka \ninvoice tersebut dapat digunakan maksimal 3 (tiga) bulan sejak \ntanggal penerbitan;  \nb. \nnota debit (debit note) yang informasi di dalamnya dapat \ndiverifikasi;  \nc. \nkontrak penjualan (sales contract) yang memiliki masa berlaku \ndan nominal yang sesuai dengan yang tercantum dalam kontrak; \ndan \nd. \nlist of invoices yang didukung oleh pernyataan nasabah yang \nberisi: \n1) \nvaliditas list of invoices dimaksud; \n2) \ntanggung jawab nasabah untuk \nmengadministrasikan \ninvoices dimaksud; dan \n3) \nkomitmen penyediaan invoices apabila dibutuhkan oleh \nBank; \n3. \nfotokopi pemberitahuan impor barang (PIB);  \n4. \nfotokopi pemberitahuan ekspor barang (PEB); \n5. \nbukti dokumen yang menunjukkan adanya kebutuhan remitansi; \n6. \nfotokopi kontrak jasa konsultan; \n7. \nfotokopi surat perjanjian kerja atau dokumen pendukung lain antara \ntenaga kerja asing yang bersangkutan dengan badan usaha, termasuk \nbukti penerimaan dalam rupiah seperti slip gaji tenaga kerja asing; \n8. \nbukti penerimaan dalam rupiah atau dirham yang dimiliki oleh \nnasabah untuk kebutuhan repatriasi, antara lain berupa slip gaji dan \nhasil kegiatan perdagangan barang dan jasa; \n9. \nbukti penerimaan dan pembayaran imbal hasil surat berharga; \n10. bukti pembagian dividen dan bukti hasil investasi lain; \n11. risalah rapat umum pemegang saham dan tambahan dokumen lain \nyang menggambarkan besarnya nominal untuk pembayaran dividen \nke pemegang saham di Uni Emirat Arab; \n12. bukti pembelian dan pembayaran produk investasi portofolio; \n13. bukti kegiatan transfer modal; dan \n14. bukti pembelian atau penjualan aset bukan finansial antara lain hak \nkekayaan intelektual, tanah, dan aset lain; \n \n \n\n\n \n \nB. \nDokumen Underlying Transaksi berupa perkiraan antara lain mencakup: \n1. \nperkiraan arus kas (cash flow projection) untuk kegiatan perdagangan \nbarang dan jasa (ekspor-impor), yang disusun oleh nasabah dan \nditandatangani oleh pejabat berwenang dari nasabah. Proyeksi \ntersebut paling kurang berisi rincian secara bulanan mengenai \npenerimaan dan pengeluaran valuta asing secara penuh (gross); \n2. \ndokumen pembelian antara lain berupa purchase order yang telah \ndikonfirmasi oleh penjual dan selanjutnya dilengkapi dengan bukti \npengiriman barang;  \n3. \nproforma invoice;  \n4. \npurchase agreement; \n5. \nperkiraan penerimaan dan pembayaran dividen, atau hasil investasi \nyang didasarkan pada data historis 1 (satu) tahun sebelumnya; dan \n6. \nperkiraan: \na. biaya sekolah dan biaya hidup di luar negeri;  \nb. biaya berobat dan akomodasi;  \nc. biaya perjalanan dan akomodasi; dan \nd. penerimaan dan pembayaran gaji yang akan dilakukan remitansi, \nyang ditandatangani di atas meterai oleh nasabah Transaksi Bilateral \nRupiah dan Dirham di Indonesia. \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \nTTD \n \nDESTRY DAMAYANTI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 98,
+  "total_ayat": 175,
+  "total_karakter": 69407,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

@@ -1,0 +1,1451 @@
+{
+  "doc_id": "BI_PBI_2023_477_477",
+  "regulator": "BI",
+  "jenis": "PBI",
+  "nomor": "477",
+  "tahun": "2023",
+  "judul": "PINJAMAN LIKUIDITAS JANGKA PENDEK BAGI BANK UMUM KONVENSIONAL",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "27 Juni 2023",
+  "tanggal_berlaku": "diundangkan (27 Juni 2023)",
+  "diundangkan_pada": "27 Juni 2023",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERMOHONAN PLJP"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJP"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJP"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERPANJANGAN JANGKA WAKTU PLJP"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJP"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUK PENERIMA PLJP"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BUNGA"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "BIAYA"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN"
+    },
+    {
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nBank Indonesia adalah Bank Sentral Republik Indonesia \nsebagaimana dimaksud dalam Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945. \n2. \nOtoritas Jasa Keuangan yang selanjutnya disingkat OJK \nadalah lembaga negara yang independen yang mempunyai \nfungsi, tugas, dan wewenang pengaturan, pengawasan, \npemeriksaan, dan penyidikan sebagaimana dimaksud \ndalam Undang-Undang mengenai Otoritas Jasa Keuangan. \n3. \nBank adalah badan usaha yang menghimpun dana dari \nmasyarakat dalam bentuk simpanan dan menyalurkannya \nkepada masyarakat dalam bentuk kredit atau pembiayaan \ndan/atau bentuk lainnya dalam rangka meningkatkan \ntaraf hidup rakyat. \n4. \nBank Konvensional adalah Bank yang menjalankan \nkegiatan usaha secara konvensional dan berdasarkan \njenisnya terdiri atas Bank umum konvensional dan bank \nperekonomian rakyat. \n5. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah jenis dari Bank Konvensional yang dalam \nkegiatannya \nmemberikan \njasa \ndalam \nlalu \nlintas \npembayaran, tidak termasuk kantor cabang dari Bank \nyang berkedudukan di luar negeri. \n6. \nPrinsip Syariah adalah prinsip hukum Islam berdasarkan \nfatwa dan/atau pernyataan kesesuaian syariah yang \ndikeluarkan oleh lembaga yang memiliki kewenangan \ndalam penetapan fatwa di bidang syariah. \n7. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \n\n\n \n \nmelaksanakan \nkegiatan \nusaha \nberdasarkan \nPrinsip \nSyariah, atau unit kerja di kantor cabang dari suatu Bank \nyang berkedudukan di luar negeri yang melaksanakan \nkegiatan usaha secara konvensional yang berfungsi \nsebagai kantor induk dari kantor cabang pembantu \nsyariah dan/atau unit syariah. \n8. \nGiro Wajib Minimum yang selanjutnya disingkat GWM \nadalah giro wajib minimum dalam rupiah sebagaimana \ndimaksud dalam ketentuan Peraturan Bank Indonesia \nmengenai giro wajib minimum dalam rupiah dan valuta \nasing bagi BUK, bank umum syariah, dan UUS. \n9. \nKesulitan Likuiditas adalah kesulitan likuiditas jangka \npendek yang disebabkan oleh arus dana masuk yang lebih \nkecil dibandingkan arus dana keluar (mismatch) sehingga \nBUK tidak dapat memenuhi kewajiban GWM. \n10. Pinjaman Likuiditas Jangka Pendek yang selanjutnya \ndisingkat PLJP adalah pinjaman dari Bank Indonesia \nkepada BUK untuk mengatasi Kesulitan Likuiditas yang \ndialami oleh BUK. \n11. Sertifikat Bank Indonesia yang selanjutnya disingkat SBI \nadalah Sertifikat Bank Indonesia sebagaimana dimaksud \ndalam ketentuan Peraturan Bank Indonesia mengenai \noperasi moneter. \n12. Sertifikat Bank Indonesia Syariah yang selanjutnya \ndisingkat SBIS adalah Sertifikat Bank Indonesia Syariah \nsebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \n13. Sertifikat Deposito Bank Indonesia yang selanjutnya \ndisingkat SDBI adalah Sertifikat Deposito Bank Indonesia \nsebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \n14. Sukuk Bank Indonesia yang selanjutnya disebut SukBI \nadalah Sukuk Bank Indonesia sebagaimana dimaksud \ndalam ketentuan Peraturan Bank Indonesia mengenai \noperasi moneter. \n15. Surat Utang Negara yang selanjutnya disingkat SUN \nadalah surat berharga yang berupa surat pengakuan \nutang yang dijamin pembayaran bunga dan pokoknya oleh \nNegara \nRepublik \nIndonesia, \nsesuai \ndengan \nmasa \nberlakunya, tidak termasuk SUN dalam mata uang valuta \nasing. \n16. Surat Berharga Syariah Negara selanjutnya disingkat \nSBSN, atau dapat disebut Sukuk Negara, adalah surat \nberharga negara yang diterbitkan berdasarkan Prinsip \nSyariah, sebagai bukti atas bagian penyertaan terhadap \naset SBSN tidak termasuk SBSN dalam mata uang valuta \nasing. \n17. Surat Berharga Negara yang selanjutnya disingkat SBN \nadalah SUN dan SBSN. \n18. Kredit adalah penyediaan dana atau tagihan yang dapat \ndipersamakan dengan itu, berdasarkan persetujuan atau \nkesepakatan pinjam-meminjam antara BUK dan pihak \nlain yang mewajibkan pihak peminjam untuk melunasi \nutangnya \nsetelah \njangka \nwaktu \ntertentu \ndengan \npemberian bunga. \n\n\n \n \n19. Aset Kredit adalah aset BUK berupa Kredit, tidak termasuk \nKredit dalam mata uang valuta asing. \n20. Pembiayaan adalah penyediaan dana atau tagihan yang \ndapat dipersamakan dengan itu berdasarkan persetujuan \natau kesepakatan antara UUS dan pihak lain yang \nmewajibkan pihak yang dibiayai dan/atau diberi fasilitas \ndana untuk mengembalikan dana tersebut setelah jangka \nwaktu tertentu dengan imbalan ujrah, tanpa imbalan, atau \nbagi hasil, yang meliputi transaksi bagi hasil, transaksi \nsewa-menyewa, transaksi jual beli, transaksi pinjam- \nmeminjam, dan transaksi sewa-menyewa jasa sesuai \ndengan Prinsip Syariah. \n21. Aset Pembiayaan adalah aset UUS berupa Pembiayaan, \ntidak termasuk Pembiayaan dalam mata uang valuta \nasing. \n \nBAB II \nPERSYARATAN PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nBank Indonesia adalah Bank Sentral Republik Indonesia \nsebagaimana dimaksud dalam Undang-Undang Dasar \nNegara Republik Indonesia Tahun 1945. \n2. \nOtoritas Jasa Keuangan yang selanjutnya disingkat OJK \nadalah lembaga negara yang independen yang mempunyai \nfungsi, tugas, dan wewenang pengaturan, pengawasan, \npemeriksaan, dan penyidikan sebagaimana dimaksud \ndalam Undang-Undang mengenai Otoritas Jasa Keuangan. \n3. \nBank adalah badan usaha yang menghimpun dana dari \nmasyarakat dalam bentuk simpanan dan menyalurkannya \nkepada masyarakat dalam bentuk kredit atau pembiayaan \ndan/atau bentuk lainnya dalam rangka meningkatkan \ntaraf hidup rakyat. \n4. \nBank Konvensional adalah Bank yang menjalankan \nkegiatan usaha secara konvensional dan berdasarkan \njenisnya terdiri atas Bank umum konvensional dan bank \nperekonomian rakyat. \n5. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah jenis dari Bank Konvensional yang dalam \nkegiatannya \nmemberikan \njasa \ndalam \nlalu \nlintas \npembayaran, tidak termasuk kantor cabang dari Bank \nyang berkedudukan di luar negeri. \n6. \nPrinsip Syariah adalah prinsip hukum Islam berdasarkan \nfatwa dan/atau pernyataan kesesuaian syariah yang \ndikeluarkan oleh lembaga yang memiliki kewenangan \ndalam penetapan fatwa di bidang syariah. \n7. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \n\n\n \n \nmelaksanakan \nkegiatan \nusaha \nberdasarkan \nPrinsip \nSyariah, atau unit kerja di kantor cabang dari suatu Bank \nyang berkedudukan di luar negeri yang melaksanakan \nkegiatan usaha secara konvensional yang berfungsi \nsebagai kantor induk dari kantor cabang pembantu \nsyariah dan/atau unit syariah. \n8. \nGiro Wajib Minimum yang selanjutnya disingkat GWM \nadalah giro wajib minimum dalam rupiah sebagaimana \ndimaksud dalam ketentuan Peraturan Bank Indonesia \nmengenai giro wajib minimum dalam rupiah dan valuta \nasing bagi BUK, bank umum syariah, dan UUS. \n9. \nKesulitan Likuiditas adalah kesulitan likuiditas jangka \npendek yang disebabkan oleh arus dana masuk yang lebih \nkecil dibandingkan arus dana keluar (mismatch) sehingga \nBUK tidak dapat memenuhi kewajiban GWM. \n10. Pinjaman Likuiditas Jangka Pendek yang selanjutnya \ndisingkat PLJP adalah pinjaman dari Bank Indonesia \nkepada BUK untuk mengatasi Kesulitan Likuiditas yang \ndialami oleh BUK. \n11. Sertifikat Bank Indonesia yang selanjutnya disingkat SBI \nadalah Sertifikat Bank Indonesia sebagaimana dimaksud \ndalam ketentuan Peraturan Bank Indonesia mengenai \noperasi moneter. \n12. Sertifikat Bank Indonesia Syariah yang selanjutnya \ndisingkat SBIS adalah Sertifikat Bank Indonesia Syariah \nsebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \n13. Sertifikat Deposito Bank Indonesia yang selanjutnya \ndisingkat SDBI adalah Sertifikat Deposito Bank Indonesia \nsebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \n14. Sukuk Bank Indonesia yang selanjutnya disebut SukBI \nadalah Sukuk Bank Indonesia sebagaimana dimaksud \ndalam ketentuan Peraturan Bank Indonesia mengenai \noperasi moneter. \n15. Surat Utang Negara yang selanjutnya disingkat SUN \nadalah surat berharga yang berupa surat pengakuan \nutang yang dijamin pembayaran bunga dan pokoknya oleh \nNegara \nRepublik \nIndonesia, \nsesuai \ndengan \nmasa \nberlakunya, tidak termasuk SUN dalam mata uang valuta \nasing. \n16. Surat Berharga Syariah Negara selanjutnya disingkat \nSBSN, atau dapat disebut Sukuk Negara, adalah surat \nberharga negara yang diterbitkan berdasarkan Prinsip \nSyariah, sebagai bukti atas bagian penyertaan terhadap \naset SBSN tidak termasuk SBSN dalam mata uang valuta \nasing. \n17. Surat Berharga Negara yang selanjutnya disingkat SBN \nadalah SUN dan SBSN. \n18. Kredit adalah penyediaan dana atau tagihan yang dapat \ndipersamakan dengan itu, berdasarkan persetujuan atau \nkesepakatan pinjam-meminjam antara BUK dan pihak \nlain yang mewajibkan pihak peminjam untuk melunasi \nutangnya \nsetelah \njangka \nwaktu \ntertentu \ndengan \npemberian bunga. \n\n\n \n \n19. Aset Kredit adalah aset BUK berupa Kredit, tidak termasuk \nKredit dalam mata uang valuta asing. \n20. Pembiayaan adalah penyediaan dana atau tagihan yang \ndapat dipersamakan dengan itu berdasarkan persetujuan \natau kesepakatan antara UUS dan pihak lain yang \nmewajibkan pihak yang dibiayai dan/atau diberi fasilitas \ndana untuk mengembalikan dana tersebut setelah jangka \nwaktu tertentu dengan imbalan ujrah, tanpa imbalan, atau \nbagi hasil, yang meliputi transaksi bagi hasil, transaksi \nsewa-menyewa, transaksi jual beli, transaksi pinjam- \nmeminjam, dan transaksi sewa-menyewa jasa sesuai \ndengan Prinsip Syariah. \n21. Aset Pembiayaan adalah aset UUS berupa Pembiayaan, \ntidak termasuk Pembiayaan dalam mata uang valuta \nasing. \n \nBAB II \nPERSYARATAN PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) BUK \nyang \nmengalami \nKesulitan \nLikuiditas \ndapat \nmengajukan permohonan secara tertulis kepada Bank \nIndonesia untuk memperoleh PLJP dengan menyampaikan \ntembusan permohonan kepada OJK. \n(2) Untuk memperoleh PLJP sebagaimana dimaksud pada \nayat (1), BUK harus memenuhi persyaratan: \na. \nsolvabilitas; \nb. \nmemiliki agunan yang cukup sebagai jaminan PLJP; \ndan \nc. \nmemiliki proyeksi arus kas yang memadai untuk \nmengembalikan PLJP. \n(3) BUK mengajukan plafon PLJP berdasarkan perkiraan \njumlah \nkebutuhan \nlikuiditas \nsampai \ndengan \nBUK \nmemenuhi GWM. \n(4) Ketentuan lebih lanjut mengenai persyaratan BUK untuk \nmemperoleh PLJP diatur dalam Peraturan Anggota Dewan \nGubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK \nyang \nmengalami \nKesulitan \nLikuiditas \ndapat \nmengajukan permohonan secara tertulis kepada Bank \nIndonesia untuk memperoleh PLJP dengan menyampaikan \ntembusan permohonan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk memperoleh PLJP sebagaimana dimaksud pada \nayat (1), BUK harus memenuhi persyaratan: \na. \nsolvabilitas; \nb. \nmemiliki agunan yang cukup sebagai jaminan PLJP; \ndan \nc. \nmemiliki proyeksi arus kas yang memadai untuk \nmengembalikan PLJP."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUK mengajukan plafon PLJP berdasarkan perkiraan \njumlah \nkebutuhan \nlikuiditas \nsampai \ndengan \nBUK \nmemenuhi GWM."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai persyaratan BUK untuk \nmemperoleh PLJP diatur dalam Peraturan Anggota Dewan \nGubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) \nAgunan yang cukup sebagai jaminan PLJP sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b berupa: \na. \nsurat berharga yang memiliki peringkat tinggi; \nb. \nsurat berharga syariah yang memiliki peringkat tinggi \nyang dicatat dalam pembukuan UUS; \nc. \nAset Kredit; \nd. \nAset Pembiayaan yang dicatat dalam pembukuan \nUUS; dan \ne. \naset tetap.  \n(2) \nJenis surat berharga sebagaimana dimaksud pada ayat (1) \nhuruf a berupa: \na. \nSBI; \nb. \nSDBI; \nc. \nSukBI; \nd. \nSBN; dan \n \n\n\n \n \ne. \nsurat berharga yang diterbitkan oleh badan hukum \nlain yang memenuhi persyaratan: \n1. \nmemiliki peringkat paling rendah peringkat \ninvestasi; \n2. \naktif diperdagangkan; dan \n3. \nmemiliki sisa jangka waktu yang ditetapkan oleh \nBank Indonesia. \n(3) \nJenis surat berharga sebagaimana dimaksud pada ayat (1) \nhuruf b berupa: \na. \nSBIS; \nb. \nSukBI; \nc. \nSBSN; dan \nd. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain yang memenuhi persyaratan: \n1. \nmemiliki peringkat paling rendah peringkat \ninvestasi; \n2. \naktif diperdagangkan; dan \n3. \nmemiliki sisa jangka waktu yang ditetapkan oleh \nBank Indonesia. \n(4) \nAset Kredit sebagaimana dimaksud pada ayat (1) huruf c \ndan/atau Aset Pembiayaan sebagaimana dimaksud pada \nayat (1) huruf d harus memenuhi persyaratan: \na. \nkualitas tergolong lancar selama 12 (dua belas) bulan \nterakhir berturut-turut; \nb. \ndijamin dengan agunan tanah dan bangunan \ndan/atau \ntanah, \nkecuali \nKredit \npegawai \natau \npensiunan dan/atau Pembiayaan pegawai atau \npensiunan; \nc. \nbukan merupakan Kredit dan/atau Pembiayaan \nkepada pihak terkait BUK; \nd. \ntidak pernah direstrukturisasi dalam waktu 2 (dua) \ntahun terakhir; \ne. \nsisa jangka waktu jatuh waktu Kredit dan/atau \nPembiayaan paling singkat 9 (sembilan) bulan sejak \ntanggal \npenandatanganan \nperjanjian \npemberian \nPLJP; \nf. \nbaki debit Kredit atau saldo pokok Pembiayaan tidak \nmelebihi batas maksimum pemberian Kredit atau \npenyaluran dana pada saat diberikan dan tidak \nmelebihi plafon Kredit atau Pembiayaan; \ng. \nmemiliki \nperjanjian \nKredit \ndan/atau \nakad \nPembiayaan \nserta \npengikatan \nagunan \nyang \nmempunyai kekuatan hukum; dan  \nh. \ndalam perjanjian Kredit dan/atau akad Pembiayaan \nantara BUK dan debitur atau nasabah tercantum \nklausul bahwa Kredit dan/atau Pembiayaan dapat \ndialihkan kepada pihak lain. \n(5) \nDalam hal Aset Kredit dan/atau Aset Pembiayaan yang \nmemenuhi persyaratan tidak pernah direstrukturisasi \nsebagaimana dimaksud pada ayat (4) huruf d tidak \nmencukupi, \nBUK \ndapat menggunakan Aset Kredit  \n \n \n \n\n\n \n \ndan/atau Aset Pembiayaan yang direstrukturisasi selama \nperiode stimulus corona virus disease 2019 sebagai \nagunan dengan ketentuan: \na. \nAset Kredit dan/atau Aset Pembiayaan tidak pernah \ndirestrukturisasi dalam 2 (dua) tahun terakhir di luar \nperiode stimulus corona virus disease 2019; dan \nb. \npersyaratan Aset Kredit dan/atau Aset Pembiayaan \nlain \nsebagaimana \ndimaksud \npada \nayat \n(4)                   \nhuruf a, huruf b, huruf c, huruf e, huruf f, huruf g, \ndan huruf h telah terpenuhi. \n(6) \nAset tetap sebagaimana dimaksud pada ayat (1) huruf e \nharus memenuhi persyaratan: \na. \njenis aset tetap berupa: \n1. \ntanah dan bangunan; dan/atau \n2. \ntanah; \nb. \ndimiliki oleh BUK; dan \nc. \nbukan merupakan properti terbengkalai.   \n(7) \nSurat berharga sebagaimana dimaksud pada ayat (2)  \nhuruf e dan ayat (3) huruf d hanya dapat digunakan \nsebagai agunan PLJP jika BUK tidak memiliki surat \nberharga sebagaimana dimaksud pada ayat (2) huruf a \nsampai dengan huruf d serta ayat (3) huruf a sampai \ndengan huruf c dalam jumlah yang cukup untuk menjadi \nagunan PLJP pada saat permohonan PLJP. \n(8) \nAset Kredit dan/atau Aset Pembiayaan sebagaimana \ndimaksud pada ayat (4) dan ayat (5) hanya dapat \ndigunakan sebagai agunan PLJP jika BUK tidak memiliki \nsurat berharga sebagaimana dimaksud pada ayat (2) dan \nayat (3) yang memenuhi persyaratan agunan PLJP dalam \njumlah yang cukup untuk menjadi agunan PLJP pada saat \npermohonan PLJP. \n(9) \nAset tetap sebagaimana dimaksud pada ayat (6) hanya \ndapat digunakan sebagai agunan PLJP jika BUK tidak \nmemiliki surat berharga sebagaimana dimaksud pada ayat \n(2) dan ayat (3) serta Aset Kredit dan/atau Aset \nPembiayaan sebagaimana dimaksud pada ayat (4) dan \nayat (5) yang memenuhi persyaratan agunan PLJP dalam \njumlah yang cukup pada saat permohonan PLJP. \n(10) Agunan PLJP sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung. \n(11) BUK menjamin agunan PLJP sebagaimana dimaksud pada \nayat (1) telah memenuhi persyaratan agunan PLJP. \n(12) Ketentuan \nlebih \nlanjut \nmengenai \nkriteria \nagunan, \nmekanisme pengagunan, jenis akad Pembiayaan yang \ndapat diagunkan, dan dokumen agunan diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agunan yang cukup sebagai jaminan PLJP sebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b berupa: \na. \nsurat berharga yang memiliki peringkat tinggi; \nb. \nsurat berharga syariah yang memiliki peringkat tinggi \nyang dicatat dalam pembukuan UUS; \nc. \nAset Kredit; \nd. \nAset Pembiayaan yang dicatat dalam pembukuan \nUUS; dan \ne. \naset tetap."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jenis surat berharga sebagaimana dimaksud pada ayat (1) \nhuruf a berupa: \na. \nSBI; \nb. \nSDBI; \nc. \nSukBI; \nd. \nSBN; dan \n \n\n\n \n \ne. \nsurat berharga yang diterbitkan oleh badan hukum \nlain yang memenuhi persyaratan: \n1. \nmemiliki peringkat paling rendah peringkat \ninvestasi; \n2. \naktif diperdagangkan; dan \n3. \nmemiliki sisa jangka waktu yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jenis surat berharga sebagaimana dimaksud pada ayat (1) \nhuruf b berupa: \na. \nSBIS; \nb. \nSukBI; \nc. \nSBSN; dan \nd. \nsukuk korporasi yang diterbitkan oleh badan hukum \nlain yang memenuhi persyaratan: \n1. \nmemiliki peringkat paling rendah peringkat \ninvestasi; \n2. \naktif diperdagangkan; dan \n3. \nmemiliki sisa jangka waktu yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Aset Kredit sebagaimana dimaksud pada ayat (1) huruf c \ndan/atau Aset Pembiayaan sebagaimana dimaksud pada \nayat (1) huruf d harus memenuhi persyaratan: \na. \nkualitas tergolong lancar selama 12 (dua belas) bulan \nterakhir berturut-turut; \nb. \ndijamin dengan agunan tanah dan bangunan \ndan/atau \ntanah, \nkecuali \nKredit \npegawai \natau \npensiunan dan/atau Pembiayaan pegawai atau \npensiunan; \nc. \nbukan merupakan Kredit dan/atau Pembiayaan \nkepada pihak terkait BUK; \nd. \ntidak pernah direstrukturisasi dalam waktu 2 (dua) \ntahun terakhir; \ne. \nsisa jangka waktu jatuh waktu Kredit dan/atau \nPembiayaan paling singkat 9 (sembilan) bulan sejak \ntanggal \npenandatanganan \nperjanjian \npemberian \nPLJP; \nf. \nbaki debit Kredit atau saldo pokok Pembiayaan tidak \nmelebihi batas maksimum pemberian Kredit atau \npenyaluran dana pada saat diberikan dan tidak \nmelebihi plafon Kredit atau Pembiayaan; \ng. \nmemiliki \nperjanjian \nKredit \ndan/atau \nakad \nPembiayaan \nserta \npengikatan \nagunan \nyang \nmempunyai kekuatan hukum; dan  \nh. \ndalam perjanjian Kredit dan/atau akad Pembiayaan \nantara BUK dan debitur atau nasabah tercantum \nklausul bahwa Kredit dan/atau Pembiayaan dapat \ndialihkan kepada pihak lain."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Aset Kredit dan/atau Aset Pembiayaan yang \nmemenuhi persyaratan tidak pernah direstrukturisasi \nsebagaimana dimaksud pada ayat (4) huruf d tidak \nmencukupi, \nBUK \ndapat menggunakan Aset Kredit  \n \n \n \n\n\n \n \ndan/atau Aset Pembiayaan yang direstrukturisasi selama \nperiode stimulus corona virus disease 2019 sebagai \nagunan dengan ketentuan: \na. \nAset Kredit dan/atau Aset Pembiayaan tidak pernah \ndirestrukturisasi dalam 2 (dua) tahun terakhir di luar \nperiode stimulus corona virus disease 2019; dan \nb. \npersyaratan Aset Kredit dan/atau Aset Pembiayaan \nlain \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "huruf a, huruf b, huruf c, huruf e, huruf f, huruf g, \ndan huruf h telah terpenuhi."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Aset tetap sebagaimana dimaksud pada ayat (1) huruf e \nharus memenuhi persyaratan: \na. \njenis aset tetap berupa: \n1. \ntanah dan bangunan; dan/atau \n2. \ntanah; \nb. \ndimiliki oleh BUK; dan \nc. \nbukan merupakan properti terbengkalai."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Surat berharga sebagaimana dimaksud pada ayat (2)  \nhuruf e dan ayat (3) huruf d hanya dapat digunakan \nsebagai agunan PLJP jika BUK tidak memiliki surat \nberharga sebagaimana dimaksud pada ayat (2) huruf a \nsampai dengan huruf d serta ayat (3) huruf a sampai \ndengan huruf c dalam jumlah yang cukup untuk menjadi \nagunan PLJP pada saat permohonan PLJP."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Aset Kredit dan/atau Aset Pembiayaan sebagaimana \ndimaksud pada ayat (4) dan ayat (5) hanya dapat \ndigunakan sebagai agunan PLJP jika BUK tidak memiliki \nsurat berharga sebagaimana dimaksud pada ayat (2) dan \nayat (3) yang memenuhi persyaratan agunan PLJP dalam \njumlah yang cukup untuk menjadi agunan PLJP pada saat \npermohonan PLJP."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Aset tetap sebagaimana dimaksud pada ayat (6) hanya \ndapat digunakan sebagai agunan PLJP jika BUK tidak \nmemiliki surat berharga sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dan ayat (3) serta Aset Kredit dan/atau Aset \nPembiayaan sebagaimana dimaksud pada ayat (4) dan \nayat (5) yang memenuhi persyaratan agunan PLJP dalam \njumlah yang cukup pada saat permohonan PLJP."
+        },
+        {
+          "ayat_nomor": "(10)",
+          "teks": "Agunan PLJP sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(11)",
+          "teks": "BUK menjamin agunan PLJP sebagaimana dimaksud pada \nayat (1) telah memenuhi persyaratan agunan PLJP."
+        },
+        {
+          "ayat_nomor": "(12)",
+          "teks": "Ketentuan \nlebih \nlanjut \nmengenai \nkriteria \nagunan, \nmekanisme pengagunan, jenis akad Pembiayaan yang \ndapat diagunkan, dan dokumen agunan diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia dapat meminta BUK untuk menyerahkan \nagunan lain dengan kondisi agunan PLJP yang telah \nditerima oleh Bank Indonesia pada periode pemberian \nPLJP \nmengalami \npenurunan \nnilai \nsehingga \ntidak \nmemenuhi kecukupan perhitungan nilai agunan yang \ndibutuhkan dan BUK tidak dapat mengganti atau \n\n\n \n \nmenambah agunan sebagaimana dimaksud dalam Pasal 3 \nayat (1) sampai dengan ayat (6).  \n(2) \nAgunan lain sebagaimana dimaksud pada ayat (1) berupa: \na. \ntanah dan bangunan dan/atau tanah milik pihak \nlain; dan/atau \nb. \naset lain milik BUK dan/atau pihak lain yang \nditentukan oleh Bank Indonesia. \n(3) \nAgunan lain sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung. \n(4) \nKetentuan lebih lanjut mengenai agunan lain diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat meminta BUK untuk menyerahkan \nagunan lain dengan kondisi agunan PLJP yang telah \nditerima oleh Bank Indonesia pada periode pemberian \nPLJP \nmengalami \npenurunan \nnilai \nsehingga \ntidak \nmemenuhi kecukupan perhitungan nilai agunan yang \ndibutuhkan dan BUK tidak dapat mengganti atau \n\n\n \n \nmenambah agunan sebagaimana dimaksud dalam Pasal 3 \nayat (1) sampai dengan ayat (6)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Agunan lain sebagaimana dimaksud pada ayat (1) berupa: \na. \ntanah dan bangunan dan/atau tanah milik pihak \nlain; dan/atau \nb. \naset lain milik BUK dan/atau pihak lain yang \nditentukan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Agunan lain sebagaimana dimaksud pada ayat (1) harus \ndilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai agunan lain diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) \nAgunan PLJP sebagaimana dimaksud dalam Pasal 3 dan \nPasal 4 harus berada dalam kondisi bebas dari segala \nperikatan, sengketa, sitaan, dan tidak sedang dijaminkan \nkepada pihak lain dan/atau Bank Indonesia. \n(2) \nBUK \ntidak \ndapat \nmemperjualbelikan \ndan/atau \nmenjaminkan \nkembali \nagunan \nPLJP \nsebagaimana \ndimaksud dalam Pasal 3 dan Pasal 4 yang masih dalam \nstatus sebagai agunan PLJP.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agunan PLJP sebagaimana dimaksud dalam Pasal 3 dan \nPasal 4 harus berada dalam kondisi bebas dari segala \nperikatan, sengketa, sitaan, dan tidak sedang dijaminkan \nkepada pihak lain dan/atau Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUK \ntidak \ndapat \nmemperjualbelikan \ndan/atau \nmenjaminkan \nkembali \nagunan \nPLJP \nsebagaimana \ndimaksud dalam Pasal 3 dan Pasal 4 yang masih dalam \nstatus sebagai agunan PLJP."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) \nNilai surat berharga, Aset Kredit, Aset Pembiayaan, dan \naset tetap yang digunakan sebagai agunan PLJP \nditetapkan: \na. \nSBI dihitung berdasarkan nilai jual SBI; \nb. \nSBIS dihitung berdasarkan nilai nominal SBIS; \nc. \nSDBI dihitung berdasarkan nilai jual SDBI; \nd. \nSukBI dihitung berdasarkan nilai jual SukBI; \ne. \nSBN dihitung berdasarkan nilai pasar SUN dan/atau \nnilai pasar SBSN; \nf. \nsurat berharga yang diterbitkan oleh badan hukum \nlain dihitung berdasarkan nilai pasar surat berharga \ndimaksud; \ng. \nAset \nKredit \natau \nAset \nPembiayaan \ndihitung \nberdasarkan nilai pasar Aset Kredit atau Aset \nPembiayaan; dan \nh. \naset tetap dihitung berdasarkan nilai pasar aset tetap.  \n(2) \nUntuk mitigasi risiko penurunan nilai surat berharga, Aset \nKredit, Aset Pembiayaan, dan aset tetap sebagaimana \ndimaksud pada ayat (1) maka Bank Indonesia melakukan \nperhitungan: \na. \nnilai agunan berupa SBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan nilai jual SBI sebagaimana dimaksud \npada ayat (1) huruf a; \nb. \nnilai agunan berupa SBIS ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan \nnilai \nnominal \nSBIS \nsebagaimana \ndimaksud pada ayat (1) huruf b; \nc. \nnilai agunan berupa SDBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan nilai jual SDBI sebagaimana dimaksud \npada ayat (1) huruf c; \n\n\n \n \nd. \nnilai agunan berupa SukBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan nilai jual SukBI sebagaimana dimaksud \npada ayat (1) huruf d; \ne. \nnilai agunan berupa SBN ditetapkan paling rendah \nsebesar 102% (seratus dua persen) dari plafon PLJP \nyang \ndihitung \nberdasarkan \nnilai \npasar \nSBN \nsebagaimana dimaksud pada ayat (1) huruf e; \nf. \nnilai agunan berupa surat berharga yang diterbitkan \noleh badan hukum lain ditetapkan paling rendah \nsebesar 120% (seratus dua puluh persen) dari plafon \nPLJP yang dihitung berdasarkan nilai pasar surat \nberharga sebagaimana dimaksud pada ayat (1)                 \nhuruf f; \ng. \nnilai \nagunan \nberupa \nAset \nKredit \natau \nAset \nPembiayaan ditetapkan: \n1. \npaling rendah sebesar 200% (dua ratus persen) \ndari plafon PLJP yang dijamin dengan Aset Kredit \natau Aset Pembiayaan sebagaimana dimaksud \ndalam Pasal 3 ayat (4) yang dihitung dengan \nmenggunakan nilai dasar perhitungan Aset \nKredit atau Aset Pembiayaan; dan \n2. \npaling rendah sebesar 250% (dua ratus lima \npuluh persen) dari plafon PLJP yang dijamin \ndengan Aset Kredit atau Aset Pembiayaan \nsebagaimana dimaksud dalam Pasal 3 ayat (5) \nyang dihitung dengan menggunakan nilai dasar \nperhitungan Aset Kredit atau Aset Pembiayaan; \nh. \nnilai dasar perhitungan Aset Kredit atau Aset \nPembiayaan sebagaimana dimaksud dalam huruf g \nmeliputi: \n1. \nnilai terendah dari: \na) \nnilai \npasar \nAset \nKredit \natau \nAset \nPembiayaan; atau  \nb) \nnilai pasar agunan dari Aset Kredit atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan dan/atau tanah yang telah \ndisesuaikan berdasarkan posisi penilaian, \nuntuk setiap individual Aset Kredit dan/atau \nAset Pembiayaan yang dijamin dengan tanah dan \nbangunan dan/atau tanah; dan \n2. \nnilai pasar Aset Kredit atau Aset Pembiayaan \nuntuk Aset Kredit atau Aset Pembiayaan berupa \nAset Kredit pegawai atau pensiunan dan/atau \nAset Pembiayaan pegawai atau pensiunan; dan \ni. \nnilai agunan berupa aset tetap ditetapkan paling \nrendah sebesar 200% (dua ratus persen) dari plafon \nPLJP yang dihitung berdasarkan nilai pasar aset tetap \nsebagaimana dimaksud pada ayat (1) huruf h. \n(3) \nKetentuan lebih lanjut mengenai nilai agunan dan tata \ncara perhitungan nilai agunan diatur dalam Peraturan \nAnggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nilai surat berharga, Aset Kredit, Aset Pembiayaan, dan \naset tetap yang digunakan sebagai agunan PLJP \nditetapkan: \na. \nSBI dihitung berdasarkan nilai jual SBI; \nb. \nSBIS dihitung berdasarkan nilai nominal SBIS; \nc. \nSDBI dihitung berdasarkan nilai jual SDBI; \nd. \nSukBI dihitung berdasarkan nilai jual SukBI; \ne. \nSBN dihitung berdasarkan nilai pasar SUN dan/atau \nnilai pasar SBSN; \nf. \nsurat berharga yang diterbitkan oleh badan hukum \nlain dihitung berdasarkan nilai pasar surat berharga \ndimaksud; \ng. \nAset \nKredit \natau \nAset \nPembiayaan \ndihitung \nberdasarkan nilai pasar Aset Kredit atau Aset \nPembiayaan; dan \nh. \naset tetap dihitung berdasarkan nilai pasar aset tetap."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk mitigasi risiko penurunan nilai surat berharga, Aset \nKredit, Aset Pembiayaan, dan aset tetap sebagaimana \ndimaksud pada ayat (1) maka Bank Indonesia melakukan \nperhitungan: \na. \nnilai agunan berupa SBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan nilai jual SBI sebagaimana dimaksud \npada ayat (1) huruf a; \nb. \nnilai agunan berupa SBIS ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan \nnilai \nnominal \nSBIS \nsebagaimana \ndimaksud pada ayat (1) huruf b; \nc. \nnilai agunan berupa SDBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan nilai jual SDBI sebagaimana dimaksud \npada ayat (1) huruf c; \n\n\n \n \nd. \nnilai agunan berupa SukBI ditetapkan sebesar 100% \n(seratus persen) dari plafon PLJP yang dihitung \nberdasarkan nilai jual SukBI sebagaimana dimaksud \npada ayat (1) huruf d; \ne. \nnilai agunan berupa SBN ditetapkan paling rendah \nsebesar 102% (seratus dua persen) dari plafon PLJP \nyang \ndihitung \nberdasarkan \nnilai \npasar \nSBN \nsebagaimana dimaksud pada ayat (1) huruf e; \nf. \nnilai agunan berupa surat berharga yang diterbitkan \noleh badan hukum lain ditetapkan paling rendah \nsebesar 120% (seratus dua puluh persen) dari plafon \nPLJP yang dihitung berdasarkan nilai pasar surat \nberharga sebagaimana dimaksud pada ayat (1)                 \nhuruf f; \ng. \nnilai \nagunan \nberupa \nAset \nKredit \natau \nAset \nPembiayaan ditetapkan: \n1. \npaling rendah sebesar 200% (dua ratus persen) \ndari plafon PLJP yang dijamin dengan Aset Kredit \natau Aset Pembiayaan sebagaimana dimaksud \ndalam Pasal 3 ayat (4) yang dihitung dengan \nmenggunakan nilai dasar perhitungan Aset \nKredit atau Aset Pembiayaan; dan \n2. \npaling rendah sebesar 250% (dua ratus lima \npuluh persen) dari plafon PLJP yang dijamin \ndengan Aset Kredit atau Aset Pembiayaan \nsebagaimana dimaksud dalam Pasal 3 ayat (5) \nyang dihitung dengan menggunakan nilai dasar \nperhitungan Aset Kredit atau Aset Pembiayaan; \nh. \nnilai dasar perhitungan Aset Kredit atau Aset \nPembiayaan sebagaimana dimaksud dalam huruf g \nmeliputi: \n1. \nnilai terendah dari: \na) \nnilai \npasar \nAset \nKredit \natau \nAset \nPembiayaan; atau  \nb) \nnilai pasar agunan dari Aset Kredit atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan dan/atau tanah yang telah \ndisesuaikan berdasarkan posisi penilaian, \nuntuk setiap individual Aset Kredit dan/atau \nAset Pembiayaan yang dijamin dengan tanah dan \nbangunan dan/atau tanah; dan \n2. \nnilai pasar Aset Kredit atau Aset Pembiayaan \nuntuk Aset Kredit atau Aset Pembiayaan berupa \nAset Kredit pegawai atau pensiunan dan/atau \nAset Pembiayaan pegawai atau pensiunan; dan \ni. \nnilai agunan berupa aset tetap ditetapkan paling \nrendah sebesar 200% (dua ratus persen) dari plafon \nPLJP yang dihitung berdasarkan nilai pasar aset tetap \nsebagaimana dimaksud pada ayat (1) huruf h."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai nilai agunan dan tata \ncara perhitungan nilai agunan diatur dalam Peraturan \nAnggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) \nBUK harus mengganti agunan PLJP dengan ketentuan: \na. \nagunan PLJP tidak memenuhi kondisi sebagaimana \ndimaksud dalam Pasal 5;  \nb. \nsurat berharga yang diterbitkan oleh badan hukum \nlain tidak lagi memenuhi persyaratan peringkat \nsebagaimana dimaksud dalam Pasal 3 ayat (2)                 \nhuruf e angka 1 dan ayat (3) huruf d angka 1; \nc. \nterdapat pelunasan Kredit dan/atau Pembiayaan \nyang menjadi agunan PLJP oleh debitur BUK atau \nnasabah UUS; dan/atau  \nd. \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nyang \ndiagunkan tidak lagi memenuhi persyaratan kualitas \nsebagaimana dimaksud dalam Pasal 3 ayat (4)                \nhuruf a, \nsehingga nilai agunan PLJP mengalami penurunan dan \nsecara keseluruhan tidak lagi memenuhi plafon PLJP. \n(2) \nPenggantian agunan PLJP diprioritaskan dengan agunan \nberupa surat berharga sebagaimana dimaksud dalam             \nPasal 3 ayat (2) dan ayat (3). \n(3) \nDalam hal BUK tidak memiliki surat berharga yang \nmemenuhi persyaratan agunan PLJP dalam jumlah yang \ncukup untuk menjadi agunan PLJP, Aset Kredit dan/atau \nAset Pembiayaan sebagaimana dimaksud dalam Pasal 3 \nayat (4) dan ayat (5) dapat digunakan sebagai pengganti \nagunan PLJP. \n(4) \nDalam hal BUK tidak memiliki surat berharga, Aset Kredit, \ndan/atau Aset Pembiayaan yang memenuhi persyaratan \nagunan PLJP dalam jumlah yang cukup untuk menjadi \nagunan PLJP, aset tetap sebagaimana dimaksud dalam \nPasal 3 ayat (6) dapat digunakan sebagai pengganti agunan \nPLJP.  \n(5) \nSelama Bank Indonesia memproses penggantian agunan \nPLJP sebagaimana dimaksud pada ayat (1), pada periode \npemberian PLJP, BUK tetap dapat mengajukan pencairan \nPLJP sepanjang terdapat plafon atau sisa plafon dan \nagunan PLJP yang mencukupi. \n(6) \nKetentuan lebih lanjut mengenai tata cara penggantian \nagunan PLJP diatur dalam Peraturan Anggota Dewan \nGubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK harus mengganti agunan PLJP dengan ketentuan: \na. \nagunan PLJP tidak memenuhi kondisi sebagaimana \ndimaksud dalam Pasal 5;  \nb. \nsurat berharga yang diterbitkan oleh badan hukum \nlain tidak lagi memenuhi persyaratan peringkat \nsebagaimana dimaksud dalam Pasal 3 ayat (2)                 \nhuruf e angka 1 dan ayat (3) huruf d angka 1; \nc. \nterdapat pelunasan Kredit dan/atau Pembiayaan \nyang menjadi agunan PLJP oleh debitur BUK atau \nnasabah UUS; dan/atau  \nd. \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nyang \ndiagunkan tidak lagi memenuhi persyaratan kualitas \nsebagaimana dimaksud dalam Pasal 3 ayat (4)                \nhuruf a, \nsehingga nilai agunan PLJP mengalami penurunan dan \nsecara keseluruhan tidak lagi memenuhi plafon PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penggantian agunan PLJP diprioritaskan dengan agunan \nberupa surat berharga sebagaimana dimaksud dalam             \nPasal 3 ayat (2) dan ayat (3)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal BUK tidak memiliki surat berharga yang \nmemenuhi persyaratan agunan PLJP dalam jumlah yang \ncukup untuk menjadi agunan PLJP, Aset Kredit dan/atau \nAset Pembiayaan sebagaimana dimaksud dalam Pasal 3 \nayat (4) dan ayat (5) dapat digunakan sebagai pengganti \nagunan PLJP."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BUK tidak memiliki surat berharga, Aset Kredit, \ndan/atau Aset Pembiayaan yang memenuhi persyaratan \nagunan PLJP dalam jumlah yang cukup untuk menjadi \nagunan PLJP, aset tetap sebagaimana dimaksud dalam \nPasal 3 ayat (6) dapat digunakan sebagai pengganti agunan \nPLJP."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Selama Bank Indonesia memproses penggantian agunan \nPLJP sebagaimana dimaksud pada ayat (1), pada periode \npemberian PLJP, BUK tetap dapat mengajukan pencairan \nPLJP sepanjang terdapat plafon atau sisa plafon dan \nagunan PLJP yang mencukupi."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara penggantian \nagunan PLJP diatur dalam Peraturan Anggota Dewan \nGubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) BUK harus melakukan pemeliharaan dan penatausahaan \nterhadap daftar agunan yang memenuhi persyaratan dan \ndialokasikan untuk menjadi agunan PLJP. \n(2) BUK harus melakukan asesmen mandiri atas pemenuhan \npersyaratan sebelum mengajukan permohonan PLJP. \n(3) Ketentuan mengenai pelaksanaan asesmen mandiri diatur \ndalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK harus melakukan pemeliharaan dan penatausahaan \nterhadap daftar agunan yang memenuhi persyaratan dan \ndialokasikan untuk menjadi agunan PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUK harus melakukan asesmen mandiri atas pemenuhan \npersyaratan sebelum mengajukan permohonan PLJP."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai pelaksanaan asesmen mandiri diatur \ndalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERSYARATAN PLJP",
+      "teks_lengkap": "(1) Pengikatan agunan PLJP dilakukan sesuai dengan \nketentuan peraturan perundangan-undangan. \n(2) Bank Indonesia menatausahakan dokumen yang terkait \nagunan PLJP. \n\n\n \n \n(3) Ketentuan lebih lanjut mengenai pengikatan agunan \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB III \nPERMOHONAN PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengikatan agunan PLJP dilakukan sesuai dengan \nketentuan peraturan perundangan-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia menatausahakan dokumen yang terkait \nagunan PLJP."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai pengikatan agunan \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB III \nPERMOHONAN PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERMOHONAN PLJP",
+      "teks_lengkap": "(1) \nPermohonan PLJP secara tertulis sebagaimana dimaksud \ndalam Pasal 2 ayat (1) harus dilengkapi dengan dokumen \nyang meliputi: \na. \nsurat pernyataan BUK yang memuat paling sedikit: \n1. \nBUK mengalami Kesulitan Likuiditas; \n2. \nBUK menjamin agunan PLJP telah memenuhi \nseluruh persyaratan agunan PLJP sebagaimana \ndimaksud dalam Pasal 3 ayat (11); \n3. \naset yang menjadi agunan PLJP berada dalam \nkondisi bebas dari segala perikatan, sengketa, \nsitaan, dan tidak sedang dijaminkan kepada \npihak \nlain \ndan/atau \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 5 ayat (1); \n4. \nBUK tidak akan memperjualbelikan dan/atau \nmenjaminkan kembali agunan PLJP yang masih \ndalam status sebagai agunan PLJP sebagaimana \ndimaksud dalam Pasal 5 ayat (2); \n5. \nBUK sanggup untuk membayar segala kewajiban \nterkait PLJP;  \n6. \nBUK menjamin kebenaran data dan dokumen \nyang disampaikan; dan \n7. \nBUK sanggup untuk menyampaikan data dan \ndokumen lain yang diminta oleh Bank Indonesia; \nb. \nsurat pernyataan dari pemegang saham pengendali \nBUK bahwa pemegang saham pengendali BUK \nmenjamin pembayaran kembali PLJP serta sanggup \nuntuk \nmenerbitkan \njaminan \npribadi \ndan/atau \njaminan perusahaan yang disertai dengan daftar aset \npemegang saham pengendali; \nc. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nd. \ndaftar seluruh aset yang menjadi agunan PLJP \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \ne. \nhasil pemeringkatan obligasi korporasi dan/atau \nsukuk korporasi yang diterbitkan oleh paling sedikit \n1 (satu) lembaga pemeringkat yang diakui oleh OJK \njika terdapat agunan berupa obligasi korporasi \ndan/atau sukuk korporasi dan hasil pemeringkatan \ntersebut belum melebihi 1 (satu) tahun sampai \ndengan tanggal permohonan PLJP; \nf. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJP; dan \n2. \nagunan \ndari \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan \ndan/atau tanah jika terdapat agunan PLJP \nberupa Aset Kredit dan/atau Aset Pembiayaan \n\n\n \n \nyang dijamin dengan tanah dan bangunan \ndan/atau tanah; \ng. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJP; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJP; dan  \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJP; \nh. \nsurat persetujuan mengenai permohonan PLJP \ndan/atau penggunaan aset BUK sebagai agunan PLJP \ndari pihak yang memiliki kewenangan sesuai dengan \nanggaran dasar atau anggaran rumah tangga BUK \ndan ketentuan peraturan perundang-undangan; \ni. \nanggaran dasar atau anggaran rumah tangga BUK, \ntermasuk perubahannya; dan  \nj. \ndokumen lain yang diminta oleh Bank Indonesia. \n(2) \nBUK wajib menjamin kebenaran data dan dokumen yang \ndisampaikan \nkepada \nBank \nIndonesia \nsebagaimana \ndimaksud pada ayat (1). \n(3) \nBUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (2) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJP tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu. \n(4) \nKetentuan lebih lanjut mengenai tata cara permohonan \nPLJP, penilaian oleh kantor jasa penilai publik, verifikasi \noleh kantor akuntan publik, dan tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan PLJP secara tertulis sebagaimana dimaksud \ndalam Pasal 2 ayat (1) harus dilengkapi dengan dokumen \nyang meliputi: \na. \nsurat pernyataan BUK yang memuat paling sedikit: \n1. \nBUK mengalami Kesulitan Likuiditas; \n2. \nBUK menjamin agunan PLJP telah memenuhi \nseluruh persyaratan agunan PLJP sebagaimana \ndimaksud dalam Pasal 3 ayat (11); \n3. \naset yang menjadi agunan PLJP berada dalam \nkondisi bebas dari segala perikatan, sengketa, \nsitaan, dan tidak sedang dijaminkan kepada \npihak \nlain \ndan/atau \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 5 ayat (1); \n4. \nBUK tidak akan memperjualbelikan dan/atau \nmenjaminkan kembali agunan PLJP yang masih \ndalam status sebagai agunan PLJP sebagaimana \ndimaksud dalam Pasal 5 ayat (2); \n5. \nBUK sanggup untuk membayar segala kewajiban \nterkait PLJP;  \n6. \nBUK menjamin kebenaran data dan dokumen \nyang disampaikan; dan \n7. \nBUK sanggup untuk menyampaikan data dan \ndokumen lain yang diminta oleh Bank Indonesia; \nb. \nsurat pernyataan dari pemegang saham pengendali \nBUK bahwa pemegang saham pengendali BUK \nmenjamin pembayaran kembali PLJP serta sanggup \nuntuk \nmenerbitkan \njaminan \npribadi \ndan/atau \njaminan perusahaan yang disertai dengan daftar aset \npemegang saham pengendali; \nc. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nd. \ndaftar seluruh aset yang menjadi agunan PLJP \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan verifikasi dari kantor akuntan publik; \ne. \nhasil pemeringkatan obligasi korporasi dan/atau \nsukuk korporasi yang diterbitkan oleh paling sedikit \n1 (satu) lembaga pemeringkat yang diakui oleh OJK \njika terdapat agunan berupa obligasi korporasi \ndan/atau sukuk korporasi dan hasil pemeringkatan \ntersebut belum melebihi 1 (satu) tahun sampai \ndengan tanggal permohonan PLJP; \nf. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJP; dan \n2. \nagunan \ndari \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan \ndan/atau tanah jika terdapat agunan PLJP \nberupa Aset Kredit dan/atau Aset Pembiayaan \n\n\n \n \nyang dijamin dengan tanah dan bangunan \ndan/atau tanah; \ng. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJP; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJP; dan  \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJP; \nh. \nsurat persetujuan mengenai permohonan PLJP \ndan/atau penggunaan aset BUK sebagai agunan PLJP \ndari pihak yang memiliki kewenangan sesuai dengan \nanggaran dasar atau anggaran rumah tangga BUK \ndan ketentuan peraturan perundang-undangan; \ni. \nanggaran dasar atau anggaran rumah tangga BUK, \ntermasuk perubahannya; dan  \nj. \ndokumen lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUK wajib menjamin kebenaran data dan dokumen yang \ndisampaikan \nkepada \nBank \nIndonesia \nsebagaimana \ndimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (2) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJP tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara permohonan \nPLJP, penilaian oleh kantor jasa penilai publik, verifikasi \noleh kantor akuntan publik, dan tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERMOHONAN PLJP",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti \npermohonan \nPLJP \nsebagaimana \ndimaksud dalam Pasal 10 ayat (1). \n(2) \nKoordinasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan dalam menilai pemenuhan persyaratan PLJP \nsebagaimana dimaksud dalam Pasal 2 ayat (2). \n(3) \nKoordinasi antara Bank Indonesia dan OJK sebagaimana \ndimaksud pada ayat (2) paling sedikit mengenai: \na. \npermintaan \npenilaian \nkepada \nOJK \nmengenai \npemenuhan persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUK; dan  \nb. \npelaksanaan penilaian bersama Bank Indonesia dan \nOJK mengenai pemenuhan kecukupan agunan dan \nproyeksi arus kas BUK untuk mengembalikan PLJP. \n \nBAB IV \nPERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti \npermohonan \nPLJP \nsebagaimana \ndimaksud dalam Pasal 10 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan dalam menilai pemenuhan persyaratan PLJP \nsebagaimana dimaksud dalam Pasal 2 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Koordinasi antara Bank Indonesia dan OJK sebagaimana \ndimaksud pada ayat (2) paling sedikit mengenai: \na. \npermintaan \npenilaian \nkepada \nOJK \nmengenai \npemenuhan persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUK; dan  \nb. \npelaksanaan penilaian bersama Bank Indonesia dan \nOJK mengenai pemenuhan kecukupan agunan dan \nproyeksi arus kas BUK untuk mengembalikan PLJP. \n \nBAB IV \nPERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan persetujuan atau penolakan \natas permohonan PLJP sebagaimana dimaksud dalam \nPasal 10 ayat (1). \n \n\n\n \n \n(2) \nDalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \nkelengkapan \ndokumen \npermohonan \nPLJP \nsebagaimana dimaksud dalam Pasal 10 ayat (1); dan  \nc. \nanalisis mengenai perkiraan jumlah kebutuhan \nlikuiditas BUK. \n(3) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUK dengan \ntembusan kepada OJK. \n(4) \nBerdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUK harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJP; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperjanjian pemberian PLJP dan rancangan akta \npengikatan agunan PLJP; dan  \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia. \n(5) \nBank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUK sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d. \n(6) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUK \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perjanjian pemberian \nPLJP dan akta pengikatan agunan PLJP. \n(7) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUK tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon dan BUK tidak dapat \nmenambah agunan PLJP, plafon PLJP diturunkan sesuai \ndengan nilai agunan yang tersedia sepanjang BUK \nmempunyai \nsumber \ndana \nlain \nuntuk \nmenutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP. \n(8) \nPersetujuan \natas \npermohonan \nPLJP \nsebagaimana \ndimaksud pada ayat (1) dibatalkan oleh Bank Indonesia \njika: \na. \nBUK \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan \nBUK \ntidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon, \nBUK tidak dapat menambah agunan PLJP, dan BUK \ntidak mempunyai sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP; dan/atau  \nc. \ndiketahui \nbahwa \nBUK \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2).  \n\n\n \n \n(9) \nKetentuan lebih lanjut mengenai pemberian persetujuan \natau penolakan atas permohonan PLJP diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan persetujuan atau penolakan \natas permohonan PLJP sebagaimana dimaksud dalam \nPasal 10 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \nkelengkapan \ndokumen \npermohonan \nPLJP \nsebagaimana dimaksud dalam Pasal 10 ayat (1); dan  \nc. \nanalisis mengenai perkiraan jumlah kebutuhan \nlikuiditas BUK."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUK dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUK harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJP; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperjanjian pemberian PLJP dan rancangan akta \npengikatan agunan PLJP; dan  \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUK sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUK \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perjanjian pemberian \nPLJP dan akta pengikatan agunan PLJP."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUK tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon dan BUK tidak dapat \nmenambah agunan PLJP, plafon PLJP diturunkan sesuai \ndengan nilai agunan yang tersedia sepanjang BUK \nmempunyai \nsumber \ndana \nlain \nuntuk \nmenutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Persetujuan \natas \npermohonan \nPLJP \nsebagaimana \ndimaksud pada ayat (1) dibatalkan oleh Bank Indonesia \njika: \na. \nBUK \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan \nBUK \ntidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon, \nBUK tidak dapat menambah agunan PLJP, dan BUK \ntidak mempunyai sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP; dan/atau  \nc. \ndiketahui \nbahwa \nBUK \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Ketentuan lebih lanjut mengenai pemberian persetujuan \natau penolakan atas permohonan PLJP diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJP",
+      "teks_lengkap": "Berdasarkan \npertimbangan \ntertentu \nsesuai \ndengan \nkewenangan Bank Indonesia, Bank Indonesia dapat menolak \npermohonan PLJP meskipun BUK telah memenuhi seluruh \npersyaratan PLJP.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berdasarkan \npertimbangan \ntertentu \nsesuai \ndengan \nkewenangan Bank Indonesia, Bank Indonesia dapat menolak \npermohonan PLJP meskipun BUK telah memenuhi seluruh \npersyaratan PLJP."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERSETUJUAN DAN PENOLAKAN PERMOHONAN PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan PLJP untuk jangka waktu \npaling lama 30 (tiga puluh) hari kalender untuk setiap \nperiode pemberian PLJP. \n(2) \nJangka waktu sebagaimana dimaksud pada ayat (1) \nberlaku efektif sejak tanggal aktivasi pemberian PLJP oleh \nBank Indonesia. \n(3) \nJangka waktu sebagaimana dimaksud pada ayat (1) dapat \ndiperpanjang secara berturut-turut paling banyak 2 (dua) \nperiode. \n \nBAB V \nPENCAIRAN PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan PLJP untuk jangka waktu \npaling lama 30 (tiga puluh) hari kalender untuk setiap \nperiode pemberian PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu sebagaimana dimaksud pada ayat (1) \nberlaku efektif sejak tanggal aktivasi pemberian PLJP oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu sebagaimana dimaksud pada ayat (1) dapat \ndiperpanjang secara berturut-turut paling banyak 2 (dua) \nperiode. \n \nBAB V \nPENCAIRAN PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJP",
+      "teks_lengkap": "(1) BUK dapat mengajukan pencairan PLJP sejak tanggal \naktivasi \npemberian \nPLJP \noleh \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 14 ayat (2). \n(2) Pencairan PLJP dilakukan paling banyak 1 (satu) kali \ndalam sehari sebesar perkiraan kebutuhan BUK untuk \nmengatasi Kesulitan Likuiditas. \n(3) Pengajuan pencairan PLJP sebagaimana dimaksud pada \nayat (1) disampaikan kepada Bank Indonesia dengan \nmelampirkan dokumen yang meliputi: \na. \nsurat sanggup bayar sebesar pengajuan pencairan; \ndan \nb. \nproyeksi arus kas yang mencerminkan kebutuhan \npencairan. \n(4) Pencairan PLJP dilakukan melalui rekening giro rupiah \nBUK yang bersangkutan pada Bank Indonesia. \n(5) Ketentuan lebih lanjut mengenai pencairan PLJP diatur \ndalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK dapat mengajukan pencairan PLJP sejak tanggal \naktivasi \npemberian \nPLJP \noleh \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 14 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pencairan PLJP dilakukan paling banyak 1 (satu) kali \ndalam sehari sebesar perkiraan kebutuhan BUK untuk \nmengatasi Kesulitan Likuiditas."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengajuan pencairan PLJP sebagaimana dimaksud pada \nayat (1) disampaikan kepada Bank Indonesia dengan \nmelampirkan dokumen yang meliputi: \na. \nsurat sanggup bayar sebesar pengajuan pencairan; \ndan \nb. \nproyeksi arus kas yang mencerminkan kebutuhan \npencairan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pencairan PLJP dilakukan melalui rekening giro rupiah \nBUK yang bersangkutan pada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai pencairan PLJP diatur \ndalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia berwenang melakukan pembatasan \npencairan PLJP. \n(2) \nPembatasan pencairan PLJP sebagaimana dimaksud pada \nayat (1) dilakukan dengan kondisi nilai agunan tidak \nmencukupi plafon dan BUK tidak dapat menambah \ndan/atau mengganti agunan PLJP sehingga secara \nkeseluruhan nilai agunan tidak mencukupi plafon. \n(3) \nKetentuan lebih lanjut mengenai pembatasan pencairan \nPLJP diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia berwenang melakukan pembatasan \npencairan PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembatasan pencairan PLJP sebagaimana dimaksud pada \nayat (1) dilakukan dengan kondisi nilai agunan tidak \nmencukupi plafon dan BUK tidak dapat menambah \ndan/atau mengganti agunan PLJP sehingga secara \nkeseluruhan nilai agunan tidak mencukupi plafon."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai pembatasan pencairan \nPLJP diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCAIRAN PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia berwenang menghentikan pencairan PLJP \nsebelum jatuh waktu jika menurut penilaian OJK yang \ndisampaikan kepada Bank Indonesia, BUK tidak lagi \nmemenuhi persyaratan atau kecukupan solvabilitas dan \ntingkat kesehatan BUK. \n(2) \nKetentuan lebih lanjut mengenai penghentian pencairan \nPLJP diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VI \nPERPANJANGAN JANGKA WAKTU PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia berwenang menghentikan pencairan PLJP \nsebelum jatuh waktu jika menurut penilaian OJK yang \ndisampaikan kepada Bank Indonesia, BUK tidak lagi \nmemenuhi persyaratan atau kecukupan solvabilitas dan \ntingkat kesehatan BUK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan lebih lanjut mengenai penghentian pencairan \nPLJP diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB VI \nPERPANJANGAN JANGKA WAKTU PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERPANJANGAN JANGKA WAKTU PLJP",
+      "teks_lengkap": "(1) \nBUK dapat mengajukan permohonan perpanjangan jangka \nwaktu PLJP secara tertulis kepada Bank Indonesia dengan \nmenyampaikan tembusan permohonan kepada OJK. \n(2) \nPermohonan \nperpanjangan \njangka \nwaktu \nPLJP \nsebagaimana dimaksud pada ayat (1) harus dilengkapi \ndengan dokumen yang meliputi: \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJP \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar:   \n1. \nagunan PLJP; dan  \n2. \nagunan \ndari \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan \ndan/atau tanah jika terdapat agunan PLJP \nberupa Aset Kredit dan/atau Aset Pembiayaan \nyang dijamin dengan tanah dan bangunan \ndan/atau tanah;  \nd. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJP; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJP; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJP; dan \n \n \ne.  dokumen lain yang diminta oleh Bank Indonesia. \n(3) \nUntuk keperluan perpanjangan jangka waktu PLJP, BUK \ntetap dapat menggunakan agunan PLJP pada periode \npemberian PLJP sebelumnya sepanjang masih memenuhi \npersyaratan dan kecukupan jumlah agunan PLJP. \n(4) \nDalam hal BUK memiliki surat berharga yang memenuhi \npersyaratan \nagunan \nPLJP \npada \nsaat \npermohonan \nperpanjangan \njangka \nwaktu \nPLJP, \nBUK \nharus \nmenyerahkan surat berharga tersebut sebagai agunan \nuntuk perpanjangan jangka waktu PLJP. \n(5) \nBank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti permohonan perpanjangan jangka waktu \nPLJP sebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK dapat mengajukan permohonan perpanjangan jangka \nwaktu PLJP secara tertulis kepada Bank Indonesia dengan \nmenyampaikan tembusan permohonan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan \nperpanjangan \njangka \nwaktu \nPLJP \nsebagaimana dimaksud pada ayat (1) harus dilengkapi \ndengan dokumen yang meliputi: \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJP \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar:   \n1. \nagunan PLJP; dan  \n2. \nagunan \ndari \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan \ndan/atau tanah jika terdapat agunan PLJP \nberupa Aset Kredit dan/atau Aset Pembiayaan \nyang dijamin dengan tanah dan bangunan \ndan/atau tanah;  \nd. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJP; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJP; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJP; dan \n \n \ne.  dokumen lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Untuk keperluan perpanjangan jangka waktu PLJP, BUK \ntetap dapat menggunakan agunan PLJP pada periode \npemberian PLJP sebelumnya sepanjang masih memenuhi \npersyaratan dan kecukupan jumlah agunan PLJP."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BUK memiliki surat berharga yang memenuhi \npersyaratan \nagunan \nPLJP \npada \nsaat \npermohonan \nperpanjangan \njangka \nwaktu \nPLJP, \nBUK \nharus \nmenyerahkan surat berharga tersebut sebagai agunan \nuntuk perpanjangan jangka waktu PLJP."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank \nIndonesia \nberkoordinasi \ndengan \nOJK \ndalam \nmenindaklanjuti permohonan perpanjangan jangka waktu \nPLJP sebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERPANJANGAN JANGKA WAKTU PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan persetujuan atau penolakan \natas permohonan perpanjangan jangka waktu PLJP \nsebagaimana dimaksud dalam Pasal 18 ayat (1). \n(2) \nDalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2);  \nb. \njangka waktu PLJP secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 14 ayat (3); dan \nc. \nBUK telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 18 ayat (2). \n(3) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUK dengan \ntembusan kepada OJK. \n(4) \nBerdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUK harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJP \njika \nterdapat \npenambahan \ndan/atau \npenggantian agunan PLJP; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan \nperjanjian \npemberian \nPLJP \ndan \nrancangan akta perubahan pengikatan agunan PLJP; \nd. \nmelunasi bunga PLJP pada saat jatuh waktu; dan  \ne. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia. \n(5) \nBank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUK sebagaimana dimaksud \npada ayat (4). \n(6) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUK \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJP dan akta perubahan pengikatan agunan \nPLJP. \n(7) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUK tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon, BUK harus: \na. \nmenambah agunan PLJP; dan/atau \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP. \n(8) \nPersetujuan atas permohonan perpanjangan jangka waktu \nPLJP sebagaimana dimaksud pada ayat (1) dibatalkan oleh \nBank Indonesia jika: \na. \nBUK \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUK tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \n\n\n \n \ndan BUK tidak dapat menambah agunan PLJP \ndan/atau BUK tidak menyediakan sumber dana lain \nuntuk menutup kekurangan likuiditas yang tidak \ndapat diperoleh dari PLJP sebagaimana dimaksud \npada ayat (7); dan/atau  \nc. \ndiketahui \nbahwa \nBUK \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2). \n(9) \nKetentuan lebih lanjut mengenai perpanjangan jangka \nwaktu PLJP diatur dalam Peraturan Anggota Dewan \nGubernur. \n \nBAB VII \nPENAMBAHAN DAN PENURUNAN PLAFON PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan persetujuan atau penolakan \natas permohonan perpanjangan jangka waktu PLJP \nsebagaimana dimaksud dalam Pasal 18 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2);  \nb. \njangka waktu PLJP secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 14 ayat (3); dan \nc. \nBUK telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 18 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUK dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUK harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJP \njika \nterdapat \npenambahan \ndan/atau \npenggantian agunan PLJP; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan \nperjanjian \npemberian \nPLJP \ndan \nrancangan akta perubahan pengikatan agunan PLJP; \nd. \nmelunasi bunga PLJP pada saat jatuh waktu; dan  \ne. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUK sebagaimana dimaksud \npada ayat (4)."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUK \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJP dan akta perubahan pengikatan agunan \nPLJP."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUK tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon, BUK harus: \na. \nmenambah agunan PLJP; dan/atau \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Persetujuan atas permohonan perpanjangan jangka waktu \nPLJP sebagaimana dimaksud pada ayat (1) dibatalkan oleh \nBank Indonesia jika: \na. \nBUK \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUK tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \n\n\n \n \ndan BUK tidak dapat menambah agunan PLJP \ndan/atau BUK tidak menyediakan sumber dana lain \nuntuk menutup kekurangan likuiditas yang tidak \ndapat diperoleh dari PLJP sebagaimana dimaksud \npada ayat (7); dan/atau  \nc. \ndiketahui \nbahwa \nBUK \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Ketentuan lebih lanjut mengenai perpanjangan jangka \nwaktu PLJP diatur dalam Peraturan Anggota Dewan \nGubernur. \n \nBAB VII \nPENAMBAHAN DAN PENURUNAN PLAFON PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJP",
+      "teks_lengkap": "(1) \nBUK dapat mengajukan permohonan penambahan plafon \nPLJP secara tertulis kepada Bank Indonesia dengan \nmenyampaikan tembusan permohonan kepada OJK. \n(2) \nPermohonan penambahan plafon PLJP sebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \npermohonan \nperpanjangan \njangka \nwaktu \nPLJP \nsebagaimana dimaksud dalam Pasal 18 ayat (1). \n(3) \nPermohonan penambahan plafon PLJP sebagaimana \ndimaksud pada ayat (1) harus dilengkapi dengan dokumen \nyang meliputi: \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJP \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJP; dan  \n2. \nagunan \ndari \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan \ndan/atau tanah jika terdapat agunan PLJP \nberupa Aset Kredit dan/atau Aset Pembiayaan \nyang dijamin dengan tanah dan bangunan \ndan/atau tanah; \nd. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJP; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJP; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJP; dan \ne. \ndokumen lain yang diminta oleh Bank Indonesia.  \n(4) \nBank \nIndonesia \nberkoordinasi \ndengan \nOJK \nuntuk \nmenindaklanjuti permohonan penambahan plafon PLJP \nsebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK dapat mengajukan permohonan penambahan plafon \nPLJP secara tertulis kepada Bank Indonesia dengan \nmenyampaikan tembusan permohonan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan penambahan plafon PLJP sebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \npermohonan \nperpanjangan \njangka \nwaktu \nPLJP \nsebagaimana dimaksud dalam Pasal 18 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Permohonan penambahan plafon PLJP sebagaimana \ndimaksud pada ayat (1) harus dilengkapi dengan dokumen \nyang meliputi: \na. \ndokumen yang mendukung jumlah kebutuhan untuk \nmengatasi Kesulitan Likuiditas; \nb. \ndaftar seluruh aset yang menjadi agunan PLJP \nberdasarkan hasil penilaian dari kantor jasa penilai \npublik dan kantor akuntan publik; \nc. \nhasil penilaian kantor jasa penilai publik mengenai \nnilai pasar: \n1. \nagunan PLJP; dan  \n2. \nagunan \ndari \nAset \nKredit \ndan/atau \nAset \nPembiayaan \nberupa \ntanah \ndan \nbangunan \ndan/atau tanah jika terdapat agunan PLJP \nberupa Aset Kredit dan/atau Aset Pembiayaan \nyang dijamin dengan tanah dan bangunan \ndan/atau tanah; \nd. \nhasil verifikasi kantor akuntan publik atas: \n1. \npemenuhan persyaratan agunan PLJP; \n2. \nkelengkapan dan kesesuaian dokumen agunan \nPLJP; dan \n3. \nperhitungan nilai agunan yang dapat digunakan \nuntuk menjamin PLJP; dan \ne. \ndokumen lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \nIndonesia \nberkoordinasi \ndengan \nOJK \nuntuk \nmenindaklanjuti permohonan penambahan plafon PLJP \nsebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJP",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan persetujuan atau penolakan \natas permohonan penambahan plafon PLJP sebagaimana \ndimaksud dalam Pasal 20 ayat (1). \n\n\n \n \n(2) \nDalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \njangka waktu PLJP secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 14 ayat (3); dan \nc. \nBUK telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 20 ayat (3). \n(3) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUK dengan \ntembusan kepada OJK. \n(4) \nBerdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUK harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJP jika terdapat penambahan agunan PLJP; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan \nperjanjian \npemberian \nPLJP \ndan \nrancangan akta perubahan pengikatan agunan PLJP; \ndan \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia.  \n(5) \nBank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUK sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d. \n(6) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUK \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJP dan akta perubahan pengikatan agunan \nPLJP. \n(7) \nDalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUK tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon PLJP, BUK harus: \na. \nmenambah agunan PLJP; dan/atau  \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP. \n(8) \nPersetujuan atas permohonan penambahan plafon PLJP \nsebagaimana dimaksud pada ayat (1) dibatalkan oleh \nBank Indonesia jika: \na. \nBUK \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUK tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \nPLJP dan BUK tidak dapat menambah agunan PLJP \ndan/atau BUK tidak menyediakan sumber dana lain \nuntuk menutup kekurangan likuiditas yang tidak \ndapat diperoleh dari PLJP sebagaimana dimaksud \npada ayat (7); dan/atau \n\n\n \n \nc. \ndiketahui \nbahwa \nBUK \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2).  \n(9) \nTambahan \nplafon \nPLJP \nyang \ndisetujui \nakan \ndiakumulasikan dengan plafon PLJP sebelumnya. \n(10) Ketentuan lebih lanjut mengenai penambahan plafon PLJP \ndiatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan persetujuan atau penolakan \natas permohonan penambahan plafon PLJP sebagaimana \ndimaksud dalam Pasal 20 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmemberikan \npersetujuan \natau \npenolakan \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmempertimbangkan paling sedikit: \na. \npemenuhan persyaratan sebagaimana dimaksud \ndalam Pasal 2 ayat (2); \nb. \njangka waktu PLJP secara keseluruhan belum \nmelampaui jangka waktu sebagaimana dimaksud \ndalam Pasal 14 ayat (3); dan \nc. \nBUK telah menyampaikan dokumen sebagaimana \ndimaksud dalam Pasal 20 ayat (3)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (1) disampaikan melalui surat kepada BUK dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan surat persetujuan sebagaimana dimaksud \npada ayat (3), BUK harus: \na. \nmenyampaikan dokumen yang terkait dengan agunan \nPLJP jika terdapat penambahan agunan PLJP; \nb. \nmenunjuk notaris; \nc. \nmenyampaikan dokumen berupa rancangan akta \nperubahan \nperjanjian \npemberian \nPLJP \ndan \nrancangan akta perubahan pengikatan agunan PLJP; \ndan \nd. \nmenyampaikan dokumen lain yang diminta oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia melakukan pengecekan kelengkapan \ndokumen yang diserahkan BUK sebagaimana dimaksud \npada ayat (4) huruf a, huruf c, dan huruf d."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan \nBUK \ntelah \nlengkap, \nakan \ndilakukan \npenandatanganan terhadap akta perubahan perjanjian \npemberian PLJP dan akta perubahan pengikatan agunan \nPLJP."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal berdasarkan hasil pengecekan sebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen yang \ndiserahkan BUK tidak lengkap sehingga mengakibatkan \nnilai agunan tidak mencukupi plafon PLJP, BUK harus: \na. \nmenambah agunan PLJP; dan/atau  \nb. \nmenyediakan sumber dana lain untuk menutup \nkekurangan likuiditas yang tidak dapat diperoleh dari \nPLJP."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Persetujuan atas permohonan penambahan plafon PLJP \nsebagaimana dimaksud pada ayat (1) dibatalkan oleh \nBank Indonesia jika: \na. \nBUK \ntidak \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (4); \nb. \nberdasarkan \nhasil \npengecekan \nsebagaimana \ndimaksud pada ayat (5) diketahui bahwa dokumen \nyang diserahkan BUK tidak lengkap sehingga \nmengakibatkan nilai agunan tidak mencukupi plafon \nPLJP dan BUK tidak dapat menambah agunan PLJP \ndan/atau BUK tidak menyediakan sumber dana lain \nuntuk menutup kekurangan likuiditas yang tidak \ndapat diperoleh dari PLJP sebagaimana dimaksud \npada ayat (7); dan/atau \n\n\n \n \nc. \ndiketahui \nbahwa \nBUK \ntidak \nlagi \nmemenuhi \npersyaratan sebagaimana dimaksud dalam Pasal 2 \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Tambahan \nplafon \nPLJP \nyang \ndisetujui \nakan \ndiakumulasikan dengan plafon PLJP sebelumnya."
+        },
+        {
+          "ayat_nomor": "(10)",
+          "teks": "Ketentuan lebih lanjut mengenai penambahan plafon PLJP \ndiatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENAMBAHAN DAN PENURUNAN PLAFON PLJP",
+      "teks_lengkap": "(1) \nBUK dapat mengajukan permohonan penurunan plafon \nPLJP secara tertulis kepada Bank Indonesia dengan \ntembusan kepada OJK.  \n(2) \nPermohonan \npenurunan \nplafon \nPLJP \nsebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \npermohonan \nperpanjangan \njangka \nwaktu \nPLJP \nsebagaimana dimaksud dalam Pasal 18 ayat (1). \n(3) \nProses penurunan plafon PLJP dilakukan sesuai dengan \nproses perpanjangan jangka waktu PLJP sebagaimana \ndimaksud dalam Pasal 18 dan Pasal 19. \n(4) \nKetentuan lebih lanjut mengenai penurunan plafon PLJP \ndiatur dalam Peraturan Anggota Dewan Gubernur.  \n \nBAB VIII \nLARANGAN DAN PEMBATASAN KEGIATAN BAGI BUK \nPENERIMA PLJP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK dapat mengajukan permohonan penurunan plafon \nPLJP secara tertulis kepada Bank Indonesia dengan \ntembusan kepada OJK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan \npenurunan \nplafon \nPLJP \nsebagaimana \ndimaksud pada ayat (1) diajukan bersamaan dengan \npermohonan \nperpanjangan \njangka \nwaktu \nPLJP \nsebagaimana dimaksud dalam Pasal 18 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Proses penurunan plafon PLJP dilakukan sesuai dengan \nproses perpanjangan jangka waktu PLJP sebagaimana \ndimaksud dalam Pasal 18 dan Pasal 19."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai penurunan plafon PLJP \ndiatur dalam Peraturan Anggota Dewan Gubernur.  \n \nBAB VIII \nLARANGAN DAN PEMBATASAN KEGIATAN BAGI BUK \nPENERIMA PLJP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUK PENERIMA PLJP",
+      "teks_lengkap": "(1) \nSelama periode pemberian PLJP atau selama BUK belum \nmelakukan pembayaran kembali kewajiban PLJP, BUK \ndilarang: \na. \nmelakukan penempatan dana; \nb. \nmenyalurkan Kredit dan/atau Pembiayaan baru \nkepada pihak terkait BUK, kecuali untuk pemenuhan \nkomitmen yang telah diperjanjikan sebelumnya; \nc. \nmerealisasikan penarikan dana oleh pihak terkait \nBUK; dan \nd. \nmelakukan pembagian dividen. \n(2) \nLarangan sebagaimana dimaksud pada ayat (1) tidak \nmeniadakan larangan lain yang telah dikeluarkan oleh \nOJK. \n(3) \nBUK yang melanggar larangan selama periode pemberian \nPLJP atau selama BUK belum melakukan pembayaran \nkembali kewajiban PLJP sebagaimana dimaksud pada        \nayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJP tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu. \n(4) \nKetentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Selama periode pemberian PLJP atau selama BUK belum \nmelakukan pembayaran kembali kewajiban PLJP, BUK \ndilarang: \na. \nmelakukan penempatan dana; \nb. \nmenyalurkan Kredit dan/atau Pembiayaan baru \nkepada pihak terkait BUK, kecuali untuk pemenuhan \nkomitmen yang telah diperjanjikan sebelumnya; \nc. \nmerealisasikan penarikan dana oleh pihak terkait \nBUK; dan \nd. \nmelakukan pembagian dividen."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Larangan sebagaimana dimaksud pada ayat (1) tidak \nmeniadakan larangan lain yang telah dikeluarkan oleh \nOJK."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUK yang melanggar larangan selama periode pemberian \nPLJP atau selama BUK belum melakukan pembayaran \nkembali kewajiban PLJP sebagaimana dimaksud pada        \nayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJP tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUK PENERIMA PLJP",
+      "teks_lengkap": "Selama periode pemberian PLJP, BUK dibatasi hanya dapat \nmengikuti operasi moneter Bank Indonesia yang bersifat \nekspansi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Selama periode pemberian PLJP, BUK dibatasi hanya dapat \nmengikuti operasi moneter Bank Indonesia yang bersifat \nekspansi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "LARANGAN DAN PEMBATASAN KEGIATAN BAGI BUK PENERIMA PLJP",
+      "teks_lengkap": "Larangan sebagaimana dimaksud dalam Pasal 23 dan \npembatasan \nsebagaimana \ndimaksud \ndalam \nPasal \n24, \ndisampaikan Bank Indonesia melalui surat kepada BUK \ndengan tembusan kepada OJK.  \n \nBAB IX \nBUNGA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Larangan sebagaimana dimaksud dalam Pasal 23 dan \npembatasan \nsebagaimana \ndimaksud \ndalam \nPasal \n24, \ndisampaikan Bank Indonesia melalui surat kepada BUK \ndengan tembusan kepada OJK.  \n \nBAB IX \nBUNGA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BUNGA",
+      "teks_lengkap": "(1) \nBank Indonesia mengenakan bunga secara harian kepada \nBUK atas baki debit PLJP. \n(2) \nBunga sebagaimana dimaksud pada ayat (1) dihitung \ndengan  rumus yang menggunakan tingkat suku bunga \npenyediaan dana rupiah yang berlaku pada tanggal \naktivasi pemberian PLJP ditambah margin sebesar 100 \n(seratus) basis poin. \n(3) \nKetentuan lebih lanjut mengenai perhitungan bunga \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB X \nPEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengenakan bunga secara harian kepada \nBUK atas baki debit PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bunga sebagaimana dimaksud pada ayat (1) dihitung \ndengan  rumus yang menggunakan tingkat suku bunga \npenyediaan dana rupiah yang berlaku pada tanggal \naktivasi pemberian PLJP ditambah margin sebesar 100 \n(seratus) basis poin."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai perhitungan bunga \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB X \nPEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nBUK wajib melakukan pembayaran kembali PLJP pada \nsaat jatuh waktu sebesar pokok dan bunga PLJP. \n(2) \nBUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu; dan \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter, termasuk penghentian sementara dari \nkepesertaan operasi moneter syariah bagi UUS. \n(3) \nKetentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK wajib melakukan pembayaran kembali PLJP pada \nsaat jatuh waktu sebesar pokok dan bunga PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu; dan \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter, termasuk penghentian sementara dari \nkepesertaan operasi moneter syariah bagi UUS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara pengenaan \nsanksi diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) BUK yang tidak melakukan pembayaran kembali PLJP \npada saat jatuh waktu dinyatakan cidera janji. \n(2) BUK yang cidera janji sebagaimana dimaksud pada ayat (1) \ndengan sukarela menyerahkan seluruh agunan PLJP \nkepada Bank Indonesia untuk dilakukan eksekusi agunan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK yang tidak melakukan pembayaran kembali PLJP \npada saat jatuh waktu dinyatakan cidera janji."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUK yang cidera janji sebagaimana dimaksud pada ayat (1) \ndengan sukarela menyerahkan seluruh agunan PLJP \nkepada Bank Indonesia untuk dilakukan eksekusi agunan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nBank Indonesia mendebit rekening giro BUK dalam rupiah \ndi Bank Indonesia dalam hal: \na. \nsebelum PLJP jatuh waktu dan saldo rekening giro \nBUK di Bank Indonesia melebihi kewajiban GWM \nditambah 10% (sepuluh persen) dari kewajiban GWM; \nb. \nBUK meminta pembayaran kembali sebelum PLJP \njatuh waktu; dan/atau \nc. \nPLJP jatuh waktu.    \n\n\n \n \n(2) \nBank Indonesia melakukan pendebitan rekening giro BUK \nsecara harian sampai dengan kewajiban PLJP dibayar \nkembali. \n(3) \nDalam hal saldo rekening giro BUK dalam rupiah di Bank \nIndonesia tidak mencukupi untuk membayar pokok dan \nbunga PLJP sebagaimana dimaksud dalam Pasal 27                  \nayat (1), Bank Indonesia melakukan penihilan rekening \ngiro BUK dalam rupiah dan rekening giro BUK dalam \nvaluta asing, termasuk rekening giro milik UUS. \n(4) \nBank Indonesia tetap menghitung bunga sampai dengan \npokok PLJP dibayar kembali. \n(5) \nKetentuan lebih lanjut mengenai pembayaran kembali \nPLJP diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mendebit rekening giro BUK dalam rupiah \ndi Bank Indonesia dalam hal: \na. \nsebelum PLJP jatuh waktu dan saldo rekening giro \nBUK di Bank Indonesia melebihi kewajiban GWM \nditambah 10% (sepuluh persen) dari kewajiban GWM; \nb. \nBUK meminta pembayaran kembali sebelum PLJP \njatuh waktu; dan/atau \nc. \nPLJP jatuh waktu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia melakukan pendebitan rekening giro BUK \nsecara harian sampai dengan kewajiban PLJP dibayar \nkembali."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal saldo rekening giro BUK dalam rupiah di Bank \nIndonesia tidak mencukupi untuk membayar pokok dan \nbunga PLJP sebagaimana dimaksud dalam Pasal 27                  \nayat (1), Bank Indonesia melakukan penihilan rekening \ngiro BUK dalam rupiah dan rekening giro BUK dalam \nvaluta asing, termasuk rekening giro milik UUS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia tetap menghitung bunga sampai dengan \npokok PLJP dibayar kembali."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai pembayaran kembali \nPLJP diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nDalam hal BUK dinyatakan cidera janji sebagaimana \ndimaksud dalam Pasal 28 ayat (1), selain melakukan \npendebitan rekening giro BUK setelah PLJP jatuh waktu \nsebagaimana dimaksud dalam Pasal 29 ayat (2) dan                  \nayat (3), Bank Indonesia melakukan: \na. \neksekusi agunan PLJP; atau \nb. \npenjualan atau pengalihan hak tagih atas PLJP.  \n(2) \nPelaksanaan eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJP sebagaimana dimaksud \npada ayat (1) dilakukan Bank Indonesia tanpa harus \nmemperoleh persetujuan BUK. \n(3) \nDalam hal nilai hasil eksekusi agunan sebagaimana \ndimaksud pada ayat (1) lebih kecil dari kewajiban PLJP, \nBUK wajib melakukan pembayaran kembali melalui \nsetoran kekurangan kewajiban PLJP kepada Bank \nIndonesia. \n(4) \nDalam hal nilai hasil eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJP sebagaimana dimaksud \npada ayat (1) lebih besar dari kewajiban PLJP, Bank \nIndonesia mengembalikan kelebihan tersebut kepada \nBUK. \n(5) \nPelaksanaan \neksekusi \nagunan \natau \npenjualan \natau pengalihan hak tagih atas PLJP sebagaimana \ndimaksud pada ayat (1) mengacu pada ketentuan \nperaturan perundang-undangan. \n(6) \nBUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (3) setelah eksekusi agunan \ndilakukan, dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu; \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter, termasuk penghentian sementara dari \nkepesertaan operasi moneter syariah bagi UUS; \nd. \npenurunan \nstatus \nkepesertaan \nsistem \nkliring \nnasional Bank Indonesia, termasuk penurunan \nstatus kepesertaan sistem kliring nasional Bank \nIndonesia bagi UUS; \ne. \npenurunan status kepesertaan Bank Indonesia - real \ntime gross settlement, termasuk penurunan status \n\n\n \n \nkepesertaan Bank Indonesia - real time gross \nsettlement bagi UUS;  \nf. \npenurunan status kepesertaan Bank Indonesia - fast \npayment, termasuk penurunan status kepesertaan \nBank Indonesia - fast payment bagi UUS; dan/atau \ng. \npenurunan status kepesertaan Bank Indonesia -\nscripless securities settlement system, termasuk \npenurunan status kepesertaan Bank Indonesia -\nscripless securities settlement system bagi UUS. \n(7) \nKetentuan lebih lanjut mengenai tata cara pengenaan \nsanksi sebagaimana dimaksud pada ayat (6) diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal BUK dinyatakan cidera janji sebagaimana \ndimaksud dalam Pasal 28 ayat (1), selain melakukan \npendebitan rekening giro BUK setelah PLJP jatuh waktu \nsebagaimana dimaksud dalam Pasal 29 ayat (2) dan                  \nayat (3), Bank Indonesia melakukan: \na. \neksekusi agunan PLJP; atau \nb. \npenjualan atau pengalihan hak tagih atas PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJP sebagaimana dimaksud \npada ayat (1) dilakukan Bank Indonesia tanpa harus \nmemperoleh persetujuan BUK."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal nilai hasil eksekusi agunan sebagaimana \ndimaksud pada ayat (1) lebih kecil dari kewajiban PLJP, \nBUK wajib melakukan pembayaran kembali melalui \nsetoran kekurangan kewajiban PLJP kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal nilai hasil eksekusi agunan atau penjualan atau \npengalihan hak tagih atas PLJP sebagaimana dimaksud \npada ayat (1) lebih besar dari kewajiban PLJP, Bank \nIndonesia mengembalikan kelebihan tersebut kepada \nBUK."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pelaksanaan \neksekusi \nagunan \natau \npenjualan \natau pengalihan hak tagih atas PLJP sebagaimana \ndimaksud pada ayat (1) mengacu pada ketentuan \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "BUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (3) setelah eksekusi agunan \ndilakukan, dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu; \nc. \npenghentian sementara dari kepesertaan operasi \nmoneter, termasuk penghentian sementara dari \nkepesertaan operasi moneter syariah bagi UUS; \nd. \npenurunan \nstatus \nkepesertaan \nsistem \nkliring \nnasional Bank Indonesia, termasuk penurunan \nstatus kepesertaan sistem kliring nasional Bank \nIndonesia bagi UUS; \ne. \npenurunan status kepesertaan Bank Indonesia - real \ntime gross settlement, termasuk penurunan status \n\n\n \n \nkepesertaan Bank Indonesia - real time gross \nsettlement bagi UUS;  \nf. \npenurunan status kepesertaan Bank Indonesia - fast \npayment, termasuk penurunan status kepesertaan \nBank Indonesia - fast payment bagi UUS; dan/atau \ng. \npenurunan status kepesertaan Bank Indonesia -\nscripless securities settlement system, termasuk \npenurunan status kepesertaan Bank Indonesia -\nscripless securities settlement system bagi UUS."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara pengenaan \nsanksi sebagaimana dimaksud pada ayat (6) diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PEMBAYARAN KEMBALI PLJP DAN EKSEKUSI AGUNAN",
+      "teks_lengkap": "(1) \nDalam melaksanakan eksekusi agunan PLJP atau \npenjualan \natau \npengalihan \nhak \ntagih \natas \nPLJP \nsebagaimana dimaksud dalam Pasal 30 ayat (1), Bank \nIndonesia dapat berkoordinasi dengan OJK dan/atau \nbekerja sama dengan pihak lain. \n(2) \nBUK harus bekerja sama dengan Bank Indonesia untuk \nkelancaran pelaksanaan eksekusi agunan atau penjualan \natau pengalihan hak tagih atas PLJP. \n(3) \nKetentuan lebih lanjut mengenai eksekusi agunan atau \npenjualan atau pengalihan hak tagih atas PLJP diatur \ndalam Peraturan Anggota Dewan Gubernur. \n \nBAB XI \nBIAYA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan eksekusi agunan PLJP atau \npenjualan \natau \npengalihan \nhak \ntagih \natas \nPLJP \nsebagaimana dimaksud dalam Pasal 30 ayat (1), Bank \nIndonesia dapat berkoordinasi dengan OJK dan/atau \nbekerja sama dengan pihak lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUK harus bekerja sama dengan Bank Indonesia untuk \nkelancaran pelaksanaan eksekusi agunan atau penjualan \natau pengalihan hak tagih atas PLJP."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai eksekusi agunan atau \npenjualan atau pengalihan hak tagih atas PLJP diatur \ndalam Peraturan Anggota Dewan Gubernur. \n \nBAB XI \nBIAYA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "BIAYA",
+      "teks_lengkap": "(1) \nBiaya yang timbul dari proses PLJP menjadi beban BUK. \n(2) \nKetentuan mengenai biaya yang timbul dari proses PLJP \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB XII \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Biaya yang timbul dari proses PLJP menjadi beban BUK."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai biaya yang timbul dari proses PLJP \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \nBAB XII \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBUK yang menerima PLJP wajib menyampaikan laporan \nkepada Bank Indonesia dengan tembusan kepada OJK \nyang meliputi: \na. \nlaporan penggunaan PLJP; \nb. \nlaporan kondisi likuiditas BUK; \nc. \nlaporan perhitungan rasio kewajiban penyediaan \nmodal minimum; \nd. \nlaporan agunan jika terdapat: \n1. \nobligasi korporasi atau sukuk korporasi yang \ntidak memenuhi persyaratan peringkat yang \nditetapkan oleh Bank Indonesia; \n2. \npelunasan Kredit atau Pembiayaan yang menjadi \nagunan PLJP oleh debitur atau nasabah BUK; \ndan/atau \n3. \nAset \nKredit \natau \nAset \nPembiayaan \nyang \nmengalami penurunan kualitas;  \n\n\n \n \ne. \nlaporan proyeksi arus kas 30 (tiga puluh) hari \nkalender ke depan secara harian; \nf. \nrencana \ntindak \nuntuk \nmengatasi \nKesulitan \nLikuiditas; dan \ng. \nlaporan lain yang diminta oleh Bank Indonesia.  \n(2) \nPenyampaian laporan proyeksi arus kas secara harian \nsebagaimana dimaksud pada ayat (1) huruf e dilakukan \nselama periode pemberian PLJP sebagaimana dimaksud \ndalam Pasal 14 ayat (2) sampai dengan 1 (satu) hari kerja \nsebelum tanggal jatuh waktu atau tanggal pembayaran \nkembali PLJP yang dipercepat.  \n(3) \nBUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJP tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu. \n(4) \nKetentuan lebih lanjut mengenai penyampaian laporan \ndan tata cara pengenaan sanksi diatur dalam Peraturan \nAnggota Dewan Gubernur. \n \nBAB XIII \nPENGAWASAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK yang menerima PLJP wajib menyampaikan laporan \nkepada Bank Indonesia dengan tembusan kepada OJK \nyang meliputi: \na. \nlaporan penggunaan PLJP; \nb. \nlaporan kondisi likuiditas BUK; \nc. \nlaporan perhitungan rasio kewajiban penyediaan \nmodal minimum; \nd. \nlaporan agunan jika terdapat: \n1. \nobligasi korporasi atau sukuk korporasi yang \ntidak memenuhi persyaratan peringkat yang \nditetapkan oleh Bank Indonesia; \n2. \npelunasan Kredit atau Pembiayaan yang menjadi \nagunan PLJP oleh debitur atau nasabah BUK; \ndan/atau \n3. \nAset \nKredit \natau \nAset \nPembiayaan \nyang \nmengalami penurunan kualitas;  \n\n\n \n \ne. \nlaporan proyeksi arus kas 30 (tiga puluh) hari \nkalender ke depan secara harian; \nf. \nrencana \ntindak \nuntuk \nmengatasi \nKesulitan \nLikuiditas; dan \ng. \nlaporan lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan proyeksi arus kas secara harian \nsebagaimana dimaksud pada ayat (1) huruf e dilakukan \nselama periode pemberian PLJP sebagaimana dimaksud \ndalam Pasal 14 ayat (2) sampai dengan 1 (satu) hari kerja \nsebelum tanggal jatuh waktu atau tanggal pembayaran \nkembali PLJP yang dipercepat."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUK yang tidak memenuhi kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi berupa: \na. \nteguran tertulis; \nb. \nPLJP tidak dapat diperpanjang; dan/atau \nc. \ntidak dapat mengajukan permohonan PLJP dalam \njangka waktu tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai penyampaian laporan \ndan tata cara pengenaan sanksi diatur dalam Peraturan \nAnggota Dewan Gubernur. \n \nBAB XIII \nPENGAWASAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) \nPengawasan \nterhadap \nBUK \nyang \nmenerima \nPLJP \ndilakukan oleh OJK berkoordinasi dengan Bank Indonesia \nuntuk memastikan penggunaan dana PLJP sesuai dengan \nperuntukannya dan pelaksanaan rencana pembayaran \nkembali PLJP sesuai dengan perjanjian pemberian PLJP. \n(2) \nPengawasan \noleh \nOJK \nberkoordinasi \ndengan                   \nBank Indonesia sebagaimana dimaksud pada ayat (1) \nmencakup: \na. \npenggunaan dana PLJP yang diberikan sesuai dengan \nperuntukannya; \nb. \npotensi \nBUK \ndapat \nmelaksanakan \nrencana \npembayaran kembali PLJP sesuai dengan perjanjian \npemberian PLJP, termasuk dari laporan rencana \ntindak BUK; \nc. \nkesesuaian agunan terhadap persyaratan agunan \nPLJP; dan/atau \nd. \ninformasi pengawasan lain yang relevan dengan \npemberian PLJP. \n(3) \nBank Indonesia menyampaikan surat kepada BUK \nsebagaimana dimaksud dalam Pasal 25 sebagai bagian \ndari pengawasan sebagaimana dimaksud pada ayat (2) \nhuruf a. \n(4) \nPengawasan sebagaimana dimaksud pada ayat (1) juga \ndimaksudkan untuk memastikan pemenuhan persyaratan \nPLJP selama periode pemberian PLJP.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengawasan \nterhadap \nBUK \nyang \nmenerima \nPLJP \ndilakukan oleh OJK berkoordinasi dengan Bank Indonesia \nuntuk memastikan penggunaan dana PLJP sesuai dengan \nperuntukannya dan pelaksanaan rencana pembayaran \nkembali PLJP sesuai dengan perjanjian pemberian PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan \noleh \nOJK \nberkoordinasi \ndengan                   \nBank Indonesia sebagaimana dimaksud pada ayat (1) \nmencakup: \na. \npenggunaan dana PLJP yang diberikan sesuai dengan \nperuntukannya; \nb. \npotensi \nBUK \ndapat \nmelaksanakan \nrencana \npembayaran kembali PLJP sesuai dengan perjanjian \npemberian PLJP, termasuk dari laporan rencana \ntindak BUK; \nc. \nkesesuaian agunan terhadap persyaratan agunan \nPLJP; dan/atau \nd. \ninformasi pengawasan lain yang relevan dengan \npemberian PLJP."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menyampaikan surat kepada BUK \nsebagaimana dimaksud dalam Pasal 25 sebagai bagian \ndari pengawasan sebagaimana dimaksud pada ayat (2) \nhuruf a."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengawasan sebagaimana dimaksud pada ayat (1) juga \ndimaksudkan untuk memastikan pemenuhan persyaratan \nPLJP selama periode pemberian PLJP."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "(1) Bank Indonesia dapat melakukan pemeriksaan terhadap \nBUK yang menerima PLJP. \n\n\n \n \n(2) Pemeriksaan sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan cara: \na. \npemeriksaan langsung kepada BUK; atau \nb. \npemeriksaan bersama OJK kepada BUK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan pemeriksaan terhadap \nBUK yang menerima PLJP."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan cara: \na. \npemeriksaan langsung kepada BUK; atau \nb. \npemeriksaan bersama OJK kepada BUK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "PENGAWASAN",
+      "teks_lengkap": "Bank \nIndonesia \nmenyampaikan \npengenaan \nsanksi \nsebagaimana  dimaksud  dalam  Pasal  10 ayat (3), Pasal 23 \nayat (3), Pasal 27 ayat (2), Pasal 30 ayat (6), dan Pasal 33                   \nayat (3)  melalui surat kepada BUK dengan tembusan kepada \nOJK. \n \nBAB XIV \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nIndonesia \nmenyampaikan \npengenaan \nsanksi \nsebagaimana  dimaksud  dalam  Pasal  10 ayat (3), Pasal 23 \nayat (3), Pasal 27 ayat (2), Pasal 30 ayat (6), dan Pasal 33                   \nayat (3)  melalui surat kepada BUK dengan tembusan kepada \nOJK. \n \nBAB XIV \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku,  \nperaturan pelaksanaan dari Peraturan Bank Indonesia Nomor \n19/3/PBI/2017 tentang Pinjaman Likuiditas Jangka Pendek \nbagi Bank Umum Konvensional (Lembaran Negara Republik \nIndonesia Tahun 2017 Nomor 82, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6044) sebagaimana telah beberapa \nkali diubah terakhir dengan Peraturan Bank Indonesia Nomor \n22/15/PBI/2020 tentang Perubahan Ketiga atas Peraturan \nBank Indonesia Nomor 19/3/PBI/2017 tentang Pinjaman \nLikuiditas Jangka Pendek bagi Bank Umum Konvensional \n(Lembaran Negara Republik Indonesia Tahun 2020 Nomor 221, \nTambahan Lembaran Negara Republik Indonesia Nomor 6557), \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan \ndengan ketentuan dalam Peraturan Bank Indonesia ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku,  \nperaturan pelaksanaan dari Peraturan Bank Indonesia Nomor \n19/3/PBI/2017 tentang Pinjaman Likuiditas Jangka Pendek \nbagi Bank Umum Konvensional (Lembaran Negara Republik \nIndonesia Tahun 2017 Nomor 82, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6044) sebagaimana telah beberapa \nkali diubah terakhir dengan Peraturan Bank Indonesia Nomor \n22/15/PBI/2020 tentang Perubahan Ketiga atas Peraturan \nBank Indonesia Nomor 19/3/PBI/2017 tentang Pinjaman \nLikuiditas Jangka Pendek bagi Bank Umum Konvensional \n(Lembaran Negara Republik Indonesia Tahun 2020 Nomor 221, \nTambahan Lembaran Negara Republik Indonesia Nomor 6557), \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan \ndengan ketentuan dalam Peraturan Bank Indonesia ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n10/35/PBI/2008 \ntentang Fasilitas Pendanaan Jangka Pendek bagi Bank \nPerkreditan Rakyat (Lembaran Negara Republik Indonesia \nTahun 2008 Nomor 196, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4943); dan \nb. \nPeraturan Bank Indonesia Nomor 19/3/PBI/2017 tentang \nPinjaman Likuiditas Jangka Pendek bagi Bank Umum \nKonvensional (Lembaran Negara Republik Indonesia \nTahun 2017 Nomor 82, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6044) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 22/15/PBI/2020 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n19/3/PBI/2017 tentang Pinjaman Likuiditas Jangka \nPendek bagi Bank Umum Konvensional (Lembaran Negara \nRepublik Indonesia Tahun 2020 Nomor 221, Tambahan \nLembaran Negara Republik Indonesia Nomor 6557), \ndicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n10/35/PBI/2008 \ntentang Fasilitas Pendanaan Jangka Pendek bagi Bank \nPerkreditan Rakyat (Lembaran Negara Republik Indonesia \nTahun 2008 Nomor 196, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4943); dan \nb. \nPeraturan Bank Indonesia Nomor 19/3/PBI/2017 tentang \nPinjaman Likuiditas Jangka Pendek bagi Bank Umum \nKonvensional (Lembaran Negara Republik Indonesia \nTahun 2017 Nomor 82, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6044) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 22/15/PBI/2020 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n19/3/PBI/2017 tentang Pinjaman Likuiditas Jangka \nPendek bagi Bank Umum Konvensional (Lembaran Negara \nRepublik Indonesia Tahun 2020 Nomor 221, Tambahan \nLembaran Negara Republik Indonesia Nomor 6557), \ndicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Juni 2023  \n \nGUBERNUR BANK INDONESIA,  \n \nTTD \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal 27 Juni 2023   \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \n    TTD \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 14/BI  \n \n\n\nPENJELASAN  \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 4 TAHUN 2023 \nTENTANG \nPINJAMAN LIKUIDITAS JANGKA PENDEK BAGI  \nBANK UMUM KONVENSIONAL   \n \nI. \nUMUM \nUntuk mendorong pertumbuhan ekonomi nasional yang berkelanjutan \ndan sistem keuangan yang kuat, Pemerintah telah menerbitkan Undang-\nUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan \nSektor Keuangan yang menguatkan pengaturan berbagai aspek di sektor \nkeuangan antara lain mengenai penguatan kelembagaan otoritas serta \npencegahan dan penanganan permasalahan sistem keuangan khususnya \nmengenai \npenguatan \npenanganan \npermasalahan \nBUK. \nDalam \nmelaksanakan salah satu tugas Bank Indonesia untuk menetapkan dan \nmelaksanakan kebijakan makroprudensial, undang-undang tersebut \nmenguatkan kewenangan Bank Indonesia sebagai lender of the last resort \nmelalui pemberian PLJP kepada BUK yang mengalami Kesulitan Likuiditas \ndan memenuhi persyaratan.   \nPenguatan pengaturan PLJP dalam undang-undang dimaksud \nmencakup persyaratan bagi BUK untuk memperoleh PLJP, agunan PLJP, \njangka waktu, dan koordinasi Bank Indonesia dengan OJK terkait \npemberian PLJP. Selain itu, Bank Indonesia juga melakukan penguatan \npengaturan PLJP antara lain meliputi nilai agunan terhadap plafon untuk \nSBN dan persyaratan Aset Kredit dan/atau Aset Pembiayaan untuk dapat \nditerima sebagai agunan PLJP agar sejalan dengan kebijakan terkini dari \notoritas.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Bank Indonesia tentang Pinjaman Likuiditas Jangka Pendek bagi \nBank Umum Konvensional. \n \nII.  PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Juni 2023  \n \nGUBERNUR BANK INDONESIA,  \n \nTTD \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal 27 Juni 2023   \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \n    TTD \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 14/BI  \n \n\n\nPENJELASAN  \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 4 TAHUN 2023 \nTENTANG \nPINJAMAN LIKUIDITAS JANGKA PENDEK BAGI  \nBANK UMUM KONVENSIONAL   \n \nI. \nUMUM \nUntuk mendorong pertumbuhan ekonomi nasional yang berkelanjutan \ndan sistem keuangan yang kuat, Pemerintah telah menerbitkan Undang-\nUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan \nSektor Keuangan yang menguatkan pengaturan berbagai aspek di sektor \nkeuangan antara lain mengenai penguatan kelembagaan otoritas serta \npencegahan dan penanganan permasalahan sistem keuangan khususnya \nmengenai \npenguatan \npenanganan \npermasalahan \nBUK. \nDalam \nmelaksanakan salah satu tugas Bank Indonesia untuk menetapkan dan \nmelaksanakan kebijakan makroprudensial, undang-undang tersebut \nmenguatkan kewenangan Bank Indonesia sebagai lender of the last resort \nmelalui pemberian PLJP kepada BUK yang mengalami Kesulitan Likuiditas \ndan memenuhi persyaratan.   \nPenguatan pengaturan PLJP dalam undang-undang dimaksud \nmencakup persyaratan bagi BUK untuk memperoleh PLJP, agunan PLJP, \njangka waktu, dan koordinasi Bank Indonesia dengan OJK terkait \npemberian PLJP. Selain itu, Bank Indonesia juga melakukan penguatan \npengaturan PLJP antara lain meliputi nilai agunan terhadap plafon untuk \nSBN dan persyaratan Aset Kredit dan/atau Aset Pembiayaan untuk dapat \nditerima sebagai agunan PLJP agar sejalan dengan kebijakan terkini dari \notoritas.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Bank Indonesia tentang Pinjaman Likuiditas Jangka Pendek bagi \nBank Umum Konvensional. \n \nII.  PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nCukup jelas.  \n \nAyat (2)  \n \n \nHuruf a \nPersyaratan solvabilitas menunjukkan BUK menjalankan \nfungsinya dengan baik dan berkelanjutan (going concern) \nyang tercermin antara lain dari kecukupan permodalan \nberdasarkan \npenilaian \nOJK \nterkini \ntermasuk \ntelah \nmemperhitungkan peristiwa setelah periode pelaporan \n(subsequent events). \n \n \nHuruf b  \n \n \n \nCukup jelas.  \n \n \nHuruf c \nYang dimaksud dengan “memadai untuk mengembalikan \nPLJP” \nadalah \nBUK \nmemiliki \nsumber \ndana \nuntuk \nmengembalikan PLJP. \n \nAyat (3) \nPerkiraan BUK atas jumlah kebutuhan likuiditas didasarkan \npada proyeksi arus kas paling singkat 45 (empat puluh lima) hari \nkalender sejak tanggal permohonan PLJP. \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nCukup jelas.  \n \nAyat (2)  \n \n \nHuruf a \nPersyaratan solvabilitas menunjukkan BUK menjalankan \nfungsinya dengan baik dan berkelanjutan (going concern) \nyang tercermin antara lain dari kecukupan permodalan \nberdasarkan \npenilaian \nOJK \nterkini \ntermasuk \ntelah \nmemperhitungkan peristiwa setelah periode pelaporan \n(subsequent events). \n \n \nHuruf b  \n \n \n \nCukup jelas.  \n \n \nHuruf c \nYang dimaksud dengan “memadai untuk mengembalikan \nPLJP” \nadalah \nBUK \nmemiliki \nsumber \ndana \nuntuk \nmengembalikan PLJP. \n \nAyat (3) \nPerkiraan BUK atas jumlah kebutuhan likuiditas didasarkan \npada proyeksi arus kas paling singkat 45 (empat puluh lima) hari \nkalender sejak tanggal permohonan PLJP. \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n  \nCukup jelas.  \n \nAyat (2) \n \n  \nHuruf a \n \n  \n \nCukup jelas. \n \n  \nHuruf b \n \n  \n \nCukup jelas. \n \n  \nHuruf c \n \n  \n \nCukup jelas. \n \n  \nHuruf d \n \nSBN yang dapat digunakan sebagai agunan PLJP yaitu SBN \nyang dapat diperdagangkan. \nHuruf e \n \nYang dimaksud dengan \"surat berharga yang diterbitkan oleh \nbadan hukum lain\" adalah obligasi korporasi dan sukuk \nkorporasi yang diterbitkan oleh badan hukum Indonesia \nselain BUK yang mengajukan permohonan PLJP. \n \n \nAngka 1 \nPeringkat investasi (investment grade) mengacu \npada hasil penilaian lembaga pemeringkat yang \ndiakui oleh OJK dengan memperhatikan ketentuan \nOJK mengenai lembaga pemeringkat dan peringkat \nyang diakui oleh OJK. \n \nAngka 2 \n \n  \nCukup jelas. \n \nAngka 3  \n \n  \nCukup jelas.  \n \n Ayat (3) \n \n  \nHuruf a \n \n  \n \nCukup jelas. \n\n\n \n \n  \nHuruf b \n \n  \n \nCukup jelas. \n \n  \nHuruf c \n \n  \n \nCukup jelas. \n \n  \nHuruf d \n \nYang dimaksud dengan \"sukuk korporasi yang diterbitkan \noleh badan hukum lain\" adalah sukuk korporasi yang \nditerbitkan oleh badan hukum Indonesia.  \n \n  \nAyat (4) \n  \n \nHuruf a  \nYang dimaksud dengan “kualitas tergolong lancar” adalah \nkualitas tergolong lancar sebagaimana dimaksud dalam \nketentuan Peraturan OJK mengenai penilaian kualitas aset \nBank umum atau ketentuan Peraturan OJK mengenai \npenilaian kualitas aset bank umum syariah dan UUS. \n  \n \nHuruf b \nYang dimaksud dengan “Kredit pegawai atau pensiunan \ndan/atau Pembiayaan pegawai atau pensiunan” adalah \nKredit atau Pembiayaan yang memenuhi kriteria meliputi:  \n1. \ndiberikan kepada pegawai atau pensiunan dari Pegawai \nNegeri Sipil, anggota Tentara Nasional Indonesia, \nanggota Kepolisian Negara Republik Indonesia, dan \npegawai lembaga negara;  \n2. \npembayaran angsuran atau pelunasan Kredit atau \nPembiayaan \nbersumber \ndari \ngaji \natau \npensiun \nberdasarkan surat kuasa memotong gaji atau pensiun \nkepada BUK pemberi Kredit atau Pembiayaan; dan  \n \n3. \npegawai \natau \npensiunan \npenerima \nKredit \natau \nPembiayaan dijamin dengan asuransi jiwa dan khusus \npensiunan ditambah dengan asuransi Kredit atau \nPembiayaan dari perusahaan asuransi yang berstatus \nsebagai badan usaha milik negara atau perusahaan \nasuransi swasta yang memiliki peringkat paling rendah \nperingkat investasi dari lembaga pemeringkat yang \ndiakui oleh OJK dengan memperhatikan ketentuan OJK \nmengenai lembaga pemeringkat dan peringkat yang \ndiakui OJK. \n  \n \nHuruf c \nYang dimaksud dengan \"pihak terkait\" adalah pihak terkait \nsebagaimana dimaksud dalam ketentuan Peraturan OJK \nmengenai \nbatas \nmaksimum \npemberian \nKredit \ndan \npenyediaan dana besar bagi Bank umum. \n  \n \nHuruf d \nYang \ndimaksud \ndengan \n“restrukturisasi” \nadalah \nrestrukturisasi sebagaimana dimaksud dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset Bank \numum atau ketentuan Peraturan OJK mengenai penilaian \nkualitas aset bank umum syariah dan UUS. \n  \n \nHuruf e \n  \n \n \nCukup jelas. \n  \n \nHuruf f \nBatas maksimum pemberian Kredit atau penyaluran dana \nmengacu pada ketentuan Peraturan OJK mengenai batas \nmaksimum pemberian Kredit dan penyediaan dana besar \nbagi Bank umum. \n\n\n \n  \n \nHuruf g \nPersyaratan memiliki pengikatan agunan yang mempunyai \nkekuatan hukum berlaku untuk Aset Kredit dan/atau Aset \nPembiayaan yang dijamin dengan tanah dan bangunan \ndan/atau tanah. \n  \n \nHuruf h \n  \n \n \nCukup jelas. \n  \nAyat (5) \n  \n \nHuruf a \nYang dimaksud dengan “periode stimulus corona virus \ndisease 2019” adalah periode tanggal 16 Maret 2020 sampai \ndengan tanggal 31 Maret 2023 sebagaimana diatur dalam \nketentuan Peraturan OJK mengenai stimulus perekonomian \nnasional \nsebagai \nkebijakan \ncountercyclical \ndampak \npenyebaran corona virus disease 2019. \nKhusus periode stimulus corona virus disease 2019 untuk \nsektor dan/atau daerah tertentu yakni tanggal 16 Maret \n2020 sampai dengan tanggal 31 Maret 2024 dengan \nmemperhatikan \nKeputusan \nDewan \nKomisioner \nOJK \nmengenai penetapan sektor penyediaan akomodasi dan \npenyediaan makan minum, sektor tekstil dan produk tekstil \nserta alas kaki, segmen usaha mikro, kecil, dan menengah, \nserta Provinsi Bali sebagai sektor dan daerah yang \nmemerlukan perlakuan khusus terhadap Kredit atau \nPembiayaan Bank. \n \n \nHuruf b \n  \n \n \nCukup jelas.  \n  \nAyat (6)  \n  \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nKepemilikan aset tetap oleh BUK didukung dengan dokumen \nkepemilikan yang sah. \n \n \nHuruf c \nYang dimaksud dengan “properti terbengkalai” adalah \nproperti terbengkalai sebagaimana diatur dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset Bank \numum. \n  \nAyat (7)  \n  \n \nCukup jelas. \n  \nAyat (8)  \n  \n \nCukup jelas. \n  \nAyat (9)  \n  \n \nCukup jelas. \n  \nAyat (10)  \nYang dimaksud dengan \"dokumen pendukung\" antara lain: \na. \ndokumen Aset Kredit atau Aset Pembiayaan antara lain \nberupa perjanjian Kredit dan/atau akad Pembiayaan antara \nBUK dengan debitur atau UUS dengan nasabah, bukti \npengikatan agunan, dan bukti kepemilikan atas aset yang \nmenjadi agunan Kredit dan/atau Pembiayaan; dan \nb. \nbukti kepemilikan aset tetap.  \n  \nAyat (11) \n  \n \nCukup jelas. \n \n\n\n \nAyat (12) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n  \nCukup jelas.  \n \nAyat (2) \n \n  \nHuruf a \n \n  \n \nCukup jelas. \n \n  \nHuruf b \n \n  \n \nCukup jelas. \n \n  \nHuruf c \n \n  \n \nCukup jelas. \n \n  \nHuruf d \n \nSBN yang dapat digunakan sebagai agunan PLJP yaitu SBN \nyang dapat diperdagangkan. \nHuruf e \n \nYang dimaksud dengan \"surat berharga yang diterbitkan oleh \nbadan hukum lain\" adalah obligasi korporasi dan sukuk \nkorporasi yang diterbitkan oleh badan hukum Indonesia \nselain BUK yang mengajukan permohonan PLJP. \n \n \nAngka 1 \nPeringkat investasi (investment grade) mengacu \npada hasil penilaian lembaga pemeringkat yang \ndiakui oleh OJK dengan memperhatikan ketentuan \nOJK mengenai lembaga pemeringkat dan peringkat \nyang diakui oleh OJK. \n \nAngka 2 \n \n  \nCukup jelas. \n \nAngka 3  \n \n  \nCukup jelas.  \n \n Ayat (3) \n \n  \nHuruf a \n \n  \n \nCukup jelas. \n\n\n \n \n  \nHuruf b \n \n  \n \nCukup jelas. \n \n  \nHuruf c \n \n  \n \nCukup jelas. \n \n  \nHuruf d \n \nYang dimaksud dengan \"sukuk korporasi yang diterbitkan \noleh badan hukum lain\" adalah sukuk korporasi yang \nditerbitkan oleh badan hukum Indonesia.  \n \n  \nAyat (4) \n  \n \nHuruf a  \nYang dimaksud dengan “kualitas tergolong lancar” adalah \nkualitas tergolong lancar sebagaimana dimaksud dalam \nketentuan Peraturan OJK mengenai penilaian kualitas aset \nBank umum atau ketentuan Peraturan OJK mengenai \npenilaian kualitas aset bank umum syariah dan UUS. \n  \n \nHuruf b \nYang dimaksud dengan “Kredit pegawai atau pensiunan \ndan/atau Pembiayaan pegawai atau pensiunan” adalah \nKredit atau Pembiayaan yang memenuhi kriteria meliputi:  \n1. \ndiberikan kepada pegawai atau pensiunan dari Pegawai \nNegeri Sipil, anggota Tentara Nasional Indonesia, \nanggota Kepolisian Negara Republik Indonesia, dan \npegawai lembaga negara;  \n2. \npembayaran angsuran atau pelunasan Kredit atau \nPembiayaan \nbersumber \ndari \ngaji \natau \npensiun \nberdasarkan surat kuasa memotong gaji atau pensiun \nkepada BUK pemberi Kredit atau Pembiayaan; dan  \n \n3. \npegawai \natau \npensiunan \npenerima \nKredit \natau \nPembiayaan dijamin dengan asuransi jiwa dan khusus \npensiunan ditambah dengan asuransi Kredit atau \nPembiayaan dari perusahaan asuransi yang berstatus \nsebagai badan usaha milik negara atau perusahaan \nasuransi swasta yang memiliki peringkat paling rendah \nperingkat investasi dari lembaga pemeringkat yang \ndiakui oleh OJK dengan memperhatikan ketentuan OJK \nmengenai lembaga pemeringkat dan peringkat yang \ndiakui OJK. \n  \n \nHuruf c \nYang dimaksud dengan \"pihak terkait\" adalah pihak terkait \nsebagaimana dimaksud dalam ketentuan Peraturan OJK \nmengenai \nbatas \nmaksimum \npemberian \nKredit \ndan \npenyediaan dana besar bagi Bank umum. \n  \n \nHuruf d \nYang \ndimaksud \ndengan \n“restrukturisasi” \nadalah \nrestrukturisasi sebagaimana dimaksud dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset Bank \numum atau ketentuan Peraturan OJK mengenai penilaian \nkualitas aset bank umum syariah dan UUS. \n  \n \nHuruf e \n  \n \n \nCukup jelas. \n  \n \nHuruf f \nBatas maksimum pemberian Kredit atau penyaluran dana \nmengacu pada ketentuan Peraturan OJK mengenai batas \nmaksimum pemberian Kredit dan penyediaan dana besar \nbagi Bank umum. \n\n\n \n  \n \nHuruf g \nPersyaratan memiliki pengikatan agunan yang mempunyai \nkekuatan hukum berlaku untuk Aset Kredit dan/atau Aset \nPembiayaan yang dijamin dengan tanah dan bangunan \ndan/atau tanah. \n  \n \nHuruf h \n  \n \n \nCukup jelas. \n  \nAyat (5) \n  \n \nHuruf a \nYang dimaksud dengan “periode stimulus corona virus \ndisease 2019” adalah periode tanggal 16 Maret 2020 sampai \ndengan tanggal 31 Maret 2023 sebagaimana diatur dalam \nketentuan Peraturan OJK mengenai stimulus perekonomian \nnasional \nsebagai \nkebijakan \ncountercyclical \ndampak \npenyebaran corona virus disease 2019. \nKhusus periode stimulus corona virus disease 2019 untuk \nsektor dan/atau daerah tertentu yakni tanggal 16 Maret \n2020 sampai dengan tanggal 31 Maret 2024 dengan \nmemperhatikan \nKeputusan \nDewan \nKomisioner \nOJK \nmengenai penetapan sektor penyediaan akomodasi dan \npenyediaan makan minum, sektor tekstil dan produk tekstil \nserta alas kaki, segmen usaha mikro, kecil, dan menengah, \nserta Provinsi Bali sebagai sektor dan daerah yang \nmemerlukan perlakuan khusus terhadap Kredit atau \nPembiayaan Bank. \n \n \nHuruf b \n  \n \n \nCukup jelas.  \n  \nAyat (6)  \n  \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nKepemilikan aset tetap oleh BUK didukung dengan dokumen \nkepemilikan yang sah. \n \n \nHuruf c \nYang dimaksud dengan “properti terbengkalai” adalah \nproperti terbengkalai sebagaimana diatur dalam ketentuan \nPeraturan OJK mengenai penilaian kualitas aset Bank \numum. \n  \nAyat (7)  \n  \n \nCukup jelas. \n  \nAyat (8)  \n  \n \nCukup jelas. \n  \nAyat (9)  \n  \n \nCukup jelas. \n  \nAyat (10)  \nYang dimaksud dengan \"dokumen pendukung\" antara lain: \na. \ndokumen Aset Kredit atau Aset Pembiayaan antara lain \nberupa perjanjian Kredit dan/atau akad Pembiayaan antara \nBUK dengan debitur atau UUS dengan nasabah, bukti \npengikatan agunan, dan bukti kepemilikan atas aset yang \nmenjadi agunan Kredit dan/atau Pembiayaan; dan \nb. \nbukti kepemilikan aset tetap.  \n  \nAyat (11) \n  \n \nCukup jelas. \n \n\n\n \nAyat (12) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \nNilai jual SBI mengacu kepada harga yang tercantum di Bank \nIndonesia - scripless securities settlement system. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nNilai jual SDBI mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system. \n \n \nHuruf d \nNilai jual SukBI mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system. \n \n \nHuruf e \nNilai pasar SUN dan/atau nilai pasar SBSN mengacu kepada \nharga yang tercantum di Bank Indonesia - scripless securities \nsettlement system. \n \n \nHuruf f \nCukup jelas. \n \n \nHuruf g \nCukup jelas. \n \n \nHuruf h \n \n \n \nCukup jelas. \n \nAyat (2)  \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \nNilai jual SBI mengacu kepada harga yang tercantum di Bank \nIndonesia - scripless securities settlement system. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nNilai jual SDBI mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system. \n \n \nHuruf d \nNilai jual SukBI mengacu kepada harga yang tercantum di \nBank Indonesia - scripless securities settlement system. \n \n \nHuruf e \nNilai pasar SUN dan/atau nilai pasar SBSN mengacu kepada \nharga yang tercantum di Bank Indonesia - scripless securities \nsettlement system. \n \n \nHuruf f \nCukup jelas. \n \n \nHuruf g \nCukup jelas. \n \n \nHuruf h \n \n \n \nCukup jelas. \n \nAyat (2)  \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPemeliharaan dan penatausahaan daftar agunan dilakukan \nterhadap aset yang akan dialokasikan oleh BUK sebagai agunan \nguna mengantisipasi kebutuhan PLJP. \n \nAyat (2) \nPelaksanaan asesmen mandiri (self assessment) atas pemenuhan \npersyaratan antara lain persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUK. Dalam melakukan asesmen mandiri \n(self assessment) atas pemenuhan persyaratan PLJP, BUK \nberkonsultasi dengan otoritas terkait. \n \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPemeliharaan dan penatausahaan daftar agunan dilakukan \nterhadap aset yang akan dialokasikan oleh BUK sebagai agunan \nguna mengantisipasi kebutuhan PLJP. \n \nAyat (2) \nPelaksanaan asesmen mandiri (self assessment) atas pemenuhan \npersyaratan antara lain persyaratan atau kecukupan solvabilitas \ndan tingkat kesehatan BUK. Dalam melakukan asesmen mandiri \n(self assessment) atas pemenuhan persyaratan PLJP, BUK \nberkonsultasi dengan otoritas terkait. \n \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan \"ketentuan peraturan perundang-\nundangan\" antara lain Kitab Undang-Undang Hukum Perdata \ndan \nketentuan \nUndang-Undang \nterkait \nfidusia \ndan \nhak \ntanggungan. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan \"ketentuan peraturan perundang-\nundangan\" antara lain Kitab Undang-Undang Hukum Perdata \ndan \nketentuan \nUndang-Undang \nterkait \nfidusia \ndan \nhak \ntanggungan. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a  \n \n \n \nCukup jelas. \n \n \nHuruf b  \nKesanggupan untuk menerbitkan jaminan pribadi (personal \nguarantee) \ndan/atau \njaminan \nperusahaan \n(corporate \nguarantee) yang disertai dengan daftar aset pemegang saham \npengendali dilakukan sesuai dengan ketentuan peraturan \nperundang-undangan. \n \n \nHuruf c \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan PLJP. \n \n \nHuruf d \nYang dimaksud dengan “kantor jasa penilai publik” adalah \nbadan usaha yang telah mendapat izin usaha dari Menteri \nKeuangan sebagai wadah bagi penilai publik dalam \nmemberikan jasanya.  \nYang dimaksud dengan “kantor akuntan publik” adalah \nbadan \nusaha \nyang \ndidirikan \nberdasarkan \nketentuan \nperaturan perundang-undangan dan mendapatkan izin \nusaha berdasarkan undang-undang mengenai akuntan \npublik. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \n \n \n \nCukup jelas. \n \n \nHuruf g \n \n \n \nCukup jelas. \n \n \nHuruf h \nSurat persetujuan disampaikan apabila diatur dalam \nanggaran dasar atau anggaran rumah tangga BUK dan \nketentuan peraturan perundang-undangan. \n \n \nHuruf i \n \n \n \nCukup jelas. \n \n \nHuruf j \n \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \n\n\n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a  \n \n \n \nCukup jelas. \n \n \nHuruf b  \nKesanggupan untuk menerbitkan jaminan pribadi (personal \nguarantee) \ndan/atau \njaminan \nperusahaan \n(corporate \nguarantee) yang disertai dengan daftar aset pemegang saham \npengendali dilakukan sesuai dengan ketentuan peraturan \nperundang-undangan. \n \n \nHuruf c \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan PLJP. \n \n \nHuruf d \nYang dimaksud dengan “kantor jasa penilai publik” adalah \nbadan usaha yang telah mendapat izin usaha dari Menteri \nKeuangan sebagai wadah bagi penilai publik dalam \nmemberikan jasanya.  \nYang dimaksud dengan “kantor akuntan publik” adalah \nbadan \nusaha \nyang \ndidirikan \nberdasarkan \nketentuan \nperaturan perundang-undangan dan mendapatkan izin \nusaha berdasarkan undang-undang mengenai akuntan \npublik. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \n \n \n \nCukup jelas. \n \n \nHuruf g \n \n \n \nCukup jelas. \n \n \nHuruf h \nSurat persetujuan disampaikan apabila diatur dalam \nanggaran dasar atau anggaran rumah tangga BUK dan \nketentuan peraturan perundang-undangan. \n \n \nHuruf i \n \n \n \nCukup jelas. \n \n \nHuruf j \n \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \n\n\n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nAyat (5) \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas. \nAyat (7) \nSumber dana lain dibuktikan dengan tersedianya tambahan dana \ndi rekening giro BUK di Bank Indonesia yang disertai dokumen \ndan/atau data pendukung. \n \nAyat (8) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nInformasi bahwa BUK tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \n \nAyat (9) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nAyat (5) \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas. \nAyat (7) \nSumber dana lain dibuktikan dengan tersedianya tambahan dana \ndi rekening giro BUK di Bank Indonesia yang disertai dokumen \ndan/atau data pendukung. \n \nAyat (8) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nInformasi bahwa BUK tidak lagi memenuhi persyaratan \nantara lain diperoleh dari OJK. \n \nAyat (9) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “pertimbangan tertentu” antara lain hasil \nsimulasi kondisi BUK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “pertimbangan tertentu” antara lain hasil \nsimulasi kondisi BUK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nTanggal aktivasi pemberian PLJP akan disampaikan oleh Bank \nIndonesia \nmelalui \nsurat \nyang \nmerupakan \nbagian \ntidak \nterpisahkan dari perjanjian pemberian PLJP. \n \nAyat (3) \nYang dimaksud dengan “2 (dua) periode” adalah masing-masing \nperiode paling lama 30 (tiga puluh) hari kalender. Dengan \ndemikian, perpanjangan 2 (dua) periode secara berturut-turut \npaling lama 60 hari (enam puluh) hari kalender sehingga jangka \nwaktu PLJP keseluruhan paling lama 90 (sembilan puluh) hari \nkalender.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nTanggal aktivasi pemberian PLJP akan disampaikan oleh Bank \nIndonesia \nmelalui \nsurat \nyang \nmerupakan \nbagian \ntidak \nterpisahkan dari perjanjian pemberian PLJP. \n \nAyat (3) \nYang dimaksud dengan “2 (dua) periode” adalah masing-masing \nperiode paling lama 30 (tiga puluh) hari kalender. Dengan \ndemikian, perpanjangan 2 (dua) periode secara berturut-turut \npaling lama 60 hari (enam puluh) hari kalender sehingga jangka \nwaktu PLJP keseluruhan paling lama 90 (sembilan puluh) hari \nkalender."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nHuruf a \nYang dimaksud dengan “surat sanggup bayar (promissory \nnote)” adalah surat yang memuat kesanggupan dari BUK \nuntuk membayar kepada Bank Indonesia atas pencairan \ndana PLJP. Surat sanggup bayar tersebut tidak dapat \ndiperdagangkan di pasar uang. \nHuruf b \n \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nHuruf a \nYang dimaksud dengan “surat sanggup bayar (promissory \nnote)” adalah surat yang memuat kesanggupan dari BUK \nuntuk membayar kepada Bank Indonesia atas pencairan \ndana PLJP. Surat sanggup bayar tersebut tidak dapat \ndiperdagangkan di pasar uang. \nHuruf b \n \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Dengan pembatasan pencairan PLJP maka BUK hanya dapat \nmencairkan PLJP paling banyak sebesar kelonggaran tarik yang \ndidukung dengan kecukupan agunan. \nContoh pembatasan pencairan: \nPlafon awal PLJP sebesar Rp500.000.000.000,00 (lima ratus miliar \nrupiah). \nNilai agunan secara keseluruhan turun sehingga nilai agunan hanya \nmencukupi untuk plafon PLJP sebesar Rp450.000.000.000,00 (empat \nratus lima puluh miliar rupiah).  \nPosisi baki debit PLJP saat ini sebesar Rp250.000.000.000,00 (dua \nratus lima puluh miliar rupiah). \nDengan baki debit tersebut maka masih terdapat kelonggaran tarik \nsebesar \nRp450.000.000.000,00 \n– \nRp250.000.000.000,00 \n= \nRp200.000.000.000,00 (dua ratus miliar rupiah). \nBerdasarkan kondisi tersebut maka nilai agunan masih mencukupi \nbaki debit PLJP dan masih memiliki kelonggaran tarik. Oleh karena \nitu, Bank Indonesia melakukan pembatasan pencairan PLJP paling \nbanyak sampai dengan Rp450.000.000.000,00 (empat ratus lima \npuluh miliar rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dengan pembatasan pencairan PLJP maka BUK hanya dapat \nmencairkan PLJP paling banyak sebesar kelonggaran tarik yang \ndidukung dengan kecukupan agunan. \nContoh pembatasan pencairan: \nPlafon awal PLJP sebesar Rp500.000.000.000,00 (lima ratus miliar \nrupiah). \nNilai agunan secara keseluruhan turun sehingga nilai agunan hanya \nmencukupi untuk plafon PLJP sebesar Rp450.000.000.000,00 (empat \nratus lima puluh miliar rupiah).  \nPosisi baki debit PLJP saat ini sebesar Rp250.000.000.000,00 (dua \nratus lima puluh miliar rupiah). \nDengan baki debit tersebut maka masih terdapat kelonggaran tarik \nsebesar \nRp450.000.000.000,00 \n– \nRp250.000.000.000,00 \n= \nRp200.000.000.000,00 (dua ratus miliar rupiah). \nBerdasarkan kondisi tersebut maka nilai agunan masih mencukupi \nbaki debit PLJP dan masih memiliki kelonggaran tarik. Oleh karena \nitu, Bank Indonesia melakukan pembatasan pencairan PLJP paling \nbanyak sampai dengan Rp450.000.000.000,00 (empat ratus lima \npuluh miliar rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nMeskipun pencairan PLJP dihentikan sebelum jatuh waktu, \npembayaran kembali PLJP tetap dilakukan pada saat jatuh \nwaktu. \n \nAyat (2)  \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nMeskipun pencairan PLJP dihentikan sebelum jatuh waktu, \npembayaran kembali PLJP tetap dilakukan pada saat jatuh \nwaktu. \n \nAyat (2)  \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \n \nAyat (2)  \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \n\n\n \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan perpanjangan \njangka waktu PLJP. \nHuruf b \n \nCukup jelas. \nHuruf c \nNilai pasar agunan PLJP menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \nHuruf d \n \nCukup jelas. \nHuruf e \n \nCukup jelas. \n \nAyat (3) \nCukup jelas. \n \nAyat (4) \nPenyerahan surat berharga oleh BUK sebagai agunan untuk \nperpanjangan jangka waktu PLJP tidak digantungkan pada \nkecukupan jumlah agunan PLJP. \n \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \n \nAyat (2)  \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \n\n\n \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan perpanjangan \njangka waktu PLJP. \nHuruf b \n \nCukup jelas. \nHuruf c \nNilai pasar agunan PLJP menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \nHuruf d \n \nCukup jelas. \nHuruf e \n \nCukup jelas. \n \nAyat (3) \nCukup jelas. \n \nAyat (4) \nPenyerahan surat berharga oleh BUK sebagai agunan untuk \nperpanjangan jangka waktu PLJP tidak digantungkan pada \nkecukupan jumlah agunan PLJP. \n \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan penambahan plafon \nPLJP. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nNilai pasar agunan PLJP menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \n \n \nHuruf d \n \n \n \nCukup jelas.  \n \n \nHuruf e \n \n \n \nCukup jelas. \n \nAyat (4) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nHuruf a \nYang dimaksud dengan “dokumen yang mendukung jumlah \nkebutuhan untuk mengatasi Kesulitan Likuiditas” antara \nlain proyeksi arus kas paling singkat 45 (empat puluh lima) \nhari kalender sejak tanggal permohonan penambahan plafon \nPLJP. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nNilai pasar agunan PLJP menggunakan nilai pasar yang \nsudah dikinikan oleh kantor jasa penilai publik. \n \n \nHuruf d \n \n \n \nCukup jelas.  \n \n \nHuruf e \n \n \n \nCukup jelas. \n \nAyat (4) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPermohonan penurunan plafon didasarkan pada kebutuhan \nlikuiditas BUK sampai dengan BUK memenuhi GWM sesuai \n\n\n \ndengan ketentuan Peraturan Bank Indonesia mengenai GWM, \nyang didukung dengan proyeksi arus kas. \n \nAyat (2)  \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nCukup jelas. \n \nAyat (4)  \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPermohonan penurunan plafon didasarkan pada kebutuhan \nlikuiditas BUK sampai dengan BUK memenuhi GWM sesuai \n\n\n \ndengan ketentuan Peraturan Bank Indonesia mengenai GWM, \nyang didukung dengan proyeksi arus kas. \n \nAyat (2)  \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nCukup jelas. \n \nAyat (4)  \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kewajiban PLJP” adalah pokok atau baki \ndebit (outstanding) PLJP, bunga PLJP, dan biaya lainnya terkait \nPLJP. \nLarangan bagi BUK berlaku juga bagi UUS dari BUK penerima \nPLJP. \n \n \n \nHuruf a \nYang dimaksud dengan “penempatan dana” antara lain \npenempatan dana pada pasar uang antarbank, pasar \nuang antarbank berdasarkan Prinsip Syariah, dan \npembelian surat berharga. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d \n \nCukup jelas. \n \nAyat (2) \nCukup jelas.  \n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kewajiban PLJP” adalah pokok atau baki \ndebit (outstanding) PLJP, bunga PLJP, dan biaya lainnya terkait \nPLJP. \nLarangan bagi BUK berlaku juga bagi UUS dari BUK penerima \nPLJP. \n \n \n \nHuruf a \nYang dimaksud dengan “penempatan dana” antara lain \npenempatan dana pada pasar uang antarbank, pasar \nuang antarbank berdasarkan Prinsip Syariah, dan \npembelian surat berharga. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d \n \nCukup jelas. \n \nAyat (2) \nCukup jelas.  \n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Operasi moneter Bank Indonesia yang bersifat ekspansi antara lain \ntransaksi repurchase agreement (repo) dalam rangka operasi pasar \nterbuka dan transaksi lending facility dalam rangka standing facilities.  \nPembatasan keikutsertaan bagi BUK hanya dalam operasi moneter \nBank Indonesia yang bersifat ekspansi berlaku juga bagi UUS dari BUK \ndalam operasi moneter syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi moneter Bank Indonesia yang bersifat ekspansi antara lain \ntransaksi repurchase agreement (repo) dalam rangka operasi pasar \nterbuka dan transaksi lending facility dalam rangka standing facilities.  \nPembatasan keikutsertaan bagi BUK hanya dalam operasi moneter \nBank Indonesia yang bersifat ekspansi berlaku juga bagi UUS dari BUK \ndalam operasi moneter syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup  jelas. \nAyat (2)  \nRumus perhitungan besarnya bunga PLJP:  \nX = P x R x t/360 \nKeterangan:  \nX: besarnya bunga yang diterima Bank Indonesia.  \nP: baki debit PLJP.  \n\n\n \nR: tingkat suku bunga penyediaan dana rupiah (lending facility)     \n+ 100 (seratus) basis poin.  \nt:  jumlah hari kalender perhitungan bunga.  \nYang dimaksud dengan \"tingkat suku bunga penyediaan dana \nrupiah\" adalah tingkat suku bunga penyediaan dana rupiah \n(lending facility) sebagaimana dimaksud dalam ketentuan \nPeraturan Bank Indonesia mengenai operasi moneter. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup  jelas. \nAyat (2)  \nRumus perhitungan besarnya bunga PLJP:  \nX = P x R x t/360 \nKeterangan:  \nX: besarnya bunga yang diterima Bank Indonesia.  \nP: baki debit PLJP.  \n\n\n \nR: tingkat suku bunga penyediaan dana rupiah (lending facility)     \n+ 100 (seratus) basis poin.  \nt:  jumlah hari kalender perhitungan bunga.  \nYang dimaksud dengan \"tingkat suku bunga penyediaan dana \nrupiah\" adalah tingkat suku bunga penyediaan dana rupiah \n(lending facility) sebagaimana dimaksud dalam ketentuan \nPeraturan Bank Indonesia mengenai operasi moneter. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “pokok” adalah baki debit PLJP pada saat \njatuh waktu.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “pokok” adalah baki debit PLJP pada saat \njatuh waktu.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nHuruf a \nPendebitan saldo rekening giro BUK dilakukan sepanjang \nterdapat baki debit (outstanding) PLJP, paling tinggi sebesar \nnilai terendah antara baki debit PLJP dan kelebihan saldo \nrekening giro dari kewajiban GWM ditambah 10% (sepuluh \npersen) dari kewajiban GWM. \n \n \nHuruf b \nPembayaran kembali sebelum PLJP jatuh waktu dilakukan \ndengan mendebit saldo rekening giro BUK sebesar pokok dan \nbunga PLJP. \n \n \nHuruf c \nApabila saat jatuh waktu PLJP bertepatan pada hari Sabtu, \nhari Minggu, hari libur, atau pada hari kerja yang kemudian \nditetapkan sebagai hari libur maka pendebitan saldo \nrekening giro BUK dilakukan pada hari kerja berikutnya, \ntanpa memperhitungkan bunga PLJP pada hari tersebut.  \nDalam hal Bank Indonesia beroperasi secara terbatas pada \nhari libur atau cuti bersama, dimana Bank Indonesia \nmengoperasikan sistem Bank Indonesia - real time gross \nsettlement maka hari tersebut termasuk sebagai hari kerja. \n \nAyat (2) \nPembayaran kembali kewajiban PLJP merupakan transaksi high \npriority sebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai penyelenggaraan transaksi, penatausahaan \nsurat \nberharga, \ndan \nsetelmen \ndana \nseketika \nyang \npenyelesaiannya dilakukan mendahului penyelesaian transaksi \nlainnya. \n \nAyat (3) \n \n \nCukup jelas.  \n \nAyat (4)   \n \n \nCukup jelas. \n\n\n \n \nAyat (5) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nHuruf a \nPendebitan saldo rekening giro BUK dilakukan sepanjang \nterdapat baki debit (outstanding) PLJP, paling tinggi sebesar \nnilai terendah antara baki debit PLJP dan kelebihan saldo \nrekening giro dari kewajiban GWM ditambah 10% (sepuluh \npersen) dari kewajiban GWM. \n \n \nHuruf b \nPembayaran kembali sebelum PLJP jatuh waktu dilakukan \ndengan mendebit saldo rekening giro BUK sebesar pokok dan \nbunga PLJP. \n \n \nHuruf c \nApabila saat jatuh waktu PLJP bertepatan pada hari Sabtu, \nhari Minggu, hari libur, atau pada hari kerja yang kemudian \nditetapkan sebagai hari libur maka pendebitan saldo \nrekening giro BUK dilakukan pada hari kerja berikutnya, \ntanpa memperhitungkan bunga PLJP pada hari tersebut.  \nDalam hal Bank Indonesia beroperasi secara terbatas pada \nhari libur atau cuti bersama, dimana Bank Indonesia \nmengoperasikan sistem Bank Indonesia - real time gross \nsettlement maka hari tersebut termasuk sebagai hari kerja. \n \nAyat (2) \nPembayaran kembali kewajiban PLJP merupakan transaksi high \npriority sebagaimana dimaksud dalam ketentuan Peraturan Bank \nIndonesia mengenai penyelenggaraan transaksi, penatausahaan \nsurat \nberharga, \ndan \nsetelmen \ndana \nseketika \nyang \npenyelesaiannya dilakukan mendahului penyelesaian transaksi \nlainnya. \n \nAyat (3) \n \n \nCukup jelas.  \n \nAyat (4)   \n \n \nCukup jelas. \n\n\n \n \nAyat (5) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nBiaya yang timbul dari proses PLJP antara lain biaya notaris \nuntuk pengikatan perjanjian dan pengikatan agunan, biaya \nuntuk eksekusi agunan atau penjualan atau pengalihan hak tagih \natas PLJP, dan biaya penyimpanan dokumen terkait agunan.  \n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nBiaya yang timbul dari proses PLJP antara lain biaya notaris \nuntuk pengikatan perjanjian dan pengikatan agunan, biaya \nuntuk eksekusi agunan atau penjualan atau pengalihan hak tagih \natas PLJP, dan biaya penyimpanan dokumen terkait agunan.  \n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \nCukup jelas. \n \nHuruf f \nYang dimaksud dengan “rencana tindak” adalah rencana \ntindak sebagaimana dimaksud dalam ketentuan Peraturan \nOJK mengenai penetapan status dan \ntindak lanjut \npengawasan Bank umum. \nHuruf g \n \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \nCukup jelas. \n \nHuruf f \nYang dimaksud dengan “rencana tindak” adalah rencana \ntindak sebagaimana dimaksud dalam ketentuan Peraturan \nOJK mengenai penetapan status dan \ntindak lanjut \npengawasan Bank umum. \nHuruf g \n \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nCukup jelas.  \n \nAyat (2) \nDalam melakukan pemeriksaan kepada BUK, Bank Indonesia \nmenyampaikan surat pemberitahuan secara tertulis kepada OJK. \nDalam melakukan pemeriksaan baik dilakukan langsung oleh \nBank Indonesia atau Bank Indonesia bersama OJK, Bank \n\n\n \nIndonesia dapat menggunakan data antara lain data yang \ndiperoleh dari OJK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nCukup jelas.  \n \nAyat (2) \nDalam melakukan pemeriksaan kepada BUK, Bank Indonesia \nmenyampaikan surat pemberitahuan secara tertulis kepada OJK. \nDalam melakukan pemeriksaan baik dilakukan langsung oleh \nBank Indonesia atau Bank Indonesia bersama OJK, Bank \n\n\n \nIndonesia dapat menggunakan data antara lain data yang \ndiperoleh dari OJK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 39/BI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 39/BI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 78,
+  "total_ayat": 187,
+  "total_karakter": 71054,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

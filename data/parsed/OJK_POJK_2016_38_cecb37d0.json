@@ -1,0 +1,1439 @@
+{
+  "doc_id": "OJK_POJK_2016_38_cecb37d0",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "38",
+  "tahun": "2016",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 38/POJK.03/2016 tentang Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi oleh Bank Umum",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "1 Desember 2016",
+  "tanggal_berlaku": "diundangkan dan ditetapkan (7 Desember 2016)",
+  "diundangkan_pada": "7 Desember 2016",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam    Peraturan    Otoritas   Jasa    Keuangan   ini  yang \ndimaksud dengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, termasuk kantor \ncabang dari bank yang berkedudukan di luar negeri, \ndan Bank Umum Syariah serta Unit Usaha Syariah \nsebagaimana \ndimaksud \ndalam \nUndang-Undang   \nNomor 21 Tahun 2008 tentang Perbankan Syariah.  \n2. \nTeknologi Informasi adalah suatu teknik untuk \nmengumpulkan, \nmenyiapkan, \nmenyimpan, \nmemproses, mengumumkan, menganalisis, dan/atau \nmenyebarkan informasi.  \n3. \nLayanan Perbankan Elektronik (Electronic Banking) \nadalah layanan bagi nasabah Bank untuk memperoleh \ninformasi, melakukan komunikasi, dan melakukan \ntransaksi perbankan melalui media elektronik. \n4. \nRencana Strategis Teknologi Informasi (Information \nTechnology Strategic Plan) adalah dokumen yang \nmenggambarkan visi dan misi Teknologi Informasi \nBank, \nstrategi \nyang \nmendukung \nvisi \ndan \nmisi \nTeknologi Informasi Bank, dan prinsip-prinsip utama \nyang menjadi acuan dalam penggunaan Teknologi \nInformasi untuk memenuhi kebutuhan bisnis serta \nmendukung rencana strategis jangka panjang. \n5. \nSistem Elektronik adalah serangkaian perangkat dan \nprosedur elektronik yang berfungsi mempersiapkan, \nmengumpulkan, mengolah, menganalisis, menyimpan, \nmenampilkan, \nmengumumkan, \nmengirimkan, \ndan/atau menyebarkan informasi elektronik. \n6. \nPusat Data (Data Center) adalah suatu fasilitas yang \ndigunakan untuk menempatkan Sistem Elektronik \n\n\n \ndan \nkomponen \nterkaitnya \nuntuk \nkeperluan \npenempatan, penyimpanan, dan pengolahan data. \n7. \nPusat Pemulihan Bencana (Disaster Recovery Center) \nadalah \nsuatu \nfasilitas \nyang \ndigunakan \nuntuk \nmemulihkan kembali data atau informasi serta fungsi-\nfungsi penting Sistem Elektronik yang terganggu atau \nrusak akibat terjadinya bencana yang disebabkan oleh \nalam atau manusia.  \n8. \nPangkalan Data (Database) adalah sekumpulan data \nkomprehensif dan disusun secara sistematis, dapat \ndiakses oleh pengguna sesuai wewenang masing-\nmasing, dan dikelola oleh administrator Pangkalan \nData (Database administrator). \n9. \nRencana Pemulihan Bencana (Disaster Recovery Plan) \nadalah dokumen yang berisikan rencana dan langkah-\nlangkah untuk menggantikan dan/atau memulihkan \nkembali akses data, perangkat keras dan perangkat \nlunak yang diperlukan, agar Bank dapat menjalankan \nkegiatan operasional bisnis yang kritikal setelah \nadanya gangguan dan/atau bencana.  \n10. Pemrosesan Transaksi Berbasis Teknologi Informasi \nadalah kegiatan berupa penambahan, perubahan, \npenghapusan, dan/atau otorisasi data yang dilakukan \npada \nsistem \naplikasi \nyang \ndigunakan \nuntuk \nmemproses transaksi.  \n11. Direksi: \na) \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas;  \nb) \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \n\n\n \ndiubah \nterakhir dengan \nUndang-Undang \nNomor 9 Tahun 2015;  \n2) \nPerusahaan Daerah adalah direksi bagi Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sebagaimana dimaksud \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015;  \nc) \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian;  \nd) \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pemimpin kantor cabang dan pejabat satu \ntingkat di bawah pemimpin kantor cabang. \n12. Dewan Komisaris: \na) \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas;  \nb) \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015;  \n2) \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n\n\n \n3) \nPerusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sebagaimana dimaksud \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \nc) \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd) \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pihak yang ditunjuk untuk melaksanakan \nfungsi pengawasan.  \n \nBAB II \nRUANG LINGKUP MANAJEMEN RISIKO \nTEKNOLOGI INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam    Peraturan    Otoritas   Jasa    Keuangan   ini  yang \ndimaksud dengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, termasuk kantor \ncabang dari bank yang berkedudukan di luar negeri, \ndan Bank Umum Syariah serta Unit Usaha Syariah \nsebagaimana \ndimaksud \ndalam \nUndang-Undang   \nNomor 21 Tahun 2008 tentang Perbankan Syariah.  \n2. \nTeknologi Informasi adalah suatu teknik untuk \nmengumpulkan, \nmenyiapkan, \nmenyimpan, \nmemproses, mengumumkan, menganalisis, dan/atau \nmenyebarkan informasi.  \n3. \nLayanan Perbankan Elektronik (Electronic Banking) \nadalah layanan bagi nasabah Bank untuk memperoleh \ninformasi, melakukan komunikasi, dan melakukan \ntransaksi perbankan melalui media elektronik. \n4. \nRencana Strategis Teknologi Informasi (Information \nTechnology Strategic Plan) adalah dokumen yang \nmenggambarkan visi dan misi Teknologi Informasi \nBank, \nstrategi \nyang \nmendukung \nvisi \ndan \nmisi \nTeknologi Informasi Bank, dan prinsip-prinsip utama \nyang menjadi acuan dalam penggunaan Teknologi \nInformasi untuk memenuhi kebutuhan bisnis serta \nmendukung rencana strategis jangka panjang. \n5. \nSistem Elektronik adalah serangkaian perangkat dan \nprosedur elektronik yang berfungsi mempersiapkan, \nmengumpulkan, mengolah, menganalisis, menyimpan, \nmenampilkan, \nmengumumkan, \nmengirimkan, \ndan/atau menyebarkan informasi elektronik. \n6. \nPusat Data (Data Center) adalah suatu fasilitas yang \ndigunakan untuk menempatkan Sistem Elektronik \n\n\n \ndan \nkomponen \nterkaitnya \nuntuk \nkeperluan \npenempatan, penyimpanan, dan pengolahan data. \n7. \nPusat Pemulihan Bencana (Disaster Recovery Center) \nadalah \nsuatu \nfasilitas \nyang \ndigunakan \nuntuk \nmemulihkan kembali data atau informasi serta fungsi-\nfungsi penting Sistem Elektronik yang terganggu atau \nrusak akibat terjadinya bencana yang disebabkan oleh \nalam atau manusia.  \n8. \nPangkalan Data (Database) adalah sekumpulan data \nkomprehensif dan disusun secara sistematis, dapat \ndiakses oleh pengguna sesuai wewenang masing-\nmasing, dan dikelola oleh administrator Pangkalan \nData (Database administrator). \n9. \nRencana Pemulihan Bencana (Disaster Recovery Plan) \nadalah dokumen yang berisikan rencana dan langkah-\nlangkah untuk menggantikan dan/atau memulihkan \nkembali akses data, perangkat keras dan perangkat \nlunak yang diperlukan, agar Bank dapat menjalankan \nkegiatan operasional bisnis yang kritikal setelah \nadanya gangguan dan/atau bencana.  \n10. Pemrosesan Transaksi Berbasis Teknologi Informasi \nadalah kegiatan berupa penambahan, perubahan, \npenghapusan, dan/atau otorisasi data yang dilakukan \npada \nsistem \naplikasi \nyang \ndigunakan \nuntuk \nmemproses transaksi.  \n11. Direksi: \na) \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas;  \nb) \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \n\n\n \ndiubah \nterakhir dengan \nUndang-Undang \nNomor 9 Tahun 2015;  \n2) \nPerusahaan Daerah adalah direksi bagi Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sebagaimana dimaksud \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015;  \nc) \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian;  \nd) \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pemimpin kantor cabang dan pejabat satu \ntingkat di bawah pemimpin kantor cabang. \n12. Dewan Komisaris: \na) \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas;  \nb) \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015;  \n2) \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n\n\n \n3) \nPerusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sebagaimana dimaksud \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \nc) \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd) \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pihak yang ditunjuk untuk melaksanakan \nfungsi pengawasan.  \n \nBAB II \nRUANG LINGKUP MANAJEMEN RISIKO \nTEKNOLOGI INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib menerapkan manajemen risiko secara \nefektif dalam penggunaan Teknologi Informasi. \n(2) \nPenerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup:  \na. \npengawasan aktif  Direksi dan Dewan Komisaris; \nb. \nkecukupan kebijakan, standar, dan prosedur \npenggunaan Teknologi Informasi; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan dan pengendalian risiko penggunaan \nTeknologi Informasi; dan \nd. \nsistem pengendalian intern atas penggunaan \nTeknologi Informasi. \n(3) \nPenerapan manajemen risiko harus dilakukan secara \nterintegrasi \ndalam \nsetiap \ntahapan \npenggunaan \nTeknologi \nInformasi \nsejak \nproses \nperencanaan, \n\n\n \npengadaan, pengembangan, operasional, pemeliharaan \nhingga penghentian dan penghapusan sumber daya \nTeknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan manajemen risiko secara \nefektif dalam penggunaan Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup:  \na. \npengawasan aktif  Direksi dan Dewan Komisaris; \nb. \nkecukupan kebijakan, standar, dan prosedur \npenggunaan Teknologi Informasi; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan dan pengendalian risiko penggunaan \nTeknologi Informasi; dan \nd. \nsistem pengendalian intern atas penggunaan \nTeknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penerapan manajemen risiko harus dilakukan secara \nterintegrasi \ndalam \nsetiap \ntahapan \npenggunaan \nTeknologi \nInformasi \nsejak \nproses \nperencanaan, \n\n\n \npengadaan, pengembangan, operasional, pemeliharaan \nhingga penghentian dan penghapusan sumber daya \nTeknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Penerapan manajemen risiko dalam penggunaan Teknologi \nInformasi oleh Bank sebagaimana dimaksud dalam Pasal 2 \nwajib disesuaikan dengan tujuan, kebijakan usaha, ukuran \ndan kompleksitas usaha Bank. \n \nBAB III \nPENERAPAN MANAJEMEN RISIKO \nTEKNOLOGI INFORMASI \n \nBagian Kesatu \nPengawasan Aktif Direksi dan Dewan Komisaris",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan manajemen risiko dalam penggunaan Teknologi \nInformasi oleh Bank sebagaimana dimaksud dalam Pasal 2 \nwajib disesuaikan dengan tujuan, kebijakan usaha, ukuran \ndan kompleksitas usaha Bank. \n \nBAB III \nPENERAPAN MANAJEMEN RISIKO \nTEKNOLOGI INFORMASI \n \nBagian Kesatu \nPengawasan Aktif Direksi dan Dewan Komisaris"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Bank wajib menetapkan wewenang dan tanggung jawab \nyang jelas dari Direksi, Dewan Komisaris, dan pejabat pada \nsetiap jenjang jabatan yang terkait dengan penggunaan \nTeknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menetapkan wewenang dan tanggung jawab \nyang jelas dari Direksi, Dewan Komisaris, dan pejabat pada \nsetiap jenjang jabatan yang terkait dengan penggunaan \nTeknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 4 paling sedikit mencakup: \na. \nmenetapkan Rencana Strategis Teknologi Informasi \ndan kebijakan Bank terkait penggunaan Teknologi \nInformasi; \nb. \nmenetapkan kebijakan, standar, dan prosedur terkait \npenyelenggaraan Teknologi Informasi yang memadai \ndan mengomunikasikannya secara efektif, baik pada \nsatuan \nkerja \npenyelenggara \nmaupun \npengguna \nTeknologi Informasi; \nc. \nmemastikan: \n1. \nTeknologi Informasi yang digunakan Bank dapat \nmendukung \nperkembangan \nusaha \nBank, \n\n\n \npencapaian tujuan bisnis Bank dan kelangsungan \npelayanan terhadap nasabah Bank;  \n2. \nterdapat \nkegiatan \npeningkatan \nkompetensi \nsumber daya manusia yang terkait dengan \npenyelenggaraan \ndan \npenggunaan \nTeknologi \nInformasi; \n3. \nketersediaan sistem pengelolaan pengamanan \ninformasi \n(information \nsecurity \nmanagement \nsystem) yang efektif dan dikomunikasikan kepada \nsatuan \nkerja \npengguna \ndan \npenyelenggara \nTeknologi Informasi; \n4. \npenerapan \nproses \nmanajemen \nrisiko \ndalam \npenggunaan Teknologi Informasi dilaksanakan \nsecara memadai dan efektif;  \n5. \nkebijakan, \nstandar, \ndan \nprosedur \nTeknologi \nInformasi diterapkan secara efektif pada satuan \nkerja pengguna dan penyelenggara Teknologi \nInformasi; \n6. \nterdapat \nsistem \npengukuran \nkinerja \nproses \npenyelenggaraan Teknologi Informasi yang paling \nsedikit dapat:  \na) \nmendukung proses pemantauan terhadap \nimplementasi strategi; \nb) \nmendukung \npenyelesaian \nproyek \npengembangan Teknologi Informasi; \nc) \nmengoptimalkan \npendayagunaan \nsumber \ndaya \nmanusia \ndan \ninvestasi \npada \ninfrastruktur; dan \nd) \nmeningkatkan \nkinerja \nproses \npenyelenggaraan Teknologi Informasi dan \nkualitas layanan penyampaian hasil proses \nkepada pengguna Teknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 4 paling sedikit mencakup: \na. \nmenetapkan Rencana Strategis Teknologi Informasi \ndan kebijakan Bank terkait penggunaan Teknologi \nInformasi; \nb. \nmenetapkan kebijakan, standar, dan prosedur terkait \npenyelenggaraan Teknologi Informasi yang memadai \ndan mengomunikasikannya secara efektif, baik pada \nsatuan \nkerja \npenyelenggara \nmaupun \npengguna \nTeknologi Informasi; \nc. \nmemastikan: \n1. \nTeknologi Informasi yang digunakan Bank dapat \nmendukung \nperkembangan \nusaha \nBank, \n\n\n \npencapaian tujuan bisnis Bank dan kelangsungan \npelayanan terhadap nasabah Bank;  \n2. \nterdapat \nkegiatan \npeningkatan \nkompetensi \nsumber daya manusia yang terkait dengan \npenyelenggaraan \ndan \npenggunaan \nTeknologi \nInformasi; \n3. \nketersediaan sistem pengelolaan pengamanan \ninformasi \n(information \nsecurity \nmanagement \nsystem) yang efektif dan dikomunikasikan kepada \nsatuan \nkerja \npengguna \ndan \npenyelenggara \nTeknologi Informasi; \n4. \npenerapan \nproses \nmanajemen \nrisiko \ndalam \npenggunaan Teknologi Informasi dilaksanakan \nsecara memadai dan efektif;  \n5. \nkebijakan, \nstandar, \ndan \nprosedur \nTeknologi \nInformasi diterapkan secara efektif pada satuan \nkerja pengguna dan penyelenggara Teknologi \nInformasi; \n6. \nterdapat \nsistem \npengukuran \nkinerja \nproses \npenyelenggaraan Teknologi Informasi yang paling \nsedikit dapat:  \na) \nmendukung proses pemantauan terhadap \nimplementasi strategi; \nb) \nmendukung \npenyelesaian \nproyek \npengembangan Teknologi Informasi; \nc) \nmengoptimalkan \npendayagunaan \nsumber \ndaya \nmanusia \ndan \ninvestasi \npada \ninfrastruktur; dan \nd) \nmeningkatkan \nkinerja \nproses \npenyelenggaraan Teknologi Informasi dan \nkualitas layanan penyampaian hasil proses \nkepada pengguna Teknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana dimaksud dalam Pasal 4 paling sedikit \nmencakup: \n\n\n \n \na. \nmengevaluasi, mengarahkan, dan memantau Rencana \nStrategis Teknologi Informasi dan kebijakan Bank \nterkait penggunaan Teknologi Informasi; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npenerapan manajemen risiko dalam penggunaan \nTeknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana dimaksud dalam Pasal 4 paling sedikit \nmencakup: \n\n\n \n \na. \nmengevaluasi, mengarahkan, dan memantau Rencana \nStrategis Teknologi Informasi dan kebijakan Bank \nterkait penggunaan Teknologi Informasi; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npenerapan manajemen risiko dalam penggunaan \nTeknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memiliki komite pengarah Teknologi \nInformasi (Information Technology steering committe). \n(2) \nKomite pengarah Teknologi Informasi sebagaimana \ndimaksud \npada \nayat \n(1) \nbertanggung \njawab \nmemberikan \nrekomendasi \nkepada \nDireksi \npaling \nsedikit terkait dengan: \na. \nRencana \nStrategis \nTeknologi \nInformasi \nyang \nsejalan dengan rencana strategis kegiatan usaha \nBank; \nb. \nperumusan kebijakan, standar, dan prosedur \nTeknologi Informasi yang utama; \nc. \nkesesuaian antara proyek Teknologi Informasi \nyang \ndisetujui \ndengan \nRencana \nStrategis \nTeknologi Informasi; \nd. \nkesesuaian antara pelaksanaan proyek Teknologi \nInformasi dengan rencana proyek yang disepakati \n(project charter); \ne. \nkesesuaian antara Teknologi Informasi dengan \nkebutuhan sistem informasi manajemen serta \nkebutuhan kegiatan usaha Bank; \nf. \nefektivitas langkah-langkah dalam meminimalkan \nrisiko atas investasi Bank pada sektor Teknologi \nInformasi \nagar \ninvestasi \nBank \npada \nsektor \nTeknologi \nInformasi \nmemberikan \nkontribusi \nterhadap pencapaian tujuan bisnis Bank; \ng. \npemantauan atas kinerja Teknologi Informasi dan \nupaya peningkatan kinerja Teknologi Informasi;  \nh. \nupaya penyelesaian berbagai masalah terkait \nTeknologi Informasi yang tidak dapat diselesaikan \noleh satuan kerja pengguna dan penyelenggara \n\n\n \n \nTeknologi Informasi secara efektif, efisien, dan \ntepat waktu; dan \ni. \nkecukupan dan alokasi sumber daya yang dimiliki \nBank. \n(3) \nKomite pengarah Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) paling sedikit beranggotakan: \na. \ndirektur \nyang \nmembawahkan \nsatuan \nkerja \nTeknologi Informasi; \nb. \ndirektur \nyang \nmembawahkan \nsatuan \nkerja \nmanajemen risiko; \nc. \npejabat tertinggi yang memimpin satuan kerja \nTeknologi Informasi; dan \nd. \npejabat tertinggi yang memimpin satuan kerja \npengguna Teknologi Informasi. \n(4) \nKomite pengarah Teknologi Informasi sebagaimana \ndimaksud pada ayat (3) diketuai oleh salah satu \ndirektur Bank merangkap sebagai anggota. \n \nBagian Kedua \nKecukupan Kebijakan, Standar, dan Prosedur Penggunaan \nTeknologi Informasi di Bank",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki komite pengarah Teknologi \nInformasi (Information Technology steering committe)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komite pengarah Teknologi Informasi sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "bertanggung \njawab \nmemberikan \nrekomendasi \nkepada \nDireksi \npaling \nsedikit terkait dengan: \na. \nRencana \nStrategis \nTeknologi \nInformasi \nyang \nsejalan dengan rencana strategis kegiatan usaha \nBank; \nb. \nperumusan kebijakan, standar, dan prosedur \nTeknologi Informasi yang utama; \nc. \nkesesuaian antara proyek Teknologi Informasi \nyang \ndisetujui \ndengan \nRencana \nStrategis \nTeknologi Informasi; \nd. \nkesesuaian antara pelaksanaan proyek Teknologi \nInformasi dengan rencana proyek yang disepakati \n(project charter); \ne. \nkesesuaian antara Teknologi Informasi dengan \nkebutuhan sistem informasi manajemen serta \nkebutuhan kegiatan usaha Bank; \nf. \nefektivitas langkah-langkah dalam meminimalkan \nrisiko atas investasi Bank pada sektor Teknologi \nInformasi \nagar \ninvestasi \nBank \npada \nsektor \nTeknologi \nInformasi \nmemberikan \nkontribusi \nterhadap pencapaian tujuan bisnis Bank; \ng. \npemantauan atas kinerja Teknologi Informasi dan \nupaya peningkatan kinerja Teknologi Informasi;  \nh. \nupaya penyelesaian berbagai masalah terkait \nTeknologi Informasi yang tidak dapat diselesaikan \noleh satuan kerja pengguna dan penyelenggara \n\n\n \n \nTeknologi Informasi secara efektif, efisien, dan \ntepat waktu; dan \ni. \nkecukupan dan alokasi sumber daya yang dimiliki \nBank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Komite pengarah Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) paling sedikit beranggotakan: \na. \ndirektur \nyang \nmembawahkan \nsatuan \nkerja \nTeknologi Informasi; \nb. \ndirektur \nyang \nmembawahkan \nsatuan \nkerja \nmanajemen risiko; \nc. \npejabat tertinggi yang memimpin satuan kerja \nTeknologi Informasi; dan \nd. \npejabat tertinggi yang memimpin satuan kerja \npengguna Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Komite pengarah Teknologi Informasi sebagaimana \ndimaksud pada ayat (3) diketuai oleh salah satu \ndirektur Bank merangkap sebagai anggota. \n \nBagian Kedua \nKecukupan Kebijakan, Standar, dan Prosedur Penggunaan \nTeknologi Informasi di Bank"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memiliki kebijakan, standar, dan prosedur \npenggunaan \nTeknologi \nInformasi \nsebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b dan wajib \nmenerapkan \nkebijakan, \nstandar, \ndan \nprosedur \npenggunaan Teknologi Informasi secara konsisten dan \nberkesinambungan. \n(2) \nKebijakan, \nstandar, \ndan \nprosedur \npenggunaan \nTeknologi Informasi paling sedikit meliputi aspek:     \na. \nmanajemen; \nb. \npengembangan dan pengadaan; \nc. \noperasional Teknologi Informasi; \nd. \njaringan komunikasi; \ne. \npengamanan informasi; \nf. \nRencana Pemulihan Bencana; \ng. \nLayanan Perbankan Elektronik; \n\n\n \n \nh. \npenggunaan \npihak \npenyedia \njasa \nTeknologi \nInformasi; dan  \ni. \npenyediaan jasa Teknologi Informasi oleh Bank. \n(3) \nBank wajib menetapkan limit risiko yang dapat \nditoleransi untuk memastikan aspek terkait Teknologi \nInformasi sebagaimana dimaksud pada ayat (2) dapat \nberjalan dengan optimal.  \n(4) \nBank wajib melakukan kaji ulang dan pengkinian \nkebijakan, \nstandar \ndan \nprosedur \nsebagaimana \ndimaksud pada ayat (2) secara berkala.  \n(5) \nBank wajib menetapkan jangka waktu kaji ulang dan \npengkinian \nkebijakan, \nstandar, \ndan \nprosedur \nsebagaimana dimaksud pada ayat (4) dalam kebijakan \nsecara tertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki kebijakan, standar, dan prosedur \npenggunaan \nTeknologi \nInformasi \nsebagaimana \ndimaksud dalam Pasal 2 ayat (2) huruf b dan wajib \nmenerapkan \nkebijakan, \nstandar, \ndan \nprosedur \npenggunaan Teknologi Informasi secara konsisten dan \nberkesinambungan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan, \nstandar, \ndan \nprosedur \npenggunaan \nTeknologi Informasi paling sedikit meliputi aspek:     \na. \nmanajemen; \nb. \npengembangan dan pengadaan; \nc. \noperasional Teknologi Informasi; \nd. \njaringan komunikasi; \ne. \npengamanan informasi; \nf. \nRencana Pemulihan Bencana; \ng. \nLayanan Perbankan Elektronik; \n\n\n \n \nh. \npenggunaan \npihak \npenyedia \njasa \nTeknologi \nInformasi; dan  \ni. \npenyediaan jasa Teknologi Informasi oleh Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib menetapkan limit risiko yang dapat \nditoleransi untuk memastikan aspek terkait Teknologi \nInformasi sebagaimana dimaksud pada ayat (2) dapat \nberjalan dengan optimal."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank wajib melakukan kaji ulang dan pengkinian \nkebijakan, \nstandar \ndan \nprosedur \nsebagaimana \ndimaksud pada ayat (2) secara berkala."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib menetapkan jangka waktu kaji ulang dan \npengkinian \nkebijakan, \nstandar, \ndan \nprosedur \nsebagaimana dimaksud pada ayat (4) dalam kebijakan \nsecara tertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memiliki Rencana Strategis Teknologi \nInformasi yang mendukung rencana strategis kegiatan \nusaha Bank. \n(2) \nRencana Strategis Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) wajib dicantumkan dalam \nrencana bisnis Bank. \n \nBagian Ketiga \nProses Manajemen Risiko Terkait Teknologi Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki Rencana Strategis Teknologi \nInformasi yang mendukung rencana strategis kegiatan \nusaha Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rencana Strategis Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) wajib dicantumkan dalam \nrencana bisnis Bank. \n \nBagian Ketiga \nProses Manajemen Risiko Terkait Teknologi Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memiliki kebijakan, standar, dan prosedur \natas proses manajemen risiko Teknologi Informasi. \n(2) \nBank wajib melakukan proses manajemen risiko \nterkait penggunaan Teknologi Informasi.  \n(3) \nProses manajemen risiko sebagaimana dimaksud pada \nayat (2) dilakukan paling sedikit terhadap aspek \nterkait Teknologi Informasi sebagaimana dimaksud \ndalam Pasal 8 ayat (2).  \n(4) \nDalam hal Bank menggunakan pihak penyedia jasa \nTeknologi Informasi, Bank wajib memastikan pihak \n\n\n \n \npenyedia \njasa \nTeknologi \nInformasi \nmenerapkan \nmanajemen \nrisiko \nsebagaimana \ndiatur \ndalam \nPeraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki kebijakan, standar, dan prosedur \natas proses manajemen risiko Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib melakukan proses manajemen risiko \nterkait penggunaan Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Proses manajemen risiko sebagaimana dimaksud pada \nayat (2) dilakukan paling sedikit terhadap aspek \nterkait Teknologi Informasi sebagaimana dimaksud \ndalam Pasal 8 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Bank menggunakan pihak penyedia jasa \nTeknologi Informasi, Bank wajib memastikan pihak \n\n\n \n \npenyedia \njasa \nTeknologi \nInformasi \nmenerapkan \nmanajemen \nrisiko \nsebagaimana \ndiatur \ndalam \nPeraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Dalam \nmelakukan \npengembangan \ndan \npengadaan \nTeknologi Informasi, Bank wajib melakukan langkah \npengendalian untuk menghasilkan sistem dan data yang \nterjaga \nkerahasiaan \ndan \nintegrasi \nserta \nmendukung \npencapaian tujuan Bank, antara lain mencakup: \na. \nmenetapkan \ndan \nmenerapkan \nprosedur \ndan \nmetodologi pengembangan dan pengadaan Teknologi \nInformasi secara konsisten; \nb. \nmenerapkan manajemen proyek dalam pengembangan \nsistem; \nc. \nmelakukan \nuji \ncoba \nyang \nmemadai \npada \nsaat \npengembangan \ndan \npengadaan \nsuatu \nsistem, \ntermasuk uji coba bersama satuan kerja pengguna, \nuntuk memastikan keakuratan dan berfungsinya \nsistem sesuai kebutuhan pengguna serta kesesuaian \nsistem yang satu dengan sistem yang lain; \nd. \nmelakukan dokumentasi atas pengembangan dan \npemeliharaan sistem; \ne. \nmemiliki manajemen perubahan sistem aplikasi; \nf. \nmemastikan sistem Teknologi Informasi Bank mampu \nmenampilkan kembali informasi secara utuh; dan \ng. \nmengukur urgensi pembuatan perjanjian tertulis \n(escrow \nagreement) \natas \nperangkat \nlunak \nyang \ndianggap penting untuk kelangsungan operasional \nBank dalam hal perangkat lunak dibuat oleh pihak \nlain dan kode sumber tidak diberikan kepada Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmelakukan \npengembangan \ndan \npengadaan \nTeknologi Informasi, Bank wajib melakukan langkah \npengendalian untuk menghasilkan sistem dan data yang \nterjaga \nkerahasiaan \ndan \nintegrasi \nserta \nmendukung \npencapaian tujuan Bank, antara lain mencakup: \na. \nmenetapkan \ndan \nmenerapkan \nprosedur \ndan \nmetodologi pengembangan dan pengadaan Teknologi \nInformasi secara konsisten; \nb. \nmenerapkan manajemen proyek dalam pengembangan \nsistem; \nc. \nmelakukan \nuji \ncoba \nyang \nmemadai \npada \nsaat \npengembangan \ndan \npengadaan \nsuatu \nsistem, \ntermasuk uji coba bersama satuan kerja pengguna, \nuntuk memastikan keakuratan dan berfungsinya \nsistem sesuai kebutuhan pengguna serta kesesuaian \nsistem yang satu dengan sistem yang lain; \nd. \nmelakukan dokumentasi atas pengembangan dan \npemeliharaan sistem; \ne. \nmemiliki manajemen perubahan sistem aplikasi; \nf. \nmemastikan sistem Teknologi Informasi Bank mampu \nmenampilkan kembali informasi secara utuh; dan \ng. \nmengukur urgensi pembuatan perjanjian tertulis \n(escrow \nagreement) \natas \nperangkat \nlunak \nyang \ndianggap penting untuk kelangsungan operasional \nBank dalam hal perangkat lunak dibuat oleh pihak \nlain dan kode sumber tidak diberikan kepada Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Bank wajib memastikan kelangsungan dan kestabilan \noperasional Teknologi Informasi serta memitigasi risiko \nyang berpotensi dapat mengganggu kegiatan operasional \nBank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib memastikan kelangsungan dan kestabilan \noperasional Teknologi Informasi serta memitigasi risiko \nyang berpotensi dapat mengganggu kegiatan operasional \nBank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Bank \nwajib \nmenyediakan \njaringan \nkomunikasi \nyang \nmemenuhi prinsip kerahasiaan (confidentiality), integritas \n(integrity), dan ketersediaan (availability).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nwajib \nmenyediakan \njaringan \nkomunikasi \nyang \nmemenuhi prinsip kerahasiaan (confidentiality), integritas \n(integrity), dan ketersediaan (availability)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Bagi bank umum konvensional yang memiliki unit usaha \nsyariah wajib memiliki sistem yang dapat menghasilkan \nlaporan terpisah bagi kegiatan unit usaha syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi bank umum konvensional yang memiliki unit usaha \nsyariah wajib memiliki sistem yang dapat menghasilkan \nlaporan terpisah bagi kegiatan unit usaha syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memiliki Rencana Pemulihan Bencana.  \n(2) \nBank wajib memastikan Rencana Pemulihan Bencana \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndapat \ndilaksanakan \nsecara \nefektif \nagar \nkelangsungan \noperasional Bank tetap berjalan saat terjadi bencana \ndan/atau gangguan pada sarana Teknologi Informasi \nyang digunakan Bank. \n(3) \nBank wajib melakukan uji coba atas Rencana \nPemulihan Bencana terhadap seluruh aplikasi dan \ninfrastruktur yang kritikal sesuai \nhasil \nanalisis \ndampak bisnis (business impact analysis), paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun dengan \nmelibatkan pengguna Teknologi Informasi. \n(4) \nBank wajib melakukan kaji ulang Rencana Pemulihan \nBencana paling sedikit 1 (satu) kali dalam 1 (satu) \ntahun.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki Rencana Pemulihan Bencana."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib memastikan Rencana Pemulihan Bencana \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dapat \ndilaksanakan \nsecara \nefektif \nagar \nkelangsungan \noperasional Bank tetap berjalan saat terjadi bencana \ndan/atau gangguan pada sarana Teknologi Informasi \nyang digunakan Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib melakukan uji coba atas Rencana \nPemulihan Bencana terhadap seluruh aplikasi dan \ninfrastruktur yang kritikal sesuai \nhasil \nanalisis \ndampak bisnis (business impact analysis), paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun dengan \nmelibatkan pengguna Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank wajib melakukan kaji ulang Rencana Pemulihan \nBencana paling sedikit 1 (satu) kali dalam 1 (satu) \ntahun."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Bank \nwajib \nmemastikan \npengamanan \ninformasi \ndilaksanakan secara efektif dengan memperhatikan paling \nsedikit: \na. \npengamanan informasi yang ditujukan agar informasi \nyang dikelola terjaga kerahasiaan (confidentiality), \nintegritas (integrity), dan ketersediaan (availability) \nsecara efektif dan efisien dengan memperhatikan \nkepatuhan terhadap ketentuan; \n\n\n \n \nb. \npengamanan informasi yang dilakukan terhadap aspek \nteknologi, sumber daya manusia, dan proses dalam \npenggunaan Teknologi Informasi; \nc. \npengamanan informasi yang diterapkan berdasarkan \nhasil penilaian terhadap risiko (risk assessment) pada \ninformasi yang dimiliki Bank; dan \nd. \nketersediaan manajemen penanganan insiden dalam \npengamanan informasi. \n \nBagian Keempat \nSistem Pengendalian dan Audit Intern atas \nPenyelenggaraan Teknologi Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nwajib \nmemastikan \npengamanan \ninformasi \ndilaksanakan secara efektif dengan memperhatikan paling \nsedikit: \na. \npengamanan informasi yang ditujukan agar informasi \nyang dikelola terjaga kerahasiaan (confidentiality), \nintegritas (integrity), dan ketersediaan (availability) \nsecara efektif dan efisien dengan memperhatikan \nkepatuhan terhadap ketentuan; \n\n\n \n \nb. \npengamanan informasi yang dilakukan terhadap aspek \nteknologi, sumber daya manusia, dan proses dalam \npenggunaan Teknologi Informasi; \nc. \npengamanan informasi yang diterapkan berdasarkan \nhasil penilaian terhadap risiko (risk assessment) pada \ninformasi yang dimiliki Bank; dan \nd. \nketersediaan manajemen penanganan insiden dalam \npengamanan informasi. \n \nBagian Keempat \nSistem Pengendalian dan Audit Intern atas \nPenyelenggaraan Teknologi Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib melaksanakan sistem pengendalian intern \nsecara efektif terhadap seluruh aspek penggunaan \nTeknologi Informasi. \n(2) \nSistem pengendalian intern sebagaimana dimaksud \npada ayat (1) paling sedikit meliputi: \na. \npengawasan oleh manajemen dan adanya budaya \npengendalian; \nb. \nidentifikasi dan penilaian risiko; \nc. \nkegiatan pengendalian dan pemisahan fungsi; \nd. \nsistem informasi, sistem akuntansi, dan sistem \nkomunikasi;  dan \ne. \nkegiatan pemantauan dan koreksi penyimpangan, \nyang dilakukan oleh satuan kerja operasional, \nsatuan kerja audit intern maupun pihak lain. \n(3) \nSistem informasi, sistem akuntansi, dan sistem \nkomunikasi sebagaimana dimaksud pada ayat (2) \nhuruf d harus didukung oleh teknologi, sumber daya \nmanusia, \ndan \nstruktur \norganisasi \nBank \nyang \nmemadai. \n(4) \nKegiatan \npemantauan \ndan \ntindakan \nkoreksi \npenyimpangan sebagaimana dimaksud pada ayat (2) \nhuruf e paling sedikit meliputi: \n \n\n\n \n \na. \nkegiatan pemantauan secara terus menerus; \nb. \npelaksanaan fungsi audit intern yang efektif dan \nmenyeluruh; dan \nc. \nperbaikan \nterhadap \npenyimpangan \nyang \ndiidentifikasi \noleh \nsatuan \nkerja \noperasional, \nsatuan kerja audit intern, dan/atau pihak lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melaksanakan sistem pengendalian intern \nsecara efektif terhadap seluruh aspek penggunaan \nTeknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sistem pengendalian intern sebagaimana dimaksud \npada ayat (1) paling sedikit meliputi: \na. \npengawasan oleh manajemen dan adanya budaya \npengendalian; \nb. \nidentifikasi dan penilaian risiko; \nc. \nkegiatan pengendalian dan pemisahan fungsi; \nd. \nsistem informasi, sistem akuntansi, dan sistem \nkomunikasi;  dan \ne. \nkegiatan pemantauan dan koreksi penyimpangan, \nyang dilakukan oleh satuan kerja operasional, \nsatuan kerja audit intern maupun pihak lain."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sistem informasi, sistem akuntansi, dan sistem \nkomunikasi sebagaimana dimaksud pada ayat (2) \nhuruf d harus didukung oleh teknologi, sumber daya \nmanusia, \ndan \nstruktur \norganisasi \nBank \nyang \nmemadai."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kegiatan \npemantauan \ndan \ntindakan \nkoreksi \npenyimpangan sebagaimana dimaksud pada ayat (2) \nhuruf e paling sedikit meliputi: \n \n\n\n \n \na. \nkegiatan pemantauan secara terus menerus; \nb. \npelaksanaan fungsi audit intern yang efektif dan \nmenyeluruh; dan \nc. \nperbaikan \nterhadap \npenyimpangan \nyang \ndiidentifikasi \noleh \nsatuan \nkerja \noperasional, \nsatuan kerja audit intern, dan/atau pihak lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nPelaksanaan fungsi audit intern Teknologi Informasi \nsebagaimana dimaksud dalam Pasal 17 ayat (4)    \nhuruf \nb \nmemperhatikan \nkepatuhan \nterhadap \nketentuan mengenai standar pelaksanaan fungsi audit \nintern.  \n(2) \nDalam rangka memastikan pelaksanaan audit intern \nTeknologi Informasi sebagaimana dimaksud dalam \nPasal 17 ayat (4) huruf b, Bank wajib memastikan \nketersediaan jejak audit (audit trail) atas seluruh \nkegiatan penyelenggaraan Teknologi Informasi untuk \nkeperluan \npengawasan, \npenegakan \nhukum, \npenyelesaian sengketa, verifikasi, pengujian, dan \npemeriksaan lain. \n(3) \nDalam hal terdapat keterbatasan kemampuan  satuan \nkerja audit intern, pelaksanaan fungsi audit intern \nTeknologi Informasi sebagaimana dimaksud pada    \nayat (1) dapat dilakukan oleh auditor ekstern. \n(4) \nBank wajib melaksanakan audit intern terhadap \nseluruh \naspek \ndalam \npenyelenggaraan \ndan \npenggunaan Teknologi Informasi sesuai kebutuhan, \nprioritas, dan hasil analisis risiko Teknologi Informasi \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan fungsi audit intern Teknologi Informasi \nsebagaimana dimaksud dalam Pasal 17 ayat (4)    \nhuruf \nb \nmemperhatikan \nkepatuhan \nterhadap \nketentuan mengenai standar pelaksanaan fungsi audit \nintern."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka memastikan pelaksanaan audit intern \nTeknologi Informasi sebagaimana dimaksud dalam \nPasal 17 ayat (4) huruf b, Bank wajib memastikan \nketersediaan jejak audit (audit trail) atas seluruh \nkegiatan penyelenggaraan Teknologi Informasi untuk \nkeperluan \npengawasan, \npenegakan \nhukum, \npenyelesaian sengketa, verifikasi, pengujian, dan \npemeriksaan lain."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat keterbatasan kemampuan  satuan \nkerja audit intern, pelaksanaan fungsi audit intern \nTeknologi Informasi sebagaimana dimaksud pada    \nayat (1) dapat dilakukan oleh auditor ekstern."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank wajib melaksanakan audit intern terhadap \nseluruh \naspek \ndalam \npenyelenggaraan \ndan \npenggunaan Teknologi Informasi sesuai kebutuhan, \nprioritas, dan hasil analisis risiko Teknologi Informasi \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memiliki pedoman audit intern atas \npenggunaan Teknologi Informasi yang diselenggarakan \noleh Bank sendiri dan/atau oleh pihak penyedia jasa \nTeknologi Informasi.  \n\n\n \n \n(2) \nBank wajib melakukan kaji ulang atas fungsi audit \nintern atas penggunaan Teknologi Informasi paling \nsedikit 1 (satu) kali dalam 3 (tiga) tahun. \n(3) \nKaji ulang sebagaimana dimaksud pada ayat (2) wajib \nmenggunakan jasa pihak ekstern yang independen. \n(4) \nBank wajib menyampaikan kepada Otoritas Jasa \nKeuangan: \na. \nhasil kaji ulang sebagaimana dimaksud pada  \nayat (3) disertai saran perbaikan sebagai bagian \ndari laporan kaji ulang; dan  \nb. \nhasil audit intern terhadap Teknologi Informasi \nsebagai bagian dari laporan pelaksanaan dan \npokok-pokok hasil audit intern, \nsebagaimana \ndiatur \ndalam \nketentuan \nmengenai \npenerapan standar pelaksanaan fungsi audit intern. \n \nBAB IV \nPENYELENGGARAAN TEKNOLOGI INFORMASI \nOLEH BANK DAN/ATAU PIHAK PENYEDIA JASA \nTEKNOLOGI INFORMASI \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki pedoman audit intern atas \npenggunaan Teknologi Informasi yang diselenggarakan \noleh Bank sendiri dan/atau oleh pihak penyedia jasa \nTeknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib melakukan kaji ulang atas fungsi audit \nintern atas penggunaan Teknologi Informasi paling \nsedikit 1 (satu) kali dalam 3 (tiga) tahun."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kaji ulang sebagaimana dimaksud pada ayat (2) wajib \nmenggunakan jasa pihak ekstern yang independen."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank wajib menyampaikan kepada Otoritas Jasa \nKeuangan: \na. \nhasil kaji ulang sebagaimana dimaksud pada  \nayat (3) disertai saran perbaikan sebagai bagian \ndari laporan kaji ulang; dan  \nb. \nhasil audit intern terhadap Teknologi Informasi \nsebagai bagian dari laporan pelaksanaan dan \npokok-pokok hasil audit intern, \nsebagaimana \ndiatur \ndalam \nketentuan \nmengenai \npenerapan standar pelaksanaan fungsi audit intern. \n \nBAB IV \nPENYELENGGARAAN TEKNOLOGI INFORMASI \nOLEH BANK DAN/ATAU PIHAK PENYEDIA JASA \nTEKNOLOGI INFORMASI \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank menyelenggarakan Teknologi Informasi. \n(2) \nPenyelenggaraan Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank \nsendiri dan/atau pihak penyedia jasa Teknologi \nInformasi. \n(3) \nDalam hal penyelenggaraan Teknologi Informasi Bank \ndilakukan \noleh \npihak \npenyedia \njasa \nTeknologi \nInformasi sebagaimana dimaksud pada ayat (2), Bank \nwajib: \na. \nbertanggung jawab atas penerapan manajemen \nrisiko; \nb. \nmemiliki satuan kerja Teknologi Informasi; \n\n\n \n \nc. \nmemiliki pejabat tertinggi yang memimpin satuan \nkerja Teknologi Informasi; \nd. \nmampu \nmelakukan \npengawasan \natas \npelaksanaan kegiatan Bank yang diselenggarakan \noleh pihak penyedia jasa; \ne. \nmemilih pihak penyedia jasa Teknologi Informasi \nberdasarkan analisa biaya dan manfaat (cost and \nbenefit \nanalysis) \ndengan \nmengikutsertakan \nsatuan kerja Teknologi Informasi Bank; \nf. \nmemantau dan mengevaluasi keandalan pihak \npenyedia jasa Teknologi Informasi secara berkala \nyang menyangkut kinerja, reputasi penyedia jasa, \ndan kelangsungan penyediaan layanan; \ng. \nmemberikan akses kepada auditor intern, auditor \nekstern, dan Otoritas Jasa Keuangan untuk \nmemperoleh data dan informasi setiap kali \ndibutuhkan; \nh. \nmemberikan \nakses \nkepada \nOtoritas \nJasa \nKeuangan terhadap Pangkalan Data secara tepat \nwaktu, baik untuk data terkini maupun untuk \ndata yang telah lalu; dan \ni. \nmemastikan \npihak \npenyedia \njasa \nTeknologi \nInformasi: \n1. \nmemiliki \ntenaga \nahli \nyang \nmemiliki \nkeandalan dengan didukung oleh sertifikat \nkeahlian secara akademis dan/atau secara \nprofesional \nsesuai \ndengan \nkeperluan \npenyelenggaraan Teknologi Informasi; \n2. \nmenerapkan prinsip pengendalian Teknologi \nInformasi (Information Technology control) \nsecara memadai yang dibuktikan dengan \nhasil \naudit \nyang \ndilakukan \npihak \nindependen;  \n3. \nmenyediakan akses bagi auditor intern Bank, \nauditor ekstern yang ditunjuk oleh Bank, \nOtoritas Jasa Keuangan, dan/atau pihak lain \nyang sesuai dengan ketentuan peraturan \n\n\n \n \nperundang-undangan \nberwenang \nuntuk \nmelakukan \npemeriksaan \ndalam \nrangka \nmemperoleh \ndata \ndan \ninformasi \nyang \ndiperlukan secara tepat waktu setiap kali \ndibutuhkan;  \n4. \nmenyatakan tidak berkeberatan dalam hal \nOtoritas Jasa Keuangan dan/atau pihak lain \nyang \nsesuai \nundang-undang \nberwenang \nuntuk \nmelakukan \npemeriksaan, \nakan \nmelakukan pemeriksaan terhadap kegiatan \npenyediaan jasa yang diberikan;  \n5. \nsebagai pihak terafiliasi, menjaga keamanan \nseluruh informasi termasuk rahasia Bank \ndan data pribadi nasabah;  \n6. \nhanya \ndapat \nmelakukan \npengalihan  \nsebagian kegiatan (subkontrak) berdasarkan \npersetujuan Bank yang dibuktikan dengan \ndokumen tertulis; \n7. \nmelaporkan kepada Bank setiap kejadian \nkritis yang dapat mengakibatkan kerugian \nkeuangan \nyang \nsignifikan \ndan/atau \nmengganggu kelancaran operasional Bank; \n8. \nmenyampaikan \nhasil \naudit \nTeknologi \nInformasi \nyang \ndilakukan \nauditor \nindependen \nsecara \nberkala \nterhadap \npenyelenggaraan \nPusat \nData, \nPusat \nPemulihan Bencana, dan/atau Pemrosesan \nTransaksi \nBerbasis \nTeknologi \nInformasi, \nkepada Otoritas Jasa Keuangan melalui \nBank yang bersangkutan; \n9. \nmenyediakan Rencana Pemulihan Bencana \nyang teruji dan memadai; \n10. bersedia untuk kemungkinan penghentian \nperjanjian sebelum jangka waktu perjanjian \nberakhir (early termination); dan  \n\n\n \n \n11. memenuhi tingkat layanan sesuai dengan \nservice level agreement antara Bank dan \npihak penyedia jasa Teknologi Informasi. \n(4) \nPenggunaan pihak penyedia jasa Teknologi Informasi \noleh Bank sebagaimana dimaksud pada ayat (3) wajib \ndidasarkan pada perjanjian tertulis yang paling sedikit \nmemuat kesediaan pihak penyedia jasa Teknologi \nInformasi \nuntuk \nmenyelenggarakan \ndan/atau \nmelakukan hal-hal sebagaimana dimaksud pada ayat \n(3) huruf i. \n(5) \nBank wajib melakukan proses seleksi dalam memilih \npihak penyedia jasa Teknologi Informasi dengan \nmemperhatikan prinsip kehati-hatian, manajemen \nrisiko, dan didasarkan pada hubungan kerja sama \nsecara wajar (arm’s length principle), dalam hal pihak \npenyedia jasa Teknologi Informasi merupakan pihak \nterkait dengan Bank.  \n(6) \nBank wajib melakukan tindakan tertentu dalam hal \nterdapat kondisi berupa: \na. \nmemburuknya kinerja penyelenggaraan Teknologi \nInformasi oleh penyedia jasa Teknologi Informasi \nyang dapat berdampak signifikan pada kegiatan \nusaha Bank; \nb. \npihak penyedia jasa Teknologi Informasi menjadi \ninsolven, dalam proses menuju likuidasi, atau \ndipailitkan oleh pengadilan; \nc. \nterdapat pelanggaran oleh pihak penyedia jasa \nTeknologi Informasi terhadap ketentuan rahasia \nBank dan kewajiban merahasiakan data pribadi \nnasabah; dan/atau \nd. \nterdapat kondisi yang menyebabkan Bank tidak \ndapat menyediakan data yang diperlukan dalam \nrangka pengawasan oleh Otoritas Jasa Keuangan. \n(7) \nTindakan \ntertentu \nsebagaimana \ndimaksud \npada     \nayat (6), paling sedikit: \na. \nmelaporkan kepada Otoritas Jasa Keuangan \npaling lama 3 (tiga) hari kerja setelah kondisi \n\n\n \n \nsebagaimana dimaksud pada ayat (6) diketahui \noleh Bank; \nb. \nmemutuskan tindak lanjut yang akan diambil \nuntuk \nmengatasi \npermasalahan \ntermasuk \npenghentian \npenggunaan \njasa \ndalam \nhal \ndiperlukan; dan \nc. \nmelaporkan kepada Otoritas Jasa Keuangan \nsegera setelah Bank menghentikan penggunaan \njasa \nsebelum \nberakhirnya \njangka \nwaktu \nperjanjian. \n(8) \nDalam hal penggunaan penyedia jasa Teknologi \nInformasi atau rencana penggunaan penyedia jasa \nTeknologi Informasi menyebabkan atau diindikasikan \nakan \nmenyebabkan \nkesulitan \npengawasan \nyang \ndilakukan oleh Otoritas Jasa Keuangan, Otoritas Jasa \nKeuangan dapat: \na. \nmemerintahkan \nBank \nuntuk \nmenghentikan \npenggunaan jasa Teknologi Informasi sebelum \nberakhirnya jangka waktu perjanjian; atau  \nb. \nmenolak rencana penggunaan pihak penyedia \njasa Teknologi Informasi yang diajukan oleh \nBank. \n \nBagian Kedua \nPenempatan Sistem Elektronik pada Pusat Data \ndan/atau Pusat Pemulihan Bencana",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank menyelenggarakan Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggaraan Teknologi Informasi sebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank \nsendiri dan/atau pihak penyedia jasa Teknologi \nInformasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal penyelenggaraan Teknologi Informasi Bank \ndilakukan \noleh \npihak \npenyedia \njasa \nTeknologi \nInformasi sebagaimana dimaksud pada ayat (2), Bank \nwajib: \na. \nbertanggung jawab atas penerapan manajemen \nrisiko; \nb. \nmemiliki satuan kerja Teknologi Informasi; \n\n\n \n \nc. \nmemiliki pejabat tertinggi yang memimpin satuan \nkerja Teknologi Informasi; \nd. \nmampu \nmelakukan \npengawasan \natas \npelaksanaan kegiatan Bank yang diselenggarakan \noleh pihak penyedia jasa; \ne. \nmemilih pihak penyedia jasa Teknologi Informasi \nberdasarkan analisa biaya dan manfaat (cost and \nbenefit \nanalysis) \ndengan \nmengikutsertakan \nsatuan kerja Teknologi Informasi Bank; \nf. \nmemantau dan mengevaluasi keandalan pihak \npenyedia jasa Teknologi Informasi secara berkala \nyang menyangkut kinerja, reputasi penyedia jasa, \ndan kelangsungan penyediaan layanan; \ng. \nmemberikan akses kepada auditor intern, auditor \nekstern, dan Otoritas Jasa Keuangan untuk \nmemperoleh data dan informasi setiap kali \ndibutuhkan; \nh. \nmemberikan \nakses \nkepada \nOtoritas \nJasa \nKeuangan terhadap Pangkalan Data secara tepat \nwaktu, baik untuk data terkini maupun untuk \ndata yang telah lalu; dan \ni. \nmemastikan \npihak \npenyedia \njasa \nTeknologi \nInformasi: \n1. \nmemiliki \ntenaga \nahli \nyang \nmemiliki \nkeandalan dengan didukung oleh sertifikat \nkeahlian secara akademis dan/atau secara \nprofesional \nsesuai \ndengan \nkeperluan \npenyelenggaraan Teknologi Informasi; \n2. \nmenerapkan prinsip pengendalian Teknologi \nInformasi (Information Technology control) \nsecara memadai yang dibuktikan dengan \nhasil \naudit \nyang \ndilakukan \npihak \nindependen;  \n3. \nmenyediakan akses bagi auditor intern Bank, \nauditor ekstern yang ditunjuk oleh Bank, \nOtoritas Jasa Keuangan, dan/atau pihak lain \nyang sesuai dengan ketentuan peraturan \n\n\n \n \nperundang-undangan \nberwenang \nuntuk \nmelakukan \npemeriksaan \ndalam \nrangka \nmemperoleh \ndata \ndan \ninformasi \nyang \ndiperlukan secara tepat waktu setiap kali \ndibutuhkan;  \n4. \nmenyatakan tidak berkeberatan dalam hal \nOtoritas Jasa Keuangan dan/atau pihak lain \nyang \nsesuai \nundang-undang \nberwenang \nuntuk \nmelakukan \npemeriksaan, \nakan \nmelakukan pemeriksaan terhadap kegiatan \npenyediaan jasa yang diberikan;  \n5. \nsebagai pihak terafiliasi, menjaga keamanan \nseluruh informasi termasuk rahasia Bank \ndan data pribadi nasabah;  \n6. \nhanya \ndapat \nmelakukan \npengalihan  \nsebagian kegiatan (subkontrak) berdasarkan \npersetujuan Bank yang dibuktikan dengan \ndokumen tertulis; \n7. \nmelaporkan kepada Bank setiap kejadian \nkritis yang dapat mengakibatkan kerugian \nkeuangan \nyang \nsignifikan \ndan/atau \nmengganggu kelancaran operasional Bank; \n8. \nmenyampaikan \nhasil \naudit \nTeknologi \nInformasi \nyang \ndilakukan \nauditor \nindependen \nsecara \nberkala \nterhadap \npenyelenggaraan \nPusat \nData, \nPusat \nPemulihan Bencana, dan/atau Pemrosesan \nTransaksi \nBerbasis \nTeknologi \nInformasi, \nkepada Otoritas Jasa Keuangan melalui \nBank yang bersangkutan; \n9. \nmenyediakan Rencana Pemulihan Bencana \nyang teruji dan memadai; \n10. bersedia untuk kemungkinan penghentian \nperjanjian sebelum jangka waktu perjanjian \nberakhir (early termination); dan  \n\n\n \n \n11. memenuhi tingkat layanan sesuai dengan \nservice level agreement antara Bank dan \npihak penyedia jasa Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penggunaan pihak penyedia jasa Teknologi Informasi \noleh Bank sebagaimana dimaksud pada ayat (3) wajib \ndidasarkan pada perjanjian tertulis yang paling sedikit \nmemuat kesediaan pihak penyedia jasa Teknologi \nInformasi \nuntuk \nmenyelenggarakan \ndan/atau \nmelakukan hal-hal sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "huruf i."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib melakukan proses seleksi dalam memilih \npihak penyedia jasa Teknologi Informasi dengan \nmemperhatikan prinsip kehati-hatian, manajemen \nrisiko, dan didasarkan pada hubungan kerja sama \nsecara wajar (arm’s length principle), dalam hal pihak \npenyedia jasa Teknologi Informasi merupakan pihak \nterkait dengan Bank."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Bank wajib melakukan tindakan tertentu dalam hal \nterdapat kondisi berupa: \na. \nmemburuknya kinerja penyelenggaraan Teknologi \nInformasi oleh penyedia jasa Teknologi Informasi \nyang dapat berdampak signifikan pada kegiatan \nusaha Bank; \nb. \npihak penyedia jasa Teknologi Informasi menjadi \ninsolven, dalam proses menuju likuidasi, atau \ndipailitkan oleh pengadilan; \nc. \nterdapat pelanggaran oleh pihak penyedia jasa \nTeknologi Informasi terhadap ketentuan rahasia \nBank dan kewajiban merahasiakan data pribadi \nnasabah; dan/atau \nd. \nterdapat kondisi yang menyebabkan Bank tidak \ndapat menyediakan data yang diperlukan dalam \nrangka pengawasan oleh Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Tindakan \ntertentu \nsebagaimana \ndimaksud \npada     \nayat (6), paling sedikit: \na. \nmelaporkan kepada Otoritas Jasa Keuangan \npaling lama 3 (tiga) hari kerja setelah kondisi \n\n\n \n \nsebagaimana dimaksud pada ayat (6) diketahui \noleh Bank; \nb. \nmemutuskan tindak lanjut yang akan diambil \nuntuk \nmengatasi \npermasalahan \ntermasuk \npenghentian \npenggunaan \njasa \ndalam \nhal \ndiperlukan; dan \nc. \nmelaporkan kepada Otoritas Jasa Keuangan \nsegera setelah Bank menghentikan penggunaan \njasa \nsebelum \nberakhirnya \njangka \nwaktu \nperjanjian."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Dalam hal penggunaan penyedia jasa Teknologi \nInformasi atau rencana penggunaan penyedia jasa \nTeknologi Informasi menyebabkan atau diindikasikan \nakan \nmenyebabkan \nkesulitan \npengawasan \nyang \ndilakukan oleh Otoritas Jasa Keuangan, Otoritas Jasa \nKeuangan dapat: \na. \nmemerintahkan \nBank \nuntuk \nmenghentikan \npenggunaan jasa Teknologi Informasi sebelum \nberakhirnya jangka waktu perjanjian; atau  \nb. \nmenolak rencana penggunaan pihak penyedia \njasa Teknologi Informasi yang diajukan oleh \nBank. \n \nBagian Kedua \nPenempatan Sistem Elektronik pada Pusat Data \ndan/atau Pusat Pemulihan Bencana"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib menempatkan Sistem Elektronik pada \nPusat Data dan Pusat Pemulihan Bencana di wilayah \nIndonesia.  \n(2) \nBank hanya dapat menempatkan Sistem Elektronik \npada Pusat Data dan/atau Pusat Pemulihan Bencana \ndi luar wilayah Indonesia sepanjang mendapatkan \npersetujuan dari Otoritas Jasa Keuangan. \n(3) \nSistem Elektronik yang dapat ditempatkan pada Pusat \nData dan/atau Pusat Pemulihan Bencana di luar \n\n\n \n \nwilayah \nIndonesia \nsebagaimana \ndimaksud \npada      \nayat (2), adalah: \na. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmendukung analisis terintegrasi dalam rangka \nmemenuhi home regulatory yang bersifat global, \ntermasuk lintas negara, sepanjang tidak terkait \nlangsung dengan data individu nasabah dan data \ntransaksi masing-masing nasabah, kecuali diatur \nlain oleh home regulatory. \nb. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmanajemen risiko secara terintegrasi dengan \nkantor pusat atau kantor induk/kantor entitas \nutama di luar wilayah Indonesia, sepanjang \nmenggunakan: \n1. \ndata agregat nasabah; dan/atau \n2. \ndata individu nasabah yang merupakan satu \ngrup dengan nasabah di bank atau grup \nbank yang sama di luar wilayah Indonesia; \nc. \nSistem Elektronik yang digunakan dalam rangka \npenerapan anti pencucian uang dan pencegahan \npendanaan terorisme secara terintegrasi dengan \nkantor pusat bank atau kantor induk bank di \nluar wilayah Indonesia, yang tidak terkait dengan \ndata transaksi nasabah; \nd. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmanajemen komunikasi antara kantor pusat \ndengan \nkantor \ncabang \natau \nantara \nanak \nperusahaan dengan perusahaan induk; dan/atau \ne. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmanajemen intern. \n(4) \nPersetujuan Otoritas Jasa Keuangan sebagaimana \ndimaksud pada ayat (2) dapat diberikan dalam hal \nBank: \na. \nmemenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 20 ayat (3), ayat (4), dan ayat (5); \nb. \nmenyampaikan hasil analisis country risk; \n\n\n \n \nc. \nmemastikan penyelenggaraan Sistem Elektronik \ndi luar wilayah Indonesia tidak mengurangi \nefektifitas pengawasan Otoritas Jasa Keuangan \nyang dibuktikan dengan surat pernyataan; \nd. \nmemastikan bahwa informasi mengenai rahasia \nBank hanya diungkapkan sepanjang memenuhi \nperaturan \nperundang-undangan \ndi \nIndonesia \nyang dibuktikan dengan perjanjian kerja sama \nantara Bank dan pihak penyedia jasa Teknologi \nInformasi; \ne. \nmemastikan bahwa perjanjian tertulis dengan \npenyedia jasa Teknologi Informasi juga memuat \nklausula pilihan hukum (choice of law); \nf. \nmenyampaikan surat pernyataan tidak keberatan \ndari otoritas pengawas penyedia jasa Teknologi \nInformasi di luar wilayah Indonesia bahwa \nOtoritas \nJasa \nKeuangan \ndapat \nmelakukan \npemeriksaan \nterhadap \npihak \npenyedia \njasa \nTeknologi Informasi; \ng. \nmenyampaikan surat pernyataan bahwa Bank \nakan \nmenyampaikan \nsecara \nberkala \nhasil \npenilaian yang dilakukan kantor bank di luar \nwilayah Indonesia atas penerapan manajemen \nrisiko \npada \npihak \npenyedia \njasa \nTeknologi \nInformasi; \nh. \nmemastikan manfaat dari rencana penempatan \nSistem Elektronik di luar wilayah Indonesia bagi \nBank lebih besar daripada beban yang ditanggung \noleh Bank; dan \ni. \nmenyampaikan \nrencana \nBank \nuntuk \nmeningkatkan kemampuan sumber daya manusia \nBank \nbaik \nyang \nberkaitan \ndengan \npenyelenggaraan Teknologi Informasi maupun \ntransaksi bisnis atau produk yang ditawarkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menempatkan Sistem Elektronik pada \nPusat Data dan Pusat Pemulihan Bencana di wilayah \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank hanya dapat menempatkan Sistem Elektronik \npada Pusat Data dan/atau Pusat Pemulihan Bencana \ndi luar wilayah Indonesia sepanjang mendapatkan \npersetujuan dari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sistem Elektronik yang dapat ditempatkan pada Pusat \nData dan/atau Pusat Pemulihan Bencana di luar \n\n\n \n \nwilayah \nIndonesia \nsebagaimana \ndimaksud \npada      \nayat (2), adalah: \na. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmendukung analisis terintegrasi dalam rangka \nmemenuhi home regulatory yang bersifat global, \ntermasuk lintas negara, sepanjang tidak terkait \nlangsung dengan data individu nasabah dan data \ntransaksi masing-masing nasabah, kecuali diatur \nlain oleh home regulatory. \nb. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmanajemen risiko secara terintegrasi dengan \nkantor pusat atau kantor induk/kantor entitas \nutama di luar wilayah Indonesia, sepanjang \nmenggunakan: \n1. \ndata agregat nasabah; dan/atau \n2. \ndata individu nasabah yang merupakan satu \ngrup dengan nasabah di bank atau grup \nbank yang sama di luar wilayah Indonesia; \nc. \nSistem Elektronik yang digunakan dalam rangka \npenerapan anti pencucian uang dan pencegahan \npendanaan terorisme secara terintegrasi dengan \nkantor pusat bank atau kantor induk bank di \nluar wilayah Indonesia, yang tidak terkait dengan \ndata transaksi nasabah; \nd. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmanajemen komunikasi antara kantor pusat \ndengan \nkantor \ncabang \natau \nantara \nanak \nperusahaan dengan perusahaan induk; dan/atau \ne. \nSistem \nElektronik \nyang \ndigunakan \nuntuk \nmanajemen intern."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Persetujuan Otoritas Jasa Keuangan sebagaimana \ndimaksud pada ayat (2) dapat diberikan dalam hal \nBank: \na. \nmemenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 20 ayat (3), ayat (4), dan ayat (5); \nb. \nmenyampaikan hasil analisis country risk; \n\n\n \n \nc. \nmemastikan penyelenggaraan Sistem Elektronik \ndi luar wilayah Indonesia tidak mengurangi \nefektifitas pengawasan Otoritas Jasa Keuangan \nyang dibuktikan dengan surat pernyataan; \nd. \nmemastikan bahwa informasi mengenai rahasia \nBank hanya diungkapkan sepanjang memenuhi \nperaturan \nperundang-undangan \ndi \nIndonesia \nyang dibuktikan dengan perjanjian kerja sama \nantara Bank dan pihak penyedia jasa Teknologi \nInformasi; \ne. \nmemastikan bahwa perjanjian tertulis dengan \npenyedia jasa Teknologi Informasi juga memuat \nklausula pilihan hukum (choice of law); \nf. \nmenyampaikan surat pernyataan tidak keberatan \ndari otoritas pengawas penyedia jasa Teknologi \nInformasi di luar wilayah Indonesia bahwa \nOtoritas \nJasa \nKeuangan \ndapat \nmelakukan \npemeriksaan \nterhadap \npihak \npenyedia \njasa \nTeknologi Informasi; \ng. \nmenyampaikan surat pernyataan bahwa Bank \nakan \nmenyampaikan \nsecara \nberkala \nhasil \npenilaian yang dilakukan kantor bank di luar \nwilayah Indonesia atas penerapan manajemen \nrisiko \npada \npihak \npenyedia \njasa \nTeknologi \nInformasi; \nh. \nmemastikan manfaat dari rencana penempatan \nSistem Elektronik di luar wilayah Indonesia bagi \nBank lebih besar daripada beban yang ditanggung \noleh Bank; dan \ni. \nmenyampaikan \nrencana \nBank \nuntuk \nmeningkatkan kemampuan sumber daya manusia \nBank \nbaik \nyang \nberkaitan \ndengan \npenyelenggaraan Teknologi Informasi maupun \ntransaksi bisnis atau produk yang ditawarkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nPusat \nData \ndan \nPusat \nPemulihan \nBencana \nsebagaimana \ndimaksud \ndalam \nPasal \nwajib \nmenjamin kelangsungan usaha Bank. \n(2) \nPengelolaan Pusat Data dan Pusat Pemulihan Bencana \nsebagaimana dimaksud pada ayat (1), diatur lebih \nlanjut dalam Surat Edaran Otoritas Jasa Keuangan. \n \nBagian Ketiga \nPenyelenggaraan Pemrosesan Transaksi Berbasis Teknologi \nInformasi oleh Pihak Penyedia Jasa",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pusat \nData \ndan \nPusat \nPemulihan \nBencana \nsebagaimana \ndimaksud \ndalam \nPasal \nwajib \nmenjamin kelangsungan usaha Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengelolaan Pusat Data dan Pusat Pemulihan Bencana \nsebagaimana dimaksud pada ayat (1), diatur lebih \nlanjut dalam Surat Edaran Otoritas Jasa Keuangan. \n \nBagian Ketiga \nPenyelenggaraan Pemrosesan Transaksi Berbasis Teknologi \nInformasi oleh Pihak Penyedia Jasa"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib menyelenggarakan Pemrosesan Transaksi \nBerbasis Teknologi Informasi di wilayah Indonesia. \n(2) \nPemrosesan Transaksi Berbasis Teknologi Informasi \ndapat dilakukan oleh pihak penyedia jasa di wilayah \nIndonesia. \n(3) \nPenyelenggaraan \nPemrosesan \nTransaksi \nBerbasis \nTeknologi \nInformasi \noleh \npihak \npenyedia \njasa \nsebagaimana dimaksud pada ayat (2) dapat dilakukan \nsepanjang: \na. \nmemenuhi prinsip kehati-hatian; \nb. \nmemenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 20 ayat (3), ayat (4), dan ayat (5); dan \nc. \nmemperhatikan \naspek \nperlindungan \nkepada \nnasabah. \n(4) \nPemrosesan Transaksi Berbasis Teknologi Informasi \noleh pihak penyedia jasa Teknologi Informasi dapat \ndilakukan di luar wilayah Indonesia sepanjang: \na. \nmemenuhi persyaratan sebagaimana dimaksud \npada ayat (3); \nb. \ndokumen pendukung administrasi keuangan atas \ntransaksi yang dilakukan di kantor Bank di \nIndonesia wajib ditatausahakan di kantor Bank di \nIndonesia; \n \n\n\n \n \nc. \nRencana \nbisnis \nBank \nmenunjukkan \nadanya \nupaya untuk meningkatkan peran Bank bagi \nperkembangan perekonomian Indonesia; dan \nd. \nmendapatkan persetujuan terlebih dahulu oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyelenggarakan Pemrosesan Transaksi \nBerbasis Teknologi Informasi di wilayah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemrosesan Transaksi Berbasis Teknologi Informasi \ndapat dilakukan oleh pihak penyedia jasa di wilayah \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggaraan \nPemrosesan \nTransaksi \nBerbasis \nTeknologi \nInformasi \noleh \npihak \npenyedia \njasa \nsebagaimana dimaksud pada ayat (2) dapat dilakukan \nsepanjang: \na. \nmemenuhi prinsip kehati-hatian; \nb. \nmemenuhi persyaratan sebagaimana dimaksud \ndalam Pasal 20 ayat (3), ayat (4), dan ayat (5); dan \nc. \nmemperhatikan \naspek \nperlindungan \nkepada \nnasabah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemrosesan Transaksi Berbasis Teknologi Informasi \noleh pihak penyedia jasa Teknologi Informasi dapat \ndilakukan di luar wilayah Indonesia sepanjang: \na. \nmemenuhi persyaratan sebagaimana dimaksud \npada ayat (3); \nb. \ndokumen pendukung administrasi keuangan atas \ntransaksi yang dilakukan di kantor Bank di \nIndonesia wajib ditatausahakan di kantor Bank di \nIndonesia; \n \n\n\n \n \nc. \nRencana \nbisnis \nBank \nmenunjukkan \nadanya \nupaya untuk meningkatkan peran Bank bagi \nperkembangan perekonomian Indonesia; dan \nd. \nmendapatkan persetujuan terlebih dahulu oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank wajib memuat rencana penggunaan pihak \npenyedia \njasa \nTeknologi \nInformasi \ndalam \npenyelenggaraan \nPusat \nData, \nPusat \nPemulihan \nBencana, dan/atau Pemrosesan Transaksi Berbasis \nTeknologi \nInformasi \ndalam \nRencana \nStrategis \nTeknologi Informasi dan rencana bisnis Bank. \n(2) \nBank wajib melaporkan rencana penggunaan pihak \npenyedia \njasa \nTeknologi \nInformasi \ndalam \npenyelenggaraan \nPusat \nData, \nPusat \nPemulihan \nBencana dan/atau Pemrosesan Transaksi Berbasis \nTeknologi Informasi di wilayah Indonesia kepada \nOtoritas Jasa Keuangan paling lambat 2 (dua) bulan \nsebelum \npenyelenggaraan \nkegiatan \noleh \npihak \npenyedia jasa efektif dioperasikan.  \n(3) \nDalam hal terdapat rencana menyelenggarakan Sistem \nElektronik di luar wilayah Indonesia, Bank wajib \nmenyampaikan \npermohonan \npersetujuan \nkepada \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsebelum \npenyelenggaraan \nkegiatan \noleh \npihak \npenyedia jasa Teknologi Informasi efektif dioperasikan.  \n(4) \nRealisasi rencana penyelenggaraan Pusat Data, Pusat \nPemulihan Bencana, dan/atau Pemrosesan Berbasis \nTeknologi Informasi oleh pihak penyedia jasa Teknologi \nInformasi wajib dilaporkan paling lambat 1 (satu) \nbulan sejak kegiatan efektif dioperasikan. \n(5) \nPersetujuan \natau \npenolakan \natas \npermohonan \nsebagaimana dimaksud pada ayat (3) diberikan oleh \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsetelah dokumen permohonan diterima secara lengkap \ndan memadai. \n\n\n \n \n(6) \nTata cara penyampaian rencana dan realisasi rencana \nsebagaimana dimaksud pada ayat (2), ayat (3), dan \nayat (4) dilaksanakan dengan menggunakan format \nlaporan penggunaan Teknologi Informasi yang diatur \nlebih lanjut dalam Surat Edaran Otoritas Jasa \nKeuangan. \n \nBagian Keempat \nPenyediaan Jasa Teknologi Informasi oleh Bank",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memuat rencana penggunaan pihak \npenyedia \njasa \nTeknologi \nInformasi \ndalam \npenyelenggaraan \nPusat \nData, \nPusat \nPemulihan \nBencana, dan/atau Pemrosesan Transaksi Berbasis \nTeknologi \nInformasi \ndalam \nRencana \nStrategis \nTeknologi Informasi dan rencana bisnis Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib melaporkan rencana penggunaan pihak \npenyedia \njasa \nTeknologi \nInformasi \ndalam \npenyelenggaraan \nPusat \nData, \nPusat \nPemulihan \nBencana dan/atau Pemrosesan Transaksi Berbasis \nTeknologi Informasi di wilayah Indonesia kepada \nOtoritas Jasa Keuangan paling lambat 2 (dua) bulan \nsebelum \npenyelenggaraan \nkegiatan \noleh \npihak \npenyedia jasa efektif dioperasikan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat rencana menyelenggarakan Sistem \nElektronik di luar wilayah Indonesia, Bank wajib \nmenyampaikan \npermohonan \npersetujuan \nkepada \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsebelum \npenyelenggaraan \nkegiatan \noleh \npihak \npenyedia jasa Teknologi Informasi efektif dioperasikan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Realisasi rencana penyelenggaraan Pusat Data, Pusat \nPemulihan Bencana, dan/atau Pemrosesan Berbasis \nTeknologi Informasi oleh pihak penyedia jasa Teknologi \nInformasi wajib dilaporkan paling lambat 1 (satu) \nbulan sejak kegiatan efektif dioperasikan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Persetujuan \natau \npenolakan \natas \npermohonan \nsebagaimana dimaksud pada ayat (3) diberikan oleh \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsetelah dokumen permohonan diterima secara lengkap \ndan memadai."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Tata cara penyampaian rencana dan realisasi rencana \nsebagaimana dimaksud pada ayat (2), ayat (3), dan \nayat (4) dilaksanakan dengan menggunakan format \nlaporan penggunaan Teknologi Informasi yang diatur \nlebih lanjut dalam Surat Edaran Otoritas Jasa \nKeuangan. \n \nBagian Keempat \nPenyediaan Jasa Teknologi Informasi oleh Bank"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank dapat memberikan penyediaan jasa Teknologi \nInformasi kepada lembaga jasa keuangan lain: \na. \nyang diawasi oleh Otoritas Jasa Keuangan, \ndan/atau \nb. \ndi luar wilayah Indonesia. \n(2) \nBank wajib mendapat persetujuan dari Otoritas Jasa \nKeuangan dalam penyediaan jasa Teknologi Informasi \nkepada \nlembaga \njasa \nkeuangan \nsebagaimana \ndimaksud pada ayat (1). \n(3) \nPersetujuan Otoritas Jasa Keuangan sebagaimana \ndimaksud pada ayat (2) dapat diberikan sepanjang \nBank: \na. \nmemenuhi persyaratan penyediaan jasa Teknologi \nInformasi tidak menjadi salah satu kegiatan \npokok Bank; \nb. \nmemenuhi prinsip kehati-hatian;  \nc. \nmemperhatikan analisa biaya dan manfaat (cost \nand benefit analysis);  \nd. \nmemenuhi \nketentuan \nperaturan \nperundang-\nundangan; dan  \ne. \nmemenuhi prinsip hubungan kerja sama secara \nwajar (arm’s length principle). \n(4) \nPenyediaan jasa Teknologi Informasi sebagaimana \ndimaksud \npada \nayat \n(1) \nhanya \nterbatas \npada \npenyelenggaraan \nPusat \nData \ndan/atau \nPusat \nPemulihan Bencana. \n\n\n \n \n(5) \nBank dapat memberikan penyediaan jasa Teknologi \nInformasi berupa aplikasi dengan persetujuan Otoritas \nJasa Keuangan, sepanjang: \na. \ntetap memenuhi persyaratan pada ayat (3) dan \nlembaga jasa keuangan pengguna jasa Teknologi \nInformasi merupakan Bank; dan \nb. \npenyediaan \njasa \nTeknologi \nInformasi \nuntuk \nmendukung program inklusi Keuangan; dan/atau \nc. \npengguna jasa Teknologi Informasi berada dalam \nkonglomerasi yang sama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat memberikan penyediaan jasa Teknologi \nInformasi kepada lembaga jasa keuangan lain: \na. \nyang diawasi oleh Otoritas Jasa Keuangan, \ndan/atau \nb. \ndi luar wilayah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib mendapat persetujuan dari Otoritas Jasa \nKeuangan dalam penyediaan jasa Teknologi Informasi \nkepada \nlembaga \njasa \nkeuangan \nsebagaimana \ndimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan Otoritas Jasa Keuangan sebagaimana \ndimaksud pada ayat (2) dapat diberikan sepanjang \nBank: \na. \nmemenuhi persyaratan penyediaan jasa Teknologi \nInformasi tidak menjadi salah satu kegiatan \npokok Bank; \nb. \nmemenuhi prinsip kehati-hatian;  \nc. \nmemperhatikan analisa biaya dan manfaat (cost \nand benefit analysis);  \nd. \nmemenuhi \nketentuan \nperaturan \nperundang-\nundangan; dan  \ne. \nmemenuhi prinsip hubungan kerja sama secara \nwajar (arm’s length principle)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyediaan jasa Teknologi Informasi sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "hanya \nterbatas \npada \npenyelenggaraan \nPusat \nData \ndan/atau \nPusat \nPemulihan Bencana."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dapat memberikan penyediaan jasa Teknologi \nInformasi berupa aplikasi dengan persetujuan Otoritas \nJasa Keuangan, sepanjang: \na. \ntetap memenuhi persyaratan pada ayat (3) dan \nlembaga jasa keuangan pengguna jasa Teknologi \nInformasi merupakan Bank; dan \nb. \npenyediaan \njasa \nTeknologi \nInformasi \nuntuk \nmendukung program inklusi Keuangan; dan/atau \nc. \npengguna jasa Teknologi Informasi berada dalam \nkonglomerasi yang sama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYELENGGARAAN TEKNOLOGI INFORMASI OLEH BANK DAN/ATAU PIHAK PENYEDIA JASA TEKNOLOGI INFORMASI",
+      "teks_lengkap": "Penyediaan \njasa \nTeknologi \nInformasi \ndalam \nrangka \npengembangan layanan produk dan/atau aktivitas Bank \ndikecualikan dari pengaturan sebagaimana dimaksud \ndalam Pasal 25. \n \nBAB V \nLAYANAN PERBANKAN ELEKTRONIK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyediaan \njasa \nTeknologi \nInformasi \ndalam \nrangka \npengembangan layanan produk dan/atau aktivitas Bank \ndikecualikan dari pengaturan sebagaimana dimaksud \ndalam Pasal 25. \n \nBAB V \nLAYANAN PERBANKAN ELEKTRONIK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "(1) \nBank yang menyelenggarakan Layanan Perbankan \nElektronik wajib memenuhi ketentuan Otoritas Jasa \nKeuangan dan/atau otoritas lain yang terkait. \n(2) \nBank \nyang \nmenyelenggarakan \nproduk \nlanjutan \nLayanan Perbankan Elektronik yang dikategorikan \nsebagai layanan perbankan digital (digital banking) \nwajib memenuhi ketentuan Otoritas Jasa Keuangan. \n(3) \nKetentuan lebih lanjut mengenai layanan perbankan \ndigital \n(digital \nbanking) \ndiatur \ndalam \nketentuan \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang menyelenggarakan Layanan Perbankan \nElektronik wajib memenuhi ketentuan Otoritas Jasa \nKeuangan dan/atau otoritas lain yang terkait."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nyang \nmenyelenggarakan \nproduk \nlanjutan \nLayanan Perbankan Elektronik yang dikategorikan \nsebagai layanan perbankan digital (digital banking) \nwajib memenuhi ketentuan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai layanan perbankan \ndigital \n(digital \nbanking) \ndiatur \ndalam \nketentuan \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "(1) \nBank wajib memuat rencana penerbitan produk \nLayanan Perbankan Elektronik dalam rencana bisnis \nBank. \n\n\n \n \n(2) \nBank \nyang \nakan \nmenerbitkan \nproduk \nLayanan \nPerbankan Elektronik yang bersifat transaksional \nwajib mengajukan permohonan persetujuan produk \nLayanan \nPerbankan \nElektronik \ndan \nmemperoleh \npersetujuan dari Otoritas Jasa Keuangan. \n(3) \nPermohonan persetujuan produk Layanan Perbankan \nElektronik sebagaimana dimaksud pada ayat (2) wajib \ndilengkapi dengan hal-hal sebagai berikut: \na. \nbukti kesiapan untuk menyelenggarakan Layanan \nPerbankan \nElektronik \nyang \npaling \nsedikit \nmemuat: \n1. \nstruktur \norganisasi \nyang \nmendukung \ntermasuk \npengawasan \ndari \npihak \nmanajemen; \n2. \nkebijakan, sistem, prosedur dan kewenangan \ndalam \npenerbitan \nproduk \nLayanan \nPerbankan Elektronik; \n3. \nkesiapan infrastruktur Teknologi Informasi \nuntuk \nmendukung \nproduk \nLayanan \nPerbankan Elektronik; \n4. \nhasil analisa dan identifikasi risiko yang \nmelekat pada produk Layanan Perbankan \nElektronik; \n5. \nkesiapan \npenerapan \nmanajemen \nrisiko \nkhususnya \npengendalian \npengamanan \n(security \ncontrol) \nuntuk \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), integritas (integrity), keaslian \n(authentication), tidak dapat diingkari (non \nrepudiation), dan ketersediaan (availability); \n6. \nhasil analisa aspek hukum; \n7. \nuraian sistem informasi akuntansi; dan \n8. \nprogram perlindungan dan edukasi nasabah. \nb. \nHasil analisa bisnis mengenai proyeksi produk \nbaru 1 (satu) tahun yang akan datang; dan \nc. \ndokumen pendukung lain dalam hal diperlukan. \n\n\n \n \n(4) \nPenyampaian permohonan sebagaimana dimaksud \npada \nayat \n(2) \nharus \ndilengkapi \ndengan \nhasil \npemeriksaan \ndari \npihak \nindependen \nuntuk \nmemberikan pendapat atas karakteristik produk dan \nkecukupan pengamanan sistem Teknologi Informasi \nterkait produk serta kepatuhan terhadap ketentuan \ndan/atau praktik yang berlaku secara internasional. \n(5) \nPenyelenggaraan Teknologi Informasi untuk kegiatan \nLayanan Perbankan Elektronik yang dilakukan oleh \npihak penyedia jasa Teknologi Informasi, tunduk pada \nketentuan sebagaimana diatur dalam Bab IV mengenai \npenyelenggaraan \nTeknologi \nInformasi \noleh \nBank \ndan/atau pihak penyedia jasa Teknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memuat rencana penerbitan produk \nLayanan Perbankan Elektronik dalam rencana bisnis \nBank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nyang \nakan \nmenerbitkan \nproduk \nLayanan \nPerbankan Elektronik yang bersifat transaksional \nwajib mengajukan permohonan persetujuan produk \nLayanan \nPerbankan \nElektronik \ndan \nmemperoleh \npersetujuan dari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Permohonan persetujuan produk Layanan Perbankan \nElektronik sebagaimana dimaksud pada ayat (2) wajib \ndilengkapi dengan hal-hal sebagai berikut: \na. \nbukti kesiapan untuk menyelenggarakan Layanan \nPerbankan \nElektronik \nyang \npaling \nsedikit \nmemuat: \n1. \nstruktur \norganisasi \nyang \nmendukung \ntermasuk \npengawasan \ndari \npihak \nmanajemen; \n2. \nkebijakan, sistem, prosedur dan kewenangan \ndalam \npenerbitan \nproduk \nLayanan \nPerbankan Elektronik; \n3. \nkesiapan infrastruktur Teknologi Informasi \nuntuk \nmendukung \nproduk \nLayanan \nPerbankan Elektronik; \n4. \nhasil analisa dan identifikasi risiko yang \nmelekat pada produk Layanan Perbankan \nElektronik; \n5. \nkesiapan \npenerapan \nmanajemen \nrisiko \nkhususnya \npengendalian \npengamanan \n(security \ncontrol) \nuntuk \nmemastikan \nterpenuhinya \nprinsip \nkerahasiaan \n(confidentiality), integritas (integrity), keaslian \n(authentication), tidak dapat diingkari (non \nrepudiation), dan ketersediaan (availability); \n6. \nhasil analisa aspek hukum; \n7. \nuraian sistem informasi akuntansi; dan \n8. \nprogram perlindungan dan edukasi nasabah. \nb. \nHasil analisa bisnis mengenai proyeksi produk \nbaru 1 (satu) tahun yang akan datang; dan \nc. \ndokumen pendukung lain dalam hal diperlukan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyampaian permohonan sebagaimana dimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "harus \ndilengkapi \ndengan \nhasil \npemeriksaan \ndari \npihak \nindependen \nuntuk \nmemberikan pendapat atas karakteristik produk dan \nkecukupan pengamanan sistem Teknologi Informasi \nterkait produk serta kepatuhan terhadap ketentuan \ndan/atau praktik yang berlaku secara internasional."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penyelenggaraan Teknologi Informasi untuk kegiatan \nLayanan Perbankan Elektronik yang dilakukan oleh \npihak penyedia jasa Teknologi Informasi, tunduk pada \nketentuan sebagaimana diatur dalam Bab IV mengenai \npenyelenggaraan \nTeknologi \nInformasi \noleh \nBank \ndan/atau pihak penyedia jasa Teknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAYANAN PERBANKAN ELEKTRONIK",
+      "teks_lengkap": "Bank wajib menerapkan prinsip pengendalian pengamanan \ndata nasabah dan transaksi Layanan Perbankan Elektronik \npada setiap Sistem Elektronik yang digunakan oleh Bank. \n \nBAB VI \nPELAPORAN \n \nBagian Pertama \nLaporan Teknologi Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menerapkan prinsip pengendalian pengamanan \ndata nasabah dan transaksi Layanan Perbankan Elektronik \npada setiap Sistem Elektronik yang digunakan oleh Bank. \n \nBAB VI \nPELAPORAN \n \nBagian Pertama \nLaporan Teknologi Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank wajib melaporkan kondisi terkini penggunaan \nTeknologi Informasi paling lambat 1 (satu) bulan sejak \nakhir tahun pelaporan. \n(2) \nBank \nwajib \nmelaporkan \nrencana \npengembangan \nTeknologi Informasi yang akan diimplementasikan      \n1 (satu) tahun ke depan paling lambat tanggal 31 \nOktober tahun sebelumnya. \n(3) \nRencana \npengembangan \nTeknologi \nInformasi \nsebagaimana dimaksud pada ayat (2) dapat diubah     \n1 (satu) kali. \n\n\n \n \n(4) \nPerubahan \nrencana \npengembangan \nTeknologi \nInformasi sebagaimana dimaksud pada ayat (3) \ndisampaikan paling lambat tanggal 30 Juni tahun \nberjalan. \n(5) \nBank \ndapat \nmengajukan \nperubahan \nrencana \npengembangan Teknologi Informasi selain dalam \njangka waktu sebagaimana dimaksud pada ayat (4) \nsepanjang memenuhi pertimbangan tertentu dan \nmendapatkan \npersetujuan \ndari \nOtoritas \nJasa \nKeuangan. \n(6) \nOtoritas Jasa Keuangan berwenang meminta Bank \nuntuk melakukan penyesuaian terhadap perubahan \nrencana \npengembangan \nTeknologi \nInformasi \nsebagaimana dimaksud pada ayat (2). \n(7) \nBank \nwajib \nmelaporkan \nhasil \naudit \nTeknologi \nInformasi paling lambat 2 (dua) bulan setelah audit \nselesai dilakukan. \n \nBagian Kedua \nLaporan Insidentil",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melaporkan kondisi terkini penggunaan \nTeknologi Informasi paling lambat 1 (satu) bulan sejak \nakhir tahun pelaporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nwajib \nmelaporkan \nrencana \npengembangan \nTeknologi Informasi yang akan diimplementasikan      \n1 (satu) tahun ke depan paling lambat tanggal 31 \nOktober tahun sebelumnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Rencana \npengembangan \nTeknologi \nInformasi \nsebagaimana dimaksud pada ayat (2) dapat diubah     \n1 (satu) kali."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Perubahan \nrencana \npengembangan \nTeknologi \nInformasi sebagaimana dimaksud pada ayat (3) \ndisampaikan paling lambat tanggal 30 Juni tahun \nberjalan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank \ndapat \nmengajukan \nperubahan \nrencana \npengembangan Teknologi Informasi selain dalam \njangka waktu sebagaimana dimaksud pada ayat (4) \nsepanjang memenuhi pertimbangan tertentu dan \nmendapatkan \npersetujuan \ndari \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Otoritas Jasa Keuangan berwenang meminta Bank \nuntuk melakukan penyesuaian terhadap perubahan \nrencana \npengembangan \nTeknologi \nInformasi \nsebagaimana dimaksud pada ayat (2)."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Bank \nwajib \nmelaporkan \nhasil \naudit \nTeknologi \nInformasi paling lambat 2 (dua) bulan setelah audit \nselesai dilakukan. \n \nBagian Kedua \nLaporan Insidentil"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank \nwajib \nmelaporkan \nkejadian \nkritis, \npenyalahgunaan, \ndan/atau \nkejahatan \ndalam \npenyelenggaraaan Teknologi Informasi yang dapat \ndan/atau telah mengakibatkan kerugian keuangan \nyang signifikan dan/atau mengganggu kelancaran \noperasional Bank. \n(2) \nLaporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan dengan segera kepada Otoritas Jasa \nKeuangan melalui surat elektronik (electronic mail) \natau telepon yang diikuti dengan laporan tertulis \npaling lama 7 (tujuh) hari kerja setelah kejadian kritis \ndan/atau penyalahgunaan atau kejahatan diketahui. \n(3) \nLaporan tertulis sebagaimana dimaksud pada ayat (2) \nmerupakan \nbagian \ndari \nlaporan \nkondisi \nyang \nberpotensi menimbulkan kerugian yang signifikan \n\n\n \n \nterhadap \nkondisi \nkeuangan \nBank \nsebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan \ntentang Penerapan Manajemen Risiko Bagi Bank \nUmum. \n \nBagian Ketiga \nPermohonan Persetujuan dan Laporan Realisasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmelaporkan \nkejadian \nkritis, \npenyalahgunaan, \ndan/atau \nkejahatan \ndalam \npenyelenggaraaan Teknologi Informasi yang dapat \ndan/atau telah mengakibatkan kerugian keuangan \nyang signifikan dan/atau mengganggu kelancaran \noperasional Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan dengan segera kepada Otoritas Jasa \nKeuangan melalui surat elektronik (electronic mail) \natau telepon yang diikuti dengan laporan tertulis \npaling lama 7 (tujuh) hari kerja setelah kejadian kritis \ndan/atau penyalahgunaan atau kejahatan diketahui."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan tertulis sebagaimana dimaksud pada ayat (2) \nmerupakan \nbagian \ndari \nlaporan \nkondisi \nyang \nberpotensi menimbulkan kerugian yang signifikan \n\n\n \n \nterhadap \nkondisi \nkeuangan \nBank \nsebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan \ntentang Penerapan Manajemen Risiko Bagi Bank \nUmum. \n \nBagian Ketiga \nPermohonan Persetujuan dan Laporan Realisasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank \nyang \nmemiliki \nrencana \nkegiatan \nsebagai \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana \ndimaksud dalam Pasal 25 dan/atau menerbitkan \nproduk Layanan Perbankan Elektronik sebagaimana \ndimaksud \ndalam \nPasal \n28, \nharus \nmengajukan \npermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan paling lambat 2 (dua) bulan sebelum \nimplementasi. \n(2) \nBank wajib menyampaikan laporan realisasi kegiatan \nsebagai \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 25 dan/atau \nmenerbitkan produk Layanan Perbankan Elektronik \nsebagaimana dimaksud dalam Pasal 28 kepada \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsetelah implementasi. \n(3) \nBank yang: \na. \nmenyelenggarakan \nSistem \nElektronik \nyang \nditempatkan pada Pusat Data dan/atau Pusat \nPemulihan Bencana di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 21; dan/atau \nb. \nmenyerahkan \npenyelenggaraan \nPemrosesan \nTransaksi Berbasis Teknologi Informasi kepada \npihak penyedia jasa di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 23, \nharus mengajukan permohonan persetujuan kepada \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsebelum rencana implementasi. \n \n\n\n \n \n(4) \nBank yang: \na. \nmenyelenggarakan \nSistem \nElektronik \nyang \nditempatkan pada Pusat Data dan/atau Pusat \nPemulihan Bencana di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 21; dan/atau \nb. \nmenyerahkan \npenyelenggaraan \nPemrosesan \nTransaksi Berbasis Teknologi Informasi kepada \npihak penyedia jasa di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 23, \nwajib menyampaikan laporan realisasi kepada Otoritas \nJasa Keuangan paling lambat 3 (tiga) bulan setelah \nimplementasi. \n(5) \nBank \nharus \nmelakukan \nimplementasi \nrencana \nkegiatan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndan/atau ayat (3) paling lama 6 (enam) bulan sejak \npersetujuan diberikan oleh Otoritas Jasa Keuangan. \n(6) \nDalam hal Bank tidak melakukan implementasi \nrencana kegiatan sebagaimana dimaksud pada ayat (1) \ndan/atau ayat (3) dalam jangka waktu 6 (enam) bulan \nsejak \npersetujuan \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (5), \npersetujuan Otoritas Jasa Keuangan menjadi tidak \nberlaku. \n(7) \nDalam hal persetujuan Otoritas Jasa Keuangan sudah \ntidak berlaku sebagaimana dimaksud pada ayat (6), \ndan \nBank \ntetap \nakan \nmelakukan \nimplementasi \nrencana kegiatan bank sebagaimana dimaksud pada \nayat (1) dan/atau ayat (3), Bank harus menyampaikan \nkembali permohonan persetujuan kepada Otoritas \nJasa Keuangan. \n \n\n\n \n \nBagian Keempat \nFormat dan Alamat Penyampaian Laporan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmemiliki \nrencana \nkegiatan \nsebagai \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana \ndimaksud dalam Pasal 25 dan/atau menerbitkan \nproduk Layanan Perbankan Elektronik sebagaimana \ndimaksud \ndalam \nPasal \n28, \nharus \nmengajukan \npermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan paling lambat 2 (dua) bulan sebelum \nimplementasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menyampaikan laporan realisasi kegiatan \nsebagai \npenyedia \njasa \nTeknologi \nInformasi \nsebagaimana dimaksud dalam Pasal 25 dan/atau \nmenerbitkan produk Layanan Perbankan Elektronik \nsebagaimana dimaksud dalam Pasal 28 kepada \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsetelah implementasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank yang: \na. \nmenyelenggarakan \nSistem \nElektronik \nyang \nditempatkan pada Pusat Data dan/atau Pusat \nPemulihan Bencana di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 21; dan/atau \nb. \nmenyerahkan \npenyelenggaraan \nPemrosesan \nTransaksi Berbasis Teknologi Informasi kepada \npihak penyedia jasa di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 23, \nharus mengajukan permohonan persetujuan kepada \nOtoritas Jasa Keuangan paling lambat 3 (tiga) bulan \nsebelum rencana implementasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank yang: \na. \nmenyelenggarakan \nSistem \nElektronik \nyang \nditempatkan pada Pusat Data dan/atau Pusat \nPemulihan Bencana di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 21; dan/atau \nb. \nmenyerahkan \npenyelenggaraan \nPemrosesan \nTransaksi Berbasis Teknologi Informasi kepada \npihak penyedia jasa di luar wilayah Indonesia \nsebagaimana dimaksud dalam Pasal 23, \nwajib menyampaikan laporan realisasi kepada Otoritas \nJasa Keuangan paling lambat 3 (tiga) bulan setelah \nimplementasi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank \nharus \nmelakukan \nimplementasi \nrencana \nkegiatan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dan/atau ayat (3) paling lama 6 (enam) bulan sejak \npersetujuan diberikan oleh Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal Bank tidak melakukan implementasi \nrencana kegiatan sebagaimana dimaksud pada ayat (1) \ndan/atau ayat (3) dalam jangka waktu 6 (enam) bulan \nsejak \npersetujuan \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (5), \npersetujuan Otoritas Jasa Keuangan menjadi tidak \nberlaku."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal persetujuan Otoritas Jasa Keuangan sudah \ntidak berlaku sebagaimana dimaksud pada ayat (6), \ndan \nBank \ntetap \nakan \nmelakukan \nimplementasi \nrencana kegiatan bank sebagaimana dimaksud pada \nayat (1) dan/atau ayat (3), Bank harus menyampaikan \nkembali permohonan persetujuan kepada Otoritas \nJasa Keuangan. \n \n\n\n \n \nBagian Keempat \nFormat dan Alamat Penyampaian Laporan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Format dan petunjuk penyusunan laporan sebagaimana \ndimaksud dalam Pasal 30, Pasal 31, dan Pasal 32 diatur \ndalam Surat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Format dan petunjuk penyusunan laporan sebagaimana \ndimaksud dalam Pasal 30, Pasal 31, dan Pasal 32 diatur \ndalam Surat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Permohonan \npersetujuan \npenggunaan \npenyedia \njasa \nTeknologi Informasi di luar wilayah Indonesia sebagaimana \ndimaksud dalam Pasal 21 dan Pasal 23, permohonan \npersetujuan \npenerbitan \nproduk \nLayanan \nPerbankan \nElektronik sebagaimana dimaksud dalam Pasal 28, serta \npenyampaian \nlaporan \nsebagaimana \ndimaksud \ndalam    \nPasal 30, Pasal 31, dan Pasal 32 disampaikan kepada \nOtoritas Jasa Keuangan dengan alamat: \na. \nDepartemen Pengawasan Bank terkait, Departemen \nPerbankan Syariah atau Kantor Regional Otoritas Jasa \nKeuangan di Jakarta, bagi Bank yang berkantor pusat \natau kantor cabang dari bank yang berkedudukan di \nluar negeri yang berada di wilayah Provinsi Daerah \nKhusus Ibukota Jakarta; atau  \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat, sesuai wilayah \ntempat kedudukan kantor pusat Bank.  \n \nBAB VII \nLAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Permohonan \npersetujuan \npenggunaan \npenyedia \njasa \nTeknologi Informasi di luar wilayah Indonesia sebagaimana \ndimaksud dalam Pasal 21 dan Pasal 23, permohonan \npersetujuan \npenerbitan \nproduk \nLayanan \nPerbankan \nElektronik sebagaimana dimaksud dalam Pasal 28, serta \npenyampaian \nlaporan \nsebagaimana \ndimaksud \ndalam    \nPasal 30, Pasal 31, dan Pasal 32 disampaikan kepada \nOtoritas Jasa Keuangan dengan alamat: \na. \nDepartemen Pengawasan Bank terkait, Departemen \nPerbankan Syariah atau Kantor Regional Otoritas Jasa \nKeuangan di Jakarta, bagi Bank yang berkantor pusat \natau kantor cabang dari bank yang berkedudukan di \nluar negeri yang berada di wilayah Provinsi Daerah \nKhusus Ibukota Jakarta; atau  \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat, sesuai wilayah \ntempat kedudukan kantor pusat Bank.  \n \nBAB VII \nLAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "LAIN-LAIN",
+      "teks_lengkap": "(1) \nOtoritas \nJasa \nKeuangan \ndapat \nmelakukan \npemeriksaan atau meminta Bank untuk melakukan \npemeriksaan \nterhadap \nseluruh \naspek \nterkait \npenggunaan Teknologi Informasi. \n\n\n \n \n(2) \nBank wajib menyediakan akses kepada Otoritas Jasa \nKeuangan untuk dapat melakukan pemeriksaan pada \nseluruh aspek terkait penyelenggaraan Teknologi \nInformasi yang diselenggarakan sendiri dan/atau yang \ndiselenggarakan oleh pihak lain. \n \nBAB VIII \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas \nJasa \nKeuangan \ndapat \nmelakukan \npemeriksaan atau meminta Bank untuk melakukan \npemeriksaan \nterhadap \nseluruh \naspek \nterkait \npenggunaan Teknologi Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menyediakan akses kepada Otoritas Jasa \nKeuangan untuk dapat melakukan pemeriksaan pada \nseluruh aspek terkait penyelenggaraan Teknologi \nInformasi yang diselenggarakan sendiri dan/atau yang \ndiselenggarakan oleh pihak lain. \n \nBAB VIII \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank \nyang \ntidak \nmelaksanakan \nketentuan \nsebagaimana ditetapkan dalam Pasal 2 ayat (1),    \nPasal 3, Pasal 4, Pasal 7 ayat (1), Pasal 8 ayat (1), \nPasal 8 ayat (3), Pasal 8 ayat (4), Pasal 8 ayat (5),  \nPasal 9, Pasal 10 ayat (1), Pasal 10 ayat (2), Pasal 10 \nayat (4), Pasal 11, Pasal 12, Pasal 13, Pasal 14,     \nPasal 15, Pasal 16, Pasal 17 ayat (1), Pasal 18 ayat (2), \nPasal 18 ayat (4), Pasal 19, Pasal 20 ayat (3), Pasal 20 \nayat (4), Pasal 20 ayat (5), Pasal 20 ayat (6), Pasal 21 \nayat (1), Pasal 23 ayat (1), Pasal 23 ayat (4), Pasal 24 \nayat (1), Pasal 24 ayat (2), Pasal 24 ayat (3), Pasal 24 \nayat (4), Pasal 25 ayat (2), Pasal 27 ayat (1), Pasal 27 \nayat (2), Pasal 28 ayat (1), Pasal 28 ayat (2), Pasal 28 \nayat (3), Pasal 29, dan/atau Pasal 35 ayat (2), \nPeraturan \nOtoritas \nJasa \nKeuangan \nini, \ndapat \ndikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan berupa penurunan \nperingkat faktor tata kelola dalam penilaian \ntingkat kesehatan Bank; \nc. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; \nd. \npembekuan kegiatan usaha tertentu; dan/atau \ne. \npencantuman anggota Direksi, Dewan Komisaris, \ndan pejabat eksekutif dalam daftar tidak lulus \nmelalui mekanisme penilaian kemampuan dan \nkepatutan. \n\n\n \n \n(2) \nSanksi sebagaimana dimaksud pada ayat (1) huruf b, \nhuruf c, huruf d atau huruf e dapat dikenakan baik \ndengan atau tanpa didahului pengenaan sanksi \nteguran tertulis sebagaimana dimaksud pada ayat (1) \nhuruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \ntidak \nmelaksanakan \nketentuan \nsebagaimana ditetapkan dalam Pasal 2 ayat (1),    \nPasal 3, Pasal 4, Pasal 7 ayat (1), Pasal 8 ayat (1), \nPasal 8 ayat (3), Pasal 8 ayat (4), Pasal 8 ayat (5),  \nPasal 9, Pasal 10 ayat (1), Pasal 10 ayat (2), Pasal 10 \nayat (4), Pasal 11, Pasal 12, Pasal 13, Pasal 14,     \nPasal 15, Pasal 16, Pasal 17 ayat (1), Pasal 18 ayat (2), \nPasal 18 ayat (4), Pasal 19, Pasal 20 ayat (3), Pasal 20 \nayat (4), Pasal 20 ayat (5), Pasal 20 ayat (6), Pasal 21 \nayat (1), Pasal 23 ayat (1), Pasal 23 ayat (4), Pasal 24 \nayat (1), Pasal 24 ayat (2), Pasal 24 ayat (3), Pasal 24 \nayat (4), Pasal 25 ayat (2), Pasal 27 ayat (1), Pasal 27 \nayat (2), Pasal 28 ayat (1), Pasal 28 ayat (2), Pasal 28 \nayat (3), Pasal 29, dan/atau Pasal 35 ayat (2), \nPeraturan \nOtoritas \nJasa \nKeuangan \nini, \ndapat \ndikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan berupa penurunan \nperingkat faktor tata kelola dalam penilaian \ntingkat kesehatan Bank; \nc. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; \nd. \npembekuan kegiatan usaha tertentu; dan/atau \ne. \npencantuman anggota Direksi, Dewan Komisaris, \ndan pejabat eksekutif dalam daftar tidak lulus \nmelalui mekanisme penilaian kemampuan dan \nkepatutan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sanksi sebagaimana dimaksud pada ayat (1) huruf b, \nhuruf c, huruf d atau huruf e dapat dikenakan baik \ndengan atau tanpa didahului pengenaan sanksi \nteguran tertulis sebagaimana dimaksud pada ayat (1) \nhuruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank yang tidak memenuhi ketentuan pelaporan \nsebagaimana dimaksud dalam Pasal 30 ayat (1),   \nPasal 30 ayat (2), Pasal 30 ayat (7), Pasal 31 ayat (1), \nPasal 31 ayat (2), Pasal 32 ayat (2), dan/atau        \nPasal 32 ayat (4) Peraturan Otoritas Jasa Keuangan ini \ndikenakan sanksi administratif berupa:  \na. \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) \nper hari keterlambatan per laporan; atau \nb. \ndenda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah) per laporan, bagi Bank yang belum \nmenyampaikan laporan setelah 1 (satu) bulan \nsejak batas akhir waktu penyampaian laporan. \n(2) \nPengenaan sanksi denda sebagaimana dimaksud pada \nayat (1) tidak menghilangkan kewajiban penyampaian \nlaporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang tidak memenuhi ketentuan pelaporan \nsebagaimana dimaksud dalam Pasal 30 ayat (1),   \nPasal 30 ayat (2), Pasal 30 ayat (7), Pasal 31 ayat (1), \nPasal 31 ayat (2), Pasal 32 ayat (2), dan/atau        \nPasal 32 ayat (4) Peraturan Otoritas Jasa Keuangan ini \ndikenakan sanksi administratif berupa:  \na. \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) \nper hari keterlambatan per laporan; atau \nb. \ndenda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah) per laporan, bagi Bank yang belum \nmenyampaikan laporan setelah 1 (satu) bulan \nsejak batas akhir waktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan sanksi denda sebagaimana dimaksud pada \nayat (1) tidak menghilangkan kewajiban penyampaian \nlaporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 30 ayat (1), Pasal 30 ayat (2), \nPasal 30 ayat (7), Pasal 31 ayat (1), Pasal 31 ayat (2), \nPasal 32 ayat (2), dan/atau Pasal 32 ayat (4), namun \ntidak sesuai dengan kondisi Bank yang sebenarnya \ndikenakan sanksi administratif berupa denda sebesar \nRp50.000.000,00 (lima puluh juta rupiah). \n(2) \nBank dikenakan sanksi sebagaimana dimaksud pada \nayat (1) setelah: \na. \nBank diberikan 2 (dua) kali surat teguran oleh \nOtoritas Jasa Keuangan dengan tenggang waktu  \n7 (tujuh) hari kerja untuk setiap teguran; dan \n\n\n \n \nb. \nBank tidak memperbaiki laporan dalam jangka \nwaktu 7 (tujuh) hari kerja setelah surat teguran \nterakhir. \n \nBAB IX \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 30 ayat (1), Pasal 30 ayat (2), \nPasal 30 ayat (7), Pasal 31 ayat (1), Pasal 31 ayat (2), \nPasal 32 ayat (2), dan/atau Pasal 32 ayat (4), namun \ntidak sesuai dengan kondisi Bank yang sebenarnya \ndikenakan sanksi administratif berupa denda sebesar \nRp50.000.000,00 (lima puluh juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dikenakan sanksi sebagaimana dimaksud pada \nayat (1) setelah: \na. \nBank diberikan 2 (dua) kali surat teguran oleh \nOtoritas Jasa Keuangan dengan tenggang waktu  \n7 (tujuh) hari kerja untuk setiap teguran; dan \n\n\n \n \nb. \nBank tidak memperbaiki laporan dalam jangka \nwaktu 7 (tujuh) hari kerja setelah surat teguran \nterakhir. \n \nBAB IX \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Bank yang telah memiliki kebijakan, standar, dan prosedur \ndalam penggunaan Teknologi Informasi dan pedoman \nmanajemen risiko penggunaan Teknologi Informasi harus \nmenyesuaikan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini paling lambat 12 (dua belas) bulan sejak \nberlakunya Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang telah memiliki kebijakan, standar, dan prosedur \ndalam penggunaan Teknologi Informasi dan pedoman \nmanajemen risiko penggunaan Teknologi Informasi harus \nmenyesuaikan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini paling lambat 12 (dua belas) bulan sejak \nberlakunya Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Bank yang telah menggunakan pihak penyedia jasa \nTeknologi Informasi sebelum berlakunya Peraturan Otoritas \nJasa Keuangan ini, harus menyesuaikan perjanjian yang \ntelah dibuat sesuai dengan ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang telah menggunakan pihak penyedia jasa \nTeknologi Informasi sebelum berlakunya Peraturan Otoritas \nJasa Keuangan ini, harus menyesuaikan perjanjian yang \ntelah dibuat sesuai dengan ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nBank yang telah menempatkan Sistem Elektronik pada \nPusat Data dan/atau Pusat Pemulihan Bencana di \nluar wilayah Indonesia sebelum berlakunya Peraturan \nOtoritas Jasa Keuangan ini, harus memindahkan \nPusat Data, Pusat Pemulihan Bencana, dan/atau \nPemrosesan Transaksi Berbasis Teknologi Informasi \nyang menyelenggarakan Sistem Elektronik untuk \npelayanan publik ke Indonesia paling lambat tanggal \n15 Oktober 2017. \n(2) \nDalam rangka pemindahan lokasi  Pusat Data, Pusat \nPemulihan Bencana, dan/atau Pemrosesan Transaksi \nBerbasis \nTeknologi \nInformasi \ndari \nluar \nwilayah \nIndonesia ke Indonesia, Bank harus menyampaikan \nlaporan \nrencana \ntindak \n(action \nplan) \nkepada      \n\n\n \n \nOtoritas \nJasa \nKeuangan \npaling \nlambat \ntanggal          \n30 Desember 2016. \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang telah menempatkan Sistem Elektronik pada \nPusat Data dan/atau Pusat Pemulihan Bencana di \nluar wilayah Indonesia sebelum berlakunya Peraturan \nOtoritas Jasa Keuangan ini, harus memindahkan \nPusat Data, Pusat Pemulihan Bencana, dan/atau \nPemrosesan Transaksi Berbasis Teknologi Informasi \nyang menyelenggarakan Sistem Elektronik untuk \npelayanan publik ke Indonesia paling lambat tanggal \n15 Oktober 2017."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka pemindahan lokasi  Pusat Data, Pusat \nPemulihan Bencana, dan/atau Pemrosesan Transaksi \nBerbasis \nTeknologi \nInformasi \ndari \nluar \nwilayah \nIndonesia ke Indonesia, Bank harus menyampaikan \nlaporan \nrencana \ntindak \n(action \nplan) \nkepada      \n\n\n \n \nOtoritas \nJasa \nKeuangan \npaling \nlambat \ntanggal          \n30 Desember 2016. \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Penerapan Manajemen \nRisiko dalam Penggunaan Teknologi Informasi oleh Bank \nUmum diatur dalam Surat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Penerapan Manajemen \nRisiko dalam Penggunaan Teknologi Informasi oleh Bank \nUmum diatur dalam Surat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1) \nPada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia                   \nNomor 9/15/PBI/2007 tentang Penerapan Manajemen \nRisiko dalam Penggunaan Teknologi Informasi oleh \nBank Umum (Lembaran Negara Republik Indonesia     \nTahun 2007 Nomor 144, Tambahan Lembaran Negara \nRepublik \nIndonesia \nNomor \n4785) \ndicabut \ndan \ndinyatakan tidak berlaku.  \n(2) \nPeraturan pelaksanaan dari peraturan Bank Indonesia \nNomor 9/15/PBI/2007 tentang Penerapan Manajemen \nRisiko dalam Penggunaan Teknologi Informasi oleh \nBank Umum  (Lembaran Negara Republik Indonesia \nTahun 2007 Nomor 144, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4785) dinyatakan tetap \nberlaku \nsepanjang \ntidak \nbertentangan \ndengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan \nini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia                   \nNomor 9/15/PBI/2007 tentang Penerapan Manajemen \nRisiko dalam Penggunaan Teknologi Informasi oleh \nBank Umum (Lembaran Negara Republik Indonesia     \nTahun 2007 Nomor 144, Tambahan Lembaran Negara \nRepublik \nIndonesia \nNomor \n4785) \ndicabut \ndan \ndinyatakan tidak berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peraturan pelaksanaan dari peraturan Bank Indonesia \nNomor 9/15/PBI/2007 tentang Penerapan Manajemen \nRisiko dalam Penggunaan Teknologi Informasi oleh \nBank Umum  (Lembaran Negara Republik Indonesia \nTahun 2007 Nomor 144, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4785) dinyatakan tetap \nberlaku \nsepanjang \ntidak \nbertentangan \ndengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan \nini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan dan ditetapkan.  \n \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia.  \n \n \n Ditetapkan di Jakarta \n    pada tanggal 1 Desember 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n     ttd \n \n     MULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 7 Desember 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 267\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nYuliana \n\n\nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  38 /POJK.03/2016 \nTENTANG \nPENERAPAN MANAJEMEN RISIKO DALAM  \nPENGGUNAAN TEKNOLOGI INFORMASI OLEH BANK UMUM \n \nI. \nUMUM \nDalam rangka meningkatkan efisiensi kegiatan operasional dan \nmutu pelayanan Bank kepada nasabahnya, Bank dituntut untuk \nmengembangkan strategi bisnis Bank dengan lebih optimal dalam \nmemanfaatkan kemajuan Teknologi Informasi untuk meningkatkan \ndaya saing Bank. \nPenerapan Teknologi Informasi membawa perubahan dalam \nkegiatan operasional dan pengelolaan data Bank sehingga dapat \ndilakukan secara lebih efisien dan efektif serta memberikan informasi \nsecara lebih akurat dan cepat. Perkembangan produk perbankan \nberbasis teknologi diantaranya berupa Layanan Perbankan Elektronik \n(Electronic Banking) dan layanan perbankan digital (digital banking), \nlebih memudahkan nasabah untuk melakukan transaksi perbankan \nsecara non tunai setiap saat melalui jaringan elektronik. Selain itu \npenggunaan jasa pihak ketiga dalam penyediaan sistem dan pelayanan \nBank semakin meningkat pula. \nDi samping berbagai manfaat dan keunggulan yang diperoleh dari \npenggunaan \nTeknologi \nInformasi \ndalam \npelaksanaan \nkegiatan \noperasional Bank, terdapat pula risiko yang dapat merugikan Bank dan \nnasabah seperti risiko operasional, risiko hukum, dan risiko reputasi, \nselain risiko perbankan lainnya seperti risiko likuiditas dan risiko \nkredit. \n \n\n\n \n \nOleh karena itu, agar dapat melindungi kepentingan Bank dan \njuga nasabah, Bank dituntut untuk menerapkan manajemen risiko \nsecara efektif sehingga Bank dapat melakukan pengendalian dari \nkemungkinan penambahan risiko yang terjadi. \nMengingat bahwa Teknologi Informasi merupakan aset penting \ndalam operasional yang dapat meningkatkan nilai tambah dan daya \nsaing \nBank \nsementara \ndalam \npenyelenggaraannya \nmengandung \nberbagai risiko maka Bank perlu menerapkan tata kelola teknologi \ninformasi (information technology governance). Keberhasilan penerapan \ntata kelola teknologi informasi sangat tergantung pada komitmen \nseluruh unit kerja di Bank, baik penyelenggara maupun pengguna \nTeknologi Informasi. Penerapan \ntata kelola teknologi informasi \ndilakukan melalui penyelarasan Rencana Strategis Teknologi Informasi \ndengan strategi bisnis Bank, optimalisasi pengelolaan sumber daya, \npemanfaatan \nTeknologi \nInformasi \n(Information \nTechnology \nvalue \ndelivery), pengukuran kinerja, dan penerapan manajemen risiko yang \nefektif. \nUntuk \ndapat \nmenerapkan \nmanajemen \nrisiko \nyang \nefektif, \ndiperlukan keterlibatan dan pengawasan Direksi dan Dewan Komisaris, \npenyusunan dan penerapan kebijakan, standar, dan prosedur terkait \nTeknologi Informasi serta proses identifikasi, pengukuran, pemantauan \ndan pengendalian risiko yang berkesinambungan. \nSelain itu, pada masa yang akan datang Bank dituntut pula untuk \nmengantisipasi kebutuhan infrastruktur Teknologi Informasi yang \nmemadai dalam rangka menghadapi implementasi kerangka Basel \n(Basel framework). \nSeiring dengan perkembangan yang ada baik dalam lingkup \nnasional maupun internasional, sampai dengan saat ini telah \ndikeluarkan beberapa ketentuan peraturan perundang-undangan yang \nterkait dengan Teknologi Informasi antara lain Undang-Undang \nmengenai \nInformasi \ndan \nTransaksi \nElektronik \ndan \nperaturan \npelaksanaannya \nberupa \nPeraturan \nPemerintah \nmengenai \nPenyelenggaraan Sistem dan Transaksi Elektronik serta Peraturan \nMenteri terkait. Selain itu, standar acuan penilaian terkait Teknologi \nInformasi seperti Standar Nasional Indonesia (SNI), International \nOrganization for Standarization (ISO), Control Objective for Information \nand Related Technology (COBIT), dan International Electrotechnical \n\n\n \n \nCommission (IEC) juga mengalami pengkinian sehingga menjadi lebih \nkomprehensif dalam mendukung perkembangan dan implementasi \nTeknologi Informasi. \nDengan ketentuan ini, Bank diharapkan mampu mengelola risiko \nyang dihadapi secara efektif dalam seluruh aktivitas operasional yang \ndidukung dengan pemanfaatan Teknologi Informasi. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan dan ditetapkan.  \n \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia.  \n \n \n Ditetapkan di Jakarta \n    pada tanggal 1 Desember 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n     ttd \n \n     MULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 7 Desember 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 267\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nYuliana \n\n\nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  38 /POJK.03/2016 \nTENTANG \nPENERAPAN MANAJEMEN RISIKO DALAM  \nPENGGUNAAN TEKNOLOGI INFORMASI OLEH BANK UMUM \n \nI. \nUMUM \nDalam rangka meningkatkan efisiensi kegiatan operasional dan \nmutu pelayanan Bank kepada nasabahnya, Bank dituntut untuk \nmengembangkan strategi bisnis Bank dengan lebih optimal dalam \nmemanfaatkan kemajuan Teknologi Informasi untuk meningkatkan \ndaya saing Bank. \nPenerapan Teknologi Informasi membawa perubahan dalam \nkegiatan operasional dan pengelolaan data Bank sehingga dapat \ndilakukan secara lebih efisien dan efektif serta memberikan informasi \nsecara lebih akurat dan cepat. Perkembangan produk perbankan \nberbasis teknologi diantaranya berupa Layanan Perbankan Elektronik \n(Electronic Banking) dan layanan perbankan digital (digital banking), \nlebih memudahkan nasabah untuk melakukan transaksi perbankan \nsecara non tunai setiap saat melalui jaringan elektronik. Selain itu \npenggunaan jasa pihak ketiga dalam penyediaan sistem dan pelayanan \nBank semakin meningkat pula. \nDi samping berbagai manfaat dan keunggulan yang diperoleh dari \npenggunaan \nTeknologi \nInformasi \ndalam \npelaksanaan \nkegiatan \noperasional Bank, terdapat pula risiko yang dapat merugikan Bank dan \nnasabah seperti risiko operasional, risiko hukum, dan risiko reputasi, \nselain risiko perbankan lainnya seperti risiko likuiditas dan risiko \nkredit. \n \n\n\n \n \nOleh karena itu, agar dapat melindungi kepentingan Bank dan \njuga nasabah, Bank dituntut untuk menerapkan manajemen risiko \nsecara efektif sehingga Bank dapat melakukan pengendalian dari \nkemungkinan penambahan risiko yang terjadi. \nMengingat bahwa Teknologi Informasi merupakan aset penting \ndalam operasional yang dapat meningkatkan nilai tambah dan daya \nsaing \nBank \nsementara \ndalam \npenyelenggaraannya \nmengandung \nberbagai risiko maka Bank perlu menerapkan tata kelola teknologi \ninformasi (information technology governance). Keberhasilan penerapan \ntata kelola teknologi informasi sangat tergantung pada komitmen \nseluruh unit kerja di Bank, baik penyelenggara maupun pengguna \nTeknologi Informasi. Penerapan \ntata kelola teknologi informasi \ndilakukan melalui penyelarasan Rencana Strategis Teknologi Informasi \ndengan strategi bisnis Bank, optimalisasi pengelolaan sumber daya, \npemanfaatan \nTeknologi \nInformasi \n(Information \nTechnology \nvalue \ndelivery), pengukuran kinerja, dan penerapan manajemen risiko yang \nefektif. \nUntuk \ndapat \nmenerapkan \nmanajemen \nrisiko \nyang \nefektif, \ndiperlukan keterlibatan dan pengawasan Direksi dan Dewan Komisaris, \npenyusunan dan penerapan kebijakan, standar, dan prosedur terkait \nTeknologi Informasi serta proses identifikasi, pengukuran, pemantauan \ndan pengendalian risiko yang berkesinambungan. \nSelain itu, pada masa yang akan datang Bank dituntut pula untuk \nmengantisipasi kebutuhan infrastruktur Teknologi Informasi yang \nmemadai dalam rangka menghadapi implementasi kerangka Basel \n(Basel framework). \nSeiring dengan perkembangan yang ada baik dalam lingkup \nnasional maupun internasional, sampai dengan saat ini telah \ndikeluarkan beberapa ketentuan peraturan perundang-undangan yang \nterkait dengan Teknologi Informasi antara lain Undang-Undang \nmengenai \nInformasi \ndan \nTransaksi \nElektronik \ndan \nperaturan \npelaksanaannya \nberupa \nPeraturan \nPemerintah \nmengenai \nPenyelenggaraan Sistem dan Transaksi Elektronik serta Peraturan \nMenteri terkait. Selain itu, standar acuan penilaian terkait Teknologi \nInformasi seperti Standar Nasional Indonesia (SNI), International \nOrganization for Standarization (ISO), Control Objective for Information \nand Related Technology (COBIT), dan International Electrotechnical \n\n\n \n \nCommission (IEC) juga mengalami pengkinian sehingga menjadi lebih \nkomprehensif dalam mendukung perkembangan dan implementasi \nTeknologi Informasi. \nDengan ketentuan ini, Bank diharapkan mampu mengelola risiko \nyang dihadapi secara efektif dalam seluruh aktivitas operasional yang \ndidukung dengan pemanfaatan Teknologi Informasi. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup Jelas. \n \n \nAyat (2) \n \n \n \nCukup Jelas. \n \n \nAyat (3) \nSumber daya Teknologi Informasi mencakup antara lain \nperangkat keras, perangkat lunak, jaringan, sumber daya \nmanusia, data, dan informasi. \nPerangkat keras adalah 1 (satu) atau serangkaian alat yang \nterhubung dalam Sistem Elektronik. \nPerangkat lunak adalah 1 (satu) atau sekumpulan program \nkomputer, prosedur, dan/atau dokumentasi yang terkait \ndalam pengoperasian Sistem Elektronik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup Jelas. \n \n \nAyat (2) \n \n \n \nCukup Jelas. \n \n \nAyat (3) \nSumber daya Teknologi Informasi mencakup antara lain \nperangkat keras, perangkat lunak, jaringan, sumber daya \nmanusia, data, dan informasi. \nPerangkat keras adalah 1 (satu) atau serangkaian alat yang \nterhubung dalam Sistem Elektronik. \nPerangkat lunak adalah 1 (satu) atau sekumpulan program \nkomputer, prosedur, dan/atau dokumentasi yang terkait \ndalam pengoperasian Sistem Elektronik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kompleksitas usaha meliputi antara lain keragaman dalam jenis \ntransaksi, produk, jasa, jaringan kantor dan/atau teknologi \npendukung yang digunakan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kompleksitas usaha meliputi antara lain keragaman dalam jenis \ntransaksi, produk, jasa, jaringan kantor dan/atau teknologi \npendukung yang digunakan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Dalam menetapkan wewenang dan tanggung jawab, Bank perlu \nmemperhatikan antara lain prinsip pemisahan tugas dan tanggung \njawab (segregation of duties), misalnya pihak yang melakukan \ninput data berbeda dari pihak yang melakukan validasi data.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam menetapkan wewenang dan tanggung jawab, Bank perlu \nmemperhatikan antara lain prinsip pemisahan tugas dan tanggung \njawab (segregation of duties), misalnya pihak yang melakukan \ninput data berbeda dari pihak yang melakukan validasi data."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \nCukup jelas. \nHuruf b \n \nCukup jelas. \nHuruf c \n \nAngka 1 \n \n \nCukup jelas. \n \nAngka 2 \nPeningkatan kompetensi sumber daya manusia antara \nlain melalui program pendidikan dan pelatihan secara \nberkesinambungan \nmengenai \npenyelenggaraan \ndan \npenggunaan Teknologi Informasi. \nAngka 3 \n \nCukup jelas. \nAngka 4 \n \nCukup jelas. \nAngka 5 \n \nCukup jelas. \nAngka 6 \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \nCukup jelas. \nHuruf b \n \nCukup jelas. \nHuruf c \n \nAngka 1 \n \n \nCukup jelas. \n \nAngka 2 \nPeningkatan kompetensi sumber daya manusia antara \nlain melalui program pendidikan dan pelatihan secara \nberkesinambungan \nmengenai \npenyelenggaraan \ndan \npenggunaan Teknologi Informasi. \nAngka 3 \n \nCukup jelas. \nAngka 4 \n \nCukup jelas. \nAngka 5 \n \nCukup jelas. \nAngka 6 \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nStruktur \nkomite \npengarah \nTeknologi \nInformasi \ndapat \ndisesuaikan dengan ukuran dan kompleksitas kegiatan Bank \nserta struktur kepemilikan atau legal entity Bank. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nStruktur \nkomite \npengarah \nTeknologi \nInformasi \ndapat \ndisesuaikan dengan ukuran dan kompleksitas kegiatan Bank \nserta struktur kepemilikan atau legal entity Bank. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nKedalaman kebijakan, standar, dan prosedur penggunaan \nTeknologi Informasi disesuaikan dengan tujuan kebijakan \nusaha, \nukuran \ndan \nkompleksitas \nusaha \nBank, \ndan \nmemperhatikan profil risiko Bank.  \nHuruf a \n \nYang dimaksud dengan “manajemen” antara lain Direksi, \nDewan Komisaris, dan komite pengarah Teknologi \nInformasi. \nHuruf b \n \nCukup jelas. \nHuruf c \n \nCukup jelas. \nHuruf d \n \nCukup jelas. \nHuruf e \n \nCukup jelas. \nHuruf f \n \nCukup jelas. \nHuruf g \n \nCukup jelas. \nHuruf h \n \nCukup jelas. \nHuruf i \n \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “limit risiko” adalah tingkat kesalahan \nyang masih dapat ditoleransi oleh sistem (risk tolerance) atau \nstandar pengamanan yang ditetapkan atau disetujui untuk \ntidak dilampaui.  \nStandar \npengamanan \nsebagaimana \ndimaksud \ndi \natas \ndisesuaikan dengan risk appetite yang dimiliki Bank.  \n \n \n\n\n \n \nAyat (4) \nKaji ulang dan pengkinian dilakukan agar kebijakan, standar, \ndan prosedur tetap sesuai dengan perkembangan operasional \nBank dan Teknologi Informasi. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nKedalaman kebijakan, standar, dan prosedur penggunaan \nTeknologi Informasi disesuaikan dengan tujuan kebijakan \nusaha, \nukuran \ndan \nkompleksitas \nusaha \nBank, \ndan \nmemperhatikan profil risiko Bank.  \nHuruf a \n \nYang dimaksud dengan “manajemen” antara lain Direksi, \nDewan Komisaris, dan komite pengarah Teknologi \nInformasi. \nHuruf b \n \nCukup jelas. \nHuruf c \n \nCukup jelas. \nHuruf d \n \nCukup jelas. \nHuruf e \n \nCukup jelas. \nHuruf f \n \nCukup jelas. \nHuruf g \n \nCukup jelas. \nHuruf h \n \nCukup jelas. \nHuruf i \n \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “limit risiko” adalah tingkat kesalahan \nyang masih dapat ditoleransi oleh sistem (risk tolerance) atau \nstandar pengamanan yang ditetapkan atau disetujui untuk \ntidak dilampaui.  \nStandar \npengamanan \nsebagaimana \ndimaksud \ndi \natas \ndisesuaikan dengan risk appetite yang dimiliki Bank.  \n \n \n\n\n \n \nAyat (4) \nKaji ulang dan pengkinian dilakukan agar kebijakan, standar, \ndan prosedur tetap sesuai dengan perkembangan operasional \nBank dan Teknologi Informasi. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “proses manajemen risiko” adalah \nmengidentifikasi, mengukur, memantau, dan mengendalikan \nrisiko.  \nAyat (2) \nCukup jelas.  \nAyat (3) \nCukup jelas.  \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “proses manajemen risiko” adalah \nmengidentifikasi, mengukur, memantau, dan mengendalikan \nrisiko.  \nAyat (2) \nCukup jelas.  \nAyat (3) \nCukup jelas.  \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nInformasi yang ditampilkan kembali terkait dengan sistem \nyang \ntidak \nlagi \ndigunakan \ndalam \noperasional \nBank, \nproprietary system, maupun sistem yang masih digunakan \n\n\n \n \ndalam operasional Bank namun mengalami gangguan. \nYang dimaksud dengan “secara utuh” adalah informasi yang \nditampilkan lengkap dan akurat.  \nHuruf g  \nYang \ndimaksud \ndengan \n“kode \nsumber” \nadalah \nsuatu \nrangkaian perintah, pernyataan, dan/atau deklarasi yang \nditulis dalam bahasa pemrograman komputer yang dapat \ndibaca dan dipahami.  \nKode \nsumber \nditempatkan \npada \npihak \nindependen \nberdasarkan kesepakatan antara Bank dan pihak pembuat \nkode sumber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nInformasi yang ditampilkan kembali terkait dengan sistem \nyang \ntidak \nlagi \ndigunakan \ndalam \noperasional \nBank, \nproprietary system, maupun sistem yang masih digunakan \n\n\n \n \ndalam operasional Bank namun mengalami gangguan. \nYang dimaksud dengan “secara utuh” adalah informasi yang \nditampilkan lengkap dan akurat.  \nHuruf g  \nYang \ndimaksud \ndengan \n“kode \nsumber” \nadalah \nsuatu \nrangkaian perintah, pernyataan, dan/atau deklarasi yang \nditulis dalam bahasa pemrograman komputer yang dapat \ndibaca dan dipahami.  \nKode \nsumber \nditempatkan \npada \npihak \nindependen \nberdasarkan kesepakatan antara Bank dan pihak pembuat \nkode sumber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “memiliki sistem yang dapat menghasilkan \nlaporan terpisah” adalah sistem yang dapat mengidentifikasikan \ninput, proses, dan output dari transaksi berdasarkan prinsip \nsyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “memiliki sistem yang dapat menghasilkan \nlaporan terpisah” adalah sistem yang dapat mengidentifikasikan \ninput, proses, dan output dari transaksi berdasarkan prinsip \nsyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nRencana Pemulihan Bencana mencakup rencana pemulihan \npada berbagai tingkat bencana dan gangguan seperti: \na. minor \ndisaster \nyang \nberdampak \nkecil \ndan \ntidak \nmemerlukan biaya besar serta dapat diselesaikan dalam \njangka waktu pendek;  \nb. major disaster yang berdampak besar dan dapat menjadi \nlebih parah apabila tidak diatasi segera; dan/atau  \nc. catastrophic yang berdampak terjadi kerusakan yang \nbersifat permanen sehingga memerlukan relokasi atau \npenggantian dengan biaya yang besar. \n\n\n \n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nRencana Pemulihan Bencana mencakup rencana pemulihan \npada berbagai tingkat bencana dan gangguan seperti: \na. minor \ndisaster \nyang \nberdampak \nkecil \ndan \ntidak \nmemerlukan biaya besar serta dapat diselesaikan dalam \njangka waktu pendek;  \nb. major disaster yang berdampak besar dan dapat menjadi \nlebih parah apabila tidak diatasi segera; dan/atau  \nc. catastrophic yang berdampak terjadi kerusakan yang \nbersifat permanen sehingga memerlukan relokasi atau \npenggantian dengan biaya yang besar. \n\n\n \n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nDalam melaksanakan sistem pengendalian intern Teknologi \nInformasi, Bank mengacu pada prinsip umum sebagaimana \ndiatur dalam ketentuan mengenai pedoman standar sistem \npengendalian intern. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan memadai antara lain teknologi yang \nsesuai dengan kegiatan operasional Bank, sumber daya \nmanusia yang kompeten dan struktur organisasi yang tidak \nmemberikan \npeluang \nuntuk \nmelakukan \ndan/atau \nmenyembunyikan kesalahan atau penyimpangan. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nDalam melaksanakan sistem pengendalian intern Teknologi \nInformasi, Bank mengacu pada prinsip umum sebagaimana \ndiatur dalam ketentuan mengenai pedoman standar sistem \npengendalian intern. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan memadai antara lain teknologi yang \nsesuai dengan kegiatan operasional Bank, sumber daya \nmanusia yang kompeten dan struktur organisasi yang tidak \nmemberikan \npeluang \nuntuk \nmelakukan \ndan/atau \nmenyembunyikan kesalahan atau penyimpangan. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenggunaan auditor ekstern untuk melaksanakan fungsi \naudit intern atas Teknologi Informasi tidak mengurangi \ntanggung jawab pimpinan satuan kerja audit intern. Selain \nitu penggunaan auditor ekstern harus mempertimbangkan \nukuran  dan  kompleksitas  usaha Bank serta memperhatikan \nketentuan peraturan perundang-undangan terkait auditor \nekstern. \n\n\n \n \nDalam hal Bank menggunakan auditor ekstern untuk \nmelaksanakan fungsi audit intern atas Teknologi Informasi, \nproses Entreprise Data Management tetap harus dijalankan \noleh satuan kerja audit intern. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenggunaan auditor ekstern untuk melaksanakan fungsi \naudit intern atas Teknologi Informasi tidak mengurangi \ntanggung jawab pimpinan satuan kerja audit intern. Selain \nitu penggunaan auditor ekstern harus mempertimbangkan \nukuran  dan  kompleksitas  usaha Bank serta memperhatikan \nketentuan peraturan perundang-undangan terkait auditor \nekstern. \n\n\n \n \nDalam hal Bank menggunakan auditor ekstern untuk \nmelaksanakan fungsi audit intern atas Teknologi Informasi, \nproses Entreprise Data Management tetap harus dijalankan \noleh satuan kerja audit intern. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nPenyelenggaraan Teknologi Informasi antara lain penempatan \nSistem Elektronik pada Pusat Data dan Pusat Pemulihan \nBencana.  \nAyat (2) \nYang dimaksud dengan “menggunakan pihak penyedia jasa \nTeknologi Informasi” adalah penggunaan jasa pihak lain \ndalam penyelenggaraan Teknologi Informasi Bank secara \nberkesinambungan dan/atau dalam periode tertentu.  \nYang dimaksud dengan pihak lain bagi: \na. kantor cabang dari bank yang berkedudukan di luar \nnegeri termasuk kantor pusat dan kantor bank lain di luar \nnegeri maupun kelompok usaha Bank; atau  \nb. bank yang dimiliki pihak asing termasuk kantor induk \ndan kelompok usaha Bank. \nSelain itu, meskipun Bank menyerahkan penyelenggaraan \nTeknologi Informasi kepada pihak penyedia jasa maka Bank \ntetap disebut sebagai penyelenggara Sistem Elektronik untuk \nsetiap Sistem Elektronik yang digunakan Bank dalam \nmenjalankan kegiatan usahanya. \nAyat (3) \nHuruf a \nYang \ndimaksud \ntanggung \njawab \nBank \ndalam \nmenerapkan manajemen risiko antara lain dengan \nmemastikan bahwa penyedia jasa Teknologi Informasi \nmenerapkan manajemen risiko secara memadai pada \n\n\n \n \nkegiatan Bank yang diselenggarakan oleh pihak penyedia \njasa \nTeknologi \nInformasi \nsesuai \ndengan \nyang \ndipersyaratkan dalam Peraturan Otoritas Jasa Keuangan \nini.  \nHuruf b \n \n \nCukup jelas. \nHuruf c \n \n \nCukup jelas. \nHuruf d \n \n \nCukup jelas. \nHuruf e \n \n \nCukup jelas. \nHuruf f \nYang \ndimaksud \ndengan \n“secara \nberkala” \nadalah \npemantauan dan evaluasi keandalan pihak penyedia jasa \nTeknologi Informasi sesuai dengan risk appetite Bank \nterhadap jasa yang diberikan oleh pihak penyedia jasa \nTeknologi Informasi. \nHuruf g \nAkses \nuntuk \nmemperoleh \ndata \ndan \ninformasi \ndimaksudkan agar pemeriksaan dapat dilaksanakan \nsecara efektif. \nHuruf h \nAkses terhadap Pangkalan Data meliputi namun tidak \nterbatas pada penyediaan terminal, user id untuk \nmelakukan query, dan mengunduh data. \nHuruf i \nAngka 1 \nCukup jelas. \nAngka 2 \nSyarat ini dimaksudkan untuk meyakini bahwa \nPusat Data, Pusat Pemulihan Bencana, dan/atau \njasa Teknologi Informasi yang digunakan oleh Bank \nmemiliki pengendalian Teknologi Informasi yang \nmemadai paling sedikit mencakup pengamanan fisik \ndan pengamanan logic. \n \n\n\n \n \nAngka 3 \nAkses sebagaimana dimaksud pada angka ini \ndibutuhkan untuk memperoleh data dan informasi \nyang diperlukan secara tepat waktu setiap kali \ndibutuhkan \ndalam \nrangka \naudit \nTeknologi \nInformasi, audit dan/atau pemeriksaan lain.  \nAuditor Otoritas Jasa Keuangan termasuk auditor \nekstern yang ditunjuk oleh Otoritas Jasa Keuangan.  \nAngka 4 \nCukup jelas. \nAngka 5 \nInformasi termasuk sistem dan perangkat yang \ndigunakan untuk memproses, menyimpan, dan \nmengirimkan informasi, merupakan aset yang harus \ndijamin keamanannya oleh pihak penyedia jasa \ndengan cara dilindungi dari musuh dan ancaman \nbahaya yang dapat mengganggu prinsip kerahasiaan \n(confidentiality), \nintegritas \n(integrity), \ndan \nketersediaan (availability). \nAngka 6 \nCukup jelas. \nAngka 7 \nCukup jelas. \nAngka 8 \nYang dimaksud dengan “secara berkala” adalah \npelaksanaan audit sesuai dengan risk appetite Bank \nterhadap jasa yang diberikan oleh pihak penyedia \njasa Teknologi Informasi. \nCakupan \naudit \nyang \ndilakukan \noleh \nauditor \nindependen \ntermasuk \nsistem \naplikasi \nyang \ndigunakan untuk memproses data Bank. \nAngka 9 \nCukup jelas.  \nAngka 10 \nCukup jelas. \n \n \n\n\n \n \nAngka 11 \nPemenuhan tingkat layanan dilakukan antara lain \ndengan \nmemastikan \npenyelenggaraan \nTeknologi \nInformasi \ndapat \nmendukung \nBank \nberoperasi \nsebagaimana mestinya. \nAyat (4) \nCukup jelas. \nAyat (5) \nYang dimaksud dengan “hubungan  kerja  sama  secara   \nwajar \n(arm's \nlength \nprinciple)” \nadalah \nkondisi \ndimana \ntransaksi antar pihak bersifat independen sebagaimana pihak \nyang tidak terkait, antara lain memiliki kesetaraan dan \ndidasarkan \npada \nharga \npasar \nyang \nwajar \nsehingga \nmeminimalisasi terjadinya benturan kepentingan (conflict of \ninterest). \nYang dimaksud dengan “pihak terkait dengan Bank” adalah \npihak terkait sebagaimana diatur dalam ketentuan mengenai \nbatas maksimum pemberian kredit bank umum. \nAyat (6)  \nHuruf a \n \nCukup jelas. \nHuruf b \n \nYang dimaksud dengan “insolven” adalah tidak memiliki \ncukup dana untuk melunasi utang. \nHuruf c \n \nCukup jelas. \nHuruf d \n \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nIndikasi kesulitan pengawasan antara lain: \na. kesulitan otoritas pengawas dalam melakukan akses \nterhadap data dan informasi; \nb. kesulitan dalam pelaksanaan pemeriksaan terhadap pihak \npenyedia jasa Teknologi Informasi; dan/atau \n \n\n\n \n \nc. pihak penyedia jasa Teknologi Informasi digunakan \nsebagai media untuk melakukan rekayasa data Bank \ndan/atau rekayasa keuangan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nPenyelenggaraan Teknologi Informasi antara lain penempatan \nSistem Elektronik pada Pusat Data dan Pusat Pemulihan \nBencana.  \nAyat (2) \nYang dimaksud dengan “menggunakan pihak penyedia jasa \nTeknologi Informasi” adalah penggunaan jasa pihak lain \ndalam penyelenggaraan Teknologi Informasi Bank secara \nberkesinambungan dan/atau dalam periode tertentu.  \nYang dimaksud dengan pihak lain bagi: \na. kantor cabang dari bank yang berkedudukan di luar \nnegeri termasuk kantor pusat dan kantor bank lain di luar \nnegeri maupun kelompok usaha Bank; atau  \nb. bank yang dimiliki pihak asing termasuk kantor induk \ndan kelompok usaha Bank. \nSelain itu, meskipun Bank menyerahkan penyelenggaraan \nTeknologi Informasi kepada pihak penyedia jasa maka Bank \ntetap disebut sebagai penyelenggara Sistem Elektronik untuk \nsetiap Sistem Elektronik yang digunakan Bank dalam \nmenjalankan kegiatan usahanya. \nAyat (3) \nHuruf a \nYang \ndimaksud \ntanggung \njawab \nBank \ndalam \nmenerapkan manajemen risiko antara lain dengan \nmemastikan bahwa penyedia jasa Teknologi Informasi \nmenerapkan manajemen risiko secara memadai pada \n\n\n \n \nkegiatan Bank yang diselenggarakan oleh pihak penyedia \njasa \nTeknologi \nInformasi \nsesuai \ndengan \nyang \ndipersyaratkan dalam Peraturan Otoritas Jasa Keuangan \nini.  \nHuruf b \n \n \nCukup jelas. \nHuruf c \n \n \nCukup jelas. \nHuruf d \n \n \nCukup jelas. \nHuruf e \n \n \nCukup jelas. \nHuruf f \nYang \ndimaksud \ndengan \n“secara \nberkala” \nadalah \npemantauan dan evaluasi keandalan pihak penyedia jasa \nTeknologi Informasi sesuai dengan risk appetite Bank \nterhadap jasa yang diberikan oleh pihak penyedia jasa \nTeknologi Informasi. \nHuruf g \nAkses \nuntuk \nmemperoleh \ndata \ndan \ninformasi \ndimaksudkan agar pemeriksaan dapat dilaksanakan \nsecara efektif. \nHuruf h \nAkses terhadap Pangkalan Data meliputi namun tidak \nterbatas pada penyediaan terminal, user id untuk \nmelakukan query, dan mengunduh data. \nHuruf i \nAngka 1 \nCukup jelas. \nAngka 2 \nSyarat ini dimaksudkan untuk meyakini bahwa \nPusat Data, Pusat Pemulihan Bencana, dan/atau \njasa Teknologi Informasi yang digunakan oleh Bank \nmemiliki pengendalian Teknologi Informasi yang \nmemadai paling sedikit mencakup pengamanan fisik \ndan pengamanan logic. \n \n\n\n \n \nAngka 3 \nAkses sebagaimana dimaksud pada angka ini \ndibutuhkan untuk memperoleh data dan informasi \nyang diperlukan secara tepat waktu setiap kali \ndibutuhkan \ndalam \nrangka \naudit \nTeknologi \nInformasi, audit dan/atau pemeriksaan lain.  \nAuditor Otoritas Jasa Keuangan termasuk auditor \nekstern yang ditunjuk oleh Otoritas Jasa Keuangan.  \nAngka 4 \nCukup jelas. \nAngka 5 \nInformasi termasuk sistem dan perangkat yang \ndigunakan untuk memproses, menyimpan, dan \nmengirimkan informasi, merupakan aset yang harus \ndijamin keamanannya oleh pihak penyedia jasa \ndengan cara dilindungi dari musuh dan ancaman \nbahaya yang dapat mengganggu prinsip kerahasiaan \n(confidentiality), \nintegritas \n(integrity), \ndan \nketersediaan (availability). \nAngka 6 \nCukup jelas. \nAngka 7 \nCukup jelas. \nAngka 8 \nYang dimaksud dengan “secara berkala” adalah \npelaksanaan audit sesuai dengan risk appetite Bank \nterhadap jasa yang diberikan oleh pihak penyedia \njasa Teknologi Informasi. \nCakupan \naudit \nyang \ndilakukan \noleh \nauditor \nindependen \ntermasuk \nsistem \naplikasi \nyang \ndigunakan untuk memproses data Bank. \nAngka 9 \nCukup jelas.  \nAngka 10 \nCukup jelas. \n \n \n\n\n \n \nAngka 11 \nPemenuhan tingkat layanan dilakukan antara lain \ndengan \nmemastikan \npenyelenggaraan \nTeknologi \nInformasi \ndapat \nmendukung \nBank \nberoperasi \nsebagaimana mestinya. \nAyat (4) \nCukup jelas. \nAyat (5) \nYang dimaksud dengan “hubungan  kerja  sama  secara   \nwajar \n(arm's \nlength \nprinciple)” \nadalah \nkondisi \ndimana \ntransaksi antar pihak bersifat independen sebagaimana pihak \nyang tidak terkait, antara lain memiliki kesetaraan dan \ndidasarkan \npada \nharga \npasar \nyang \nwajar \nsehingga \nmeminimalisasi terjadinya benturan kepentingan (conflict of \ninterest). \nYang dimaksud dengan “pihak terkait dengan Bank” adalah \npihak terkait sebagaimana diatur dalam ketentuan mengenai \nbatas maksimum pemberian kredit bank umum. \nAyat (6)  \nHuruf a \n \nCukup jelas. \nHuruf b \n \nYang dimaksud dengan “insolven” adalah tidak memiliki \ncukup dana untuk melunasi utang. \nHuruf c \n \nCukup jelas. \nHuruf d \n \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nIndikasi kesulitan pengawasan antara lain: \na. kesulitan otoritas pengawas dalam melakukan akses \nterhadap data dan informasi; \nb. kesulitan dalam pelaksanaan pemeriksaan terhadap pihak \npenyedia jasa Teknologi Informasi; dan/atau \n \n\n\n \n \nc. pihak penyedia jasa Teknologi Informasi digunakan \nsebagai media untuk melakukan rekayasa data Bank \ndan/atau rekayasa keuangan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nYang \ndimaksud \ndengan \n“home \nregulatory” \nadalah \nketentuan yang diterbitkan oleh otoritas negara asal \nbank. \nDalam hal ini home regulatory untuk kantor cabang \nadalah sesuai dengan kedudukan kantor pusat bank di \nluar negeri, sedangkan untuk kantor subsidiari sesuai \ndengan kedudukan kantor induk/kantor entitas utama, \nberupa bank di luar negeri. \nYang dimaksud aturan lain dalam hal ini adalah \nketentuan dalam rangka untuk kepentingan publik atau \nnegara, penegakan hukum, atau penerapan prinsip \nkehati-hatian. \nHuruf b \nYang dimaksud dengan “nasabah yang merupakan satu \ngrup” adalah nasabah lain yang mempunyai hubungan \npengendalian dengan nasabah, sesuai dengan ketentuan \nmengenai batas maksimum pemberian kredit atau batas \nmaksimum penyaluran dana. \nYang dimaksud dengan “grup bank yang sama” adalah \nkantor \ninduk \natau \nkantor \nentitas \nutama, \nanak \nperusahaan, atau perusahaan terelasi, yang berupa \nbank. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \n\n\n \n \nHuruf e \nCukup jelas. \nAyat (4) \nHuruf a   \nCukup jelas.   \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “tidak mengurangi efektifitas \npengawasan Otoritas Jasa Keuangan” adalah tidak \nmenimbulkan kesulitan pengawas dalam memperoleh \ndata dan informasi yang diperlukan seperti adanya akses \nterhadap \nPangkalan \nData \ndan \nmemiliki \nstruktur \nPangkalan Data dari setiap aplikasi yang digunakan. \nHuruf d \nKetentuan \nperundang-undangan \nyang \nberlaku \ndi \nIndonesia antara lain ketentuan Otoritas Jasa Keuangan \nmengenai persyaratan dan tata cara pemberian perintah \natau izin tertulis membuka rahasia Bank. \nHuruf e \nCukup jelas. \nHuruf f \nSurat pernyataan disampaikan apabila pihak penyedia \njasa Teknologi Informasi memiliki otoritas pengawasan. \nHuruf g \nYang dimaksud dengan “kantor bank di luar wilayah \nIndonesia” adalah: \n1. \nbagi kantor cabang dari bank yang berkedudukan di \nluar negeri yaitu kantor pusat atau kantor lainnya; \natau \n2. \nbagi Bank yang dimiliki lembaga keuangan asing \nyaitu kantor induk bank. \nSurat pernyataan disampaikan termasuk apabila bank \nmemiliki kantor bank di wilayah yang sama dengan \nwilayah kedudukan penyedia jasa Teknologi Informasi. \n \n \n\n\n \n \nHuruf h \nManfaat yang diharapkan antara lain peningkatan \nkualitas layanan kepada nasabah serta penerapan \nprogram \nanti \npencucian \nuang \ndan \npencegahan \npendanaan terorisme. \nHuruf i \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nYang \ndimaksud \ndengan \n“home \nregulatory” \nadalah \nketentuan yang diterbitkan oleh otoritas negara asal \nbank. \nDalam hal ini home regulatory untuk kantor cabang \nadalah sesuai dengan kedudukan kantor pusat bank di \nluar negeri, sedangkan untuk kantor subsidiari sesuai \ndengan kedudukan kantor induk/kantor entitas utama, \nberupa bank di luar negeri. \nYang dimaksud aturan lain dalam hal ini adalah \nketentuan dalam rangka untuk kepentingan publik atau \nnegara, penegakan hukum, atau penerapan prinsip \nkehati-hatian. \nHuruf b \nYang dimaksud dengan “nasabah yang merupakan satu \ngrup” adalah nasabah lain yang mempunyai hubungan \npengendalian dengan nasabah, sesuai dengan ketentuan \nmengenai batas maksimum pemberian kredit atau batas \nmaksimum penyaluran dana. \nYang dimaksud dengan “grup bank yang sama” adalah \nkantor \ninduk \natau \nkantor \nentitas \nutama, \nanak \nperusahaan, atau perusahaan terelasi, yang berupa \nbank. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \n\n\n \n \nHuruf e \nCukup jelas. \nAyat (4) \nHuruf a   \nCukup jelas.   \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “tidak mengurangi efektifitas \npengawasan Otoritas Jasa Keuangan” adalah tidak \nmenimbulkan kesulitan pengawas dalam memperoleh \ndata dan informasi yang diperlukan seperti adanya akses \nterhadap \nPangkalan \nData \ndan \nmemiliki \nstruktur \nPangkalan Data dari setiap aplikasi yang digunakan. \nHuruf d \nKetentuan \nperundang-undangan \nyang \nberlaku \ndi \nIndonesia antara lain ketentuan Otoritas Jasa Keuangan \nmengenai persyaratan dan tata cara pemberian perintah \natau izin tertulis membuka rahasia Bank. \nHuruf e \nCukup jelas. \nHuruf f \nSurat pernyataan disampaikan apabila pihak penyedia \njasa Teknologi Informasi memiliki otoritas pengawasan. \nHuruf g \nYang dimaksud dengan “kantor bank di luar wilayah \nIndonesia” adalah: \n1. \nbagi kantor cabang dari bank yang berkedudukan di \nluar negeri yaitu kantor pusat atau kantor lainnya; \natau \n2. \nbagi Bank yang dimiliki lembaga keuangan asing \nyaitu kantor induk bank. \nSurat pernyataan disampaikan termasuk apabila bank \nmemiliki kantor bank di wilayah yang sama dengan \nwilayah kedudukan penyedia jasa Teknologi Informasi. \n \n \n\n\n \n \nHuruf h \nManfaat yang diharapkan antara lain peningkatan \nkualitas layanan kepada nasabah serta penerapan \nprogram \nanti \npencucian \nuang \ndan \npencegahan \npendanaan terorisme. \nHuruf i \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nYang dimaksud dengan “menjamin kelangsungan usaha” \nadalah memastikan bahwa kelangsungan usaha tetap dapat \nberjalan sebagaimana mestinya ketika terjadi bencana atau \ngangguan, termasuk menjamin kesiapan Sistem Elektronik \nyang terdapat dalam Pusat Data dan Pusat Pemulihan \nBencana. \nAyat (2) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nYang dimaksud dengan “menjamin kelangsungan usaha” \nadalah memastikan bahwa kelangsungan usaha tetap dapat \nberjalan sebagaimana mestinya ketika terjadi bencana atau \ngangguan, termasuk menjamin kesiapan Sistem Elektronik \nyang terdapat dalam Pusat Data dan Pusat Pemulihan \nBencana. \nAyat (2) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nYang dimaksud dengan prinsip kehati-hatian dalam ayat \nini antara lain mengenai pengelolaan risiko atas produk \ndan aktivitas baru sebagaimana diatur dalam ketentuan \nmengenai manajemen risiko. \nYang dimaksud dengan produk dan aktivitas baru antara \nlain \nproduk \ndan \naktivitas \nyang \nmenambah \natau \nmeningkatkan \nrisiko \npada \nBank \ntermasuk \npengembangan pelayanan seperti pemasaran kredit.  \nHuruf b \nCukup jelas. \n \n\n\n \n \nHuruf c \nHubungan Bank dengan nasabah didasarkan atas \nperjanjian yang jelas dan memperhatikan ketentuan \nmengenai \ntransparansi \ninformasi \nproduk \ndan \npenggunaan data pribadi nasabah serta ketentuan \nmengenai penyelesaian pengaduan nasabah. \nBank tetap bertanggung jawab atas setiap transaksi yang \npemrosesannya diserahkan kepada pihak penyedia jasa. \nAyat (4) \nPenyelenggaraan Pemrosesan Transaksi Berbasis Teknologi \nInformasi di luar negeri dalam ayat ini termasuk yang \ndilakukan pada kantor pusat atau kantor lain bagi kantor \ncabang bank asing atau kantor induk bagi bank yang dimiliki \nlembaga keuangan asing. \nHuruf a \nCukup jelas. \nHuruf b \nYang \ndimaksud \ndengan \n“dokumen \npendukung \nadministrasi keuangan” adalah data yang merupakan \nbukti adanya hak dan kewajiban serta kegiatan usaha \nsuatu perusahaan dan digunakan sebagai pendukung \npenyusunan laporan keuangan. Contoh: akad kredit dan \ndokumen \npencairan \nkredit, \ndeal \nslip, \ndan \ndeal \nconfirmation transaksi treasury serta dokumen perintah \ntransfer data melalui Society for Worldwide Interbank \nFinancial Telecommunication (SWIFT). \nHuruf c \nUpaya \nuntuk \nmeningkatkan \nperan \nBank \nbagi \nperkembangan perekonomian Indonesia antara lain \ntercermin pada rencana peningkatan pemberian kredit \ndan peningkatan pembiayaan ekspor impor. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nYang dimaksud dengan prinsip kehati-hatian dalam ayat \nini antara lain mengenai pengelolaan risiko atas produk \ndan aktivitas baru sebagaimana diatur dalam ketentuan \nmengenai manajemen risiko. \nYang dimaksud dengan produk dan aktivitas baru antara \nlain \nproduk \ndan \naktivitas \nyang \nmenambah \natau \nmeningkatkan \nrisiko \npada \nBank \ntermasuk \npengembangan pelayanan seperti pemasaran kredit.  \nHuruf b \nCukup jelas. \n \n\n\n \n \nHuruf c \nHubungan Bank dengan nasabah didasarkan atas \nperjanjian yang jelas dan memperhatikan ketentuan \nmengenai \ntransparansi \ninformasi \nproduk \ndan \npenggunaan data pribadi nasabah serta ketentuan \nmengenai penyelesaian pengaduan nasabah. \nBank tetap bertanggung jawab atas setiap transaksi yang \npemrosesannya diserahkan kepada pihak penyedia jasa. \nAyat (4) \nPenyelenggaraan Pemrosesan Transaksi Berbasis Teknologi \nInformasi di luar negeri dalam ayat ini termasuk yang \ndilakukan pada kantor pusat atau kantor lain bagi kantor \ncabang bank asing atau kantor induk bagi bank yang dimiliki \nlembaga keuangan asing. \nHuruf a \nCukup jelas. \nHuruf b \nYang \ndimaksud \ndengan \n“dokumen \npendukung \nadministrasi keuangan” adalah data yang merupakan \nbukti adanya hak dan kewajiban serta kegiatan usaha \nsuatu perusahaan dan digunakan sebagai pendukung \npenyusunan laporan keuangan. Contoh: akad kredit dan \ndokumen \npencairan \nkredit, \ndeal \nslip, \ndan \ndeal \nconfirmation transaksi treasury serta dokumen perintah \ntransfer data melalui Society for Worldwide Interbank \nFinancial Telecommunication (SWIFT). \nHuruf c \nUpaya \nuntuk \nmeningkatkan \nperan \nBank \nbagi \nperkembangan perekonomian Indonesia antara lain \ntercermin pada rencana peningkatan pemberian kredit \ndan peningkatan pembiayaan ekspor impor. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n\n\n \n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nLaporan \ntersebut \nmencakup \nkajian \npascaimplementasi \n(postimplemention review). \nAyat (5) \nYang dimaksud dengan “dokumen permohonan diterima \nsecara \nlengkap” \nadalah \nditerimanya \ndokumen \nyang \ndipersyaratkan dalam Peraturan Otoritas Jasa Keuangan ini \nserta diterimanya data tambahan dalam hal diperlukan. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n\n\n \n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nLaporan \ntersebut \nmencakup \nkajian \npascaimplementasi \n(postimplemention review). \nAyat (5) \nYang dimaksud dengan “dokumen permohonan diterima \nsecara \nlengkap” \nadalah \nditerimanya \ndokumen \nyang \ndipersyaratkan dalam Peraturan Otoritas Jasa Keuangan ini \nserta diterimanya data tambahan dalam hal diperlukan. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenyediaan jasa Teknologi Informasi oleh Bank adalah \npemberian jasa berupa pemanfaatan infrastruktur Teknologi \nInformasi milik Bank kepada Lembaga Jasa Keuangan \ndidasari \ndengan \nperjanjian \nkerjasama \ndan/atau \nsewa-\nmenyewa di antara kedua belah pihak. \nAyat (2) \nCukup jelas.  \nAyat (3) \nCukup jelas. \nAyat (4) \nPusat Data dan/atau Pusat Pemulihan Bencana termasuk \njaringan komunikasi yang digunakan bersama oleh penyedia \ndan pengguna jasa Teknologi Informasi, namun tidak \ntermasuk penyediaan aplikasi khusus bagi pengguna jasa. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenyediaan jasa Teknologi Informasi oleh Bank adalah \npemberian jasa berupa pemanfaatan infrastruktur Teknologi \nInformasi milik Bank kepada Lembaga Jasa Keuangan \ndidasari \ndengan \nperjanjian \nkerjasama \ndan/atau \nsewa-\nmenyewa di antara kedua belah pihak. \nAyat (2) \nCukup jelas.  \nAyat (3) \nCukup jelas. \nAyat (4) \nPusat Data dan/atau Pusat Pemulihan Bencana termasuk \njaringan komunikasi yang digunakan bersama oleh penyedia \ndan pengguna jasa Teknologi Informasi, namun tidak \ntermasuk penyediaan aplikasi khusus bagi pengguna jasa. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh Layanan Perbankan Elektronik antara lain Automated \nTeller Machine (ATM), Cash Deposit Machine (CDM), phone \nbanking, Short Message Services (SMS) banking, Electronic \nData Capture (EDC), Point Of Sales (POS), internet banking, \ndan mobile banking. \nKetentuan Otoritas Jasa Keuangan antara lain Peraturan \nOtoritas Jasa Keuangan mengenai Kegiatan Usaha dan \nJaringan Kantor Bank Berdasarkan Modal Inti, ketentuan \nOtoritas Jasa Keuangan mengenai penerapan program anti \npencucian uang dan pencegahan pendanaan terorisme bagi \nBank, dan ketentuan Otoritas Jasa Keuangan mengenai \npenerapan manajemen risiko serta ketentuan Otoritas Jasa \nKeuangan mengenai prinsip kehati-hatian dalam kegiatan \nusaha Bank. \nKetentuan otoritas lain yang terkait antara lain ketentuan \nmengenai \npenyelenggaraan \nkegiatan \nalat \npembayaran \nmenggunakan kartu. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh Layanan Perbankan Elektronik antara lain Automated \nTeller Machine (ATM), Cash Deposit Machine (CDM), phone \nbanking, Short Message Services (SMS) banking, Electronic \nData Capture (EDC), Point Of Sales (POS), internet banking, \ndan mobile banking. \nKetentuan Otoritas Jasa Keuangan antara lain Peraturan \nOtoritas Jasa Keuangan mengenai Kegiatan Usaha dan \nJaringan Kantor Bank Berdasarkan Modal Inti, ketentuan \nOtoritas Jasa Keuangan mengenai penerapan program anti \npencucian uang dan pencegahan pendanaan terorisme bagi \nBank, dan ketentuan Otoritas Jasa Keuangan mengenai \npenerapan manajemen risiko serta ketentuan Otoritas Jasa \nKeuangan mengenai prinsip kehati-hatian dalam kegiatan \nusaha Bank. \nKetentuan otoritas lain yang terkait antara lain ketentuan \nmengenai \npenyelenggaraan \nkegiatan \nalat \npembayaran \nmenggunakan kartu. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang \ndimaksud \ndengan \n“produk \nLayanan \nPerbankan \nElektronik” adalah produk baru yang memiliki karakteristik \nberbeda dengan produk yang telah ada di Bank dan/atau \nmenambah atau meningkatkan eksposur risiko tertentu pada \nBank. \n \n \n \n \n\n\n \n \nAyat (3) \nHuruf a \nAngka 1 \nYang dimaksud dengan “manajemen” antara lain \nDireksi, Dewan Komisaris, dan Komite Pengarah \nTeknologi Informasi. \nAngka 2 \nCukup jelas. \nAngka 3 \n Cukup jelas. \nAngka 4 \n Cukup jelas. \nAngka 5 \n Cukup jelas. \nAngka 6 \n Cukup jelas. \nAngka 7 \n Cukup jelas. \nAngka 8 \n Cukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nContoh dokumen pendukung lain antara lain dokumen \nyang dipersyaratkan oleh otoritas lain yang terkait, \nseperti: \n1. tanda terdaftar Sistem Elektronik; dan \n2. bukti perolehan sertifikasi Sistem Elektronik,  \nyang telah diterbitkan oleh Kementerian Komunikasi dan \nInformatika Republik Indonesia, dan sesuai dengan \nketentuan \nperaturan \nperundang-undangan \nyang \nmengatur \nmengenai \npenyelenggaraan \nsistem \ndan \ntransaksi elektronik. \nAyat (4) \nHasil pemeriksaan dari pihak independen di luar Bank \ndiperlukan untuk produk Layanan Perbankan Elektronik \nyang baru pertama kali diterbitkan oleh Bank seperti internet \n\n\n \n \nbanking yang bersifat transaksional dan SMS banking. \nUntuk penambahan fitur layanan produk Layanan Perbankan \nElektronik yang telah ada dan dapat menambah atau \nmeningkatkan eksposur risiko, Bank dapat menyampaikan \nhasil pemeriksaan yang dilakukan oleh pihak intern Bank \nyang tidak ikut serta dalam perancangan dan pengembangan \nsistem \naplikasi \nserta \npengambilan \nkeputusan \ndalam \nimplementasi aktivitas Layanan Perbankan Elektronik. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang \ndimaksud \ndengan \n“produk \nLayanan \nPerbankan \nElektronik” adalah produk baru yang memiliki karakteristik \nberbeda dengan produk yang telah ada di Bank dan/atau \nmenambah atau meningkatkan eksposur risiko tertentu pada \nBank. \n \n \n \n \n\n\n \n \nAyat (3) \nHuruf a \nAngka 1 \nYang dimaksud dengan “manajemen” antara lain \nDireksi, Dewan Komisaris, dan Komite Pengarah \nTeknologi Informasi. \nAngka 2 \nCukup jelas. \nAngka 3 \n Cukup jelas. \nAngka 4 \n Cukup jelas. \nAngka 5 \n Cukup jelas. \nAngka 6 \n Cukup jelas. \nAngka 7 \n Cukup jelas. \nAngka 8 \n Cukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nContoh dokumen pendukung lain antara lain dokumen \nyang dipersyaratkan oleh otoritas lain yang terkait, \nseperti: \n1. tanda terdaftar Sistem Elektronik; dan \n2. bukti perolehan sertifikasi Sistem Elektronik,  \nyang telah diterbitkan oleh Kementerian Komunikasi dan \nInformatika Republik Indonesia, dan sesuai dengan \nketentuan \nperaturan \nperundang-undangan \nyang \nmengatur \nmengenai \npenyelenggaraan \nsistem \ndan \ntransaksi elektronik. \nAyat (4) \nHasil pemeriksaan dari pihak independen di luar Bank \ndiperlukan untuk produk Layanan Perbankan Elektronik \nyang baru pertama kali diterbitkan oleh Bank seperti internet \n\n\n \n \nbanking yang bersifat transaksional dan SMS banking. \nUntuk penambahan fitur layanan produk Layanan Perbankan \nElektronik yang telah ada dan dapat menambah atau \nmeningkatkan eksposur risiko, Bank dapat menyampaikan \nhasil pemeriksaan yang dilakukan oleh pihak intern Bank \nyang tidak ikut serta dalam perancangan dan pengembangan \nsistem \naplikasi \nserta \npengambilan \nkeputusan \ndalam \nimplementasi aktivitas Layanan Perbankan Elektronik. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Prinsip pengendalian pengamanan data nasabah dan transaksi \nLayanan Perbankan Elektronik pada setiap Sistem Elektronik \nmencakup: \na. kerahasiaan (confidentiality); \nb. integritas (integrity); \nc. ketersediaan (availablity); \nd. keaslian (authentication); \ne. tidak dapat diingkari (non repudiation); \nf. \npengendalian otorisasi dalam sistem, Pangkalan Data, dan \naplikasi (authorization of control); \ng. pemisahan tugas dan tanggung jawab (segregation of duties); \ndan \nh. pemeliharaan jejak audit (maintenance of audit trails).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prinsip pengendalian pengamanan data nasabah dan transaksi \nLayanan Perbankan Elektronik pada setiap Sistem Elektronik \nmencakup: \na. kerahasiaan (confidentiality); \nb. integritas (integrity); \nc. ketersediaan (availablity); \nd. keaslian (authentication); \ne. tidak dapat diingkari (non repudiation); \nf. \npengendalian otorisasi dalam sistem, Pangkalan Data, dan \naplikasi (authorization of control); \ng. pemisahan tugas dan tanggung jawab (segregation of duties); \ndan \nh. pemeliharaan jejak audit (maintenance of audit trails)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLaporan ini berisi perubahan yang telah dilakukan selama     \n1 (satu) tahun pelaporan atas data yang telah disampaikan \ndalam laporan penggunaan Teknologi Informasi, selain \nperubahan \nyang \ndilaporkan \ndalam \ntambahan \nrencana \npengembangan Teknologi Informasi. Hal-hal yang perlu \ndilaporkan antara lain perubahan pejabat penentu dalam \nstruktur organisasi Teknologi Informasi dan perubahan \nRencana Strategis Teknologi Informasi. \n \n\n\n \n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nPertimbangan tertentu antara lain adalah untuk mendukung \nimplementasi kebijakan dan/atau regulasi di sektor jasa \nkeuangan \ndalam \nrangka \nmendorong \nperkembangan \nperekonomian.  \nAyat (6) \nCukup jelas. \nAyat (7) \nAudit Teknologi Informasi yang dimaksud antara lain audit \nTeknologi Informasi terhadap Pusat Data, Pusat Pemulihan \nBencana, aplikasi, dan/atau Pemrosesan Transaksi Berbasis \nTeknologi Informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLaporan ini berisi perubahan yang telah dilakukan selama     \n1 (satu) tahun pelaporan atas data yang telah disampaikan \ndalam laporan penggunaan Teknologi Informasi, selain \nperubahan \nyang \ndilaporkan \ndalam \ntambahan \nrencana \npengembangan Teknologi Informasi. Hal-hal yang perlu \ndilaporkan antara lain perubahan pejabat penentu dalam \nstruktur organisasi Teknologi Informasi dan perubahan \nRencana Strategis Teknologi Informasi. \n \n\n\n \n \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nPertimbangan tertentu antara lain adalah untuk mendukung \nimplementasi kebijakan dan/atau regulasi di sektor jasa \nkeuangan \ndalam \nrangka \nmendorong \nperkembangan \nperekonomian.  \nAyat (6) \nCukup jelas. \nAyat (7) \nAudit Teknologi Informasi yang dimaksud antara lain audit \nTeknologi Informasi terhadap Pusat Data, Pusat Pemulihan \nBencana, aplikasi, dan/atau Pemrosesan Transaksi Berbasis \nTeknologi Informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nLaporan melalui surat elektronik (electronic mail) dan/atau \ntelepon \nkepada \nsatuan \nkerja \npengawasan \ndari \nBank \nberdasarkan informasi awal yang tersedia. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nLaporan melalui surat elektronik (electronic mail) dan/atau \ntelepon \nkepada \nsatuan \nkerja \npengawasan \ndari \nBank \nberdasarkan informasi awal yang tersedia. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nBank dapat mengimplementasikan rencana kegiatan lebih \nawal dari 2 (dua) bulan sepanjang Otoritas Jasa Keuangan \ntelah memberikan persetujuan atas permohonan persetujuan \nrencana kegiatan yang diajukan oleh Bank. \n \n \n\n\n \n \nAyat (2) \nLaporan realisasi kegiatan sebagai penyedia jasa Teknologi \nInformasi \ndan \npenerbitan \nproduk \nLayanan \nPerbankan \nElektronik \nmencakup \nkajian \npascaimplementasi \n(postimplementation review). \nAyat (3) \nBank dapat mengimplementasikan rencana kegiatan lebih \nawal dari 3 (tiga) bulan sepanjang Otoritas Jasa Keuangan \ntelah memberikan persetujuan atas permohonan persetujuan \nrencana kegiatan yang diajukan oleh Bank. \nAyat (4) \nLaporan realisasi penyelenggaraan Sistem Elektronik yang \nditempatkan pada Pusat Data dan/atau Pusat Pemulihan \nBencana \ndi \nluar \nwilayah \nIndonesia \nmencakup \nkajian \npascaimplementasi (postimplementation review). \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nBank dapat mengimplementasikan rencana kegiatan lebih \nawal dari 2 (dua) bulan sepanjang Otoritas Jasa Keuangan \ntelah memberikan persetujuan atas permohonan persetujuan \nrencana kegiatan yang diajukan oleh Bank. \n \n \n\n\n \n \nAyat (2) \nLaporan realisasi kegiatan sebagai penyedia jasa Teknologi \nInformasi \ndan \npenerbitan \nproduk \nLayanan \nPerbankan \nElektronik \nmencakup \nkajian \npascaimplementasi \n(postimplementation review). \nAyat (3) \nBank dapat mengimplementasikan rencana kegiatan lebih \nawal dari 3 (tiga) bulan sepanjang Otoritas Jasa Keuangan \ntelah memberikan persetujuan atas permohonan persetujuan \nrencana kegiatan yang diajukan oleh Bank. \nAyat (4) \nLaporan realisasi penyelenggaraan Sistem Elektronik yang \nditempatkan pada Pusat Data dan/atau Pusat Pemulihan \nBencana \ndi \nluar \nwilayah \nIndonesia \nmencakup \nkajian \npascaimplementasi (postimplementation review). \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nPenyediaan \nakses \nkepada \nOtoritas \nJasa \nKeuangan \ndimaksudkan agar pengawasan oleh Otoritas Jasa Keuangan \ndapat dilaksanakan secara efektif antara lain memastikan \nintegritas, validitas, ketersediaan, dan keaslian data setiap \ntransaksi yang dilakukan oleh Bank. \n\n\n \n \nAkses kepada Otoritas Jasa Keuangan termasuk: \na. akses terhadap Pangkalan Data baik untuk data terkini \nmaupun untuk data yang telah lalu; dan \nb. akses terhadap infrastruktur pendukung seperti jaringan \nkomunikasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nPenyediaan \nakses \nkepada \nOtoritas \nJasa \nKeuangan \ndimaksudkan agar pengawasan oleh Otoritas Jasa Keuangan \ndapat dilaksanakan secara efektif antara lain memastikan \nintegritas, validitas, ketersediaan, dan keaslian data setiap \ntransaksi yang dilakukan oleh Bank. \n\n\n \n \nAkses kepada Otoritas Jasa Keuangan termasuk: \na. akses terhadap Pangkalan Data baik untuk data terkini \nmaupun untuk data yang telah lalu; dan \nb. akses terhadap infrastruktur pendukung seperti jaringan \nkomunikasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nRencana tindak (action plan) antara lain berisi rencana \npengembalian \nPusat \nData, \nPusat \nPemulihan \nBencana, \ndan/atau Pemrosesan Transaksi Berbasis Teknologi Informasi \nke dalam wilayah Indonesia dan jangka waktu penyelesaian \nrencana tindak (action plan).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nRencana tindak (action plan) antara lain berisi rencana \npengembalian \nPusat \nData, \nPusat \nPemulihan \nBencana, \ndan/atau Pemrosesan Transaksi Berbasis Teknologi Informasi \nke dalam wilayah Indonesia dan jangka waktu penyelesaian \nrencana tindak (action plan)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5963",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5963"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 88,
+  "total_ayat": 168,
+  "total_karakter": 79185,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

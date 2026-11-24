@@ -1,0 +1,811 @@
+{
+  "doc_id": "OJK_POJK_2019_28_b1f2caaf",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "28",
+  "tahun": "2019",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 28/POJK.03/2019 tentang Sinergi Perbankan dalam Satu Kepemilikan untuk Pengembangan Perbankan Syariah",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "14 November 2019",
+  "tanggal_berlaku": "diundangkan (19 November 2019)",
+  "diundangkan_pada": "19 November 2019",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERJANJIAN KERJA SAMA, KEBIJAKAN DAN PROSEDUR SINERGI PERBANKAN"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSETUJUAN SINERGI PERBANKAN"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMANTAUAN SINERGI PERBANKAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGHENTIAN SINERGI PERBANKAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGAJUAN PERMOHONAN PERSETUJUAN DAN PENYAMPAIAN LAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI ADMINISTRATIF"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Umum adalah badan usaha yang menghimpun \ndana dari masyarakat dalam bentuk simpanan dan \nmenyalurkannya kepada masyarakat dalam bentuk \nkredit \natau \npembiayaan, \ndan/atau \nbentuk-bentuk \n\n\n \nlainnya sebagaimana diatur dalam Undang-Undang \nmengenai perbankan dan Undang-Undang mengenai \nperbankan syariah, dalam rangka meningkatkan taraf \nhidup rakyat banyak. \n2. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah Bank Umum yang melaksanakan kegiatan \nusaha secara konvensional. \n3. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah Bank Umum yang melaksanakan kegiatan usaha \nberdasarkan prinsip syariah. \n4. \nBank \nUmum \nberdasarkan \nKegiatan \nUsaha \nyang \nselanjutnya disebut BUKU adalah pengelompokan Bank \nUmum berdasarkan kegiatan usaha yang disesuaikan \ndengan modal inti yang dimiliki. \n5. \nDireksi \nadalah \norgan \nBUS \nyang \nberwenang \ndan \nbertanggung jawab penuh atas pengurusan BUS untuk \nkepentingan BUS, sesuai dengan maksud dan tujuan \nBUS serta mewakili BUS, baik di dalam maupun di luar \npengadilan sesuai dengan ketentuan anggaran dasar.  \n6. \nDewan Komisaris adalah organ BUS yang bertugas \nmelakukan pengawasan secara umum dan/atau khusus \nsesuai dengan anggaran dasar serta memberi nasihat \nkepada Direksi. \n7. \nDewan Pengawas Syariah yang selanjutnya disingkat DPS \nadalah dewan yang bertugas memberikan nasihat dan \nsaran kepada Direksi serta mengawasi kegiatan BUS agar \nsesuai dengan prinsip syariah. \n8. \nPejabat Eksekutif adalah pejabat yang bertanggung jawab \nlangsung kepada Direksi dan/atau mempunyai pengaruh \nyang signifikan terhadap kebijakan dan/atau operasional \nBUS.  \n9. \nSinergi Perbankan adalah kerja sama antara BUS dan \nBank Umum yang memiliki hubungan kepemilikan \nmelalui pengoptimalan sumber daya Bank Umum untuk \nmenunjang pelaksanaan kegiatan BUS yang memberikan \nnilai tambah bagi BUS dan Bank Umum. \n \n\n\n \n10. Layanan Syariah Bank Umum yang selanjutnya disingkat \nLSBU adalah kegiatan penghimpunan dana, pembiayaan, \ndan/atau \npemberian \njasa \nperbankan \nlainnya \nberdasarkan prinsip syariah yang \ndilakukan \npada \njaringan kantor Bank Umum untuk dan atas nama BUS. \n11. Entitas Utama adalah lembaga jasa keuangan induk dari \nkonglomerasi keuangan atau lembaga jasa keuangan \nyang \nditunjuk \noleh \npemegang \nsaham \npengendali \nkonglomerasi keuangan.  \n12. Prinsip Syariah adalah prinsip hukum Islam dalam \nkegiatan perbankan berdasarkan fatwa yang dikeluarkan \noleh \nlembaga \nyang \nmemiliki \nkewenangan \ndalam \npenetapan fatwa di bidang syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank Umum adalah badan usaha yang menghimpun \ndana dari masyarakat dalam bentuk simpanan dan \nmenyalurkannya kepada masyarakat dalam bentuk \nkredit \natau \npembiayaan, \ndan/atau \nbentuk-bentuk \n\n\n \nlainnya sebagaimana diatur dalam Undang-Undang \nmengenai perbankan dan Undang-Undang mengenai \nperbankan syariah, dalam rangka meningkatkan taraf \nhidup rakyat banyak. \n2. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah Bank Umum yang melaksanakan kegiatan \nusaha secara konvensional. \n3. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah Bank Umum yang melaksanakan kegiatan usaha \nberdasarkan prinsip syariah. \n4. \nBank \nUmum \nberdasarkan \nKegiatan \nUsaha \nyang \nselanjutnya disebut BUKU adalah pengelompokan Bank \nUmum berdasarkan kegiatan usaha yang disesuaikan \ndengan modal inti yang dimiliki. \n5. \nDireksi \nadalah \norgan \nBUS \nyang \nberwenang \ndan \nbertanggung jawab penuh atas pengurusan BUS untuk \nkepentingan BUS, sesuai dengan maksud dan tujuan \nBUS serta mewakili BUS, baik di dalam maupun di luar \npengadilan sesuai dengan ketentuan anggaran dasar.  \n6. \nDewan Komisaris adalah organ BUS yang bertugas \nmelakukan pengawasan secara umum dan/atau khusus \nsesuai dengan anggaran dasar serta memberi nasihat \nkepada Direksi. \n7. \nDewan Pengawas Syariah yang selanjutnya disingkat DPS \nadalah dewan yang bertugas memberikan nasihat dan \nsaran kepada Direksi serta mengawasi kegiatan BUS agar \nsesuai dengan prinsip syariah. \n8. \nPejabat Eksekutif adalah pejabat yang bertanggung jawab \nlangsung kepada Direksi dan/atau mempunyai pengaruh \nyang signifikan terhadap kebijakan dan/atau operasional \nBUS.  \n9. \nSinergi Perbankan adalah kerja sama antara BUS dan \nBank Umum yang memiliki hubungan kepemilikan \nmelalui pengoptimalan sumber daya Bank Umum untuk \nmenunjang pelaksanaan kegiatan BUS yang memberikan \nnilai tambah bagi BUS dan Bank Umum. \n \n\n\n \n10. Layanan Syariah Bank Umum yang selanjutnya disingkat \nLSBU adalah kegiatan penghimpunan dana, pembiayaan, \ndan/atau \npemberian \njasa \nperbankan \nlainnya \nberdasarkan prinsip syariah yang \ndilakukan \npada \njaringan kantor Bank Umum untuk dan atas nama BUS. \n11. Entitas Utama adalah lembaga jasa keuangan induk dari \nkonglomerasi keuangan atau lembaga jasa keuangan \nyang \nditunjuk \noleh \npemegang \nsaham \npengendali \nkonglomerasi keuangan.  \n12. Prinsip Syariah adalah prinsip hukum Islam dalam \nkegiatan perbankan berdasarkan fatwa yang dikeluarkan \noleh \nlembaga \nyang \nmemiliki \nkewenangan \ndalam \npenetapan fatwa di bidang syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBUS \ndan \nBank \nUmum \ndapat \nmelakukan \nSinergi \nPerbankan.  \n(2) \nSinergi \nPerbankan \nsebagaimana \ndimaksud \npada  \nayat (1) dilakukan oleh BUS dan Bank Umum yang \nmemiliki hubungan kepemilikan: \na. \nBank \nUmum \nmerupakan \npemegang \nsaham \npengendali BUS; atau \nb. \nBank \nUmum \ndimiliki \noleh \npemegang \nsaham \npengendali yang sama dengan BUS. \n(3) \nSinergi Perbankan sebagaimana dimaksud pada ayat (1) \ndikecualikan untuk permodalan dan manajemen BUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS \ndan \nBank \nUmum \ndapat \nmelakukan \nSinergi \nPerbankan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sinergi \nPerbankan \nsebagaimana \ndimaksud \npada  \nayat (1) dilakukan oleh BUS dan Bank Umum yang \nmemiliki hubungan kepemilikan: \na. \nBank \nUmum \nmerupakan \npemegang \nsaham \npengendali BUS; atau \nb. \nBank \nUmum \ndimiliki \noleh \npemegang \nsaham \npengendali yang sama dengan BUS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sinergi Perbankan sebagaimana dimaksud pada ayat (1) \ndikecualikan untuk permodalan dan manajemen BUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nDalam \nmelakukan \nSinergi \nPerbankan \nsebagaimana \ndimaksud \ndalam \nPasal \nayat \n(1), \nBUS \ndapat \nmelaksanakan kegiatan usaha berdasarkan BUKU Bank \nUmum dan/atau modal inti Bank Umum. \n(2) \nPelaksanaan kegiatan usaha BUS berdasarkan BUKU \nBank Umum dan/atau modal inti Bank Umum tidak \ntermasuk permodalan sebagaimana dimaksud dalam \nPasal 2 ayat (3). \n\n\n \n(3) \nKegiatan usaha BUS sebagaimana dimaksud pada  \nayat (1) dapat dilaksanakan sepanjang Bank Umum \nmerupakan pemegang saham pengendali BUS dan \nmenerapkan manajemen risiko secara konsolidasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelakukan \nSinergi \nPerbankan \nsebagaimana \ndimaksud \ndalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \nBUS \ndapat \nmelaksanakan kegiatan usaha berdasarkan BUKU Bank \nUmum dan/atau modal inti Bank Umum."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan kegiatan usaha BUS berdasarkan BUKU \nBank Umum dan/atau modal inti Bank Umum tidak \ntermasuk permodalan sebagaimana dimaksud dalam \nPasal 2 ayat (3)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kegiatan usaha BUS sebagaimana dimaksud pada  \nayat (1) dapat dilaksanakan sepanjang Bank Umum \nmerupakan pemegang saham pengendali BUS dan \nmenerapkan manajemen risiko secara konsolidasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nManajemen BUS sebagaimana dimaksud dalam Pasal 2 \nayat (3) terdiri atas: \na. \nDireksi; \nb. \nDewan Komisaris; \nc. \nDPS;  \nd. \nkomite yang wajib dibentuk oleh BUS; dan \ne. \nPejabat Eksekutif. \n(2) \nPihak independen yang menjadi anggota komite yang \nwajib dibentuk oleh BUS sebagaimana dimaksud pada \nayat (1) huruf d dapat merangkap jabatan sebagai pihak \nindependen yang menjadi anggota komite pada Bank \nUmum. \n(3) \nDalam menjalankan fungsinya, komite yang wajib \ndibentuk oleh BUS sebagaimana dimaksud pada ayat (1) \nhuruf d dapat menggunakan sumber daya manusia Bank \nUmum sebagai anggota komite di luar anggota yang \ndiwajibkan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Manajemen BUS sebagaimana dimaksud dalam Pasal 2 \nayat (3) terdiri atas: \na. \nDireksi; \nb. \nDewan Komisaris; \nc. \nDPS;  \nd. \nkomite yang wajib dibentuk oleh BUS; dan \ne. \nPejabat Eksekutif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak independen yang menjadi anggota komite yang \nwajib dibentuk oleh BUS sebagaimana dimaksud pada \nayat (1) huruf d dapat merangkap jabatan sebagai pihak \nindependen yang menjadi anggota komite pada Bank \nUmum."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam menjalankan fungsinya, komite yang wajib \ndibentuk oleh BUS sebagaimana dimaksud pada ayat (1) \nhuruf d dapat menggunakan sumber daya manusia Bank \nUmum sebagai anggota komite di luar anggota yang \ndiwajibkan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nDalam hal BUS dan Bank Umum melakukan Sinergi \nPerbankan dalam bentuk LSBU, BUS harus memenuhi \npersyaratan tertentu. \n(2) \nPersyaratan \ntertentu \nsebagaimana \ndimaksud \npada  \nayat (1) meliputi: \na. \nmenggabungkan laporan keuangan LSBU secara \ndaring pada hari yang sama dengan laporan \nkeuangan kantor cabang BUS yang menjadi induk \nLSBU; dan \nb. \nmencantumkan logo iB pada setiap jaringan kantor \nBUK yang melakukan LSBU. \n\n\n \n(3) \nBUS yang melakukan Sinergi Perbankan dalam bentuk \nLSBU sebagaimana dimaksud pada ayat (1) wajib \nmelaporkan \npelaksanaan \npembukaan, \npemindahan, \ndan/atau penghentian LSBU kepada Otoritas Jasa \nKeuangan.  \n(4) \nKewajiban \npelaporan \npelaksanaan \npembukaan, \npemindahan, dan/atau penghentian LSBU sebagaimana \ndimaksud pada ayat (3) dilakukan sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan mengenai \npelaporan bank umum melalui sistem pelaporan Otoritas \nJasa Keuangan. \n(5) \nDalam \nhal \npelaporan \npelaksanaan \npembukaan, \npemindahan, dan/atau penghentian LSBU sebagaimana \ndimaksud pada ayat (4) belum dapat dilakukan, BUS \nwajib melaporkan pelaksanaan pembukaan, pemindahan, \ndan/atau penghentian LSBU sesuai dengan ketentuan \nperaturan \nperundang-undangan \nmengenai \nlaporan \nkantor pusat bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal BUS dan Bank Umum melakukan Sinergi \nPerbankan dalam bentuk LSBU, BUS harus memenuhi \npersyaratan tertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan \ntertentu \nsebagaimana \ndimaksud \npada  \nayat (1) meliputi: \na. \nmenggabungkan laporan keuangan LSBU secara \ndaring pada hari yang sama dengan laporan \nkeuangan kantor cabang BUS yang menjadi induk \nLSBU; dan \nb. \nmencantumkan logo iB pada setiap jaringan kantor \nBUK yang melakukan LSBU."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS yang melakukan Sinergi Perbankan dalam bentuk \nLSBU sebagaimana dimaksud pada ayat (1) wajib \nmelaporkan \npelaksanaan \npembukaan, \npemindahan, \ndan/atau penghentian LSBU kepada Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kewajiban \npelaporan \npelaksanaan \npembukaan, \npemindahan, dan/atau penghentian LSBU sebagaimana \ndimaksud pada ayat (3) dilakukan sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan mengenai \npelaporan bank umum melalui sistem pelaporan Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam \nhal \npelaporan \npelaksanaan \npembukaan, \npemindahan, dan/atau penghentian LSBU sebagaimana \ndimaksud pada ayat (4) belum dapat dilakukan, BUS \nwajib melaporkan pelaksanaan pembukaan, pemindahan, \ndan/atau penghentian LSBU sesuai dengan ketentuan \nperaturan \nperundang-undangan \nmengenai \nlaporan \nkantor pusat bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nDalam hal BUS dan Bank Umum melakukan Sinergi \nPerbankan dalam bentuk penggunaan jaringan kantor \nBank Umum pada alamat yang sama, BUS harus \nmemenuhi persyaratan tertentu. \n(2) \nPersyaratan \ntertentu \nsebagaimana \ndimaksud \npada  \nayat (1) meliputi: \na. \nterdapat pemisahan antara kantor BUS dan kantor \nBank Umum; dan \nb. \ntidak menimbulkan risiko operasional dan risiko \nreputasi bagi BUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal BUS dan Bank Umum melakukan Sinergi \nPerbankan dalam bentuk penggunaan jaringan kantor \nBank Umum pada alamat yang sama, BUS harus \nmemenuhi persyaratan tertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan \ntertentu \nsebagaimana \ndimaksud \npada  \nayat (1) meliputi: \na. \nterdapat pemisahan antara kantor BUS dan kantor \nBank Umum; dan \nb. \ntidak menimbulkan risiko operasional dan risiko \nreputasi bagi BUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "BUS bertanggung jawab atas risiko dari kegiatan yang \ndisinergikan dengan Bank Umum dalam Sinergi Perbankan. \n \n \n \n\n\n \nBAB II \nPERJANJIAN KERJA SAMA, KEBIJAKAN DAN PROSEDUR \nSINERGI PERBANKAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BUS bertanggung jawab atas risiko dari kegiatan yang \ndisinergikan dengan Bank Umum dalam Sinergi Perbankan. \n \n \n \n\n\n \nBAB II \nPERJANJIAN KERJA SAMA, KEBIJAKAN DAN PROSEDUR \nSINERGI PERBANKAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERJANJIAN KERJA SAMA, KEBIJAKAN DAN PROSEDUR SINERGI PERBANKAN",
+      "teks_lengkap": "(1) \nBUS dan Bank Umum dalam melaksanakan Sinergi \nPerbankan harus membuat perjanjian kerja sama secara \ntertulis. \n(2) \nPerjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) paling sedikit mencakup: \na. \ntujuan dan ruang lingkup kerja sama; \nb. \njangka waktu perjanjian kerja sama; dan \nc. \nhak dan kewajiban setiap pihak: \n1) \nrencana alih pengetahuan, dalam hal Sinergi \nPerbankan melibatkan sumber daya manusia \nBank Umum; \n2) \nkewajiban \nBank \nUmum \nuntuk \nmenjaga \nkerahasiaan dan keamanan informasi BUS dan \nnasabah BUS; \n3) \ntanggung jawab atas kerugian; dan \n4) \npenanganan pengaduan nasabah, dalam hal \nSinergi \nPerbankan \nberhubungan \ndengan \nnasabah secara langsung. \n(3) \nBUS dan Bank \nUmum wajib memastikan bahwa \npelaksanaan Sinergi Perbankan sesuai dengan perjanjian \nkerja sama yang dibuat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dan Bank Umum dalam melaksanakan Sinergi \nPerbankan harus membuat perjanjian kerja sama secara \ntertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) paling sedikit mencakup: \na. \ntujuan dan ruang lingkup kerja sama; \nb. \njangka waktu perjanjian kerja sama; dan \nc. \nhak dan kewajiban setiap pihak: \n1) \nrencana alih pengetahuan, dalam hal Sinergi \nPerbankan melibatkan sumber daya manusia \nBank Umum; \n2) \nkewajiban \nBank \nUmum \nuntuk \nmenjaga \nkerahasiaan dan keamanan informasi BUS dan \nnasabah BUS; \n3) \ntanggung jawab atas kerugian; dan \n4) \npenanganan pengaduan nasabah, dalam hal \nSinergi \nPerbankan \nberhubungan \ndengan \nnasabah secara langsung."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS dan Bank \nUmum wajib memastikan bahwa \npelaksanaan Sinergi Perbankan sesuai dengan perjanjian \nkerja sama yang dibuat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERJANJIAN KERJA SAMA, KEBIJAKAN DAN PROSEDUR SINERGI PERBANKAN",
+      "teks_lengkap": "BUS dan Bank Umum wajib memiliki kebijakan dan prosedur \nsecara tertulis untuk mengelola risiko yang melekat pada \nSinergi Perbankan. \n \n \n \n \n \n \n\n\n \nBAB III \nPERSETUJUAN SINERGI PERBANKAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BUS dan Bank Umum wajib memiliki kebijakan dan prosedur \nsecara tertulis untuk mengelola risiko yang melekat pada \nSinergi Perbankan. \n \n \n \n \n \n \n\n\n \nBAB III \nPERSETUJUAN SINERGI PERBANKAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSETUJUAN SINERGI PERBANKAN",
+      "teks_lengkap": "(1) \nBUS dan Bank Umum yang melaksanakan Sinergi \nPerbankan wajib memperoleh persetujuan dari Otoritas \nJasa Keuangan. \n(2) \nDalam hal terdapat perubahan perjanjian kerja sama \nyang menyebabkan peningkatan profil risiko, BUS dan \nBank Umum wajib memperoleh persetujuan dari Otoritas \nJasa Keuangan. \n(3) \nUntuk memperoleh persetujuan dari Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (1) dan  \nayat (2), BUS dan Bank Umum harus mencantumkan \nrencana Sinergi Perbankan dalam rencana bisnis BUS \ndan dalam rencana bisnis Bank Umum.  \n(4) \nBUS \nmenyampaikan \npermohonan \npersetujuan \nsebagaimana dimaksud pada ayat (1) dan ayat (2) kepada \nOtoritas Jasa Keuangan dengan tembusan kepada Bank \nUmum disertai dengan dokumen pendukung. \n(5) \nDokumen pendukung sebagaimana dimaksud pada  \nayat (4) paling sedikit memuat: \na. \nfotokopi perjanjian kerja sama antara BUS dan Bank \nUmum sebagaimana dimaksud dalam Pasal 8  \nayat (1); \nb. \nstandar prosedur operasional bagi BUS dan bagi \nBank Umum untuk pelaksanaan Sinergi Perbankan; \nc. \nopini DPS terkait pelaksanaan Sinergi Perbankan;  \nd. \nlaporan kesiapan pelaksanaan Sinergi Perbankan; \ndan \ne. \nsurat pernyataan direktur BUS yang membawahkan \nfungsi kepatuhan atas kelengkapan dan kebenaran \ndokumen \npendukung \npengajuan \npermohonan \npersetujuan. \n(6) \nPermohonan persetujuan sebagaimana dimaksud pada \nayat (4) diajukan paling lambat 60 (enam puluh) hari \nsebelum pelaksanaan Sinergi Perbankan. \n\n\n \n(7) \nPersetujuan \natau \npenolakan \nterhadap \npermohonan \nsebagaimana dimaksud pada ayat (4) diberikan oleh \nOtoritas Jasa Keuangan paling lambat 60 (enam puluh) \nhari setelah seluruh persyaratan dipenuhi dan dokumen \npermohonan diterima secara lengkap oleh Otoritas Jasa \nKeuangan. \n(8) \nDalam hal diperlukan tambahan cakupan perjanjian \nkerja sama sebagaimana dimaksud dalam Pasal 8  \nayat (2), dokumen pendukung sebagaimana dimaksud \npada ayat (4), dan/atau penjelasan berkenaan dengan \npenelaahan permohonan persetujuan yang dilakukan \noleh Otoritas Jasa Keuangan, batas waktu 60 (enam \npuluh) hari dihitung sejak BUS melengkapi perjanjian \nkerja sama, dokumen pendukung, dan/atau memberikan \npenjelasan yang diminta oleh Otoritas Jasa Keuangan. \n(9) \nPersetujuan atau penolakan sebagaimana dimaksud pada \nayat (7) berlaku bagi BUS dan Bank Umum. \n(10) \nDalam hal terdapat perubahan perjanjian kerja sama \nyang tidak menyebabkan peningkatan profil risiko, BUS \nwajib menyampaikan perubahan perjanjian kerja sama \nkepada \nOtoritas \nJasa \nKeuangan \npaling \nlambat  \n(tujuh) \nhari \nkerja \nsejak \nperubahan \nperjanjian  \nkerja sama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dan Bank Umum yang melaksanakan Sinergi \nPerbankan wajib memperoleh persetujuan dari Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat perubahan perjanjian kerja sama \nyang menyebabkan peningkatan profil risiko, BUS dan \nBank Umum wajib memperoleh persetujuan dari Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Untuk memperoleh persetujuan dari Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (1) dan  \nayat (2), BUS dan Bank Umum harus mencantumkan \nrencana Sinergi Perbankan dalam rencana bisnis BUS \ndan dalam rencana bisnis Bank Umum."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BUS \nmenyampaikan \npermohonan \npersetujuan \nsebagaimana dimaksud pada ayat (1) dan ayat (2) kepada \nOtoritas Jasa Keuangan dengan tembusan kepada Bank \nUmum disertai dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dokumen pendukung sebagaimana dimaksud pada  \nayat (4) paling sedikit memuat: \na. \nfotokopi perjanjian kerja sama antara BUS dan Bank \nUmum sebagaimana dimaksud dalam Pasal 8  \nayat (1); \nb. \nstandar prosedur operasional bagi BUS dan bagi \nBank Umum untuk pelaksanaan Sinergi Perbankan; \nc. \nopini DPS terkait pelaksanaan Sinergi Perbankan;  \nd. \nlaporan kesiapan pelaksanaan Sinergi Perbankan; \ndan \ne. \nsurat pernyataan direktur BUS yang membawahkan \nfungsi kepatuhan atas kelengkapan dan kebenaran \ndokumen \npendukung \npengajuan \npermohonan \npersetujuan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Permohonan persetujuan sebagaimana dimaksud pada \nayat (4) diajukan paling lambat 60 (enam puluh) hari \nsebelum pelaksanaan Sinergi Perbankan."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Persetujuan \natau \npenolakan \nterhadap \npermohonan \nsebagaimana dimaksud pada ayat (4) diberikan oleh \nOtoritas Jasa Keuangan paling lambat 60 (enam puluh) \nhari setelah seluruh persyaratan dipenuhi dan dokumen \npermohonan diterima secara lengkap oleh Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Dalam hal diperlukan tambahan cakupan perjanjian \nkerja sama sebagaimana dimaksud dalam Pasal 8  \nayat (2), dokumen pendukung sebagaimana dimaksud \npada ayat (4), dan/atau penjelasan berkenaan dengan \npenelaahan permohonan persetujuan yang dilakukan \noleh Otoritas Jasa Keuangan, batas waktu 60 (enam \npuluh) hari dihitung sejak BUS melengkapi perjanjian \nkerja sama, dokumen pendukung, dan/atau memberikan \npenjelasan yang diminta oleh Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Persetujuan atau penolakan sebagaimana dimaksud pada \nayat (7) berlaku bagi BUS dan Bank Umum."
+        },
+        {
+          "ayat_nomor": "(10)",
+          "teks": "Dalam hal terdapat perubahan perjanjian kerja sama \nyang tidak menyebabkan peningkatan profil risiko, BUS \nwajib menyampaikan perubahan perjanjian kerja sama \nkepada \nOtoritas \nJasa \nKeuangan \npaling \nlambat  \n(tujuh) \nhari \nkerja \nsejak \nperubahan \nperjanjian  \nkerja sama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSETUJUAN SINERGI PERBANKAN",
+      "teks_lengkap": "(1) \nBUS dan Bank Umum melaksanakan Sinergi Perbankan \npaling lambat 6 (enam) bulan sejak tanggal persetujuan \ndari Otoritas Jasa Keuangan. \n(2) \nApabila dalam jangka waktu sebagaimana dimaksud \npada ayat (1) BUS dan Bank Umum belum melaksanakan \nSinergi Perbankan, persetujuan dari Otoritas Jasa \nKeuangan yang telah diberikan dinyatakan batal dan \nmenjadi tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dan Bank Umum melaksanakan Sinergi Perbankan \npaling lambat 6 (enam) bulan sejak tanggal persetujuan \ndari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila dalam jangka waktu sebagaimana dimaksud \npada ayat (1) BUS dan Bank Umum belum melaksanakan \nSinergi Perbankan, persetujuan dari Otoritas Jasa \nKeuangan yang telah diberikan dinyatakan batal dan \nmenjadi tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSETUJUAN SINERGI PERBANKAN",
+      "teks_lengkap": "BUS dan Bank Umum wajib melaporkan realisasi pelaksanaan \nSinergi Perbankan sebagaimana dimaksud dalam Pasal 11 \n\n\n \nayat (1) dalam laporan realisasi rencana bisnis BUS dan \ndalam laporan realisasi rencana bisnis Bank Umum. \n \nBAB IV \nPEMANTAUAN SINERGI PERBANKAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BUS dan Bank Umum wajib melaporkan realisasi pelaksanaan \nSinergi Perbankan sebagaimana dimaksud dalam Pasal 11 \n\n\n \nayat (1) dalam laporan realisasi rencana bisnis BUS dan \ndalam laporan realisasi rencana bisnis Bank Umum. \n \nBAB IV \nPEMANTAUAN SINERGI PERBANKAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PEMANTAUAN SINERGI PERBANKAN",
+      "teks_lengkap": "(1) \nKomite tata kelola terintegrasi melakukan pemantauan \nterhadap pelaksanaan Sinergi Perbankan. \n(2) \nEntitas Utama wajib menyampaikan laporan hasil \npemantauan terhadap pelaksanaan Sinergi Perbankan \nsebagaimana dimaksud pada ayat (1) kepada Otoritas \nJasa Keuangan. \n(3) \nLaporan hasil pemantauan sebagaimana dimaksud pada \nayat \n(2) \ndisampaikan \nbersamaan \ndengan \nlaporan \npenilaian pelaksanaan tata kelola terintegrasi. \n \nBAB V \nPENGHENTIAN SINERGI PERBANKAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Komite tata kelola terintegrasi melakukan pemantauan \nterhadap pelaksanaan Sinergi Perbankan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Entitas Utama wajib menyampaikan laporan hasil \npemantauan terhadap pelaksanaan Sinergi Perbankan \nsebagaimana dimaksud pada ayat (1) kepada Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan hasil pemantauan sebagaimana dimaksud pada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "disampaikan \nbersamaan \ndengan \nlaporan \npenilaian pelaksanaan tata kelola terintegrasi. \n \nBAB V \nPENGHENTIAN SINERGI PERBANKAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGHENTIAN SINERGI PERBANKAN",
+      "teks_lengkap": "(1) \nBUS dan Bank Umum dapat melakukan penghentian \nSinergi Perbankan sebelum jangka waktu kerja sama \nberakhir. \n(2) \nBUS wajib melaporkan rencana penghentian Sinergi \nPerbankan sebagaimana dimaksud pada ayat (1) kepada \nOtoritas Jasa Keuangan dengan tembusan kepada Bank \nUmum disertai dokumen pendukung. \n(3) \nDokumen pendukung sebagaimana dimaksud pada  \nayat (2) paling sedikit memuat: \na. \nalasan penghentian; dan \nb. \npenjelasan mengenai langkah yang akan ditempuh \nuntuk \npenyelesaian \natau \npengalihan \nseluruh \nkewajiban kepada nasabah dan/atau pihak lain. \n(4) \nLaporan rencana penghentian sebagaimana dimaksud \npada ayat (2) harus disampaikan kepada Otoritas Jasa \n\n\n \nKeuangan paling lambat 10 (sepuluh) hari kerja sebelum \npelaksanaan penghentian. \n(5) \nOtoritas Jasa Keuangan memberikan penegasan atas \nrencana \npenghentian \nsebagaimana \ndimaksud \npada  \nayat (2) paling lambat 10 (sepuluh) hari kerja setelah \nlaporan rencana penghentian dan dokumen pendukung \nditerima secara lengkap. \n(6) \nDalam hal Otoritas Jasa Keuangan tidak memberikan \npenegasan dalam jangka waktu sebagaimana dimaksud \npada ayat (5), BUS dan Bank Umum dapat menghentikan \nSinergi Perbankan. \n \nBAB VI \nPENGAJUAN PERMOHONAN PERSETUJUAN  \nDAN PENYAMPAIAN LAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dan Bank Umum dapat melakukan penghentian \nSinergi Perbankan sebelum jangka waktu kerja sama \nberakhir."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS wajib melaporkan rencana penghentian Sinergi \nPerbankan sebagaimana dimaksud pada ayat (1) kepada \nOtoritas Jasa Keuangan dengan tembusan kepada Bank \nUmum disertai dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dokumen pendukung sebagaimana dimaksud pada  \nayat (2) paling sedikit memuat: \na. \nalasan penghentian; dan \nb. \npenjelasan mengenai langkah yang akan ditempuh \nuntuk \npenyelesaian \natau \npengalihan \nseluruh \nkewajiban kepada nasabah dan/atau pihak lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan rencana penghentian sebagaimana dimaksud \npada ayat (2) harus disampaikan kepada Otoritas Jasa \n\n\n \nKeuangan paling lambat 10 (sepuluh) hari kerja sebelum \npelaksanaan penghentian."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Otoritas Jasa Keuangan memberikan penegasan atas \nrencana \npenghentian \nsebagaimana \ndimaksud \npada  \nayat (2) paling lambat 10 (sepuluh) hari kerja setelah \nlaporan rencana penghentian dan dokumen pendukung \nditerima secara lengkap."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal Otoritas Jasa Keuangan tidak memberikan \npenegasan dalam jangka waktu sebagaimana dimaksud \npada ayat (5), BUS dan Bank Umum dapat menghentikan \nSinergi Perbankan. \n \nBAB VI \nPENGAJUAN PERMOHONAN PERSETUJUAN  \nDAN PENYAMPAIAN LAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGAJUAN PERMOHONAN PERSETUJUAN DAN PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "(1) \nBUS \nmenyampaikan \npermohonan \npersetujuan \nsebagaimana dimaksud dalam Pasal 10 ayat (4) dan \nrencana penghentian Sinergi Perbankan sebagaimana \ndimaksud dalam Pasal 14 ayat (2) secara daring melalui \nsistem perizinan dan registrasi terintegrasi Otoritas Jasa \nKeuangan. \n(2) \nDalam hal penyampaian permohonan persetujuan dan \nrencana penghentian Sinergi Perbankan melalui sistem \nperizinan \ndan \nregistrasi \nterintegrasi \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (1) belum \ndapat \ndilakukan, \nBUS \nmenyampaikan \npermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan \nsebagaimana dimaksud dalam Pasal 10 ayat (4) dan \nrencana penghentian Sinergi Perbankan sebagaimana \ndimaksud dalam Pasal 14 ayat (2) secara luring kepada:  \na. \ndepartemen pengawasan bank yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \n\n\n \nwilayah kerja kantor pusat Otoritas Jasa Keuangan; \natau  \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \nwilayah \nkerja \nKantor \nRegional \nOtoritas \nJasa \nKeuangan atau Kantor Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS \nmenyampaikan \npermohonan \npersetujuan \nsebagaimana dimaksud dalam Pasal 10 ayat (4) dan \nrencana penghentian Sinergi Perbankan sebagaimana \ndimaksud dalam Pasal 14 ayat (2) secara daring melalui \nsistem perizinan dan registrasi terintegrasi Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal penyampaian permohonan persetujuan dan \nrencana penghentian Sinergi Perbankan melalui sistem \nperizinan \ndan \nregistrasi \nterintegrasi \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (1) belum \ndapat \ndilakukan, \nBUS \nmenyampaikan \npermohonan \npersetujuan \nkepada \nOtoritas \nJasa \nKeuangan \nsebagaimana dimaksud dalam Pasal 10 ayat (4) dan \nrencana penghentian Sinergi Perbankan sebagaimana \ndimaksud dalam Pasal 14 ayat (2) secara luring kepada:  \na. \ndepartemen pengawasan bank yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \n\n\n \nwilayah kerja kantor pusat Otoritas Jasa Keuangan; \natau  \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \nwilayah \nkerja \nKantor \nRegional \nOtoritas \nJasa \nKeuangan atau Kantor Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGAJUAN PERMOHONAN PERSETUJUAN DAN PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "(1) \nBUS menyampaikan perubahan perjanjian kerja sama \nyang tidak menyebabkan peningkatan profil risiko kepada \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 10 ayat (10) secara luring kepada: \na. \ndepartemen pengawasan bank yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \nwilayah kerja kantor pusat Otoritas Jasa Keuangan; \natau \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \nwilayah \nkerja \nKantor \nRegional \nOtoritas \nJasa \nKeuangan atau Kantor Otoritas Jasa Keuangan.  \n(2) \nEntitas Utama menyampaikan laporan hasil pemantauan \nterhadap pelaksanaan Sinergi Perbankan kepada Otoritas \nJasa Keuangan sebagaimana dimaksud dalam Pasal 13 \nayat (2) secara luring kepada: \na. \ndepartemen pengawasan yang mengawasi Entitas \nUtama \ndengan \ntembusan \nkepada \ndepartemen \n\n\n \npengawasan bank, Kantor Regional Otoritas Jasa \nKeuangan, atau Kantor Otoritas Jasa Keuangan \nyang mengawasi BUS, bagi Entitas Utama yang \nberkantor pusat di wilayah kerja kantor pusat \nOtoritas Jasa Keuangan; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau kantor \nOtoritas Jasa Keuangan yang mengawasi Entitas \nUtama \ndengan \ntembusan \nkepada \ndepartemen \npengawasan bank, Kantor Regional Otoritas Jasa \nKeuangan, atau Kantor Otoritas Jasa Keuangan \nyang mengawasi BUS, bagi Entitas Utama yang \nberkantor pusat di wilayah kerja Kantor Regional \nOtoritas Jasa Keuangan atau Kantor Otoritas Jasa \nKeuangan. \n \nBAB VII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS menyampaikan perubahan perjanjian kerja sama \nyang tidak menyebabkan peningkatan profil risiko kepada \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 10 ayat (10) secara luring kepada: \na. \ndepartemen pengawasan bank yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \nwilayah kerja kantor pusat Otoritas Jasa Keuangan; \natau \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan yang mengawasi BUS \ndengan tembusan kepada departemen pengawasan \nbank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan yang mengawasi \nBank Umum, bagi BUS yang berkantor pusat di \nwilayah \nkerja \nKantor \nRegional \nOtoritas \nJasa \nKeuangan atau Kantor Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Entitas Utama menyampaikan laporan hasil pemantauan \nterhadap pelaksanaan Sinergi Perbankan kepada Otoritas \nJasa Keuangan sebagaimana dimaksud dalam Pasal 13 \nayat (2) secara luring kepada: \na. \ndepartemen pengawasan yang mengawasi Entitas \nUtama \ndengan \ntembusan \nkepada \ndepartemen \n\n\n \npengawasan bank, Kantor Regional Otoritas Jasa \nKeuangan, atau Kantor Otoritas Jasa Keuangan \nyang mengawasi BUS, bagi Entitas Utama yang \nberkantor pusat di wilayah kerja kantor pusat \nOtoritas Jasa Keuangan; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau kantor \nOtoritas Jasa Keuangan yang mengawasi Entitas \nUtama \ndengan \ntembusan \nkepada \ndepartemen \npengawasan bank, Kantor Regional Otoritas Jasa \nKeuangan, atau Kantor Otoritas Jasa Keuangan \nyang mengawasi BUS, bagi Entitas Utama yang \nberkantor pusat di wilayah kerja Kantor Regional \nOtoritas Jasa Keuangan atau Kantor Otoritas Jasa \nKeuangan. \n \nBAB VII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Dalam pelaksanaan Sinergi Perbankan, penggunaan sumber \ndaya Bank Umum oleh BUS selain mengacu pada Peraturan \nOtoritas Jasa Keuangan ini, juga mengacu pada ketentuan \nperaturan \nperundang-undangan \nmengenai \npenggunaan \nsumber daya Bank Umum. \n \nBAB VIII \nSANKSI ADMINISTRATIF",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam pelaksanaan Sinergi Perbankan, penggunaan sumber \ndaya Bank Umum oleh BUS selain mengacu pada Peraturan \nOtoritas Jasa Keuangan ini, juga mengacu pada ketentuan \nperaturan \nperundang-undangan \nmengenai \npenggunaan \nsumber daya Bank Umum. \n \nBAB VIII \nSANKSI ADMINISTRATIF"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "BUS yang melanggar ketentuan dalam Pasal 10 ayat (1) dan \nPasal 10 ayat (2) dikenai sanksi administratif berupa \npenghentian Sinergi Perbankan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BUS yang melanggar ketentuan dalam Pasal 10 ayat (1) dan \nPasal 10 ayat (2) dikenai sanksi administratif berupa \npenghentian Sinergi Perbankan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBUS dan/atau Bank Umum yang melanggar ketentuan \ndalam Pasal 8 ayat (3), Pasal 9, Pasal 10 ayat (10),  \n\n\n \nPasal 13 ayat (2), dan/atau Pasal 14 ayat (2), dikenai \nsanksi administratif berupa teguran tertulis. \n(2) \nDalam hal BUS dan/atau Bank Umum tidak memenuhi \nketentuan \ndan \ntelah \ndikenai \nsanksi \nadministratif \nsebagaimana dimaksud pada ayat (1), BUS dan/atau \nBank Umum dikenai sanksi administratif berupa: \na. \npenurunan tingkat kesehatan BUS dan/atau Bank \nUmum; dan/atau \nb. \npembekuan kegiatan usaha tertentu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dan/atau Bank Umum yang melanggar ketentuan \ndalam Pasal 8 ayat (3), Pasal 9, Pasal 10 ayat (10),  \n\n\n \nPasal 13 ayat (2), dan/atau Pasal 14 ayat (2), dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BUS dan/atau Bank Umum tidak memenuhi \nketentuan \ndan \ntelah \ndikenai \nsanksi \nadministratif \nsebagaimana dimaksud pada ayat (1), BUS dan/atau \nBank Umum dikenai sanksi administratif berupa: \na. \npenurunan tingkat kesehatan BUS dan/atau Bank \nUmum; dan/atau \nb. \npembekuan kegiatan usaha tertentu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBUS yang melanggar ketentuan dalam Pasal 5 ayat (3) \ndikenai sanksi administratif sebagaimana diatur dalam \nPeraturan Otoritas Jasa Keuangan mengenai pelaporan \nbank umum melalui sistem pelaporan Otoritas Jasa \nKeuangan.  \n(2) \nBUS yang melanggar ketentuan dalam Pasal 5 ayat (5) \ndikenai sanksi administratif sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai \nlaporan kantor pusat bank umum. \n(3) \nBUS dan/atau Bank Umum yang melanggar ketentuan \ndalam Pasal 12 dikenai sanksi administratif sebagaimana \ndiatur \ndalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai rencana bisnis bank. \n \nBAB IX \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS yang melanggar ketentuan dalam Pasal 5 ayat (3) \ndikenai sanksi administratif sebagaimana diatur dalam \nPeraturan Otoritas Jasa Keuangan mengenai pelaporan \nbank umum melalui sistem pelaporan Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS yang melanggar ketentuan dalam Pasal 5 ayat (5) \ndikenai sanksi administratif sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai \nlaporan kantor pusat bank umum."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BUS dan/atau Bank Umum yang melanggar ketentuan \ndalam Pasal 12 dikenai sanksi administratif sebagaimana \ndiatur \ndalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai rencana bisnis bank. \n \nBAB IX \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nBUS dan BUK yang telah melaksanakan kerja sama \npenggunaan sumber daya BUK sebelum Peraturan \nOtoritas \nJasa \nKeuangan \nini \nberlaku \ntetap \ndapat \nmelaksanakan kerja sama sampai dengan batas akhir \nwaktu kerja sama. \n(2) \nBUS \ndan \nBUK \nyang \nmemperpanjang \nkerja \nsama \npenggunaan sumber daya BUK sebagaimana dimaksud \npada ayat (1) dan tidak menyebabkan peningkatan profil \n\n\n \nrisiko \ndikecualikan \ndari \nkewajiban \nmemperoleh \npersetujuan dari Otoritas Jasa Keuangan. \n(3) \nPerpanjangan kerja sama penggunaan sumber daya BUK \nsebagaimana dimaksud pada ayat (2) dilaporkan kepada \nOtoritas Jasa Keuangan paling lambat 7 (tujuh) hari kerja \nsejak perpanjangan kerja sama.  \n(4) \nKerja sama penggunaan sumber daya BUK sebagaimana \ndimaksud pada ayat (1) atau ayat (2) harus memenuhi \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini \nsejak tanggal 1 Juli 2021.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUS dan BUK yang telah melaksanakan kerja sama \npenggunaan sumber daya BUK sebelum Peraturan \nOtoritas \nJasa \nKeuangan \nini \nberlaku \ntetap \ndapat \nmelaksanakan kerja sama sampai dengan batas akhir \nwaktu kerja sama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS \ndan \nBUK \nyang \nmemperpanjang \nkerja \nsama \npenggunaan sumber daya BUK sebagaimana dimaksud \npada ayat (1) dan tidak menyebabkan peningkatan profil \n\n\n \nrisiko \ndikecualikan \ndari \nkewajiban \nmemperoleh \npersetujuan dari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perpanjangan kerja sama penggunaan sumber daya BUK \nsebagaimana dimaksud pada ayat (2) dilaporkan kepada \nOtoritas Jasa Keuangan paling lambat 7 (tujuh) hari kerja \nsejak perpanjangan kerja sama."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kerja sama penggunaan sumber daya BUK sebagaimana \ndimaksud pada ayat (1) atau ayat (2) harus memenuhi \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini \nsejak tanggal 1 Juli 2021."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Permohonan persetujuan kerja sama BUS dan BUK yang telah \ndiajukan kepada Otoritas Jasa Keuangan sebelum berlakunya \nPeraturan Otoritas Jasa Keuangan ini, namun belum \nmemperoleh persetujuan atau penolakan, harus memenuhi \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini. \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Permohonan persetujuan kerja sama BUS dan BUK yang telah \ndiajukan kepada Otoritas Jasa Keuangan sebelum berlakunya \nPeraturan Otoritas Jasa Keuangan ini, namun belum \nmemperoleh persetujuan atau penolakan, harus memenuhi \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini. \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1) \nPada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPasal 52A sampai dengan Pasal 52E dan Pasal 75B  \nayat \n(1) \nhuruf \ne \nPeraturan \nBank \nIndonesia  \nNomor 15/13/PBI/2013 tentang Perubahan Atas \nPeraturan Bank Indonesia Nomor 11/3/PBI/2009 \ntentang Bank Umum Syariah; dan \nb. \nRomawi VA terkait kajian rencana pembukaan, \npemindahan, dan/atau penghentian layanan syariah \nbank dan Romawi VIA Surat Edaran Bank Indonesia \nNomor 15/50/DPbS perihal Perubahan Atas Surat \nEdaran Bank Indonesia Nomor 11/9/DPbS tanggal  \n7 April 2009 perihal Bank Umum Syariah; \ndicabut dan dinyatakan tidak berlaku. \n\n\n \n(2) \nKetentuan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndikecualikan \nbagi \nBUS \ndan \nBUK \nyang \ntelah \nmelaksanakan kerja sama penggunaan sumber daya BUK \nsebelum Peraturan Otoritas Jasa Keuangan ini berlaku \nserta bagi BUS dan BUK yang memperpanjang kerja \nsama \npenggunaan \nsumber \ndaya \nBUK \nyang \ntidak \nmenyebabkan peningkatan profil risiko, berupa layanan \nsyariah bank dan jasa konsultasi, sampai dengan tanggal \n30 Juni 2021.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPasal 52A sampai dengan Pasal 52E dan Pasal 75B  \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf \ne \nPeraturan \nBank \nIndonesia  \nNomor 15/13/PBI/2013 tentang Perubahan Atas \nPeraturan Bank Indonesia Nomor 11/3/PBI/2009 \ntentang Bank Umum Syariah; dan \nb. \nRomawi VA terkait kajian rencana pembukaan, \npemindahan, dan/atau penghentian layanan syariah \nbank dan Romawi VIA Surat Edaran Bank Indonesia \nNomor 15/50/DPbS perihal Perubahan Atas Surat \nEdaran Bank Indonesia Nomor 11/9/DPbS tanggal  \n7 April 2009 perihal Bank Umum Syariah; \ndicabut dan dinyatakan tidak berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dikecualikan \nbagi \nBUS \ndan \nBUK \nyang \ntelah \nmelaksanakan kerja sama penggunaan sumber daya BUK \nsebelum Peraturan Otoritas Jasa Keuangan ini berlaku \nserta bagi BUS dan BUK yang memperpanjang kerja \nsama \npenggunaan \nsumber \ndaya \nBUK \nyang \ntidak \nmenyebabkan peningkatan profil risiko, berupa layanan \nsyariah bank dan jasa konsultasi, sampai dengan tanggal \n30 Juni 2021."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 14 November 2019 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \nDiundangkan di Jakarta \npada tanggal 19 November 2019 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2019 NOMOR 221\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 28 /POJK.03/2019        \nTENTANG \nSINERGI PERBANKAN DALAM SATU KEPEMILIKAN  \nUNTUK PENGEMBANGAN PERBANKAN SYARIAH \n \nI. \nUMUM  \nSinergi Perbankan berupa kerja sama antara BUS dan Bank Umum \ndalam satu kepemilikan yang dilakukan melalui pengoptimalan sumber \ndaya Bank Umum sehingga dapat meminimalisasi kebutuhan modal BUS \nuntuk investasi yang pada akhirnya dapat meningkatkan efisiensi industri \nperbankan nasional. Sinergi Perbankan juga dimaksudkan untuk \nmeningkatkan daya saing BUS dalam memberikan pelayanan kepada \nnasabah BUS agar setara dengan pelayanan Bank Umum kepada nasabah \nBank Umum. Peningkatan efisiensi dan daya saing BUS dalam \nmemberikan \npelayanan \nkepada \nnasabah \nBUS \nakan \nmendorong \npengembangan perbankan syariah. \nSinergi Perbankan dapat meningkatkan risiko bagi bank, baik BUS \nmaupun Bank Umum. Risiko bagi BUS antara lain risiko operasional, \nrisiko reputasi, dan risiko kepatuhan khususnya kepatuhan terhadap \npemenuhan Prinsip Syariah, sedangkan risiko bagi Bank Umum antara \nlain risiko operasional. \nSinergi Perbankan dapat dilakukan oleh BUS dan Bank Umum yang \nmemiliki hubungan kepemilikan dengan pembatasan ruang lingkup \nSinergi Perbankan. BUS dan Bank Umum juga harus membuat perjanjian \nkerja sama secara tertulis dan memenuhi ketentuan sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan ini. \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 14 November 2019 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \nDiundangkan di Jakarta \npada tanggal 19 November 2019 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2019 NOMOR 221\n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 28 /POJK.03/2019        \nTENTANG \nSINERGI PERBANKAN DALAM SATU KEPEMILIKAN  \nUNTUK PENGEMBANGAN PERBANKAN SYARIAH \n \nI. \nUMUM  \nSinergi Perbankan berupa kerja sama antara BUS dan Bank Umum \ndalam satu kepemilikan yang dilakukan melalui pengoptimalan sumber \ndaya Bank Umum sehingga dapat meminimalisasi kebutuhan modal BUS \nuntuk investasi yang pada akhirnya dapat meningkatkan efisiensi industri \nperbankan nasional. Sinergi Perbankan juga dimaksudkan untuk \nmeningkatkan daya saing BUS dalam memberikan pelayanan kepada \nnasabah BUS agar setara dengan pelayanan Bank Umum kepada nasabah \nBank Umum. Peningkatan efisiensi dan daya saing BUS dalam \nmemberikan \npelayanan \nkepada \nnasabah \nBUS \nakan \nmendorong \npengembangan perbankan syariah. \nSinergi Perbankan dapat meningkatkan risiko bagi bank, baik BUS \nmaupun Bank Umum. Risiko bagi BUS antara lain risiko operasional, \nrisiko reputasi, dan risiko kepatuhan khususnya kepatuhan terhadap \npemenuhan Prinsip Syariah, sedangkan risiko bagi Bank Umum antara \nlain risiko operasional. \nSinergi Perbankan dapat dilakukan oleh BUS dan Bank Umum yang \nmemiliki hubungan kepemilikan dengan pembatasan ruang lingkup \nSinergi Perbankan. BUS dan Bank Umum juga harus membuat perjanjian \nkerja sama secara tertulis dan memenuhi ketentuan sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan ini. \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nBentuk Sinergi Perbankan antara lain LSBU, penggunaan \nsumber daya manusia Bank Umum oleh BUS sebagai jasa \nkonsultasi nasabah di sektor tertentu, dan penggunaan pusat \ndata (data center) dan/atau pusat pemulihan bencana (disaster \nrecovery center) Bank Umum oleh BUS. \nAyat (2) \nYang dimaksud dengan “pemegang saham pengendali” adalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \npenilaian kemampuan dan kepatutan pihak utama lembaga jasa \nkeuangan. \nAyat (3) \nPermodalan antara lain penggunaan modal Bank Umum dalam \nperhitungan batas maksimum penyaluran dana BUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nBentuk Sinergi Perbankan antara lain LSBU, penggunaan \nsumber daya manusia Bank Umum oleh BUS sebagai jasa \nkonsultasi nasabah di sektor tertentu, dan penggunaan pusat \ndata (data center) dan/atau pusat pemulihan bencana (disaster \nrecovery center) Bank Umum oleh BUS. \nAyat (2) \nYang dimaksud dengan “pemegang saham pengendali” adalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \npenilaian kemampuan dan kepatutan pihak utama lembaga jasa \nkeuangan. \nAyat (3) \nPermodalan antara lain penggunaan modal Bank Umum dalam \nperhitungan batas maksimum penyaluran dana BUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKegiatan usaha BUS berdasarkan BUKU Bank Umum dan/atau \nmodal inti Bank Umum dilaksanakan sesuai dengan ketentuan \nperaturan perundang-undangan mengenai perbankan. \nContoh: \n1. \nPeraturan Otoritas Jasa Keuangan mengenai kegiatan \nusaha dan jaringan kantor berdasarkan modal inti bank; \n2. \nPeraturan Otoritas Jasa Keuangan mengenai produk dan \naktivitas bank syariah dan unit usaha syariah; \n3. \nPeraturan Otoritas Jasa Keuangan mengenai kegiatan \nusaha bank berupa penitipan dengan pengelolaan (trust); \nserta \n4. \nketentuan \nperaturan \nperundang-undangan \nmengenai \npersetujuan bank umum sebagai kustodian. \n \n\n\n \nContoh: \nBUS “A” dan Bank Umum “B” telah memperoleh persetujuan \nSinergi Perbankan terkait penggunaan BUKU Bank Umum \nuntuk kegiatan usaha BUS. BUS “A” berada dalam kelompok \nBUKU 2 dan Bank Umum “B” berada dalam kelompok BUKU 3. \nDengan demikian, BUS “A” dapat melakukan kegiatan usaha \nBank Umum di kelompok BUKU 3, misalnya bank kustodian, \nsepanjang BUS “A” memenuhi ketentuan sebagaimana diatur \ndalam ketentuan peraturan perundang-undangan mengenai \npersetujuan bank umum sebagai kustodian. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “manajemen risiko secara konsolidasi” \nadalah sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko secara konsolidasi bagi \nbank yang melakukan pengendalian terhadap perusahaan anak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKegiatan usaha BUS berdasarkan BUKU Bank Umum dan/atau \nmodal inti Bank Umum dilaksanakan sesuai dengan ketentuan \nperaturan perundang-undangan mengenai perbankan. \nContoh: \n1. \nPeraturan Otoritas Jasa Keuangan mengenai kegiatan \nusaha dan jaringan kantor berdasarkan modal inti bank; \n2. \nPeraturan Otoritas Jasa Keuangan mengenai produk dan \naktivitas bank syariah dan unit usaha syariah; \n3. \nPeraturan Otoritas Jasa Keuangan mengenai kegiatan \nusaha bank berupa penitipan dengan pengelolaan (trust); \nserta \n4. \nketentuan \nperaturan \nperundang-undangan \nmengenai \npersetujuan bank umum sebagai kustodian. \n \n\n\n \nContoh: \nBUS “A” dan Bank Umum “B” telah memperoleh persetujuan \nSinergi Perbankan terkait penggunaan BUKU Bank Umum \nuntuk kegiatan usaha BUS. BUS “A” berada dalam kelompok \nBUKU 2 dan Bank Umum “B” berada dalam kelompok BUKU 3. \nDengan demikian, BUS “A” dapat melakukan kegiatan usaha \nBank Umum di kelompok BUKU 3, misalnya bank kustodian, \nsepanjang BUS “A” memenuhi ketentuan sebagaimana diatur \ndalam ketentuan peraturan perundang-undangan mengenai \npersetujuan bank umum sebagai kustodian. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “manajemen risiko secara konsolidasi” \nadalah sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko secara konsolidasi bagi \nbank yang melakukan pengendalian terhadap perusahaan anak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nYang dimaksud dengan “komite yang wajib dibentuk oleh \nBUS” \nadalah \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan mengenai perbankan. \nContoh: \n1. \nKetentuan peraturan perundang-undangan mengenai \npelaksanaan good corporate governance bagi bank \numum syariah dan unit usaha syariah; \n2. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank umum syariah \ndan unit usaha syariah; serta \n\n\n \n3. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi informasi oleh bank umum. \nHuruf e \nPejabat Eksekutif antara lain kepala divisi, kepala kantor \nwilayah, kepala kantor cabang, kepala kantor fungsional \nyang kedudukannya paling kurang setara dengan kepala \nkantor cabang, kepala satuan kerja manajemen risiko, \nkepala satuan kerja kepatuhan, dan kepala satuan kerja \naudit intern atau pejabat lain yang setara. \nAyat (2) \nPihak independen antara lain pihak independen dalam komite \npemantau risiko dan komite audit sesuai dengan ketentuan \nperaturan perundang-undangan mengenai pelaksanaan good \ncorporate governance bagi bank umum syariah dan unit usaha \nsyariah.  \nAyat (3) \nKetentuan \nperaturan \nperundang-undangan \nantara \nlain \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelaksanaan good corporate governance bagi bank umum syariah \ndan unit usaha syariah, Peraturan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko bagi bank umum syariah \ndan unit usaha syariah, serta Peraturan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko dalam penggunaan \nteknologi informasi oleh bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nYang dimaksud dengan “komite yang wajib dibentuk oleh \nBUS” \nadalah \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan mengenai perbankan. \nContoh: \n1. \nKetentuan peraturan perundang-undangan mengenai \npelaksanaan good corporate governance bagi bank \numum syariah dan unit usaha syariah; \n2. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank umum syariah \ndan unit usaha syariah; serta \n\n\n \n3. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi informasi oleh bank umum. \nHuruf e \nPejabat Eksekutif antara lain kepala divisi, kepala kantor \nwilayah, kepala kantor cabang, kepala kantor fungsional \nyang kedudukannya paling kurang setara dengan kepala \nkantor cabang, kepala satuan kerja manajemen risiko, \nkepala satuan kerja kepatuhan, dan kepala satuan kerja \naudit intern atau pejabat lain yang setara. \nAyat (2) \nPihak independen antara lain pihak independen dalam komite \npemantau risiko dan komite audit sesuai dengan ketentuan \nperaturan perundang-undangan mengenai pelaksanaan good \ncorporate governance bagi bank umum syariah dan unit usaha \nsyariah.  \nAyat (3) \nKetentuan \nperaturan \nperundang-undangan \nantara \nlain \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelaksanaan good corporate governance bagi bank umum syariah \ndan unit usaha syariah, Peraturan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko bagi bank umum syariah \ndan unit usaha syariah, serta Peraturan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko dalam penggunaan \nteknologi informasi oleh bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nPencantuman logo iB dapat dilakukan antara lain melalui \npapan nama dan/atau pada dinding atau kaca depan \njaringan kantor BUK agar mudah terlihat dengan jelas oleh \nnasabah. \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nPencantuman logo iB dapat dilakukan antara lain melalui \npapan nama dan/atau pada dinding atau kaca depan \njaringan kantor BUK agar mudah terlihat dengan jelas oleh \nnasabah. \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “jaringan kantor” adalah sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai kegiatan usaha \ndan jaringan kantor berdasarkan modal inti bank. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “jaringan kantor” adalah sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai kegiatan usaha \ndan jaringan kantor berdasarkan modal inti bank. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Sinergi Perbankan tidak menghilangkan tanggung jawab BUS atas \nrisiko sebagai akibat dari tindakan yang dilakukan oleh Bank Umum \ndalam melaksanakan kegiatan yang disinergikan. \nContoh 1: \nDalam hal BUS melakukan Sinergi Perbankan dengan BUK untuk \npemasaran produk syariah, BUS tetap bertanggung jawab antara lain \natas pemenuhan Prinsip Syariah, kerahasiaan informasi nasabah \nBUS, dan potensi terjadinya kesalahan pemberian informasi (mis-\nselling) sebagai akibat dari kurangnya pengetahuan syariah tenaga \npemasaran BUK. \nContoh 2: \nDalam hal BUS melakukan Sinergi Perbankan dengan Bank Umum \nberupa jasa konsultasi pembiayaan untuk analisis risiko calon \nnasabah dan/atau proyek yang akan dibiayai oleh BUS, keputusan \npemberian pembiayaan dan risiko yang terjadi atas pemberian \npembiayaan merupakan tanggung jawab BUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Sinergi Perbankan tidak menghilangkan tanggung jawab BUS atas \nrisiko sebagai akibat dari tindakan yang dilakukan oleh Bank Umum \ndalam melaksanakan kegiatan yang disinergikan. \nContoh 1: \nDalam hal BUS melakukan Sinergi Perbankan dengan BUK untuk \npemasaran produk syariah, BUS tetap bertanggung jawab antara lain \natas pemenuhan Prinsip Syariah, kerahasiaan informasi nasabah \nBUS, dan potensi terjadinya kesalahan pemberian informasi (mis-\nselling) sebagai akibat dari kurangnya pengetahuan syariah tenaga \npemasaran BUK. \nContoh 2: \nDalam hal BUS melakukan Sinergi Perbankan dengan Bank Umum \nberupa jasa konsultasi pembiayaan untuk analisis risiko calon \nnasabah dan/atau proyek yang akan dibiayai oleh BUS, keputusan \npemberian pembiayaan dan risiko yang terjadi atas pemberian \npembiayaan merupakan tanggung jawab BUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \n\n\n \nAyat (2) \nHuruf a \nRuang lingkup kerja sama antara lain jenis kegiatan yang \ndisinergikan. \nHuruf b \nCukup jelas. \nHuruf c \nAngka 1) \nAlih pengetahuan dilakukan antara lain melalui \nkegiatan pelatihan, lokakarya (workshop), diskusi \nkelompok \nterpumpun \n(focus \ngroup \ndiscussion), \nsosialisasi, dan seminar.  \nAlih pengetahuan dilakukan oleh: \n1. \nBUS kepada sumber daya manusia BUK agar \nsumber daya manusia BUK memahami dan dapat \nmenjalankan kegiatan yang disinergikan sesuai \ndengan Prinsip Syariah; dan/atau \n2. \nBank Umum kepada sumber daya manusia BUS \nagar sumber daya manusia BUS memahami dan \nsuatu saat dapat menjalankan kegiatan yang \ndisinergikan dengan Bank Umum secara mandiri. \nAngka 2) \nYang dimaksud dengan “kerahasiaan dan keamanan \ninformasi BUS dan nasabah BUS” adalah tindakan \nyang memberikan perlindungan, menjaga kerahasiaan \ndan keamanan informasi BUS dan nasabah BUS, serta \nhanya menggunakan informasi tersebut sesuai dengan \nkepentingan dan tujuan yang disetujui oleh nasabah \nBUS, kecuali ditentukan lain oleh ketentuan peraturan \nperundang-undangan. \nKewajiban menjaga kerahasiaan dan pengamanan \ninformasi \nnasabah \nantara \nlain \nsesuai \ndengan \nketentuan peraturan perundang-undangan mengenai \nrahasia \nbank \ndalam \nUndang-Undang \nmengenai \nperbankan syariah dan Peraturan Otoritas Jasa \nKeuangan mengenai perlindungan konsumen sektor \njasa keuangan. \n\n\n \nAngka 3) \nTanggung jawab atas kerugian antara lain tanggung \njawab atas kerugian dalam hal terjadi kegagalan \nsistem, fraud, atau faktor eksternal. \nAngka 4) \nYang \ndimaksud \ndengan \n“penanganan \npengaduan \nnasabah” adalah sesuai dengan Peraturan Otoritas \nJasa \nKeuangan \nmengenai \nlayanan \npengaduan \nkonsumen di sektor jasa keuangan. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \n\n\n \nAyat (2) \nHuruf a \nRuang lingkup kerja sama antara lain jenis kegiatan yang \ndisinergikan. \nHuruf b \nCukup jelas. \nHuruf c \nAngka 1) \nAlih pengetahuan dilakukan antara lain melalui \nkegiatan pelatihan, lokakarya (workshop), diskusi \nkelompok \nterpumpun \n(focus \ngroup \ndiscussion), \nsosialisasi, dan seminar.  \nAlih pengetahuan dilakukan oleh: \n1. \nBUS kepada sumber daya manusia BUK agar \nsumber daya manusia BUK memahami dan dapat \nmenjalankan kegiatan yang disinergikan sesuai \ndengan Prinsip Syariah; dan/atau \n2. \nBank Umum kepada sumber daya manusia BUS \nagar sumber daya manusia BUS memahami dan \nsuatu saat dapat menjalankan kegiatan yang \ndisinergikan dengan Bank Umum secara mandiri. \nAngka 2) \nYang dimaksud dengan “kerahasiaan dan keamanan \ninformasi BUS dan nasabah BUS” adalah tindakan \nyang memberikan perlindungan, menjaga kerahasiaan \ndan keamanan informasi BUS dan nasabah BUS, serta \nhanya menggunakan informasi tersebut sesuai dengan \nkepentingan dan tujuan yang disetujui oleh nasabah \nBUS, kecuali ditentukan lain oleh ketentuan peraturan \nperundang-undangan. \nKewajiban menjaga kerahasiaan dan pengamanan \ninformasi \nnasabah \nantara \nlain \nsesuai \ndengan \nketentuan peraturan perundang-undangan mengenai \nrahasia \nbank \ndalam \nUndang-Undang \nmengenai \nperbankan syariah dan Peraturan Otoritas Jasa \nKeuangan mengenai perlindungan konsumen sektor \njasa keuangan. \n\n\n \nAngka 3) \nTanggung jawab atas kerugian antara lain tanggung \njawab atas kerugian dalam hal terjadi kegagalan \nsistem, fraud, atau faktor eksternal. \nAngka 4) \nYang \ndimaksud \ndengan \n“penanganan \npengaduan \nnasabah” adalah sesuai dengan Peraturan Otoritas \nJasa \nKeuangan \nmengenai \nlayanan \npengaduan \nkonsumen di sektor jasa keuangan. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “peningkatan profil risiko” adalah \npeningkatan profil risiko bagi BUS dan/atau bagi Bank Umum.  \nContoh:  \nBUS “A” dan BUK “B” melakukan Sinergi Perbankan berupa \nkerja sama pemasaran produk BUS “A” di kantor BUK “B” \n(referral). Kemudian BUS “A” dan BUK “B” sepakat untuk \nmengubah perjanjian kerja sama tersebut menjadi Sinergi \nPerbankan berupa pembukaan LSBU di kantor BUK “B”.  \nAyat (3) \nPencantuman rencana Sinergi Perbankan dalam rencana bisnis \nBUS dan dalam rencana bisnis Bank Umum merupakan bagian \ndari rencana penerbitan produk dan/atau pelaksanaan aktivitas \nbaru. \nDalam hal rencana Sinergi Perbankan berupa LSBU maka selain \ndicantumkan sebagai bagian dari rencana penerbitan produk \ndan/atau pelaksanaan aktivitas baru pada rencana bisnis BUS \ndan \nrencana \nbisnis \nBank \nUmum, \nrencana \npembukaan, \npemindahan, dan/atau penghentian LSBU juga dicantumkan \n\n\n \nsebagai \nbagian \ndari \nrencana \npengembangan \ndan/atau \nperubahan jaringan kantor pada rencana bisnis BUS. \nAyat (4)  \nDalam hal Bank Umum bukan merupakan Entitas Utama, \npermohonan persetujuan juga ditembuskan kepada Entitas \nUtama. \nAyat (5) \nHuruf a \nCukup jelas. \nHuruf b \nStandar prosedur operasional memuat antara lain definisi \ndan skema, alur proses (flowchart), unit kerja yang \nbertanggung jawab, unit kerja yang terkait, prosedur \npelaksanaan, prosedur pengawasan termasuk pemenuhan \nPrinsip Syariah, dan prosedur penanganan masalah. \nHuruf c \nOpini DPS bertujuan untuk memastikan pelaksanaan \nSinergi Perbankan tidak bertentangan dengan Prinsip \nSyariah. \nHuruf d \nYang dimaksud dengan “laporan kesiapan” adalah kesiapan \nBUS dan Bank Umum antara lain kesiapan operasional \nyang meliputi kesiapan sumber daya manusia, teknologi \ninformasi, dan sarana penunjang lainnya serta hasil uji \ncoba (jika ada). \nKesiapan sumber daya manusia antara lain sumber daya \nmanusia Bank Umum yang telah memiliki pengetahuan \nyang memadai mengenai produk dan aktivitas BUS \ntermasuk pemahaman terhadap Prinsip Syariah dan akad \nyang digunakan dalam produk dan aktivitas BUS tersebut. \nKesiapan teknologi informasi antara lain teknologi sistem \ninformasi \nyang \nmemungkinkan \nadanya \npencatatan \ntransaksi nasabah BUS secara daring serta terpisah dengan \npencatatan transaksi Bank Umum. \nHuruf e \nCukup jelas. \n \n\n\n \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nTambahan \ncakupan \nperjanjian \nkerja \nsama \nantara \nlain \npembebanan biaya dan/atau penetapan imbalan serta ukuran \ndan standar pelaksanaan kegiatan atau Service Level Agreement \n(SLA). \nDalam pembebanan biaya dan/atau penetapan imbalan diatur \nantara lain mengenai pihak yang harus membayar biaya yang \ntimbul dari Sinergi Perbankan, jumlah imbalan yang harus \ndibayar \nBUS \nkepada \nBank \nUmum, \ndan \ntata \ncara \npembayarannya. \nUkuran pelaksanaan kegiatan antara lain mencakup ukuran \natas kuantitas, kualitas, dan/atau jangka waktu penyelesaian \npekerjaan. Standar pelaksanaan kegiatan merupakan prosedur \nyang paling sedikit harus dipenuhi dalam proses pelaksanaan \nkegiatan yang disinergikan. \nTambahan dokumen pendukung antara lain surat persetujuan \natau rekomendasi dari otoritas lain sesuai dengan ketentuan \nperaturan perundang-undangan. \nAyat (9) \nCukup jelas. \nAyat (10) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “peningkatan profil risiko” adalah \npeningkatan profil risiko bagi BUS dan/atau bagi Bank Umum.  \nContoh:  \nBUS “A” dan BUK “B” melakukan Sinergi Perbankan berupa \nkerja sama pemasaran produk BUS “A” di kantor BUK “B” \n(referral). Kemudian BUS “A” dan BUK “B” sepakat untuk \nmengubah perjanjian kerja sama tersebut menjadi Sinergi \nPerbankan berupa pembukaan LSBU di kantor BUK “B”.  \nAyat (3) \nPencantuman rencana Sinergi Perbankan dalam rencana bisnis \nBUS dan dalam rencana bisnis Bank Umum merupakan bagian \ndari rencana penerbitan produk dan/atau pelaksanaan aktivitas \nbaru. \nDalam hal rencana Sinergi Perbankan berupa LSBU maka selain \ndicantumkan sebagai bagian dari rencana penerbitan produk \ndan/atau pelaksanaan aktivitas baru pada rencana bisnis BUS \ndan \nrencana \nbisnis \nBank \nUmum, \nrencana \npembukaan, \npemindahan, dan/atau penghentian LSBU juga dicantumkan \n\n\n \nsebagai \nbagian \ndari \nrencana \npengembangan \ndan/atau \nperubahan jaringan kantor pada rencana bisnis BUS. \nAyat (4)  \nDalam hal Bank Umum bukan merupakan Entitas Utama, \npermohonan persetujuan juga ditembuskan kepada Entitas \nUtama. \nAyat (5) \nHuruf a \nCukup jelas. \nHuruf b \nStandar prosedur operasional memuat antara lain definisi \ndan skema, alur proses (flowchart), unit kerja yang \nbertanggung jawab, unit kerja yang terkait, prosedur \npelaksanaan, prosedur pengawasan termasuk pemenuhan \nPrinsip Syariah, dan prosedur penanganan masalah. \nHuruf c \nOpini DPS bertujuan untuk memastikan pelaksanaan \nSinergi Perbankan tidak bertentangan dengan Prinsip \nSyariah. \nHuruf d \nYang dimaksud dengan “laporan kesiapan” adalah kesiapan \nBUS dan Bank Umum antara lain kesiapan operasional \nyang meliputi kesiapan sumber daya manusia, teknologi \ninformasi, dan sarana penunjang lainnya serta hasil uji \ncoba (jika ada). \nKesiapan sumber daya manusia antara lain sumber daya \nmanusia Bank Umum yang telah memiliki pengetahuan \nyang memadai mengenai produk dan aktivitas BUS \ntermasuk pemahaman terhadap Prinsip Syariah dan akad \nyang digunakan dalam produk dan aktivitas BUS tersebut. \nKesiapan teknologi informasi antara lain teknologi sistem \ninformasi \nyang \nmemungkinkan \nadanya \npencatatan \ntransaksi nasabah BUS secara daring serta terpisah dengan \npencatatan transaksi Bank Umum. \nHuruf e \nCukup jelas. \n \n\n\n \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nTambahan \ncakupan \nperjanjian \nkerja \nsama \nantara \nlain \npembebanan biaya dan/atau penetapan imbalan serta ukuran \ndan standar pelaksanaan kegiatan atau Service Level Agreement \n(SLA). \nDalam pembebanan biaya dan/atau penetapan imbalan diatur \nantara lain mengenai pihak yang harus membayar biaya yang \ntimbul dari Sinergi Perbankan, jumlah imbalan yang harus \ndibayar \nBUS \nkepada \nBank \nUmum, \ndan \ntata \ncara \npembayarannya. \nUkuran pelaksanaan kegiatan antara lain mencakup ukuran \natas kuantitas, kualitas, dan/atau jangka waktu penyelesaian \npekerjaan. Standar pelaksanaan kegiatan merupakan prosedur \nyang paling sedikit harus dipenuhi dalam proses pelaksanaan \nkegiatan yang disinergikan. \nTambahan dokumen pendukung antara lain surat persetujuan \natau rekomendasi dari otoritas lain sesuai dengan ketentuan \nperaturan perundang-undangan. \nAyat (9) \nCukup jelas. \nAyat (10) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “laporan realisasi rencana bisnis” adalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai rencana \nbisnis bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “laporan realisasi rencana bisnis” adalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai rencana \nbisnis bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “komite tata kelola terintegrasi” adalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola terintegrasi bagi konglomerasi keuangan. \nAyat (2) \nHasil pemantauan terhadap pelaksanaan Sinergi Perbankan \nyang wajib dilaporkan antara lain mengenai kesesuaian \npelaksanaan Sinergi Perbankan dengan perjanjian kerja sama \ndan \ndampak \npelaksanaan \nSinergi \nPerbankan \nterhadap \nperkembangan BUS. \nAyat (3) \nYang dimaksud dengan “laporan penilaian pelaksanaan tata \nkelola terintegrasi” adalah sesuai dengan ketentuan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan tata kelola \nterintegrasi bagi konglomerasi keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “komite tata kelola terintegrasi” adalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola terintegrasi bagi konglomerasi keuangan. \nAyat (2) \nHasil pemantauan terhadap pelaksanaan Sinergi Perbankan \nyang wajib dilaporkan antara lain mengenai kesesuaian \npelaksanaan Sinergi Perbankan dengan perjanjian kerja sama \ndan \ndampak \npelaksanaan \nSinergi \nPerbankan \nterhadap \nperkembangan BUS. \nAyat (3) \nYang dimaksud dengan “laporan penilaian pelaksanaan tata \nkelola terintegrasi” adalah sesuai dengan ketentuan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan tata kelola \nterintegrasi bagi konglomerasi keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nPenjelasan mengenai langkah yang akan ditempuh untuk \npenyelesaian atau pengalihan seluruh kewajiban kepada \nnasabah dan/atau pihak lain disampaikan dalam hal \nSinergi Perbankan berhubungan dengan nasabah dan/atau \npihak lain secara langsung. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nPenjelasan mengenai langkah yang akan ditempuh untuk \npenyelesaian atau pengalihan seluruh kewajiban kepada \nnasabah dan/atau pihak lain disampaikan dalam hal \nSinergi Perbankan berhubungan dengan nasabah dan/atau \npihak lain secara langsung. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan peraturan perundangan-undangan mengenai penggunaan \nsumber daya Bank Umum antara lain Peraturan Otoritas Jasa \nKeuangan mengenai penerapan manajemen risiko dalam penggunaan \nteknologi infomasi oleh bank umum dan Undang-Undang mengenai \nketenagakerjaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan peraturan perundangan-undangan mengenai penggunaan \nsumber daya Bank Umum antara lain Peraturan Otoritas Jasa \nKeuangan mengenai penerapan manajemen risiko dalam penggunaan \nteknologi infomasi oleh bank umum dan Undang-Undang mengenai \nketenagakerjaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “penghentian sinergi perbankan” adalah \npenghentian Sinergi Perbankan yang belum memperoleh persetujuan \ndari Otoritas Jasa Keuangan. \nContoh: \nBUS “X” telah memperoleh persetujuan Sinergi Perbankan untuk \npenggunaan pusat data (data center) Bank Umum “Y”. BUS “X” \nmelaksanakan LSBU di kantor cabang Bank Umum “Y” tanpa \nmemperoleh persetujuan Sinergi Perbankan untuk melaksanakan \nLSBU dari Otoritas Jasa Keuangan. BUS “X” harus menghentikan \npelaksanaan LSBU.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “penghentian sinergi perbankan” adalah \npenghentian Sinergi Perbankan yang belum memperoleh persetujuan \ndari Otoritas Jasa Keuangan. \nContoh: \nBUS “X” telah memperoleh persetujuan Sinergi Perbankan untuk \npenggunaan pusat data (data center) Bank Umum “Y”. BUS “X” \nmelaksanakan LSBU di kantor cabang Bank Umum “Y” tanpa \nmemperoleh persetujuan Sinergi Perbankan untuk melaksanakan \nLSBU dari Otoritas Jasa Keuangan. BUS “X” harus menghentikan \npelaksanaan LSBU."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nPenurunan tingkat kesehatan BUS dan/atau Bank Umum \nmelalui mekanisme sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank \numum syariah dan unit usaha Syariah atau Peraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenilaian \ntingkat \nkesehatan bank umum. \n \n\n\n \nHuruf b \nYang dimaksud dengan “kegiatan usaha tertentu” adalah \nkegiatan usaha yang terkait dengan Sinergi Perbankan \nantara lain sebagai bank kustodian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nPenurunan tingkat kesehatan BUS dan/atau Bank Umum \nmelalui mekanisme sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank \numum syariah dan unit usaha Syariah atau Peraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenilaian \ntingkat \nkesehatan bank umum. \n \n\n\n \nHuruf b \nYang dimaksud dengan “kegiatan usaha tertentu” adalah \nkegiatan usaha yang terkait dengan Sinergi Perbankan \nantara lain sebagai bank kustodian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nContoh perjanjian kerja sama penggunaan sumber daya BUK \nyang tidak menyebabkan peningkatan profil risiko yaitu \nperubahan jumlah dan lokasi layanan syariah bank. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nContoh perjanjian kerja sama penggunaan sumber daya BUK \nyang tidak menyebabkan peningkatan profil risiko yaitu \nperubahan jumlah dan lokasi layanan syariah bank. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6419",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6419"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 48,
+  "total_ayat": 91,
+  "total_karakter": 37246,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

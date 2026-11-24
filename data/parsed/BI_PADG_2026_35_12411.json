@@ -1,0 +1,871 @@
+{
+  "doc_id": "BI_PADG_2026_35_12411",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "35",
+  "tahun": "2026",
+  "judul": "Penyelenggaraan Edukasi serta Pemberdayaan Masyarakat dan Lingkungan",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "23 Oktober 2026",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA EPML"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "CAKUPAN, BENTUK, DAN PENERIMA EPML"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TAHAPAN EPML"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERENCANAAN EPML"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAKSANAAN EPML"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PEMANTAUAN DAN EVALUASI EPML"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOORDINASI DAN SINERGI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TRANSPARANSI DAN KOMUNIKASI PUBLIK"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur Bank Indonesia ini \nyang dimaksud dengan:  \n1. \nEdukasi serta Pemberdayaan Masyarakat dan Lingkungan \ndi Bank Indonesia yang selanjutnya disebut EPML adalah \nprogram yang dilakukan melalui kegiatan edukasi, \npemberdayaan \nmasyarakat \nserta \npemberdayaan \nlingkungan secara inklusif, dalam rangka mendukung \npelaksanaan tugas Bank Indonesia. \n2. \nEdukasi adalah kegiatan untuk meningkatkan kapasitas, \nkemampuan, \ndan \nketerampilan \nmasyarakat \nguna \nmengembangkan potensi diri. \n3. \nPemberdayaan \nMasyarakat \nadalah \nkegiatan \nuntuk \nmewujudkan \nkemandirian \ndan \nketerbukaan \nakses \nmasyarakat terhadap sumber daya guna meningkatkan \nkualitas hidup. \n4. \nPemberdayaan \nLingkungan \nadalah \nkegiatan \nuntuk \nmelindungi dan melestarikan lingkungan hidup dalam \nrangka mendukung kualitas hidup masyarakat secara \nberkelanjutan. \n5. \nPenerima EPML adalah lembaga, organisasi, atau kelompok \nyang memenuhi persyaratan dan ditetapkan oleh Bank \nIndonesia untuk menerima EPML. \n6. \nKemitraan adalah koordinasi dan sinergi dengan pihak \neksternal dalam penyelenggaraan EPML didasarkan pada \nkerja sama. \n7. \nMitra Pelaksana adalah pihak eksternal yang bekerja sama \ndengan Bank Indonesia dalam penyelenggaraan EPML. \n8. \nBarang adalah benda, baik berwujud maupun tidak \nberwujud atau bergerak maupun tidak bergerak. \n9. \nJasa adalah layanan dan/atau kegiatan yang terdiri atas \npelatihan, sertifikasi, dukungan penyelenggaraan acara, \ndan jasa lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur Bank Indonesia ini \nyang dimaksud dengan:  \n1. \nEdukasi serta Pemberdayaan Masyarakat dan Lingkungan \ndi Bank Indonesia yang selanjutnya disebut EPML adalah \nprogram yang dilakukan melalui kegiatan edukasi, \npemberdayaan \nmasyarakat \nserta \npemberdayaan \nlingkungan secara inklusif, dalam rangka mendukung \npelaksanaan tugas Bank Indonesia. \n2. \nEdukasi adalah kegiatan untuk meningkatkan kapasitas, \nkemampuan, \ndan \nketerampilan \nmasyarakat \nguna \nmengembangkan potensi diri. \n3. \nPemberdayaan \nMasyarakat \nadalah \nkegiatan \nuntuk \nmewujudkan \nkemandirian \ndan \nketerbukaan \nakses \nmasyarakat terhadap sumber daya guna meningkatkan \nkualitas hidup. \n4. \nPemberdayaan \nLingkungan \nadalah \nkegiatan \nuntuk \nmelindungi dan melestarikan lingkungan hidup dalam \nrangka mendukung kualitas hidup masyarakat secara \nberkelanjutan. \n5. \nPenerima EPML adalah lembaga, organisasi, atau kelompok \nyang memenuhi persyaratan dan ditetapkan oleh Bank \nIndonesia untuk menerima EPML. \n6. \nKemitraan adalah koordinasi dan sinergi dengan pihak \neksternal dalam penyelenggaraan EPML didasarkan pada \nkerja sama. \n7. \nMitra Pelaksana adalah pihak eksternal yang bekerja sama \ndengan Bank Indonesia dalam penyelenggaraan EPML. \n8. \nBarang adalah benda, baik berwujud maupun tidak \nberwujud atau bergerak maupun tidak bergerak. \n9. \nJasa adalah layanan dan/atau kegiatan yang terdiri atas \npelatihan, sertifikasi, dukungan penyelenggaraan acara, \ndan jasa lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini bertujuan untuk \nmemberikan landasan hukum dan pedoman penyelenggaraan \nEPML. \n \nBAB II \nKERANGKA KERJA EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini bertujuan untuk \nmemberikan landasan hukum dan pedoman penyelenggaraan \nEPML. \n \nBAB II \nKERANGKA KERJA EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA EPML",
+      "teks_lengkap": "Objek pengaturan sebagaimana diatur dalam Peraturan Anggota \nDewan Gubernur ini yaitu penyelenggaraan EPML.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Objek pengaturan sebagaimana diatur dalam Peraturan Anggota \nDewan Gubernur ini yaitu penyelenggaraan EPML."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA EPML",
+      "teks_lengkap": "Ruang lingkup pengaturan EPML meliputi:  \na. \ncakupan, bentuk, dan penerima; \nb. \ntahapan; \nc. \nperencanaan; \n\n\n \nd. \npelaksanaan; \ne. \npemantauan dan evaluasi;  \nf. \nkoordinasi dan sinergi; dan \ng. \ntransparansi dan komunikasi publik. \n \nBAB III \nCAKUPAN, BENTUK, DAN PENERIMA EPML \n \nBagian Kesatu \nCakupan EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup pengaturan EPML meliputi:  \na. \ncakupan, bentuk, dan penerima; \nb. \ntahapan; \nc. \nperencanaan; \n\n\n \nd. \npelaksanaan; \ne. \npemantauan dan evaluasi;  \nf. \nkoordinasi dan sinergi; dan \ng. \ntransparansi dan komunikasi publik. \n \nBAB III \nCAKUPAN, BENTUK, DAN PENERIMA EPML \n \nBagian Kesatu \nCakupan EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "CAKUPAN, BENTUK, DAN PENERIMA EPML",
+      "teks_lengkap": "(1) \nCakupan EPML terdiri atas: \na. \nEdukasi, meliputi pendidikan dan kebudayaan; \nb. \nPemberdayaan Masyarakat, meliputi keagamaan, \nkesehatan, dan sosial kemasyarakatan; dan/atau \nc. \nPemberdayaan \nLingkungan, \nmeliputi \nlingkungan \nhidup dan kebencanaan. \n(2) \nPendidikan \ndalam \ncakupan \nEdukasi \nsebagaimana \ndimaksud pada ayat (1) huruf a, paling sedikit mencakup \nkegiatan: \na. \npenguatan kapasitas, wawasan, keterampilan, dan \nkarakter sumber daya manusia; \nb. \npeningkatan kualitas kegiatan belajar mengajar; \nc. \npenguatan kapasitas dan kompetensi tenaga pendidik \ndan kependidikan berbasis komunitas; \nd. \npengembangan pendidikan dan pelatihan vokasi \nuntuk meningkatkan keterampilan dan kesiapan \nkerja; dan/atau \ne. \npenyediaan serta peningkatan kualitas dan akses \nterhadap sarana, prasarana, dan media pembelajaran. \n(3) \nKebudayaan \ndalam \ncakupan \nEdukasi \nsebagaimana \ndimaksud pada ayat (1) huruf a, paling sedikit mencakup \nkegiatan: \na. \npenguatan dan pelestarian nilai, tradisi, kearifan lokal, \ndan tradisi budaya; \nb. \npelindungan, pelestarian, dan peningkatan kualitas \ncagar budaya berbasis komunitas; \nc. \npenguatan kapasitas, kompetensi, dan keterampilan \nsumber daya manusia di bidang kebudayaan, seni \nkreatif dan terapan, serta seni pertunjukan; \nd. \npenyediaan serta peningkatan kualitas dan akses \nterhadap sarana, prasarana, ruang kreasi, serta \nperalatan pendukung kegiatan kebudayaan; dan/atau \ne. \npenguatan \npenyelenggaraan \nkegiatan \nbudaya, \npertunjukan, pameran karya kreatif, dan partisipasi \nmasyarakat. \n(4) \nKeagamaan dalam cakupan Pemberdayaan Masyarakat \nsebagaimana dimaksud pada ayat (1) huruf b, paling sedikit \nmencakup kegiatan: \na. \npenguatan nilai dan toleransi beragama dalam \nkehidupan bermasyarakat; \n\n\n \nb. \npeningkatan kualitas dan akses terhadap sarana dan \nprasarana keagamaan; \nc. \npenguatan kapasitas sumber daya manusia pengelola \nsarana keagamaan dan komunitas keagamaan; \nd. \npenguatan kegiatan keagamaan berbasis komunitas; \ndan/atau \ne. \npenguatan \nkerukunan, \ninteraksi \npositif, \ndan \nkebersamaan antarumat beragama. \n(5) \nKesehatan dalam cakupan Pemberdayaan Masyarakat \nsebagaimana dimaksud pada (1) huruf b, paling sedikit \nmencakup kegiatan: \na. \ndukungan peningkatan kualitas layanan kesehatan \nmasyarakat yang bersifat promotif, preventif, dan \nkuratif; \nb. \npenyediaan dan peningkatan kualitas dan akses \nterhadap sarana dan prasarana kesehatan; \nc. \npenguatan \nkapasitas \ndan \nkompetensi \ntenaga \nkesehatan masyarakat berbasis komunitas; \nd. \npenguatan \nkesadaran, \nliterasi, \ndan \npartisipasi \nmasyarakat dalam penerapan pola hidup sehat, \ntermasuk kegiatan olahraga; dan/atau \ne. \npenyediaan serta peningkatan kualitas sanitasi dan \nfasilitas air bersih untuk mendukung kesehatan \nmasyarakat. \n(6) \nSosial kemasyarakatan dalam cakupan Pemberdayaan \nMasyarakat sebagaimana dimaksud pada ayat (1) huruf b, \npaling sedikit mencakup kegiatan: \na. \npenguatan fungsi dan ketahanan sosial masyarakat; \nb. \npenyediaan serta peningkatan kualitas dan akses \nterhadap \nsarana \ndan \nprasarana \nsosial \nkemasyarakatan; \nc. \npeningkatan \nkualitas \npelayanan \nsosial \nberbasis \nkomunitas kepada masyarakat; \nd. \npenguatan kapasitas kelembagaan dan tata kelola \norganisasi atau kelompok sosial kemasyarakatan; \ndan/atau \ne. \npenguatan partisipasi, solidaritas, gotong royong, dan \nkohesi sosial masyarakat berbasis komunitas. \n(7) \nLingkungan \nhidup \ndalam \ncakupan \nPemberdayaan \nLingkungan sebagaimana dimaksud pada ayat (1) huruf c, \npaling sedikit mencakup kegiatan: \na. \npelestarian ekosistem dan keanekaragaman hayati; \nb. \npeningkatan dan pemulihan kualitas lingkungan \nhidup; \nc. \npenguatan partisipasi masyarakat dalam pengelolaan \nlingkungan hidup; \nd. \npeningkatan pengetahuan, literasi, dan kesadaran \nmasyarakat mengenai pelestarian lingkungan hidup; \ndan/atau \ne. \npenyediaan serta pengembangan sarana pemanfaatan \nenergi terbarukan oleh masyarakat atau komunitas \nuntuk mendukung keberlanjutan lingkungan. \n\n\n \n(8) \nKebencanaan dalam cakupan Pemberdayaan Lingkungan \nsebagaimana dimaksud pada ayat (1) huruf c, paling sedikit \nmencakup kegiatan: \na. \npemenuhan kebutuhan dasar masyarakat terdampak \nbencana; \nb. \npenyediaan sarana dan prasarana untuk mendukung \nevakuasi, \npenyelamatan, \ndan \npenanganan \nkedaruratan bencana; \nc. \npemulihan kondisi fisik dan sarana prasarana \npascabencana; \nd. \npemulihan kondisi sosial dan psikologis masyarakat \npascabencana; dan/atau \ne. \npemulihan \nfungsi \npelayanan \nmasyarakat \npascabencana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Cakupan EPML terdiri atas: \na. \nEdukasi, meliputi pendidikan dan kebudayaan; \nb. \nPemberdayaan Masyarakat, meliputi keagamaan, \nkesehatan, dan sosial kemasyarakatan; dan/atau \nc. \nPemberdayaan \nLingkungan, \nmeliputi \nlingkungan \nhidup dan kebencanaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pendidikan \ndalam \ncakupan \nEdukasi \nsebagaimana \ndimaksud pada ayat (1) huruf a, paling sedikit mencakup \nkegiatan: \na. \npenguatan kapasitas, wawasan, keterampilan, dan \nkarakter sumber daya manusia; \nb. \npeningkatan kualitas kegiatan belajar mengajar; \nc. \npenguatan kapasitas dan kompetensi tenaga pendidik \ndan kependidikan berbasis komunitas; \nd. \npengembangan pendidikan dan pelatihan vokasi \nuntuk meningkatkan keterampilan dan kesiapan \nkerja; dan/atau \ne. \npenyediaan serta peningkatan kualitas dan akses \nterhadap sarana, prasarana, dan media pembelajaran."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kebudayaan \ndalam \ncakupan \nEdukasi \nsebagaimana \ndimaksud pada ayat (1) huruf a, paling sedikit mencakup \nkegiatan: \na. \npenguatan dan pelestarian nilai, tradisi, kearifan lokal, \ndan tradisi budaya; \nb. \npelindungan, pelestarian, dan peningkatan kualitas \ncagar budaya berbasis komunitas; \nc. \npenguatan kapasitas, kompetensi, dan keterampilan \nsumber daya manusia di bidang kebudayaan, seni \nkreatif dan terapan, serta seni pertunjukan; \nd. \npenyediaan serta peningkatan kualitas dan akses \nterhadap sarana, prasarana, ruang kreasi, serta \nperalatan pendukung kegiatan kebudayaan; dan/atau \ne. \npenguatan \npenyelenggaraan \nkegiatan \nbudaya, \npertunjukan, pameran karya kreatif, dan partisipasi \nmasyarakat."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Keagamaan dalam cakupan Pemberdayaan Masyarakat \nsebagaimana dimaksud pada ayat (1) huruf b, paling sedikit \nmencakup kegiatan: \na. \npenguatan nilai dan toleransi beragama dalam \nkehidupan bermasyarakat; \n\n\n \nb. \npeningkatan kualitas dan akses terhadap sarana dan \nprasarana keagamaan; \nc. \npenguatan kapasitas sumber daya manusia pengelola \nsarana keagamaan dan komunitas keagamaan; \nd. \npenguatan kegiatan keagamaan berbasis komunitas; \ndan/atau \ne. \npenguatan \nkerukunan, \ninteraksi \npositif, \ndan \nkebersamaan antarumat beragama."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kesehatan dalam cakupan Pemberdayaan Masyarakat \nsebagaimana dimaksud pada (1) huruf b, paling sedikit \nmencakup kegiatan: \na. \ndukungan peningkatan kualitas layanan kesehatan \nmasyarakat yang bersifat promotif, preventif, dan \nkuratif; \nb. \npenyediaan dan peningkatan kualitas dan akses \nterhadap sarana dan prasarana kesehatan; \nc. \npenguatan \nkapasitas \ndan \nkompetensi \ntenaga \nkesehatan masyarakat berbasis komunitas; \nd. \npenguatan \nkesadaran, \nliterasi, \ndan \npartisipasi \nmasyarakat dalam penerapan pola hidup sehat, \ntermasuk kegiatan olahraga; dan/atau \ne. \npenyediaan serta peningkatan kualitas sanitasi dan \nfasilitas air bersih untuk mendukung kesehatan \nmasyarakat."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Sosial kemasyarakatan dalam cakupan Pemberdayaan \nMasyarakat sebagaimana dimaksud pada ayat (1) huruf b, \npaling sedikit mencakup kegiatan: \na. \npenguatan fungsi dan ketahanan sosial masyarakat; \nb. \npenyediaan serta peningkatan kualitas dan akses \nterhadap \nsarana \ndan \nprasarana \nsosial \nkemasyarakatan; \nc. \npeningkatan \nkualitas \npelayanan \nsosial \nberbasis \nkomunitas kepada masyarakat; \nd. \npenguatan kapasitas kelembagaan dan tata kelola \norganisasi atau kelompok sosial kemasyarakatan; \ndan/atau \ne. \npenguatan partisipasi, solidaritas, gotong royong, dan \nkohesi sosial masyarakat berbasis komunitas."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Lingkungan \nhidup \ndalam \ncakupan \nPemberdayaan \nLingkungan sebagaimana dimaksud pada ayat (1) huruf c, \npaling sedikit mencakup kegiatan: \na. \npelestarian ekosistem dan keanekaragaman hayati; \nb. \npeningkatan dan pemulihan kualitas lingkungan \nhidup; \nc. \npenguatan partisipasi masyarakat dalam pengelolaan \nlingkungan hidup; \nd. \npeningkatan pengetahuan, literasi, dan kesadaran \nmasyarakat mengenai pelestarian lingkungan hidup; \ndan/atau \ne. \npenyediaan serta pengembangan sarana pemanfaatan \nenergi terbarukan oleh masyarakat atau komunitas \nuntuk mendukung keberlanjutan lingkungan."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Kebencanaan dalam cakupan Pemberdayaan Lingkungan \nsebagaimana dimaksud pada ayat (1) huruf c, paling sedikit \nmencakup kegiatan: \na. \npemenuhan kebutuhan dasar masyarakat terdampak \nbencana; \nb. \npenyediaan sarana dan prasarana untuk mendukung \nevakuasi, \npenyelamatan, \ndan \npenanganan \nkedaruratan bencana; \nc. \npemulihan kondisi fisik dan sarana prasarana \npascabencana; \nd. \npemulihan kondisi sosial dan psikologis masyarakat \npascabencana; dan/atau \ne. \npemulihan \nfungsi \npelayanan \nmasyarakat \npascabencana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "CAKUPAN, BENTUK, DAN PENERIMA EPML",
+      "teks_lengkap": "Bank Indonesia memiliki kewenangan untuk menetapkan \nprioritas \ncakupan \npenyelenggaraan \nEPML \nsebagaimana \ndimaksud dalam Pasal 5 dengan mempertimbangkan: \na. \narah dan kebijakan Bank Indonesia; \nb. \ntujuan dan sasaran EPML; dan/atau \nc. \nkebutuhan masyarakat dan lingkungan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia memiliki kewenangan untuk menetapkan \nprioritas \ncakupan \npenyelenggaraan \nEPML \nsebagaimana \ndimaksud dalam Pasal 5 dengan mempertimbangkan: \na. \narah dan kebijakan Bank Indonesia; \nb. \ntujuan dan sasaran EPML; dan/atau \nc. \nkebutuhan masyarakat dan lingkungan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "CAKUPAN, BENTUK, DAN PENERIMA EPML",
+      "teks_lengkap": "(1) \nCakupan wilayah EPML diselenggarakan: \na. \ndi \ndalam \nwilayah \nNegara \nKesatuan \nRepublik \nIndonesia; dan/atau  \nb. \ndi luar wilayah Negara Kesatuan Republik Indonesia. \n(2) \nCakupan wilayah EPML di luar wilayah Negara Kesatuan \nRepublik Indonesia sebagaimana dimaksud pada ayat (1) \nhuruf b diselenggarakan untuk kepentingan Negara \nKesatuan Republik Indonesia, warga negara Indonesia, \ndan/atau kemanusiaan. \n \nBagian Kedua \nBentuk EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Cakupan wilayah EPML diselenggarakan: \na. \ndi \ndalam \nwilayah \nNegara \nKesatuan \nRepublik \nIndonesia; dan/atau  \nb. \ndi luar wilayah Negara Kesatuan Republik Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Cakupan wilayah EPML di luar wilayah Negara Kesatuan \nRepublik Indonesia sebagaimana dimaksud pada ayat (1) \nhuruf b diselenggarakan untuk kepentingan Negara \nKesatuan Republik Indonesia, warga negara Indonesia, \ndan/atau kemanusiaan. \n \nBagian Kedua \nBentuk EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "CAKUPAN, BENTUK, DAN PENERIMA EPML",
+      "teks_lengkap": "(1) \nEPML diberikan dalam bentuk Barang dan/atau Jasa. \n(2) \nBarang sebagaimana dimaksud pada ayat (1) dapat berupa: \na. \nsarana \ndan \nprasarana \npendukung \nkualitas \npendidikan; \nb. \nsarana dan prasarana pendukung kualitas kesenian \ndan kebudayaan; \nc. \nsarana \ndan \nprasarana \npendukung \nkegiatan \nkeagamaan; \nd. \nsarana \ndan \nprasarana \npendukung \nkualitas \nkesehatan; \ne. \nsarana \ndan \nprasarana \npenunjang \nsosial \nkemasyarakatan; \nf. \nsarana dan prasarana pendukung pelestarian dan \npeningkatan kualitas lingkungan hidup; dan/atau \n\n\n \ng. \nsarana, \nprasarana, \nlogistik, \ndan \nperalatan \nkedaruratan penanggulangan bencana dan peralatan \npemulihan pascabencana. \n(3) \nJasa sebagaimana dimaksud pada ayat (1) dapat berupa: \na. \npelatihan, bimbingan teknis, sertifikasi, sosialisasi, \ndan \nedukasi \nuntuk \npeningkatan \nkapasitas, \nkemampuan, dan keterampilan masyarakat; \n \nb. \ndukungan penyelenggaraan acara; dan/atau \nc. \nJasa lainnya.  \n \nBagian Ketiga \nPenerima EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "EPML diberikan dalam bentuk Barang dan/atau Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Barang sebagaimana dimaksud pada ayat (1) dapat berupa: \na. \nsarana \ndan \nprasarana \npendukung \nkualitas \npendidikan; \nb. \nsarana dan prasarana pendukung kualitas kesenian \ndan kebudayaan; \nc. \nsarana \ndan \nprasarana \npendukung \nkegiatan \nkeagamaan; \nd. \nsarana \ndan \nprasarana \npendukung \nkualitas \nkesehatan; \ne. \nsarana \ndan \nprasarana \npenunjang \nsosial \nkemasyarakatan; \nf. \nsarana dan prasarana pendukung pelestarian dan \npeningkatan kualitas lingkungan hidup; dan/atau \n\n\n \ng. \nsarana, \nprasarana, \nlogistik, \ndan \nperalatan \nkedaruratan penanggulangan bencana dan peralatan \npemulihan pascabencana."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jasa sebagaimana dimaksud pada ayat (1) dapat berupa: \na. \npelatihan, bimbingan teknis, sertifikasi, sosialisasi, \ndan \nedukasi \nuntuk \npeningkatan \nkapasitas, \nkemampuan, dan keterampilan masyarakat; \n \nb. \ndukungan penyelenggaraan acara; dan/atau \nc. \nJasa lainnya.  \n \nBagian Ketiga \nPenerima EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "CAKUPAN, BENTUK, DAN PENERIMA EPML",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan EPML kepada Penerima EPML \nyang memenuhi persyaratan paling sedikit meliputi:  \na. \nbersifat nirlaba; dan  \nb. \nmemiliki identitas dan kepengurusan sesuai dengan \nketentuan peraturan perundang-undangan. \n(2) \nPenerima EPML sebagaimana dimaksud pada ayat (1) \nharus memiliki dokumen berupa: \na. \npengesahan pendirian badan hukum; \nb. \nakta notaris; \nc. \nizin operasional; atau  \nd. \ndokumen \nsejenis \ndari \npihak \nyang \nmemiliki \nkewenangan di wilayah Republik Indonesia. \n(3) \nDalam hal Penerima EPML tidak memiliki dokumen \nsebagaimana dimaksud pada ayat (2), paling sedikit harus \nmemiliki: \na. \nsurat keterangan domisili dari perangkat desa atau \nkelurahan setempat; dan  \nb. \nsurat pernyataan tidak berorientasi pada keuntungan. \n(4) \nDalam hal Penerima EPML berkedudukan di luar wilayah \nNegara \nKesatuan \nRepublik \nIndonesia, \ndokumen \nsebagaimana dimaksud pada ayat (2) dapat berupa \ndokumen yang diterbitkan oleh otoritas berwenang atau \npihak yang memiliki kewenangan berdasarkan ketentuan \nyang berlaku di negara Penerima EPML berkedudukan. \n(5) \nBank Indonesia dapat meminta dokumen dan/atau \ninformasi yang diperlukan untuk memastikan pemenuhan \npersyaratan Penerima EPML. \n(6) \nPenerima EPML dapat menerima EPML paling banyak                   \n2 (dua) kali dalam 1 (satu) tahun.  \n \nBAB IV \nTAHAPAN EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan EPML kepada Penerima EPML \nyang memenuhi persyaratan paling sedikit meliputi:  \na. \nbersifat nirlaba; dan  \nb. \nmemiliki identitas dan kepengurusan sesuai dengan \nketentuan peraturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerima EPML sebagaimana dimaksud pada ayat (1) \nharus memiliki dokumen berupa: \na. \npengesahan pendirian badan hukum; \nb. \nakta notaris; \nc. \nizin operasional; atau  \nd. \ndokumen \nsejenis \ndari \npihak \nyang \nmemiliki \nkewenangan di wilayah Republik Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Penerima EPML tidak memiliki dokumen \nsebagaimana dimaksud pada ayat (2), paling sedikit harus \nmemiliki: \na. \nsurat keterangan domisili dari perangkat desa atau \nkelurahan setempat; dan  \nb. \nsurat pernyataan tidak berorientasi pada keuntungan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Penerima EPML berkedudukan di luar wilayah \nNegara \nKesatuan \nRepublik \nIndonesia, \ndokumen \nsebagaimana dimaksud pada ayat (2) dapat berupa \ndokumen yang diterbitkan oleh otoritas berwenang atau \npihak yang memiliki kewenangan berdasarkan ketentuan \nyang berlaku di negara Penerima EPML berkedudukan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia dapat meminta dokumen dan/atau \ninformasi yang diperlukan untuk memastikan pemenuhan \npersyaratan Penerima EPML."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penerima EPML dapat menerima EPML paling banyak                   \n2 (dua) kali dalam 1 (satu) tahun.  \n \nBAB IV \nTAHAPAN EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TAHAPAN EPML",
+      "teks_lengkap": "(1) \nTahapan EPML meliputi:  \na. \nperencanaan;  \nb. \npelaksanaan; dan  \nc. \npemantauan dan evaluasi. \n\n\n \n(2) \nTahapan EPML sebagaimana dimaksud pada ayat (1) dapat \ndilakukan oleh Bank Indonesia melalui Kemitraan dengan \nMitra Pelaksana. \n(3) \nKemitraan sebagaimana dimaksud pada ayat (2) dilakukan \ndalam hal Bank Indonesia: \na. \nmembutuhkan \nasistensi \nkeahlian \nkhusus \nyang \ndiperlukan untuk menyelenggarakan kegiatan; \nb. \nmenyelenggarakan kegiatan EPML yang memiliki skala \nbesar; \nc. \nmeningkatkan optimalisasi nilai guna; dan/atau \nd. \nmemperluas manfaat EPML. \n(4) \nKemitraan sebagaimana dimaksud pada ayat (2) dilakukan \nantara Bank Indonesia dengan: \na. \nkementerian/lembaga negara;  \nb. \npemerintah daerah;  \nc. \nbadan yang secara hukum merupakan bagian dari \npemerintahan Negara Kesatuan Republik Indonesia; \nd. \nbadan usaha milik negara;  \ne. \nbadan usaha milik daerah; dan/atau  \nf. \nbadan hukum yang memiliki kegiatan di bidang sosial, \nkemanusiaan, dan/atau lingkungan. \n \nBAB V \nPERENCANAAN EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Tahapan EPML meliputi:  \na. \nperencanaan;  \nb. \npelaksanaan; dan  \nc. \npemantauan dan evaluasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tahapan EPML sebagaimana dimaksud pada ayat (1) dapat \ndilakukan oleh Bank Indonesia melalui Kemitraan dengan \nMitra Pelaksana."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kemitraan sebagaimana dimaksud pada ayat (2) dilakukan \ndalam hal Bank Indonesia: \na. \nmembutuhkan \nasistensi \nkeahlian \nkhusus \nyang \ndiperlukan untuk menyelenggarakan kegiatan; \nb. \nmenyelenggarakan kegiatan EPML yang memiliki skala \nbesar; \nc. \nmeningkatkan optimalisasi nilai guna; dan/atau \nd. \nmemperluas manfaat EPML."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kemitraan sebagaimana dimaksud pada ayat (2) dilakukan \nantara Bank Indonesia dengan: \na. \nkementerian/lembaga negara;  \nb. \npemerintah daerah;  \nc. \nbadan yang secara hukum merupakan bagian dari \npemerintahan Negara Kesatuan Republik Indonesia; \nd. \nbadan usaha milik negara;  \ne. \nbadan usaha milik daerah; dan/atau  \nf. \nbadan hukum yang memiliki kegiatan di bidang sosial, \nkemanusiaan, dan/atau lingkungan. \n \nBAB V \nPERENCANAAN EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PERENCANAAN EPML",
+      "teks_lengkap": "(1) \nBank Indonesia menyusun perencanaan EPML setiap \ntahun sebagai pedoman pelaksanaan EPML. \n(2) \nDalam rangka menyusun perencanaan EPML sebagaimana \ndimaksud pada ayat (1), Bank Indonesia dapat melakukan \nkoordinasi dengan pihak terkait. \n(3) \nPerencanaan EPML sebagaimana dimaksud pada ayat (1) \ndisetujui oleh Dewan Gubernur. \n \nBAB VI \nPELAKSANAAN EPML \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menyusun perencanaan EPML setiap \ntahun sebagai pedoman pelaksanaan EPML."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka menyusun perencanaan EPML sebagaimana \ndimaksud pada ayat (1), Bank Indonesia dapat melakukan \nkoordinasi dengan pihak terkait."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perencanaan EPML sebagaimana dimaksud pada ayat (1) \ndisetujui oleh Dewan Gubernur. \n \nBAB VI \nPELAKSANAAN EPML \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAKSANAAN EPML",
+      "teks_lengkap": "(1) \nPelaksanaan EPML dilakukan oleh Bank Indonesia di \nkantor pusat dan/atau di kantor perwakilan Bank \nIndonesia dalam negeri. \n(2) \nPelaksanaan EPML sebagaimana dimaksud pada ayat (1) \ndilakukan atas: \na. \ninisiatif Bank Indonesia; dan/atau \nb. \npengajuan \noleh \npihak \neksternal \nsebagaimana \ndimaksud dalam Pasal 9 ayat (1). \n(3) \nDalam pelaksanaan EPML sebagaimana dimaksud pada \nayat (1), Bank Indonesia memiliki kewenangan untuk \nmenentukan bentuk, nilai, dan Penerima EPML. \n\n\n \n(4) \nDalam pelaksanaan EPML sebagaimana dimaksud pada \nayat (2), Bank Indonesia dapat melakukan Kemitraan \ndengan Mitra Pelaksana. \n(5) \nPelaksanaan \nEPML \nmelalui \nKemitraan \nsebagaimana \ndimaksud pada ayat (4) diberikan kepada: \na. \nPenerima EPML sebagaimana dimaksud pada Pasal 9 \nayat (1); dan/atau \nb. \nmasyarakat. \n \n \n \n \n \n \nBagian Kedua \nPelaksanaan EPML atas Inisiatif Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan EPML dilakukan oleh Bank Indonesia di \nkantor pusat dan/atau di kantor perwakilan Bank \nIndonesia dalam negeri."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan EPML sebagaimana dimaksud pada ayat (1) \ndilakukan atas: \na. \ninisiatif Bank Indonesia; dan/atau \nb. \npengajuan \noleh \npihak \neksternal \nsebagaimana \ndimaksud dalam Pasal 9 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam pelaksanaan EPML sebagaimana dimaksud pada \nayat (1), Bank Indonesia memiliki kewenangan untuk \nmenentukan bentuk, nilai, dan Penerima EPML."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam pelaksanaan EPML sebagaimana dimaksud pada \nayat (2), Bank Indonesia dapat melakukan Kemitraan \ndengan Mitra Pelaksana."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pelaksanaan \nEPML \nmelalui \nKemitraan \nsebagaimana \ndimaksud pada ayat (4) diberikan kepada: \na. \nPenerima EPML sebagaimana dimaksud pada Pasal 9 \nayat (1); dan/atau \nb. \nmasyarakat. \n \n \n \n \n \n \nBagian Kedua \nPelaksanaan EPML atas Inisiatif Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAKSANAAN EPML",
+      "teks_lengkap": "(1) \nPelaksanaan \nEPML \natas \ninisiatif \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 12 ayat (2) huruf a \ndilakukan dengan mempertimbangkan: \na. \narah dan kebijakan Bank Indonesia; \nb. \ntujuan dan sasaran EPML; dan/atau \nc. \nkebutuhan masyarakat dan lingkungan. \n(2) \nDalam pelaksanaan EPML atas inisiatif Bank Indonesia \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \ndapat berkoordinasi dengan pihak eksternal. \n(3) \nBank Indonesia dapat meminta dokumen dan/atau \ninformasi yang diperlukan kepada pihak eksternal untuk \nmendukung pelaksanaan EPML. \n \nBagian Ketiga \nPelaksanaan EPML atas Pengajuan oleh Pihak Eksternal",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan \nEPML \natas \ninisiatif \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 12 ayat (2) huruf a \ndilakukan dengan mempertimbangkan: \na. \narah dan kebijakan Bank Indonesia; \nb. \ntujuan dan sasaran EPML; dan/atau \nc. \nkebutuhan masyarakat dan lingkungan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam pelaksanaan EPML atas inisiatif Bank Indonesia \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \ndapat berkoordinasi dengan pihak eksternal."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia dapat meminta dokumen dan/atau \ninformasi yang diperlukan kepada pihak eksternal untuk \nmendukung pelaksanaan EPML. \n \nBagian Ketiga \nPelaksanaan EPML atas Pengajuan oleh Pihak Eksternal"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAKSANAAN EPML",
+      "teks_lengkap": "(1) \nPihak eksternal dapat mengajukan permohonan EPML \nkepada Bank Indonesia. \n(2) \nPengajuan permohonan EPML oleh pihak eksternal \nsebagaimana dimaksud pada ayat (1), disampaikan dalam \nbentuk proposal yang disertai dengan surat permohonan. \n(3) \nProposal EPML sebagaimana dimaksud pada ayat (2) paling \nsedikit memuat: \na. \nidentitas pihak yang mengajukan; \nb. \ndeskripsi program atau kegiatan yang diajukan sesuai \ndengan cakupan EPML; \nc. \ntujuan dan manfaat program bagi Penerima EPML; \nd. \nmasyarakat yang menerima manfaat EPML secara \nlangsung; \ne. \nlokasi penyerahan; \nf. \nBarang dan/atau Jasa yang diajukan; \ng. \nrincian perkiraan biaya; dan \nh. \ninformasi lain yang diperlukan untuk mendukung \npengajuan. \n\n\n \n(4) \nProposal pengajuan EPML sebagaimana dimaksud pada \nayat (3) dilengkapi dengan dokumen pendukung. \n(5) \nPihak eksternal bertanggung jawab atas kebenaran dan \nkelengkapan data dan/atau informasi, dan keabsahan \ndokumen yang disampaikan dalam proposal EPML. \n(6) \nPengajuan proposal sebagaimana dimaksud pada ayat (2) \ndisampaikan kepada: \na. \nBank Indonesia cq. Departemen Komunikasi  \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350; atau \nb. \nBank Indonesia cq. Kantor Perwakilan Bank Indonesia \nDalam Negeri sesuai dengan cakupan wilayah EPML \ndengan alamat sebagaimana tercantum dalam laman \nresmi Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak eksternal dapat mengajukan permohonan EPML \nkepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan permohonan EPML oleh pihak eksternal \nsebagaimana dimaksud pada ayat (1), disampaikan dalam \nbentuk proposal yang disertai dengan surat permohonan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Proposal EPML sebagaimana dimaksud pada ayat (2) paling \nsedikit memuat: \na. \nidentitas pihak yang mengajukan; \nb. \ndeskripsi program atau kegiatan yang diajukan sesuai \ndengan cakupan EPML; \nc. \ntujuan dan manfaat program bagi Penerima EPML; \nd. \nmasyarakat yang menerima manfaat EPML secara \nlangsung; \ne. \nlokasi penyerahan; \nf. \nBarang dan/atau Jasa yang diajukan; \ng. \nrincian perkiraan biaya; dan \nh. \ninformasi lain yang diperlukan untuk mendukung \npengajuan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Proposal pengajuan EPML sebagaimana dimaksud pada \nayat (3) dilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pihak eksternal bertanggung jawab atas kebenaran dan \nkelengkapan data dan/atau informasi, dan keabsahan \ndokumen yang disampaikan dalam proposal EPML."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Pengajuan proposal sebagaimana dimaksud pada ayat (2) \ndisampaikan kepada: \na. \nBank Indonesia cq. Departemen Komunikasi  \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350; atau \nb. \nBank Indonesia cq. Kantor Perwakilan Bank Indonesia \nDalam Negeri sesuai dengan cakupan wilayah EPML \ndengan alamat sebagaimana tercantum dalam laman \nresmi Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAKSANAAN EPML",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmelakukan \nverifikasi \nterhadap \nkelengkapan proposal EPML. \n(2) \nVerifikasi sebagaimana dimaksud pada ayat (1) paling \nsedikit dilakukan terhadap: \na. \nsurat permohonan pengajuan proposal EPML; \nb. \nkesesuaian muatan proposal EPML sebagaimana \ndimaksud dalam Pasal 14 ayat (3); \nc. \npersyaratan calon Penerima EPML; dan \nd. \nlokasi kegiatan sesuai dengan cakupan wilayah EPML.  \n(3) \nDalam melakukan verifikasi sebagaimana dimaksud pada \nayat (2), Bank Indonesia dapat meminta klarifikasi, \nperbaikan, dan/atau kelengkapan dokumen kepada pihak \neksternal yang mengajukan proposal EPML. \n(4) \nBerdasarkan hasil verifikasi sebagaimana dimaksud pada \nayat (1), Bank Indonesia menetapkan keputusan atas \nproposal EPML sesuai dengan ketentuan Bank Indonesia. \n \nBagian Keempat \nPelaksanaan EPML melalui Kemitraan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmelakukan \nverifikasi \nterhadap \nkelengkapan proposal EPML."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Verifikasi sebagaimana dimaksud pada ayat (1) paling \nsedikit dilakukan terhadap: \na. \nsurat permohonan pengajuan proposal EPML; \nb. \nkesesuaian muatan proposal EPML sebagaimana \ndimaksud dalam Pasal 14 ayat (3); \nc. \npersyaratan calon Penerima EPML; dan \nd. \nlokasi kegiatan sesuai dengan cakupan wilayah EPML."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam melakukan verifikasi sebagaimana dimaksud pada \nayat (2), Bank Indonesia dapat meminta klarifikasi, \nperbaikan, dan/atau kelengkapan dokumen kepada pihak \neksternal yang mengajukan proposal EPML."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Berdasarkan hasil verifikasi sebagaimana dimaksud pada \nayat (1), Bank Indonesia menetapkan keputusan atas \nproposal EPML sesuai dengan ketentuan Bank Indonesia. \n \nBagian Keempat \nPelaksanaan EPML melalui Kemitraan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAKSANAAN EPML",
+      "teks_lengkap": "(1) \nPelaksanaan EPML melalui Kemitraan dapat dilakukan \natas: \na. \ninisiatif Bank Indonesia; atau \nb. \npengajuan oleh calon Mitra Pelaksana. \n(2) \nPengajuan EPML oleh calon Mitra Pelaksana sebagaimana \ndimaksud pada ayat (1) huruf b disampaikan dalam \nbentuk proposal Kemitraan EPML yang disertai dengan \nsurat permohonan. \n(3) \nProposal Kemitraan EPML sebagaimana dimaksud pada \nayat (2) paling sedikit memuat: \na. \nidentitas pihak yang mengajukan; \nb. \ndeskripsi program atau kegiatan yang diusulkan \nsesuai dengan cakupan EPML; \nc. \ntujuan dan manfaat program bagi masyarakat; \nd. \nmasyarakat yang menerima manfaat EPML secara \nlangsung; \n\n\n \ne. \nlokasi penyerahan; \nf. \nBarang dan/atau Jasa yang diajukan; \ng. \nrincian perkiraan biaya;  \nh. \nusulan kontribusi dan peran masing-masing pihak; \ndan \ni. \ninformasi lain yang diperlukan untuk mendukung \npengajuan. \n(4) \nPengajuan \nproposal \nKemitraan \nEPML \nsebagaimana \ndimaksud pada ayat (2) disampaikan kepada: \na. \nBank Indonesia cq. Departemen Komunikasi  \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350; atau \nb. \nBank Indonesia cq. Kantor Perwakilan Bank Indonesia \nDalam Negeri sesuai dengan cakupan wilayah EPML \ndengan alamat sebagaimana tercantum dalam laman \nresmi Bank Indonesia. \n(5) \nCalon Mitra Pelaksana bertanggung jawab atas kebenaran \ndan kelengkapan data dan/atau informasi, dan keabsahan \ndokumen yang disampaikan dalam proposal Kemitraan \nEPML. \n \nBAB VII \nPEMANTAUAN DAN EVALUASI EPML",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan EPML melalui Kemitraan dapat dilakukan \natas: \na. \ninisiatif Bank Indonesia; atau \nb. \npengajuan oleh calon Mitra Pelaksana."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan EPML oleh calon Mitra Pelaksana sebagaimana \ndimaksud pada ayat (1) huruf b disampaikan dalam \nbentuk proposal Kemitraan EPML yang disertai dengan \nsurat permohonan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Proposal Kemitraan EPML sebagaimana dimaksud pada \nayat (2) paling sedikit memuat: \na. \nidentitas pihak yang mengajukan; \nb. \ndeskripsi program atau kegiatan yang diusulkan \nsesuai dengan cakupan EPML; \nc. \ntujuan dan manfaat program bagi masyarakat; \nd. \nmasyarakat yang menerima manfaat EPML secara \nlangsung; \n\n\n \ne. \nlokasi penyerahan; \nf. \nBarang dan/atau Jasa yang diajukan; \ng. \nrincian perkiraan biaya;  \nh. \nusulan kontribusi dan peran masing-masing pihak; \ndan \ni. \ninformasi lain yang diperlukan untuk mendukung \npengajuan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengajuan \nproposal \nKemitraan \nEPML \nsebagaimana \ndimaksud pada ayat (2) disampaikan kepada: \na. \nBank Indonesia cq. Departemen Komunikasi  \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350; atau \nb. \nBank Indonesia cq. Kantor Perwakilan Bank Indonesia \nDalam Negeri sesuai dengan cakupan wilayah EPML \ndengan alamat sebagaimana tercantum dalam laman \nresmi Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Calon Mitra Pelaksana bertanggung jawab atas kebenaran \ndan kelengkapan data dan/atau informasi, dan keabsahan \ndokumen yang disampaikan dalam proposal Kemitraan \nEPML. \n \nBAB VII \nPEMANTAUAN DAN EVALUASI EPML"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PEMANTAUAN DAN EVALUASI EPML",
+      "teks_lengkap": "(1) \nBank Indonesia melakukan pemantauan pelaksanaan \nEPML. \n(2) \nBank Indonesia melakukan pemantauan melalui: \na. \npenyampaian pertanggungjawaban dari Penerima \nEPML; dan/atau \nb. \npeninjauan hasil pelaksanaan EPML. \n(3) \nDalam \nhal \npelaksanaan \nEPML \ndilakukan \nmelalui \nKemitraan, Bank Indonesia melakukan pemantauan \npelaksanaan EPML dengan Mitra Pelaksana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan pemantauan pelaksanaan \nEPML."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia melakukan pemantauan melalui: \na. \npenyampaian pertanggungjawaban dari Penerima \nEPML; dan/atau \nb. \npeninjauan hasil pelaksanaan EPML."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \npelaksanaan \nEPML \ndilakukan \nmelalui \nKemitraan, Bank Indonesia melakukan pemantauan \npelaksanaan EPML dengan Mitra Pelaksana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PEMANTAUAN DAN EVALUASI EPML",
+      "teks_lengkap": "(1) \nPenyampaian pertanggungjawaban oleh Penerima EPML \nsebagaimana dimaksud dalam Pasal 17 ayat (2) huruf a \nkepada Bank Indonesia, paling kurang berupa: \na. \nsurat pernyataan bahwa EPML yang diterima akan \ndipergunakan sesuai dengan program yang telah \ndisetujui; dan \nb. \nberita acara serah terima Barang dan/atau Jasa. \n(2) \nDalam \nhal \npelaksanaan \nEPML \ndilakukan \nmelalui \nKemitraan, penyampaian pertanggungjawaban dilakukan \noleh Mitra Pelaksana.  \n(3) \nBank Indonesia menyampaikan surat pemberitahuan \nkepada Penerima EPML dan Mitra Pelaksana yang tidak \nmenyampaikan pertanggungjawaban EPML. \n(4) \nPenerima \nEPML \nyang \nbelum \nmenyampaikan \npertanggungjawaban EPML sebagaimana dimaksud pada \nayat (3) tidak dapat menerima EPML sampai dengan \ndipenuhinya penyampaian pertanggungjawaban.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyampaian pertanggungjawaban oleh Penerima EPML \nsebagaimana dimaksud dalam Pasal 17 ayat (2) huruf a \nkepada Bank Indonesia, paling kurang berupa: \na. \nsurat pernyataan bahwa EPML yang diterima akan \ndipergunakan sesuai dengan program yang telah \ndisetujui; dan \nb. \nberita acara serah terima Barang dan/atau Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \npelaksanaan \nEPML \ndilakukan \nmelalui \nKemitraan, penyampaian pertanggungjawaban dilakukan \noleh Mitra Pelaksana."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menyampaikan surat pemberitahuan \nkepada Penerima EPML dan Mitra Pelaksana yang tidak \nmenyampaikan pertanggungjawaban EPML."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penerima \nEPML \nyang \nbelum \nmenyampaikan \npertanggungjawaban EPML sebagaimana dimaksud pada \nayat (3) tidak dapat menerima EPML sampai dengan \ndipenuhinya penyampaian pertanggungjawaban."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PEMANTAUAN DAN EVALUASI EPML",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan peninjauan pelaksanaan \nEPML sebagaimana dimaksud dalam Pasal 17 ayat (2) \nhuruf b, untuk memastikan kesesuaian realisasi EPML \ndengan tujuan dan sasaran EPML. \n(2) \nPeninjauan pelaksanaan EPML sebagaimana dimaksud \npada ayat (1) dilakukan oleh Bank Indonesia dan/atau \nmelalui pihak ketiga yang ditunjuk oleh Bank Indonesia. \n(3) \nDalam \nhal \npelaksanaan \nEPML \ndilakukan \nmelalui \nKemitraan, peninjauan pelaksanaan EPML dilakukan oleh \nBank Indonesia dan/atau Mitra Pelaksana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan peninjauan pelaksanaan \nEPML sebagaimana dimaksud dalam Pasal 17 ayat (2) \nhuruf b, untuk memastikan kesesuaian realisasi EPML \ndengan tujuan dan sasaran EPML."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peninjauan pelaksanaan EPML sebagaimana dimaksud \npada ayat (1) dilakukan oleh Bank Indonesia dan/atau \nmelalui pihak ketiga yang ditunjuk oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \npelaksanaan \nEPML \ndilakukan \nmelalui \nKemitraan, peninjauan pelaksanaan EPML dilakukan oleh \nBank Indonesia dan/atau Mitra Pelaksana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PEMANTAUAN DAN EVALUASI EPML",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmelakukan \nevaluasi \nterhadap \npenyelenggaraan EPML. \n(2) \nEvaluasi sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan mempertimbangkan: \na. \nhasil pemantauan; \nb. \ndata \ndan/atau \ninformasi \nmengenai \nrealisasi \npelaksanaan EPML; dan/atau \nc. \nmasukan dari Penerima EPML, Mitra Pelaksana, \ndan/atau pihak terkait lainnya. \n(3) \nDalam melakukan evaluasi, Bank Indonesia dapat meminta \ndata dan/atau informasi kepada Penerima EPML, Mitra \nPelaksana, dan/atau pihak terkait lainnya. \n \nBAB VIII \nKOORDINASI DAN SINERGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmelakukan \nevaluasi \nterhadap \npenyelenggaraan EPML."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan mempertimbangkan: \na. \nhasil pemantauan; \nb. \ndata \ndan/atau \ninformasi \nmengenai \nrealisasi \npelaksanaan EPML; dan/atau \nc. \nmasukan dari Penerima EPML, Mitra Pelaksana, \ndan/atau pihak terkait lainnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam melakukan evaluasi, Bank Indonesia dapat meminta \ndata dan/atau informasi kepada Penerima EPML, Mitra \nPelaksana, dan/atau pihak terkait lainnya. \n \nBAB VIII \nKOORDINASI DAN SINERGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "(1) \nDalam penyelenggaraan EPML, Bank Indonesia dapat \nmelakukan koordinasi dan sinergi dengan pihak terkait. \n(2) \nKoordinasi dan sinergi sebagaimana dimaksud pada ayat \n(1) dapat dilakukan pada setiap tahapan EPML. \n(3) \nKoordinasi dan sinergi sebagaimana dimaksud pada ayat \n(1) dapat dilakukan dengan kementerian, lembaga, \nperguruan tinggi, pemerintah daerah, dan/atau pihak \nlainnya. \n(4) \nKoordinasi dan sinergi sebagaimana dimaksud pada ayat \n(1) dapat dilakukan antara lain dalam bentuk: \na. \nforum diskusi, konsultasi, dan/atau rapat koordinasi; \nb. \npertukaran data dan/atau informasi; \nc. \npenelitian dan/atau kajian bersama; \nd. \npenyelarasan program dan kegiatan EPML; \ne. \nkomunikasi dan/atau diseminasi informasi bersama; \nf. \nKemitraan dalam penyelenggaraan EPML; dan/atau \ng. \nbentuk \nkoordinasi \ndan \nsinergi \nlainnya \nyang \nmendukung penyelenggaraan EPML. \n \nBAB IX \nTRANSPARANSI DAN KOMUNIKASI PUBLIK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penyelenggaraan EPML, Bank Indonesia dapat \nmelakukan koordinasi dan sinergi dengan pihak terkait."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinasi dan sinergi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dapat dilakukan pada setiap tahapan EPML."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Koordinasi dan sinergi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dapat dilakukan dengan kementerian, lembaga, \nperguruan tinggi, pemerintah daerah, dan/atau pihak \nlainnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Koordinasi dan sinergi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dapat dilakukan antara lain dalam bentuk: \na. \nforum diskusi, konsultasi, dan/atau rapat koordinasi; \nb. \npertukaran data dan/atau informasi; \nc. \npenelitian dan/atau kajian bersama; \nd. \npenyelarasan program dan kegiatan EPML; \ne. \nkomunikasi dan/atau diseminasi informasi bersama; \nf. \nKemitraan dalam penyelenggaraan EPML; dan/atau \ng. \nbentuk \nkoordinasi \ndan \nsinergi \nlainnya \nyang \nmendukung penyelenggaraan EPML. \n \nBAB IX \nTRANSPARANSI DAN KOMUNIKASI PUBLIK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TRANSPARANSI DAN KOMUNIKASI PUBLIK",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmenerapkan \ntransparansi \ndalam \npenyelenggaraan EPML sebagai bentuk akuntabilitas \nkepada publik melalui komunikasi publik. \n(2) \nKomunikasi publik sebagaimana dimaksud pada ayat (1) \ndilakukan melalui sarana komunikasi yang ditetapkan oleh \nBank Indonesia. \n(3) \nDalam pelaksanaan komunikasi publik sebagaimana \ndimaksud \npada \nayat \n(1), \nBank \nIndonesia \ndapat \nmengikutsertakan \nPenerima \nEPML \ndan/atau \nMitra \nPelaksana. \n(4) \nPenerapan \ntransparansi \ndan \nkomunikasi \npublik \nsebagaimana dimaksud pada ayat (1) dilaksanakan sesuai \ndengan \nketentuan \nperaturan \nperundang-undangan \nmengenai keterbukaan informasi publik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmenerapkan \ntransparansi \ndalam \npenyelenggaraan EPML sebagai bentuk akuntabilitas \nkepada publik melalui komunikasi publik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komunikasi publik sebagaimana dimaksud pada ayat (1) \ndilakukan melalui sarana komunikasi yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam pelaksanaan komunikasi publik sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \nBank \nIndonesia \ndapat \nmengikutsertakan \nPenerima \nEPML \ndan/atau \nMitra \nPelaksana."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penerapan \ntransparansi \ndan \nkomunikasi \npublik \nsebagaimana dimaksud pada ayat (1) dilaksanakan sesuai \ndengan \nketentuan \nperaturan \nperundang-undangan \nmengenai keterbukaan informasi publik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TRANSPARANSI DAN KOMUNIKASI PUBLIK",
+      "teks_lengkap": "(1) \nDalam rangka transparansi dan akuntabilitas sebagaimana \ndimaksud dalam Pasal 22 ayat (1), Bank Indonesia \nmenyusun laporan penyelenggaraan EPML sebagai bentuk \nketerbukaan informasi. \n(2) \nLaporan penyelenggaraan EPML sebagaimana dimaksud \npada ayat (1) merupakan bagian dari laporan tahunan \nBank Indonesia. \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka transparansi dan akuntabilitas sebagaimana \ndimaksud dalam Pasal 22 ayat (1), Bank Indonesia \nmenyusun laporan penyelenggaraan EPML sebagai bentuk \nketerbukaan informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan penyelenggaraan EPML sebagaimana dimaksud \npada ayat (1) merupakan bagian dari laporan tahunan \nBank Indonesia. \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan Anggota Dewan Gubernur ini dengan penempatannya \ndalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 23 Oktober 2026        \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD. \n \n \nRICKY P. GOZALI \n \n \n \n  \n \n \n \n \n \n \n\n\n \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 35 TAHUN 2026 \nTENTANG \nPENYELENGGARAAN EDUKASI SERTA PEMBERDAYAAN MASYARAKAT  \nDAN LINGKUNGAN \n \n \nI. \nUMUM \nBank Indonesia memiliki tujuan untuk mencapai stabilitas nilai rupiah, \nmemelihara stabilitas sistem pembayaran, dan turut menjaga stabilitas sistem \nkeuangan dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan. \nDalam rangka mencapai tujuan tersebut, Bank Indonesia menyelenggarakan \nEPML secara inklusif dengan tata kelola yang baik dan profesional. EPML \ndiselenggarakan dengan memperhatikan kondisi dan kebutuhan masyarakat dan \nlingkungan serta diarahkan untuk mendukung pelaksanaan tugas Bank \nIndonesia. Untuk mendukung penyelenggaraan EPML tersebut, telah diterbitkan \nPeraturan Bank Indonesia Nomor 9 Tahun 2026 tentang Edukasi serta \nPemberdayaan Masyarakat dan Lingkungan guna memastikan penyelenggaraan \nEPML sesuai dengan prinsip dasar penyelenggaraan EPML.   \nSehubungan hal tersebut dan untuk melaksanakan ketentuan dalam \nPeraturan Bank Indonesia Nomor 9 Tahun 2026 tentang Edukasi serta \nPemberdayaan Masyarakat dan Lingkungan, diperlukan pengaturan lebih lanjut \nterkait cakupan, bentuk, dan penerima, tahapan, perencanaan, pelaksanaan, \npemantauan dan evaluasi, koordinasi dan sinergi, dan transparansi dan \nkomunikasi publik. Berdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Penyelenggaraan Edukasi serta \nPemberdayaan Masyarakat dan Lingkungan. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan Anggota Dewan Gubernur ini dengan penempatannya \ndalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 23 Oktober 2026        \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD. \n \n \nRICKY P. GOZALI \n \n \n \n  \n \n \n \n \n \n \n\n\n \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 35 TAHUN 2026 \nTENTANG \nPENYELENGGARAAN EDUKASI SERTA PEMBERDAYAAN MASYARAKAT  \nDAN LINGKUNGAN \n \n \nI. \nUMUM \nBank Indonesia memiliki tujuan untuk mencapai stabilitas nilai rupiah, \nmemelihara stabilitas sistem pembayaran, dan turut menjaga stabilitas sistem \nkeuangan dalam rangka mendukung pertumbuhan ekonomi yang berkelanjutan. \nDalam rangka mencapai tujuan tersebut, Bank Indonesia menyelenggarakan \nEPML secara inklusif dengan tata kelola yang baik dan profesional. EPML \ndiselenggarakan dengan memperhatikan kondisi dan kebutuhan masyarakat dan \nlingkungan serta diarahkan untuk mendukung pelaksanaan tugas Bank \nIndonesia. Untuk mendukung penyelenggaraan EPML tersebut, telah diterbitkan \nPeraturan Bank Indonesia Nomor 9 Tahun 2026 tentang Edukasi serta \nPemberdayaan Masyarakat dan Lingkungan guna memastikan penyelenggaraan \nEPML sesuai dengan prinsip dasar penyelenggaraan EPML.   \nSehubungan hal tersebut dan untuk melaksanakan ketentuan dalam \nPeraturan Bank Indonesia Nomor 9 Tahun 2026 tentang Edukasi serta \nPemberdayaan Masyarakat dan Lingkungan, diperlukan pengaturan lebih lanjut \nterkait cakupan, bentuk, dan penerima, tahapan, perencanaan, pelaksanaan, \npemantauan dan evaluasi, koordinasi dan sinergi, dan transparansi dan \nkomunikasi publik. Berdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Penyelenggaraan Edukasi serta \nPemberdayaan Masyarakat dan Lingkungan. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \n \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “paling banyak 2 (dua) kali dalam 1 (satu) \ntahun” adalah Penerima EPML menerima EPML paling banyak 2 (dua) \nkali dalam 1 (satu) tahun anggaran.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \n \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “paling banyak 2 (dua) kali dalam 1 (satu) \ntahun” adalah Penerima EPML menerima EPML paling banyak 2 (dua) \nkali dalam 1 (satu) tahun anggaran."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nCukup jelas. \n \nAyat (4) \nDokumen pendukung identitas pihak yang mengajukan proposal EPML \nantara lain fotokopi kartu tanda penduduk, pengesahan pendirian \nbadan hukum, akta notaris, atau izin operasional. \nDokumen pendukung deskripsi program atau kegiatan yang diajukan \nsesuai dengan cakupan EPML antara lain foto kondisi sarana prasarana \nyang memerlukan perbaikan. \n\n\n \n \nAyat (5) \nCukup jelas. \n \nAyat (6) \nContoh pengajuan proposal pihak eksternal kepada Bank Indonesia:                        \na. \nPihak eksternal yang berlokasi di Kota Tangerang mengajukan \nproposal \nEPML \nkepada \nBank \nIndonesia \ncq. \nDepartemen \nKomunikasi atau Kantor Perwakilan Bank Indonesia Provinsi \nBanten. \nb. \nPihak eksternal yang berlokasi di Kabupaten Sidoarjo mengajukan \nproposal EPML kepada Bank Indonesia cq. Kantor Perwakilan \nBank Indonesia Provinsi Jawa Timur.  \nc. \nPihak eksternal yang berlokasi di Negara Singapura mengajukan \nproposal \nEPML \nkepada \nBank \nIndonesia \ncq. \nDepartemen \nKomunikasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nCukup jelas. \n \nAyat (4) \nDokumen pendukung identitas pihak yang mengajukan proposal EPML \nantara lain fotokopi kartu tanda penduduk, pengesahan pendirian \nbadan hukum, akta notaris, atau izin operasional. \nDokumen pendukung deskripsi program atau kegiatan yang diajukan \nsesuai dengan cakupan EPML antara lain foto kondisi sarana prasarana \nyang memerlukan perbaikan. \n\n\n \n \nAyat (5) \nCukup jelas. \n \nAyat (6) \nContoh pengajuan proposal pihak eksternal kepada Bank Indonesia:                        \na. \nPihak eksternal yang berlokasi di Kota Tangerang mengajukan \nproposal \nEPML \nkepada \nBank \nIndonesia \ncq. \nDepartemen \nKomunikasi atau Kantor Perwakilan Bank Indonesia Provinsi \nBanten. \nb. \nPihak eksternal yang berlokasi di Kabupaten Sidoarjo mengajukan \nproposal EPML kepada Bank Indonesia cq. Kantor Perwakilan \nBank Indonesia Provinsi Jawa Timur.  \nc. \nPihak eksternal yang berlokasi di Negara Singapura mengajukan \nproposal \nEPML \nkepada \nBank \nIndonesia \ncq. \nDepartemen \nKomunikasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nContoh pengajuan proposal Kemitraan EPML kepada Bank Indonesia: \na. \nBadan Usaha Milik Negara yang berlokasi di Kota Administrasi \nJakarta Timur mengajukan proposal Kemitraan EPML kepada \nBank Indonesia cq. Departemen Komunikasi atau Kantor \nPerwakilan Bank Indonesia Provinsi Daerah Khusus Ibukota \nJakarta. \nb. \nPemerintah Kabupaten Sidoarjo mengajukan proposal Kemitraan \nEPML kepada Bank Indonesia cq. Kantor Perwakilan Bank \nIndonesia Provinsi Jawa Timur.  \nc. \nWorld Wildlife Fund yang berlokasi di Negara Singapura \nmengajukan proposal Kemitraan EPML kepada Bank Indonesia cq. \nDepartemen Komunikasi. \nAyat (5) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nContoh pengajuan proposal Kemitraan EPML kepada Bank Indonesia: \na. \nBadan Usaha Milik Negara yang berlokasi di Kota Administrasi \nJakarta Timur mengajukan proposal Kemitraan EPML kepada \nBank Indonesia cq. Departemen Komunikasi atau Kantor \nPerwakilan Bank Indonesia Provinsi Daerah Khusus Ibukota \nJakarta. \nb. \nPemerintah Kabupaten Sidoarjo mengajukan proposal Kemitraan \nEPML kepada Bank Indonesia cq. Kantor Perwakilan Bank \nIndonesia Provinsi Jawa Timur.  \nc. \nWorld Wildlife Fund yang berlokasi di Negara Singapura \nmengajukan proposal Kemitraan EPML kepada Bank Indonesia cq. \nDepartemen Komunikasi. \nAyat (5) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 48,
+  "total_ayat": 106,
+  "total_karakter": 26471,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

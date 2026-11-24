@@ -1,0 +1,1075 @@
+{
+  "doc_id": "OJK_POJK_2025_22_10706ae9",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "22",
+  "tahun": "2025",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 22 Tahun 2025 tentang Pelaporan Bank Umum Melalui Sistem Pelaporan Otoritas Jasa Keuangan",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "15 September 2025",
+  "tanggal_berlaku": "diundangkan (2 Oktober 2025)",
+  "diundangkan_pada": "2 Oktober 2025",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENANGGUNG JAWAB PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "LAPORAN INSIDENTAL"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGGABUNGAN LAPORAN DALAM LAPORAN BERKALA DAN LAPORAN INSIDENTAL"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENYAMPAIAN LAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang \ndimaksud dengan: \n1. \nBank Umum yang selanjutnya disebut Bank adalah      \nBank yang melaksanakan kegiatan usaha secara \nkonvensional atau melaksanakan kegiatan usaha \nberdasarkan prinsip syariah, yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran, \ntermasuk kantor cabang dari bank yang berkedudukan \ndi luar negeri dan unit usaha syariah. \n2. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah Bank yang melaksanakan kegiatan usaha \nsecara \nkonvensional, \nyang \ndalam \nkegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah Bank yang melaksanakan kegiatan usaha \nberdasarkan prinsip syariah, yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran.  \n4. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan kegiatan usaha berdasarkan prinsip \nsyariah atau unit kerja di kantor cabang dari suatu \nBank \nyang \nberkedudukan \ndi \nluar \nnegeri \nyang \nmelaksanakan kegiatan usaha secara konvensional \nyang berfungsi sebagai kantor induk dari kantor cabang \npembantu syariah dan/atau unit syariah. \n5. \nKantor Perwakilan dari Bank yang Berkedudukan di \nLuar Negeri yang selanjutnya disebut KPBLN adalah \nkantor dari Bank yang berbadan hukum dan memiliki \nkantor pusat di luar negeri, yang bertindak hanya \nsebagai penghubung antara Bank yang berbadan \nhukum dan memiliki kantor pusat di luar negeri dengan \nnasabahnya di Indonesia. \n\n\n \n6. \nLaporan adalah laporan yang disampaikan oleh Bank \ndan \nKPBLN \nkepada \nOtoritas \nJasa \nKeuangan \nsebagaimana dimaksud dalam ketentuan peraturan \nperundang-undangan di sektor perbankan. \n7. \nLaporan \nBerkala \nadalah \nseluruh \nLaporan \nyang \ndisampaikan kepada Otoritas Jasa Keuangan secara \nrutin setiap periode tertentu. \n8. \nLaporan Insidental adalah seluruh Laporan yang \ndisampaikan kepada Otoritas Jasa Keuangan pada \nkondisi tertentu. \n9. \nSistem Pelaporan Otoritas Jasa Keuangan adalah \nsistem informasi yang digunakan sebagai sarana \npenyampaian Laporan secara daring kepada Otoritas \nJasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang \ndimaksud dengan: \n1. \nBank Umum yang selanjutnya disebut Bank adalah      \nBank yang melaksanakan kegiatan usaha secara \nkonvensional atau melaksanakan kegiatan usaha \nberdasarkan prinsip syariah, yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran, \ntermasuk kantor cabang dari bank yang berkedudukan \ndi luar negeri dan unit usaha syariah. \n2. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah Bank yang melaksanakan kegiatan usaha \nsecara \nkonvensional, \nyang \ndalam \nkegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah Bank yang melaksanakan kegiatan usaha \nberdasarkan prinsip syariah, yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran.  \n4. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan kegiatan usaha berdasarkan prinsip \nsyariah atau unit kerja di kantor cabang dari suatu \nBank \nyang \nberkedudukan \ndi \nluar \nnegeri \nyang \nmelaksanakan kegiatan usaha secara konvensional \nyang berfungsi sebagai kantor induk dari kantor cabang \npembantu syariah dan/atau unit syariah. \n5. \nKantor Perwakilan dari Bank yang Berkedudukan di \nLuar Negeri yang selanjutnya disebut KPBLN adalah \nkantor dari Bank yang berbadan hukum dan memiliki \nkantor pusat di luar negeri, yang bertindak hanya \nsebagai penghubung antara Bank yang berbadan \nhukum dan memiliki kantor pusat di luar negeri dengan \nnasabahnya di Indonesia. \n\n\n \n6. \nLaporan adalah laporan yang disampaikan oleh Bank \ndan \nKPBLN \nkepada \nOtoritas \nJasa \nKeuangan \nsebagaimana dimaksud dalam ketentuan peraturan \nperundang-undangan di sektor perbankan. \n7. \nLaporan \nBerkala \nadalah \nseluruh \nLaporan \nyang \ndisampaikan kepada Otoritas Jasa Keuangan secara \nrutin setiap periode tertentu. \n8. \nLaporan Insidental adalah seluruh Laporan yang \ndisampaikan kepada Otoritas Jasa Keuangan pada \nkondisi tertentu. \n9. \nSistem Pelaporan Otoritas Jasa Keuangan adalah \nsistem informasi yang digunakan sebagai sarana \npenyampaian Laporan secara daring kepada Otoritas \nJasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank dan KPBLN menyusun dan menyampaikan \nLaporan kepada  Otoritas Jasa Keuangan dengan \nlengkap, akurat, terkini, utuh, dan tepat waktu. \n(2) \nBank dan KPBLN menyampaikan Laporan sebagaimana \ndimaksud pada ayat (1) kepada Otoritas Jasa Keuangan \nsecara daring melalui Sistem Pelaporan Otoritas Jasa \nKeuangan. \n(3) \nDalam hal terdapat kesalahan data dan/atau informasi \ndalam Laporan sebagaimana dimaksud pada ayat (2), \nBank dan KPBLN menyusun dan menyampaikan \nkoreksi \nLaporan \nsecara \ndaring \nmelalui \nSistem \nPelaporan Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dan KPBLN menyusun dan menyampaikan \nLaporan kepada  Otoritas Jasa Keuangan dengan \nlengkap, akurat, terkini, utuh, dan tepat waktu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dan KPBLN menyampaikan Laporan sebagaimana \ndimaksud pada ayat (1) kepada Otoritas Jasa Keuangan \nsecara daring melalui Sistem Pelaporan Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat kesalahan data dan/atau informasi \ndalam Laporan sebagaimana dimaksud pada ayat (2), \nBank dan KPBLN menyusun dan menyampaikan \nkoreksi \nLaporan \nsecara \ndaring \nmelalui \nSistem \nPelaporan Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Laporan sebagaimana dimaksud dalam Pasal 2 ayat (1) \nterdiri atas: \na. \nLaporan Berkala; dan \nb. \nLaporan Insidental. \n \nBAB II \nPENANGGUNG JAWAB PELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 2 ayat (1) \nterdiri atas: \na. \nLaporan Berkala; dan \nb. \nLaporan Insidental. \n \nBAB II \nPENANGGUNG JAWAB PELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENANGGUNG JAWAB PELAPORAN",
+      "teks_lengkap": "(1) \nBank dan KPBLN menunjuk penanggung jawab \npelaporan kepada Otoritas Jasa Keuangan.  \n(2) \nPenanggung jawab pelaporan sebagaimana dimaksud \npada ayat (1) merupakan pegawai tetap Bank dan \nKPBLN yang bertugas untuk melakukan: \na. \nverifikasi dan penyampaian Laporan melalui \nSistem Pelaporan Otoritas Jasa Keuangan; dan  \nb. \nadministrasi dan pengelolaan hak akses petugas \npelaksana pelaporan pada Sistem Pelaporan \nOtoritas Jasa Keuangan.  \n(3) \nPenanggung jawab pelaporan sebagaimana dimaksud \npada ayat (1) dapat menunjuk petugas pelaksana \npelaporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dan KPBLN menunjuk penanggung jawab \npelaporan kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penanggung jawab pelaporan sebagaimana dimaksud \npada ayat (1) merupakan pegawai tetap Bank dan \nKPBLN yang bertugas untuk melakukan: \na. \nverifikasi dan penyampaian Laporan melalui \nSistem Pelaporan Otoritas Jasa Keuangan; dan  \nb. \nadministrasi dan pengelolaan hak akses petugas \npelaksana pelaporan pada Sistem Pelaporan \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penanggung jawab pelaporan sebagaimana dimaksud \npada ayat (1) dapat menunjuk petugas pelaksana \npelaporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENANGGUNG JAWAB PELAPORAN",
+      "teks_lengkap": "(1) \nPenunjukan penanggung jawab pelaporan sebagaimana \ndimaksud dalam Pasal 4 ayat (1) atau perubahannya \n\n\n \ndisampaikan melalui surat kepada Otoritas Jasa \nKeuangan. \n(2) \nSurat penunjukan atau perubahan penanggung jawab \npelaporan sebagaimana dimaksud pada ayat (1) \nditandatangani oleh: \na. \nsalah satu anggota direksi atau pejabat yang \nditunjuk oleh direksi, bagi Bank; atau \nb. \npemimpin KPBLN atau pejabat yang ditunjuk oleh \npemimpin KPBLN, bagi KPBLN. \n(3) \nSurat penunjukan atau perubahan penanggung jawab \npelaporan sebagaimana dimaksud pada ayat (1) paling \nsedikit memuat:  \na. \nnama; \nb. \njabatan; \nc. \nnomor identitas kependudukan penanggung jawab \npelaporan yang ditunjuk; dan  \nd. \nalamat surat elektronik yang mencerminkan \nidentitas Bank dan KPBLN.  \n(4) \nFormat surat penunjukan atau perubahan penanggung \njawab pelaporan sebagaimana dimaksud pada ayat (1) \nditetapkan oleh Otoritas Jasa Keuangan. \n \nBAB III \nLAPORAN BERKALA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penunjukan penanggung jawab pelaporan sebagaimana \ndimaksud dalam Pasal 4 ayat (1) atau perubahannya \n\n\n \ndisampaikan melalui surat kepada Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Surat penunjukan atau perubahan penanggung jawab \npelaporan sebagaimana dimaksud pada ayat (1) \nditandatangani oleh: \na. \nsalah satu anggota direksi atau pejabat yang \nditunjuk oleh direksi, bagi Bank; atau \nb. \npemimpin KPBLN atau pejabat yang ditunjuk oleh \npemimpin KPBLN, bagi KPBLN."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Surat penunjukan atau perubahan penanggung jawab \npelaporan sebagaimana dimaksud pada ayat (1) paling \nsedikit memuat:  \na. \nnama; \nb. \njabatan; \nc. \nnomor identitas kependudukan penanggung jawab \npelaporan yang ditunjuk; dan  \nd. \nalamat surat elektronik yang mencerminkan \nidentitas Bank dan KPBLN."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Format surat penunjukan atau perubahan penanggung \njawab pelaporan sebagaimana dimaksud pada ayat (1) \nditetapkan oleh Otoritas Jasa Keuangan. \n \nBAB III \nLAPORAN BERKALA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "(1) \nLaporan \nBerkala \nsebagaimana \ndimaksud \ndalam  \nPasal 3 huruf a terdiri atas Laporan dengan posisi data: \na. \nharian; \nb. \nbulanan; \nc. \ntriwulanan; \nd. \nsemesteran; dan \ne. \ntahunan. \n(2)  Laporan Berkala sebagaimana dimaksud pada ayat (1) \nberisi kelompok informasi yang meliputi: \na. \ninformasi keuangan; \nb. \ninformasi risiko dan permodalan; \nc. \ninformasi produk, aktivitas dan kegiatan; dan  \nd. \ninformasi data pokok.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan \nBerkala \nsebagaimana \ndimaksud \ndalam  \nPasal 3 huruf a terdiri atas Laporan dengan posisi data: \na. \nharian; \nb. \nbulanan; \nc. \ntriwulanan; \nd. \nsemesteran; dan \ne. \ntahunan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan Berkala sebagaimana dimaksud pada ayat (1) \nberisi kelompok informasi yang meliputi: \na. \ninformasi keuangan; \nb. \ninformasi risiko dan permodalan; \nc. \ninformasi produk, aktivitas dan kegiatan; dan  \nd. \ninformasi data pokok."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Bank \nwajib \nmenyampaikan \nLaporan \nBerkala \nharian \nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a paling \nlambat pada akhir hari kerja berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nwajib \nmenyampaikan \nLaporan \nBerkala \nharian \nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a paling \nlambat pada akhir hari kerja berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Bank wajib menyampaikan Laporan Berkala bulanan \nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b \ndengan ketentuan: \na. \nperiode I, Laporan disampaikan paling lambat tanggal 7 \npada bulan berikutnya; \nb. \nperiode II, Laporan disampaikan paling lambat tanggal \n15 pada bulan berikutnya; \nc. \nperiode III, Laporan disampaikan paling lambat tanggal \n21 pada bulan berikutnya; dan \n\n\n \nd. \nperiode IV, Laporan disampaikan paling lambat tanggal \nterakhir bulan berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menyampaikan Laporan Berkala bulanan \nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b \ndengan ketentuan: \na. \nperiode I, Laporan disampaikan paling lambat tanggal 7 \npada bulan berikutnya; \nb. \nperiode II, Laporan disampaikan paling lambat tanggal \n15 pada bulan berikutnya; \nc. \nperiode III, Laporan disampaikan paling lambat tanggal \n21 pada bulan berikutnya; dan \n\n\n \nd. \nperiode IV, Laporan disampaikan paling lambat tanggal \nterakhir bulan berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Bank dan KPBLN wajib menyampaikan Laporan Berkala \ntriwulanan sebagaimana dimaksud dalam Pasal 6 ayat (1) \nhuruf c dengan ketentuan: \na. \nperiode I, Laporan disampaikan paling lambat tanggal: \n1. \n7 April tahun berjalan untuk triwulan kesatu; \n2. \n7 Juli tahun berjalan untuk triwulan kedua; \n3. \n7 Oktober tahun berjalan untuk triwulan ketiga; \ndan \n4. \n7 Januari tahun berikutnya untuk triwulan \nkeempat; \nb. \nperiode II, Laporan disampaikan paling lambat tanggal: \n1. \n15 April tahun berjalan untuk triwulan kesatu; \n2. \n15 Juli tahun berjalan untuk triwulan kedua; \n3. \n15 Oktober tahun berjalan untuk triwulan ketiga; \ndan \n4. \n15 Januari tahun berikutnya untuk triwulan \nkeempat; \nc. \nperiode III, Laporan disampaikan paling lambat tanggal: \n1. \n30 April tahun berjalan untuk triwulan kesatu; \n2. \n31 Juli tahun berjalan untuk triwulan kedua; \n3. \n31 Oktober tahun berjalan untuk triwulan ketiga; \ndan \n4. \n31 Januari tahun berikutnya untuk triwulan \nkeempat; \nd. \nperiode IV, Laporan disampaikan paling lambat tanggal: \n1. \n31 Mei tahun berjalan untuk triwulan kesatu; \n2. \n31 Agustus tahun berjalan untuk triwulan kedua; \n3. \n30 November tahun berjalan untuk triwulan \nketiga; dan \n4. \nterakhir bulan Februari tahun berikutnya untuk \ntriwulan keempat; dan \ne. \nperiode V, Laporan disampaikan paling lambat tanggal: \n1. \n30 Juni tahun berjalan untuk triwulan kesatu; \n2. \n30 September tahun berjalan untuk triwulan \nkedua; \n3. \n31 Desember tahun berjalan untuk triwulan \nketiga; dan \n4. \n31 Maret tahun berikutnya untuk triwulan \nkeempat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank dan KPBLN wajib menyampaikan Laporan Berkala \ntriwulanan sebagaimana dimaksud dalam Pasal 6 ayat (1) \nhuruf c dengan ketentuan: \na. \nperiode I, Laporan disampaikan paling lambat tanggal: \n1. \n7 April tahun berjalan untuk triwulan kesatu; \n2. \n7 Juli tahun berjalan untuk triwulan kedua; \n3. \n7 Oktober tahun berjalan untuk triwulan ketiga; \ndan \n4. \n7 Januari tahun berikutnya untuk triwulan \nkeempat; \nb. \nperiode II, Laporan disampaikan paling lambat tanggal: \n1. \n15 April tahun berjalan untuk triwulan kesatu; \n2. \n15 Juli tahun berjalan untuk triwulan kedua; \n3. \n15 Oktober tahun berjalan untuk triwulan ketiga; \ndan \n4. \n15 Januari tahun berikutnya untuk triwulan \nkeempat; \nc. \nperiode III, Laporan disampaikan paling lambat tanggal: \n1. \n30 April tahun berjalan untuk triwulan kesatu; \n2. \n31 Juli tahun berjalan untuk triwulan kedua; \n3. \n31 Oktober tahun berjalan untuk triwulan ketiga; \ndan \n4. \n31 Januari tahun berikutnya untuk triwulan \nkeempat; \nd. \nperiode IV, Laporan disampaikan paling lambat tanggal: \n1. \n31 Mei tahun berjalan untuk triwulan kesatu; \n2. \n31 Agustus tahun berjalan untuk triwulan kedua; \n3. \n30 November tahun berjalan untuk triwulan \nketiga; dan \n4. \nterakhir bulan Februari tahun berikutnya untuk \ntriwulan keempat; dan \ne. \nperiode V, Laporan disampaikan paling lambat tanggal: \n1. \n30 Juni tahun berjalan untuk triwulan kesatu; \n2. \n30 September tahun berjalan untuk triwulan \nkedua; \n3. \n31 Desember tahun berjalan untuk triwulan \nketiga; dan \n4. \n31 Maret tahun berikutnya untuk triwulan \nkeempat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Bank wajib menyampaikan Laporan Berkala semesteran \nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf d \ndengan ketentuan: \na. \nperiode I, Laporan disampaikan paling lambat tanggal: \n1. \n31 Juli tahun berjalan untuk semester kesatu; dan \n2. \n31 Januari tahun berikutnya untuk semester \nkedua; \nb. \nperiode II, Laporan disampaikan paling lambat tanggal: \n1. \n15 Agustus tahun berjalan untuk semester kesatu; \ndan \n\n\n \n2. \n15 Februari tahun berikutnya untuk semester \nkedua; dan \nc. \nperiode III, Laporan disampaikan paling lambat tanggal: \n1. \n31 Agustus tahun berjalan untuk semester kesatu; \ndan \n2. \nterakhir bulan Februari tahun berikutnya untuk \nsemester kedua.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menyampaikan Laporan Berkala semesteran \nsebagaimana dimaksud dalam Pasal 6 ayat (1) huruf d \ndengan ketentuan: \na. \nperiode I, Laporan disampaikan paling lambat tanggal: \n1. \n31 Juli tahun berjalan untuk semester kesatu; dan \n2. \n31 Januari tahun berikutnya untuk semester \nkedua; \nb. \nperiode II, Laporan disampaikan paling lambat tanggal: \n1. \n15 Agustus tahun berjalan untuk semester kesatu; \ndan \n\n\n \n2. \n15 Februari tahun berikutnya untuk semester \nkedua; dan \nc. \nperiode III, Laporan disampaikan paling lambat tanggal: \n1. \n31 Agustus tahun berjalan untuk semester kesatu; \ndan \n2. \nterakhir bulan Februari tahun berikutnya untuk \nsemester kedua."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "(1) \nBank dan KPBLN wajib menyampaikan Laporan \nBerkala tahunan sebagaimana dimaksud dalam Pasal 6 \nayat (1) huruf e berupa rencana kerja dengan \nketentuan: \na. \nperiode I, Laporan disampaikan paling lambat \ntanggal 31 Oktober sebelum tahun rencana kerja; \ndan \nb. \nperiode II, Laporan disampaikan paling lambat \ntanggal 30 November sebelum tahun rencana \nkerja. \n(2) \nBank wajib menyampaikan Laporan Berkala tahunan \nselain rencana kerja sebagaimana dimaksud pada  \nayat (1) dengan ketentuan untuk: \na. \nperiode III, Laporan disampaikan paling lambat \ntanggal 21 Januari tahun berikutnya; \nb. \nperiode IV, Laporan disampaikan paling lambat \ntanggal 31 Januari tahun berikutnya; dan \nc. \nperiode V, Laporan disampaikan paling lambat \ntanggal 30 April tahun berikutnya. \n(3) \nBank yang tidak menyampaikan pengkinian rencana \naksi pemulihan sampai dengan batas penyampaian \nsebagaimana dimaksud pada ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penetapan status pengawasan dan \npenanganan permasalahan bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dan KPBLN wajib menyampaikan Laporan \nBerkala tahunan sebagaimana dimaksud dalam Pasal 6 \nayat (1) huruf e berupa rencana kerja dengan \nketentuan: \na. \nperiode I, Laporan disampaikan paling lambat \ntanggal 31 Oktober sebelum tahun rencana kerja; \ndan \nb. \nperiode II, Laporan disampaikan paling lambat \ntanggal 30 November sebelum tahun rencana \nkerja."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menyampaikan Laporan Berkala tahunan \nselain rencana kerja sebagaimana dimaksud pada  \nayat (1) dengan ketentuan untuk: \na. \nperiode III, Laporan disampaikan paling lambat \ntanggal 21 Januari tahun berikutnya; \nb. \nperiode IV, Laporan disampaikan paling lambat \ntanggal 31 Januari tahun berikutnya; dan \nc. \nperiode V, Laporan disampaikan paling lambat \ntanggal 30 April tahun berikutnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank yang tidak menyampaikan pengkinian rencana \naksi pemulihan sampai dengan batas penyampaian \nsebagaimana dimaksud pada ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penetapan status pengawasan dan \npenanganan permasalahan bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Bank dan KPBLN wajib menyampaikan informasi dalam \nLaporan Berkala sebagaimana dimaksud dalam Pasal 7, \nPasal 8, Pasal 9, Pasal 10, Pasal 11 ayat (1), dan/atau ayat \n(2) secara lengkap dan akurat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(2)",
+          "teks": "secara lengkap dan akurat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Ketentuan mengenai rincian Laporan Berkala untuk setiap \nperiode penyampaian Laporan ditetapkan oleh Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai rincian Laporan Berkala untuk setiap \nperiode penyampaian Laporan ditetapkan oleh Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "(1) \nBank dan KPBLN yang tidak menyampaikan Laporan \nBerkala sampai dengan batas penyampaian Laporan \nsebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9, \nPasal 10, Pasal 11 ayat (1), dan/atau ayat (2) dikenai \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.000.000,00 (satu juta rupiah) per hari kerja dan \npaling banyak Rp30.000.000,00 (tiga puluh juta rupiah) \nper Laporan. \n\n\n \n(2) \nBank dan KPBLN yang tidak menyampaikan informasi \nsecara lengkap dan akurat sebagaimana dimaksud \ndalam Pasal 12 berdasarkan temuan Bank, KPBLN, \natau \nOtoritas \nJasa \nKeuangan \ndikenai \nsanksi \nadministratif berupa denda sebesar Rp100.000,00 \n(seratus ribu rupiah) per kesalahan isian dan paling \nbanyak Rp10.000.000,00 (sepuluh juta rupiah) per \nLaporan.  \n(3) \nDalam hal terdapat penyampaian informasi dalam \nLaporan Berkala yang tidak lengkap dan tidak akurat \nsebagaimana \ndimaksud \npada \nayat \n(2) \nsehingga \nmengakibatkan terjadinya kesalahan isian lain pada: \na. \nLaporan yang sama; dan/atau \nb. \nLaporan lain, \nsanksi administratif berupa denda tidak dikenakan \nterhadap kesalahan isian lain pada Laporan yang sama \ndan/atau Laporan lain.  \n(4) \nBank \ndan \nKPBLN \nyang \ntelah \ndikenai \nsanksi \nadministratif berupa denda sebagaimana dimaksud \npada ayat (1) dan ayat (2), tetap wajib menyampaikan \nLaporan dan/atau koreksi Laporan. \n(5) \nBank dan KPBLN yang tidak memenuhi ketentuan \nsebagaimana dimaksud pada ayat (4) dikenai sanksi \nadministratif berupa teguran tertulis.  \n(6) \nDalam hal Bank dan KPBLN telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (5) dan \ntetap melanggar ketentuan sebagaimana dimaksud \npada ayat (4), Bank dan KPBLN dapat dikenai sanksi \nadministratif berupa: \na. \npembekuan kegiatan usaha tertentu; \nb. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; dan/atau  \nc. \npenurunan peringkat faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(7) \nDalam hal direksi, dewan komisaris, dewan pengawas \nsyariah, \ndan/atau \npejabat \neksekutif \nBank \natau \npemimpin KPBLN melanggar ketentuan sebagaimana \ndimaksud pada ayat (4), dapat dikenai sanksi \nadministratif berupa larangan sebagai pihak utama \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penilaian kembali bagi pihak utama lembaga \njasa keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dan KPBLN yang tidak menyampaikan Laporan \nBerkala sampai dengan batas penyampaian Laporan \nsebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9, \nPasal 10, Pasal 11 ayat (1), dan/atau ayat (2) dikenai \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.000.000,00 (satu juta rupiah) per hari kerja dan \npaling banyak Rp30.000.000,00 (tiga puluh juta rupiah) \nper Laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dan KPBLN yang tidak menyampaikan informasi \nsecara lengkap dan akurat sebagaimana dimaksud \ndalam Pasal 12 berdasarkan temuan Bank, KPBLN, \natau \nOtoritas \nJasa \nKeuangan \ndikenai \nsanksi \nadministratif berupa denda sebesar Rp100.000,00 \n(seratus ribu rupiah) per kesalahan isian dan paling \nbanyak Rp10.000.000,00 (sepuluh juta rupiah) per \nLaporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat penyampaian informasi dalam \nLaporan Berkala yang tidak lengkap dan tidak akurat \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "sehingga \nmengakibatkan terjadinya kesalahan isian lain pada: \na. \nLaporan yang sama; dan/atau \nb. \nLaporan lain, \nsanksi administratif berupa denda tidak dikenakan \nterhadap kesalahan isian lain pada Laporan yang sama \ndan/atau Laporan lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \ndan \nKPBLN \nyang \ntelah \ndikenai \nsanksi \nadministratif berupa denda sebagaimana dimaksud \npada ayat (1) dan ayat (2), tetap wajib menyampaikan \nLaporan dan/atau koreksi Laporan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dan KPBLN yang tidak memenuhi ketentuan \nsebagaimana dimaksud pada ayat (4) dikenai sanksi \nadministratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal Bank dan KPBLN telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (5) dan \ntetap melanggar ketentuan sebagaimana dimaksud \npada ayat (4), Bank dan KPBLN dapat dikenai sanksi \nadministratif berupa: \na. \npembekuan kegiatan usaha tertentu; \nb. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; dan/atau  \nc. \npenurunan peringkat faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal direksi, dewan komisaris, dewan pengawas \nsyariah, \ndan/atau \npejabat \neksekutif \nBank \natau \npemimpin KPBLN melanggar ketentuan sebagaimana \ndimaksud pada ayat (4), dapat dikenai sanksi \nadministratif berupa larangan sebagai pihak utama \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penilaian kembali bagi pihak utama lembaga \njasa keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BERKALA",
+      "teks_lengkap": "Dalam hal Bank dan KPBLN: \na. \nmelakukan koreksi Laporan Berkala atas dasar hasil \naudit oleh akuntan publik yang terdaftar di Otoritas \nJasa Keuangan; dan/atau \nb. \nmenyampaikan koreksi Laporan Berkala sebelum batas \nakhir penyampaian Laporan sebagaimana dimaksud \ndalam Pasal 7, Pasal 8, Pasal 9, Pasal 10, Pasal 11 ayat \n(1), dan/atau ayat (2), \nBank dan KPBLN dikecualikan dari pengenaan sanksi \nadministratif berupa denda sebagaimana dimaksud dalam \nPasal 14 ayat (2). \n \n\n\n \nBAB IV \nLAPORAN INSIDENTAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", dan/atau ayat (2), \nBank dan KPBLN dikecualikan dari pengenaan sanksi \nadministratif berupa denda sebagaimana dimaksud dalam \nPasal 14 ayat (2). \n \n\n\n \nBAB IV \nLAPORAN INSIDENTAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "LAPORAN INSIDENTAL",
+      "teks_lengkap": "(1) \nLaporan Insidental sebagaimana dimaksud dalam Pasal \n3 huruf b wajib disampaikan sesuai dengan batas \nwaktu \npenyampaian \nsebagaimana \ndiatur \ndalam \nketentuan peraturan perundang-undangan di sektor \nperbankan. \n(2) \nLaporan Insidental sebagaimana dimaksud pada ayat \n(1) berisi kelompok informasi yang meliputi: \na. \ninformasi pengawasan; \nb. \ninformasi kelembagaan; \nc. \ninformasi kegiatan usaha; dan  \nd. \ninformasi lainnya. \n(3) \nKetentuan \nmengenai \nrincian \nLaporan \nInsidental \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan Insidental sebagaimana dimaksud dalam Pasal \n3 huruf b wajib disampaikan sesuai dengan batas \nwaktu \npenyampaian \nsebagaimana \ndiatur \ndalam \nketentuan peraturan perundang-undangan di sektor \nperbankan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan Insidental sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "berisi kelompok informasi yang meliputi: \na. \ninformasi pengawasan; \nb. \ninformasi kelembagaan; \nc. \ninformasi kegiatan usaha; dan  \nd. \ninformasi lainnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan \nmengenai \nrincian \nLaporan \nInsidental \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "LAPORAN INSIDENTAL",
+      "teks_lengkap": "Bank dan KPBLN wajib menyampaikan data dan/atau \ninformasi dalam Laporan Insidental sebagaimana dimaksud \ndalam Pasal 16 ayat (1) secara lengkap dan akurat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank dan KPBLN wajib menyampaikan data dan/atau \ninformasi dalam Laporan Insidental sebagaimana dimaksud \ndalam Pasal 16 ayat (1) secara lengkap dan akurat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "LAPORAN INSIDENTAL",
+      "teks_lengkap": "(1) \nBank dan KPBLN yang tidak menyampaikan Laporan \nInsidental sampai dengan batas waktu penyampaian \nLaporan sebagaimana dimaksud dalam Pasal 16 ayat \n(1) \ndikenai \nsanksi \nadministratif \nsesuai \ndengan \nketentuan peraturan perundang-undangan di sektor \nperbankan. \n(2) \nDalam hal ketentuan peraturan perundang-undangan \ndi \nsektor \nperbankan \ntidak \nmenetapkan \nsanksi \nadministratif sebagaimana dimaksud pada ayat (1), \nBank dan KPBLN yang tidak menyampaikan Laporan \nInsidental setelah batas akhir penyampaian Laporan \nsebagaimana dimaksud dalam Pasal 16 ayat (1) dikenai \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.000.000,00 (satu juta rupiah) per hari kerja dan \npaling banyak Rp30.000.000,00 (tiga puluh juta rupiah) \nper Laporan. \n(3) \nBank dan KPBLN yang tidak menyampaikan data \ndan/atau \ninformasi \nsecara \nlengkap \ndan \nakurat \nsebagaimana dimaksud dalam Pasal 17 berdasarkan \ntemuan Bank, KPBLN, atau Otoritas Jasa Keuangan \ndikenai sanksi administratif berupa denda sebesar \nRp100.000,00 (seratus ribu rupiah) per kesalahan data \ndan/atau \ninformasi \ndan \npaling \nbanyak \nRp10.000.000,00 (sepuluh juta rupiah) per Laporan.  \n(4) \nBank \ndan \nKPBLN \nyang \ntelah \ndikenai \nsanksi \nadministratif sesuai dengan ketentuan peraturan \nperundang-undangan \ndi \nsektor \nperbankan \nsebagaimana dimaksud pada ayat (1) atau sanksi \nadministratif berupa denda sebagaimana dimaksud \npada ayat (2) dan ayat (3), tetap wajib menyampaikan \nLaporan dan/atau koreksi Laporan. \n\n\n \n(5) \nBank dan KPBLN yang tidak memenuhi ketentuan \nsebagaimana dimaksud pada ayat (4) dikenai sanksi \nadministratif berupa teguran tertulis.  \n(6) \nDalam hal Bank dan KPBLN telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (5) dan \ntetap melanggar ketentuan sebagaimana dimaksud \npada ayat (4), Bank dan KPBLN dapat dikenai sanksi \nadministratif berupa: \na. \npembekuan kegiatan usaha tertentu; \nb. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; dan/atau \nc. \npenurunan peringkat faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(7) \nDalam hal direksi, dewan komisaris, dewan pengawas \nsyariah, \ndan/atau \npejabat \neksekutif \nBank \natau \npemimpin KPBLN melanggar ketentuan sebagaimana \ndimaksud pada ayat (4), dapat dikenai sanksi \nadministratif berupa larangan sebagai pihak utama \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penilaian kembali bagi pihak utama lembaga \njasa keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dan KPBLN yang tidak menyampaikan Laporan \nInsidental sampai dengan batas waktu penyampaian \nLaporan sebagaimana dimaksud dalam Pasal 16 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dikenai \nsanksi \nadministratif \nsesuai \ndengan \nketentuan peraturan perundang-undangan di sektor \nperbankan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal ketentuan peraturan perundang-undangan \ndi \nsektor \nperbankan \ntidak \nmenetapkan \nsanksi \nadministratif sebagaimana dimaksud pada ayat (1), \nBank dan KPBLN yang tidak menyampaikan Laporan \nInsidental setelah batas akhir penyampaian Laporan \nsebagaimana dimaksud dalam Pasal 16 ayat (1) dikenai \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp1.000.000,00 (satu juta rupiah) per hari kerja dan \npaling banyak Rp30.000.000,00 (tiga puluh juta rupiah) \nper Laporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank dan KPBLN yang tidak menyampaikan data \ndan/atau \ninformasi \nsecara \nlengkap \ndan \nakurat \nsebagaimana dimaksud dalam Pasal 17 berdasarkan \ntemuan Bank, KPBLN, atau Otoritas Jasa Keuangan \ndikenai sanksi administratif berupa denda sebesar \nRp100.000,00 (seratus ribu rupiah) per kesalahan data \ndan/atau \ninformasi \ndan \npaling \nbanyak \nRp10.000.000,00 (sepuluh juta rupiah) per Laporan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \ndan \nKPBLN \nyang \ntelah \ndikenai \nsanksi \nadministratif sesuai dengan ketentuan peraturan \nperundang-undangan \ndi \nsektor \nperbankan \nsebagaimana dimaksud pada ayat (1) atau sanksi \nadministratif berupa denda sebagaimana dimaksud \npada ayat (2) dan ayat (3), tetap wajib menyampaikan \nLaporan dan/atau koreksi Laporan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dan KPBLN yang tidak memenuhi ketentuan \nsebagaimana dimaksud pada ayat (4) dikenai sanksi \nadministratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal Bank dan KPBLN telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (5) dan \ntetap melanggar ketentuan sebagaimana dimaksud \npada ayat (4), Bank dan KPBLN dapat dikenai sanksi \nadministratif berupa: \na. \npembekuan kegiatan usaha tertentu; \nb. \nlarangan \nuntuk \nmenerbitkan \nproduk \natau \nmelaksanakan aktivitas baru; dan/atau \nc. \npenurunan peringkat faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal direksi, dewan komisaris, dewan pengawas \nsyariah, \ndan/atau \npejabat \neksekutif \nBank \natau \npemimpin KPBLN melanggar ketentuan sebagaimana \ndimaksud pada ayat (4), dapat dikenai sanksi \nadministratif berupa larangan sebagai pihak utama \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penilaian kembali bagi pihak utama lembaga \njasa keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "LAPORAN INSIDENTAL",
+      "teks_lengkap": "Dalam hal Bank dan KPBLN: \na. \nmelakukan koreksi Laporan Insidental atas hasil audit \noleh akuntan publik yang terdaftar di Otoritas Jasa \nKeuangan; dan/atau \nb. \nmenyampaikan koreksi Laporan Insidental sebelum \nbatas \nakhir \npenyampaian \nLaporan \nsebagaimana \ndimaksud dalam Pasal 16 ayat (1), \nBank dan KPBLN dikecualikan dari pengenaan sanksi \nadministratif berupa denda sebagaimana dimaksud dalam \nPasal 18 ayat (3). \n \nBAB V \nPENGGABUNGAN LAPORAN DALAM LAPORAN BERKALA \nDAN LAPORAN INSIDENTAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal Bank dan KPBLN: \na. \nmelakukan koreksi Laporan Insidental atas hasil audit \noleh akuntan publik yang terdaftar di Otoritas Jasa \nKeuangan; dan/atau \nb. \nmenyampaikan koreksi Laporan Insidental sebelum \nbatas \nakhir \npenyampaian \nLaporan \nsebagaimana \ndimaksud dalam Pasal 16 ayat (1), \nBank dan KPBLN dikecualikan dari pengenaan sanksi \nadministratif berupa denda sebagaimana dimaksud dalam \nPasal 18 ayat (3). \n \nBAB V \nPENGGABUNGAN LAPORAN DALAM LAPORAN BERKALA \nDAN LAPORAN INSIDENTAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGGABUNGAN LAPORAN DALAM LAPORAN BERKALA DAN LAPORAN INSIDENTAL",
+      "teks_lengkap": "(1) \nBank menyampaikan: \na. \nLaporan rencana penyelenggaraan produk Bank; \ndan \nb. \nLaporan rencana alih daya,  \ndalam rencana bisnis.  \n(2) \nBank menyampaikan: \na. \nLaporan aktivitas keagenan produk keuangan luar \nnegeri; \nb. \nLaporan berkala bancassurance; \nc. \nLaporan outstanding transaksi structured products; \nd. \nLaporan pengangkatan tenaga kerja asing sebagai \ntenaga ahli atau konsultan; \ne. \nLaporan kegiatan trust; \nf. \nLaporan alih daya yang bermasalah; \ng. \ninformasi bukti penyelesaian hak dan kewajiban \nkantor wilayah, kantor cabang, dan kantor di luar \nnegeri kepada nasabah dan/atau pihak lain \n\n\n \nsehubungan dengan penutupan kantor wilayah, \nkantor cabang, dan kantor di luar negeri; dan \nh. \ninformasi bukti penyelesaian hak dan kewajiban \nkantor \ncabang \npembantu \nkepada \nnasabah \ndan/atau \npihak \nlain \nsehubungan \ndengan \npenutupan kantor cabang pembantu, \ndalam Laporan realisasi rencana bisnis.  \n(3) \nBank menyampaikan Laporan pelaksanaan tata kelola \ndalam Laporan publikasi keuangan dan informasi \nkinerja keuangan tahunan. \n(4) \nBank menyampaikan Laporan publikasi keuangan dan \ninformasi kinerja keuangan tahunan disertai surat \nkomentar (management letter).  \n(5) \nBank menyampaikan Laporan perubahan direksi \ndan/atau dewan komisaris dari pemegang saham \npengendali Bank berupa badan hukum dalam Laporan \ndaftar rincian pihak terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank menyampaikan: \na. \nLaporan rencana penyelenggaraan produk Bank; \ndan \nb. \nLaporan rencana alih daya,  \ndalam rencana bisnis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank menyampaikan: \na. \nLaporan aktivitas keagenan produk keuangan luar \nnegeri; \nb. \nLaporan berkala bancassurance; \nc. \nLaporan outstanding transaksi structured products; \nd. \nLaporan pengangkatan tenaga kerja asing sebagai \ntenaga ahli atau konsultan; \ne. \nLaporan kegiatan trust; \nf. \nLaporan alih daya yang bermasalah; \ng. \ninformasi bukti penyelesaian hak dan kewajiban \nkantor wilayah, kantor cabang, dan kantor di luar \nnegeri kepada nasabah dan/atau pihak lain \n\n\n \nsehubungan dengan penutupan kantor wilayah, \nkantor cabang, dan kantor di luar negeri; dan \nh. \ninformasi bukti penyelesaian hak dan kewajiban \nkantor \ncabang \npembantu \nkepada \nnasabah \ndan/atau \npihak \nlain \nsehubungan \ndengan \npenutupan kantor cabang pembantu, \ndalam Laporan realisasi rencana bisnis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank menyampaikan Laporan pelaksanaan tata kelola \ndalam Laporan publikasi keuangan dan informasi \nkinerja keuangan tahunan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank menyampaikan Laporan publikasi keuangan dan \ninformasi kinerja keuangan tahunan disertai surat \nkomentar (management letter)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank menyampaikan Laporan perubahan direksi \ndan/atau dewan komisaris dari pemegang saham \npengendali Bank berupa badan hukum dalam Laporan \ndaftar rincian pihak terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGGABUNGAN LAPORAN DALAM LAPORAN BERKALA DAN LAPORAN INSIDENTAL",
+      "teks_lengkap": "(1) \nBUK menyampaikan: \na. \nLaporan pemindahan sementara alamat jaringan \nkantor bank badan hukum Indonesia;  \nb. \ninformasi penutupan sementara kantor bank \nberbadan hukum Indonesia selain kantor pusat;  \nc. \nLaporan pemindahan sementara alamat jaringan \nkantor dari kantor cabang dari bank yang \nberkedudukan di luar negeri; dan \nd. \ninformasi penutupan sementara jaringan kantor \ndari kantor cabang dari bank yang berkedudukan \ndi luar negeri selain kantor cabang dari bank yang \nberkedudukan di luar negeri, \ndalam Laporan perubahan sementara jaringan kantor. \n(2) \nBUS menyampaikan: \na. \nLaporan pemindahan sementara alamat jaringan \nkantor bank badan hukum Indonesia; dan \nb. \ninformasi penutupan sementara kantor bank \nberbadan hukum Indonesia selain kantor pusat,  \ndalam Laporan perubahan sementara jaringan kantor. \n(3) \nUUS menyampaikan: \na. \nLaporan pemindahan sementara alamat jaringan \nkantor UUS; dan  \nb. \ninformasi penutupan sementara kantor UUS, \ndalam Laporan perubahan sementara jaringan kantor. \n(4) \nBUK dan BUS menyampaikan: \na. \ninformasi \nperubahan \nkomposisi \nkepemilikan \nsaham bank berbadan hukum Indonesia yang \ntercatat \ndalam \nanggaran \ndasar \ndan \ntidak \nmengakibatkan perubahan pengendalian; \nb. \ninformasi \nperubahan \nkomposisi \nkepemilikan \nsaham bank berbadan hukum Indonesia yang \ntercatat dalam anggaran dasar yang disebabkan \noleh \nhibah \natau \nwaris \nsaham \ndan \ntidak \nmengakibatkan perubahan modal disetor; \nc. \nakta persetujuan rapat umum pemegang saham \ndan perubahan anggaran dasar yang menyetujui \npemindahan \nalamat \nkantor \npusat \nyang \n\n\n \nmengakibatkan perubahan tempat kedudukan; \ndan \nd. \nakta persetujuan rapat umum pemegang saham \ndan perubahan anggaran dasar yang menyetujui \npembatalan pemindahan alamat kantor pusat \nyang \nmengakibatkan \nperubahan \ntempat \nkedudukan, \ndalam Laporan perubahan anggaran dasar. \n \nBAB VI \nTATA CARA PENYAMPAIAN LAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK menyampaikan: \na. \nLaporan pemindahan sementara alamat jaringan \nkantor bank badan hukum Indonesia;  \nb. \ninformasi penutupan sementara kantor bank \nberbadan hukum Indonesia selain kantor pusat;  \nc. \nLaporan pemindahan sementara alamat jaringan \nkantor dari kantor cabang dari bank yang \nberkedudukan di luar negeri; dan \nd. \ninformasi penutupan sementara jaringan kantor \ndari kantor cabang dari bank yang berkedudukan \ndi luar negeri selain kantor cabang dari bank yang \nberkedudukan di luar negeri, \ndalam Laporan perubahan sementara jaringan kantor."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS menyampaikan: \na. \nLaporan pemindahan sementara alamat jaringan \nkantor bank badan hukum Indonesia; dan \nb. \ninformasi penutupan sementara kantor bank \nberbadan hukum Indonesia selain kantor pusat,  \ndalam Laporan perubahan sementara jaringan kantor."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "UUS menyampaikan: \na. \nLaporan pemindahan sementara alamat jaringan \nkantor UUS; dan  \nb. \ninformasi penutupan sementara kantor UUS, \ndalam Laporan perubahan sementara jaringan kantor."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BUK dan BUS menyampaikan: \na. \ninformasi \nperubahan \nkomposisi \nkepemilikan \nsaham bank berbadan hukum Indonesia yang \ntercatat \ndalam \nanggaran \ndasar \ndan \ntidak \nmengakibatkan perubahan pengendalian; \nb. \ninformasi \nperubahan \nkomposisi \nkepemilikan \nsaham bank berbadan hukum Indonesia yang \ntercatat dalam anggaran dasar yang disebabkan \noleh \nhibah \natau \nwaris \nsaham \ndan \ntidak \nmengakibatkan perubahan modal disetor; \nc. \nakta persetujuan rapat umum pemegang saham \ndan perubahan anggaran dasar yang menyetujui \npemindahan \nalamat \nkantor \npusat \nyang \n\n\n \nmengakibatkan perubahan tempat kedudukan; \ndan \nd. \nakta persetujuan rapat umum pemegang saham \ndan perubahan anggaran dasar yang menyetujui \npembatalan pemindahan alamat kantor pusat \nyang \nmengakibatkan \nperubahan \ntempat \nkedudukan, \ndalam Laporan perubahan anggaran dasar. \n \nBAB VI \nTATA CARA PENYAMPAIAN LAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "Bank dan KPBLN dinyatakan menyampaikan Laporan pada \ntanggal diterimanya Laporan pada Sistem Pelaporan Otoritas \nJasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank dan KPBLN dinyatakan menyampaikan Laporan pada \ntanggal diterimanya Laporan pada Sistem Pelaporan Otoritas \nJasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "(1) \nDalam hal Sistem Pelaporan Otoritas Jasa Keuangan \nmengalami \ngangguan \nteknis \npada \nbatas \nwaktu \npenyampaian Laporan sehingga Bank dan KPBLN tidak \ndapat menyampaikan Laporan, Otoritas Jasa Keuangan \nmemberitahukan kepada Bank dan KPBLN terjadinya \ngangguan teknis secara tertulis dan disampaikan: \na. \nsecara langsung kepada Bank dan KPBLN; \nb. \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan;  \nc. \nmelalui media elektronik; dan/atau \nd. \nmedia lainnya. \n(2) \nBank dan KPBLN menyampaikan Laporan paling \nlambat 1 (satu) hari kerja setelah Otoritas Jasa \nKeuangan memberitahukan bahwa gangguan teknis di \nOtoritas Jasa Keuangan sebagaimana dimaksud pada \nayat (1) teratasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Sistem Pelaporan Otoritas Jasa Keuangan \nmengalami \ngangguan \nteknis \npada \nbatas \nwaktu \npenyampaian Laporan sehingga Bank dan KPBLN tidak \ndapat menyampaikan Laporan, Otoritas Jasa Keuangan \nmemberitahukan kepada Bank dan KPBLN terjadinya \ngangguan teknis secara tertulis dan disampaikan: \na. \nsecara langsung kepada Bank dan KPBLN; \nb. \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan;  \nc. \nmelalui media elektronik; dan/atau \nd. \nmedia lainnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dan KPBLN menyampaikan Laporan paling \nlambat 1 (satu) hari kerja setelah Otoritas Jasa \nKeuangan memberitahukan bahwa gangguan teknis di \nOtoritas Jasa Keuangan sebagaimana dimaksud pada \nayat (1) teratasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "(1) \nDalam hal Bank dan KPBLN mengalami keadaan kahar \nsehingga tidak dapat menyampaikan Laporan dan/atau \nkoreksi \nLaporan \nsampai \ndengan \nbatas \nwaktu \npenyampaian, Bank dan KPBLN memberitahukan \nkepada Otoritas Jasa Keuangan secara tertulis untuk \nmemperoleh penundaan batas waktu penyampaian \nLaporan dan/atau koreksi Laporan.  \n(2) \nPenyampaian \nsurat \npemberitahuan \nsebagaimana \ndimaksud pada ayat (1) dilakukan secara luring kepada:  \na. \ndepartemen pengawasan Bank terkait atau kantor \nOtoritas Jasa Keuangan di Jakarta bagi Bank yang \nberkantor pusat atau kantor cabang dari bank \nyang berkedudukan di luar negeri yang berada di \nwilayah Provinsi Daerah Khusus Jakarta dan \nKPBLN; atau \nb. \nkantor Otoritas Jasa Keuangan setempat sesuai \ndengan wilayah tempat kedudukan kantor pusat \nBank, bagi Bank yang berkantor di luar wilayah \nProvinsi Daerah Khusus Jakarta. \n(3) \nBank dan KPBLN yang memperoleh penundaan batas \nwaktu \nsebagaimana \ndimaksud \npada \nayat \n(1) \n\n\n \nmenyampaikan Laporan dan/atau koreksi Laporan \nsetelah Bank dan KPBLN kembali melakukan kegiatan \noperasional secara normal. \n(4) \nPenundaan \nbatas \nwaktu \npenyampaian \nLaporan \ndan/atau koreksi Laporan hanya diberikan sampai \ndengan keadaan kahar telah teratasi atau berdasarkan \npertimbangan Otoritas Jasa Keuangan. \n(5) \nPengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 14 ayat (1), Pasal 18 ayat (1), dan/atau ayat \n(2) dikecualikan untuk Bank dan KPBLN yang \nmengalami keadaan kahar sebagaimana dimaksud \npada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank dan KPBLN mengalami keadaan kahar \nsehingga tidak dapat menyampaikan Laporan dan/atau \nkoreksi \nLaporan \nsampai \ndengan \nbatas \nwaktu \npenyampaian, Bank dan KPBLN memberitahukan \nkepada Otoritas Jasa Keuangan secara tertulis untuk \nmemperoleh penundaan batas waktu penyampaian \nLaporan dan/atau koreksi Laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian \nsurat \npemberitahuan \nsebagaimana \ndimaksud pada ayat (1) dilakukan secara luring kepada:  \na. \ndepartemen pengawasan Bank terkait atau kantor \nOtoritas Jasa Keuangan di Jakarta bagi Bank yang \nberkantor pusat atau kantor cabang dari bank \nyang berkedudukan di luar negeri yang berada di \nwilayah Provinsi Daerah Khusus Jakarta dan \nKPBLN; atau \nb. \nkantor Otoritas Jasa Keuangan setempat sesuai \ndengan wilayah tempat kedudukan kantor pusat \nBank, bagi Bank yang berkantor di luar wilayah \nProvinsi Daerah Khusus Jakarta."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank dan KPBLN yang memperoleh penundaan batas \nwaktu \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "menyampaikan Laporan dan/atau koreksi Laporan \nsetelah Bank dan KPBLN kembali melakukan kegiatan \noperasional secara normal."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penundaan \nbatas \nwaktu \npenyampaian \nLaporan \ndan/atau koreksi Laporan hanya diberikan sampai \ndengan keadaan kahar telah teratasi atau berdasarkan \npertimbangan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 14 ayat (1), Pasal 18 ayat (1), dan/atau ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dikecualikan untuk Bank dan KPBLN yang \nmengalami keadaan kahar sebagaimana dimaksud \npada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "(1) \nDalam hal terjadi kerusakan pada Laporan dan/atau \nkoreksi \nLaporan \nkarena \ngangguan \nteknis \natau \ngangguan lain pada Sistem Pelaporan Otoritas Jasa \nKeuangan, Otoritas Jasa Keuangan dapat meminta \nBank dan KPBLN untuk menyampaikan kembali \nLaporan dan/atau koreksi Laporan. \n(2) \nBank dan KPBLN menyampaikan kembali Laporan \ndan/atau koreksi Laporan atas permintaan Otoritas \nJasa Keuangan sebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terjadi kerusakan pada Laporan dan/atau \nkoreksi \nLaporan \nkarena \ngangguan \nteknis \natau \ngangguan lain pada Sistem Pelaporan Otoritas Jasa \nKeuangan, Otoritas Jasa Keuangan dapat meminta \nBank dan KPBLN untuk menyampaikan kembali \nLaporan dan/atau koreksi Laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dan KPBLN menyampaikan kembali Laporan \ndan/atau koreksi Laporan atas permintaan Otoritas \nJasa Keuangan sebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENYAMPAIAN LAPORAN",
+      "teks_lengkap": "Apabila batas waktu penyampaian Laporan jatuh pada hari \nSabtu, hari Minggu, dan/atau hari libur lain, Laporan \ndisampaikan pada hari kerja berikutnya. \n \nBAB VII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Apabila batas waktu penyampaian Laporan jatuh pada hari \nSabtu, hari Minggu, dan/atau hari libur lain, Laporan \ndisampaikan pada hari kerja berikutnya. \n \nBAB VII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nKewajiban penyampaian:  \na. \nLaporan Berkala sebagaimana dimaksud dalam \nPasal 3 huruf a; dan  \nb. \nLaporan Insidental sebagaimana dimaksud dalam \nPasal 3 huruf b,  \nberdasarkan Peraturan Otoritas Jasa Keuangan ini \nuntuk pertama kali ditetapkan oleh Otoritas Jasa \nKeuangan. \n(2) \nDalam hal Sistem Pelaporan Otoritas Jasa Keuangan \nbelum tersedia untuk Laporan sesuai dengan Peraturan \nOtoritas Jasa Keuangan ini, ketentuan mengenai \npenyampaian atas Laporan termasuk pengenaan sanksi \ndan \nbatas \nwaktu \npenyampaian \nmengacu \npada \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n63/POJK.03/2020 tentang Pelaporan Bank Umum \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewajiban penyampaian:  \na. \nLaporan Berkala sebagaimana dimaksud dalam \nPasal 3 huruf a; dan  \nb. \nLaporan Insidental sebagaimana dimaksud dalam \nPasal 3 huruf b,  \nberdasarkan Peraturan Otoritas Jasa Keuangan ini \nuntuk pertama kali ditetapkan oleh Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Sistem Pelaporan Otoritas Jasa Keuangan \nbelum tersedia untuk Laporan sesuai dengan Peraturan \nOtoritas Jasa Keuangan ini, ketentuan mengenai \npenyampaian atas Laporan termasuk pengenaan sanksi \ndan \nbatas \nwaktu \npenyampaian \nmengacu \npada \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n63/POJK.03/2020 tentang Pelaporan Bank Umum \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Dalam hal ditetapkan kewajiban penyampaian Laporan \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan dalam \nketentuan \nOtoritas \nJasa \nKeuangan, \nbatas \nwaktu \npenyampaian Laporan, tata cara penyampaian Laporan, dan \npengenaan sanksi administratif dilaksanakan sesuai dengan \nPeraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal ditetapkan kewajiban penyampaian Laporan \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan dalam \nketentuan \nOtoritas \nJasa \nKeuangan, \nbatas \nwaktu \npenyampaian Laporan, tata cara penyampaian Laporan, dan \npengenaan sanksi administratif dilaksanakan sesuai dengan \nPeraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nBagi Bank dan KPBLN yang baru didirikan atau baru \ndiberikan izin pembukaan, kewajiban penyampaian \nLaporan melalui Sistem Pelaporan Otoritas Jasa \nKeuangan pertama kali dilakukan untuk posisi data 1 \n(satu) bulan setelah Bank dan KPBLN melakukan \nkegiatan operasional. \n(2) \nDalam hal Bank melakukan penggabungan, peleburan, \npemisahan, integrasi, konversi, perubahan kegiatan \nusaha dari BUK menjadi BUS, atau merupakan bank \nperantara yang baru didirikan, penyesuaian kewajiban \npenyampaian Laporan secara daring ditetapkan oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bagi Bank dan KPBLN yang baru didirikan atau baru \ndiberikan izin pembukaan, kewajiban penyampaian \nLaporan melalui Sistem Pelaporan Otoritas Jasa \nKeuangan pertama kali dilakukan untuk posisi data 1 \n(satu) bulan setelah Bank dan KPBLN melakukan \nkegiatan operasional."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank melakukan penggabungan, peleburan, \npemisahan, integrasi, konversi, perubahan kegiatan \nusaha dari BUK menjadi BUS, atau merupakan bank \nperantara yang baru didirikan, penyesuaian kewajiban \npenyampaian Laporan secara daring ditetapkan oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat menetapkan kebijakan yang \nberbeda dengan Peraturan Otoritas Jasa Keuangan ini \nberdasarkan pertimbangan tertentu. \n \nBAB VIII \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat menetapkan kebijakan yang \nberbeda dengan Peraturan Otoritas Jasa Keuangan ini \nberdasarkan pertimbangan tertentu. \n \nBAB VIII \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Bank dan KPBLN yang melakukan pelanggaran \nterhadap ketentuan mengenai Pelaporan Bank Umum \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan sebelum \nberlakunya \nPeraturan \nOtoritas \nJasa \nKeuangan \nini, \npemeriksaan, keputusan, dan pengenaan sanksi atas \npelanggaran dimaksud didasarkan pada Peraturan Otoritas \nJasa Keuangan Nomor 63/POJK.03/2020 tentang Pelaporan \nBank Umum melalui Sistem Pelaporan Otoritas Jasa \nKeuangan. \n \nBAB IX \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Bank dan KPBLN yang melakukan pelanggaran \nterhadap ketentuan mengenai Pelaporan Bank Umum \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan sebelum \nberlakunya \nPeraturan \nOtoritas \nJasa \nKeuangan \nini, \npemeriksaan, keputusan, dan pengenaan sanksi atas \npelanggaran dimaksud didasarkan pada Peraturan Otoritas \nJasa Keuangan Nomor 63/POJK.03/2020 tentang Pelaporan \nBank Umum melalui Sistem Pelaporan Otoritas Jasa \nKeuangan. \n \nBAB IX \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, ketentuan mengenai penyampaian: \na. \nLaporan perubahan daftar kantor cabang Bank yang \nakan melakukan kegiatan usaha dalam valuta asing \nsebagaimana diatur dalam ketentuan Otoritas Jasa \nKeuangan mengenai persyaratan bank umum untuk \nmelakukan kegiatan usaha dalam valuta asing;  \nb. \nLaporan penilaian terhadap penerapan manajemen \nrisiko pada perusahaan asuransi sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan Nomor \n\n\n \n38/POJK.03/2017 \ntentang \nManajemen \nRisiko \nKonsolidasi bagi Bank yang Melakukan Pengendalian \nterhadap Perusahaan Anak (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n144, \nTambahan \nLembaran Negara Republik Indonesia Nomor 6087); \nc. \nLaporan pengkinian data dan informasi domisili dari \npihak utama dan pihak lain yang dapat dihubungi \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan Nomor 34/POJK.03/2018 tentang Penilaian \nKembali bagi Pihak Utama Lembaga Jasa Keuangan \n(Lembaran Negara Republik Indonesia Tahun 2018 \nNomor 259, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6285); \nd. \nLaporan restrukturisasi kredit dan laporan perbedaan \nkualitas aset produktif sebagaimana diatur dalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n40/POJK.03/2019 tentang Penilaian Kualitas Aset \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2019 Nomor 247, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6440); \ne. \nLaporan restrukturisasi pembiayaan dan laporan \nperbedaan kualitas aset produktif sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan Nomor \n2/POJK.03/2022 tentang Penilaian Kualitas Aset Bank \nUmum Syariah dan Unit Usaha Syariah (Lembaran \nNegara Republik Indonesia Tahun 2022 Nomor 37, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6764); \nf. \nLaporan pemantauan debitur hapus buku terbesar, \nlaporan \ntindak \nlanjut \n(lima \nbelas) \ndebitur \nnonperforming loans atau nonperforming financing \nterbesar, dan Laporan data sumber daya manusia \nperbankan Indonesia bulanan sebagaimana diatur \ndalam ketentuan pelaksanaan Peraturan Otoritas Jasa \nKeuangan Nomor 63/POJK.03/2020 tentang Pelaporan \nBank Umum melalui Sistem Pelaporan Otoritas Jasa \nKeuangan (Lembaran Negara Republik Indonesia Tahun \nNomor \n297, \nTambahan \nLembaran \nNegara \nRepublik Indonesia Nomor 6604); \ng. \nLaporan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan Nomor 12/POJK.03/2021 tentang \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2021 Nomor 163, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6700) yaitu: \n1. \nLaporan \nkomposisi \natau \ndaftar \nkepemilikan \nsaham; \n2. \nsalinan izin pembukaan kantor bank berbadan \nhukum Indonesia di luar negeri dari otoritas \nnegara setempat; \n3. \nsalinan izin pemindahan alamat kantor di luar \nnegeri dari otoritas negara setempat; \n4. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya sehubungan dengan pemindahan \nsementara alamat jaringan kantor bank berbadan \nhukum Indonesia; \n\n\n \n5. \nsalinan persetujuan penutupan kantor di luar \nnegeri dari otoritas negara setempat, sehubungan \ndengan penutupan kantor di luar negeri; \n6. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya \nsehubungan \ndengan \npenutupan \nsementara \nkantor \nbank \nberbadan \nhukum \nIndonesia selain kantor pusat; \n7. \ninformasi efektif beroperasi alamat kantor dari \nkantor cabang dari bank yang berkedudukan di \nluar negeri pada alamat sebelumnya sehubungan \ndengan pemindahan sementara alamat jaringan \nkantor dari kantor cabang dari bank yang \nberkedudukan di luar negeri; \n8. \ninformasi pengangkatan anggota direksi atau \nanggota dewan komisaris; dan \n9. \ninformasi efektif beroperasi alamat jaringan kantor \ncabang dari bank yang berkedudukan di luar \nnegeri pada alamat sebelumnya sehubungan \ndengan penutupan sementara jaringan kantor \ncabang dari bank yang berkedudukan di luar \nnegeri selain kantor cabang dari bank yang \nberkedudukan di luar negeri; \nh. \nLaporan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan Nomor 16/POJK.03/2022 tentang \nBank Umum Syariah (Lembaran Negara Republik \nIndonesia Tahun 2022 Nomor 19/OJK, Tambahan \nLembaran Negara Republik Indonesia Nomor 11/OJK) \nyaitu: \n1. \nLaporan \nkomposisi \natau \ndaftar \nkepemilikan \nsaham; \n2. \nsalinan izin pembukaan kantor bank berbadan \nhukum Indonesia di luar negeri dari otoritas \nnegara setempat; \n3. \nsalinan izin pemindahan alamat kantor di luar \nnegeri dari otoritas negara setempat; \n4. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya sehubungan dengan pemindahan \nsementara alamat jaringan kantor bank berbadan \nhukum Indonesia; \n5. \nsalinan persetujuan penutupan kantor di luar \nnegeri dari otoritas negara setempat, sehubungan \ndengan penutupan kantor di luar negeri; \n6. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya \nsehubungan \ndengan \npenutupan \nsementara \nkantor \nbank \nberbadan \nhukum \nIndonesia selain kantor pusat; dan \n7. \ninformasi pengangkatan anggota direksi atau \nanggota dewan komisaris; \ni. \nLaporan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan Nomor 12 Tahun 2023 tentang Unit \nUsaha Syariah (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 20/OJK, Tambahan Lembaran \nNegara Republik Indonesia Nomor 45/OJK) yaitu: \n\n\n \n1. \nsalinan izin pembukaan kantor di luar negeri dari \notoritas negara setempat; \n2. \nsalinan izin pemindahan alamat kantor di luar \nnegeri dari otoritas negara setempat; \n3. \ninformasi efektif beroperasi alamat kantor UUS \npada alamat sebelumnya sehubungan dengan \npemindahan sementara alamat jaringan kantor \nUUS; \n4. \nsalinan persetujuan penutupan kantor di luar \nnegeri dari otoritas negara setempat, sehubungan \ndengan penutupan kantor di luar negeri; dan \n5. \ninformasi efektif beroperasi alamat kantor UUS \npada alamat sebelumnya sehubungan dengan \npenutupan sementara kantor UUS; dan \nj. \nLaporan \ninformasi \npengangkatan \nanggota \ndewan \npengawas syariah sebagaimana diatur dalam ketentuan \nOtoritas Jasa Keuangan mengenai penerapan tata \nkelola syariah bagi bank umum syariah dan unit usaha \nsyariah, \ndicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, ketentuan mengenai penyampaian: \na. \nLaporan perubahan daftar kantor cabang Bank yang \nakan melakukan kegiatan usaha dalam valuta asing \nsebagaimana diatur dalam ketentuan Otoritas Jasa \nKeuangan mengenai persyaratan bank umum untuk \nmelakukan kegiatan usaha dalam valuta asing;  \nb. \nLaporan penilaian terhadap penerapan manajemen \nrisiko pada perusahaan asuransi sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan Nomor \n\n\n \n38/POJK.03/2017 \ntentang \nManajemen \nRisiko \nKonsolidasi bagi Bank yang Melakukan Pengendalian \nterhadap Perusahaan Anak (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n144, \nTambahan \nLembaran Negara Republik Indonesia Nomor 6087); \nc. \nLaporan pengkinian data dan informasi domisili dari \npihak utama dan pihak lain yang dapat dihubungi \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan Nomor 34/POJK.03/2018 tentang Penilaian \nKembali bagi Pihak Utama Lembaga Jasa Keuangan \n(Lembaran Negara Republik Indonesia Tahun 2018 \nNomor 259, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6285); \nd. \nLaporan restrukturisasi kredit dan laporan perbedaan \nkualitas aset produktif sebagaimana diatur dalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n40/POJK.03/2019 tentang Penilaian Kualitas Aset \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2019 Nomor 247, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6440); \ne. \nLaporan restrukturisasi pembiayaan dan laporan \nperbedaan kualitas aset produktif sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan Nomor \n2/POJK.03/2022 tentang Penilaian Kualitas Aset Bank \nUmum Syariah dan Unit Usaha Syariah (Lembaran \nNegara Republik Indonesia Tahun 2022 Nomor 37, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6764); \nf. \nLaporan pemantauan debitur hapus buku terbesar, \nlaporan \ntindak \nlanjut \n(lima \nbelas) \ndebitur \nnonperforming loans atau nonperforming financing \nterbesar, dan Laporan data sumber daya manusia \nperbankan Indonesia bulanan sebagaimana diatur \ndalam ketentuan pelaksanaan Peraturan Otoritas Jasa \nKeuangan Nomor 63/POJK.03/2020 tentang Pelaporan \nBank Umum melalui Sistem Pelaporan Otoritas Jasa \nKeuangan (Lembaran Negara Republik Indonesia Tahun \nNomor \n297, \nTambahan \nLembaran \nNegara \nRepublik Indonesia Nomor 6604); \ng. \nLaporan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan Nomor 12/POJK.03/2021 tentang \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2021 Nomor 163, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6700) yaitu: \n1. \nLaporan \nkomposisi \natau \ndaftar \nkepemilikan \nsaham; \n2. \nsalinan izin pembukaan kantor bank berbadan \nhukum Indonesia di luar negeri dari otoritas \nnegara setempat; \n3. \nsalinan izin pemindahan alamat kantor di luar \nnegeri dari otoritas negara setempat; \n4. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya sehubungan dengan pemindahan \nsementara alamat jaringan kantor bank berbadan \nhukum Indonesia; \n\n\n \n5. \nsalinan persetujuan penutupan kantor di luar \nnegeri dari otoritas negara setempat, sehubungan \ndengan penutupan kantor di luar negeri; \n6. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya \nsehubungan \ndengan \npenutupan \nsementara \nkantor \nbank \nberbadan \nhukum \nIndonesia selain kantor pusat; \n7. \ninformasi efektif beroperasi alamat kantor dari \nkantor cabang dari bank yang berkedudukan di \nluar negeri pada alamat sebelumnya sehubungan \ndengan pemindahan sementara alamat jaringan \nkantor dari kantor cabang dari bank yang \nberkedudukan di luar negeri; \n8. \ninformasi pengangkatan anggota direksi atau \nanggota dewan komisaris; dan \n9. \ninformasi efektif beroperasi alamat jaringan kantor \ncabang dari bank yang berkedudukan di luar \nnegeri pada alamat sebelumnya sehubungan \ndengan penutupan sementara jaringan kantor \ncabang dari bank yang berkedudukan di luar \nnegeri selain kantor cabang dari bank yang \nberkedudukan di luar negeri; \nh. \nLaporan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan Nomor 16/POJK.03/2022 tentang \nBank Umum Syariah (Lembaran Negara Republik \nIndonesia Tahun 2022 Nomor 19/OJK, Tambahan \nLembaran Negara Republik Indonesia Nomor 11/OJK) \nyaitu: \n1. \nLaporan \nkomposisi \natau \ndaftar \nkepemilikan \nsaham; \n2. \nsalinan izin pembukaan kantor bank berbadan \nhukum Indonesia di luar negeri dari otoritas \nnegara setempat; \n3. \nsalinan izin pemindahan alamat kantor di luar \nnegeri dari otoritas negara setempat; \n4. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya sehubungan dengan pemindahan \nsementara alamat jaringan kantor bank berbadan \nhukum Indonesia; \n5. \nsalinan persetujuan penutupan kantor di luar \nnegeri dari otoritas negara setempat, sehubungan \ndengan penutupan kantor di luar negeri; \n6. \ninformasi efektif beroperasi alamat kantor bank \nberbadan \nhukum \nIndonesia \npada \nalamat \nsebelumnya \nsehubungan \ndengan \npenutupan \nsementara \nkantor \nbank \nberbadan \nhukum \nIndonesia selain kantor pusat; dan \n7. \ninformasi pengangkatan anggota direksi atau \nanggota dewan komisaris; \ni. \nLaporan sebagaimana diatur dalam Peraturan Otoritas \nJasa Keuangan Nomor 12 Tahun 2023 tentang Unit \nUsaha Syariah (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 20/OJK, Tambahan Lembaran \nNegara Republik Indonesia Nomor 45/OJK) yaitu: \n\n\n \n1. \nsalinan izin pembukaan kantor di luar negeri dari \notoritas negara setempat; \n2. \nsalinan izin pemindahan alamat kantor di luar \nnegeri dari otoritas negara setempat; \n3. \ninformasi efektif beroperasi alamat kantor UUS \npada alamat sebelumnya sehubungan dengan \npemindahan sementara alamat jaringan kantor \nUUS; \n4. \nsalinan persetujuan penutupan kantor di luar \nnegeri dari otoritas negara setempat, sehubungan \ndengan penutupan kantor di luar negeri; dan \n5. \ninformasi efektif beroperasi alamat kantor UUS \npada alamat sebelumnya sehubungan dengan \npenutupan sementara kantor UUS; dan \nj. \nLaporan \ninformasi \npengangkatan \nanggota \ndewan \npengawas syariah sebagaimana diatur dalam ketentuan \nOtoritas Jasa Keuangan mengenai penerapan tata \nkelola syariah bagi bank umum syariah dan unit usaha \nsyariah, \ndicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, semua ketentuan yang merupakan pelaksanaan \ndari \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n63/POJK.03/2020 tentang Pelaporan Bank Umum melalui \nSistem Pelaporan Otoritas Jasa Keuangan (Lembaran Negara \nRepublik Indonesia Tahun 2020 Nomor 297, Tambahan \nLembaran \nNegara \nRepublik \nIndonesia \nNomor \n6604), \ndinyatakan \nmasih \ntetap \nberlaku \nsepanjang \ntidak \nbertentangan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, semua ketentuan yang merupakan pelaksanaan \ndari \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n63/POJK.03/2020 tentang Pelaporan Bank Umum melalui \nSistem Pelaporan Otoritas Jasa Keuangan (Lembaran Negara \nRepublik Indonesia Tahun 2020 Nomor 297, Tambahan \nLembaran \nNegara \nRepublik \nIndonesia \nNomor \n6604), \ndinyatakan \nmasih \ntetap \nberlaku \nsepanjang \ntidak \nbertentangan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n63/POJK.03/2020 tentang Pelaporan Bank Umum melalui \nSistem Pelaporan Otoritas Jasa Keuangan (Lembaran Negara \nRepublik Indonesia Tahun 2020 Nomor 297, Tambahan \nLembaran Negara Republik Indonesia Nomor 6604), dicabut \ndan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n63/POJK.03/2020 tentang Pelaporan Bank Umum melalui \nSistem Pelaporan Otoritas Jasa Keuangan (Lembaran Negara \nRepublik Indonesia Tahun 2020 Nomor 297, Tambahan \nLembaran Negara Republik Indonesia Nomor 6604), dicabut \ndan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nKepala Direktorat Pengembangan Hukum \nDepartemen Hukum \n \nttd. \n \nAat Windradi \n \n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 15 September 2025 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd. \n \nMAHENDRA SIREGAR \n \nDiundangkan di Jakarta \npada tanggal 2 Oktober 2025 \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nttd. \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR 31/OJK\n\n\n \n \n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 22 TAHUN 2025 \nTENTANG \nPELAPORAN BANK UMUM MELALUI SISTEM PELAPORAN  \nOTORITAS JASA KEUANGAN \n \nI. \nUMUM \nUntuk mendukung fungsi pengawasan di sektor perbankan, \ndiperlukan informasi kondisi keuangan dan kegiatan usaha Bank dan \nKPBLN. Informasi tersebut bersifat komprehensif, lengkap, akurat, \nterkini, utuh, dan tepat waktu. Bank dan KPBLN harus menyusun dan \nmenyampaikan kepada Otoritas Jasa Keuangan informasi kondisi \nkeuangan dan kegiatan usaha Bank dan KPBLN dalam bentuk dan \nsesuai dengan waktu yang ditetapkan oleh Otoritas Jasa Keuangan \nsesuai dengan ketentuan peraturan perundang-undangan di sektor \nperbankan.  \nSaat ini, Bank dan KPBLN telah menyampaikan serangkaian \nLaporan terkait informasi kondisi keuangan dan kegiatan usaha Bank \ndan KPBLN kepada Otoritas Jasa Keuangan. Informasi yang disampaikan \nperlu difokuskan dengan mempertimbangkan relevansi dan kebutuhan \ndalam proses pengawasan terkini. Dalam meningkatkan efektivitas dan \nefisiensi pelaporan Bank dan KPBLN, dilakukan penyederhanaan \n(simplifikasi) \nLaporan \nyang \ndisampaikan \nkepada \nOtoritas \nJasa \nKeuangan. \nSelain itu, sejalan dengan perkembangan teknologi diperlukan \nmetode pelaporan yang efisien dan cepat secara daring melalui Sistem \nPelaporan Otoritas Jasa Keuangan dan digitalisasi untuk Laporan yang \nmasih \ndisampaikan \ndalam \nbentuk \ndokumen \ncetak. \nPerubahan \npenyampaian Laporan dalam bentuk dokumen cetak menjadi berbasis \nelektronik bertujuan untuk meningkatkan efektivitas fungsi pengawasan \nOtoritas Jasa Keuangan.  \nSecara umum, Peraturan Otoritas Jasa Keuangan ini memuat \nmateri pokok yang disusun secara sistematis di antaranya mengenai \ncakupan Laporan, periode Laporan, dan tata cara penyampaian Laporan \ndalam Sistem Pelaporan Otoritas Jasa Keuangan.  \nSehubungan dengan hal tersebut di atas, perlu menetapkan \nPeraturan Otoritas Jasa Keuangan pengganti dari Peraturan Otoritas \nJasa Keuangan Nomor 63/POJK.03/2020 tentang Pelaporan Bank \nUmum melalui Sistem Pelaporan Otoritas Jasa Keuangan. \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nKepala Direktorat Pengembangan Hukum \nDepartemen Hukum \n \nttd. \n \nAat Windradi \n \n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 15 September 2025 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd. \n \nMAHENDRA SIREGAR \n \nDiundangkan di Jakarta \npada tanggal 2 Oktober 2025 \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nttd. \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR 31/OJK\n\n\n \n \n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 22 TAHUN 2025 \nTENTANG \nPELAPORAN BANK UMUM MELALUI SISTEM PELAPORAN  \nOTORITAS JASA KEUANGAN \n \nI. \nUMUM \nUntuk mendukung fungsi pengawasan di sektor perbankan, \ndiperlukan informasi kondisi keuangan dan kegiatan usaha Bank dan \nKPBLN. Informasi tersebut bersifat komprehensif, lengkap, akurat, \nterkini, utuh, dan tepat waktu. Bank dan KPBLN harus menyusun dan \nmenyampaikan kepada Otoritas Jasa Keuangan informasi kondisi \nkeuangan dan kegiatan usaha Bank dan KPBLN dalam bentuk dan \nsesuai dengan waktu yang ditetapkan oleh Otoritas Jasa Keuangan \nsesuai dengan ketentuan peraturan perundang-undangan di sektor \nperbankan.  \nSaat ini, Bank dan KPBLN telah menyampaikan serangkaian \nLaporan terkait informasi kondisi keuangan dan kegiatan usaha Bank \ndan KPBLN kepada Otoritas Jasa Keuangan. Informasi yang disampaikan \nperlu difokuskan dengan mempertimbangkan relevansi dan kebutuhan \ndalam proses pengawasan terkini. Dalam meningkatkan efektivitas dan \nefisiensi pelaporan Bank dan KPBLN, dilakukan penyederhanaan \n(simplifikasi) \nLaporan \nyang \ndisampaikan \nkepada \nOtoritas \nJasa \nKeuangan. \nSelain itu, sejalan dengan perkembangan teknologi diperlukan \nmetode pelaporan yang efisien dan cepat secara daring melalui Sistem \nPelaporan Otoritas Jasa Keuangan dan digitalisasi untuk Laporan yang \nmasih \ndisampaikan \ndalam \nbentuk \ndokumen \ncetak. \nPerubahan \npenyampaian Laporan dalam bentuk dokumen cetak menjadi berbasis \nelektronik bertujuan untuk meningkatkan efektivitas fungsi pengawasan \nOtoritas Jasa Keuangan.  \nSecara umum, Peraturan Otoritas Jasa Keuangan ini memuat \nmateri pokok yang disusun secara sistematis di antaranya mengenai \ncakupan Laporan, periode Laporan, dan tata cara penyampaian Laporan \ndalam Sistem Pelaporan Otoritas Jasa Keuangan.  \nSehubungan dengan hal tersebut di atas, perlu menetapkan \nPeraturan Otoritas Jasa Keuangan pengganti dari Peraturan Otoritas \nJasa Keuangan Nomor 63/POJK.03/2020 tentang Pelaporan Bank \nUmum melalui Sistem Pelaporan Otoritas Jasa Keuangan. \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nPenyampaian Laporan secara daring yaitu penyampaian \nLaporan yang dilakukan dengan mengirim atau mentransfer \nrekaman data (file) secara langsung melalui Sistem Pelaporan \nOtoritas Jasa Keuangan. \nYang dimaksud dengan “Sistem Pelaporan Otoritas Jasa \nKeuangan” \nadalah \nsistem \npelaporan \ndengan \nalamat \nhttps://apolo.ojk.go.id atau alamat lain yang ditetapkan \nOtoritas Jasa Keuangan. \nAyat (3) \nKoreksi dapat berasal dari temuan Bank dan KPBLN, hasil \naudit atas informasi keuangan historis atau penelaahan \nterbatas oleh akuntan publik, dan/atau temuan Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nPenyampaian Laporan secara daring yaitu penyampaian \nLaporan yang dilakukan dengan mengirim atau mentransfer \nrekaman data (file) secara langsung melalui Sistem Pelaporan \nOtoritas Jasa Keuangan. \nYang dimaksud dengan “Sistem Pelaporan Otoritas Jasa \nKeuangan” \nadalah \nsistem \npelaporan \ndengan \nalamat \nhttps://apolo.ojk.go.id atau alamat lain yang ditetapkan \nOtoritas Jasa Keuangan. \nAyat (3) \nKoreksi dapat berasal dari temuan Bank dan KPBLN, hasil \naudit atas informasi keuangan historis atau penelaahan \nterbatas oleh akuntan publik, dan/atau temuan Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nKelompok informasi keuangan antara lain Laporan \npublikasi keuangan dan informasi kinerja keuangan dan \nLaporan rincian suku bunga dasar kredit.  \nHuruf b \nKelompok informasi risiko dan permodalan antara lain \nLaporan liquidity coverage ratio, Laporan kewajiban \npenyediaan modal minimum dan aset tertimbang menurut \nrisiko, dan Laporan batas maksimum pemberian kredit \ndan penyediaan dana besar.  \nHuruf c \nKelompok informasi produk, aktivitas dan kegiatan antara \nlain \nLaporan \nperkembangan \npenyelenggaraan \nlaku \npandai. \nHuruf d \nKelompok informasi data pokok antara lain Laporan data \njaringan kantor dan Laporan data sumber daya manusia \nperbankan Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nKelompok informasi keuangan antara lain Laporan \npublikasi keuangan dan informasi kinerja keuangan dan \nLaporan rincian suku bunga dasar kredit.  \nHuruf b \nKelompok informasi risiko dan permodalan antara lain \nLaporan liquidity coverage ratio, Laporan kewajiban \npenyediaan modal minimum dan aset tertimbang menurut \nrisiko, dan Laporan batas maksimum pemberian kredit \ndan penyediaan dana besar.  \nHuruf c \nKelompok informasi produk, aktivitas dan kegiatan antara \nlain \nLaporan \nperkembangan \npenyelenggaraan \nlaku \npandai. \nHuruf d \nKelompok informasi data pokok antara lain Laporan data \njaringan kantor dan Laporan data sumber daya manusia \nperbankan Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh:  \nLaporan monitoring likuiditas harian posisi data hari Rabu tanggal \n3 Februari 2027 disampaikan paling lambat pada hari Kamis \ntanggal 4 Februari 2027 pukul 23.59 WIB.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh:  \nLaporan monitoring likuiditas harian posisi data hari Rabu tanggal \n3 Februari 2027 disampaikan paling lambat pada hari Kamis \ntanggal 4 Februari 2027 pukul 23.59 WIB."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “pengkinian rencana aksi pemulihan” \nadalah Laporan pengkinian rencana aksi pemulihan sesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenetapan status pengawasan dan penanganan permasalahan \nbank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “pengkinian rencana aksi pemulihan” \nadalah Laporan pengkinian rencana aksi pemulihan sesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenetapan status pengawasan dan penanganan permasalahan \nbank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “per Laporan” adalah Laporan untuk 1 \n(satu) posisi data Laporan. Sebagai contoh, Laporan publikasi \nkeuangan dan informasi kinerja keuangan bulanan posisi data \nJanuari 2027 dihitung 1 (satu) Laporan. \nContoh 1:  \nLaporan kewajiban penyediaan modal minimum dan aset \ntertimbang menurut risiko Bank secara individu posisi data \nJanuari 2026 disampaikan paling lambat pada tanggal 7 \nFebruari 2026 namun mengingat tanggal tersebut hari Sabtu, \nLaporan disampaikan pada hari kerja berikutnya yaitu hari \nSenin tanggal 9 Februari 2026. Bank “X” menyampaikan \nLaporan pada hari Jumat tanggal 13 Februari 2026. Bank “X” \ndikenai \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp4.000.000,00 (empat juta rupiah) yaitu Rp1.000.000,00 \n(satu juta rupiah) x 4 (empat) hari kerja.  \nContoh 2: \nKegiatan trust disampaikan dalam Laporan realisasi rencana \nbisnis kepada Otoritas Jasa Keuangan. Laporan realisasi \nrencana bisnis posisi data triwulan kesatu tahun 2030 \ndisampaikan paling lambat pada tanggal 30 April 2030. Bank \n“PKL” menyampaikan Laporan realisasi rencana bisnis pada 2 \n\n\n \nMei 2030. Bank “PKL” dikenai sanksi administratif berupa \ndenda sebesar Rp2.000.000,00 (dua juta rupiah) yaitu \nRp1.000.000,00 (satu juta rupiah) x 2 (dua) hari kerja. \nAyat (2) \nYang dimaksud dengan “kesalahan isian” adalah kesalahan \nsatu baris input Laporan, termasuk tidak menyampaikan \ndokumen pendukung. \nContoh 1: \nDalam Laporan publikasi keuangan dan informasi kinerja \nkeuangan bulanan, Bank “X” salah melaporkan akun “Aset \nKeuangan Lainnya” dan akun “Aset Lainnya” pada Laporan \nposisi keuangan. Atas kesalahan ini, Bank “X” dikenai sanksi \nadministratif berupa denda atas kesalahan input angka pada \ntabel Laporan posisi keuangan sebesar Rp200.000,00 (dua \nratus \nribu \nrupiah) \nyaitu \nRp100.000,00 \n(seratus \nribu  \nrupiah) x 2 (dua) isian. \nContoh 2: \nDalam Laporan rincian suku bunga dasar kredit terdapat satu \nbaris input Laporan berupa “Biaya Giro Wajib Minimum” yang \nmemiliki isian beberapa dimensi (kolom). Untuk satu baris \ninput dimaksud, Bank “X” salah melaporkan dimensi “Kredit \nnonUMKM Korporasi”, dimensi “Kredit UMKM Kecil”, dan \ndimensi “KPR/KPA”. Atas kesalahan ini, Bank “X” hanya \ndikenai sanksi administratif berupa denda atas kesalahan satu \nbaris input sebesar Rp100.000,00 (seratus ribu rupiah) x 1 \n(satu) isian. \nContoh 3: \nRencana penyelenggaraan produk disampaikan dalam rencana \nbisnis kepada Otoritas Jasa Keuangan. Dalam penyampaian \nLaporan rencana bisnis, Bank “X” salah melaporkan informasi \nsebagai berikut: \na. \ntidak \nmenyampaikan \ndokumen \npendukung \nberupa \ndokumen rencana penyelenggaraan produk bank; dan \nb. \nsalah melaporkan dimensi “Proyeksi Triwulan 4” dalam \nbaris “Kas” pada informasi proyeksi laporan posisi \nkeuangan. \nAtas \nkesalahan \ndimaksud, \nBank \n“X” \ndikenai \nsanksi \nadministratif berupa denda sebesar Rp200.000,00 (dua ratus \nribu rupiah) yaitu Rp100.000,00 (seratus ribu rupiah) x 2 (dua) \nisian. \nAyat (3) \nHuruf a \nContoh: \nDalam Laporan publikasi keuangan dan informasi kinerja \nkeuangan triwulanan, Bank “X” salah melaporkan kredit \nyang \ntelah \ndikonversi \nmenjadi \npenyertaan \nmodal \nsementara \nsebagai \nkredit \nkualitas \nmacet, \nyang \nseharusnya dilaporkan sebagai “penyertaan” pada tabel \nposisi keuangan. Kesalahan ini mengakibatkan kesalahan \npada: \n1. \nakun “kredit” pada tabel Laporan posisi keuangan; \n2. \nakun “penyertaan” pada tabel Laporan posisi \nkeuangan; \n3. \nakun “kredit kualitas macet” pada tabel kualitas aset \nproduktif; dan \n\n\n \n4. \nakun “penyertaan kualitas lancar” pada tabel \nkualitas aset produktif. \nAtas kesalahan ini, Bank “X” hanya dikenai sanksi atas \nkesalahan input angka “kredit” pada tabel Laporan posisi \nkeuangan yaitu sebesar Rp100.000,00 (seratus ribu  \nrupiah) x 1 (satu) isian. \nHuruf b \nContoh: \nDalam Laporan kewajiban penyediaan modal minimum \ndan aset tertimbang menurut risiko Bank secara individu, \nBank “X” salah melaporkan surat berharga yang \nseharusnya \ndilaporkan \nsebagai \n“instrumen \nyang \nmemenuhi persyaratan modal inti tambahan” namun \ndilaporkan \nsebagai \n“instrumen \nyang \nmemenuhi \npersyaratan modal pelengkap”.  \nKesalahan ini juga mengakibatkan kesalahan pada: \n1. \nLaporan kewajiban penyediaan modal minimum dan \naset \ntertimbang \nmenurut \nrisiko \nBank \nsecara \nkonsolidasi sebanyak 3 (tiga) isian yaitu jumlah \n“instrumen yang memenuhi persyaratan modal inti \ntambahan”, “instrumen yang memenuhi persyaratan \nmodal pelengkap”, dan “total modal”; dan \n2. \nLaporan publikasi triwulanan sebanyak 3 (tiga) isian \nyaitu \njumlah \n“instrumen \nyang \nmemenuhi \npersyaratan modal inti tambahan”, “instrumen yang \nmemenuhi persyaratan modal pelengkap”, dan “total \nmodal”. \nAtas kesalahan ini, Bank “X” hanya dikenai sanksi atas \nkesalahan pada Laporan kewajiban penyediaan modal \nminimum dan aset tertimbang menurut risiko Bank \nsecara individu yaitu sebesar Rp100.000,00 (seratus ribu \nrupiah) x 1 (satu) isian. \nAyat (4) \nBatas waktu penyampaian Laporan dan/atau koreksi Laporan \nditetapkan oleh Otoritas Jasa Keuangan.  \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “per Laporan” adalah Laporan untuk 1 \n(satu) posisi data Laporan. Sebagai contoh, Laporan publikasi \nkeuangan dan informasi kinerja keuangan bulanan posisi data \nJanuari 2027 dihitung 1 (satu) Laporan. \nContoh 1:  \nLaporan kewajiban penyediaan modal minimum dan aset \ntertimbang menurut risiko Bank secara individu posisi data \nJanuari 2026 disampaikan paling lambat pada tanggal 7 \nFebruari 2026 namun mengingat tanggal tersebut hari Sabtu, \nLaporan disampaikan pada hari kerja berikutnya yaitu hari \nSenin tanggal 9 Februari 2026. Bank “X” menyampaikan \nLaporan pada hari Jumat tanggal 13 Februari 2026. Bank “X” \ndikenai \nsanksi \nadministratif \nberupa \ndenda \nsebesar \nRp4.000.000,00 (empat juta rupiah) yaitu Rp1.000.000,00 \n(satu juta rupiah) x 4 (empat) hari kerja.  \nContoh 2: \nKegiatan trust disampaikan dalam Laporan realisasi rencana \nbisnis kepada Otoritas Jasa Keuangan. Laporan realisasi \nrencana bisnis posisi data triwulan kesatu tahun 2030 \ndisampaikan paling lambat pada tanggal 30 April 2030. Bank \n“PKL” menyampaikan Laporan realisasi rencana bisnis pada 2 \n\n\n \nMei 2030. Bank “PKL” dikenai sanksi administratif berupa \ndenda sebesar Rp2.000.000,00 (dua juta rupiah) yaitu \nRp1.000.000,00 (satu juta rupiah) x 2 (dua) hari kerja. \nAyat (2) \nYang dimaksud dengan “kesalahan isian” adalah kesalahan \nsatu baris input Laporan, termasuk tidak menyampaikan \ndokumen pendukung. \nContoh 1: \nDalam Laporan publikasi keuangan dan informasi kinerja \nkeuangan bulanan, Bank “X” salah melaporkan akun “Aset \nKeuangan Lainnya” dan akun “Aset Lainnya” pada Laporan \nposisi keuangan. Atas kesalahan ini, Bank “X” dikenai sanksi \nadministratif berupa denda atas kesalahan input angka pada \ntabel Laporan posisi keuangan sebesar Rp200.000,00 (dua \nratus \nribu \nrupiah) \nyaitu \nRp100.000,00 \n(seratus \nribu  \nrupiah) x 2 (dua) isian. \nContoh 2: \nDalam Laporan rincian suku bunga dasar kredit terdapat satu \nbaris input Laporan berupa “Biaya Giro Wajib Minimum” yang \nmemiliki isian beberapa dimensi (kolom). Untuk satu baris \ninput dimaksud, Bank “X” salah melaporkan dimensi “Kredit \nnonUMKM Korporasi”, dimensi “Kredit UMKM Kecil”, dan \ndimensi “KPR/KPA”. Atas kesalahan ini, Bank “X” hanya \ndikenai sanksi administratif berupa denda atas kesalahan satu \nbaris input sebesar Rp100.000,00 (seratus ribu rupiah) x 1 \n(satu) isian. \nContoh 3: \nRencana penyelenggaraan produk disampaikan dalam rencana \nbisnis kepada Otoritas Jasa Keuangan. Dalam penyampaian \nLaporan rencana bisnis, Bank “X” salah melaporkan informasi \nsebagai berikut: \na. \ntidak \nmenyampaikan \ndokumen \npendukung \nberupa \ndokumen rencana penyelenggaraan produk bank; dan \nb. \nsalah melaporkan dimensi “Proyeksi Triwulan 4” dalam \nbaris “Kas” pada informasi proyeksi laporan posisi \nkeuangan. \nAtas \nkesalahan \ndimaksud, \nBank \n“X” \ndikenai \nsanksi \nadministratif berupa denda sebesar Rp200.000,00 (dua ratus \nribu rupiah) yaitu Rp100.000,00 (seratus ribu rupiah) x 2 (dua) \nisian. \nAyat (3) \nHuruf a \nContoh: \nDalam Laporan publikasi keuangan dan informasi kinerja \nkeuangan triwulanan, Bank “X” salah melaporkan kredit \nyang \ntelah \ndikonversi \nmenjadi \npenyertaan \nmodal \nsementara \nsebagai \nkredit \nkualitas \nmacet, \nyang \nseharusnya dilaporkan sebagai “penyertaan” pada tabel \nposisi keuangan. Kesalahan ini mengakibatkan kesalahan \npada: \n1. \nakun “kredit” pada tabel Laporan posisi keuangan; \n2. \nakun “penyertaan” pada tabel Laporan posisi \nkeuangan; \n3. \nakun “kredit kualitas macet” pada tabel kualitas aset \nproduktif; dan \n\n\n \n4. \nakun “penyertaan kualitas lancar” pada tabel \nkualitas aset produktif. \nAtas kesalahan ini, Bank “X” hanya dikenai sanksi atas \nkesalahan input angka “kredit” pada tabel Laporan posisi \nkeuangan yaitu sebesar Rp100.000,00 (seratus ribu  \nrupiah) x 1 (satu) isian. \nHuruf b \nContoh: \nDalam Laporan kewajiban penyediaan modal minimum \ndan aset tertimbang menurut risiko Bank secara individu, \nBank “X” salah melaporkan surat berharga yang \nseharusnya \ndilaporkan \nsebagai \n“instrumen \nyang \nmemenuhi persyaratan modal inti tambahan” namun \ndilaporkan \nsebagai \n“instrumen \nyang \nmemenuhi \npersyaratan modal pelengkap”.  \nKesalahan ini juga mengakibatkan kesalahan pada: \n1. \nLaporan kewajiban penyediaan modal minimum dan \naset \ntertimbang \nmenurut \nrisiko \nBank \nsecara \nkonsolidasi sebanyak 3 (tiga) isian yaitu jumlah \n“instrumen yang memenuhi persyaratan modal inti \ntambahan”, “instrumen yang memenuhi persyaratan \nmodal pelengkap”, dan “total modal”; dan \n2. \nLaporan publikasi triwulanan sebanyak 3 (tiga) isian \nyaitu \njumlah \n“instrumen \nyang \nmemenuhi \npersyaratan modal inti tambahan”, “instrumen yang \nmemenuhi persyaratan modal pelengkap”, dan “total \nmodal”. \nAtas kesalahan ini, Bank “X” hanya dikenai sanksi atas \nkesalahan pada Laporan kewajiban penyediaan modal \nminimum dan aset tertimbang menurut risiko Bank \nsecara individu yaitu sebesar Rp100.000,00 (seratus ribu \nrupiah) x 1 (satu) isian. \nAyat (4) \nBatas waktu penyampaian Laporan dan/atau koreksi Laporan \nditetapkan oleh Otoritas Jasa Keuangan.  \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nBatas waktu penyampaian rencana pemenuhan capital \nsurcharge diatur dalam Peraturan Otoritas Jasa Keuangan \nmengenai penetapan status pengawasan dan penanganan \npermasalahan bank umum yaitu disampaikan paling lambat \n14 (empat belas) hari kerja sejak pemberitahuan dari Otoritas \nJasa Keuangan.  \n \n \n\n\n \nAyat (2) \nHuruf a \nKelompok informasi pengawasan antara lain Laporan \nrealisasi penerapan rencana aksi pemulihan, Laporan \nkhusus mengenai temuan audit intern, dan Laporan \npelanggaran prinsip syariah signifikan.  \nHuruf b \nKelompok informasi kelembagaan antara lain Laporan \npengangkatan \ntenaga \nkerja \nasing \nsebagai \npejabat \neksekutif, Laporan tindak lanjut pemberhentian pihak \nutama yang dilarang menjadi pihak utama pengurus \ndan/atau pihak utama pejabat, dan Laporan pelaksanaan \npemisahan UUS bagi BUS penerima pemisahan.  \nHuruf c \nKelompok informasi kegiatan usaha antara lain Laporan \nrencana pengalihan aset keuangan atau aset syariah \ndalam aktivitas sekuritisasi aset secara menyeluruh dan \nLaporan pelaksanaan kegiatan usaha Bank berbadan \nhukum Indonesia.  \nHuruf d \nKelompok informasi lainnya antara lain Laporan hasil kaji \nulang pihak ekstern yang independen, Laporan hasil \npengujian keamanan siber berdasarkan skenario, dan \nLaporan hasil kaji ulang syariah. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nBatas waktu penyampaian rencana pemenuhan capital \nsurcharge diatur dalam Peraturan Otoritas Jasa Keuangan \nmengenai penetapan status pengawasan dan penanganan \npermasalahan bank umum yaitu disampaikan paling lambat \n14 (empat belas) hari kerja sejak pemberitahuan dari Otoritas \nJasa Keuangan.  \n \n \n\n\n \nAyat (2) \nHuruf a \nKelompok informasi pengawasan antara lain Laporan \nrealisasi penerapan rencana aksi pemulihan, Laporan \nkhusus mengenai temuan audit intern, dan Laporan \npelanggaran prinsip syariah signifikan.  \nHuruf b \nKelompok informasi kelembagaan antara lain Laporan \npengangkatan \ntenaga \nkerja \nasing \nsebagai \npejabat \neksekutif, Laporan tindak lanjut pemberhentian pihak \nutama yang dilarang menjadi pihak utama pengurus \ndan/atau pihak utama pejabat, dan Laporan pelaksanaan \npemisahan UUS bagi BUS penerima pemisahan.  \nHuruf c \nKelompok informasi kegiatan usaha antara lain Laporan \nrencana pengalihan aset keuangan atau aset syariah \ndalam aktivitas sekuritisasi aset secara menyeluruh dan \nLaporan pelaksanaan kegiatan usaha Bank berbadan \nhukum Indonesia.  \nHuruf d \nKelompok informasi lainnya antara lain Laporan hasil kaji \nulang pihak ekstern yang independen, Laporan hasil \npengujian keamanan siber berdasarkan skenario, dan \nLaporan hasil kaji ulang syariah. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2) \nCukup jelas.  \nAyat (3) \nKesalahan dalam pengisian Laporan Insidental termasuk tidak \nmenyampaikan dokumen pendukung. \nContoh 1: Dokumen pendukung tidak lengkap. \nBank \n“A” \ndalam \nmenyampaikan \nLaporan \npelaksanaan \nperubahan \nkepemilikan \nsaham \nyang \nmengakibatkan \nperubahan pemegang saham pengendali (PSP), ditemukan \ndokumen pendukung sesuai dengan ketentuan peraturan \nperundang-undangan \nyang \ntidak \ndisampaikan. \nDengan \ndemikian terdapat kesalahan informasi karena dokumen \npendukung yang disampaikan Bank “A” tidak lengkap. Atas \nkesalahan dimaksud, Bank “A” dikenai sanksi administratif \nberupa denda sebesar Rp100.000,00 (seratus ribu rupiah). \nContoh 2: kesalahan pengisian data dan/atau informasi \nterstruktur. \nBank \n“B” \ndalam \nmenyampaikan \nLaporan \npelaksanaan \npenggabungan, peleburan, dan/atau pengambilalihan salah \nmenyampaikan informasi nomor surat persetujuan instansi \nberwenang dan nomor akta notaris. Atas kesalahan ini, Bank \n“B” dikenai sanksi administratif atas kesalahan input angka \npada \nLaporan \npelaksanaan \npenggabungan, \npeleburan, \n\n\n \ndan/atau \npengambilalihan, \nberupa \ndenda \nsebesar \nRp200.000,00 (dua ratus ribu rupiah) yaitu Rp100.000,00 \n(seratus ribu rupiah) x 2 (dua) data. \nContoh 3: kesalahan pengisian data dan/atau informasi dan \ndokumen pendukung tidak lengkap. \nBank “C” dalam menyampaikan Laporan komposisi atau daftar \nkepemilikan saham salah menyampaikan informasi: \na. \nnomor akta notaris; \nb. \ntanggal akta notaris; dan \nc. \ntidak menyampaikan salah satu dokumen pendukung. \nAtas \nkesalahan \ndimaksud, \nBank \n“C” \ndikenai \nsanksi \nadministratif berupa denda sebesar Rp300.000,00 (tiga ratus \nribu rupiah) yaitu Rp100.000,00 (seratus ribu rupiah) x 3 (tiga) \ndata dan/atau informasi. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2) \nCukup jelas.  \nAyat (3) \nKesalahan dalam pengisian Laporan Insidental termasuk tidak \nmenyampaikan dokumen pendukung. \nContoh 1: Dokumen pendukung tidak lengkap. \nBank \n“A” \ndalam \nmenyampaikan \nLaporan \npelaksanaan \nperubahan \nkepemilikan \nsaham \nyang \nmengakibatkan \nperubahan pemegang saham pengendali (PSP), ditemukan \ndokumen pendukung sesuai dengan ketentuan peraturan \nperundang-undangan \nyang \ntidak \ndisampaikan. \nDengan \ndemikian terdapat kesalahan informasi karena dokumen \npendukung yang disampaikan Bank “A” tidak lengkap. Atas \nkesalahan dimaksud, Bank “A” dikenai sanksi administratif \nberupa denda sebesar Rp100.000,00 (seratus ribu rupiah). \nContoh 2: kesalahan pengisian data dan/atau informasi \nterstruktur. \nBank \n“B” \ndalam \nmenyampaikan \nLaporan \npelaksanaan \npenggabungan, peleburan, dan/atau pengambilalihan salah \nmenyampaikan informasi nomor surat persetujuan instansi \nberwenang dan nomor akta notaris. Atas kesalahan ini, Bank \n“B” dikenai sanksi administratif atas kesalahan input angka \npada \nLaporan \npelaksanaan \npenggabungan, \npeleburan, \n\n\n \ndan/atau \npengambilalihan, \nberupa \ndenda \nsebesar \nRp200.000,00 (dua ratus ribu rupiah) yaitu Rp100.000,00 \n(seratus ribu rupiah) x 2 (dua) data. \nContoh 3: kesalahan pengisian data dan/atau informasi dan \ndokumen pendukung tidak lengkap. \nBank “C” dalam menyampaikan Laporan komposisi atau daftar \nkepemilikan saham salah menyampaikan informasi: \na. \nnomor akta notaris; \nb. \ntanggal akta notaris; dan \nc. \ntidak menyampaikan salah satu dokumen pendukung. \nAtas \nkesalahan \ndimaksud, \nBank \n“C” \ndikenai \nsanksi \nadministratif berupa denda sebesar Rp300.000,00 (tiga ratus \nribu rupiah) yaitu Rp100.000,00 (seratus ribu rupiah) x 3 (tiga) \ndata dan/atau informasi. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “rencana bisnis” adalah Laporan \nrencana bisnis sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai rencana bisnis bank.  \nHuruf a \nYang \ndimaksud \ndengan \n“Laporan \nrencana \npenyelenggaraan produk Bank” adalah Laporan rencana \npenyelenggaraan produk Bank sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penyelenggaraan \nproduk bank umum.  \nHuruf b \nYang dimaksud dengan “Laporan rencana alih daya” \nadalah Laporan rencana alih daya sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai prinsip \nkehati-hatian \nbagi \nbank \numum \nyang \nmelakukan \npenyerahan sebagian pelaksanaan pekerjaan kepada \npihak lain. \nAyat (2) \nYang dimaksud dengan “Laporan realisasi rencana bisnis” \nadalah Laporan realisasi rencana bisnis sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai rencana bisnis \nbank. \nHuruf a \nYang dimaksud dengan “Laporan aktivitas keagenan \nproduk keuangan luar negeri” adalah Laporan aktivitas \nkeagenan produk keuangan luar negeri sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai prinsip \nkehati-hatian dalam melaksanakan aktivitas keagenan \nproduk keuangan luar negeri oleh bank umum. \n\n\n \nHuruf b \nYang dimaksud dengan “Laporan berkala bancassurance” \nadalah Laporan berkala bancassurance sesuai dengan \nSurat \nEdaran \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko pada bank yang melakukan \naktivitas kerja sama pemasaran dengan perusahaan \nasuransi (bancassurance). \nHuruf c \nYang dimaksud dengan “Laporan outstanding transaksi \nstructured products” adalah Laporan outstanding transaksi \nstructured products sesuai dengan Peraturan Otoritas Jasa \nKeuangan \nmengenai \nprinsip \nkehati-hatian \ndalam \nmelaksanakan kegiatan structured product bagi bank \numum. \nHuruf d \nYang dimaksud dengan “Laporan pengangkatan tenaga \nkerja asing sebagai tenaga ahli atau konsultan” adalah \nLaporan pengangkatan tenaga kerja asing sebagai tenaga \nahli atau konsultan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai pemanfaatan tenaga kerja asing \ndan program alih pengetahuan di sektor perbankan. \nHuruf e \nYang dimaksud dengan “Laporan kegiatan trust” adalah \nLaporan kegiatan trust sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai kegiatan usaha bank berupa \npenitipan dengan pengelolaan (trust). \nHuruf f \nYang dimaksud dengan “Laporan alih daya yang \nbermasalah” adalah Laporan alih daya yang bermasalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai prinsip kehati-hatian bagi bank umum yang \nmelakukan penyerahan sebagian pelaksanaan pekerjaan \nkepada pihak lain. \nHuruf g \nYang dimaksud dengan “informasi bukti penyelesaian hak \ndan kewajiban kantor wilayah, kantor cabang, dan kantor \ndi luar negeri kepada nasabah dan/atau pihak lain \nsehubungan dengan penutupan kantor wilayah, kantor \ncabang, dan kantor di luar negeri” adalah informasi bukti \npenyelesaian hak dan kewajiban kantor wilayah, kantor \ncabang, dan kantor di luar negeri kepada nasabah \ndan/atau pihak lain sehubungan dengan penutupan \nkantor wilayah, kantor cabang, dan kantor di luar negeri \nsesuai dengan Peraturan Otoritas \nJasa Keuangan \nmengenai bank umum dan Peraturan Otoritas Jasa \nKeuangan mengenai bank umum syariah. \nHuruf h \nYang dimaksud dengan “informasi bukti penyelesaian hak \ndan kewajiban kantor cabang pembantu kepada nasabah \ndan/atau pihak lain sehubungan dengan penutupan \nkantor \ncabang \npembantu” \nadalah \ninformasi \nbukti \npenyelesaian hak dan kewajiban kantor cabang pembantu \nkepada nasabah dan/atau pihak lain sehubungan dengan \npenutupan kantor cabang pembantu sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai bank umum \n\n\n \ndan Peraturan Otoritas Jasa Keuangan mengenai bank \numum syariah. \nAyat (3) \nYang dimaksud dengan “Laporan pelaksanaan tata kelola” \nadalah Laporan pelaksanaan tata kelola sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum dan Peraturan Otoritas Jasa Keuangan \nmengenai penerapan tata kelola syariah bagi bank umum \nsyariah dan unit usaha syariah. \nYang dimaksud dengan “Laporan publikasi keuangan dan \ninformasi \nkinerja \nkeuangan \ntahunan” \nadalah \nLaporan \npublikasi keuangan dan informasi kinerja keuangan tahunan \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \ntransparansi dan publikasi laporan bank.    \nAyat (4) \nSurat komentar (management letter) merupakan surat dari \nkantor akuntan publik yang berisi komentar tertulis dari \nakuntan publik kepada manajemen Bank mengenai hasil kaji \nulang terhadap struktur pengendalian intern, pelaksanaan \nstandar akuntansi keuangan atau masalah lain yang ditemui \ndalam pelaksanaan audit beserta dengan saran perbaikan.   \nAyat (5) \nYang dimaksud dengan “Laporan perubahan direksi dan/atau \ndewan komisaris dari pemegang saham pengendali Bank \nberupa badan hukum” adalah Laporan perubahan direksi \ndan/atau dewan komisaris dari pemegang saham pengendali \nBank berupa badan hukum sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai bank umum dan Peraturan Otoritas \nJasa Keuangan mengenai bank umum syariah.  \nYang dimaksud dengan “Laporan daftar rincian pihak terkait” \nadalah Laporan daftar rincian pihak terkait sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai batas maksimum \npemberian kredit dan penyediaan dana besar bagi bank umum \ndan Peraturan Otoritas Jasa Keuangan mengenai batas \nmaksimum penyaluran dana dan penyaluran dana besar bagi \nbank umum syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “rencana bisnis” adalah Laporan \nrencana bisnis sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai rencana bisnis bank.  \nHuruf a \nYang \ndimaksud \ndengan \n“Laporan \nrencana \npenyelenggaraan produk Bank” adalah Laporan rencana \npenyelenggaraan produk Bank sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penyelenggaraan \nproduk bank umum.  \nHuruf b \nYang dimaksud dengan “Laporan rencana alih daya” \nadalah Laporan rencana alih daya sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai prinsip \nkehati-hatian \nbagi \nbank \numum \nyang \nmelakukan \npenyerahan sebagian pelaksanaan pekerjaan kepada \npihak lain. \nAyat (2) \nYang dimaksud dengan “Laporan realisasi rencana bisnis” \nadalah Laporan realisasi rencana bisnis sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai rencana bisnis \nbank. \nHuruf a \nYang dimaksud dengan “Laporan aktivitas keagenan \nproduk keuangan luar negeri” adalah Laporan aktivitas \nkeagenan produk keuangan luar negeri sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai prinsip \nkehati-hatian dalam melaksanakan aktivitas keagenan \nproduk keuangan luar negeri oleh bank umum. \n\n\n \nHuruf b \nYang dimaksud dengan “Laporan berkala bancassurance” \nadalah Laporan berkala bancassurance sesuai dengan \nSurat \nEdaran \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko pada bank yang melakukan \naktivitas kerja sama pemasaran dengan perusahaan \nasuransi (bancassurance). \nHuruf c \nYang dimaksud dengan “Laporan outstanding transaksi \nstructured products” adalah Laporan outstanding transaksi \nstructured products sesuai dengan Peraturan Otoritas Jasa \nKeuangan \nmengenai \nprinsip \nkehati-hatian \ndalam \nmelaksanakan kegiatan structured product bagi bank \numum. \nHuruf d \nYang dimaksud dengan “Laporan pengangkatan tenaga \nkerja asing sebagai tenaga ahli atau konsultan” adalah \nLaporan pengangkatan tenaga kerja asing sebagai tenaga \nahli atau konsultan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai pemanfaatan tenaga kerja asing \ndan program alih pengetahuan di sektor perbankan. \nHuruf e \nYang dimaksud dengan “Laporan kegiatan trust” adalah \nLaporan kegiatan trust sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai kegiatan usaha bank berupa \npenitipan dengan pengelolaan (trust). \nHuruf f \nYang dimaksud dengan “Laporan alih daya yang \nbermasalah” adalah Laporan alih daya yang bermasalah \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai prinsip kehati-hatian bagi bank umum yang \nmelakukan penyerahan sebagian pelaksanaan pekerjaan \nkepada pihak lain. \nHuruf g \nYang dimaksud dengan “informasi bukti penyelesaian hak \ndan kewajiban kantor wilayah, kantor cabang, dan kantor \ndi luar negeri kepada nasabah dan/atau pihak lain \nsehubungan dengan penutupan kantor wilayah, kantor \ncabang, dan kantor di luar negeri” adalah informasi bukti \npenyelesaian hak dan kewajiban kantor wilayah, kantor \ncabang, dan kantor di luar negeri kepada nasabah \ndan/atau pihak lain sehubungan dengan penutupan \nkantor wilayah, kantor cabang, dan kantor di luar negeri \nsesuai dengan Peraturan Otoritas \nJasa Keuangan \nmengenai bank umum dan Peraturan Otoritas Jasa \nKeuangan mengenai bank umum syariah. \nHuruf h \nYang dimaksud dengan “informasi bukti penyelesaian hak \ndan kewajiban kantor cabang pembantu kepada nasabah \ndan/atau pihak lain sehubungan dengan penutupan \nkantor \ncabang \npembantu” \nadalah \ninformasi \nbukti \npenyelesaian hak dan kewajiban kantor cabang pembantu \nkepada nasabah dan/atau pihak lain sehubungan dengan \npenutupan kantor cabang pembantu sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai bank umum \n\n\n \ndan Peraturan Otoritas Jasa Keuangan mengenai bank \numum syariah. \nAyat (3) \nYang dimaksud dengan “Laporan pelaksanaan tata kelola” \nadalah Laporan pelaksanaan tata kelola sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum dan Peraturan Otoritas Jasa Keuangan \nmengenai penerapan tata kelola syariah bagi bank umum \nsyariah dan unit usaha syariah. \nYang dimaksud dengan “Laporan publikasi keuangan dan \ninformasi \nkinerja \nkeuangan \ntahunan” \nadalah \nLaporan \npublikasi keuangan dan informasi kinerja keuangan tahunan \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \ntransparansi dan publikasi laporan bank.    \nAyat (4) \nSurat komentar (management letter) merupakan surat dari \nkantor akuntan publik yang berisi komentar tertulis dari \nakuntan publik kepada manajemen Bank mengenai hasil kaji \nulang terhadap struktur pengendalian intern, pelaksanaan \nstandar akuntansi keuangan atau masalah lain yang ditemui \ndalam pelaksanaan audit beserta dengan saran perbaikan.   \nAyat (5) \nYang dimaksud dengan “Laporan perubahan direksi dan/atau \ndewan komisaris dari pemegang saham pengendali Bank \nberupa badan hukum” adalah Laporan perubahan direksi \ndan/atau dewan komisaris dari pemegang saham pengendali \nBank berupa badan hukum sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai bank umum dan Peraturan Otoritas \nJasa Keuangan mengenai bank umum syariah.  \nYang dimaksud dengan “Laporan daftar rincian pihak terkait” \nadalah Laporan daftar rincian pihak terkait sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai batas maksimum \npemberian kredit dan penyediaan dana besar bagi bank umum \ndan Peraturan Otoritas Jasa Keuangan mengenai batas \nmaksimum penyaluran dana dan penyaluran dana besar bagi \nbank umum syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLaporan pemindahan sementara alamat jaringan kantor bank \nbadan hukum Indonesia, informasi penutupan sementara \nkantor bank berbadan hukum Indonesia selain kantor pusat, \nLaporan pemindahan sementara alamat jaringan kantor dari \nkantor cabang dari bank yang berkedudukan di luar negeri, \ndan informasi penutupan sementara jaringan kantor dari \nkantor cabang dari bank yang berkedudukan di luar negeri \nselain kantor cabang dari bank yang berkedudukan di luar \nnegeri sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai bank umum. \nAyat (2)  \nLaporan pemindahan sementara alamat jaringan kantor bank \nbadan hukum Indonesia dan informasi penutupan sementara \nkantor bank berbadan hukum Indonesia selain kantor pusat \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \nbank umum syariah. \n \n\n\n \nAyat (3)  \nLaporan pemindahan sementara alamat jaringan UUS dan \ninformasi penutupan sementara kantor UUS sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai unit usaha \nsyariah. \nAyat (4) \nInformasi perubahan komposisi kepemilikan saham Bank \nberbadan hukum Indonesia yang tercatat dalam anggaran \ndasar dan tidak mengakibatkan perubahan pengendalian, \ninformasi perubahan komposisi kepemilikan saham Bank \nberbadan hukum Indonesia yang tercatat dalam anggaran \ndasar yang disebabkan oleh hibah atau waris saham dan tidak \nmengakibatkan perubahan modal disetor, akta persetujuan \nrapat umum pemegang saham dan perubahan anggaran dasar \nyang menyetujui pemindahan alamat kantor pusat yang \nmengakibatkan perubahan tempat kedudukan, dan akta \npersetujuan rapat umum pemegang saham dan perubahan \nanggaran dasar yang menyetujui pemindahan alamat kantor \npusat yang mengakibatkan perubahan tempat kedudukan \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \nbank umum dan Peraturan Otoritas Jasa Keuangan mengenai \nbank umum syariah. \nYang dimaksud dengan “perubahan anggaran dasar” adalah \nLaporan perubahan anggaran dasar sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai bank umum dan Peraturan \nOtoritas Jasa Keuangan mengenai bank umum syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLaporan pemindahan sementara alamat jaringan kantor bank \nbadan hukum Indonesia, informasi penutupan sementara \nkantor bank berbadan hukum Indonesia selain kantor pusat, \nLaporan pemindahan sementara alamat jaringan kantor dari \nkantor cabang dari bank yang berkedudukan di luar negeri, \ndan informasi penutupan sementara jaringan kantor dari \nkantor cabang dari bank yang berkedudukan di luar negeri \nselain kantor cabang dari bank yang berkedudukan di luar \nnegeri sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai bank umum. \nAyat (2)  \nLaporan pemindahan sementara alamat jaringan kantor bank \nbadan hukum Indonesia dan informasi penutupan sementara \nkantor bank berbadan hukum Indonesia selain kantor pusat \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \nbank umum syariah. \n \n\n\n \nAyat (3)  \nLaporan pemindahan sementara alamat jaringan UUS dan \ninformasi penutupan sementara kantor UUS sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai unit usaha \nsyariah. \nAyat (4) \nInformasi perubahan komposisi kepemilikan saham Bank \nberbadan hukum Indonesia yang tercatat dalam anggaran \ndasar dan tidak mengakibatkan perubahan pengendalian, \ninformasi perubahan komposisi kepemilikan saham Bank \nberbadan hukum Indonesia yang tercatat dalam anggaran \ndasar yang disebabkan oleh hibah atau waris saham dan tidak \nmengakibatkan perubahan modal disetor, akta persetujuan \nrapat umum pemegang saham dan perubahan anggaran dasar \nyang menyetujui pemindahan alamat kantor pusat yang \nmengakibatkan perubahan tempat kedudukan, dan akta \npersetujuan rapat umum pemegang saham dan perubahan \nanggaran dasar yang menyetujui pemindahan alamat kantor \npusat yang mengakibatkan perubahan tempat kedudukan \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \nbank umum dan Peraturan Otoritas Jasa Keuangan mengenai \nbank umum syariah. \nYang dimaksud dengan “perubahan anggaran dasar” adalah \nLaporan perubahan anggaran dasar sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai bank umum dan Peraturan \nOtoritas Jasa Keuangan mengenai bank umum syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Menyampaikan Laporan termasuk menyampaikan koreksi Laporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Menyampaikan Laporan termasuk menyampaikan koreksi Laporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “gangguan teknis” adalah gangguan \nyang disebabkan permasalahan teknis yang mengakibatkan \nBank dan KPBLN tidak dapat menyampaikan laporan secara \ndaring, antara lain kerusakan dan/atau gangguan pada \npangkalan data (database) atau jaringan komunikasi di \nOtoritas Jasa Keuangan. \nHuruf a \nSecara langsung dilakukan antara lain melalui surat. \nHuruf b \nCukup jelas. \nHuruf c \nMedia elektronik antara lain surat elektronik. \nHuruf d \nMedia lainnya antara lain surat kabar. \nAyat (2) \nContoh: \nSistem \nPelaporan \nOtoritas \nJasa \nKeuangan \nmengalami \ngangguan teknis pada hari Rabu tanggal 31 Desember 2025 \nyang merupakan batas waktu periode IV Laporan Berkala \nbulanan posisi data bulan November 2025. Selanjutnya, \nOtoritas Jasa Keuangan mengumumkan bahwa sistem telah \nberoperasi secara normal pada hari Jumat tanggal 2 Januari \n2026. Bank menyampaikan Laporan Berkala bulanan posisi \n\n\n \ndata bulan November 2025 paling lambat 1 (satu) hari kerja \nberikutnya, yaitu pada hari Senin tanggal 5 Januari 2026.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “gangguan teknis” adalah gangguan \nyang disebabkan permasalahan teknis yang mengakibatkan \nBank dan KPBLN tidak dapat menyampaikan laporan secara \ndaring, antara lain kerusakan dan/atau gangguan pada \npangkalan data (database) atau jaringan komunikasi di \nOtoritas Jasa Keuangan. \nHuruf a \nSecara langsung dilakukan antara lain melalui surat. \nHuruf b \nCukup jelas. \nHuruf c \nMedia elektronik antara lain surat elektronik. \nHuruf d \nMedia lainnya antara lain surat kabar. \nAyat (2) \nContoh: \nSistem \nPelaporan \nOtoritas \nJasa \nKeuangan \nmengalami \ngangguan teknis pada hari Rabu tanggal 31 Desember 2025 \nyang merupakan batas waktu periode IV Laporan Berkala \nbulanan posisi data bulan November 2025. Selanjutnya, \nOtoritas Jasa Keuangan mengumumkan bahwa sistem telah \nberoperasi secara normal pada hari Jumat tanggal 2 Januari \n2026. Bank menyampaikan Laporan Berkala bulanan posisi \n\n\n \ndata bulan November 2025 paling lambat 1 (satu) hari kerja \nberikutnya, yaitu pada hari Senin tanggal 5 Januari 2026."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “keadaan kahar” adalah keadaan \nbencana yang tidak dapat dihindari, terdiri atas: \na. \nbencana alam; \nb. \nbencana nonalam; dan/atau \nc. \nbencana sosial, \nyang mengganggu kegiatan operasional Bank dan KPBLN, yang \ndibenarkan oleh pejabat instansi yang berwenang dari daerah \nsetempat dan/atau diverifikasi kebenarannya oleh Otoritas \nJasa Keuangan. \nAyat (2) \nPenyampaian surat pemberitahuan dilakukan melalui layanan \nmailing room Otoritas Jasa Keuangan. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “keadaan kahar” adalah keadaan \nbencana yang tidak dapat dihindari, terdiri atas: \na. \nbencana alam; \nb. \nbencana nonalam; dan/atau \nc. \nbencana sosial, \nyang mengganggu kegiatan operasional Bank dan KPBLN, yang \ndibenarkan oleh pejabat instansi yang berwenang dari daerah \nsetempat dan/atau diverifikasi kebenarannya oleh Otoritas \nJasa Keuangan. \nAyat (2) \nPenyampaian surat pemberitahuan dilakukan melalui layanan \nmailing room Otoritas Jasa Keuangan. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPermintaan Otoritas Jasa Keuangan atas Laporan dan/atau \nkoreksi Laporan dilakukan melalui surat elektronik. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPermintaan Otoritas Jasa Keuangan atas Laporan dan/atau \nkoreksi Laporan dilakukan melalui surat elektronik. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nFormat dan pedoman pengisian Laporan mengacu pada format \ndan pedoman pengisian sesuai dengan ketentuan Otoritas Jasa \nKeuangan. \nAyat (2) \nContoh: \nLaporan kepatuhan dilaporkan secara efektif melalui Sistem \nPelaporan \nOtoritas \nJasa \nKeuangan \ndengan \nalamat \nhttps://apolo.ojk.go.id sejak posisi data 30 Juni 2026. Dengan \ndemikian, Bank menyampaikan Laporan kepatuhan sebagai \nlaporan tidak terstruktur melalui Sistem Pelaporan Otoritas \nJasa Keuangan dengan alamat https://sipena.ojk.go.id sampai \ndengan posisi data 31 Desember 2025.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nFormat dan pedoman pengisian Laporan mengacu pada format \ndan pedoman pengisian sesuai dengan ketentuan Otoritas Jasa \nKeuangan. \nAyat (2) \nContoh: \nLaporan kepatuhan dilaporkan secara efektif melalui Sistem \nPelaporan \nOtoritas \nJasa \nKeuangan \ndengan \nalamat \nhttps://apolo.ojk.go.id sejak posisi data 30 Juni 2026. Dengan \ndemikian, Bank menyampaikan Laporan kepatuhan sebagai \nlaporan tidak terstruktur melalui Sistem Pelaporan Otoritas \nJasa Keuangan dengan alamat https://sipena.ojk.go.id sampai \ndengan posisi data 31 Desember 2025."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh: \nOtoritas Jasa Keuangan menerbitkan ketentuan baru setelah \nditerbitkannya Peraturan Otoritas Jasa Keuangan ini, yang \nmengatur penyampaian laporan baru “XYZ” kepada Otoritas Jasa \nKeuangan. Ketentuan baru dimaksud mengatur penyampaian \nlaporan baru “XYZ” secara daring melalui Sistem Pelaporan Otoritas \n\n\n \nJasa Keuangan dengan alamat https://apolo.ojk.go.id. Dengan \ndemikian, penyampaian, tata cara penyampaian, dan pengenaan \nsanksi administratif atas pelanggaran penyampaian laporan baru \n“XYZ” dilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh: \nOtoritas Jasa Keuangan menerbitkan ketentuan baru setelah \nditerbitkannya Peraturan Otoritas Jasa Keuangan ini, yang \nmengatur penyampaian laporan baru “XYZ” kepada Otoritas Jasa \nKeuangan. Ketentuan baru dimaksud mengatur penyampaian \nlaporan baru “XYZ” secara daring melalui Sistem Pelaporan Otoritas \n\n\n \nJasa Keuangan dengan alamat https://apolo.ojk.go.id. Dengan \ndemikian, penyampaian, tata cara penyampaian, dan pengenaan \nsanksi administratif atas pelanggaran penyampaian laporan baru \n“XYZ” dilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh:  \nBank yang baru berdiri bulan Desember 2026, kewajiban \npelaporan berlaku untuk posisi data bulan Januari 2027, \nmisalnya: \n1. \nLaporan Berkala harian untuk posisi data tanggal 5 \nJanuari 2027 disampaikan paling lambat pada akhir hari \ntanggal 6 Januari 2027 pukul 23.59 WIB; \n2. \nLaporan Berkala bulanan untuk periode I posisi data \nbulan Januari 2027 disampaikan paling lambat pada \ntanggal 7 Februari 2027. \nAyat (2) \nBank perantara yaitu Bank sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai penetapan status pengawasan dan \npenanganan permasalahan bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh:  \nBank yang baru berdiri bulan Desember 2026, kewajiban \npelaporan berlaku untuk posisi data bulan Januari 2027, \nmisalnya: \n1. \nLaporan Berkala harian untuk posisi data tanggal 5 \nJanuari 2027 disampaikan paling lambat pada akhir hari \ntanggal 6 Januari 2027 pukul 23.59 WIB; \n2. \nLaporan Berkala bulanan untuk periode I posisi data \nbulan Januari 2027 disampaikan paling lambat pada \ntanggal 7 Februari 2027. \nAyat (2) \nBank perantara yaitu Bank sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai penetapan status pengawasan dan \npenanganan permasalahan bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pertimbangan tertentu antara lain memperhatikan kondisi Bank \ndan KPBLN untuk memenuhi tata cara dan batas waktu \npenyampaian laporan sehubungan dengan adanya keputusan \nPemerintah terkait cuti bersama dan/atau masa pandemi wabah \npenyakit.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pertimbangan tertentu antara lain memperhatikan kondisi Bank \ndan KPBLN untuk memenuhi tata cara dan batas waktu \npenyampaian laporan sehubungan dengan adanya keputusan \nPemerintah terkait cuti bersama dan/atau masa pandemi wabah \npenyakit."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 161/OJK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 161/OJK"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 70,
+  "total_ayat": 114,
+  "total_karakter": 59324,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

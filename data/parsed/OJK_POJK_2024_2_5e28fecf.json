@@ -1,0 +1,1782 @@
+{
+  "doc_id": "OJK_POJK_2024_2_5e28fecf",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "2",
+  "tahun": "2024",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 2 Tahun 2024 tentang Penerapan Tata Kelola Syariah bagi Bank Umum Syariah dan Unit Usaha Syariah",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "15 Februari 2024",
+  "tanggal_berlaku": "1",
+  "diundangkan_pada": "16 Februari 2024",
+  "mencabut": [
+    "pada tanggal 1  Januari 2025",
+    "pada tanggal 1  Januari 2026"
+  ],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "FUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO SYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG EKSTERN TERHADAP TATA KELOLA SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAPORAN PELAKSANAAN TATA KELOLA SYARIAH DAN PENILAIAN PENERAPAN TATA KELOLA SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TINDAK LANJUT KETIDAKPATUHAN TERHADAP PRINSIP SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang \ndimaksud dengan: \n1. \nBank adalah bank umum syariah dan unit usaha \nsyariah. \n2. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah bank yang melaksanakan kegiatan usaha \nberdasarkan prinsip syariah yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah bank yang melaksanakan kegiatan usaha \nsecara \nkonvensional \nyang \ndalam \nkegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n4. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan kegiatan usaha berdasarkan prinsip \nsyariah, atau unit kerja di kantor cabang dari suatu \nbank \nyang \nberkedudukan \ndi \nluar \nnegeri \nyang \nmelaksanakan kegiatan usaha secara konvensional \nyang berfungsi sebagai kantor induk dari kantor cabang \npembantu syariah dan/atau unit syariah. \n5. \nPrinsip \nSyariah \nadalah \nprinsip \nhukum \nIslam \nberdasarkan fatwa dan/atau pernyataan kesesuaian \nsyariah yang dikeluarkan oleh lembaga yang memiliki \nkewenangan dalam penetapan fatwa di bidang syariah. \n6. \nRapat Umum Pemegang Saham yang selanjutnya \ndisingkat \nRUPS \nadalah \npihak \nyang \nmempunyai \nwewenang yang tidak diberikan kepada direksi atau \ndewan komisaris dalam batas yang ditentukan dalam \nundang-undang mengenai perseroan terbatas dan/atau \nanggaran dasar.  \n7. \nDireksi adalah organ BUS dan BUK yang memiliki UUS \nyang berwenang dan bertanggung jawab penuh atas \npengurusan Bank untuk kepentingan Bank, sesuai \ndengan maksud dan tujuan Bank serta mewakili Bank, \nbaik di dalam maupun di luar pengadilan sesuai \ndengan ketentuan anggaran dasar. \n8. \nDewan Komisaris adalah organ BUS dan BUK yang \nmemiliki UUS yang bertugas melakukan pengawasan \nsecara \numum \ndan/atau \nkhusus \nsesuai \ndengan \nanggaran dasar serta memberi nasihat kepada Direksi. \n9. \nDewan Pengawas Syariah yang selanjutnya disingkat \nDPS adalah pihak yang memiliki tugas dan fungsi \npengawasan terhadap penyelenggaraan kegiatan BUS \ndan BUK yang memiliki UUS agar sesuai dengan Prinsip \nSyariah. \n\n\n \n10. Tata Kelola Syariah pada Bank adalah struktur, proses, \ndan mekanisme pengelolaan Bank untuk memastikan \npenyelenggaraan kegiatan usaha Bank sesuai dengan \nPrinsip Syariah. \n11. Pejabat Eksekutif adalah pejabat BUS dan BUK yang \nmemiliki UUS yang bertanggung jawab langsung \nkepada anggota Direksi atau mempunyai pengaruh \nyang \nsignifikan \nterhadap \nkebijakan \ndan/atau \noperasional Bank. \n \nBAB II \nPENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA \nKELOLA SYARIAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang \ndimaksud dengan: \n1. \nBank adalah bank umum syariah dan unit usaha \nsyariah. \n2. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah bank yang melaksanakan kegiatan usaha \nberdasarkan prinsip syariah yang dalam kegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah bank yang melaksanakan kegiatan usaha \nsecara \nkonvensional \nyang \ndalam \nkegiatannya \nmemberikan jasa dalam lalu lintas pembayaran. \n4. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan kegiatan usaha berdasarkan prinsip \nsyariah, atau unit kerja di kantor cabang dari suatu \nbank \nyang \nberkedudukan \ndi \nluar \nnegeri \nyang \nmelaksanakan kegiatan usaha secara konvensional \nyang berfungsi sebagai kantor induk dari kantor cabang \npembantu syariah dan/atau unit syariah. \n5. \nPrinsip \nSyariah \nadalah \nprinsip \nhukum \nIslam \nberdasarkan fatwa dan/atau pernyataan kesesuaian \nsyariah yang dikeluarkan oleh lembaga yang memiliki \nkewenangan dalam penetapan fatwa di bidang syariah. \n6. \nRapat Umum Pemegang Saham yang selanjutnya \ndisingkat \nRUPS \nadalah \npihak \nyang \nmempunyai \nwewenang yang tidak diberikan kepada direksi atau \ndewan komisaris dalam batas yang ditentukan dalam \nundang-undang mengenai perseroan terbatas dan/atau \nanggaran dasar.  \n7. \nDireksi adalah organ BUS dan BUK yang memiliki UUS \nyang berwenang dan bertanggung jawab penuh atas \npengurusan Bank untuk kepentingan Bank, sesuai \ndengan maksud dan tujuan Bank serta mewakili Bank, \nbaik di dalam maupun di luar pengadilan sesuai \ndengan ketentuan anggaran dasar. \n8. \nDewan Komisaris adalah organ BUS dan BUK yang \nmemiliki UUS yang bertugas melakukan pengawasan \nsecara \numum \ndan/atau \nkhusus \nsesuai \ndengan \nanggaran dasar serta memberi nasihat kepada Direksi. \n9. \nDewan Pengawas Syariah yang selanjutnya disingkat \nDPS adalah pihak yang memiliki tugas dan fungsi \npengawasan terhadap penyelenggaraan kegiatan BUS \ndan BUK yang memiliki UUS agar sesuai dengan Prinsip \nSyariah. \n\n\n \n10. Tata Kelola Syariah pada Bank adalah struktur, proses, \ndan mekanisme pengelolaan Bank untuk memastikan \npenyelenggaraan kegiatan usaha Bank sesuai dengan \nPrinsip Syariah. \n11. Pejabat Eksekutif adalah pejabat BUS dan BUK yang \nmemiliki UUS yang bertanggung jawab langsung \nkepada anggota Direksi atau mempunyai pengaruh \nyang \nsignifikan \nterhadap \nkebijakan \ndan/atau \noperasional Bank. \n \nBAB II \nPENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA \nKELOLA SYARIAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib menerapkan Prinsip Syariah dalam \npenyelenggaraan kegiatan usaha. \n(2) \nKegiatan usaha sebagaimana dimaksud pada ayat (1) \nterdiri atas:  \na. \nkegiatan usaha Bank; dan  \nb. \nkegiatan lain yang dilakukan Bank selain kegiatan \nusaha, \npada seluruh tingkatan atau jenjang organisasi, sesuai \ndengan ketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan Prinsip Syariah dalam \npenyelenggaraan kegiatan usaha."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kegiatan usaha sebagaimana dimaksud pada ayat (1) \nterdiri atas:  \na. \nkegiatan usaha Bank; dan  \nb. \nkegiatan lain yang dilakukan Bank selain kegiatan \nusaha, \npada seluruh tingkatan atau jenjang organisasi, sesuai \ndengan ketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nPrinsip Syariah sebagaimana dimaksud dalam Pasal 2 \nayat (1) didasarkan pada fatwa dan/atau pernyataan \nkesesuaian syariah yang ditetapkan oleh Dewan \nSyariah Nasional Majelis Ulama Indonesia. \n(2) \nDalam rangka menyusun ketentuan terkait Prinsip \nSyariah sebagaimana dimaksud pada ayat (1), Otoritas \nJasa Keuangan membentuk komite pengembangan \nkeuangan syariah. \n(3) \nKomite pengembangan keuangan syariah sebagaimana \ndimaksud pada ayat (2) berkoordinasi dengan Dewan \nSyariah Nasional Majelis Ulama Indonesia dalam \npenyusunan ketentuan sebagaimana dimaksud pada \nayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Prinsip Syariah sebagaimana dimaksud dalam Pasal 2 \nayat (1) didasarkan pada fatwa dan/atau pernyataan \nkesesuaian syariah yang ditetapkan oleh Dewan \nSyariah Nasional Majelis Ulama Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka menyusun ketentuan terkait Prinsip \nSyariah sebagaimana dimaksud pada ayat (1), Otoritas \nJasa Keuangan membentuk komite pengembangan \nkeuangan syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Komite pengembangan keuangan syariah sebagaimana \ndimaksud pada ayat (2) berkoordinasi dengan Dewan \nSyariah Nasional Majelis Ulama Indonesia dalam \npenyusunan ketentuan sebagaimana dimaksud pada \nayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nUntuk \nmemastikan \npemenuhan \nPrinsip \nSyariah \nsebagaimana dimaksud dalam Pasal 2, Bank wajib \nmenerapkan Tata Kelola Syariah. \n(2) \nDalam menerapkan Tata Kelola Syariah sebagaimana \ndimaksud pada ayat (1), Bank wajib memiliki kerangka \ntata kelola syariah diwujudkan paling sedikit melalui: \na. \npelaksanaan tugas dan tanggung jawab DPS; \nb. \npenerapan fungsi kepatuhan syariah; \nc. \npenerapan fungsi manajemen risiko syariah; \nd. \npenerapan fungsi audit intern syariah; dan  \ne. \npelaksanaan kaji ulang ekstern terhadap tata \nkelola syariah. \n(3) \nDireksi yang membawahkan fungsi sebagaimana \ndimaksud pada ayat (2) huruf b, huruf c, dan huruf d \n\n\n \nbertanggung jawab atas efektivitas pelaksanaan fungsi \ntersebut dalam pemenuhan Prinsip Syariah. \n(4) \nFungsi sebagaimana dimaksud pada ayat (2) huruf b, \nhuruf c, dan huruf d berkoordinasi dengan DPS dalam \nmelaksanakan tugasnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk \nmemastikan \npemenuhan \nPrinsip \nSyariah \nsebagaimana dimaksud dalam Pasal 2, Bank wajib \nmenerapkan Tata Kelola Syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menerapkan Tata Kelola Syariah sebagaimana \ndimaksud pada ayat (1), Bank wajib memiliki kerangka \ntata kelola syariah diwujudkan paling sedikit melalui: \na. \npelaksanaan tugas dan tanggung jawab DPS; \nb. \npenerapan fungsi kepatuhan syariah; \nc. \npenerapan fungsi manajemen risiko syariah; \nd. \npenerapan fungsi audit intern syariah; dan  \ne. \npelaksanaan kaji ulang ekstern terhadap tata \nkelola syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Direksi yang membawahkan fungsi sebagaimana \ndimaksud pada ayat (2) huruf b, huruf c, dan huruf d \n\n\n \nbertanggung jawab atas efektivitas pelaksanaan fungsi \ntersebut dalam pemenuhan Prinsip Syariah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Fungsi sebagaimana dimaksud pada ayat (2) huruf b, \nhuruf c, dan huruf d berkoordinasi dengan DPS dalam \nmelaksanakan tugasnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib memiliki prosedur internal mengenai \npenerapan Tata Kelola Syariah pada Bank dalam \npenyelenggaraan kegiatan usaha. \n(2) \nBank \nwajib \nmelakukan \nevaluasi \ndan \npenginian \nterhadap prosedur internal sebagaimana dimaksud \npada ayat (1) agar memenuhi Prinsip Syariah dan \nketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki prosedur internal mengenai \npenerapan Tata Kelola Syariah pada Bank dalam \npenyelenggaraan kegiatan usaha."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nwajib \nmelakukan \nevaluasi \ndan \npenginian \nterhadap prosedur internal sebagaimana dimaksud \npada ayat (1) agar memenuhi Prinsip Syariah dan \nketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH",
+      "teks_lengkap": "Otoritas Jasa Keuangan melakukan penilaian terhadap \npenerapan Tata Kelola Syariah pada Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan melakukan penilaian terhadap \npenerapan Tata Kelola Syariah pada Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENERAPAN PRINSIP SYARIAH DAN KERANGKA TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 2 ayat (1), Pasal 4 ayat (1), ayat \n(2), dan/atau Pasal 5, dikenai sanksi administratif \nberupa teguran tertulis. \n(2) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 2 ayat (1), Pasal 4 ayat (1), ayat (2), dan/atau \nPasal 5, Bank dikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(3) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan. \n(4) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), dan/atau ayat (3), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \n \n \n \n \n \n \n\n\n \nBAB III \nDPS \n \nBagian Kesatu \nPosisi, Jumlah, dan Kriteria DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 2 ayat (1), Pasal 4 ayat (1), ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": ", dan/atau Pasal 5, dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 2 ayat (1), Pasal 4 ayat (1), ayat (2), dan/atau \nPasal 5, Bank dikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), dan/atau ayat (3), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \n \n \n \n \n \n \n\n\n \nBAB III \nDPS \n \nBagian Kesatu \nPosisi, Jumlah, dan Kriteria DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nAnggota DPS ditetapkan sebagai pihak utama bank \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penilaian kemampuan dan kepatutan bagi \npihak utama lembaga jasa keuangan dan Peraturan \nOtoritas Jasa Keuangan mengenai penilaian kembali \npihak utama lembaga jasa keuangan. \n(2) \nCalon anggota DPS wajib memperoleh persetujuan dari \nOtoritas Jasa Keuangan melalui penilaian kemampuan \ndan kepatutan sebelum menjalankan tindakan, tugas, \ndan fungsinya sebagai pihak utama sebagaimana \ndimaksud pada ayat (1). \n(3) \nDalam rangka memperoleh persetujuan Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (2), calon \nanggota DPS harus memperoleh rekomendasi Dewan \nSyariah Nasional Majelis Ulama Indonesia.  \n(4) \nAnggota DPS selama menjabat wajib memiliki: \na. \nintegritas; \nb. \nkompetensi; dan \nc. \nreputasi yang baik. \n(5) \nAnggota DPS sebagai pihak utama sebagaimana \ndimaksud pada ayat (1) mulai berlaku pada tanggal 1 \nJanuari 2025. \n(6) \nKetentuan lebih lanjut mengenai penilaian kemampuan \ndan kepatutan kepada anggota DPS sebagaimana \ndimaksud pada ayat (2) ditetapkan oleh Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Anggota DPS ditetapkan sebagai pihak utama bank \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penilaian kemampuan dan kepatutan bagi \npihak utama lembaga jasa keuangan dan Peraturan \nOtoritas Jasa Keuangan mengenai penilaian kembali \npihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Calon anggota DPS wajib memperoleh persetujuan dari \nOtoritas Jasa Keuangan melalui penilaian kemampuan \ndan kepatutan sebelum menjalankan tindakan, tugas, \ndan fungsinya sebagai pihak utama sebagaimana \ndimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam rangka memperoleh persetujuan Otoritas Jasa \nKeuangan sebagaimana dimaksud pada ayat (2), calon \nanggota DPS harus memperoleh rekomendasi Dewan \nSyariah Nasional Majelis Ulama Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Anggota DPS selama menjabat wajib memiliki: \na. \nintegritas; \nb. \nkompetensi; dan \nc. \nreputasi yang baik."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Anggota DPS sebagai pihak utama sebagaimana \ndimaksud pada ayat (1) mulai berlaku pada tanggal 1 \nJanuari 2025."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Ketentuan lebih lanjut mengenai penilaian kemampuan \ndan kepatutan kepada anggota DPS sebagaimana \ndimaksud pada ayat (2) ditetapkan oleh Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "Anggota DPS ditetapkan sebagai pihak terkait sesuai dengan:  \na. \nPeraturan Otoritas Jasa Keuangan mengenai batas \nmaksimum penyaluran dana dan penyaluran dana \nbesar bagi bank umum syariah; dan \nb. \nPeraturan Otoritas Jasa Keuangan mengenai batas \nmaksimum pemberian kredit dan penyediaan dana \nbesar bagi bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Anggota DPS ditetapkan sebagai pihak terkait sesuai dengan:  \na. \nPeraturan Otoritas Jasa Keuangan mengenai batas \nmaksimum penyaluran dana dan penyaluran dana \nbesar bagi bank umum syariah; dan \nb. \nPeraturan Otoritas Jasa Keuangan mengenai batas \nmaksimum pemberian kredit dan penyediaan dana \nbesar bagi bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nBank wajib memiliki anggota DPS dengan jumlah paling \nsedikit 3 (tiga) orang dan paling banyak 50% (lima \npuluh persen) dari jumlah anggota Direksi. \n(2) \nJumlah anggota DPS sebagaimana dimaksud pada ayat \n(1) mulai berlaku pada tanggal 1 Januari 2026, kecuali \nuntuk Bank yang didirikan setelah Peraturan Otoritas \nJasa Keuangan ini berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki anggota DPS dengan jumlah paling \nsedikit 3 (tiga) orang dan paling banyak 50% (lima \npuluh persen) dari jumlah anggota Direksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jumlah anggota DPS sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "mulai berlaku pada tanggal 1 Januari 2026, kecuali \nuntuk Bank yang didirikan setelah Peraturan Otoritas \nJasa Keuangan ini berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nDPS wajib dipimpin oleh seorang ketua yang berasal \ndari salah satu anggota DPS. \n\n\n \n(2) \nDalam hal diperlukan, anggota DPS lain dapat diangkat \nsebagai wakil ketua DPS. \n \nBagian Kedua \nIndependensi DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPS wajib dipimpin oleh seorang ketua yang berasal \ndari salah satu anggota DPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal diperlukan, anggota DPS lain dapat diangkat \nsebagai wakil ketua DPS. \n \nBagian Kedua \nIndependensi DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nAnggota DPS dilarang merangkap jabatan: \na. \nsebagai anggota direksi, anggota dewan komisaris, \natau pejabat eksekutif pada lembaga keuangan \natau perusahaan keuangan baik bank maupun \nbukan bank;  \nb. \nsebagai anggota DPS pada lebih dari 1 (satu) Bank \nlain; \nc. \nsebagai anggota dewan pengawas syariah pada \nlebih dari 2 (dua) lembaga keuangan selain Bank; \nd. \nsebagai anggota direksi, anggota dewan komisaris, \npengawas syariah, atau pejabat eksekutif pada \nlebih dari 1 (satu) lembaga atau perusahaan bukan \nkeuangan, baik yang berkedudukan di dalam \nmaupun di luar negeri;  \ne. \npada bidang tugas fungsional pada lembaga \nkeuangan bank dan/atau lembaga keuangan \nbukan bank yang berkedudukan di dalam maupun \ndi luar negeri; \nf. \nsebagai pejabat publik; \ng. \npada jabatan lain yang dapat menimbulkan \nbenturan kepentingan dalam pelaksanaan tugas \nsebagai anggota DPS; dan/atau \nh. \npada jabatan lain sesuai dengan ketentuan \nperaturan perundang-undangan. \n(2) \nTidak termasuk larangan rangkap jabatan sebagaimana \ndimaksud pada ayat (1) dalam hal anggota DPS: \na. \nmenjabat sebagai anggota direksi, anggota dewan \nkomisaris, \natau \npejabat \neksekutif \nyang \nmelaksanakan fungsi pengawasan pada 1 (satu) \nperusahaan anak bukan bank yang dikendalikan \noleh Bank; \nb. \nmenjabat pada organisasi atau lembaga nirlaba; \ndan/atau \nc. \nmenjabat sebagai anggota DPS pada Bank lain \ndan/atau dewan pengawas syariah pada lembaga \nkeuangan selain Bank, yang merupakan anggota \nkonglomerasi keuangan Bank, \nsepanjang tidak mengakibatkan yang bersangkutan \nmengabaikan pelaksanaan tugas dan tanggung jawab \nsebagai anggota DPS. \n(3) \nDengan \npertimbangan \ntertentu, \nOtoritas \nJasa \nKeuangan dapat menetapkan kebijakan mengenai \njabatan rangkap sebagaimana dimaksud pada ayat (1) \nhuruf e. \n(4) \nTerhadap calon anggota DPS yang memiliki rangkap \njabatan sebagaimana dimaksud pada ayat (2), wajib \nmembuat pernyataan untuk: \na. \nmenjaga integritas; \n\n\n \nb. \nmenghindari segala bentuk benturan kepentingan; \ndan \nc. \nmenghindari tindakan yang dapat merugikan \nBank dan/atau menyebabkan Bank melanggar \nprinsip kehati-hatian dan/atau Prinsip Syariah, \nselama menjabat sebagai anggota DPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Anggota DPS dilarang merangkap jabatan: \na. \nsebagai anggota direksi, anggota dewan komisaris, \natau pejabat eksekutif pada lembaga keuangan \natau perusahaan keuangan baik bank maupun \nbukan bank;  \nb. \nsebagai anggota DPS pada lebih dari 1 (satu) Bank \nlain; \nc. \nsebagai anggota dewan pengawas syariah pada \nlebih dari 2 (dua) lembaga keuangan selain Bank; \nd. \nsebagai anggota direksi, anggota dewan komisaris, \npengawas syariah, atau pejabat eksekutif pada \nlebih dari 1 (satu) lembaga atau perusahaan bukan \nkeuangan, baik yang berkedudukan di dalam \nmaupun di luar negeri;  \ne. \npada bidang tugas fungsional pada lembaga \nkeuangan bank dan/atau lembaga keuangan \nbukan bank yang berkedudukan di dalam maupun \ndi luar negeri; \nf. \nsebagai pejabat publik; \ng. \npada jabatan lain yang dapat menimbulkan \nbenturan kepentingan dalam pelaksanaan tugas \nsebagai anggota DPS; dan/atau \nh. \npada jabatan lain sesuai dengan ketentuan \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tidak termasuk larangan rangkap jabatan sebagaimana \ndimaksud pada ayat (1) dalam hal anggota DPS: \na. \nmenjabat sebagai anggota direksi, anggota dewan \nkomisaris, \natau \npejabat \neksekutif \nyang \nmelaksanakan fungsi pengawasan pada 1 (satu) \nperusahaan anak bukan bank yang dikendalikan \noleh Bank; \nb. \nmenjabat pada organisasi atau lembaga nirlaba; \ndan/atau \nc. \nmenjabat sebagai anggota DPS pada Bank lain \ndan/atau dewan pengawas syariah pada lembaga \nkeuangan selain Bank, yang merupakan anggota \nkonglomerasi keuangan Bank, \nsepanjang tidak mengakibatkan yang bersangkutan \nmengabaikan pelaksanaan tugas dan tanggung jawab \nsebagai anggota DPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dengan \npertimbangan \ntertentu, \nOtoritas \nJasa \nKeuangan dapat menetapkan kebijakan mengenai \njabatan rangkap sebagaimana dimaksud pada ayat (1) \nhuruf e."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Terhadap calon anggota DPS yang memiliki rangkap \njabatan sebagaimana dimaksud pada ayat (2), wajib \nmembuat pernyataan untuk: \na. \nmenjaga integritas; \n\n\n \nb. \nmenghindari segala bentuk benturan kepentingan; \ndan \nc. \nmenghindari tindakan yang dapat merugikan \nBank dan/atau menyebabkan Bank melanggar \nprinsip kehati-hatian dan/atau Prinsip Syariah, \nselama menjabat sebagai anggota DPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "Mayoritas anggota DPS dilarang saling memiliki hubungan \nkeluarga sampai derajat kedua dengan sesama anggota DPS, \nanggota Dewan Komisaris, dan/atau anggota Direksi. \n \nBagian Ketiga \nMasa Jabatan, Pengangkatan, dan Pemberhentian DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Mayoritas anggota DPS dilarang saling memiliki hubungan \nkeluarga sampai derajat kedua dengan sesama anggota DPS, \nanggota Dewan Komisaris, dan/atau anggota Direksi. \n \nBagian Ketiga \nMasa Jabatan, Pengangkatan, dan Pemberhentian DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nMasa jabatan anggota DPS wajib ditetapkan paling \nlama sama dengan masa jabatan anggota Dewan \nKomisaris. \n(2) \nBank menetapkan dalam anggaran dasar mengenai: \na. \nperiode masa jabatan anggota DPS yang dimulai \nsejak tanggal efektif pengangkatan anggota DPS \noleh RUPS; dan \nb. \nkondisi lain dalam pemenuhan jabatan anggota \nDPS.  \n(3) \nAnggota DPS menjabat untuk jangka waktu tertentu \ndan dapat diangkat kembali setelah mendapatkan \npersetujuan RUPS, paling banyak untuk 2 (dua) periode \nmasa jabatan secara berturut-turut. \n(4) \nAnggota DPS yang telah menjabat selama 2 (dua) \nperiode masa jabatan secara berturut-turut dapat \ndiangkat kembali pada periode selanjutnya sebagai \nanggota DPS dengan mempertimbangkan: \na. \nhasil penilaian kinerja anggota DPS; \nb. \nhasil kaji ulang ekstern terkait pelaksanaan tugas \nanggota DPS; dan \nc. \npernyataan anggota DPS dalam RUPS  mengenai \nindependensi yang bersangkutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Masa jabatan anggota DPS wajib ditetapkan paling \nlama sama dengan masa jabatan anggota Dewan \nKomisaris."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank menetapkan dalam anggaran dasar mengenai: \na. \nperiode masa jabatan anggota DPS yang dimulai \nsejak tanggal efektif pengangkatan anggota DPS \noleh RUPS; dan \nb. \nkondisi lain dalam pemenuhan jabatan anggota \nDPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Anggota DPS menjabat untuk jangka waktu tertentu \ndan dapat diangkat kembali setelah mendapatkan \npersetujuan RUPS, paling banyak untuk 2 (dua) periode \nmasa jabatan secara berturut-turut."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Anggota DPS yang telah menjabat selama 2 (dua) \nperiode masa jabatan secara berturut-turut dapat \ndiangkat kembali pada periode selanjutnya sebagai \nanggota DPS dengan mempertimbangkan: \na. \nhasil penilaian kinerja anggota DPS; \nb. \nhasil kaji ulang ekstern terkait pelaksanaan tugas \nanggota DPS; dan \nc. \npernyataan anggota DPS dalam RUPS  mengenai \nindependensi yang bersangkutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nSetiap usulan pengangkatan dan/atau penggantian \nanggota DPS kepada RUPS wajib memperhatikan \nrekomendasi komite yang menjalankan fungsi nominasi. \n(2) \nAnggota komite yang menjalankan fungsi nominasi \nyang memiliki benturan kepentingan dengan usulan \nyang direkomendasikan wajib mengungkapkan dalam \nusulan yang direkomendasikan. \n(3) \nPengangkatan dan/atau penggantian anggota DPS \nmengedepankan \nkomposisi \nsecara \nprofesional, \nindependensi, \nkesesuaian \nkompetensi, \ndan \nmemperhatikan keberagaman, yang dibutuhkan secara \ntepat dalam pelaksanaan tugas dan tanggung jawab \nDPS. \n(4) \nBank menetapkan dalam anggaran dasar mengenai \nkriteria, mekanisme, dan tata cara pengangkatan, \npenggantian, pemberhentian, dan/atau pengunduran \n\n\n \ndiri anggota DPS, termasuk kewenangan yang melekat \nkepada DPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Setiap usulan pengangkatan dan/atau penggantian \nanggota DPS kepada RUPS wajib memperhatikan \nrekomendasi komite yang menjalankan fungsi nominasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Anggota komite yang menjalankan fungsi nominasi \nyang memiliki benturan kepentingan dengan usulan \nyang direkomendasikan wajib mengungkapkan dalam \nusulan yang direkomendasikan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengangkatan dan/atau penggantian anggota DPS \nmengedepankan \nkomposisi \nsecara \nprofesional, \nindependensi, \nkesesuaian \nkompetensi, \ndan \nmemperhatikan keberagaman, yang dibutuhkan secara \ntepat dalam pelaksanaan tugas dan tanggung jawab \nDPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank menetapkan dalam anggaran dasar mengenai \nkriteria, mekanisme, dan tata cara pengangkatan, \npenggantian, pemberhentian, dan/atau pengunduran \n\n\n \ndiri anggota DPS, termasuk kewenangan yang melekat \nkepada DPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nPemberhentian atau penggantian anggota DPS wajib \nmengedepankan kepentingan utama dari Bank. \n(2) \nPemberhentian \natau \npenggantian \nanggota \nDPS \nsebagaimana dimaksud pada ayat (1) yang dilakukan \nsebelum periode masa jabatan anggota DPS berakhir \nwajib memperhatikan paling sedikit: \na. \nanggota DPS dinilai tidak mampu melaksanakan \ntugas dan tanggung jawabnya; \nb. \npemberhentian atau penggantian anggota DPS \ntidak didasarkan atas penilaian subjektif dari \npemegang \nsaham, \nnamun \ndidasarkan \ndari \npenilaian yang objektif terkait pengelolaan Bank; \nc. \npemberhentian atau penggantian anggota DPS \ntelah melalui perencanaan dan mekanisme yang \nberlaku, yang paling sedikit memperhatikan fungsi \nnominasi dan telah diagendakan dalam RUPS; \nd. \npemberhentian atau penggantian anggota DPS \ntidak mengakibatkan terjadinya permasalahan \ndalam pengorganisasian dan kegiatan usaha Bank; \ne. \npelaksanaan pemberhentian atau penggantian \nanggota DPS mengedepankan pola komunikasi \nyang baik dari berbagai pihak terkait; dan \nf. \ndilakukan dengan mengedepankan penerapan tata \nkelola yang baik dan aspek kehati-hatian. \n(3) \nPemberhentian atau penggantian anggota DPS sebelum \nperiode masa jabatan berakhir wajib mendapatkan \npersetujuan \nterlebih \ndahulu \ndari \nOtoritas \nJasa \nKeuangan sebelum diputuskan dalam RUPS. \n(4) \nDalam \nmemberikan \npersetujuan \nsebagaimana \ndimaksud pada ayat (3), Otoritas Jasa Keuangan \nmelakukan penilaian terhadap kelayakan rencana \npemberhentian atau penggantian anggota DPS. \n(5) \nSebagai bahan penilaian oleh Otoritas Jasa Keuangan \nsebagaimana \ndimaksud \npada \nayat \n(4), \nBank \nmenyampaikan permohonan kepada Otoritas Jasa \nKeuangan dengan memuat informasi mengenai: \na. \nalasan \natau \npertimbangan \ndilakukannya \npemberhentian atau penggantian anggota DPS; \ndan \nb. \nBank dapat menyertakan profil calon pengganti \nyang \ndinilai \nmemenuhi \npersyaratan \nuntuk \ndilakukan penilaian kemampuan dan kepatutan.   \n(6) \nPenyampaian \npermohonan \nkepada \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (5) \ndisampaikan Bank paling lama 1 (satu) bulan sebelum \nrencana pelaksanaan RUPS yang memuat agenda \npemberhentian atau penggantian anggota DPS. \n \n \n \n\n\n \n(7) \nDalam hal Otoritas Jasa Keuangan menilai rencana \npemberhentian atau penggantian anggota DPS tidak \nlayak maka: \na. \nrencana pemberhentian atau penggantian anggota \nDPS dimaksud tidak disetujui Otoritas Jasa \nKeuangan; dan \nb. \nBank dilarang memuat agenda pemberhentian \natau penggantian anggota DPS dalam RUPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemberhentian atau penggantian anggota DPS wajib \nmengedepankan kepentingan utama dari Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemberhentian \natau \npenggantian \nanggota \nDPS \nsebagaimana dimaksud pada ayat (1) yang dilakukan \nsebelum periode masa jabatan anggota DPS berakhir \nwajib memperhatikan paling sedikit: \na. \nanggota DPS dinilai tidak mampu melaksanakan \ntugas dan tanggung jawabnya; \nb. \npemberhentian atau penggantian anggota DPS \ntidak didasarkan atas penilaian subjektif dari \npemegang \nsaham, \nnamun \ndidasarkan \ndari \npenilaian yang objektif terkait pengelolaan Bank; \nc. \npemberhentian atau penggantian anggota DPS \ntelah melalui perencanaan dan mekanisme yang \nberlaku, yang paling sedikit memperhatikan fungsi \nnominasi dan telah diagendakan dalam RUPS; \nd. \npemberhentian atau penggantian anggota DPS \ntidak mengakibatkan terjadinya permasalahan \ndalam pengorganisasian dan kegiatan usaha Bank; \ne. \npelaksanaan pemberhentian atau penggantian \nanggota DPS mengedepankan pola komunikasi \nyang baik dari berbagai pihak terkait; dan \nf. \ndilakukan dengan mengedepankan penerapan tata \nkelola yang baik dan aspek kehati-hatian."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemberhentian atau penggantian anggota DPS sebelum \nperiode masa jabatan berakhir wajib mendapatkan \npersetujuan \nterlebih \ndahulu \ndari \nOtoritas \nJasa \nKeuangan sebelum diputuskan dalam RUPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nmemberikan \npersetujuan \nsebagaimana \ndimaksud pada ayat (3), Otoritas Jasa Keuangan \nmelakukan penilaian terhadap kelayakan rencana \npemberhentian atau penggantian anggota DPS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Sebagai bahan penilaian oleh Otoritas Jasa Keuangan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": ", \nBank \nmenyampaikan permohonan kepada Otoritas Jasa \nKeuangan dengan memuat informasi mengenai: \na. \nalasan \natau \npertimbangan \ndilakukannya \npemberhentian atau penggantian anggota DPS; \ndan \nb. \nBank dapat menyertakan profil calon pengganti \nyang \ndinilai \nmemenuhi \npersyaratan \nuntuk \ndilakukan penilaian kemampuan dan kepatutan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penyampaian \npermohonan \nkepada \nOtoritas \nJasa \nKeuangan sebagaimana dimaksud pada ayat (5) \ndisampaikan Bank paling lama 1 (satu) bulan sebelum \nrencana pelaksanaan RUPS yang memuat agenda \npemberhentian atau penggantian anggota DPS."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal Otoritas Jasa Keuangan menilai rencana \npemberhentian atau penggantian anggota DPS tidak \nlayak maka: \na. \nrencana pemberhentian atau penggantian anggota \nDPS dimaksud tidak disetujui Otoritas Jasa \nKeuangan; dan \nb. \nBank dilarang memuat agenda pemberhentian \natau penggantian anggota DPS dalam RUPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nAnggota DPS dapat mengundurkan diri dari jabatannya \nsebelum masa jabatan berakhir melalui pemberitahuan \ntertulis kepada Bank. \n(2) \nDalam hal anggota DPS mengundurkan diri sehingga \nmengakibatkan jumlah anggota DPS menjadi kurang \ndari 3 (tiga) orang sebagaimana dimaksud dalam Pasal \n10 serta pengunduran diri telah ditetapkan oleh RUPS \ndan diangkat anggota DPS yang baru, pengunduran diri \ntersebut sah. \n(3) \nOtoritas \nJasa \nKeuangan \nberwenang \nmelakukan \nevaluasi terhadap pengunduran diri anggota DPS untuk \nmenilai pengunduran diri dilakukan secara sukarela, \nterdapat unsur paksaan, atau kondisi lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Anggota DPS dapat mengundurkan diri dari jabatannya \nsebelum masa jabatan berakhir melalui pemberitahuan \ntertulis kepada Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal anggota DPS mengundurkan diri sehingga \nmengakibatkan jumlah anggota DPS menjadi kurang \ndari 3 (tiga) orang sebagaimana dimaksud dalam Pasal \n10 serta pengunduran diri telah ditetapkan oleh RUPS \ndan diangkat anggota DPS yang baru, pengunduran diri \ntersebut sah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Otoritas \nJasa \nKeuangan \nberwenang \nmelakukan \nevaluasi terhadap pengunduran diri anggota DPS untuk \nmenilai pengunduran diri dilakukan secara sukarela, \nterdapat unsur paksaan, atau kondisi lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "Kewenangan Otoritas Jasa Keuangan dalam melakukan \ntindakan \nkorektif \ndan \nevaluasi \nterhadap \ntindakan \npengangkatan, \npemberhentian, \npenggantian, \ndan/atau \npengunduran diri anggota DPS dapat disampaikan oleh \nOtoritas Jasa Keuangan melalui perintah tertulis sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \nperintah tertulis. \n \nBagian Keempat \nTugas, Tanggung Jawab, dan Wewenang DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kewenangan Otoritas Jasa Keuangan dalam melakukan \ntindakan \nkorektif \ndan \nevaluasi \nterhadap \ntindakan \npengangkatan, \npemberhentian, \npenggantian, \ndan/atau \npengunduran diri anggota DPS dapat disampaikan oleh \nOtoritas Jasa Keuangan melalui perintah tertulis sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \nperintah tertulis. \n \nBagian Keempat \nTugas, Tanggung Jawab, dan Wewenang DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "DPS wajib melaksanakan tugas dan tanggung jawab sesuai \ndengan kerangka Tata Kelola Syariah dan prinsip tata kelola \nyang baik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "DPS wajib melaksanakan tugas dan tanggung jawab sesuai \ndengan kerangka Tata Kelola Syariah dan prinsip tata kelola \nyang baik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nDPS \nbertugas \nmelakukan \npengawasan \nuntuk \nkepentingan Bank atas kebijakan dan jalannya \npengurusan oleh Direksi agar sesuai dengan Prinsip \nSyariah dan bertanggung jawab atas pengawasan \ntersebut, serta memberikan nasihat kepada Direksi \ntermasuk memberikan opini syariah terkait kegiatan \nBank.  \n(2) \nDPS wajib melaksanakan tugas, wewenang, dan \ntanggung jawab untuk kepentingan Bank dengan itikad \nbaik. \n(3) \nDalam \nmelakukan \npengawasan, \nDPS \nwajib \nmengarahkan, \nmemantau, \ndan \nmengevaluasi \npelaksanaan Tata Kelola Syariah termasuk penerapan \nmanajemen risiko syariah, kepatuhan syariah, dan \n\n\n \naudit intern syariah secara terintegrasi serta kebijakan \nstrategis Bank yang terkait dengan penerapan Prinsip \nSyariah, \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan, \nanggaran \ndasar, \ndan/atau \nkeputusan RUPS. \n(4) \nDPS menerima dan melaksanakan kewenangan yang \ndiserahkan dan/atau diberikan kepada DPS sesuai \ndengan ketentuan peraturan perundang-undangan, \nanggaran dasar, dan/atau keputusan RUPS. \n(5) \nKetentuan lebih lanjut mengenai tugas dan tanggung \njawab DPS ditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPS \nbertugas \nmelakukan \npengawasan \nuntuk \nkepentingan Bank atas kebijakan dan jalannya \npengurusan oleh Direksi agar sesuai dengan Prinsip \nSyariah dan bertanggung jawab atas pengawasan \ntersebut, serta memberikan nasihat kepada Direksi \ntermasuk memberikan opini syariah terkait kegiatan \nBank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "DPS wajib melaksanakan tugas, wewenang, dan \ntanggung jawab untuk kepentingan Bank dengan itikad \nbaik."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nmelakukan \npengawasan, \nDPS \nwajib \nmengarahkan, \nmemantau, \ndan \nmengevaluasi \npelaksanaan Tata Kelola Syariah termasuk penerapan \nmanajemen risiko syariah, kepatuhan syariah, dan \n\n\n \naudit intern syariah secara terintegrasi serta kebijakan \nstrategis Bank yang terkait dengan penerapan Prinsip \nSyariah, \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan, \nanggaran \ndasar, \ndan/atau \nkeputusan RUPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "DPS menerima dan melaksanakan kewenangan yang \ndiserahkan dan/atau diberikan kepada DPS sesuai \ndengan ketentuan peraturan perundang-undangan, \nanggaran dasar, dan/atau keputusan RUPS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai tugas dan tanggung \njawab DPS ditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nDPS wajib menyampaikan laporan hasil pengawasan \nDPS kepada Otoritas Jasa Keuangan secara semesteran. \n(2) \nLaporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan kepada Otoritas Jasa Keuangan paling \nlambat 2 (dua) bulan setelah periode semester \ndimaksud berakhir. \n(3) \nDPS dapat menyampaikan laporan sewaktu-waktu \nkepada Otoritas Jasa Keuangan apabila ditemukan \npelanggaran Prinsip Syariah yang signifikan. \n(4) \nPenyampaian laporan hasil pengawasan DPS kepada \nOtoritas Jasa Keuangan sebagaimana dimaksud pada \nayat (1) ditujukan kepada: \na. \nDepartemen Perbankan Syariah atau Kantor \nOtoritas Jasa Keuangan di Jakarta, bagi Bank \nyang berkantor pusat di wilayah Provinsi Daerah \nKhusus Ibukota Jakarta atau Provinsi Banten; \natau  \nb. \nKantor Otoritas Jasa Keuangan setempat, bagi \nBank yang berkantor pusat di luar wilayah \nProvinsi Daerah Khusus Ibukota Jakarta atau \nProvinsi Banten, \nyang disampaikan secara daring melalui sistem \npelaporan Otoritas Jasa Keuangan dengan tata cara \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan bank umum melalui sistem \npelaporan Otoritas Jasa Keuangan.  \n(5) \nDalam hal sistem pelaporan Otoritas Jasa Keuangan \nbelum \ntersedia \natau \nterdapat \nkeadaan \nkahar, \npenyampaian dilakukan melalui sistem persuratan \nOtoritas Jasa Keuangan.  \n(6) \nDalam hal sistem persuratan Otoritas Jasa Keuangan \nsebagaimana dimaksud pada ayat (5) terdapat keadaan \nkahar, penyampaian dilakukan secara luring kepada \nOtoritas Jasa Keuangan. \n(7) \nKetentuan \nlebih \nlanjut \nmengenai \nlaporan \nhasil \npengawasan DPS ditetapkan oleh Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPS wajib menyampaikan laporan hasil pengawasan \nDPS kepada Otoritas Jasa Keuangan secara semesteran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan kepada Otoritas Jasa Keuangan paling \nlambat 2 (dua) bulan setelah periode semester \ndimaksud berakhir."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "DPS dapat menyampaikan laporan sewaktu-waktu \nkepada Otoritas Jasa Keuangan apabila ditemukan \npelanggaran Prinsip Syariah yang signifikan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyampaian laporan hasil pengawasan DPS kepada \nOtoritas Jasa Keuangan sebagaimana dimaksud pada \nayat (1) ditujukan kepada: \na. \nDepartemen Perbankan Syariah atau Kantor \nOtoritas Jasa Keuangan di Jakarta, bagi Bank \nyang berkantor pusat di wilayah Provinsi Daerah \nKhusus Ibukota Jakarta atau Provinsi Banten; \natau  \nb. \nKantor Otoritas Jasa Keuangan setempat, bagi \nBank yang berkantor pusat di luar wilayah \nProvinsi Daerah Khusus Ibukota Jakarta atau \nProvinsi Banten, \nyang disampaikan secara daring melalui sistem \npelaporan Otoritas Jasa Keuangan dengan tata cara \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan bank umum melalui sistem \npelaporan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal sistem pelaporan Otoritas Jasa Keuangan \nbelum \ntersedia \natau \nterdapat \nkeadaan \nkahar, \npenyampaian dilakukan melalui sistem persuratan \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal sistem persuratan Otoritas Jasa Keuangan \nsebagaimana dimaksud pada ayat (5) terdapat keadaan \nkahar, penyampaian dilakukan secara luring kepada \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Ketentuan \nlebih \nlanjut \nmengenai \nlaporan \nhasil \npengawasan DPS ditetapkan oleh Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "DPS wajib melakukan pengawasan terhadap tindak lanjut \nDireksi \natas \ntemuan \naudit \natau \npemeriksaan \ndan \nrekomendasi dari satuan kerja audit intern Bank, auditor \nekstern, hasil pengawasan \nOtoritas Jasa Keuangan, \n\n\n \ndan/atau hasil pengawasan otoritas dan lembaga lain, \nterkait penerapan Prinsip Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "DPS wajib melakukan pengawasan terhadap tindak lanjut \nDireksi \natas \ntemuan \naudit \natau \npemeriksaan \ndan \nrekomendasi dari satuan kerja audit intern Bank, auditor \nekstern, hasil pengawasan \nOtoritas Jasa Keuangan, \n\n\n \ndan/atau hasil pengawasan otoritas dan lembaga lain, \nterkait penerapan Prinsip Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nDPS wajib memiliki pedoman dan tata tertib kerja yang \nbersifat mengikat bagi setiap anggota DPS. \n(2) \nPedoman dan tata tertib kerja sebagaimana dimaksud \npada ayat (1) wajib mencantumkan paling sedikit: \na. \ntugas, tanggung jawab, dan wewenang DPS; \nb. \npengaturan kewenangan dan prosedur keputusan \nDPS; \nc. \npengaturan etika kerja DPS; \nd. \npengaturan rapat DPS; \ne. \nlarangan terhadap DPS;  \nf. \nevaluasi kinerja DPS; dan \ng. \npola hubungan kerja DPS dengan Direksi dan \nDewan Komisaris.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPS wajib memiliki pedoman dan tata tertib kerja yang \nbersifat mengikat bagi setiap anggota DPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pedoman dan tata tertib kerja sebagaimana dimaksud \npada ayat (1) wajib mencantumkan paling sedikit: \na. \ntugas, tanggung jawab, dan wewenang DPS; \nb. \npengaturan kewenangan dan prosedur keputusan \nDPS; \nc. \npengaturan etika kerja DPS; \nd. \npengaturan rapat DPS; \ne. \nlarangan terhadap DPS;  \nf. \nevaluasi kinerja DPS; dan \ng. \npola hubungan kerja DPS dengan Direksi dan \nDewan Komisaris."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "DPS wajib menyediakan waktu untuk melaksanakan tugas \ndan tanggung jawab secara optimal sesuai dengan pedoman \ndan tata tertib kerja.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "DPS wajib menyediakan waktu untuk melaksanakan tugas \ndan tanggung jawab secara optimal sesuai dengan pedoman \ndan tata tertib kerja."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "DPS wajib menjaga segala data dan informasi terkait Bank \nsesuai dengan ketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "DPS wajib menjaga segala data dan informasi terkait Bank \nsesuai dengan ketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nUntuk mendukung penerapan Tata Kelola Syariah \nsebagaimana dimaksud dalam Pasal 4 ayat (1) di \nseluruh tingkatan dan jenjang organisasi, DPS dapat \nmenjadi anggota setiap komite pendukung pelaksanaan \ntugas Dewan Komisaris. \n(2) \nDalam hal terdapat komite pendukung pelaksanaan \ntugas Dewan Komisaris yang tidak beranggotakan DPS, \nkomite \npendukung \npelaksanaan \ntugas \nDewan \nKomisaris tersebut wajib meminta pendapat DPS pada \nsetiap pembahasan yang terkait Prinsip Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk mendukung penerapan Tata Kelola Syariah \nsebagaimana dimaksud dalam Pasal 4 ayat (1) di \nseluruh tingkatan dan jenjang organisasi, DPS dapat \nmenjadi anggota setiap komite pendukung pelaksanaan \ntugas Dewan Komisaris."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat komite pendukung pelaksanaan \ntugas Dewan Komisaris yang tidak beranggotakan DPS, \nkomite \npendukung \npelaksanaan \ntugas \nDewan \nKomisaris tersebut wajib meminta pendapat DPS pada \nsetiap pembahasan yang terkait Prinsip Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "Komite yang melaksanakan fungsi nominasi pada BUS atau \nBUK yang memiliki UUS, selain melaksanakan tugas dan \ntanggung jawab sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi bank umum, \nwajib bertugas dan bertanggung jawab melaksanakan \nkebijakan nominasi: \na. \nmenyusun dan memberikan rekomendasi mengenai \nsistem serta prosedur pemilihan dan/atau penggantian \nanggota \nDPS \nkepada \nDewan \nKomisaris \nuntuk \ndisampaikan kepada RUPS; \nb. \nmengidentifikasi \ndan \nmemberikan \nrekomendasi \nmengenai calon anggota DPS kepada Dewan Komisaris \nuntuk disampaikan kepada RUPS; dan \nc. \nmenyusun mekanisme dan melakukan penilaian \nkinerja DPS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Komite yang melaksanakan fungsi nominasi pada BUS atau \nBUK yang memiliki UUS, selain melaksanakan tugas dan \ntanggung jawab sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi bank umum, \nwajib bertugas dan bertanggung jawab melaksanakan \nkebijakan nominasi: \na. \nmenyusun dan memberikan rekomendasi mengenai \nsistem serta prosedur pemilihan dan/atau penggantian \nanggota \nDPS \nkepada \nDewan \nKomisaris \nuntuk \ndisampaikan kepada RUPS; \nb. \nmengidentifikasi \ndan \nmemberikan \nrekomendasi \nmengenai calon anggota DPS kepada Dewan Komisaris \nuntuk disampaikan kepada RUPS; dan \nc. \nmenyusun mekanisme dan melakukan penilaian \nkinerja DPS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "Bank wajib memiliki fungsi pendukung DPS yang memadai \nuntuk mendukung pelaksanaan tugas dan tanggung jawab \nDPS. \n \nBagian Kelima \nDukungan Direksi dan Dewan Komisaris terhadap \nPelaksanaan Tugas DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib memiliki fungsi pendukung DPS yang memadai \nuntuk mendukung pelaksanaan tugas dan tanggung jawab \nDPS. \n \nBagian Kelima \nDukungan Direksi dan Dewan Komisaris terhadap \nPelaksanaan Tugas DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nDireksi wajib mendukung pelaksanaan tugas DPS \nsebagaimana dimaksud dalam Pasal 20 ayat (1) dan \nPasal 22, paling sedikit: \na. \nmenyediakan data dan informasi yang akurat, \nrelevan, dan tepat waktu kepada DPS dalam \nrangka pelaksanaan tugas DPS;  \nb. \nmemastikan \nketersediaan \ndan \nkecukupan \npelaporan intern yang didukung oleh sistem \ninformasi \nmanajemen \nyang \nmemadai \nuntuk \nmendukung proses pelaksanaan tugas DPS; dan \nc. \nmenyediakan sarana dan prasarana yang memadai \nuntuk mendukung proses pelaksanaan tugas DPS. \n(2) \nDireksi wajib menindaklanjuti rekomendasi dari hasil \npengawasan DPS sebagaimana dimaksud dalam Pasal \n20 ayat (1).  \n(3) \nDewan Komisaris wajib memastikan bahwa Direksi \ntelah \nmenindaklanjuti \nrekomendasi \ndari \nhasil \npengawasan DPS sebagaimana dimaksud pada ayat (2). \n \nBagian Keenam  \nRapat DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Direksi wajib mendukung pelaksanaan tugas DPS \nsebagaimana dimaksud dalam Pasal 20 ayat (1) dan \nPasal 22, paling sedikit: \na. \nmenyediakan data dan informasi yang akurat, \nrelevan, dan tepat waktu kepada DPS dalam \nrangka pelaksanaan tugas DPS;  \nb. \nmemastikan \nketersediaan \ndan \nkecukupan \npelaporan intern yang didukung oleh sistem \ninformasi \nmanajemen \nyang \nmemadai \nuntuk \nmendukung proses pelaksanaan tugas DPS; dan \nc. \nmenyediakan sarana dan prasarana yang memadai \nuntuk mendukung proses pelaksanaan tugas DPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Direksi wajib menindaklanjuti rekomendasi dari hasil \npengawasan DPS sebagaimana dimaksud dalam Pasal \n20 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dewan Komisaris wajib memastikan bahwa Direksi \ntelah \nmenindaklanjuti \nrekomendasi \ndari \nhasil \npengawasan DPS sebagaimana dimaksud pada ayat (2). \n \nBagian Keenam  \nRapat DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nDPS wajib menyelenggarakan rapat DPS paling sedikit \n1 (satu) kali dalam 1 (satu) bulan. \n(2) \nRapat DPS sebagaimana dimaksud pada ayat (1) \ndiselenggarakan jika dihadiri mayoritas anggota DPS. \n(3) \nPelaksanaan rapat DPS sebagaimana dimaksud pada \nayat (1) wajib dihadiri oleh seluruh anggota DPS secara \nfisik paling sedikit 2 (dua) kali dalam 1 (satu) tahun.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPS wajib menyelenggarakan rapat DPS paling sedikit \n1 (satu) kali dalam 1 (satu) bulan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rapat DPS sebagaimana dimaksud pada ayat (1) \ndiselenggarakan jika dihadiri mayoritas anggota DPS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pelaksanaan rapat DPS sebagaimana dimaksud pada \nayat (1) wajib dihadiri oleh seluruh anggota DPS secara \nfisik paling sedikit 2 (dua) kali dalam 1 (satu) tahun."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nBank wajib mengadakan rapat DPS bersama Direksi \npaling sedikit 1 (satu) kali dalam 4 (empat) bulan. \n(2) \nRapat DPS sebagaimana dimaksud pada ayat (1) \ndiselenggarakan jika dihadiri mayoritas anggota DPS \ndan mayoritas anggota Direksi.  \n(3) \nBank wajib mengadakan rapat DPS bersama Dewan \nKomisaris paling sedikit 1 (satu) kali dalam 4 (empat) \nbulan. \n(4) \nRapat DPS sebagaimana dimaksud pada ayat (3) \ndiselenggarakan jika dihadiri mayoritas anggota DPS \ndan mayoritas anggota Dewan Komisaris.  \n(5) \nBank \nwajib \nmemiliki \nprosedur \ninternal \ndalam \npenyelenggaraan rapat DPS sebagaimana dimaksud \npada ayat (1) dan ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib mengadakan rapat DPS bersama Direksi \npaling sedikit 1 (satu) kali dalam 4 (empat) bulan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rapat DPS sebagaimana dimaksud pada ayat (1) \ndiselenggarakan jika dihadiri mayoritas anggota DPS \ndan mayoritas anggota Direksi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib mengadakan rapat DPS bersama Dewan \nKomisaris paling sedikit 1 (satu) kali dalam 4 (empat) \nbulan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Rapat DPS sebagaimana dimaksud pada ayat (3) \ndiselenggarakan jika dihadiri mayoritas anggota DPS \ndan mayoritas anggota Dewan Komisaris."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank \nwajib \nmemiliki \nprosedur \ninternal \ndalam \npenyelenggaraan rapat DPS sebagaimana dimaksud \npada ayat (1) dan ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nPengambilan keputusan rapat DPS wajib terlebih \ndahulu dilakukan berdasarkan musyawarah untuk \nmencapai mufakat. \n(2) \nDalam hal musyawarah untuk mencapai mufakat \nsebagaimana dimaksud pada ayat (1) tidak tercapai, \npengambilan \nkeputusan \nrapat \nDPS \ndilakukan \nberdasarkan suara terbanyak. \n(3) \nSeluruh keputusan DPS sebagaimana dimaksud pada \nayat (1) dan ayat (2) bersifat mengikat bagi seluruh \nanggota DPS. \n(4) \nDPS wajib membuat risalah rapat DPS sebagaimana \ndimaksud pada ayat (1) dan didokumentasikan.  \n(5) \nPerbedaan pendapat yang terjadi dalam rapat DPS \nsebagaimana \ndimaksud \npada \nayat \n(2) \nwajib \ndicantumkan secara jelas dalam risalah rapat DPS \nbeserta alasan perbedaan pendapat. \n \nBagian Ketujuh  \nAspek Transparansi DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengambilan keputusan rapat DPS wajib terlebih \ndahulu dilakukan berdasarkan musyawarah untuk \nmencapai mufakat."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal musyawarah untuk mencapai mufakat \nsebagaimana dimaksud pada ayat (1) tidak tercapai, \npengambilan \nkeputusan \nrapat \nDPS \ndilakukan \nberdasarkan suara terbanyak."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Seluruh keputusan DPS sebagaimana dimaksud pada \nayat (1) dan ayat (2) bersifat mengikat bagi seluruh \nanggota DPS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "DPS wajib membuat risalah rapat DPS sebagaimana \ndimaksud pada ayat (1) dan didokumentasikan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Perbedaan pendapat yang terjadi dalam rapat DPS \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "wajib \ndicantumkan secara jelas dalam risalah rapat DPS \nbeserta alasan perbedaan pendapat. \n \nBagian Ketujuh  \nAspek Transparansi DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nAnggota DPS wajib mengungkapkan paling sedikit: \na. \nkepemilikan saham yang mencapai 5% (lima \npersen) \natau \nlebih, \nbaik \npada \nBank \nyang \nbersangkutan maupun pada bank dan/atau \nperusahaan lain, yang berkedudukan di dalam dan \ndi luar negeri;  \nb. \nhubungan keuangan dengan anggota Direksi, \nanggota Dewan Komisaris, anggota DPS lain, \ndan/atau pemegang saham pengendali Bank;  \nc. \nhubungan keluarga sampai derajat kedua dengan \nanggota \nDireksi, \nanggota \nDewan \nKomisaris, \nanggota DPS lain, dan/atau pemegang saham \npengendali Bank; dan \nd. \nrangkap jabatan sebagai anggota DPS pada Bank, \nlembaga \nkeuangan \nselain \nBank \ndan/atau \npengawas syariah pada lembaga atau perusahaan \nbukan keuangan, \ndalam laporan pelaksanaan Tata Kelola Syariah \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan ini. \n(2) \nAnggota DPS wajib mengungkapkan remunerasi dan \nfasilitas lain yang ditetapkan RUPS sesuai dengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan tata kelola dalam pemberian remunerasi \nbagi bank umum syariah dan unit usaha syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Anggota DPS wajib mengungkapkan paling sedikit: \na. \nkepemilikan saham yang mencapai 5% (lima \npersen) \natau \nlebih, \nbaik \npada \nBank \nyang \nbersangkutan maupun pada bank dan/atau \nperusahaan lain, yang berkedudukan di dalam dan \ndi luar negeri;  \nb. \nhubungan keuangan dengan anggota Direksi, \nanggota Dewan Komisaris, anggota DPS lain, \ndan/atau pemegang saham pengendali Bank;  \nc. \nhubungan keluarga sampai derajat kedua dengan \nanggota \nDireksi, \nanggota \nDewan \nKomisaris, \nanggota DPS lain, dan/atau pemegang saham \npengendali Bank; dan \nd. \nrangkap jabatan sebagai anggota DPS pada Bank, \nlembaga \nkeuangan \nselain \nBank \ndan/atau \npengawas syariah pada lembaga atau perusahaan \nbukan keuangan, \ndalam laporan pelaksanaan Tata Kelola Syariah \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Anggota DPS wajib mengungkapkan remunerasi dan \nfasilitas lain yang ditetapkan RUPS sesuai dengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan tata kelola dalam pemberian remunerasi \nbagi bank umum syariah dan unit usaha syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nAnggota DPS dilarang memanfaatkan Bank untuk \nkepentingan pribadi, keluarga, dan/atau pihak lain \nyang dapat merugikan atau mengurangi keuntungan \nBank. \n(2) \nAnggota DPS dilarang mengambil dan/atau menerima \nkeuntungan pribadi dari Bank selain remunerasi dan \nfasilitas lain yang ditetapkan RUPS. \n\n\n \nBagian Kedelapan  \nRemunerasi DPS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Anggota DPS dilarang memanfaatkan Bank untuk \nkepentingan pribadi, keluarga, dan/atau pihak lain \nyang dapat merugikan atau mengurangi keuntungan \nBank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Anggota DPS dilarang mengambil dan/atau menerima \nkeuntungan pribadi dari Bank selain remunerasi dan \nfasilitas lain yang ditetapkan RUPS. \n\n\n \nBagian Kedelapan  \nRemunerasi DPS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nKebijakan remunerasi anggota DPS disusun sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola dalam pemberian remunerasi \nbagi bank umum syariah dan unit usaha syariah. \n(2) \nKebijakan remunerasi anggota DPS sebagaimana \ndimaksud pada ayat (1) wajib dilakukan dengan \nmemperhatikan: \na. \nrisiko dan kompleksitas tugas DPS sesuai tugas \ndan tanggung jawab anggota DPS; dan \nb. \nproporsionalitas \nterhadap \nremunerasi \nDewan \nKomisaris. \n \nBagian Kesembilan \nSanksi Administratif",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan remunerasi anggota DPS disusun sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola dalam pemberian remunerasi \nbagi bank umum syariah dan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan remunerasi anggota DPS sebagaimana \ndimaksud pada ayat (1) wajib dilakukan dengan \nmemperhatikan: \na. \nrisiko dan kompleksitas tugas DPS sesuai tugas \ndan tanggung jawab anggota DPS; dan \nb. \nproporsionalitas \nterhadap \nremunerasi \nDewan \nKomisaris. \n \nBagian Kesembilan \nSanksi Administratif"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DPS",
+      "teks_lengkap": "(1) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 8 ayat (2), ayat (4), Pasal 10 ayat \n(1), Pasal 11 ayat (1), Pasal 12 ayat (1), ayat (4), Pasal \n13, Pasal 14 ayat (1), Pasal 15 ayat (1), ayat (2), Pasal \n16 ayat (1), ayat (2), ayat (3), ayat (7) huruf b, Pasal 19, \nPasal 20 ayat (2), ayat (3), Pasal 21 ayat (1), ayat (2), \nPasal 22, Pasal 23, Pasal 24, Pasal 25, Pasal 26 ayat (2), \nPasal 27, Pasal 28, Pasal 29, Pasal 30 ayat (1), ayat (3), \nPasal 31 ayat (1), ayat (3), ayat (5), Pasal 32 ayat (1), \nayat (4), ayat (5), Pasal 33, Pasal 34, dan/atau Pasal 35 \nayat (2), dikenai sanksi administratif berupa teguran \ntertulis. \n(2) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 8 ayat (2), ayat (4), Pasal 10 ayat (1), Pasal 11 ayat \n(1), Pasal 12 ayat (1), ayat (4), Pasal 13, Pasal 14 ayat \n(1), Pasal 15 ayat (1), ayat (2), Pasal 16 ayat (1), ayat (2), \nayat (3), ayat (7) huruf b, Pasal 19, Pasal 20 ayat (2), \nayat (3), Pasal 21 ayat (1), ayat (2), Pasal 22, Pasal 23, \nPasal 24, Pasal 25, Pasal 26 ayat (2), Pasal 27, Pasal 28, \nPasal 29, Pasal 30 ayat (1), ayat (3), Pasal 31 ayat (1), \nayat (3), ayat (5), Pasal 32 ayat (1), ayat (4), ayat (5), \nPasal 33, Pasal 34, dan/atau Pasal 35 ayat (2), Bank \ndikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(3) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \n\n\n \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan. \n(4) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), dan/atau ayat (3), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \nBAB IV \nFUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO \nSYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG \nEKSTERN TERHADAP TATA KELOLA SYARIAH \n \nBagian Kesatu \nFungsi Kepatuhan Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 8 ayat (2), ayat (4), Pasal 10 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Pasal 11 ayat (1), Pasal 12 ayat (1), ayat (4), Pasal \n13, Pasal 14 ayat (1), Pasal 15 ayat (1), ayat (2), Pasal \n16 ayat (1), ayat (2), ayat (3), ayat (7) huruf b, Pasal 19, \nPasal 20 ayat (2), ayat (3), Pasal 21 ayat (1), ayat (2), \nPasal 22, Pasal 23, Pasal 24, Pasal 25, Pasal 26 ayat (2), \nPasal 27, Pasal 28, Pasal 29, Pasal 30 ayat (1), ayat (3), \nPasal 31 ayat (1), ayat (3), ayat (5), Pasal 32 ayat (1), \nayat (4), ayat (5), Pasal 33, Pasal 34, dan/atau Pasal 35 \nayat (2), dikenai sanksi administratif berupa teguran \ntertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 8 ayat (2), ayat (4), Pasal 10 ayat (1), Pasal 11 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Pasal 12 ayat (1), ayat (4), Pasal 13, Pasal 14 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Pasal 15 ayat (1), ayat (2), Pasal 16 ayat (1), ayat (2), \nayat (3), ayat (7) huruf b, Pasal 19, Pasal 20 ayat (2), \nayat (3), Pasal 21 ayat (1), ayat (2), Pasal 22, Pasal 23, \nPasal 24, Pasal 25, Pasal 26 ayat (2), Pasal 27, Pasal 28, \nPasal 29, Pasal 30 ayat (1), ayat (3), Pasal 31 ayat (1), \nayat (3), ayat (5), Pasal 32 ayat (1), ayat (4), ayat (5), \nPasal 33, Pasal 34, dan/atau Pasal 35 ayat (2), Bank \ndikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \n\n\n \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), dan/atau ayat (3), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \nBAB IV \nFUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO \nSYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG \nEKSTERN TERHADAP TATA KELOLA SYARIAH \n \nBagian Kesatu \nFungsi Kepatuhan Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "FUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO SYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG EKSTERN TERHADAP TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib memiliki fungsi kepatuhan syariah yang \ndidukung oleh pejabat minimal setingkat Pejabat \nEksekutif yang mempunyai pengetahuan dan/atau \npemahaman mengenai operasional perbankan syariah \ndalam pelaksanaan fungsi kepatuhan syariah. \n(2) \nTugas dan tanggung jawab fungsi kepatuhan syariah \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai pelaksanaan fungsi kepatuhan \nbank umum. \n(3) \nKetentuan lebih lanjut mengenai fungsi kepatuhan \nsyariah ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Kedua \nFungsi Manajemen Risiko Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki fungsi kepatuhan syariah yang \ndidukung oleh pejabat minimal setingkat Pejabat \nEksekutif yang mempunyai pengetahuan dan/atau \npemahaman mengenai operasional perbankan syariah \ndalam pelaksanaan fungsi kepatuhan syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tugas dan tanggung jawab fungsi kepatuhan syariah \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai pelaksanaan fungsi kepatuhan \nbank umum."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai fungsi kepatuhan \nsyariah ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Kedua \nFungsi Manajemen Risiko Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "FUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO SYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG EKSTERN TERHADAP TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib memiliki fungsi manajemen risiko syariah \nyang didukung oleh pejabat minimal setingkat Pejabat \nEksekutif yang mempunyai pengetahuan dan/atau \npemahaman mengenai operasional perbankan syariah \ndalam pelaksanaan fungsi manajemen risiko syariah. \n(2) \nTugas dan tanggung jawab fungsi manajemen risiko \nsyariah dilaksanakan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai penerapan manajemen risiko \nbagi bank umum syariah dan unit usaha syariah. \n(3) \nKetentuan lebih lanjut mengenai fungsi manajemen \nrisiko syariah ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Ketiga \nFungsi Audit Intern Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki fungsi manajemen risiko syariah \nyang didukung oleh pejabat minimal setingkat Pejabat \nEksekutif yang mempunyai pengetahuan dan/atau \npemahaman mengenai operasional perbankan syariah \ndalam pelaksanaan fungsi manajemen risiko syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tugas dan tanggung jawab fungsi manajemen risiko \nsyariah dilaksanakan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai penerapan manajemen risiko \nbagi bank umum syariah dan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai fungsi manajemen \nrisiko syariah ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Ketiga \nFungsi Audit Intern Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "FUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO SYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG EKSTERN TERHADAP TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib memiliki fungsi audit intern syariah yang \ndidukung oleh pejabat minimal setingkat Pejabat \nEksekutif yang mempunyai pengetahuan dan/atau \npemahaman mengenai operasional perbankan syariah \ndalam pelaksanaan fungsi audit intern syariah. \n\n\n \n(2) \nLaporan \nhasil \naudit \nintern \nterkait \npelaksanaan \npemenuhan Prinsip Syariah disampaikan kepada DPS, \ndirektur utama, dan Dewan Komisaris. \n(3) \nTugas dan tanggung jawab fungsi audit intern syariah \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan fungsi audit intern \npada bank umum. \n(4) \nKetentuan lebih lanjut mengenai fungsi audit intern \nsyariah ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Keempat  \nKaji Ulang Ekstern terhadap Tata Kelola Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki fungsi audit intern syariah yang \ndidukung oleh pejabat minimal setingkat Pejabat \nEksekutif yang mempunyai pengetahuan dan/atau \npemahaman mengenai operasional perbankan syariah \ndalam pelaksanaan fungsi audit intern syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan \nhasil \naudit \nintern \nterkait \npelaksanaan \npemenuhan Prinsip Syariah disampaikan kepada DPS, \ndirektur utama, dan Dewan Komisaris."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Tugas dan tanggung jawab fungsi audit intern syariah \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan fungsi audit intern \npada bank umum."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai fungsi audit intern \nsyariah ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Keempat  \nKaji Ulang Ekstern terhadap Tata Kelola Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "FUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO SYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG EKSTERN TERHADAP TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib melakukan kaji ulang ekstern terhadap \npenerapan tata kelola syariah.  \n(2) \nKaji ulang ekstern sebagaimana dimaksud pada ayat (1) \ndilakukan oleh akuntan publik dan/atau kantor \nakuntan publik yang terdaftar di Otoritas Jasa \nKeuangan. \n(3) \nKaji ulang ekstern sebagaimana dimaksud pada ayat (1) \ndilaksanakan secara berkala paling sedikit 1 (satu) kali \ndalam 3 (tiga) tahun untuk periode bulan Juli sampai \ndengan bulan Juni tahun ketiga berikutnya. \n(4) \nPenunjukan akuntan publik dan/atau kantor akuntan \npublik dalam melaksanakan kaji ulang \nekstern \nsebagaimana dimaksud pada ayat (2) dilakukan oleh \nDewan Komisaris dengan memperhatikan rekomendasi \nkomite audit. \n(5) \nBank wajib menyampaikan laporan hasil kaji ulang \nekstern sebagaimana dimaksud pada ayat (3) kepada \nOtoritas Jasa Keuangan paling lambat 2 (dua) bulan \nsetelah periode kaji ulang ekstern berakhir. \n(6) \nBank wajib menindaklanjuti rekomendasi dari hasil kaji \nulang ekstern sebagaimana dimaksud pada ayat (5). \n(7) \nKetentuan mengenai pelaksanaan kaji ulang ekstern \nsebagaimana dimaksud pada ayat (1) mulai berlaku \nuntuk periode Juli 2024 sampai dengan Juni 2027. \n(8) \nKetentuan lebih lanjut mengenai kaji ulang ekstern \nterhadap penerapan tata kelola syariah ditetapkan oleh \nOtoritas Jasa Keuangan. \n \nBagian Kelima \nSanksi Administratif",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan kaji ulang ekstern terhadap \npenerapan tata kelola syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kaji ulang ekstern sebagaimana dimaksud pada ayat (1) \ndilakukan oleh akuntan publik dan/atau kantor \nakuntan publik yang terdaftar di Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kaji ulang ekstern sebagaimana dimaksud pada ayat (1) \ndilaksanakan secara berkala paling sedikit 1 (satu) kali \ndalam 3 (tiga) tahun untuk periode bulan Juli sampai \ndengan bulan Juni tahun ketiga berikutnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penunjukan akuntan publik dan/atau kantor akuntan \npublik dalam melaksanakan kaji ulang \nekstern \nsebagaimana dimaksud pada ayat (2) dilakukan oleh \nDewan Komisaris dengan memperhatikan rekomendasi \nkomite audit."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib menyampaikan laporan hasil kaji ulang \nekstern sebagaimana dimaksud pada ayat (3) kepada \nOtoritas Jasa Keuangan paling lambat 2 (dua) bulan \nsetelah periode kaji ulang ekstern berakhir."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Bank wajib menindaklanjuti rekomendasi dari hasil kaji \nulang ekstern sebagaimana dimaksud pada ayat (5)."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Ketentuan mengenai pelaksanaan kaji ulang ekstern \nsebagaimana dimaksud pada ayat (1) mulai berlaku \nuntuk periode Juli 2024 sampai dengan Juni 2027."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Ketentuan lebih lanjut mengenai kaji ulang ekstern \nterhadap penerapan tata kelola syariah ditetapkan oleh \nOtoritas Jasa Keuangan. \n \nBagian Kelima \nSanksi Administratif"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "FUNGSI KEPATUHAN SYARIAH, MANAJEMEN RISIKO SYARIAH, AUDIT INTERN SYARIAH, DAN KAJI ULANG EKSTERN TERHADAP TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 37 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai pelaksanaan fungsi kepatuhan \nbank umum. \n(2) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 38 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan manajemen risiko bagi \nbank umum syariah dan unit usaha syariah. \n\n\n \n(3) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 39 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan fungsi audit intern \npada bank umum. \n(4) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 40 ayat (1), ayat (5), dan/atau \nayat (6) dikenai sanksi administratif berupa teguran \ntertulis.  \n(5) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (2), Bank dapat dikenai sanksi administratif \nberupa larangan penerbitan produk Bank baru. \n(6) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (4), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 40 ayat (1), ayat (5), dan/atau ayat (6), Bank \ndikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(7) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (4) dan/atau ayat (6), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan. \n(8) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), ayat (3), ayat (4), ayat (5), ayat \n(6), dan/atau ayat (7), Bank dan/atau pemegang saham \npengendali dapat dikenai sanksi administratif berupa \ndenda paling sedikit Rp2.000.000.000,00 (dua miliar \nrupiah) dan paling banyak Rp50.000.000.000,00 (lima \npuluh miliar rupiah) untuk setiap pelanggaran yang \ndilakukan. \n \nBAB V \nLAPORAN PELAKSANAAN TATA KELOLA SYARIAH DAN \nPENILAIAN PENERAPAN TATA KELOLA SYARIAH \n \nBagian Kesatu \nLaporan Pelaksanaan Tata Kelola Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 37 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai pelaksanaan fungsi kepatuhan \nbank umum."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 38 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan manajemen risiko bagi \nbank umum syariah dan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 39 ayat (1) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan fungsi audit intern \npada bank umum."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 40 ayat (1), ayat (5), dan/atau \nayat (6) dikenai sanksi administratif berupa teguran \ntertulis."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (2), Bank dapat dikenai sanksi administratif \nberupa larangan penerbitan produk Bank baru."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (4), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 40 ayat (1), ayat (5), dan/atau ayat (6), Bank \ndikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (4) dan/atau ayat (6), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), ayat (3), ayat (4), ayat (5), ayat"
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": ", dan/atau ayat (7), Bank dan/atau pemegang saham \npengendali dapat dikenai sanksi administratif berupa \ndenda paling sedikit Rp2.000.000.000,00 (dua miliar \nrupiah) dan paling banyak Rp50.000.000.000,00 (lima \npuluh miliar rupiah) untuk setiap pelanggaran yang \ndilakukan. \n \nBAB V \nLAPORAN PELAKSANAAN TATA KELOLA SYARIAH DAN \nPENILAIAN PENERAPAN TATA KELOLA SYARIAH \n \nBagian Kesatu \nLaporan Pelaksanaan Tata Kelola Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAPORAN PELAKSANAAN TATA KELOLA SYARIAH DAN PENILAIAN PENERAPAN TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib menyusun laporan pelaksanaan Tata Kelola \nSyariah yang merupakan satu kesatuan dengan \nlaporan pelaksanaan tata kelola pada setiap akhir \ntahun buku sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi bank \numum. \n(2) \nKetentuan \nmengenai \ncakupan \ndan \ntata \ncara \npenyusunan laporan pelaksanaan Tata Kelola Syariah \n\n\n \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nOtoritas Jasa Keuangan. \n \nBagian Kedua \nPenilaian Sendiri oleh Bank atas Penerapan Tata Kelola \nSyariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyusun laporan pelaksanaan Tata Kelola \nSyariah yang merupakan satu kesatuan dengan \nlaporan pelaksanaan tata kelola pada setiap akhir \ntahun buku sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi bank \numum."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan \nmengenai \ncakupan \ndan \ntata \ncara \npenyusunan laporan pelaksanaan Tata Kelola Syariah \n\n\n \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nOtoritas Jasa Keuangan. \n \nBagian Kedua \nPenilaian Sendiri oleh Bank atas Penerapan Tata Kelola \nSyariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAPORAN PELAKSANAAN TATA KELOLA SYARIAH DAN PENILAIAN PENERAPAN TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank \nwajib \nmelakukan \npenilaian \nsendiri \natas \npenerapan Tata Kelola Syariah paling sedikit 2 (dua) \nkali dalam 1 (satu) tahun. \n(2) \nHasil penilaian sendiri oleh Bank atas penerapan Tata \nKelola Syariah sebagaimana dimaksud pada ayat (1) \nmerupakan bagian yang tidak terpisahkan dari laporan \npelaksanaan tata kelola sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum. \n(3) \nKetentuan mengenai penilaian sendiri atas penerapan \nTata Kelola Syariah sebagaimana dimaksud pada ayat \n(1) ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Ketiga \nSanksi Administratif",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmelakukan \npenilaian \nsendiri \natas \npenerapan Tata Kelola Syariah paling sedikit 2 (dua) \nkali dalam 1 (satu) tahun."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Hasil penilaian sendiri oleh Bank atas penerapan Tata \nKelola Syariah sebagaimana dimaksud pada ayat (1) \nmerupakan bagian yang tidak terpisahkan dari laporan \npelaksanaan tata kelola sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai penilaian sendiri atas penerapan \nTata Kelola Syariah sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "ditetapkan oleh Otoritas Jasa Keuangan. \n \nBagian Ketiga \nSanksi Administratif"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB V",
+      "bab_judul": "LAPORAN PELAKSANAAN TATA KELOLA SYARIAH DAN PENILAIAN PENERAPAN TATA KELOLA SYARIAH",
+      "teks_lengkap": "(1) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 42 ayat (1) dan/atau Pasal 43 \nayat (1) dikenai sanksi administratif berupa teguran \ntertulis. \n(2) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 42 ayat (1) dan/atau Pasal 43 ayat (1), Bank \ndikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(3) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan. \n(4) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), dan/atau ayat (3), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \n \n\n\n \nBAB VI \nTINDAK LANJUT KETIDAKPATUHAN TERHADAP PRINSIP \nSYARIAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud dalam Pasal 42 ayat (1) dan/atau Pasal 43 \nayat (1) dikenai sanksi administratif berupa teguran \ntertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1), dan tetap \nmelanggar ketentuan sebagaimana dimaksud dalam \nPasal 42 ayat (1) dan/atau Pasal 43 ayat (1), Bank \ndikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (1) dan/atau ayat (2), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (1), ayat (2), dan/atau ayat (3), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \n \n\n\n \nBAB VI \nTINDAK LANJUT KETIDAKPATUHAN TERHADAP PRINSIP \nSYARIAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TINDAK LANJUT KETIDAKPATUHAN TERHADAP PRINSIP SYARIAH",
+      "teks_lengkap": "(1) \nBank wajib menindaklanjuti dalam hal diketahui \ndan/atau ditemukan ketidakpatuhan Prinsip Syariah \npada kegiatan usaha dan/atau operasional bank. \n(2) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis. \n(3) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2), dan tetap \nmelanggar ketentuan sebagaimana dimaksud pada ayat \n(1), Bank dikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(4) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2) dan/atau ayat (3), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan. \n(5) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (2), ayat (3), dan/atau ayat (4), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \nBAB VII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menindaklanjuti dalam hal diketahui \ndan/atau ditemukan ketidakpatuhan Prinsip Syariah \npada kegiatan usaha dan/atau operasional bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2), dan tetap \nmelanggar ketentuan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Bank dikenai sanksi administratif berupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (2) dan/atau ayat (3), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (2), ayat (3), dan/atau ayat (4), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \nBAB VII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nMayoritas \nanggota \nDireksi \ndan \nanggota \nDewan \nKomisaris dilarang saling memiliki hubungan keluarga \nsampai derajat kedua dengan anggota DPS. \n(2) \nDalam pemenuhan pelaksanaan tata kelola, anggota \nDireksi \ndan \nanggota \nDewan \nKomisaris \nwajib \nmengungkapkan:  \na. \nhubungan keuangan dengan anggota DPS; dan \nb. \nhubungan keluarga sampai derajat kedua dengan \nanggota DPS, \ndalam laporan pelaksanaan Tata Kelola Syariah \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan ini. \n(3) \nBank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud pada ayat (1) dan/atau ayat (2) dikenai \nsanksi administratif berupa teguran tertulis. \n\n\n \n(4) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (3), dan tetap \nmelanggar ketentuan sebagaimana dimaksud pada ayat \n(1) dan/atau ayat (2), Bank dikenai sanksi administratif \nberupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n(5) \nDalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (3) dan/atau ayat (4), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan. \n(6) \nSelain sanksi administratif sebagaimana dimaksud \npada ayat (3), ayat (4), dan/atau ayat (5), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \nBAB VIII \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Mayoritas \nanggota \nDireksi \ndan \nanggota \nDewan \nKomisaris dilarang saling memiliki hubungan keluarga \nsampai derajat kedua dengan anggota DPS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam pemenuhan pelaksanaan tata kelola, anggota \nDireksi \ndan \nanggota \nDewan \nKomisaris \nwajib \nmengungkapkan:  \na. \nhubungan keuangan dengan anggota DPS; dan \nb. \nhubungan keluarga sampai derajat kedua dengan \nanggota DPS, \ndalam laporan pelaksanaan Tata Kelola Syariah \nsebagaimana diatur dalam Peraturan Otoritas Jasa \nKeuangan ini."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nyang \nmelanggar \nketentuan \nsebagaimana \ndimaksud pada ayat (1) dan/atau ayat (2) dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (3), dan tetap \nmelanggar ketentuan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dan/atau ayat (2), Bank dikenai sanksi administratif \nberupa: \na. \nlarangan untuk menerbitkan produk Bank baru; \nb. \npembekuan kegiatan usaha Bank tertentu; \nc. \nlarangan melakukan ekspansi kegiatan usaha; \nd. \nlarangan \nmelakukan \nkegiatan \nusaha \nbaru; \ndan/atau \ne. \npenurunan penilaian faktor tata kelola dalam \npenilaian tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif \nsebagaimana dimaksud pada ayat (3) dan/atau ayat (4), \npihak utama Bank dapat dikenai sanksi administratif \nberupa larangan sebagai pihak utama sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkembali bagi pihak utama lembaga jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Selain sanksi administratif sebagaimana dimaksud \npada ayat (3), ayat (4), dan/atau ayat (5), Bank \ndan/atau pemegang saham pengendali dapat dikenai \nsanksi administratif berupa denda paling sedikit \nRp2.000.000.000,00 (dua miliar rupiah) dan paling \nbanyak Rp50.000.000.000,00 (lima puluh miliar rupiah) \nuntuk setiap pelanggaran yang dilakukan. \n \nBAB VIII \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nPermohonan calon anggota DPS yang diajukan sebelum \ntanggal 1 Januari 2025 diproses sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai bank \numum syariah atau Peraturan Otoritas Jasa Keuangan \nmengenai unit usaha syariah. \n(2) \nAnggota DPS yang telah memperoleh persetujuan \nOtoritas Jasa Keuangan sebelum tanggal 1 Januari \n2025, tidak mengikuti proses penilaian kemampuan \ndan \nkepatutan \nsebagaimana \ndimaksud \ndalam \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkemampuan dan kepatutan bagi pihak utama lembaga \njasa keuangan sampai dengan masa jabatan berakhir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan calon anggota DPS yang diajukan sebelum \ntanggal 1 Januari 2025 diproses sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai bank \numum syariah atau Peraturan Otoritas Jasa Keuangan \nmengenai unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Anggota DPS yang telah memperoleh persetujuan \nOtoritas Jasa Keuangan sebelum tanggal 1 Januari \n2025, tidak mengikuti proses penilaian kemampuan \ndan \nkepatutan \nsebagaimana \ndimaksud \ndalam \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \nkemampuan dan kepatutan bagi pihak utama lembaga \njasa keuangan sampai dengan masa jabatan berakhir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nanggota \nDPS \nyang \nmemiliki \nrangkap \njabatan \nsebagaimana dilarang dalam Pasal 12 ayat (1) dapat \ntetap merangkap jabatan sampai dengan masa jabatan \ntersebut berakhir; dan \nb. \nanggota DPS yang sedang menjalani masa jabatan lebih \ndari 2 (dua) periode sebagaimana dimaksud dalam \nPasal 14 ayat (3) dapat tetap menjabat sampai dengan \nperiode jabatan tersebut berakhir. \n \n \n\n\n \nBAB IX \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nanggota \nDPS \nyang \nmemiliki \nrangkap \njabatan \nsebagaimana dilarang dalam Pasal 12 ayat (1) dapat \ntetap merangkap jabatan sampai dengan masa jabatan \ntersebut berakhir; dan \nb. \nanggota DPS yang sedang menjalani masa jabatan lebih \ndari 2 (dua) periode sebagaimana dimaksud dalam \nPasal 14 ayat (3) dapat tetap menjabat sampai dengan \nperiode jabatan tersebut berakhir. \n \n \n\n\n \nBAB IX \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPeraturan Bank Indonesia Nomor 11/33/PBI/2009 \ntentang Pelaksanaan Good Corporate Governance bagi \nBank Umum Syariah dan Unit Usaha Syariah \n(Lembaran Negara Republik Indonesia Tahun 2009 \nNomor 175, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5085);  \nb. \nPasal 58, Pasal 59 ayat (1), Pasal 59 ayat (3), Pasal 59 \nayat (4), dan Pasal 60 Peraturan Otoritas Jasa \nKeuangan Nomor 16/POJK.03/2022 tentang Bank \nUmum Syariah (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 19/OJK, Tambahan Lembaran \nNegara Republik Indonesia Nomor 11/OJK); dan \nc. \nPasal 14 ayat (1), Pasal 14 ayat (3), Pasal 14 ayat (4), \nPasal 15, Pasal 16, Pasal 19 ayat (3), dan Pasal 19 ayat \n(4) Peraturan Otoritas Jasa Keuangan Nomor 12 Tahun \n2023 tentang Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2023 Nomor 20/OJK, \nTambahan Lembaran Negara Republik Indonesia \nNomor 45/OJK), \ndicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Peraturan Otoritas Jasa Keuangan Nomor 12 Tahun \n2023 tentang Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2023 Nomor 20/OJK, \nTambahan Lembaran Negara Republik Indonesia \nNomor 45/OJK), \ndicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPasal 61 dan Pasal 62 Peraturan Otoritas Jasa \nKeuangan Nomor 16/POJK.03/2022 tentang Bank \nUmum Syariah (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 19/OJK, Tambahan Lembaran \nNegara Republik Indonesia Nomor 11/OJK); dan  \nb. \nPasal 17 dan Pasal 18 Peraturan Otoritas Jasa \nKeuangan Nomor 12 Tahun 2023 tentang Unit Usaha \nSyariah (Lembaran Negara Republik Indonesia Tahun \n2023 Nomor 20/OJK, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 45/OJK), \ndicabut dan dinyatakan tidak berlaku pada tanggal 1 \nJanuari 2025.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPasal 61 dan Pasal 62 Peraturan Otoritas Jasa \nKeuangan Nomor 16/POJK.03/2022 tentang Bank \nUmum Syariah (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 19/OJK, Tambahan Lembaran \nNegara Republik Indonesia Nomor 11/OJK); dan  \nb. \nPasal 17 dan Pasal 18 Peraturan Otoritas Jasa \nKeuangan Nomor 12 Tahun 2023 tentang Unit Usaha \nSyariah (Lembaran Negara Republik Indonesia Tahun \n2023 Nomor 20/OJK, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 45/OJK), \ndicabut dan dinyatakan tidak berlaku pada tanggal 1 \nJanuari 2025."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPasal 59 ayat (2) Peraturan Otoritas Jasa Keuangan \nNomor 16/POJK.03/2022 tentang Bank Umum Syariah \n(Lembaran Negara Republik Indonesia Tahun 2022 \nNomor 19/OJK, Tambahan Lembaran Negara Republik \nIndonesia Nomor 11/OJK); dan  \nb. \nPasal 14 ayat (2) Peraturan Otoritas Jasa Keuangan \nNomor 12 Tahun 2023 tentang Unit Usaha Syariah \n(Lembaran Negara Republik Indonesia Tahun 2023 \nNomor 20/OJK, Tambahan Lembaran Negara Republik \nIndonesia Nomor 45/OJK), \n\n\n \ndicabut dan dinyatakan tidak berlaku pada tanggal 1 \nJanuari 2026.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPasal 59 ayat (2) Peraturan Otoritas Jasa Keuangan \nNomor 16/POJK.03/2022 tentang Bank Umum Syariah \n(Lembaran Negara Republik Indonesia Tahun 2022 \nNomor 19/OJK, Tambahan Lembaran Negara Republik \nIndonesia Nomor 11/OJK); dan  \nb. \nPasal 14 ayat (2) Peraturan Otoritas Jasa Keuangan \nNomor 12 Tahun 2023 tentang Unit Usaha Syariah \n(Lembaran Negara Republik Indonesia Tahun 2023 \nNomor 20/OJK, Tambahan Lembaran Negara Republik \nIndonesia Nomor 45/OJK), \n\n\n \ndicabut dan dinyatakan tidak berlaku pada tanggal 1 \nJanuari 2026."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n27/POJK.03/2016 tentang Penilaian Kemampuan dan \nKepatutan bagi Pihak Utama Lembaga Jasa Keuangan \n(Lembaran Negara Republik Indonesia Tahun 2016 \nNomor 147, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5098); \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n65/POJK.03/2016 tentang Penerapan Manajemen \nRisiko bagi Bank Umum Syariah dan Unit Usaha \nSyariah (Lembaran Negara Republik Indonesia Tahun \nNomor \n298, \nTambahan \nLembaran \nNegara \nRepublik Indonesia Nomor 5988); \nc. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n46/POJK.03/2017 \ntentang \nPelaksanaan \nFungsi \nKepatuhan Bank Umum (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n152, \nTambahan \nLembaran Negara Republik Indonesia Nomor 6095); \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n59/POJK.03/2017 tentang Penerapan Tata Kelola \ndalam Pemberian Remunerasi bagi Bank Umum \nSyariah dan Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2017 Nomor 278, Tambahan \nLembaran Negara Republik Indonesia Nomor 6148); \ne. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n1/POJK.03/2019 tentang Penerapan Fungsi Audit \nIntern pada Bank Umum (Lembaran Negara Republik \nIndonesia Tahun 2019 Nomor 20, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6308); \nf. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n32/POJK.03/2018 \ntentang \nBatas \nMaksimum \nPemberian Kredit dan Penyediaan Dana Besar bagi \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2018 Nomor 253, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6283) sebagaimana telah \ndiubah dengan Peraturan Otoritas Jasa Keuangan \nNomor 38/POJK.03/2019 tentang Perubahan atas \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n32/POJK.03/2018 \ntentang \nBatas \nMaksimum \nPemberian Kredit dan Penyediaan Dana Besar bagi \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2019 Nomor 245, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6438); \ng. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n34/POJK.03/2018 tentang Penilaian Kembali bagi \nPihak Utama Lembaga Jasa Keuangan (Lembaran \nNegara Republik Indonesia Tahun 2018 Nomor 259, \nTambahan Lembaran Negara Republik Indonesia \nNomor 6285) sebagaimana telah diubah dengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n14/POJK.03/2021 tentang Perubahan atas Peraturan \n\n\n \nOtoritas Jasa Keuangan Nomor 34/POJK.03/2018 \ntentang Penilaian Kembali bagi Pihak Utama Lembaga \nJasa Keuangan (Lembaran Negara Republik Indonesia \nTahun 2021 Nomor 165, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6702); \nh. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n26/POJK.03/2021 \ntentang \nBatas \nMaksimum \nPenyaluran Dana dan Penyaluran Dana Besar bagi \nBank Umum Syariah (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n277, \nTambahan \nLembaran Negara Republik Indonesia Nomor 6746); dan \ni. \nKetentuan pelaksanaan Peraturan Bank Indonesia \nNomor 11/33/PBI/2009 tentang Pelaksanaan Good \nCorporate Governance bagi Bank Umum Syariah dan \nUnit Usaha Syariah (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n175, \nTambahan \nLembaran Negara Republik Indonesia Nomor 5085), \ndinyatakan \nmasih \ntetap \nberlaku \nsepanjang \ntidak \nbertentangan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku: \na. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n27/POJK.03/2016 tentang Penilaian Kemampuan dan \nKepatutan bagi Pihak Utama Lembaga Jasa Keuangan \n(Lembaran Negara Republik Indonesia Tahun 2016 \nNomor 147, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5098); \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n65/POJK.03/2016 tentang Penerapan Manajemen \nRisiko bagi Bank Umum Syariah dan Unit Usaha \nSyariah (Lembaran Negara Republik Indonesia Tahun \nNomor \n298, \nTambahan \nLembaran \nNegara \nRepublik Indonesia Nomor 5988); \nc. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n46/POJK.03/2017 \ntentang \nPelaksanaan \nFungsi \nKepatuhan Bank Umum (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n152, \nTambahan \nLembaran Negara Republik Indonesia Nomor 6095); \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n59/POJK.03/2017 tentang Penerapan Tata Kelola \ndalam Pemberian Remunerasi bagi Bank Umum \nSyariah dan Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2017 Nomor 278, Tambahan \nLembaran Negara Republik Indonesia Nomor 6148); \ne. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n1/POJK.03/2019 tentang Penerapan Fungsi Audit \nIntern pada Bank Umum (Lembaran Negara Republik \nIndonesia Tahun 2019 Nomor 20, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6308); \nf. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n32/POJK.03/2018 \ntentang \nBatas \nMaksimum \nPemberian Kredit dan Penyediaan Dana Besar bagi \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2018 Nomor 253, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6283) sebagaimana telah \ndiubah dengan Peraturan Otoritas Jasa Keuangan \nNomor 38/POJK.03/2019 tentang Perubahan atas \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n32/POJK.03/2018 \ntentang \nBatas \nMaksimum \nPemberian Kredit dan Penyediaan Dana Besar bagi \nBank Umum (Lembaran Negara Republik Indonesia \nTahun 2019 Nomor 245, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6438); \ng. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n34/POJK.03/2018 tentang Penilaian Kembali bagi \nPihak Utama Lembaga Jasa Keuangan (Lembaran \nNegara Republik Indonesia Tahun 2018 Nomor 259, \nTambahan Lembaran Negara Republik Indonesia \nNomor 6285) sebagaimana telah diubah dengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n14/POJK.03/2021 tentang Perubahan atas Peraturan \n\n\n \nOtoritas Jasa Keuangan Nomor 34/POJK.03/2018 \ntentang Penilaian Kembali bagi Pihak Utama Lembaga \nJasa Keuangan (Lembaran Negara Republik Indonesia \nTahun 2021 Nomor 165, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6702); \nh. \nPeraturan \nOtoritas \nJasa \nKeuangan \nNomor \n26/POJK.03/2021 \ntentang \nBatas \nMaksimum \nPenyaluran Dana dan Penyaluran Dana Besar bagi \nBank Umum Syariah (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n277, \nTambahan \nLembaran Negara Republik Indonesia Nomor 6746); dan \ni. \nKetentuan pelaksanaan Peraturan Bank Indonesia \nNomor 11/33/PBI/2009 tentang Pelaksanaan Good \nCorporate Governance bagi Bank Umum Syariah dan \nUnit Usaha Syariah (Lembaran Negara Republik \nIndonesia \nTahun \nNomor \n175, \nTambahan \nLembaran Negara Republik Indonesia Nomor 5085), \ndinyatakan \nmasih \ntetap \nberlaku \nsepanjang \ntidak \nbertentangan dengan ketentuan dalam Peraturan Otoritas \nJasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \n \n \nMufli Asmawidjaja \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 15 Februari 2024        \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \n \n \n \nMAHENDRA SIREGAR \n \n \nDiundangkan di Jakarta \npada tanggal 16 Februari 2024 \n  \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA, \n \n \n \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 4/OJK \n \n \nttd \nttd \nttd \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 2 TAHUN 2024 \nTENTANG \nPENERAPAN TATA KELOLA SYARIAH BAGI BANK UMUM SYARIAH DAN \nUNIT USAHA SYARIAH \n \nI. \nUMUM \nSebagai lembaga intermediasi, bank berperan untuk berkontribusi \ndalam perekonomian melalui dukungan terhadap pertumbuhan \nekonomi dan stabilitas nasional. Dalam upaya mencapai tujuan tersebut \nperbankan harus dapat beroperasi dengan menerapkan tata kelola yang \nbaik (good corporate governance) dalam setiap kegiatan usahanya. \nPada bank syariah, penerapan tata kelola yang baik tidak terbatas \npada sistem tata kelola secara umum, tetapi juga dalam penerapan \nPrinsip Syariah. Tujuan utama Tata Kelola Syariah adalah untuk \nmenjaga kepatuhan terhadap Prinsip Syariah yang merupakan raison \nd’etre bagi institusi keuangan syariah. Kehadiran sistem Tata Kelola \nSyariah yang andal sangat penting untuk memastikan pelaksanaan \nkegiatan bank tidak bertentangan dengan Prinsip Syariah dalam rangka \nmenjaga kepercayaan masyarakat terhadap perbankan syariah yang \npada akhirnya akan dapat berdampak pada kinerja perbankan syariah. \nPenerapan Tata Kelola Syariah ini juga sejalan dengan ketentuan \nUndang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah \nsebagaimana telah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan \nSektor Keuangan yang telah meningkatkan peran Dewan Pengawas \nSyariah sebagai pihak di dalam Bank Umum Syariah dan Unit Usaha \nSyariah yang bertugas melakukan pengawasan terhadap penerapan \nPrinsip Syariah. \nSelanjutnya mengingat kewajiban penerapan Prinsip Syariah bagi \nbank syariah dalam tatanan regulasi Otoritas Jasa Keuangan telah \ndiatur dalam berbagai peraturan mengenai perbankan syariah, \nPeraturan Otoritas Jasa Keuangan ini juga menjadi payung bagi \nperaturan terkait penerapan Tata Kelola Syariah bagi Bank Umum \nSyariah dan Unit Usaha Syariah. Dengan demikian, penerapan Tata \nKelola Syariah dapat dilakukan dalam seluruh aktivitas usaha dan lines \nof defense Bank Umum Syariah dan Unit Usaha Syariah, sehingga \ndiharapkan akan memberikan kontribusi positif dalam mendukung \npenguatan identitas dan daya saing Bank Umum Syariah dan Unit \nUsaha Syariah, serta mendukung pertumbuhan ekonomi nasional yang \ninklusif dan berkelanjutan, sehingga dapat mewujudkan masyarakat \nyang sejahtera, maju, dan bermartabat. Sehubungan dengan hal \ntersebut, untuk mendukung penguatan aturan terkait dengan Tata \nKelola Syariah bagi Bank Umum Syariah dan Unit Usaha Syariah, \ndiperlukan pembaruan pengaturan mengenai Penerapan Tata Kelola \nSyariah bagi Bank Umum Syariah dan Unit Usaha Syariah. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \n \n \nMufli Asmawidjaja \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 15 Februari 2024        \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \n \n \n \nMAHENDRA SIREGAR \n \n \nDiundangkan di Jakarta \npada tanggal 16 Februari 2024 \n  \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA, \n \n \n \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR 4/OJK \n \n \nttd \nttd \nttd \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 2 TAHUN 2024 \nTENTANG \nPENERAPAN TATA KELOLA SYARIAH BAGI BANK UMUM SYARIAH DAN \nUNIT USAHA SYARIAH \n \nI. \nUMUM \nSebagai lembaga intermediasi, bank berperan untuk berkontribusi \ndalam perekonomian melalui dukungan terhadap pertumbuhan \nekonomi dan stabilitas nasional. Dalam upaya mencapai tujuan tersebut \nperbankan harus dapat beroperasi dengan menerapkan tata kelola yang \nbaik (good corporate governance) dalam setiap kegiatan usahanya. \nPada bank syariah, penerapan tata kelola yang baik tidak terbatas \npada sistem tata kelola secara umum, tetapi juga dalam penerapan \nPrinsip Syariah. Tujuan utama Tata Kelola Syariah adalah untuk \nmenjaga kepatuhan terhadap Prinsip Syariah yang merupakan raison \nd’etre bagi institusi keuangan syariah. Kehadiran sistem Tata Kelola \nSyariah yang andal sangat penting untuk memastikan pelaksanaan \nkegiatan bank tidak bertentangan dengan Prinsip Syariah dalam rangka \nmenjaga kepercayaan masyarakat terhadap perbankan syariah yang \npada akhirnya akan dapat berdampak pada kinerja perbankan syariah. \nPenerapan Tata Kelola Syariah ini juga sejalan dengan ketentuan \nUndang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah \nsebagaimana telah beberapa kali diubah terakhir dengan Undang-\nUndang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan \nSektor Keuangan yang telah meningkatkan peran Dewan Pengawas \nSyariah sebagai pihak di dalam Bank Umum Syariah dan Unit Usaha \nSyariah yang bertugas melakukan pengawasan terhadap penerapan \nPrinsip Syariah. \nSelanjutnya mengingat kewajiban penerapan Prinsip Syariah bagi \nbank syariah dalam tatanan regulasi Otoritas Jasa Keuangan telah \ndiatur dalam berbagai peraturan mengenai perbankan syariah, \nPeraturan Otoritas Jasa Keuangan ini juga menjadi payung bagi \nperaturan terkait penerapan Tata Kelola Syariah bagi Bank Umum \nSyariah dan Unit Usaha Syariah. Dengan demikian, penerapan Tata \nKelola Syariah dapat dilakukan dalam seluruh aktivitas usaha dan lines \nof defense Bank Umum Syariah dan Unit Usaha Syariah, sehingga \ndiharapkan akan memberikan kontribusi positif dalam mendukung \npenguatan identitas dan daya saing Bank Umum Syariah dan Unit \nUsaha Syariah, serta mendukung pertumbuhan ekonomi nasional yang \ninklusif dan berkelanjutan, sehingga dapat mewujudkan masyarakat \nyang sejahtera, maju, dan bermartabat. Sehubungan dengan hal \ntersebut, untuk mendukung penguatan aturan terkait dengan Tata \nKelola Syariah bagi Bank Umum Syariah dan Unit Usaha Syariah, \ndiperlukan pembaruan pengaturan mengenai Penerapan Tata Kelola \nSyariah bagi Bank Umum Syariah dan Unit Usaha Syariah. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nKewajiban penerapan Prinsip Syariah dalam penyelenggaraan \nkegiatan usaha Bank merupakan bagian dari tanggung jawab \nDireksi atas pelaksanaan pengelolaan Bank dan tanggung \njawab Dewan Komisaris atas pengawasan pelaksanaan tugas \nDireksi secara keseluruhan. \n \nAyat (2) \nHuruf a \n \nCukup jelas. \nHuruf b \nKegiatan lain yang dilakukan Bank selain kegiatan usaha \nantara lain pengadaan barang dan/atau jasa, proses \nrekrutmen pegawai, dan/atau penyaluran dana tanggung \njawab sosial dan lingkungan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nKewajiban penerapan Prinsip Syariah dalam penyelenggaraan \nkegiatan usaha Bank merupakan bagian dari tanggung jawab \nDireksi atas pelaksanaan pengelolaan Bank dan tanggung \njawab Dewan Komisaris atas pengawasan pelaksanaan tugas \nDireksi secara keseluruhan. \n \nAyat (2) \nHuruf a \n \nCukup jelas. \nHuruf b \nKegiatan lain yang dilakukan Bank selain kegiatan usaha \nantara lain pengadaan barang dan/atau jasa, proses \nrekrutmen pegawai, dan/atau penyaluran dana tanggung \njawab sosial dan lingkungan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nFungsi kepatuhan syariah dibentuk menjadi satuan kerja \ntersendiri atau merupakan bagian dari satuan kerja \nkepatuhan. \n \n \nHuruf c \nFungsi manajemen risiko syariah dibentuk menjadi \nsatuan kerja tersendiri atau merupakan bagian dari \nsatuan kerja manajemen risiko. \n \n \nHuruf d \nFungsi audit intern syariah dibentuk menjadi satuan \nkerja tersendiri atau merupakan bagian dari satuan kerja \naudit intern. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nContoh: \nAnggota Direksi yang membawahkan fungsi kepatuhan \nbertanggung jawab atas efektivitas pelaksanaan fungsi \nkepatuhan syariah dan anggota Direksi yang membawahkan \nfungsi manajemen risiko bertanggung jawab atas pelaksanaan \nfungsi manajemen risiko syariah. \n \nAyat (4) \nKoordinasi antara fungsi terkait Tata Kelola Syariah dan DPS \ndilakukan antara lain melalui konsultasi atau permintaan \npendapat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nFungsi kepatuhan syariah dibentuk menjadi satuan kerja \ntersendiri atau merupakan bagian dari satuan kerja \nkepatuhan. \n \n \nHuruf c \nFungsi manajemen risiko syariah dibentuk menjadi \nsatuan kerja tersendiri atau merupakan bagian dari \nsatuan kerja manajemen risiko. \n \n \nHuruf d \nFungsi audit intern syariah dibentuk menjadi satuan \nkerja tersendiri atau merupakan bagian dari satuan kerja \naudit intern. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nContoh: \nAnggota Direksi yang membawahkan fungsi kepatuhan \nbertanggung jawab atas efektivitas pelaksanaan fungsi \nkepatuhan syariah dan anggota Direksi yang membawahkan \nfungsi manajemen risiko bertanggung jawab atas pelaksanaan \nfungsi manajemen risiko syariah. \n \nAyat (4) \nKoordinasi antara fungsi terkait Tata Kelola Syariah dan DPS \ndilakukan antara lain melalui konsultasi atau permintaan \npendapat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nProsedur internal mengenai penerapan Tata Kelola Syariah \npada Bank dapat menjadi bagian dari prosedur internal \nmengenai penerapan tata kelola yang baik sesuai dengan \n\n\n \nPeraturan Otoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum. \nProsedur internal Bank antara lain berupa anggaran dasar, \nsurat keputusan, manual, kebijakan atau pedoman Bank \n(standard operating procedure), piagam perusahaan, dokumen \noperasional Bank lain, yang disusun sesuai dengan ketentuan \nperaturan perundang-undangan serta sesuai dengan proses \nbisnis dan mekanisme persetujuan pada Bank. \n \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nProsedur internal mengenai penerapan Tata Kelola Syariah \npada Bank dapat menjadi bagian dari prosedur internal \nmengenai penerapan tata kelola yang baik sesuai dengan \n\n\n \nPeraturan Otoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum. \nProsedur internal Bank antara lain berupa anggaran dasar, \nsurat keputusan, manual, kebijakan atau pedoman Bank \n(standard operating procedure), piagam perusahaan, dokumen \noperasional Bank lain, yang disusun sesuai dengan ketentuan \nperaturan perundang-undangan serta sesuai dengan proses \nbisnis dan mekanisme persetujuan pada Bank. \n \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nAnggota DPS merupakan pihak utama bank sebagai pihak \nutama pengurus sebagaimana anggota Direksi dan anggota \nDewan Komisaris. \n \nAyat (2) \n \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nCukup jelas. \n \nAyat (4) \nCukup jelas. \n \nAyat (5) \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nAnggota DPS merupakan pihak utama bank sebagai pihak \nutama pengurus sebagaimana anggota Direksi dan anggota \nDewan Komisaris. \n \nAyat (2) \n \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nCukup jelas. \n \nAyat (4) \nCukup jelas. \n \nAyat (5) \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \n1. Bank A memiliki 5 (lima) orang anggota Direksi maka \njumlah anggota DPS paling sedikit 3 (tiga) orang.  \n2. Bank B memiliki 8 (delapan) orang anggota Direksi maka \njumlah anggota DPS paling sedikit 3 (tiga) orang atau paling \nbanyak 4 (empat) orang. \nPemenuhan \nanggota \nDPS \nlebih \ndari \n(tiga) \norang \nmempertimbangkan kompleksitas dan/atau skala usaha Bank. \nAyat (2) \nBagi bank yang didirikan setelah berlakunya Peraturan \nOtoritas Jasa Keuangan ini, ketentuan dimaksud langsung \nberlaku sejak mulai berlakunya Peraturan Otoritas Jasa \nKeuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \n1. Bank A memiliki 5 (lima) orang anggota Direksi maka \njumlah anggota DPS paling sedikit 3 (tiga) orang.  \n2. Bank B memiliki 8 (delapan) orang anggota Direksi maka \njumlah anggota DPS paling sedikit 3 (tiga) orang atau paling \nbanyak 4 (empat) orang. \nPemenuhan \nanggota \nDPS \nlebih \ndari \n(tiga) \norang \nmempertimbangkan kompleksitas dan/atau skala usaha Bank. \nAyat (2) \nBagi bank yang didirikan setelah berlakunya Peraturan \nOtoritas Jasa Keuangan ini, ketentuan dimaksud langsung \nberlaku sejak mulai berlakunya Peraturan Otoritas Jasa \nKeuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \n \n\n\n \nAyat (2) \nYang dimaksud dengan “DPS lain” adalah DPS selain ketua \nyang merangkap sebagai anggota dalam satu BUS atau UUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \n \n\n\n \nAyat (2) \nYang dimaksud dengan “DPS lain” adalah DPS selain ketua \nyang merangkap sebagai anggota dalam satu BUS atau UUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nBidang tugas fungsional antara lain penasihat (advisor), \nstaf ahli, dan/atau tenaga ahli. \n \n \nHuruf f \n \n \n \nYang dimaksud dengan “pejabat publik” adalah orang \nyang ditunjuk dan diberi tugas untuk menduduki posisi \natau jabatan tertentu pada badan publik.  \n \n \n \nBadan publik adalah lembaga eksekutif, legislatif, \nyudikatif, dan badan lain yang fungsi dan tugas pokoknya \nberkaitan dengan penyelenggaraan negara, yang sebagian \natau \nseluruh \ndananya \nbersumber \ndari \nanggaran \npendapatan dan belanja negara dan/atau anggaran \npendapatan dan belanja daerah. \n \n \n \nTidak termasuk larangan rangkap jabatan pada badan \npublik antara lain jabatan pada badan publik yang \nmerupakan organisasi atau lembaga nirlaba seperti MUI, \nBaznas, dan BWI, serta lembaga yang bergerak di bidang \npendidikan seperti universitas negeri. \n \n \nHuruf g \nYang dimaksud dengan “benturan kepentingan” adalah \nperbedaan antara kepentingan ekonomis Bank dan \nkepentingan ekonomis pribadi anggota DPS. \nTugas dalam jabatan lain yang tidak menimbulkan \nbenturan kepentingan dapat dilaksanakan sepanjang \ntidak mengabaikan pelaksanaan tugas dan tanggung \njawab yang bersangkutan sebagai anggota DPS. \n \n \nHuruf h \nAnggota DPS dilarang merangkap jabatan dalam hal \nterdapat peraturan perundang-undangan yang dalam \njabatannya seseorang dilarang untuk melakukan rangkap \njabatan. \n \nAyat (2)  \n \n \nHuruf a \n \nCukup jelas. \n \n \nHuruf b \nOrganisasi atau lembaga nirlaba termasuk keanggotaan \ndalam komite (task force) pada bidang tertentu di luar \nBank.  \n \n \nHuruf c \nYang dimaksud dengan “konglomerasi keuangan” adalah \nkonglomerasi keuangan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai konglomerasi keuangan. \n\n\n \n \nAyat (3) \nPertimbangan tertentu antara lain keahlian, pengalaman, dan \nnilai-nilai tambah lain yang dimiliki oleh anggota DPS yang \ndiperlukan untuk mendukung strategi dan pengembangan \nBank, \nsepanjang \nrangkap \njabatan \ntersebut \ntidak \nmengakibatkan yang bersangkutan mengabaikan pelaksanaan \ntugas dan tanggung jawab sebagai anggota DPS. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nBidang tugas fungsional antara lain penasihat (advisor), \nstaf ahli, dan/atau tenaga ahli. \n \n \nHuruf f \n \n \n \nYang dimaksud dengan “pejabat publik” adalah orang \nyang ditunjuk dan diberi tugas untuk menduduki posisi \natau jabatan tertentu pada badan publik.  \n \n \n \nBadan publik adalah lembaga eksekutif, legislatif, \nyudikatif, dan badan lain yang fungsi dan tugas pokoknya \nberkaitan dengan penyelenggaraan negara, yang sebagian \natau \nseluruh \ndananya \nbersumber \ndari \nanggaran \npendapatan dan belanja negara dan/atau anggaran \npendapatan dan belanja daerah. \n \n \n \nTidak termasuk larangan rangkap jabatan pada badan \npublik antara lain jabatan pada badan publik yang \nmerupakan organisasi atau lembaga nirlaba seperti MUI, \nBaznas, dan BWI, serta lembaga yang bergerak di bidang \npendidikan seperti universitas negeri. \n \n \nHuruf g \nYang dimaksud dengan “benturan kepentingan” adalah \nperbedaan antara kepentingan ekonomis Bank dan \nkepentingan ekonomis pribadi anggota DPS. \nTugas dalam jabatan lain yang tidak menimbulkan \nbenturan kepentingan dapat dilaksanakan sepanjang \ntidak mengabaikan pelaksanaan tugas dan tanggung \njawab yang bersangkutan sebagai anggota DPS. \n \n \nHuruf h \nAnggota DPS dilarang merangkap jabatan dalam hal \nterdapat peraturan perundang-undangan yang dalam \njabatannya seseorang dilarang untuk melakukan rangkap \njabatan. \n \nAyat (2)  \n \n \nHuruf a \n \nCukup jelas. \n \n \nHuruf b \nOrganisasi atau lembaga nirlaba termasuk keanggotaan \ndalam komite (task force) pada bidang tertentu di luar \nBank.  \n \n \nHuruf c \nYang dimaksud dengan “konglomerasi keuangan” adalah \nkonglomerasi keuangan sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai konglomerasi keuangan. \n\n\n \n \nAyat (3) \nPertimbangan tertentu antara lain keahlian, pengalaman, dan \nnilai-nilai tambah lain yang dimiliki oleh anggota DPS yang \ndiperlukan untuk mendukung strategi dan pengembangan \nBank, \nsepanjang \nrangkap \njabatan \ntersebut \ntidak \nmengakibatkan yang bersangkutan mengabaikan pelaksanaan \ntugas dan tanggung jawab sebagai anggota DPS. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “mayoritas” adalah lebih dari 50% (lima \npuluh persen).  \nYang dimaksud dengan “hubungan keluarga sampai derajat kedua”  \nadalah hubungan baik vertikal maupun horizontal meliputi: \na. \norang tua kandung/tiri/angkat; \nb. \nsaudara kandung/tiri/angkat beserta suami atau istri; \nc. \nanak kandung/tiri/angkat; \nd. \nkakek atau nenek kandung/tiri/angkat; \ne. \ncucu kandung/tiri/angkat; \nf. \nsaudara kandung/tiri/angkat dari orang tua beserta suami \natau istri; \ng. \nsuami atau istri; \nh. \nmertua; \ni. \nbesan; \nj. \nsuami atau istri dari anak kandung/tiri/angkat; \nk. \nkakek atau nenek dari suami atau istri; \nl. \nsuami atau istri dari cucu kandung/tiri/angkat; dan/atau \nm. \nsaudara kandung/tiri/angkat dari suami atau istri beserta \nsuami atau istri.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “mayoritas” adalah lebih dari 50% (lima \npuluh persen).  \nYang dimaksud dengan “hubungan keluarga sampai derajat kedua”  \nadalah hubungan baik vertikal maupun horizontal meliputi: \na. \norang tua kandung/tiri/angkat; \nb. \nsaudara kandung/tiri/angkat beserta suami atau istri; \nc. \nanak kandung/tiri/angkat; \nd. \nkakek atau nenek kandung/tiri/angkat; \ne. \ncucu kandung/tiri/angkat; \nf. \nsaudara kandung/tiri/angkat dari orang tua beserta suami \natau istri; \ng. \nsuami atau istri; \nh. \nmertua; \ni. \nbesan; \nj. \nsuami atau istri dari anak kandung/tiri/angkat; \nk. \nkakek atau nenek dari suami atau istri; \nl. \nsuami atau istri dari cucu kandung/tiri/angkat; dan/atau \nm. \nsaudara kandung/tiri/angkat dari suami atau istri beserta \nsuami atau istri."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nHuruf a  \n \nCukup jelas. \nHuruf b  \nKondisi lain antara lain pada saat anggota DPS yang telah \nhabis masa jabatan belum ditetapkan penggantinya oleh \nRUPS, yang bersangkutan tetap dapat melaksanakan \nkewenangannya yang sama sampai dengan ditetapkan \npengganti yang bersangkutan oleh RUPS. \nAyat (3) \n \nCukup jelas.  \nAyat (4) \n \nHuruf a  \n \n \nCukup jelas. \n \nHuruf b \nPertimbangan \nhasil \nkaji \nulang \nekstern \nuntuk \nperpanjangan \nperiode \nmasa \njabatan \nanggota \nDPS \ndilaksanakan setelah terdapat hasil kaji ulang ekstern \nsesuai pemberlakuan ketentuan mengenai kaji ulang \nekstern berdasarkan Peraturan Otoritas Jasa Keuangan \nini. \n \n\n\n \n \n \nHuruf c \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nHuruf a  \n \nCukup jelas. \nHuruf b  \nKondisi lain antara lain pada saat anggota DPS yang telah \nhabis masa jabatan belum ditetapkan penggantinya oleh \nRUPS, yang bersangkutan tetap dapat melaksanakan \nkewenangannya yang sama sampai dengan ditetapkan \npengganti yang bersangkutan oleh RUPS. \nAyat (3) \n \nCukup jelas.  \nAyat (4) \n \nHuruf a  \n \n \nCukup jelas. \n \nHuruf b \nPertimbangan \nhasil \nkaji \nulang \nekstern \nuntuk \nperpanjangan \nperiode \nmasa \njabatan \nanggota \nDPS \ndilaksanakan setelah terdapat hasil kaji ulang ekstern \nsesuai pemberlakuan ketentuan mengenai kaji ulang \nekstern berdasarkan Peraturan Otoritas Jasa Keuangan \nini. \n \n\n\n \n \n \nHuruf c \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKomite yang menjalankan fungsi nominasi sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum. \nAyat (2) \nLihat penjelasan ayat (1). \nAyat (3) \nMemperhatikan keberagaman antara lain latar belakang \npendidikan, pengalaman kerja, dan keahlian di bidang \nperbankan syariah.  \n \n \nAyat (4) \n \n \n \nPenetapan \ndimaksud \nbertujuan \nagar \npelaksanaan \nkepengurusan Bank terlaksana dengan baik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKomite yang menjalankan fungsi nominasi sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penerapan tata \nkelola bagi bank umum. \nAyat (2) \nLihat penjelasan ayat (1). \nAyat (3) \nMemperhatikan keberagaman antara lain latar belakang \npendidikan, pengalaman kerja, dan keahlian di bidang \nperbankan syariah.  \n \n \nAyat (4) \n \n \n \nPenetapan \ndimaksud \nbertujuan \nagar \npelaksanaan \nkepengurusan Bank terlaksana dengan baik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPemberhentian \nanggota \nDPS \ntermasuk \npemberhentian \nsementara anggota DPS. \n \n \nAyat (2) \n \n \n \nHuruf a \n \n \n \n \nCukup jelas. \n \n \n \nHuruf b \nPenilaian yang objektif terkait pengelolaan Bank antara \nlain terkait aspek kinerja, integritas, reputasi keuangan, \ndan/atau kompetensi. \n \n \n \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \n \nCukup jelas. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5)  \n \n \n \nCukup jelas. \n \n \nAyat (6) \n \n \n \nCukup jelas. \n \n \nAyat (7) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPemberhentian \nanggota \nDPS \ntermasuk \npemberhentian \nsementara anggota DPS. \n \n \nAyat (2) \n \n \n \nHuruf a \n \n \n \n \nCukup jelas. \n \n \n \nHuruf b \nPenilaian yang objektif terkait pengelolaan Bank antara \nlain terkait aspek kinerja, integritas, reputasi keuangan, \ndan/atau kompetensi. \n \n \n \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \n \nCukup jelas. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5)  \n \n \n \nCukup jelas. \n \n \nAyat (6) \n \n \n \nCukup jelas. \n \n \nAyat (7) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTata cara pengunduran diri anggota DPS dicantumkan dalam \nanggaran dasar Bank. \n \n \nAyat (2) \n \n \n \nCukup jelas. \n \n \n\n\n \n \n \nAyat (3) \nYang dimaksud dengan “kondisi lain” adalah pengunduran diri \nanggota DPS yang dimaksudkan untuk melepaskan tanggung \njawab sebagai anggota DPS dalam penanganan permasalahan \nBank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTata cara pengunduran diri anggota DPS dicantumkan dalam \nanggaran dasar Bank. \n \n \nAyat (2) \n \n \n \nCukup jelas. \n \n \n\n\n \n \n \nAyat (3) \nYang dimaksud dengan “kondisi lain” adalah pengunduran diri \nanggota DPS yang dimaksudkan untuk melepaskan tanggung \njawab sebagai anggota DPS dalam penanganan permasalahan \nBank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Prinsip tata kelola yang baik mengacu pada Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prinsip tata kelola yang baik mengacu pada Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “semesteran” adalah periode 6 (enam) \nbulanan yang berakhir pada bulan Juni dan Desember. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nPelanggaran Prinsip Syariah yang signifikan antara lain \npelanggaran Prinsip Syariah yang berpotensi memengaruhi \nkondisi keuangan dan/atau reputasi Bank. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nYang dimaksud dengan “sistem persuratan Otoritas Jasa \nKeuangan” adalah Sistem Pelaporan Otoritas Jasa Keuangan \ndengan alamat https://sipenaojk.ojk.go.id atau alamat lain \nyang ditetapkan Otoritas Jasa Keuangan.  \nKeadaan kahar antara lain kegagalan sistem pelaporan \nOtoritas Jasa Keuangan.  \n \nAyat (6) \nLihat penjelasan keadaan kahar pada ayat (5). \n \nAyat (7) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “semesteran” adalah periode 6 (enam) \nbulanan yang berakhir pada bulan Juni dan Desember. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nPelanggaran Prinsip Syariah yang signifikan antara lain \npelanggaran Prinsip Syariah yang berpotensi memengaruhi \nkondisi keuangan dan/atau reputasi Bank. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \nYang dimaksud dengan “sistem persuratan Otoritas Jasa \nKeuangan” adalah Sistem Pelaporan Otoritas Jasa Keuangan \ndengan alamat https://sipenaojk.ojk.go.id atau alamat lain \nyang ditetapkan Otoritas Jasa Keuangan.  \nKeadaan kahar antara lain kegagalan sistem pelaporan \nOtoritas Jasa Keuangan.  \n \nAyat (6) \nLihat penjelasan keadaan kahar pada ayat (5). \n \nAyat (7) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Otoritas dan lembaga lain termasuk otoritas pengawasan sistem \npembayaran, otoritas penjamin simpanan dan resolusi, otoritas \npengawasan terhadap parent  Bank, serta otoritas dan lembaga lain \nyang berwenang melakukan audit terhadap Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas dan lembaga lain termasuk otoritas pengawasan sistem \npembayaran, otoritas penjamin simpanan dan resolusi, otoritas \npengawasan terhadap parent  Bank, serta otoritas dan lembaga lain \nyang berwenang melakukan audit terhadap Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n Pedoman dan tata tertib kerja DPS dikenal juga dengan piagam \nDPS. \nAyat (2) \n \nHuruf a \n \n \nCukup jelas. \n \nHuruf b \n \n \nCukup jelas. \n \n\n\n \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \nPengaturan rapat antara lain mengatur tentang agenda \nrapat, persyaratan kuorum, pengambilan keputusan, hak \nanggota dalam hal terdapat perbedaan pendapat dalam \npengambilan keputusan, dan risalah rapat. \n \nHuruf e \n \n \nCukup jelas. \n \nHuruf f  \n \n \nCukup jelas. \n \nHuruf g \n \nPola hubungan kerja DPS dengan Direksi dan Dewan \nKomisaris antara lain melalui rapat antara DPS dengan \nDireksi dan Dewan Komisaris.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n Pedoman dan tata tertib kerja DPS dikenal juga dengan piagam \nDPS. \nAyat (2) \n \nHuruf a \n \n \nCukup jelas. \n \nHuruf b \n \n \nCukup jelas. \n \n\n\n \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \nPengaturan rapat antara lain mengatur tentang agenda \nrapat, persyaratan kuorum, pengambilan keputusan, hak \nanggota dalam hal terdapat perbedaan pendapat dalam \npengambilan keputusan, dan risalah rapat. \n \nHuruf e \n \n \nCukup jelas. \n \nHuruf f  \n \n \nCukup jelas. \n \nHuruf g \n \nPola hubungan kerja DPS dengan Direksi dan Dewan \nKomisaris antara lain melalui rapat antara DPS dengan \nDireksi dan Dewan Komisaris."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kewajiban ini dimaksudkan untuk menjaga kerahasiaan informasi  \ndan menghindari potensi insider information.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kewajiban ini dimaksudkan untuk menjaga kerahasiaan informasi  \ndan menghindari potensi insider information."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKomite pendukung pelaksanaan tugas Dewan Komisaris \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi bank umum, yaitu paling sedikit:  \na. \nkomite audit; \nb. \nkomite pemantau risiko; dan \nc. \nkomite remunerasi dan nominasi. \nAyat (2) \n \nContoh:  \na. Komite Audit BUS meminta pendapat kepada DPS dalam \npenyusunan rencana audit tahunan fungsi audit intern \nsyariah antara lain terkait dengan pemenuhan akad \npembiayaan. \nb. Komite pemantau risiko BUS meminta pendapat DPS \ndalam evaluasi kesesuaian antara kebijakan manajemen \nrisiko syariah dan pelaksanaan kebijakannya, antara lain \nkebijakan perhitungan imbal hasil. \nc. Komite yang menjalankan fungsi remunerasi pada BUK \nyang memiliki UUS meminta pendapat DPS dalam \npembahasan kebijakan remunerasi DPS. \nd. Komite yang menjalankan fungsi nominasi pada BUK yang \nmemiliki UUS meminta pendapat DPS dalam pembahasan \npengusulan nama calon pengurus dan/atau pegawai yang \ndinominasikan menjabat posisi strategis pada UUS \ndan/atau pada BUK yang terkait langsung dengan kegiatan \nusaha UUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKomite pendukung pelaksanaan tugas Dewan Komisaris \nsesuai dengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi bank umum, yaitu paling sedikit:  \na. \nkomite audit; \nb. \nkomite pemantau risiko; dan \nc. \nkomite remunerasi dan nominasi. \nAyat (2) \n \nContoh:  \na. Komite Audit BUS meminta pendapat kepada DPS dalam \npenyusunan rencana audit tahunan fungsi audit intern \nsyariah antara lain terkait dengan pemenuhan akad \npembiayaan. \nb. Komite pemantau risiko BUS meminta pendapat DPS \ndalam evaluasi kesesuaian antara kebijakan manajemen \nrisiko syariah dan pelaksanaan kebijakannya, antara lain \nkebijakan perhitungan imbal hasil. \nc. Komite yang menjalankan fungsi remunerasi pada BUK \nyang memiliki UUS meminta pendapat DPS dalam \npembahasan kebijakan remunerasi DPS. \nd. Komite yang menjalankan fungsi nominasi pada BUK yang \nmemiliki UUS meminta pendapat DPS dalam pembahasan \npengusulan nama calon pengurus dan/atau pegawai yang \ndinominasikan menjabat posisi strategis pada UUS \ndan/atau pada BUK yang terkait langsung dengan kegiatan \nusaha UUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Lihat penjelasan Pasal 15 ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Lihat penjelasan Pasal 15 ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “fungsi pendukung DPS yang memadai” \nadalah terdapat jumlah SDM yang cukup dengan kompetensi yang \nsesuai untuk mendukung pelaksanaan tugas dan tanggung jawab \nDPS. \nFungsi pendukung DPS dapat dirangkap pada fungsi lain sepanjang \ntetap memenuhi ketentuan yang berlaku, termasuk prinsip tata \nkelola yang baik.  \nFungsi pendukung DPS antara lain fungsi kesekretariatan, fungsi \nriset syariah, dan fungsi pengembangan syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “fungsi pendukung DPS yang memadai” \nadalah terdapat jumlah SDM yang cukup dengan kompetensi yang \nsesuai untuk mendukung pelaksanaan tugas dan tanggung jawab \nDPS. \nFungsi pendukung DPS dapat dirangkap pada fungsi lain sepanjang \ntetap memenuhi ketentuan yang berlaku, termasuk prinsip tata \nkelola yang baik.  \nFungsi pendukung DPS antara lain fungsi kesekretariatan, fungsi \nriset syariah, dan fungsi pengembangan syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nData dan informasi yang akurat, relevan, dan tepat waktu \ndiperlukan dalam kaitan tugas dan tanggung jawab DPS \nuntuk melakukan pengawasan terhadap pelaksanaan \ntugas dan tanggung jawab Direksi serta pengendalian \nterhadap pelaksanaan kebijakan Bank. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nData dan informasi yang akurat, relevan, dan tepat waktu \ndiperlukan dalam kaitan tugas dan tanggung jawab DPS \nuntuk melakukan pengawasan terhadap pelaksanaan \ntugas dan tanggung jawab Direksi serta pengendalian \nterhadap pelaksanaan kebijakan Bank. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nRapat DPS bersama Direksi merupakan rapat DPS bersama \ndengan Direksi antara lain dalam rangka DPS melakukan \npengawasan atau memberikan petunjuk dan/atau arahan \nkepada Direksi terkait pelaksanaan Prinsip Syariah. \nAyat (2) \nCukup jelas. \nAyat (3) \nRapat DPS bersama Dewan Komisaris merupakan rapat DPS \nbersama dengan Dewan Komisaris antara lain dalam rangka \nkoordinasi pengawasan terkait pelaksanaan Prinsip Syariah, \ntermasuk jika ditemukan pelanggaran Prinsip Syariah yang \nmenyebabkan keadaan atau berpotensi menyebabkan keadaan \nyang dapat membahayakan kelangsungan usaha Bank. \nAyat (4) \nCukup jelas. \nAyat (5) \nProsedur internal dalam penyelenggaraan rapat antara lain \npemimpin \nrapat, \nmekanisme \npenyelesaian \nperbedaan \npendapat dalam rapat, mekanisme pengambilan keputusan \nrapat, dan penyusunan risalah rapat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nRapat DPS bersama Direksi merupakan rapat DPS bersama \ndengan Direksi antara lain dalam rangka DPS melakukan \npengawasan atau memberikan petunjuk dan/atau arahan \nkepada Direksi terkait pelaksanaan Prinsip Syariah. \nAyat (2) \nCukup jelas. \nAyat (3) \nRapat DPS bersama Dewan Komisaris merupakan rapat DPS \nbersama dengan Dewan Komisaris antara lain dalam rangka \nkoordinasi pengawasan terkait pelaksanaan Prinsip Syariah, \ntermasuk jika ditemukan pelanggaran Prinsip Syariah yang \nmenyebabkan keadaan atau berpotensi menyebabkan keadaan \nyang dapat membahayakan kelangsungan usaha Bank. \nAyat (4) \nCukup jelas. \nAyat (5) \nProsedur internal dalam penyelenggaraan rapat antara lain \npemimpin \nrapat, \nmekanisme \npenyelesaian \nperbedaan \npendapat dalam rapat, mekanisme pengambilan keputusan \nrapat, dan penyusunan risalah rapat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nPerusahaan lain termasuk pemegang saham pengendali \ndan/atau pemegang saham pengendali terakhir Bank. \nHuruf b \nYang dimaksud dengan “hubungan keuangan” adalah \nseseorang \nyang \nmenerima \npenghasilan, \nbantuan \nkeuangan, atau pinjaman dari:  \n1. \nanggota Direksi, anggota Dewan Komisaris, dan/atau \nanggota DPS Bank; \n2. \nperusahaan yang pemegang saham pengendalinya \nadalah anggota Direksi, anggota Dewan Komisaris, \ndan/atau anggota DPS; dan/atau \n3. \npemegang saham pengendali dan/atau pemegang \nsaham  pengendali terakhir Bank. \nHuruf c \nLihat penjelasan “hubungan keluarga sampai derajat \nkedua” dalam Pasal 13. \nHuruf d \n \nCukup jelas. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nPerusahaan lain termasuk pemegang saham pengendali \ndan/atau pemegang saham pengendali terakhir Bank. \nHuruf b \nYang dimaksud dengan “hubungan keuangan” adalah \nseseorang \nyang \nmenerima \npenghasilan, \nbantuan \nkeuangan, atau pinjaman dari:  \n1. \nanggota Direksi, anggota Dewan Komisaris, dan/atau \nanggota DPS Bank; \n2. \nperusahaan yang pemegang saham pengendalinya \nadalah anggota Direksi, anggota Dewan Komisaris, \ndan/atau anggota DPS; dan/atau \n3. \npemegang saham pengendali dan/atau pemegang \nsaham  pengendali terakhir Bank. \nHuruf c \nLihat penjelasan “hubungan keluarga sampai derajat \nkedua” dalam Pasal 13. \nHuruf d \n \nCukup jelas. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nTidak termasuk dalam pengertian keuntungan pribadi antara \nlain \nanggota \nDPS \nsebagai \nnasabah \nBank \nmenerima \npenghasilan bagi hasil/margin atau imbalan secara wajar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nTidak termasuk dalam pengertian keuntungan pribadi antara \nlain \nanggota \nDPS \nsebagai \nnasabah \nBank \nmenerima \npenghasilan bagi hasil/margin atau imbalan secara wajar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nHuruf a \n \nCukup jelas. \nHuruf b \nProporsionalitas terhadap remunerasi Dewan Komisaris \nmemperhatikan perbandingan risiko dan kompleksitas \ntugas antara DPS dengan Dewan Komisaris.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nHuruf a \n \nCukup jelas. \nHuruf b \nProporsionalitas terhadap remunerasi Dewan Komisaris \nmemperhatikan perbandingan risiko dan kompleksitas \ntugas antara DPS dengan Dewan Komisaris."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \nTujuan \nfungsi \nkepatuhan \nsyariah \nmemastikan \nbahwa \nkebijakan, ketentuan, sistem dan prosedur, serta kegiatan \nusaha yang dilakukan oleh Bank telah sesuai dengan Prinsip \nSyariah. \nMempunyai pengetahuan dan/atau pemahaman mengenai \noperasional perbankan syariah antara lain pernah memperoleh \npendidikan dan/atau pelatihan, memiliki sertifikasi, dan/atau \nmemiliki pengalaman terkait operasional perbankan syariah. \n\n\n \n \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nTujuan \nfungsi \nkepatuhan \nsyariah \nmemastikan \nbahwa \nkebijakan, ketentuan, sistem dan prosedur, serta kegiatan \nusaha yang dilakukan oleh Bank telah sesuai dengan Prinsip \nSyariah. \nMempunyai pengetahuan dan/atau pemahaman mengenai \noperasional perbankan syariah antara lain pernah memperoleh \npendidikan dan/atau pelatihan, memiliki sertifikasi, dan/atau \nmemiliki pengalaman terkait operasional perbankan syariah. \n\n\n \n \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTujuan \nfungsi \nmanajemen \nrisiko \nsyariah \nmemastikan \npemenuhan Prinsip Syariah dalam penerapan manajemen \nrisiko Bank pada operasional, bisnis, dan seluruh aktivitas \nBank. \nMempunyai pengetahuan dan/atau pemahaman mengenai \noperasional perbankan syariah antara lain pernah memperoleh \npendidikan dan/atau pelatihan, memiliki sertifikasi, dan/atau \nmemiliki pengalaman terkait operasional perbankan syariah. \n \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTujuan \nfungsi \nmanajemen \nrisiko \nsyariah \nmemastikan \npemenuhan Prinsip Syariah dalam penerapan manajemen \nrisiko Bank pada operasional, bisnis, dan seluruh aktivitas \nBank. \nMempunyai pengetahuan dan/atau pemahaman mengenai \noperasional perbankan syariah antara lain pernah memperoleh \npendidikan dan/atau pelatihan, memiliki sertifikasi, dan/atau \nmemiliki pengalaman terkait operasional perbankan syariah. \n \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTujuan fungsi audit intern syariah memberikan keyakinan dan \nkonsultasi yang bersifat independen dan objektif terkait \npenerapan Prinsip Syariah dalam pelaksanaan pengelolaan \nBank, dengan cara mengevaluasi dan meningkatkan efektivitas \nmanajemen risiko, pengendalian, dan proses tata kelola Bank. \nMempunyai pengetahuan dan/atau pemahaman tentang \noperasional perbankan syariah antara lain pernah memperoleh \npendidikan dan/atau pelatihan, memiliki sertifikasi, dan/atau \nmemiliki pengalaman terkait operasional perbankan syariah. \nAyat (2) \n \nCukup jelas. \nAyat (3) \nCukup jelas. \n \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTujuan fungsi audit intern syariah memberikan keyakinan dan \nkonsultasi yang bersifat independen dan objektif terkait \npenerapan Prinsip Syariah dalam pelaksanaan pengelolaan \nBank, dengan cara mengevaluasi dan meningkatkan efektivitas \nmanajemen risiko, pengendalian, dan proses tata kelola Bank. \nMempunyai pengetahuan dan/atau pemahaman tentang \noperasional perbankan syariah antara lain pernah memperoleh \npendidikan dan/atau pelatihan, memiliki sertifikasi, dan/atau \nmemiliki pengalaman terkait operasional perbankan syariah. \nAyat (2) \n \nCukup jelas. \nAyat (3) \nCukup jelas. \n \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nKaji ulang ekstern terhadap penerapan tata kelola syariah \ndilakukan terhadap efektivitas fungsi DPS dan fungsi \npendukung DPS, fungsi kepatuhan syariah, fungsi manajemen \nrisiko syariah, dan fungsi audit intern syariah. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \n \nCukup jelas.  \n \n \nAyat (4) \n \n \n \nCukup jelas.  \n \n \nAyat (5) \n \n \n \nCukup jelas. \n \n \nAyat (6) \n \n \n \nCukup jelas. \n \n \nAyat (7) \n \n \n \nCukup jelas. \n\n\n \n \n \nAyat (8) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nKaji ulang ekstern terhadap penerapan tata kelola syariah \ndilakukan terhadap efektivitas fungsi DPS dan fungsi \npendukung DPS, fungsi kepatuhan syariah, fungsi manajemen \nrisiko syariah, dan fungsi audit intern syariah. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \n \nCukup jelas.  \n \n \nAyat (4) \n \n \n \nCukup jelas.  \n \n \nAyat (5) \n \n \n \nCukup jelas. \n \n \nAyat (6) \n \n \n \nCukup jelas. \n \n \nAyat (7) \n \n \n \nCukup jelas. \n\n\n \n \n \nAyat (8) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n  \nPeriode penilaian sendiri (self-assessment) adalah 2 (dua) kali \ndalam setahun mengacu pada periode penilaian tingkat \nkesehatan Bank sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank umum \nsyariah dan unit usaha syariah. \n \n \nAyat (2)  \nCukup jelas. \n \n \nAyat (3) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n  \nPeriode penilaian sendiri (self-assessment) adalah 2 (dua) kali \ndalam setahun mengacu pada periode penilaian tingkat \nkesehatan Bank sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank umum \nsyariah dan unit usaha syariah. \n \n \nAyat (2)  \nCukup jelas. \n \n \nAyat (3) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTindak lanjut atas ketidakpatuhan Prinsip Syariah pada \nkegiatan usaha dan/atau operasional Bank dilakukan sesuai \nkebijakan Bank, contoh:  \n1. \nperbaikan akad pembiayaan; atau \n2. \npengalihan penghasilan yang didapat dari kegiatan usaha \nyang tidak sesuai dengan Prinsip Syariah ke penerimaan \nnon-halal. \n \n \nAyat (2)  \nCukup jelas. \n \n \nAyat (3) \n \nCukup jelas. \nAyat (4)  \nCukup jelas. \n \n \nAyat (5) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTindak lanjut atas ketidakpatuhan Prinsip Syariah pada \nkegiatan usaha dan/atau operasional Bank dilakukan sesuai \nkebijakan Bank, contoh:  \n1. \nperbaikan akad pembiayaan; atau \n2. \npengalihan penghasilan yang didapat dari kegiatan usaha \nyang tidak sesuai dengan Prinsip Syariah ke penerimaan \nnon-halal. \n \n \nAyat (2)  \nCukup jelas. \n \n \nAyat (3) \n \nCukup jelas. \nAyat (4)  \nCukup jelas. \n \n \nAyat (5) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 13. \n \nAyat (2) \n \n \nHuruf a \nLihat penjelasan Pasal 33 ayat (1) huruf b. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas \n \nAyat (5) \n \n \nCukup jelas. \n\n\n \n \nAyat (6) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 13. \n \nAyat (2) \n \n \nHuruf a \nLihat penjelasan Pasal 33 ayat (1) huruf b. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas \n \nAyat (5) \n \n \nCukup jelas. \n\n\n \n \nAyat (6) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 72/OJK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 72/OJK"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 106,
+  "total_ayat": 218,
+  "total_karakter": 70803,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

@@ -1,0 +1,26 @@
+{
+  "n_samples": 633,
+  "n_agreed": 594,
+  "n_disagreed": 39,
+  "raw_agreement_pct": 93.84,
+  "cohen_kappa": 0.897,
+  "cohen_kappa_weighted_linear": 0.9374,
+  "interpretation": "Almost Perfect Agreement",
+  "confusion_matrix": {
+    "true_0": {
+      "pred_0": 280,
+      "pred_1": 12,
+      "pred_2": 0
+    },
+    "true_1": {
+      "pred_0": 14,
+      "pred_1": 57,
+      "pred_2": 0
+    },
+    "true_2": {
+      "pred_0": 0,
+      "pred_1": 13,
+      "pred_2": 257
+    }
+  }
+}

@@ -1,0 +1,1479 @@
+{
+  "doc_id": "BI_PADG_2023_846_846",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "846",
+  "tahun": "2023",
+  "judul": "PERATURAN PELAKSANAAN TRANSAKSI DOMESTIC NON DELIVERABLE FORWARD NON DOLAR AMERIKA SERIKAT TERHADAP RUPIAH LINDUNG NILAI KEPADA BANK INDONESIA",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "27 Juni 2023",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank umum yang melaksanakan kegiatan \nusaha secara konvensional sebagaimana dimaksud dalam \nUndang-Undang mengenai perbankan, yang memperoleh \npersetujuan \ndari \notoritas \nyang \nberwenang \nuntuk \nmelakukan kegiatan usaha dalam valuta asing. \n2. \nLindung Nilai adalah cara atau teknik untuk mengurangi \nrisiko yang timbul maupun yang diperkirakan akan timbul \nakibat adanya fluktuasi harga di pasar keuangan. \n3. \nTransaksi Forward adalah transaksi jual atau beli valuta \nasing terhadap rupiah dengan penyerahan dana dilakukan \nlebih dari 2 (dua) hari kerja setelah tanggal transaksi. \n4. \nTransaksi Domestic Non Deliverable Forward Non Dolar \nAmerika Serikat terhadap Rupiah Lindung Nilai kepada \nBank Indonesia yang selanjutnya disebut Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia \nadalah Transaksi Forward non dolar Amerika Serikat \nterhadap rupiah yang dilakukan di pasar domestik, \ndengan penyelesaian memperhitungkan selisih antara \nkurs domestic non deliverable forward dan kurs acuan. \n5. \nUnderlying Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada \nBank \nIndonesia \nyang \nselanjutnya \ndisebut \nUnderlying Transaksi adalah kegiatan yang mendasari \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia. \n6. \nKontrak Lindung Nilai adalah informasi dari Bank yang \ndisampaikan kepada Bank Indonesia berisi rencana \njangka waktu dan jumlah Underlying Transaksi yang \ndigunakan sebagai dasar Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia, melalui sarana \nkomunikasi yang ditetapkan oleh Bank Indonesia. \n7. \nLaporan Bank Umum Terintegrasi adalah informasi yang \ndisusun dan disampaikan oleh pelapor kepada Bank \nIndonesia secara terintegrasi dalam format dan definisi \nyang seragam sesuai dengan metadata yang ditetapkan \noleh otoritas, termasuk penyediaan informasi pasar uang \ndan pengumuman. \n8. \nHari Kerja adalah hari kerja Bank Indonesia, tidak \ntermasuk hari kerja operasional terbatas Bank Indonesia. \n \nBAB II  \nKARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG \nNILAI KEPADA BANK INDONESIA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank umum yang melaksanakan kegiatan \nusaha secara konvensional sebagaimana dimaksud dalam \nUndang-Undang mengenai perbankan, yang memperoleh \npersetujuan \ndari \notoritas \nyang \nberwenang \nuntuk \nmelakukan kegiatan usaha dalam valuta asing. \n2. \nLindung Nilai adalah cara atau teknik untuk mengurangi \nrisiko yang timbul maupun yang diperkirakan akan timbul \nakibat adanya fluktuasi harga di pasar keuangan. \n3. \nTransaksi Forward adalah transaksi jual atau beli valuta \nasing terhadap rupiah dengan penyerahan dana dilakukan \nlebih dari 2 (dua) hari kerja setelah tanggal transaksi. \n4. \nTransaksi Domestic Non Deliverable Forward Non Dolar \nAmerika Serikat terhadap Rupiah Lindung Nilai kepada \nBank Indonesia yang selanjutnya disebut Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia \nadalah Transaksi Forward non dolar Amerika Serikat \nterhadap rupiah yang dilakukan di pasar domestik, \ndengan penyelesaian memperhitungkan selisih antara \nkurs domestic non deliverable forward dan kurs acuan. \n5. \nUnderlying Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada \nBank \nIndonesia \nyang \nselanjutnya \ndisebut \nUnderlying Transaksi adalah kegiatan yang mendasari \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia. \n6. \nKontrak Lindung Nilai adalah informasi dari Bank yang \ndisampaikan kepada Bank Indonesia berisi rencana \njangka waktu dan jumlah Underlying Transaksi yang \ndigunakan sebagai dasar Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia, melalui sarana \nkomunikasi yang ditetapkan oleh Bank Indonesia. \n7. \nLaporan Bank Umum Terintegrasi adalah informasi yang \ndisusun dan disampaikan oleh pelapor kepada Bank \nIndonesia secara terintegrasi dalam format dan definisi \nyang seragam sesuai dengan metadata yang ditetapkan \noleh otoritas, termasuk penyediaan informasi pasar uang \ndan pengumuman. \n8. \nHari Kerja adalah hari kerja Bank Indonesia, tidak \ntermasuk hari kerja operasional terbatas Bank Indonesia. \n \nBAB II  \nKARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG \nNILAI KEPADA BANK INDONESIA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia dilakukan dalam valuta asing selain dolar Amerika \nSerikat terhadap rupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia dilakukan dalam valuta asing selain dolar Amerika \nSerikat terhadap rupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia \ndilakukan \ndengan \nmenggunakan \nUnderlying \nTransaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia \ndilakukan \ndengan \nmenggunakan \nUnderlying \nTransaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia dilakukan berdasarkan Kontrak Lindung \nNilai. \n(2) \nJangka waktu Kontrak Lindung Nilai sebagaimana \ndimaksud pada ayat (1) paling lama 3 (tiga) tahun \nterhitung sejak tanggal spot Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia dilakukan berdasarkan Kontrak Lindung \nNilai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu Kontrak Lindung Nilai sebagaimana \ndimaksud pada ayat (1) paling lama 3 (tiga) tahun \nterhitung sejak tanggal spot Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KARAKTERISTIK TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia berupa transaksi domestic non deliverable \nforward beli Bank kepada Bank Indonesia.  \n(2) \nJangka waktu Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia paling lama 12 (dua belas) \nbulan terhitung sejak tanggal spot sampai dengan tanggal \njatuh waktu. \n(3) \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia dapat diperpanjang. \n(4) \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia tidak dapat dilakukan penghentian \ntransaksi sebelum jatuh waktu. \n(5) \nPenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dilakukan secara netting dalam \nmata uang rupiah. \n \nBAB III  \nPESERTA, UNDERLYING TRANSAKSI, KONTRAK \nLINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF \nNON USD/IDR LINDUNG NILAI KEPADA BANK \nINDONESIA \n \nBagian Kesatu \nPeserta Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia berupa transaksi domestic non deliverable \nforward beli Bank kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia paling lama 12 (dua belas) \nbulan terhitung sejak tanggal spot sampai dengan tanggal \njatuh waktu."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia dapat diperpanjang."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia tidak dapat dilakukan penghentian \ntransaksi sebelum jatuh waktu."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dilakukan secara netting dalam \nmata uang rupiah. \n \nBAB III  \nPESERTA, UNDERLYING TRANSAKSI, KONTRAK \nLINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF \nNON USD/IDR LINDUNG NILAI KEPADA BANK \nINDONESIA \n \nBagian Kesatu \nPeserta Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank yang mengajukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia harus memenuhi \npersyaratan:  \na. \nmemiliki izin sebagai peserta operasi moneter dalam valuta \nasing dari Bank Indonesia; \nb. \nmemiliki peringkat komposit tingkat kesehatan bank \npaling rendah 3 (tiga), sesuai penilaian Otoritas Jasa \nKeuangan; \nc. \ntidak sedang dikenai sanksi penghentian sementara untuk \nmengikuti kegiatan operasi moneter oleh Bank Indonesia; \ndan \nd. \ntidak sedang dikenai sanksi pembatasan keikutsertaan \ndalam operasi moneter oleh Bank Indonesia. \n \n\n\n \nBagian Kedua \nUnderlying Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang mengajukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia harus memenuhi \npersyaratan:  \na. \nmemiliki izin sebagai peserta operasi moneter dalam valuta \nasing dari Bank Indonesia; \nb. \nmemiliki peringkat komposit tingkat kesehatan bank \npaling rendah 3 (tiga), sesuai penilaian Otoritas Jasa \nKeuangan; \nc. \ntidak sedang dikenai sanksi penghentian sementara untuk \nmengikuti kegiatan operasi moneter oleh Bank Indonesia; \ndan \nd. \ntidak sedang dikenai sanksi pembatasan keikutsertaan \ndalam operasi moneter oleh Bank Indonesia. \n \n\n\n \nBagian Kedua \nUnderlying Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam melakukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia, Bank wajib \nmemenuhi persyaratan Underlying Transaksi.   \n(2) \nPersyaratan Underlying Transaksi sebagaimana dimaksud \npada ayat (1) meliputi: \na. \nUnderlying \nTransaksi dimiliki oleh \nBank atau \nnasabah; \nb. \nUnderlying \nTransaksi \nterkait \ndengan \nkegiatan \nekonomi; dan \nc. \nUnderlying Transaksi dibuktikan dengan adanya \ndokumen Underlying Transaksi.  \n(3) \nKegiatan ekonomi  sebagaimana dimaksud pada ayat (2) \nhuruf b meliputi: \na. \nkegiatan transaksi berjalan (current account) yang \nmeliputi: \n1. \ntransaksi ekspor dan impor barang dan/atau \njasa, dari dan ke Indonesia; \n2. \ntransaksi pendapatan primer berupa: \na) \ntransaksi penerimaan dan pembayaran \nkompensasi tenaga kerja;  \nb) \npendapatan \ninvestasi \ndari \ninvestasi \nlangsung, investasi portofolio, dan/atau \ninvestasi lainnya; dan \nc) \ntransaksi pendapatan primer lainnya; \n3. \ntransaksi pendapatan sekunder berupa: \na) \npenerimaan \ndan \npembayaran \nsektor \npemerintah;  \nb) \npenerimaan \ndan \npembayaran \nsektor \nlainnya, termasuk remitansi dan transaksi \nsejenis lainnya; dan  \nc) \ntransaksi pendapatan sekunder lainnya; \nb. \nkegiatan transaksi finansial (financial account) yang \nmeliputi: \n1. \ninvestasi langsung; \n2. \ninvestasi portofolio; dan \n3. \ninvestasi lainnya; \nc. \nkegiatan transaksi modal (capital account); \nd. \nkredit atau pembiayaan dari Bank kepada penduduk \nuntuk tujuan perdagangan dan investasi; \ne. \nperdagangan barang dan jasa di dalam negeri; dan \nf. \nUnderlying Transaksi lainnya yang ditetapkan oleh \nBank Indonesia. \n(4) \nUnderlying Transaksi sebagaimana dimaksud pada ayat (3) \ntidak termasuk: \na. \nsurat berharga yang diterbitkan oleh Bank Indonesia; \nb. \npenempatan dana; \nc. \nfasilitas pembiayaan yang belum ditarik; atau \nd. \naset kripto.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia, Bank wajib \nmemenuhi persyaratan Underlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan Underlying Transaksi sebagaimana dimaksud \npada ayat (1) meliputi: \na. \nUnderlying \nTransaksi dimiliki oleh \nBank atau \nnasabah; \nb. \nUnderlying \nTransaksi \nterkait \ndengan \nkegiatan \nekonomi; dan \nc. \nUnderlying Transaksi dibuktikan dengan adanya \ndokumen Underlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kegiatan ekonomi  sebagaimana dimaksud pada ayat (2) \nhuruf b meliputi: \na. \nkegiatan transaksi berjalan (current account) yang \nmeliputi: \n1. \ntransaksi ekspor dan impor barang dan/atau \njasa, dari dan ke Indonesia; \n2. \ntransaksi pendapatan primer berupa: \na) \ntransaksi penerimaan dan pembayaran \nkompensasi tenaga kerja;  \nb) \npendapatan \ninvestasi \ndari \ninvestasi \nlangsung, investasi portofolio, dan/atau \ninvestasi lainnya; dan \nc) \ntransaksi pendapatan primer lainnya; \n3. \ntransaksi pendapatan sekunder berupa: \na) \npenerimaan \ndan \npembayaran \nsektor \npemerintah;  \nb) \npenerimaan \ndan \npembayaran \nsektor \nlainnya, termasuk remitansi dan transaksi \nsejenis lainnya; dan  \nc) \ntransaksi pendapatan sekunder lainnya; \nb. \nkegiatan transaksi finansial (financial account) yang \nmeliputi: \n1. \ninvestasi langsung; \n2. \ninvestasi portofolio; dan \n3. \ninvestasi lainnya; \nc. \nkegiatan transaksi modal (capital account); \nd. \nkredit atau pembiayaan dari Bank kepada penduduk \nuntuk tujuan perdagangan dan investasi; \ne. \nperdagangan barang dan jasa di dalam negeri; dan \nf. \nUnderlying Transaksi lainnya yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Underlying Transaksi sebagaimana dimaksud pada ayat (3) \ntidak termasuk: \na. \nsurat berharga yang diterbitkan oleh Bank Indonesia; \nb. \npenempatan dana; \nc. \nfasilitas pembiayaan yang belum ditarik; atau \nd. \naset kripto."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank wajib membuktikan adanya dokumen Underlying \nTransaksi sebagaimana dimaksud dalam Pasal 7 ayat (2) \nhuruf c. \n(2) \nJenis dokumen Underlying Transaksi terkait dengan \nkegiatan ekonomi sebagaimana dimaksud dalam Pasal 7 \nayat (3) tercantum dalam Lampiran I yang merupakan \nbagian tidak terpisahkan dari Peraturan Anggota Dewan \nGubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib membuktikan adanya dokumen Underlying \nTransaksi sebagaimana dimaksud dalam Pasal 7 ayat (2) \nhuruf c."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jenis dokumen Underlying Transaksi terkait dengan \nkegiatan ekonomi sebagaimana dimaksud dalam Pasal 7 \nayat (3) tercantum dalam Lampiran I yang merupakan \nbagian tidak terpisahkan dari Peraturan Anggota Dewan \nGubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank bertanggung jawab atas kelengkapan dokumen \nUnderlying Transaksi. \n(2) \nBank \nbertanggung \njawab \nuntuk \nmenatausahakan \nkelengkapan dokumen Underlying Transaksi sebagaimana \ndimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank bertanggung jawab atas kelengkapan dokumen \nUnderlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nbertanggung \njawab \nuntuk \nmenatausahakan \nkelengkapan dokumen Underlying Transaksi sebagaimana \ndimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Dokumen Underlying Transaksi sebagaimana dimaksud dalam \nPasal 8 memiliki ketentuan: \na. \nbersifat final; \nb. \nmemuat jenis valuta asing yang sama dengan valuta asing \ndalam Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dan Kontrak Lindung Nilai;  \nc. \nmemiliki jangka waktu yang sama dengan atau lebih \npanjang dari jangka waktu Kontrak Lindung Nilai; dan \nd. \nmemiliki nilai nominal yang sama dengan atau lebih dari \nnominal Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dokumen Underlying Transaksi sebagaimana dimaksud dalam \nPasal 8 memiliki ketentuan: \na. \nbersifat final; \nb. \nmemuat jenis valuta asing yang sama dengan valuta asing \ndalam Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dan Kontrak Lindung Nilai;  \nc. \nmemiliki jangka waktu yang sama dengan atau lebih \npanjang dari jangka waktu Kontrak Lindung Nilai; dan \nd. \nmemiliki nilai nominal yang sama dengan atau lebih dari \nnominal Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank hanya dapat menggunakan 1 (satu) dokumen Underlying \nTransaksi untuk: \na. \n1 (satu) Kontrak Lindung Nilai; dan \nb. \n1 (satu) Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia. \n \nBagian Ketiga \nKontrak Lindung Nilai",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank hanya dapat menggunakan 1 (satu) dokumen Underlying \nTransaksi untuk: \na. \n1 (satu) Kontrak Lindung Nilai; dan \nb. \n1 (satu) Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia. \n \nBagian Ketiga \nKontrak Lindung Nilai"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Pengajuan Kontrak Lindung Nilai oleh Bank dilakukan \nbersamaan dengan pengajuan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia melalui sarana dealing \nsystem dan/atau sarana transaksi lainnya yang ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengajuan Kontrak Lindung Nilai oleh Bank dilakukan \nbersamaan dengan pengajuan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia melalui sarana dealing \nsystem dan/atau sarana transaksi lainnya yang ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nPengajuan Kontrak Lindung Nilai memuat informasi: \na. \nnama Bank; \nb. \njangka waktu Kontrak Lindung Nilai; \nc. \ndokumen Underlying Transaksi; \nd. \njangka waktu Underlying Transaksi; \ne. \njenis valuta asing;  \nf. \nnilai \nnominal \nUnderlying \nTransaksi \nyang \ndicantumkan dalam Kontrak Lindung Nilai; dan \n\n\n \ng. \ninformasi lainnya apabila diperlukan. \n(2) \nSetiap pengajuan Kontrak Lindung Nilai disertai dengan \npernyataan Bank bahwa seluruh persyaratan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \ntelah dipenuhi. \n(3) \nContoh pengajuan Kontrak Lindung Nilai sebagaimana \ndimaksud pada ayat (1) dan contoh pernyataan Bank \nmengenai pemenuhan persyaratan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (2) tercantum dalam \nLampiran II yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengajuan Kontrak Lindung Nilai memuat informasi: \na. \nnama Bank; \nb. \njangka waktu Kontrak Lindung Nilai; \nc. \ndokumen Underlying Transaksi; \nd. \njangka waktu Underlying Transaksi; \ne. \njenis valuta asing;  \nf. \nnilai \nnominal \nUnderlying \nTransaksi \nyang \ndicantumkan dalam Kontrak Lindung Nilai; dan \n\n\n \ng. \ninformasi lainnya apabila diperlukan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Setiap pengajuan Kontrak Lindung Nilai disertai dengan \npernyataan Bank bahwa seluruh persyaratan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \ntelah dipenuhi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Contoh pengajuan Kontrak Lindung Nilai sebagaimana \ndimaksud pada ayat (1) dan contoh pernyataan Bank \nmengenai pemenuhan persyaratan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (2) tercantum dalam \nLampiran II yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam hal Kontrak Lindung Nilai yang diajukan oleh Bank \ntidak memuat informasi sebagaimana dimaksud dalam",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Kontrak Lindung Nilai yang diajukan oleh Bank \ntidak memuat informasi sebagaimana dimaksud dalam"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "ayat (1) dan/atau tidak menyampaikan \npernyataan sebagaimana dimaksud dalam Pasal 13 ayat \n(2), Bank harus mengajukan koreksi atas Kontrak Lindung \nNilai yang diajukan dalam window time Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia \nmelalui sarana dealing system dan/atau sarana transaksi \nlainnya yang ditetapkan oleh Bank Indonesia. \n(2) \nBank hanya dapat mengajukan 1 (satu) kali koreksi untuk \nsetiap pengajuan Kontrak Lindung Nilai. \n(3) \nDalam hal Bank mengajukan Kontrak Lindung Nilai yang \ntidak memenuhi ketentuan sebagaimana dimaksud dalam \nPasal 13 dan tidak mengajukan koreksi sebagaimana \ndimaksud pada ayat (1) dan ayat (2), Bank Indonesia tidak \nmelanjutkan proses Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia dimaksud.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(2)",
+          "teks": ", Bank harus mengajukan koreksi atas Kontrak Lindung \nNilai yang diajukan dalam window time Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia \nmelalui sarana dealing system dan/atau sarana transaksi \nlainnya yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank hanya dapat mengajukan 1 (satu) kali koreksi untuk \nsetiap pengajuan Kontrak Lindung Nilai."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank mengajukan Kontrak Lindung Nilai yang \ntidak memenuhi ketentuan sebagaimana dimaksud dalam \nPasal 13 dan tidak mengajukan koreksi sebagaimana \ndimaksud pada ayat (1) dan ayat (2), Bank Indonesia tidak \nmelanjutkan proses Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia dimaksud."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank bertanggungjawab atas kebenaran data pengajuan \nKontrak Lindung Nilai yang disampaikan kepada Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank bertanggungjawab atas kebenaran data pengajuan \nKontrak Lindung Nilai yang disampaikan kepada Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Kontrak Lindung Nilai berakhir apabila Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia telah berakhir \ndan tidak dilakukan perpanjangan oleh Bank. \n \nBagian Keempat \nPelaksanaan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia \n \nParagraf 1 \nWindow Time Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kontrak Lindung Nilai berakhir apabila Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia telah berakhir \ndan tidak dilakukan perpanjangan oleh Bank. \n \nBagian Keempat \nPelaksanaan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia \n \nParagraf 1 \nWindow Time Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia dilakukan pada Hari Kerja.  \n \n \n\n\n \n(2) \nWindow time Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia antara pukul 08.00 WIB sampai \ndengan pukul 16.00 WIB atau waktu lain yang ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia dilakukan pada Hari Kerja."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Window time Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia antara pukul 08.00 WIB sampai \ndengan pukul 16.00 WIB atau waktu lain yang ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank Indonesia dapat meniadakan window time Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia.  \n(2) \nPeniadaan window time sebagaimana dimaksud pada ayat \n(1) tidak berlaku untuk perpanjangan Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia. \n(3) \nPeniadaan window time sebagaimana dimaksud pada ayat \n(1) diumumkan sebelum window time Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia. \n(4) \nPengumuman peniadaan window time sebagaimana \ndimaksud pada ayat (3) disampaikan melalui sistem \nLaporan Bank Umum Terintegrasi dan/atau sarana \ninformasi lainnya yang digunakan oleh Bank Indonesia. \n \nParagraf 2 \nPengumuman Rencana Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat meniadakan window time Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peniadaan window time sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "tidak berlaku untuk perpanjangan Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peniadaan window time sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "diumumkan sebelum window time Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengumuman peniadaan window time sebagaimana \ndimaksud pada ayat (3) disampaikan melalui sistem \nLaporan Bank Umum Terintegrasi dan/atau sarana \ninformasi lainnya yang digunakan oleh Bank Indonesia. \n \nParagraf 2 \nPengumuman Rencana Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nRencana Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada \nBank \nIndonesia \ndan/atau \nperubahannya \ndiumumkan oleh Bank Indonesia paling lambat sebelum \nwindow time Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dibuka. \n(2) \nPengumuman sebagaimana dimaksud pada ayat (1) \ndilakukan \nmelalui \nsistem \nLaporan \nBank \nUmum \nTerintegrasi dan/atau sarana informasi lainnya yang \ndigunakan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Rencana Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada \nBank \nIndonesia \ndan/atau \nperubahannya \ndiumumkan oleh Bank Indonesia paling lambat sebelum \nwindow time Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dibuka."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengumuman sebagaimana dimaksud pada ayat (1) \ndilakukan \nmelalui \nsistem \nLaporan \nBank \nUmum \nTerintegrasi dan/atau sarana informasi lainnya yang \ndigunakan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Pengumuman rencana Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia sebagaimana dimaksud dalam \nPasal 19 memuat informasi:  \na. \ntanggal transaksi; \nb. \nwindow time transaksi; \nc. \njenis valuta asing;  \nd. \njangka waktu transaksi; \ne. \njumlah minimum nilai nominal pengajuan dan kelipatan \nnilai nominal pengajuan; \nf. \ntanggal spot; \ng. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \nh. \ntanggal penyelesaian transaksi; \ni. \nkurs acuan; \nj. \npremi; \nk. \nsarana pengajuan Kontrak Lindung Nilai dan sarana \npengajuan transaksi;  \nl. \njangka waktu dan window time perpanjangan transaksi;  \ndan/atau \nm. \ninformasi lainnya apabila diperlukan. \n\n\n \nParagraf 3 \nPengajuan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengumuman rencana Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia sebagaimana dimaksud dalam \nPasal 19 memuat informasi:  \na. \ntanggal transaksi; \nb. \nwindow time transaksi; \nc. \njenis valuta asing;  \nd. \njangka waktu transaksi; \ne. \njumlah minimum nilai nominal pengajuan dan kelipatan \nnilai nominal pengajuan; \nf. \ntanggal spot; \ng. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \nh. \ntanggal penyelesaian transaksi; \ni. \nkurs acuan; \nj. \npremi; \nk. \nsarana pengajuan Kontrak Lindung Nilai dan sarana \npengajuan transaksi;  \nl. \njangka waktu dan window time perpanjangan transaksi;  \ndan/atau \nm. \ninformasi lainnya apabila diperlukan. \n\n\n \nParagraf 3 \nPengajuan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank mengajukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia secara langsung \ntanpa melalui lembaga perantara. \n(2) \nPengajuan sebagaimana dimaksud pada ayat (1) dilakukan \nmelalui sarana dealing system dan/atau sarana transaksi \nlainnya yang ditetapkan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank mengajukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia secara langsung \ntanpa melalui lembaga perantara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan sebagaimana dimaksud pada ayat (1) dilakukan \nmelalui sarana dealing system dan/atau sarana transaksi \nlainnya yang ditetapkan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nPengajuan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia sebagaimana dimaksud dalam \nPasal 21 memuat informasi:  \na. \nnama Bank; \nb. \ntanggal transaksi; \nc. \njenis valuta asing; \nd. \njangka waktu transaksi; \ne. \nnilai nominal transaksi; \nf. \ndokumen Underlying Transaksi; \ng. \njangka waktu dan nilai nominal Underlying Transaksi \nyang tercantum pada Kontrak Lindung Nilai; \nh. \ntanggal spot; \ni. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \nj. \ntanggal penyelesaian transaksi; \nk. \npremi; \nl. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan/atau \nm. \ninformasi lainnya apabila diperlukan. \n(2) \nNilai nominal transaksi sebagaimana dimaksud pada ayat \n(1) huruf e harus memenuhi jumlah minimum nilai \nnominal pengajuan dan kelipatan nilai nominal pengajuan \ndalam pengumuman rencana Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 20 huruf e. \n(3) \nNilai nominal transaksi sebagaimana dimaksud pada ayat \n(1) huruf e paling banyak sebesar nilai nominal Underlying \nTransaksi sebagaimana dimaksud pada ayat (1) huruf g. \n(4) \nContoh pengajuan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia sebagaimana \ndimaksud pada ayat (1) tercantum dalam Lampiran II.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengajuan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia sebagaimana dimaksud dalam \nPasal 21 memuat informasi:  \na. \nnama Bank; \nb. \ntanggal transaksi; \nc. \njenis valuta asing; \nd. \njangka waktu transaksi; \ne. \nnilai nominal transaksi; \nf. \ndokumen Underlying Transaksi; \ng. \njangka waktu dan nilai nominal Underlying Transaksi \nyang tercantum pada Kontrak Lindung Nilai; \nh. \ntanggal spot; \ni. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \nj. \ntanggal penyelesaian transaksi; \nk. \npremi; \nl. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan/atau \nm. \ninformasi lainnya apabila diperlukan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Nilai nominal transaksi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf e harus memenuhi jumlah minimum nilai \nnominal pengajuan dan kelipatan nilai nominal pengajuan \ndalam pengumuman rencana Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 20 huruf e."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Nilai nominal transaksi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf e paling banyak sebesar nilai nominal Underlying \nTransaksi sebagaimana dimaksud pada ayat (1) huruf g."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Contoh pengajuan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia sebagaimana \ndimaksud pada ayat (1) tercantum dalam Lampiran II."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank memperoleh nomor referensi untuk setiap Kontrak \nLindung Nilai setelah pengajuan Kontrak Lindung Nilai dan \npengajuan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia diterima oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank memperoleh nomor referensi untuk setiap Kontrak \nLindung Nilai setelah pengajuan Kontrak Lindung Nilai dan \npengajuan Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia diterima oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank dapat melakukan koreksi atas informasi pengajuan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia sebagaimana dimaksud dalam Pasal 22.  \n\n\n \n(2) \nKoreksi sebagaimana dimaksud pada ayat (1) tidak dapat \ndilakukan terhadap informasi nama Bank sebagaimana \ndimaksud dalam Pasal 22 ayat (1) huruf a dan jangka \nwaktu transaksi sebagaimana dimaksud dalam Pasal 22 \nayat (1) huruf d.  \n(3) \nBank hanya dapat mengajukan 1 (satu) kali koreksi untuk \nsetiap pengajuan Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia. \n(4) \nKoreksi sebagaimana dimaksud pada ayat (1) hanya dapat \ndiajukan selama window time Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia melalui \nsarana dealing system dan/atau sarana transaksi lainnya \nyang ditetapkan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat melakukan koreksi atas informasi pengajuan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia sebagaimana dimaksud dalam Pasal 22."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koreksi sebagaimana dimaksud pada ayat (1) tidak dapat \ndilakukan terhadap informasi nama Bank sebagaimana \ndimaksud dalam Pasal 22 ayat (1) huruf a dan jangka \nwaktu transaksi sebagaimana dimaksud dalam Pasal 22 \nayat (1) huruf d."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank hanya dapat mengajukan 1 (satu) kali koreksi untuk \nsetiap pengajuan Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Koreksi sebagaimana dimaksud pada ayat (1) hanya dapat \ndiajukan selama window time Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia melalui \nsarana dealing system dan/atau sarana transaksi lainnya \nyang ditetapkan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank bertanggung jawab atas kebenaran data pengajuan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank bertanggung jawab atas kebenaran data pengajuan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank yang telah mengajukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia tidak dapat membatalkan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia yang telah diajukan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang telah mengajukan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia tidak dapat membatalkan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia yang telah diajukan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam hal Bank mengajukan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia yang tidak \nmemenuhi tata cara pengajuan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 22 dan tidak \nmelakukan koreksi sebagaimana dimaksud dalam Pasal \n24, Bank Indonesia tidak melanjutkan proses Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia. \n(2) \nBank Indonesia dapat menolak pengajuan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nberdasarkan pertimbangan tertentu. \n \nParagraf 4 \nKonfirmasi atas Pengajuan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank mengajukan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia yang tidak \nmemenuhi tata cara pengajuan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 22 dan tidak \nmelakukan koreksi sebagaimana dimaksud dalam Pasal \n24, Bank Indonesia tidak melanjutkan proses Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat menolak pengajuan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nberdasarkan pertimbangan tertentu. \n \nParagraf 4 \nKonfirmasi atas Pengajuan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank melakukan konfirmasi atas pengajuan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nmelalui sarana dealing system dan/atau sarana transaksi \nlainnya yang ditetapkan oleh Bank Indonesia. \n(2) \nKonfirmasi sebagaimana dimaksud ayat (1) memuat \ninformasi:  \na. \ntanggal transaksi; \nb. \njenis valuta asing; \nc. \njangka waktu transaksi; \nd. \nnilai nominal transaksi; \n \n \n\n\n \n \ne. \ntanggal spot; \nf. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \ng. \ntanggal penyelesaian transaksi; \nh. \nkurs domestic non deliverable forward; \ni. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan \nj. \ninformasi lainnya apabila diperlukan. \n \nBagian Kelima \nPenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank melakukan konfirmasi atas pengajuan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nmelalui sarana dealing system dan/atau sarana transaksi \nlainnya yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Konfirmasi sebagaimana dimaksud ayat (1) memuat \ninformasi:  \na. \ntanggal transaksi; \nb. \njenis valuta asing; \nc. \njangka waktu transaksi; \nd. \nnilai nominal transaksi; \n \n \n\n\n \n \ne. \ntanggal spot; \nf. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \ng. \ntanggal penyelesaian transaksi; \nh. \nkurs domestic non deliverable forward; \ni. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan \nj. \ninformasi lainnya apabila diperlukan. \n \nBagian Kelima \nPenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Berdasarkan konfirmasi atas pengajuan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia sebagaimana \ndimaksud dalam Pasal 28 maka pada tanggal transaksi dan \npada tanggal tertentu yang ditetapkan Bank Indonesia (fixing \ndate): \na. \nBank Indonesia menyampaikan kepada Bank konfirmasi \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia melalui Society for Worldwide \nInterbank Financial Telecommunication (SWIFT) Message \nType (MT) 300 dan/atau sarana lain yang ditetapkan oleh \nBank Indonesia; dan \nb. \nBank menyampaikan kepada Bank Indonesia konfirmasi \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia melalui Society for Worldwide \nInterbank Financial Telecommunication (SWIFT) Message \nType (MT) 300 dan/atau sarana lain yang ditetapkan oleh \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berdasarkan konfirmasi atas pengajuan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia sebagaimana \ndimaksud dalam Pasal 28 maka pada tanggal transaksi dan \npada tanggal tertentu yang ditetapkan Bank Indonesia (fixing \ndate): \na. \nBank Indonesia menyampaikan kepada Bank konfirmasi \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia melalui Society for Worldwide \nInterbank Financial Telecommunication (SWIFT) Message \nType (MT) 300 dan/atau sarana lain yang ditetapkan oleh \nBank Indonesia; dan \nb. \nBank menyampaikan kepada Bank Indonesia konfirmasi \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia melalui Society for Worldwide \nInterbank Financial Telecommunication (SWIFT) Message \nType (MT) 300 dan/atau sarana lain yang ditetapkan oleh \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank wajib melakukan penyelesaian Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib melakukan penyelesaian Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Penyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dilakukan dengan memperhitungkan \nselisih antara kurs domestic non deliverable forward dan kurs \nacuan pada tanggal tertentu yang telah ditetapkan oleh Bank \nIndonesia (fixing date).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dilakukan dengan memperhitungkan \nselisih antara kurs domestic non deliverable forward dan kurs \nacuan pada tanggal tertentu yang telah ditetapkan oleh Bank \nIndonesia (fixing date)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam hal kurs domestic non deliverable forward lebih \ntinggi dari kurs acuan non USD/IDR yang diumumkan \noleh \nBank \nIndonesia \npada \ntanggal \ntertentu \nyang \nditetapkan oleh Bank Indonesia (fixing date), Bank wajib \nmenyediakan dana yang cukup di rekening giro rupiah \nBank di Bank Indonesia untuk penyelesaian Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nsebesar selisih antara kurs domestic non deliverable \nforward \ndengan \nkurs \nacuan \nnon \nUSD/IDR \nyang \ndiumumkan oleh Bank Indonesia pada tanggal tertentu \nyang ditetapkan oleh Bank Indonesia (fixing date)  \n\n\n \ndikalikan dengan nilai nominal pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia.   \n(2) \nDalam hal kurs domestic non deliverable forward lebih \nrendah dari kurs acuan non USD/IDR yang diumumkan \noleh \nBank \nIndonesia \npada \ntanggal \ntertentu \nyang \nditetapkan oleh Bank Indonesia (fixing date), Bank \nmenerima dana sebesar selisih antara kurs domestic non \ndeliverable forward dengan kurs acuan non USD/IDR yang \ndiumumkan oleh Bank Indonesia pada tanggal tertentu \nyang ditetapkan oleh Bank Indonesia (fixing date) \ndikalikan dengan nilai nominal pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal kurs domestic non deliverable forward lebih \ntinggi dari kurs acuan non USD/IDR yang diumumkan \noleh \nBank \nIndonesia \npada \ntanggal \ntertentu \nyang \nditetapkan oleh Bank Indonesia (fixing date), Bank wajib \nmenyediakan dana yang cukup di rekening giro rupiah \nBank di Bank Indonesia untuk penyelesaian Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nsebesar selisih antara kurs domestic non deliverable \nforward \ndengan \nkurs \nacuan \nnon \nUSD/IDR \nyang \ndiumumkan oleh Bank Indonesia pada tanggal tertentu \nyang ditetapkan oleh Bank Indonesia (fixing date)  \n\n\n \ndikalikan dengan nilai nominal pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal kurs domestic non deliverable forward lebih \nrendah dari kurs acuan non USD/IDR yang diumumkan \noleh \nBank \nIndonesia \npada \ntanggal \ntertentu \nyang \nditetapkan oleh Bank Indonesia (fixing date), Bank \nmenerima dana sebesar selisih antara kurs domestic non \ndeliverable forward dengan kurs acuan non USD/IDR yang \ndiumumkan oleh Bank Indonesia pada tanggal tertentu \nyang ditetapkan oleh Bank Indonesia (fixing date) \ndikalikan dengan nilai nominal pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank Indonesia mendebit rekening giro rupiah Bank di \nBank Indonesia sebesar dana sebagaimana dimaksud \ndalam Pasal 32 ayat (1) pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia. \n(2) \nBank Indonesia mengkredit rekening giro rupiah Bank di \nBank Indonesia sebesar dana sebagaimana dimaksud \ndalam Pasal 32 ayat (2) pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mendebit rekening giro rupiah Bank di \nBank Indonesia sebesar dana sebagaimana dimaksud \ndalam Pasal 32 ayat (1) pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia mengkredit rekening giro rupiah Bank di \nBank Indonesia sebesar dana sebagaimana dimaksud \ndalam Pasal 32 ayat (2) pada tanggal penyelesaian \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam hal pada tanggal penyelesaian Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia Bank \ntidak memiliki dana rupiah yang cukup untuk memenuhi \nkewajiban penyelesaian transaksi sebagaimana dimaksud \ndalam Pasal 32 ayat (1), Bank tetap harus menyediakan \ndana yang cukup di rekening giro rupiah Bank di Bank \nIndonesia pada Hari Kerja berikutnya.    \n(2) \nBank Indonesia mendebit rekening giro rupiah Bank di \nBank Indonesia sebesar dana sebagaimana dimaksud \npada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal pada tanggal penyelesaian Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia Bank \ntidak memiliki dana rupiah yang cukup untuk memenuhi \nkewajiban penyelesaian transaksi sebagaimana dimaksud \ndalam Pasal 32 ayat (1), Bank tetap harus menyediakan \ndana yang cukup di rekening giro rupiah Bank di Bank \nIndonesia pada Hari Kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia mendebit rekening giro rupiah Bank di \nBank Indonesia sebesar dana sebagaimana dimaksud \npada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PESERTA, UNDERLYING TRANSAKSI, KONTRAK LINDUNG NILAI, DAN PELAKSANAAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam hal tanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date) ditetapkan sebagai hari libur oleh \npemerintah maka kurs acuan non USD/IDR yang \ndiumumkan oleh Bank Indonesia pada tanggal tertentu \nyang ditetapkan oleh Bank Indonesia (fixing date) \nsebagaimana dimaksud dalam Pasal 32 menggunakan \nkurs acuan non USD/IDR yang diumumkan oleh Bank \nIndonesia pada 1 (satu) Hari Kerja sebelumnya. \n(2) \nDalam hal tanggal penyelesaian transaksi ditetapkan \nsebagai hari libur oleh pemerintah maka tanggal \npelaksanaan penyelesaian Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia dilakukan pada 1 \n(satu) Hari Kerja berikutnya. \n \n \n \n\n\n \nBAB IV  \nPERPANJANGAN TRANSAKSI DNDF NON USD/IDR \nLINDUNG NILAI KEPADA BANK INDONESIA \n \nBagian Kesatu \nPengajuan Perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal tanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date) ditetapkan sebagai hari libur oleh \npemerintah maka kurs acuan non USD/IDR yang \ndiumumkan oleh Bank Indonesia pada tanggal tertentu \nyang ditetapkan oleh Bank Indonesia (fixing date) \nsebagaimana dimaksud dalam Pasal 32 menggunakan \nkurs acuan non USD/IDR yang diumumkan oleh Bank \nIndonesia pada 1 (satu) Hari Kerja sebelumnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal tanggal penyelesaian transaksi ditetapkan \nsebagai hari libur oleh pemerintah maka tanggal \npelaksanaan penyelesaian Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia dilakukan pada 1 \n(satu) Hari Kerja berikutnya. \n \n \n \n\n\n \nBAB IV  \nPERPANJANGAN TRANSAKSI DNDF NON USD/IDR \nLINDUNG NILAI KEPADA BANK INDONESIA \n \nBagian Kesatu \nPengajuan Perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank dapat mengajukan perpanjangan Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia. \n(2) \nDalam pengajuan perpanjangan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (1), Bank harus \nmemenuhi persyaratan sebagaimana dimaksud dalam \nPasal 6.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat mengajukan perpanjangan Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam pengajuan perpanjangan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (1), Bank harus \nmemenuhi persyaratan sebagaimana dimaksud dalam \nPasal 6."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Jangka waktu perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia sesuai dengan informasi \nyang dimuat dalam pengumuman rencana Transaksi DNDF \nNon \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 20 huruf l atau sesuai \ndengan sisa jangka waktu Kontrak Lindung Nilai, dengan \njangka waktu perpanjangan transaksi paling singkat 1 (satu) \nbulan dan paling lama 12 (dua belas) bulan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Jangka waktu perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia sesuai dengan informasi \nyang dimuat dalam pengumuman rencana Transaksi DNDF \nNon \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 20 huruf l atau sesuai \ndengan sisa jangka waktu Kontrak Lindung Nilai, dengan \njangka waktu perpanjangan transaksi paling singkat 1 (satu) \nbulan dan paling lama 12 (dua belas) bulan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Selain persyaratan sebagaimana dimaksud dalam Pasal 36 ayat \n(2), Bank yang mengajukan perpanjangan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia harus \nmemenuhi ketentuan: \na. \nmenggunakan Kontrak Lindung Nilai yang masih berlaku; \nb. \nnilai \nnominal \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia paling \nbanyak sebesar nilai nominal transaksi awal; dan \nc. \ntidak ditemukan pelanggaran atas ketentuan sebagaimana \ndimaksud dalam Pasal 7, Pasal 8, dan Pasal 11,  selama \nperiode Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(2)",
+          "teks": ", Bank yang mengajukan perpanjangan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia harus \nmemenuhi ketentuan: \na. \nmenggunakan Kontrak Lindung Nilai yang masih berlaku; \nb. \nnilai \nnominal \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia paling \nbanyak sebesar nilai nominal transaksi awal; dan \nc. \ntidak ditemukan pelanggaran atas ketentuan sebagaimana \ndimaksud dalam Pasal 7, Pasal 8, dan Pasal 11,  selama \nperiode Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank \nmengajukan \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia pada tanggal \ntertentu yang ditetapkan oleh Bank Indonesia (fixing date) dari \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia awal yang akan jatuh waktu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nmengajukan \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia pada tanggal \ntertentu yang ditetapkan oleh Bank Indonesia (fixing date) dari \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia awal yang akan jatuh waktu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nPengajuan perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia dapat dilakukan \npada window time perpanjangan transaksi yang dimuat \ndalam pengumuman rencana Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 20 huruf l. \n\n\n \n(2) \nDalam hal Bank mengajukan perpanjangan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \ndengan jangka waktu selain jangka waktu perpanjangan \ntransaksi yang diumumkan sebagaimana dimaksud dalam \nPasal 20 huruf l, pengajuan perpanjangan transaksi \ndilakukan paling lambat 30 (tiga puluh) menit setelah \nwindow \ntime \npengajuan \nperpanjangan \ntransaksi \nsebagaimana dimaksud pada ayat (1) dibuka. \n(3) \nBank yang mengajukan perpanjangan Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia harus \nmemenuhi tata cara pengajuan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 21, Pasal 25 dan \nPasal 26.   \n(4) \nPengajuan perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia memuat informasi:  \na. \nnama Bank; \nb. \nnomor referensi Kontrak Lindung Nilai; \nc. \ntanggal perpanjangan transaksi; \nd. \njenis valuta asing; \ne. \njangka waktu perpanjangan transaksi; \nf. \nnilai nominal perpanjangan transaksi; \ng. \ntanggal spot; \nh. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date);  \ni. \ntanggal penyelesaian perpanjangan transaksi; \nj. \npremi; \nk. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan/atau \nl. \ninformasi lainnya apabila diperlukan.   \n(5) \nBank dapat melakukan koreksi atas informasi pengajuan \nperpanjangan Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia dengan memenuhi ketentuan \nsebagaimana dimaksud dalam Pasal 24.  \n(6) \nContoh pengajuan perpanjangan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia tercantum \ndalam Lampiran II.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengajuan perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia dapat dilakukan \npada window time perpanjangan transaksi yang dimuat \ndalam pengumuman rencana Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 20 huruf l."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank mengajukan perpanjangan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \ndengan jangka waktu selain jangka waktu perpanjangan \ntransaksi yang diumumkan sebagaimana dimaksud dalam \nPasal 20 huruf l, pengajuan perpanjangan transaksi \ndilakukan paling lambat 30 (tiga puluh) menit setelah \nwindow \ntime \npengajuan \nperpanjangan \ntransaksi \nsebagaimana dimaksud pada ayat (1) dibuka."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank yang mengajukan perpanjangan Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia harus \nmemenuhi tata cara pengajuan Transaksi DNDF Non \nUSD/IDR \nLindung \nNilai \nkepada \nBank \nIndonesia \nsebagaimana dimaksud dalam Pasal 21, Pasal 25 dan \nPasal 26."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengajuan perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia memuat informasi:  \na. \nnama Bank; \nb. \nnomor referensi Kontrak Lindung Nilai; \nc. \ntanggal perpanjangan transaksi; \nd. \njenis valuta asing; \ne. \njangka waktu perpanjangan transaksi; \nf. \nnilai nominal perpanjangan transaksi; \ng. \ntanggal spot; \nh. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date);  \ni. \ntanggal penyelesaian perpanjangan transaksi; \nj. \npremi; \nk. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan/atau \nl. \ninformasi lainnya apabila diperlukan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dapat melakukan koreksi atas informasi pengajuan \nperpanjangan Transaksi DNDF Non USD/IDR Lindung \nNilai kepada Bank Indonesia dengan memenuhi ketentuan \nsebagaimana dimaksud dalam Pasal 24."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Contoh pengajuan perpanjangan Transaksi DNDF Non \nUSD/IDR Lindung Nilai kepada Bank Indonesia tercantum \ndalam Lampiran II."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Bank Indonesia menyampaikan informasi kepada Bank terkait \npremi untuk perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia melalui sarana dealing \nsystem dan/atau sarana transaksi lainnya yang ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia menyampaikan informasi kepada Bank terkait \npremi untuk perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia melalui sarana dealing \nsystem dan/atau sarana transaksi lainnya yang ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nDalam hal Bank mengajukan perpanjangan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nyang tidak memenuhi tata cara pengajuan perpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia sebagaimana dimaksud dalam Pasal 38 \ndan Pasal 40 ayat (4) serta tidak melakukan koreksi \nsebagaimana dimaksud dalam Pasal 40 ayat (5), Bank \nIndonesia \ntidak \nmelanjutkan \nproses \nperpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia. \n\n\n \n(2) \nBank Indonesia dapat menolak pengajuan perpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia berdasarkan pertimbangan tertentu. \n \nBagian Kedua \nKonfirmasi Perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank mengajukan perpanjangan Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank Indonesia \nyang tidak memenuhi tata cara pengajuan perpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia sebagaimana dimaksud dalam Pasal 38 \ndan Pasal 40 ayat (4) serta tidak melakukan koreksi \nsebagaimana dimaksud dalam Pasal 40 ayat (5), Bank \nIndonesia \ntidak \nmelanjutkan \nproses \nperpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat menolak pengajuan perpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia berdasarkan pertimbangan tertentu. \n \nBagian Kedua \nKonfirmasi Perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "(1) \nBank melakukan konfirmasi atas pengajuan perpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia melalui sarana dealing system dan/atau \nsarana transaksi lainnya yang ditetapkan oleh Bank \nIndonesia.  \n(2) \nKonfirmasi sebagaimana dimaksud ayat (1) memuat \ninformasi:  \na. \ntanggal transaksi; \nb. \njenis valuta asing; \nc. \njangka waktu transaksi; \nd. \nnilai nominal transaksi; \ne. \ntanggal spot; \nf. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \ng. \ntanggal penyelesaian transaksi; \nh. \nkurs domestic non deliverable forward;  \ni. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan \nj. \ninformasi lainnya apabila diperlukan. \n \nBagian Ketiga \nPenyelesaian Perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank melakukan konfirmasi atas pengajuan perpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia melalui sarana dealing system dan/atau \nsarana transaksi lainnya yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Konfirmasi sebagaimana dimaksud ayat (1) memuat \ninformasi:  \na. \ntanggal transaksi; \nb. \njenis valuta asing; \nc. \njangka waktu transaksi; \nd. \nnilai nominal transaksi; \ne. \ntanggal spot; \nf. \ntanggal tertentu yang ditetapkan oleh Bank Indonesia \n(fixing date); \ng. \ntanggal penyelesaian transaksi; \nh. \nkurs domestic non deliverable forward;  \ni. \nnomor rekening giro rupiah Bank di Bank Indonesia; \ndan \nj. \ninformasi lainnya apabila diperlukan. \n \nBagian Ketiga \nPenyelesaian Perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Berdasarkan \nkonfirmasi \natas \npengajuan \nperpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia sebagaimana dimaksud dalam Pasal 43 maka pada \ntanggal transaksi dan pada tanggal tertentu yang ditetapkan \nBank Indonesia (fixing date): \na. \nBank Indonesia menyampaikan kepada Bank konfirmasi \npenyelesaian \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia melalui \nSociety \nfor \nWorldwide \nInterbank \nFinancial \nTelecommunication (SWIFT) Message Type (MT) 300 \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia; dan \nb. \nBank menyampaikan kepada Bank Indonesia konfirmasi \npenyelesaian \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia melalui \nSociety \nfor \nWorldwide \nInterbank \nFinancial \nTelecommunication (SWIFT) Message Type (MT) 300 \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berdasarkan \nkonfirmasi \natas \npengajuan \nperpanjangan \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia sebagaimana dimaksud dalam Pasal 43 maka pada \ntanggal transaksi dan pada tanggal tertentu yang ditetapkan \nBank Indonesia (fixing date): \na. \nBank Indonesia menyampaikan kepada Bank konfirmasi \npenyelesaian \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia melalui \nSociety \nfor \nWorldwide \nInterbank \nFinancial \nTelecommunication (SWIFT) Message Type (MT) 300 \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia; dan \nb. \nBank menyampaikan kepada Bank Indonesia konfirmasi \npenyelesaian \nperpanjangan \nTransaksi \nDNDF \nNon \nUSD/IDR Lindung Nilai kepada Bank Indonesia melalui \nSociety \nfor \nWorldwide \nInterbank \nFinancial \nTelecommunication (SWIFT) Message Type (MT) 300 \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA",
+      "teks_lengkap": "Penyelesaian perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia mengacu pada ketentuan \nsebagaimana dimaksud dalam Pasal 30 sampai dengan Pasal \n35.  \n \nBAB V  \nTATA CARA PENGENAAN SANKSI \n \nBagian Kesatu \nSanksi terkait Kewajiban Underlying Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyelesaian perpanjangan Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia mengacu pada ketentuan \nsebagaimana dimaksud dalam Pasal 30 sampai dengan Pasal \n35.  \n \nBAB V  \nTATA CARA PENGENAAN SANKSI \n \nBagian Kesatu \nSanksi terkait Kewajiban Underlying Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nBank yang melanggar ketentuan mengenai kewajiban \nUnderlying Transaksi dalam Peraturan Bank Indonesia \nmengenai Transaksi Domestic Non Deliverable Forward \nNon Dolar Amerika Serikat terhadap Rupiah Lindung Nilai \nkepada Bank Indonesia dikenai sanksi administratif. \n(2) \nSanksi administratif sebagaimana dimaksud pada ayat (1) \nberupa: \na. \nteguran tertulis; dan \nb. \nkewajiban membayar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang melanggar ketentuan mengenai kewajiban \nUnderlying Transaksi dalam Peraturan Bank Indonesia \nmengenai Transaksi Domestic Non Deliverable Forward \nNon Dolar Amerika Serikat terhadap Rupiah Lindung Nilai \nkepada Bank Indonesia dikenai sanksi administratif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sanksi administratif sebagaimana dimaksud pada ayat (1) \nberupa: \na. \nteguran tertulis; dan \nb. \nkewajiban membayar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nPengenaan sanksi administratif berupa teguran tertulis \nsebagaimana dimaksud dalam Pasal 46 ayat (2) huruf a \ndisampaikan \nmelalui \nsurat \nkepada \nBank \ndengan \ntembusan kepada Otoritas Jasa Keuangan. \n(2) \nPenyelesaian sanksi administratif berupa kewajiban \nmembayar sebagaimana dimaksud dalam Pasal 46 ayat (2) \nhuruf b dilakukan melalui pendebitan rekening giro rupiah \nBank di Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan sanksi administratif berupa teguran tertulis \nsebagaimana dimaksud dalam Pasal 46 ayat (2) huruf a \ndisampaikan \nmelalui \nsurat \nkepada \nBank \ndengan \ntembusan kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelesaian sanksi administratif berupa kewajiban \nmembayar sebagaimana dimaksud dalam Pasal 46 ayat (2) \nhuruf b dilakukan melalui pendebitan rekening giro rupiah \nBank di Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "Kurs yang digunakan dalam perhitungan sanksi administratif \nberupa kewajiban membayar sebagaimana dimaksud dalam \nPasal 46 ayat (2) huruf b merupakan kurs acuan Non USD/IDR \nyang diumumkan oleh Bank Indonesia pada 1 (satu) Hari Kerja \nsebelum tanggal Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia. \n \nBagian Kedua \nSanksi terkait Penyelesaian Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kurs yang digunakan dalam perhitungan sanksi administratif \nberupa kewajiban membayar sebagaimana dimaksud dalam \nPasal 46 ayat (2) huruf b merupakan kurs acuan Non USD/IDR \nyang diumumkan oleh Bank Indonesia pada 1 (satu) Hari Kerja \nsebelum tanggal Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia. \n \nBagian Kedua \nSanksi terkait Penyelesaian Transaksi DNDF Non USD/IDR \nLindung Nilai kepada Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nBank yang melanggar ketentuan mengenai kewajiban \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dalam Peraturan Bank Indonesia \nmengenai Transaksi Domestic Non Deliverable Forward \nNon Dolar Amerika Serikat terhadap Rupiah Lindung Nilai \nkepada Bank Indonesia dikenai sanksi administratif. \n(2) \nSanksi administratif sebagaimana dimaksud pada ayat (1) \nberupa: \na. \nteguran tertulis;  \nb. \nkewajiban membayar; dan \n\n\n \n \n \nc. \npenghentian sementara untuk mengikuti Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang melanggar ketentuan mengenai kewajiban \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia dalam Peraturan Bank Indonesia \nmengenai Transaksi Domestic Non Deliverable Forward \nNon Dolar Amerika Serikat terhadap Rupiah Lindung Nilai \nkepada Bank Indonesia dikenai sanksi administratif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sanksi administratif sebagaimana dimaksud pada ayat (1) \nberupa: \na. \nteguran tertulis;  \nb. \nkewajiban membayar; dan \n\n\n \n \n \nc. \npenghentian sementara untuk mengikuti Transaksi \nDNDF Non USD/IDR Lindung Nilai kepada Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nPengenaan sanksi administratif berupa teguran tertulis \nsebagaimana dimaksud dalam Pasal 49 ayat (2) huruf a \ndisampaikan \nmelalui \nsurat \nkepada \nBank \ndengan \ntembusan kepada Otoritas Jasa Keuangan. \n(2) \nPenyelesaian sanksi administratif berupa kewajiban \nmembayar sebagaimana dimaksud dalam Pasal 49 ayat (2) \nhuruf b dilakukan melalui pendebitan rekening giro rupiah \nBank di Bank Indonesia paling lama 1 (satu) Hari Kerja \nsetelah tanggal penyelesaian transaksi. \n(3) \nSanksi \npenghentian \nsementara \nuntuk \nmengikuti \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia sebagaimana dimaksud dalam Pasal 49 \nayat (2) huruf c diberlakukan mulai 1 (satu) Hari Kerja \nsetelah diperoleh informasi tidak dipenuhinya kewajiban \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia sampai dengan akhir hari saat \nBank memenuhi kewajiban penyelesaian Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia. \n \nBAB VI  \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan sanksi administratif berupa teguran tertulis \nsebagaimana dimaksud dalam Pasal 49 ayat (2) huruf a \ndisampaikan \nmelalui \nsurat \nkepada \nBank \ndengan \ntembusan kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelesaian sanksi administratif berupa kewajiban \nmembayar sebagaimana dimaksud dalam Pasal 49 ayat (2) \nhuruf b dilakukan melalui pendebitan rekening giro rupiah \nBank di Bank Indonesia paling lama 1 (satu) Hari Kerja \nsetelah tanggal penyelesaian transaksi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sanksi \npenghentian \nsementara \nuntuk \nmengikuti \nTransaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank Indonesia sebagaimana dimaksud dalam Pasal 49 \nayat (2) huruf c diberlakukan mulai 1 (satu) Hari Kerja \nsetelah diperoleh informasi tidak dipenuhinya kewajiban \npenyelesaian Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia sampai dengan akhir hari saat \nBank memenuhi kewajiban penyelesaian Transaksi DNDF \nNon USD/IDR Lindung Nilai kepada Bank Indonesia. \n \nBAB VI  \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \n \nDitetapkan di  \npada tanggal 27 Juni 2023 \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \nTTD \n \n DESTRY DAMAYANTI \n\n\n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2023 \nTENTANG \nPERATURAN PELAKSANAAN TRANSAKSI DOMESTIC NON DELIVERABLE \nFORWARD NON DOLAR AMERIKA SERIKAT TERHADAP RUPIAH LINDUNG \nNILAI KEPADA BANK INDONESIA \n \nI. \nUMUM \nBank Indonesia memiliki tujuan salah satunya untuk mencapai \nstabilitas nilai rupiah yang salah satunya tercermin dari kestabilan nilai \ntukar rupiah. Kondisi keuangan global yang semakin terintegrasi \nmemudahkan pergerakan arus modal sehingga memengaruhi pergerakan \nnilai tukar rupiah. Untuk mewujudkan tujuan Bank Indonesia mencapai \nstabilitas nilai rupiah perlu didukung dengan upaya meminimalisasi risiko \npergerakan nilai tukar rupiah. \nBank Indonesia mengembangkan instrumen Lindung Nilai yang \nsejalan dengan upaya membangun pasar uang dan pasar valuta asing yang \nmodern dan maju, untuk mendukung efektivitas kebijakan moneter, \nstabilitas \nsistem \nkeuangan, \ndan \nsinergi \npembiayaan \nekonomi. \nPengembangan instrumen Lindung Nilai berupa Transaksi DNDF Non-\nUSD/IDR Lindung Nilai kepada Bank Indonesia diharapkan dapat turut \nmendukung diversifikasi penggunaan mata uang (currency diversification) \ndan pengembangan pasar uang dan pasar valuta asing domestik, termasuk \nmendorong transaksi bilateral dengan mata uang lokal.   \nBerdasarkan hal tersebut, Bank Indonesia menerbitkan Peraturan \nAnggota Dewan Gubernur tentang Peraturan Pelaksanaan Transaksi \nDomestic Non Deliverable Forward Non Dolar Amerika Serikat terhadap \nRupiah Lindung Nilai kepada Bank Indonesia. \n \nII.  PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \n \nDitetapkan di  \npada tanggal 27 Juni 2023 \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \nTTD \n \n DESTRY DAMAYANTI \n\n\n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2023 \nTENTANG \nPERATURAN PELAKSANAAN TRANSAKSI DOMESTIC NON DELIVERABLE \nFORWARD NON DOLAR AMERIKA SERIKAT TERHADAP RUPIAH LINDUNG \nNILAI KEPADA BANK INDONESIA \n \nI. \nUMUM \nBank Indonesia memiliki tujuan salah satunya untuk mencapai \nstabilitas nilai rupiah yang salah satunya tercermin dari kestabilan nilai \ntukar rupiah. Kondisi keuangan global yang semakin terintegrasi \nmemudahkan pergerakan arus modal sehingga memengaruhi pergerakan \nnilai tukar rupiah. Untuk mewujudkan tujuan Bank Indonesia mencapai \nstabilitas nilai rupiah perlu didukung dengan upaya meminimalisasi risiko \npergerakan nilai tukar rupiah. \nBank Indonesia mengembangkan instrumen Lindung Nilai yang \nsejalan dengan upaya membangun pasar uang dan pasar valuta asing yang \nmodern dan maju, untuk mendukung efektivitas kebijakan moneter, \nstabilitas \nsistem \nkeuangan, \ndan \nsinergi \npembiayaan \nekonomi. \nPengembangan instrumen Lindung Nilai berupa Transaksi DNDF Non-\nUSD/IDR Lindung Nilai kepada Bank Indonesia diharapkan dapat turut \nmendukung diversifikasi penggunaan mata uang (currency diversification) \ndan pengembangan pasar uang dan pasar valuta asing domestik, termasuk \nmendorong transaksi bilateral dengan mata uang lokal.   \nBerdasarkan hal tersebut, Bank Indonesia menerbitkan Peraturan \nAnggota Dewan Gubernur tentang Peraturan Pelaksanaan Transaksi \nDomestic Non Deliverable Forward Non Dolar Amerika Serikat terhadap \nRupiah Lindung Nilai kepada Bank Indonesia. \n \nII.  PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “tanggal spot” adalah 2 (dua) Hari Kerja \nsetelah tanggal Kontrak Lindung Nilai.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “tanggal spot” adalah 2 (dua) Hari Kerja \nsetelah tanggal Kontrak Lindung Nilai."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “tanggal spot” adalah 2 (dua) Hari Kerja \nsetelah tanggal Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia. \nAyat (3)  \nCukup jelas. \nAyat (4)  \nPenghentian transaksi sebelum jatuh waktu biasa dikenal dengan \nistilah early termination.  \nAyat (5)  \nPenyelesaian secara netting dilakukan dengan memperhitungkan \nselisih antara kurs domestic non deliverable forward dan kurs \nacuan yang berlaku pada tanggal tertentu yang ditetapkan Bank \nIndonesia (fixing date).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “tanggal spot” adalah 2 (dua) Hari Kerja \nsetelah tanggal Transaksi DNDF Non USD/IDR Lindung Nilai \nkepada Bank Indonesia. \nAyat (3)  \nCukup jelas. \nAyat (4)  \nPenghentian transaksi sebelum jatuh waktu biasa dikenal dengan \nistilah early termination.  \nAyat (5)  \nPenyelesaian secara netting dilakukan dengan memperhitungkan \nselisih antara kurs domestic non deliverable forward dan kurs \nacuan yang berlaku pada tanggal tertentu yang ditetapkan Bank \nIndonesia (fixing date)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nIzin sebagai peserta operasi moneter dalam valuta asing dari Bank \nIndonesia sebagaimana diatur dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \nHuruf b \nPeringkat komposit tingkat kesehatan bank sebagaimana diatur \ndalam ketentuan Peraturan Otoritas Jasa Keuangan mengenai \npenilaian tingkat kesehatan bank umum. \nHuruf c \nSanksi penghentian sementara untuk mengikuti kegiatan operasi \nmoneter oleh Bank Indonesia sebagaimana diatur dalam \nketentuan Peraturan Bank Indonesia mengenai operasi moneter. \nHuruf d \nSanksi pembatasan keikutsertaan dalam operasi moneter oleh \nBank Indonesia sebagaimana diatur dalam ketentuan Peraturan \nBank Indonesia mengenai operasi moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nIzin sebagai peserta operasi moneter dalam valuta asing dari Bank \nIndonesia sebagaimana diatur dalam ketentuan Peraturan Bank \nIndonesia mengenai operasi moneter. \nHuruf b \nPeringkat komposit tingkat kesehatan bank sebagaimana diatur \ndalam ketentuan Peraturan Otoritas Jasa Keuangan mengenai \npenilaian tingkat kesehatan bank umum. \nHuruf c \nSanksi penghentian sementara untuk mengikuti kegiatan operasi \nmoneter oleh Bank Indonesia sebagaimana diatur dalam \nketentuan Peraturan Bank Indonesia mengenai operasi moneter. \nHuruf d \nSanksi pembatasan keikutsertaan dalam operasi moneter oleh \nBank Indonesia sebagaimana diatur dalam ketentuan Peraturan \nBank Indonesia mengenai operasi moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nTermasuk dalam kegiatan transaksi modal (capital account) \nantara lain transfer modal. \n\n\nHuruf d \nKredit atau pembiayaan dari Bank kepada penduduk untuk \ntujuan perdagangan dan investasi termasuk penerbitan \nsurat berharga dalam valuta asing. \nYang dimaksud dengan “penduduk” adalah orang, badan \nhukum, atau badan \nlainnya, yang berdomisili atau \nberencana berdomisili di Indonesia sekurang- kurangnya 1 \n(satu) tahun, termasuk perwakilan dan staf diplomatik \nRepublik Indonesia di luar negeri. \nHuruf e \nPerdagangan barang dan jasa di dalam negeri merupakan \ntransaksi yang dikecualikan dari kewajiban penggunaan \nrupiah sebagaimana dimaksud dalam ketentuan Peraturan \nBank Indonesia mengenai kewajiban penggunaan rupiah di \nwilayah Negara Kesatuan Republik Indonesia. \nHuruf f  \nCukup jelas.  \nAyat (4) \nHuruf a \nCukup jelas. \nHuruf b \nTermasuk dalam penempatan dana antara lain berupa \ntabungan, giro, deposito, dan sertifikat deposito (negotiable \ncertificate of deposit). \nHuruf c \nCukup jelas. \nHuruf d \nYang dimaksud dengan “aset kripto” adalah aset tidak \nberwujud yang berbentuk aset digital, termasuk yang \nmenggunakan kriptografi, jaringan peer to peer, dan buku \nbesar yang terdistribusi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nTermasuk dalam kegiatan transaksi modal (capital account) \nantara lain transfer modal. \n\n\nHuruf d \nKredit atau pembiayaan dari Bank kepada penduduk untuk \ntujuan perdagangan dan investasi termasuk penerbitan \nsurat berharga dalam valuta asing. \nYang dimaksud dengan “penduduk” adalah orang, badan \nhukum, atau badan \nlainnya, yang berdomisili atau \nberencana berdomisili di Indonesia sekurang- kurangnya 1 \n(satu) tahun, termasuk perwakilan dan staf diplomatik \nRepublik Indonesia di luar negeri. \nHuruf e \nPerdagangan barang dan jasa di dalam negeri merupakan \ntransaksi yang dikecualikan dari kewajiban penggunaan \nrupiah sebagaimana dimaksud dalam ketentuan Peraturan \nBank Indonesia mengenai kewajiban penggunaan rupiah di \nwilayah Negara Kesatuan Republik Indonesia. \nHuruf f  \nCukup jelas.  \nAyat (4) \nHuruf a \nCukup jelas. \nHuruf b \nTermasuk dalam penempatan dana antara lain berupa \ntabungan, giro, deposito, dan sertifikat deposito (negotiable \ncertificate of deposit). \nHuruf c \nCukup jelas. \nHuruf d \nYang dimaksud dengan “aset kripto” adalah aset tidak \nberwujud yang berbentuk aset digital, termasuk yang \nmenggunakan kriptografi, jaringan peer to peer, dan buku \nbesar yang terdistribusi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “bersifat final” adalah dokumen \nUnderlying Transaksi menunjukkan waktu dan/atau jumlah \npenerimaan atau kebutuhan valuta asing yang tidak berubah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “bersifat final” adalah dokumen \nUnderlying Transaksi menunjukkan waktu dan/atau jumlah \npenerimaan atau kebutuhan valuta asing yang tidak berubah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c  \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f  \nCukup jelas. \nHuruf g \nTanggal tertentu yang ditetapkan oleh Bank Indonesia (fixing date) \nadalah 2 (dua) Hari Kerja sebelum tanggal jatuh waktu.  \nHuruf h  \nCukup jelas. \nHuruf i \nYang dimaksud dengan “kurs acuan” antara lain kurs acuan yang \ndigunakan pada saat tanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date) dan kurs acuan yang digunakan pada \ntanggal transaksi. \nHuruf j \nCukup jelas. \nHuruf k \nCukup jelas. \nHuruf l \nCukup jelas. \nHuruf m \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c  \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f  \nCukup jelas. \nHuruf g \nTanggal tertentu yang ditetapkan oleh Bank Indonesia (fixing date) \nadalah 2 (dua) Hari Kerja sebelum tanggal jatuh waktu.  \nHuruf h  \nCukup jelas. \nHuruf i \nYang dimaksud dengan “kurs acuan” antara lain kurs acuan yang \ndigunakan pada saat tanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date) dan kurs acuan yang digunakan pada \ntanggal transaksi. \nHuruf j \nCukup jelas. \nHuruf k \nCukup jelas. \nHuruf l \nCukup jelas. \nHuruf m \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Nomor \nreferensi \nKontrak \nLindung \nNilai \ndigunakan \nuntuk \nmengidentifikasi Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank \nIndonesia \ndan \ndokumen \nUnderlying \nTransaksi \nyang \nditatausahakan oleh Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Nomor \nreferensi \nKontrak \nLindung \nNilai \ndigunakan \nuntuk \nmengidentifikasi Transaksi DNDF Non USD/IDR Lindung Nilai kepada \nBank \nIndonesia \ndan \ndokumen \nUnderlying \nTransaksi \nyang \nditatausahakan oleh Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “pertimbangan tertentu” antara lain \ninformasi terkait perkembangan kondisi Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “pertimbangan tertentu” antara lain \ninformasi terkait perkembangan kondisi Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.   \n\n\nLAMPIRAN I \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2023 \nTANGGAL 27 JUNI 2023  \nTENTANG    \nPERATURAN \nPELAKSANAAN \nTRANSAKSI \nDOMESTIC NON DELIVERABLE FORWARD \nNON DOLAR AMERIKA SERIKAT TERHADAP \nRUPIAH LINDUNG NILAI KEPADA BANK \nINDONESIA \n \n \nJENIS DOKUMEN UNDERLYING TRANSAKSI TERKAIT DENGAN KEGIATAN \nEKONOMI  \n \n \nI. \nTRANSAKSI BERJALAN (CURRENT ACCOUNT) \n1. \nBukti kegiatan ekspor impor barang dan/atau jasa Indonesia, \nmencakup: \na. \nPemberitahuan Impor Barang;  \nb. \nPemberitahuan Ekspor Barang; \nc. \nletter of credit dan perubahan letter of credit; dan  \nd. \nwesel. \n2. \nFaktur pajak (tax invoice) atas perdagangan barang dan jasa dan/atau \nkegiatan investasi. \n3. \nDokumen repatriasi dana untuk kepentingan pengampunan pajak.  \n4. \nBukti penghasilan investasi dalam rupiah yang diperoleh antara lain \nberupa dividen dan kupon/bunga.  \n5. \nDokumen yang memberikan informasi kebutuhan rupiah dan/atau \nvaluta asing untuk tujuan remitansi atas penghasilan yang diterima \npekerja asing ke penerima di negara asalnya. \n6. \nDokumen tagihan atau kewajiban pembayaran, mencakup: \na. \ninvoice atau commercial invoice dengan syarat paling lama 3 (tiga) \nbulan sejak tanggal jatuh waktu;  \nb. \nnota debet (debit note) yang informasi didalamnya dapat \ndiverifikasi oleh Bank; \nc. \nkontrak penjualan (sales contract) yang mencantumkan masa \nberlaku dan nominal kontrak; \nd. \nlist of invoices yang didukung oleh pernyataan dari penduduk atau \nbukan penduduk mengenai: \n1) \nkeabsahan list of invoices; \n2) \ntanggung jawab penduduk atau bukan penduduk untuk \nmengadministrasikan invoice dimaksud; dan \n3) \nkomitmen untuk menyediakan invoice apabila dibutuhkan \noleh Bank. \n7. \nKontrak jasa konsultan antara penduduk dan bukan penduduk. \n8. \nPerjanjian royalti (royalty agreement) antara penduduk dan bukan \npenduduk yang disertai dengan dokumen pendukung lainnya. \n9. \nRisalah Rapat Umum Pemegang Saham dan/atau tambahan dokumen \nlain yang menggambarkan besarnya nominal rupiah dan/atau valuta \nasing dari dividen yang diterima. \n10. Dokumen Underlying Transaksi terkait transaksi berjalan lainnya yang \nbersifat final. \n \n \n\n\n \nII. \nTRANSAKSI FINANSIAL (FINANCIAL ACCOUNT) \n1. \nBukti konfirmasi penjualan atau pembelian investasi portofolio, antara \nlain berupa trade confirmation yang disampaikan melalui Society for \nWorldwide Interbank Financial Telecommunication message atau \ntrading platform ticket. \n2. \nPerjanjian pembelian atau penjualan investasi instrumen keuangan \noleh bukan penduduk di Indonesia atau oleh penduduk di luar \nIndonesia.  \n3. \nBukti kepemilikan investasi portofolio yang diterbitkan oleh pihak yang \nberwenang. Bank meminta bukti kepemilikan investasi portofolio \n(portfolio investment) kepada pelaku transaksi di pasar valuta asing \npaling sedikit 1 (satu) kali dalam 1 (satu) bulan.  \n4. \nBukti kepemilikan saham pada investasi langsung antara lain berupa \nanggaran dasar perusahaan. Bank meminta bukti kepemilikan \ninvestasi langsung (direct investment) kepada pelaku transaksi di pasar \nvaluta asing paling sedikit 1 (satu) kali dalam 1 (satu) bulan.  \n5. \nDokumen kredit atau pembiayaan, berupa: \na. \nsurat perjanjian kredit atau pembiayaan (loan agreement) atau \ndokumen terkait lainnya yang menunjukkan jadwal dan jumlah \npembayaran; dan \nb. \nbukti pencairan kredit, antara lain mutasi rekening dari kreditur \nkepada debitur, perintah transfer dana, seperti MT 103 dan \nformulir permohonan pengiriman uang yang telah divalidasi. \n6. \nDokumen Underlying Transaksi terkait transaksi finansial lainnya \nyang bersifat final. \n \nIII. TRANSAKSI MODAL (CAPITAL ACCOUNT) \n1. \nAkta jual beli dan bukti kepemilikan bukan penduduk atas aset terkait \ndengan penjualan aset di Indonesia.  \n2. \nDokumen Underlying Transaksi terkait transaksi modal lainnya yang \nbersifat final. \n \nIV. UNDERLYING TRANSAKSI LAIN YANG DITETAPKAN BANK INDONESIA \n1. \nDokumen Underlying Transaksi untuk penyelenggara kegiatan usaha \npenukaran valuta asing bukan bank berupa jumlah neto jual kegiatan \nusaha penukaran valuta asing bukan bank kepada nasabah selama \nperiode tertentu.   \n2. \nBukti \nkeikutsertaan \nnasabah \ndalam \ntender \ndan \npenyediaan \njaminan/bank garansi dalam mata uang asing. \n3. \nSurat permintaan penyetoran dana atas transaksi tertentu yang \ndipersyaratkan oleh otoritas yang berwenang. \n4. \nPerdagangan \ndalam \nnegeri \nyang \nmenggunakan \nsurat \nkredit \nberdokumen dalam negeri. \n5. \nDokumen yang terkait dengan pembagian waris seperti bukti \npenjualan harta waris dan bukti hubungan keluarga dengan pemberi \nwaris (seperti kartu keluarga) terkait dengan ahli waris yang telah \nmenetap di luar negeri sebagai permanent resident (yang didukung \ndengan dokumen terkait). \n6. \nBeban operasional dalam mata uang rupiah dari representative office \nbadan hukum asing atau lembaga asing lainnya antara lain berupa \npembayaran gaji dan tagihan rekening utilities (telepon, listrik, gas, air) \nbaik berupa dokumen final. \n \n \n \n\n\n \n7. \nDokumen Underlying Transaksi lainnya yang bersifat final. \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \nTTD \n \nDESTRY DAMAYANTI \n \n\n\nLAMPIRAN II \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR  3  TAHUN 2023 \nTANGGAL 27 JUNI 2023 \nTENTANG    \nPERATURAN \nPELAKSANAAN \nTRANSAKSI \nDOMESTIC NON DELIVERABLE FORWARD \nNON DOLAR AMERIKA SERIKAT TERHADAP \nRUPIAH LINDUNG NILAI KEPADA BANK \nINDONESIA \n \n \nCONTOH PENGAJUAN KONTRAK LINDUNG NILAI DAN TRANSAKSI DNDF NON \nUSD/IDR LINDUNG NILAI KEPADA BANK INDONESIA, SERTA PENGAJUAN \nPERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA \nBANK INDONESIA \n \n \nA. \nCONTOH PENGAJUAN KONTRAK LINDUNG NILAI DAN TRANSAKSI \nDNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA \n \nBERSAMA INI BANK “ABC” MENYATAKAN BAHWA TRANSAKSI DOMESTIC \nNON \nDELIVERABLE \nFORWARD \nNON \nDOLAR \nAMERIKA \nSERIKAT \nTERHADAP RUPIAH LINDUNG NILAI KEPADA BANK INDONESIA TELAH \nMEMENUHI SELURUH PERSYARATAN YANG DIATUR DALAM KETENTUAN \nBANK INDONESIA MENGENAI TRANSAKSI DOMESTIC NON DELIVERABLE \nFORWARD NON DOLAR AMERIKA SERIKAT TERHADAP RUPIAH LINDUNG \nNILAI KEPADA BANK INDONESIA. \n \nKONTRAK LINDUNG NILAI \na. NAMA BANK “ABC” \nb. JANGKA WAKTU 1 TAHUN \nc. UNDERLYING TRANSAKSI: \nPERJANJIAN KREDIT LUAR NEGERI NASABAH PT “XYZ” DENGAN \nBANK “EFG”  \nd. JANGKA WAKTU 2 TAHUN NOMOR DOKUMEN: XYZ1234562023 \ne. VALUTA ASING JPY/IDR \nf. NILAI NOMINAL JPY 1.000 JUTA \n \nTRANSAKSI DOMESTIC NON DELIVERABLE FORWARD NON DOLAR \nAMERIKA SERIKAT TERHADAP RUPIAH LINDUNG NILAI KEPADA BANK \nINDONESIA \na. \nNAMA BANK “ABC” \nb. \nTANGGAL TRANSAKSI 3 JULI 2023 \nc. \nVALUTA ASING JPY/IDR \nd. \nJANGKA WAKTU TRANSAKSI 1 BULAN \ne. \nNILAI NOMINAL TRANSAKSI JPY100 JUTA \nf. \nUNDERLYING TRANSAKSI: \nKONTRAK LINDUNG NILAI JANGKA WAKTU 1 TAHUN \n \nPERJANJIAN PEMBIAYAAN LUAR NEGERI PT “XYZ” DENGAN BANK \n“EFG”  \ng. \nJANGKA WAKTU 2 TAHUN NILAI NOMINAL JPY 1.000 JUTA NOMOR \nDOKUMEN: XYZ1234562023 \nh. \nTANGGAL SPOT 5 JULI 2023 \ni. \nTANGGAL FIXING DATE 3 AGUSTUS 2023 \n\n\n \nB. \nCONTOH PENGAJUAN PERPANJANGAN TRANSAKSI \nDNDF NON \nUSD/IDR LINDUNG NILAI KEPADA BANK INDONESIA \na. \nNAMA BANK “ABC” \nb. \nNOMOR REFERENSI KONTRAK BIRU123456XXXX1234567899  \nc. \nTANGGAL TRANSAKSI 3 AGUSTUS 2023 \nd. \nVALUTA ASING JPY/IDR \ne. \nJANGKA WAKTU TRANSAKSI 1 BULAN \nf. \nNILAI NOMINAL TRANSAKSI JPY 10 JUTA \ng. \nTANGGAL SPOT 7 AGUSTUS 2023 \nh. \nTANGGAL FIXING DATE 5 SEPTEMBER 2023 \ni. \nTANGGAL SETELMEN 7 SEPTEMBER 2023 \nj. \nPREMI 180/JPY 100 \nk. \nMY IDR TO RTGS “ABC” \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \nDESTRY DAMAYANTI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas.   \n\n\nLAMPIRAN I \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2023 \nTANGGAL 27 JUNI 2023  \nTENTANG    \nPERATURAN \nPELAKSANAAN \nTRANSAKSI \nDOMESTIC NON DELIVERABLE FORWARD \nNON DOLAR AMERIKA SERIKAT TERHADAP \nRUPIAH LINDUNG NILAI KEPADA BANK \nINDONESIA \n \n \nJENIS DOKUMEN UNDERLYING TRANSAKSI TERKAIT DENGAN KEGIATAN \nEKONOMI  \n \n \nI. \nTRANSAKSI BERJALAN (CURRENT ACCOUNT) \n1. \nBukti kegiatan ekspor impor barang dan/atau jasa Indonesia, \nmencakup: \na. \nPemberitahuan Impor Barang;  \nb. \nPemberitahuan Ekspor Barang; \nc. \nletter of credit dan perubahan letter of credit; dan  \nd. \nwesel. \n2. \nFaktur pajak (tax invoice) atas perdagangan barang dan jasa dan/atau \nkegiatan investasi. \n3. \nDokumen repatriasi dana untuk kepentingan pengampunan pajak.  \n4. \nBukti penghasilan investasi dalam rupiah yang diperoleh antara lain \nberupa dividen dan kupon/bunga.  \n5. \nDokumen yang memberikan informasi kebutuhan rupiah dan/atau \nvaluta asing untuk tujuan remitansi atas penghasilan yang diterima \npekerja asing ke penerima di negara asalnya. \n6. \nDokumen tagihan atau kewajiban pembayaran, mencakup: \na. \ninvoice atau commercial invoice dengan syarat paling lama 3 (tiga) \nbulan sejak tanggal jatuh waktu;  \nb. \nnota debet (debit note) yang informasi didalamnya dapat \ndiverifikasi oleh Bank; \nc. \nkontrak penjualan (sales contract) yang mencantumkan masa \nberlaku dan nominal kontrak; \nd. \nlist of invoices yang didukung oleh pernyataan dari penduduk atau \nbukan penduduk mengenai: \n1) \nkeabsahan list of invoices; \n2) \ntanggung jawab penduduk atau bukan penduduk untuk \nmengadministrasikan invoice dimaksud; dan \n3) \nkomitmen untuk menyediakan invoice apabila dibutuhkan \noleh Bank. \n7. \nKontrak jasa konsultan antara penduduk dan bukan penduduk. \n8. \nPerjanjian royalti (royalty agreement) antara penduduk dan bukan \npenduduk yang disertai dengan dokumen pendukung lainnya. \n9. \nRisalah Rapat Umum Pemegang Saham dan/atau tambahan dokumen \nlain yang menggambarkan besarnya nominal rupiah dan/atau valuta \nasing dari dividen yang diterima. \n10. Dokumen Underlying Transaksi terkait transaksi berjalan lainnya yang \nbersifat final. \n \n \n\n\n \nII. \nTRANSAKSI FINANSIAL (FINANCIAL ACCOUNT) \n1. \nBukti konfirmasi penjualan atau pembelian investasi portofolio, antara \nlain berupa trade confirmation yang disampaikan melalui Society for \nWorldwide Interbank Financial Telecommunication message atau \ntrading platform ticket. \n2. \nPerjanjian pembelian atau penjualan investasi instrumen keuangan \noleh bukan penduduk di Indonesia atau oleh penduduk di luar \nIndonesia.  \n3. \nBukti kepemilikan investasi portofolio yang diterbitkan oleh pihak yang \nberwenang. Bank meminta bukti kepemilikan investasi portofolio \n(portfolio investment) kepada pelaku transaksi di pasar valuta asing \npaling sedikit 1 (satu) kali dalam 1 (satu) bulan.  \n4. \nBukti kepemilikan saham pada investasi langsung antara lain berupa \nanggaran dasar perusahaan. Bank meminta bukti kepemilikan \ninvestasi langsung (direct investment) kepada pelaku transaksi di pasar \nvaluta asing paling sedikit 1 (satu) kali dalam 1 (satu) bulan.  \n5. \nDokumen kredit atau pembiayaan, berupa: \na. \nsurat perjanjian kredit atau pembiayaan (loan agreement) atau \ndokumen terkait lainnya yang menunjukkan jadwal dan jumlah \npembayaran; dan \nb. \nbukti pencairan kredit, antara lain mutasi rekening dari kreditur \nkepada debitur, perintah transfer dana, seperti MT 103 dan \nformulir permohonan pengiriman uang yang telah divalidasi. \n6. \nDokumen Underlying Transaksi terkait transaksi finansial lainnya \nyang bersifat final. \n \nIII. TRANSAKSI MODAL (CAPITAL ACCOUNT) \n1. \nAkta jual beli dan bukti kepemilikan bukan penduduk atas aset terkait \ndengan penjualan aset di Indonesia.  \n2. \nDokumen Underlying Transaksi terkait transaksi modal lainnya yang \nbersifat final. \n \nIV. UNDERLYING TRANSAKSI LAIN YANG DITETAPKAN BANK INDONESIA \n1. \nDokumen Underlying Transaksi untuk penyelenggara kegiatan usaha \npenukaran valuta asing bukan bank berupa jumlah neto jual kegiatan \nusaha penukaran valuta asing bukan bank kepada nasabah selama \nperiode tertentu.   \n2. \nBukti \nkeikutsertaan \nnasabah \ndalam \ntender \ndan \npenyediaan \njaminan/bank garansi dalam mata uang asing. \n3. \nSurat permintaan penyetoran dana atas transaksi tertentu yang \ndipersyaratkan oleh otoritas yang berwenang. \n4. \nPerdagangan \ndalam \nnegeri \nyang \nmenggunakan \nsurat \nkredit \nberdokumen dalam negeri. \n5. \nDokumen yang terkait dengan pembagian waris seperti bukti \npenjualan harta waris dan bukti hubungan keluarga dengan pemberi \nwaris (seperti kartu keluarga) terkait dengan ahli waris yang telah \nmenetap di luar negeri sebagai permanent resident (yang didukung \ndengan dokumen terkait). \n6. \nBeban operasional dalam mata uang rupiah dari representative office \nbadan hukum asing atau lembaga asing lainnya antara lain berupa \npembayaran gaji dan tagihan rekening utilities (telepon, listrik, gas, air) \nbaik berupa dokumen final. \n \n \n \n\n\n \n7. \nDokumen Underlying Transaksi lainnya yang bersifat final. \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \nTTD \n \nDESTRY DAMAYANTI \n \n\n\nLAMPIRAN II \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR  3  TAHUN 2023 \nTANGGAL 27 JUNI 2023 \nTENTANG    \nPERATURAN \nPELAKSANAAN \nTRANSAKSI \nDOMESTIC NON DELIVERABLE FORWARD \nNON DOLAR AMERIKA SERIKAT TERHADAP \nRUPIAH LINDUNG NILAI KEPADA BANK \nINDONESIA \n \n \nCONTOH PENGAJUAN KONTRAK LINDUNG NILAI DAN TRANSAKSI DNDF NON \nUSD/IDR LINDUNG NILAI KEPADA BANK INDONESIA, SERTA PENGAJUAN \nPERPANJANGAN TRANSAKSI DNDF NON USD/IDR LINDUNG NILAI KEPADA \nBANK INDONESIA \n \n \nA. \nCONTOH PENGAJUAN KONTRAK LINDUNG NILAI DAN TRANSAKSI \nDNDF NON USD/IDR LINDUNG NILAI KEPADA BANK INDONESIA \n \nBERSAMA INI BANK “ABC” MENYATAKAN BAHWA TRANSAKSI DOMESTIC \nNON \nDELIVERABLE \nFORWARD \nNON \nDOLAR \nAMERIKA \nSERIKAT \nTERHADAP RUPIAH LINDUNG NILAI KEPADA BANK INDONESIA TELAH \nMEMENUHI SELURUH PERSYARATAN YANG DIATUR DALAM KETENTUAN \nBANK INDONESIA MENGENAI TRANSAKSI DOMESTIC NON DELIVERABLE \nFORWARD NON DOLAR AMERIKA SERIKAT TERHADAP RUPIAH LINDUNG \nNILAI KEPADA BANK INDONESIA. \n \nKONTRAK LINDUNG NILAI \na. NAMA BANK “ABC” \nb. JANGKA WAKTU 1 TAHUN \nc. UNDERLYING TRANSAKSI: \nPERJANJIAN KREDIT LUAR NEGERI NASABAH PT “XYZ” DENGAN \nBANK “EFG”  \nd. JANGKA WAKTU 2 TAHUN NOMOR DOKUMEN: XYZ1234562023 \ne. VALUTA ASING JPY/IDR \nf. NILAI NOMINAL JPY 1.000 JUTA \n \nTRANSAKSI DOMESTIC NON DELIVERABLE FORWARD NON DOLAR \nAMERIKA SERIKAT TERHADAP RUPIAH LINDUNG NILAI KEPADA BANK \nINDONESIA \na. \nNAMA BANK “ABC” \nb. \nTANGGAL TRANSAKSI 3 JULI 2023 \nc. \nVALUTA ASING JPY/IDR \nd. \nJANGKA WAKTU TRANSAKSI 1 BULAN \ne. \nNILAI NOMINAL TRANSAKSI JPY100 JUTA \nf. \nUNDERLYING TRANSAKSI: \nKONTRAK LINDUNG NILAI JANGKA WAKTU 1 TAHUN \n \nPERJANJIAN PEMBIAYAAN LUAR NEGERI PT “XYZ” DENGAN BANK \n“EFG”  \ng. \nJANGKA WAKTU 2 TAHUN NILAI NOMINAL JPY 1.000 JUTA NOMOR \nDOKUMEN: XYZ1234562023 \nh. \nTANGGAL SPOT 5 JULI 2023 \ni. \nTANGGAL FIXING DATE 3 AGUSTUS 2023 \n\n\n \nB. \nCONTOH PENGAJUAN PERPANJANGAN TRANSAKSI \nDNDF NON \nUSD/IDR LINDUNG NILAI KEPADA BANK INDONESIA \na. \nNAMA BANK “ABC” \nb. \nNOMOR REFERENSI KONTRAK BIRU123456XXXX1234567899  \nc. \nTANGGAL TRANSAKSI 3 AGUSTUS 2023 \nd. \nVALUTA ASING JPY/IDR \ne. \nJANGKA WAKTU TRANSAKSI 1 BULAN \nf. \nNILAI NOMINAL TRANSAKSI JPY 10 JUTA \ng. \nTANGGAL SPOT 7 AGUSTUS 2023 \nh. \nTANGGAL FIXING DATE 5 SEPTEMBER 2023 \ni. \nTANGGAL SETELMEN 7 SEPTEMBER 2023 \nj. \nPREMI 180/JPY 100 \nk. \nMY IDR TO RTGS “ABC” \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \nDESTRY DAMAYANTI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 103,
+  "total_ayat": 152,
+  "total_karakter": 47228,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

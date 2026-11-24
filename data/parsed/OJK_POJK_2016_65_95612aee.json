@@ -1,0 +1,1115 @@
+{
+  "doc_id": "OJK_POJK_2016_65_95612aee",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "65",
+  "tahun": "2016",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 65/POJK.03/2016 tentang Penerapan Manajemen Risiko Bagi Bank Umum Syariah dan Unit Usaha Syariah",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "23 Desember 2016",
+  "tanggal_berlaku": "diundangkan (28 Desember 2016)",
+  "diundangkan_pada": "28 Desember 2016",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA PENETAPAN LIMIT RISIKO"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA SISTEM INFORMASI MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum Syariah dan Unit Usaha \nSyariah. \n2. \nBank Umum Syariah yang selanjutnya disebut BUS \nadalah Bank Umum Syariah sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah. \n3. \nUnit Usaha Syariah yang selanjutnya disebut UUS adalah \nUnit Usaha Syariah sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan Syariah. \n \n\n\n \n4. \nBank Umum Konvensional yang selanjutnya disebut BUK \nadalah Bank Umum Konvensional sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah, yang memiliki Unit Usaha Syariah. \n5. \nRisiko adalah potensi kerugian akibat terjadinya suatu \nperistiwa tertentu. \n6. \nManajemen Risiko adalah serangkaian metodologi dan \nprosedur \nyang \ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, memantau, dan mengendalikan Risiko yang \ntimbul dari seluruh kegiatan usaha Bank. \n7. \nRisiko Kredit adalah Risiko akibat kegagalan nasabah atau \npihak lain dalam memenuhi kewajiban kepada Bank \nsesuai dengan perjanjian yang disepakati, termasuk Risiko \nKredit akibat kegagalan debitur, Risiko konsentrasi kredit, \ncounterparty credit risk, dan settlement risk. \n8. \nRisiko Pasar adalah Risiko pada posisi neraca dan \nrekening administratif akibat perubahan harga pasar, \nantara lain Risiko berupa perubahan nilai dari aset yang \ndapat diperdagangkan atau disewakan. \n9. \nRisiko Likuiditas adalah Risiko akibat ketidakmampuan \nBank untuk memenuhi kewajiban yang jatuh tempo dari \nsumber pendanaan arus kas dan/atau dari aset likuid \nberkualitas \ntinggi \nyang \ndapat \ndiagunkan, \ntanpa \nmengganggu aktivitas dan kondisi keuangan Bank. \n10. Risiko \nOperasional \nadalah \nRisiko \nkerugian \nyang \ndiakibatkan oleh proses internal yang kurang memadai, \nkegagalan proses internal, kesalahan manusia, kegagalan \nsistem, \ndan/atau \nadanya \nkejadian \neksternal \nyang \nmempengaruhi operasional Bank.  \n11. Risiko Hukum adalah Risiko akibat tuntutan hukum \ndan/atau kelemahan aspek yuridis. \n12. Risiko Reputasi adalah Risiko akibat menurunnya tingkat \nkepercayaan pemangku kepentingan (stakeholder) yang \nbersumber dari persepsi negatif terhadap Bank. \n \n \n \n\n\n \n13. Risiko Stratejik adalah Risiko akibat ketidaktepatan dalam \npengambilan dan/atau pelaksanaan suatu keputusan \nstratejik serta kegagalan dalam mengantisipasi perubahan \nlingkungan bisnis. \n14. Risiko Kepatuhan adalah Risiko akibat Bank tidak \nmematuhi dan/atau tidak melaksanakan peraturan \nperundang-undangan dan ketentuan yang berlaku serta \nPrinsip Syariah. \n15. Risiko Imbal Hasil (Rate of Return Risk) adalah Risiko \nakibat perubahan tingkat imbal hasil yang dibayarkan \nBank kepada nasabah, karena terjadi perubahan tingkat \nimbal hasil yang diterima Bank dari penyaluran dana, \nyang dapat mempengaruhi perilaku nasabah dana pihak \nketiga Bank. \n16. Risiko Investasi (Equity Investment Risk) adalah Risiko \nakibat Bank ikut menanggung kerugian usaha nasabah \nyang dibiayai dalam pembiayaan berbasis bagi hasil baik \nyang menggunakan metode net revenue sharing maupun \nyang menggunakan metode profit and loss sharing. \n17. Direksi adalah Direksi sebagaimana dimaksud dalam \nUndang-Undang Nomor 40 Tahun 2007 tentang Perseroan \nTerbatas. \n18. Dewan Komisaris adalah Dewan Komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas. \n19. Dewan Pengawas Syariah adalah dewan yang bertugas \nmemberikan nasihat dan saran kepada Direksi serta \nmengawasi kegiatan Bank agar sesuai dengan Prinsip \nSyariah. \n20. Perusahaan Anak adalah badan hukum atau perusahaan \nyang dimiliki dan/atau dikendalikan oleh BUS secara \nlangsung maupun tidak langsung, baik di dalam maupun \ndi luar negeri yang melakukan kegiatan usaha di bidang \nkeuangan, yang terdiri dari: \na. \nperusahaan subsidiari (subsidiary company) yaitu \nPerusahaan Anak dengan kepemilikan BUS lebih dari \n50% (lima puluh persen); \n\n\n \nb. \nperusahaan \npartisipasi \n(participation \ncompany) \nadalah Perusahaan Anak dengan kepemilikan BUS \n50% (lima puluh persen) atau kurang, namun BUS \nmemiliki pengendalian terhadap perusahaan; \nc. \nperusahaan dengan kepemilikan BUS lebih dari 20% \n(dua puluh persen) sampai dengan 50% (lima puluh \npersen) yang memenuhi persyaratan yaitu: \n1) \nkepemilikan BUS dan para pihak lainnya pada \nPerusahaan Anak adalah masing-masing sama \nbesar; dan \n2) \nmasing-masing \npemilik \nmelakukan \npengendalian \nsecara \nbersama \nterhadap \nPerusahaan Anak; \nd. \nEntitas lain yang berdasarkan Standar Akuntansi \nKeuangan harus dikonsolidasikan. \n \nBAB II \nRUANG LINGKUP MANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum Syariah dan Unit Usaha \nSyariah. \n2. \nBank Umum Syariah yang selanjutnya disebut BUS \nadalah Bank Umum Syariah sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah. \n3. \nUnit Usaha Syariah yang selanjutnya disebut UUS adalah \nUnit Usaha Syariah sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan Syariah. \n \n\n\n \n4. \nBank Umum Konvensional yang selanjutnya disebut BUK \nadalah Bank Umum Konvensional sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah, yang memiliki Unit Usaha Syariah. \n5. \nRisiko adalah potensi kerugian akibat terjadinya suatu \nperistiwa tertentu. \n6. \nManajemen Risiko adalah serangkaian metodologi dan \nprosedur \nyang \ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, memantau, dan mengendalikan Risiko yang \ntimbul dari seluruh kegiatan usaha Bank. \n7. \nRisiko Kredit adalah Risiko akibat kegagalan nasabah atau \npihak lain dalam memenuhi kewajiban kepada Bank \nsesuai dengan perjanjian yang disepakati, termasuk Risiko \nKredit akibat kegagalan debitur, Risiko konsentrasi kredit, \ncounterparty credit risk, dan settlement risk. \n8. \nRisiko Pasar adalah Risiko pada posisi neraca dan \nrekening administratif akibat perubahan harga pasar, \nantara lain Risiko berupa perubahan nilai dari aset yang \ndapat diperdagangkan atau disewakan. \n9. \nRisiko Likuiditas adalah Risiko akibat ketidakmampuan \nBank untuk memenuhi kewajiban yang jatuh tempo dari \nsumber pendanaan arus kas dan/atau dari aset likuid \nberkualitas \ntinggi \nyang \ndapat \ndiagunkan, \ntanpa \nmengganggu aktivitas dan kondisi keuangan Bank. \n10. Risiko \nOperasional \nadalah \nRisiko \nkerugian \nyang \ndiakibatkan oleh proses internal yang kurang memadai, \nkegagalan proses internal, kesalahan manusia, kegagalan \nsistem, \ndan/atau \nadanya \nkejadian \neksternal \nyang \nmempengaruhi operasional Bank.  \n11. Risiko Hukum adalah Risiko akibat tuntutan hukum \ndan/atau kelemahan aspek yuridis. \n12. Risiko Reputasi adalah Risiko akibat menurunnya tingkat \nkepercayaan pemangku kepentingan (stakeholder) yang \nbersumber dari persepsi negatif terhadap Bank. \n \n \n \n\n\n \n13. Risiko Stratejik adalah Risiko akibat ketidaktepatan dalam \npengambilan dan/atau pelaksanaan suatu keputusan \nstratejik serta kegagalan dalam mengantisipasi perubahan \nlingkungan bisnis. \n14. Risiko Kepatuhan adalah Risiko akibat Bank tidak \nmematuhi dan/atau tidak melaksanakan peraturan \nperundang-undangan dan ketentuan yang berlaku serta \nPrinsip Syariah. \n15. Risiko Imbal Hasil (Rate of Return Risk) adalah Risiko \nakibat perubahan tingkat imbal hasil yang dibayarkan \nBank kepada nasabah, karena terjadi perubahan tingkat \nimbal hasil yang diterima Bank dari penyaluran dana, \nyang dapat mempengaruhi perilaku nasabah dana pihak \nketiga Bank. \n16. Risiko Investasi (Equity Investment Risk) adalah Risiko \nakibat Bank ikut menanggung kerugian usaha nasabah \nyang dibiayai dalam pembiayaan berbasis bagi hasil baik \nyang menggunakan metode net revenue sharing maupun \nyang menggunakan metode profit and loss sharing. \n17. Direksi adalah Direksi sebagaimana dimaksud dalam \nUndang-Undang Nomor 40 Tahun 2007 tentang Perseroan \nTerbatas. \n18. Dewan Komisaris adalah Dewan Komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas. \n19. Dewan Pengawas Syariah adalah dewan yang bertugas \nmemberikan nasihat dan saran kepada Direksi serta \nmengawasi kegiatan Bank agar sesuai dengan Prinsip \nSyariah. \n20. Perusahaan Anak adalah badan hukum atau perusahaan \nyang dimiliki dan/atau dikendalikan oleh BUS secara \nlangsung maupun tidak langsung, baik di dalam maupun \ndi luar negeri yang melakukan kegiatan usaha di bidang \nkeuangan, yang terdiri dari: \na. \nperusahaan subsidiari (subsidiary company) yaitu \nPerusahaan Anak dengan kepemilikan BUS lebih dari \n50% (lima puluh persen); \n\n\n \nb. \nperusahaan \npartisipasi \n(participation \ncompany) \nadalah Perusahaan Anak dengan kepemilikan BUS \n50% (lima puluh persen) atau kurang, namun BUS \nmemiliki pengendalian terhadap perusahaan; \nc. \nperusahaan dengan kepemilikan BUS lebih dari 20% \n(dua puluh persen) sampai dengan 50% (lima puluh \npersen) yang memenuhi persyaratan yaitu: \n1) \nkepemilikan BUS dan para pihak lainnya pada \nPerusahaan Anak adalah masing-masing sama \nbesar; dan \n2) \nmasing-masing \npemilik \nmelakukan \npengendalian \nsecara \nbersama \nterhadap \nPerusahaan Anak; \nd. \nEntitas lain yang berdasarkan Standar Akuntansi \nKeuangan harus dikonsolidasikan. \n \nBAB II \nRUANG LINGKUP MANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib menerapkan Manajemen Risiko secara efektif. \n(2) \nPenerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) untuk BUS dilakukan secara individu \nmaupun konsolidasi dengan Perusahaan Anak. \n(3) \nPenerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) untuk UUS dilakukan terhadap seluruh \nkegiatan usaha UUS, yang merupakan satu kesatuan \ndengan penerapan Manajemen Risiko pada BUK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan Manajemen Risiko secara efektif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) untuk BUS dilakukan secara individu \nmaupun konsolidasi dengan Perusahaan Anak."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) untuk UUS dilakukan terhadap seluruh \nkegiatan usaha UUS, yang merupakan satu kesatuan \ndengan penerapan Manajemen Risiko pada BUK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO",
+      "teks_lengkap": "Penerapan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 2 ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi, Dewan Komisaris, dan Dewan \nPengawas Syariah; \nb. \nkecukupan kebijakan dan prosedur Manajemen Risiko \nserta penetapan limit Risiko; \nc. \nkecukupan proses identifikasi, pengukuran, pemantauan, \n\n\n \ndan \npengendalian \nRisiko \nserta \nsistem \ninformasi \nManajemen Risiko; dan \nd. \nsistem pengendalian intern yang menyeluruh.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 2 ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi, Dewan Komisaris, dan Dewan \nPengawas Syariah; \nb. \nkecukupan kebijakan dan prosedur Manajemen Risiko \nserta penetapan limit Risiko; \nc. \nkecukupan proses identifikasi, pengukuran, pemantauan, \n\n\n \ndan \npengendalian \nRisiko \nserta \nsistem \ninformasi \nManajemen Risiko; dan \nd. \nsistem pengendalian intern yang menyeluruh."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO",
+      "teks_lengkap": "Penerapan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 3 wajib disesuaikan dengan tujuan, kebijakan usaha, \nukuran, dan kompleksitas usaha serta kemampuan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 3 wajib disesuaikan dengan tujuan, kebijakan usaha, \nukuran, dan kompleksitas usaha serta kemampuan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nRisiko sebagaimana dimaksud dalam Pasal 3 mencakup: \na. \nRisiko Kredit; \nb. \nRisiko Pasar; \nc. \nRisiko Likuiditas; \nd. \nRisiko Operasional; \ne. \nRisiko Hukum; \nf. \nRisiko Reputasi; \ng. \nRisiko Stratejik; \nh. \nRisiko Kepatuhan; \ni. \nRisiko Imbal Hasil (Rate of Return Risk); dan \nj. \nRisiko Investasi (Equity Investment Risk). \n(2) \nBank wajib menerapkan Manajemen Risiko untuk jenis \nRisiko sebagaimana dimaksud pada ayat (1).  \n \nBAB III \nPENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN \nDEWAN PENGAWAS SYARIAH \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Risiko sebagaimana dimaksud dalam Pasal 3 mencakup: \na. \nRisiko Kredit; \nb. \nRisiko Pasar; \nc. \nRisiko Likuiditas; \nd. \nRisiko Operasional; \ne. \nRisiko Hukum; \nf. \nRisiko Reputasi; \ng. \nRisiko Stratejik; \nh. \nRisiko Kepatuhan; \ni. \nRisiko Imbal Hasil (Rate of Return Risk); dan \nj. \nRisiko Investasi (Equity Investment Risk)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menerapkan Manajemen Risiko untuk jenis \nRisiko sebagaimana dimaksud pada ayat (1).  \n \nBAB III \nPENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN \nDEWAN PENGAWAS SYARIAH \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "Bank wajib menetapkan wewenang dan tanggung jawab yang \njelas pada setiap jenjang jabatan yang terkait dengan \npenerapan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 2. \n \n\n\n \nBagian Kedua \nWewenang dan Tanggung Jawab Direksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menetapkan wewenang dan tanggung jawab yang \njelas pada setiap jenjang jabatan yang terkait dengan \npenerapan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 2. \n \n\n\n \nBagian Kedua \nWewenang dan Tanggung Jawab Direksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "(1) \nWewenang dan tanggung jawab sebagaimana dimaksud \ndalam Pasal 6 bagi Direksi paling sedikit mencakup: \na. \nmenyusun kebijakan dan strategi Manajemen Risiko \nsecara tertulis dan komprehensif; \nb. \nbertanggung jawab atas pelaksanaan kebijakan \nManajemen Risiko dan eksposur Risiko yang diambil \noleh Bank secara keseluruhan; \nc. \nmengevaluasi dan memutuskan transaksi yang \nmemerlukan persetujuan Direksi; \nd. \nmengembangkan budaya Manajemen Risiko pada \nseluruh jenjang organisasi; \ne. \nmemastikan peningkatan kompetensi sumber daya \nmanusia yang terkait dengan Manajemen Risiko; \nf. \nmemastikan bahwa fungsi Manajemen Risiko telah \nberoperasi secara independen; dan \ng. \nmelaksanakan kaji ulang secara berkala untuk \nmemastikan: \n1. \nkeakuratan metodologi penilaian Risiko; \n2. \nkecukupan \nimplementasi \nsistem \ninformasi \nManajemen Risiko; dan \n3. \nketepatan kebijakan dan prosedur Manajemen \nRisiko serta penetapan limit Risiko. \n(2) \nDalam rangka melaksanakan wewenang dan tanggung \njawab sebagaimana dimaksud pada ayat (1), Direksi harus \nmemiliki pemahaman yang memadai mengenai Risiko \nyang melekat pada seluruh aktivitas fungsional Bank dan \nmampu mengambil tindakan yang diperlukan sesuai \ndengan profil Risiko Bank. \n(3) \nWewenang dan tanggung jawab Direksi sebagaimana \ndimaksud pada ayat (1) untuk UUS dilakukan oleh \nDirektur UUS. \n \n \n\n\n \nBagian Ketiga \nWewenang dan Tanggung Jawab Dewan Komisaris",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Wewenang dan tanggung jawab sebagaimana dimaksud \ndalam Pasal 6 bagi Direksi paling sedikit mencakup: \na. \nmenyusun kebijakan dan strategi Manajemen Risiko \nsecara tertulis dan komprehensif; \nb. \nbertanggung jawab atas pelaksanaan kebijakan \nManajemen Risiko dan eksposur Risiko yang diambil \noleh Bank secara keseluruhan; \nc. \nmengevaluasi dan memutuskan transaksi yang \nmemerlukan persetujuan Direksi; \nd. \nmengembangkan budaya Manajemen Risiko pada \nseluruh jenjang organisasi; \ne. \nmemastikan peningkatan kompetensi sumber daya \nmanusia yang terkait dengan Manajemen Risiko; \nf. \nmemastikan bahwa fungsi Manajemen Risiko telah \nberoperasi secara independen; dan \ng. \nmelaksanakan kaji ulang secara berkala untuk \nmemastikan: \n1. \nkeakuratan metodologi penilaian Risiko; \n2. \nkecukupan \nimplementasi \nsistem \ninformasi \nManajemen Risiko; dan \n3. \nketepatan kebijakan dan prosedur Manajemen \nRisiko serta penetapan limit Risiko."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka melaksanakan wewenang dan tanggung \njawab sebagaimana dimaksud pada ayat (1), Direksi harus \nmemiliki pemahaman yang memadai mengenai Risiko \nyang melekat pada seluruh aktivitas fungsional Bank dan \nmampu mengambil tindakan yang diperlukan sesuai \ndengan profil Risiko Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud pada ayat (1) untuk UUS dilakukan oleh \nDirektur UUS. \n \n \n\n\n \nBagian Ketiga \nWewenang dan Tanggung Jawab Dewan Komisaris"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "Wewenang dan tanggung jawab sebagaimana dimaksud dalam \nPasal 6 bagi Dewan Komisaris paling sedikit mencakup: \na. \nmenyetujui dan mengevaluasi kebijakan Manajemen \nRisiko; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko sebagaimana \ndimaksud dalam huruf a. \n \nBagian Keempat \nWewenang dan Tanggung Jawab Dewan Pengawas Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab sebagaimana dimaksud dalam \nPasal 6 bagi Dewan Komisaris paling sedikit mencakup: \na. \nmenyetujui dan mengevaluasi kebijakan Manajemen \nRisiko; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko sebagaimana \ndimaksud dalam huruf a. \n \nBagian Keempat \nWewenang dan Tanggung Jawab Dewan Pengawas Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENGAWASAN AKTIF DIREKSI, DEWAN KOMISARIS, DAN DEWAN PENGAWAS SYARIAH",
+      "teks_lengkap": "Wewenang dan tanggung jawab sebagaimana dimaksud dalam \nPasal 6 bagi Dewan Pengawas Syariah paling sedikit mencakup: \na. \nmengevaluasi kebijakan Manajemen Risiko yang terkait \ndengan pemenuhan Prinsip Syariah; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko yang terkait \ndengan \npemenuhan \nPrinsip \nSyariah \nsebagaimana \ndimaksud dalam huruf a. \n \nBAB IV \nKEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA \nPENETAPAN LIMIT RISIKO \n \nBagian Kesatu \nKebijakan Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab sebagaimana dimaksud dalam \nPasal 6 bagi Dewan Pengawas Syariah paling sedikit mencakup: \na. \nmengevaluasi kebijakan Manajemen Risiko yang terkait \ndengan pemenuhan Prinsip Syariah; dan \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan kebijakan Manajemen Risiko yang terkait \ndengan \npemenuhan \nPrinsip \nSyariah \nsebagaimana \ndimaksud dalam huruf a. \n \nBAB IV \nKEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA \nPENETAPAN LIMIT RISIKO \n \nBagian Kesatu \nKebijakan Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA PENETAPAN LIMIT RISIKO",
+      "teks_lengkap": "Kebijakan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 3 huruf b paling sedikit memuat: \na. \npenetapan Risiko yang terkait dengan produk dan \ntransaksi perbankan; \n\n\n \nb. \npenetapan penggunaan metode pengukuran dan sistem \ninformasi Manajemen Risiko; \nc. \npenentuan limit dan penetapan toleransi Risiko; \nd. \npenetapan penilaian peringkat Risiko; \ne. \npenyusunan rencana darurat (contingency plan) dalam \nkondisi terburuk (worst case scenario); dan \nf. \npenetapan sistem pengendalian intern dalam penerapan \nManajemen Risiko. \n \nBagian Kedua \nProsedur Manajemen Risiko dan Penetapan Limit Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan Manajemen Risiko sebagaimana dimaksud dalam \nPasal 3 huruf b paling sedikit memuat: \na. \npenetapan Risiko yang terkait dengan produk dan \ntransaksi perbankan; \n\n\n \nb. \npenetapan penggunaan metode pengukuran dan sistem \ninformasi Manajemen Risiko; \nc. \npenentuan limit dan penetapan toleransi Risiko; \nd. \npenetapan penilaian peringkat Risiko; \ne. \npenyusunan rencana darurat (contingency plan) dalam \nkondisi terburuk (worst case scenario); dan \nf. \npenetapan sistem pengendalian intern dalam penerapan \nManajemen Risiko. \n \nBagian Kedua \nProsedur Manajemen Risiko dan Penetapan Limit Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR MANAJEMEN RISIKO SERTA PENETAPAN LIMIT RISIKO",
+      "teks_lengkap": "(1) \nProsedur Manajemen Risiko dan penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 3 huruf b wajib \ndisesuaikan dengan tingkat Risiko yang akan diambil (risk \nappetite) terhadap Risiko Bank. \n(2) \nProsedur Manajemen Risiko dan penetapan limit Risiko \nsebagaimana dimaksud pada ayat (1) paling sedikit \nmemuat: \na. \nakuntabilitas dan jenjang delegasi wewenang yang \njelas; \nb. \npelaksanaan \nkaji \nulang \nterhadap \nprosedur \nManajemen Risiko dan penetapan limit Risiko secara \nberkala; dan \nc. \ndokumentasi \nprosedur \nManajemen \nRisiko \ndan \npenetapan limit Risiko secara memadai. \n(3) \nPenetapan limit Risiko sebagaimana dimaksud pada  \nayat (2) wajib mencakup: \na. \nlimit secara keseluruhan; \nb. \nlimit per jenis Risiko; dan \nc. \nlimit per aktivitas fungsional tertentu yang memiliki \neksposur Risiko. \n \n \n \n \n\n\n \nBAB V \nPROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN \nPENGENDALIAN RISIKO SERTA SISTEM INFORMASI \nMANAJEMEN RISIKO \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Prosedur Manajemen Risiko dan penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 3 huruf b wajib \ndisesuaikan dengan tingkat Risiko yang akan diambil (risk \nappetite) terhadap Risiko Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Prosedur Manajemen Risiko dan penetapan limit Risiko \nsebagaimana dimaksud pada ayat (1) paling sedikit \nmemuat: \na. \nakuntabilitas dan jenjang delegasi wewenang yang \njelas; \nb. \npelaksanaan \nkaji \nulang \nterhadap \nprosedur \nManajemen Risiko dan penetapan limit Risiko secara \nberkala; dan \nc. \ndokumentasi \nprosedur \nManajemen \nRisiko \ndan \npenetapan limit Risiko secara memadai."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan limit Risiko sebagaimana dimaksud pada  \nayat (2) wajib mencakup: \na. \nlimit secara keseluruhan; \nb. \nlimit per jenis Risiko; dan \nc. \nlimit per aktivitas fungsional tertentu yang memiliki \neksposur Risiko. \n \n \n \n \n\n\n \nBAB V \nPROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN \nPENGENDALIAN RISIKO SERTA SISTEM INFORMASI \nMANAJEMEN RISIKO \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA SISTEM INFORMASI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib melakukan proses identifikasi, pengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud dalam Pasal 3 huruf c terhadap faktor-faktor \nRisiko (risk factors) yang bersifat material. \n(2) \nPelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh: \na. \nsistem informasi manajemen yang tepat waktu; dan \nb. \nlaporan yang akurat dan informatif mengenai kondisi \nkeuangan, kinerja aktivitas fungsional, dan eksposur \nRisiko Bank. \n \nBagian Kedua \nProses Identifikasi, Pengukuran, Pemantauan, dan \nPengendalian Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan proses identifikasi, pengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud dalam Pasal 3 huruf c terhadap faktor-faktor \nRisiko (risk factors) yang bersifat material."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian Risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh: \na. \nsistem informasi manajemen yang tepat waktu; dan \nb. \nlaporan yang akurat dan informatif mengenai kondisi \nkeuangan, kinerja aktivitas fungsional, dan eksposur \nRisiko Bank. \n \nBagian Kedua \nProses Identifikasi, Pengukuran, Pemantauan, dan \nPengendalian Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA SISTEM INFORMASI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nDalam rangka melaksanakan proses identifikasi Risiko, \nBank wajib melakukan analisis paling sedikit terhadap: \na. \nkarakteristik Risiko yang melekat pada Bank; dan \nb. \nRisiko dari produk dan kegiatan usaha Bank. \n(2) \nDalam rangka melaksanakan pengukuran Risiko, Bank \nwajib paling sedikit melakukan: \na. \nevaluasi secara berkala terhadap kesesuaian asumsi, \nsumber data, dan prosedur yang digunakan untuk \nmengukur Risiko; dan \nb. \npenyempurnaan terhadap sistem pengukuran Risiko \ndalam hal terdapat perubahan kegiatan usaha Bank, \n\n\n \nproduk, transaksi, dan faktor Risiko, yang bersifat \nmaterial yang dapat mempengaruhi kondisi keuangan \nBank. \n(3) \nDalam rangka melaksanakan pemantauan Risiko, Bank \nwajib paling sedikit melakukan: \na. \nevaluasi terhadap eksposur Risiko; dan \nb. \npenyempurnaan proses pelaporan dalam hal terdapat \nperubahan kegiatan usaha, produk, transaksi, faktor \nRisiko, teknologi informasi, dan sistem informasi \nManajemen Risiko Bank yang bersifat material. \n(4) \nBank wajib melaksanakan proses pengendalian Risiko \nuntuk \nmengelola \nRisiko \ntertentu \nyang \ndapat \nmembahayakan kelangsungan usaha Bank. \n(5) \nPelaksanaan proses pengendalian Risiko sebagaimana \ndimaksud pada ayat (4) harus sesuai dengan Prinsip \nSyariah. \n \nBagian Ketiga \nSistem Informasi Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka melaksanakan proses identifikasi Risiko, \nBank wajib melakukan analisis paling sedikit terhadap: \na. \nkarakteristik Risiko yang melekat pada Bank; dan \nb. \nRisiko dari produk dan kegiatan usaha Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka melaksanakan pengukuran Risiko, Bank \nwajib paling sedikit melakukan: \na. \nevaluasi secara berkala terhadap kesesuaian asumsi, \nsumber data, dan prosedur yang digunakan untuk \nmengukur Risiko; dan \nb. \npenyempurnaan terhadap sistem pengukuran Risiko \ndalam hal terdapat perubahan kegiatan usaha Bank, \n\n\n \nproduk, transaksi, dan faktor Risiko, yang bersifat \nmaterial yang dapat mempengaruhi kondisi keuangan \nBank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam rangka melaksanakan pemantauan Risiko, Bank \nwajib paling sedikit melakukan: \na. \nevaluasi terhadap eksposur Risiko; dan \nb. \npenyempurnaan proses pelaporan dalam hal terdapat \nperubahan kegiatan usaha, produk, transaksi, faktor \nRisiko, teknologi informasi, dan sistem informasi \nManajemen Risiko Bank yang bersifat material."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank wajib melaksanakan proses pengendalian Risiko \nuntuk \nmengelola \nRisiko \ntertentu \nyang \ndapat \nmembahayakan kelangsungan usaha Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pelaksanaan proses pengendalian Risiko sebagaimana \ndimaksud pada ayat (4) harus sesuai dengan Prinsip \nSyariah. \n \nBagian Ketiga \nSistem Informasi Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, DAN PENGENDALIAN RISIKO SERTA SISTEM INFORMASI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nSistem \ninformasi \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 3 huruf c, paling sedikit mencakup \nlaporan atau informasi mengenai: \na. \neksposur Risiko; \nb. \nkepatuhan \nterhadap \nkebijakan \ndan \nprosedur \nManajemen Risiko serta penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 10 dan Pasal 11; \ndan \nc. \nrealisasi \npelaksanaan \nManajemen \nRisiko \ndibandingkan dengan target yang ditetapkan. \n(2) \nLaporan atau informasi yang dihasilkan dari sistem \ninformasi Manajemen Risiko sebagaimana dimaksud pada \nayat (1) wajib disampaikan secara rutin kepada Direksi. \n \n \n \n\n\n \n(3) \nSistem \ninformasi \nManajemen \nRisiko \nsebagaimana \ndimaksud pada ayat (1) untuk UUS dapat menggunakan \nteknologi sistem informasi yang digunakan dalam sistem \ninformasi Manajemen Risiko BUK. \n \nBAB VI \nSISTEM PENGENDALIAN INTERN \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sistem \ninformasi \nManajemen \nRisiko \nsebagaimana \ndimaksud dalam Pasal 3 huruf c, paling sedikit mencakup \nlaporan atau informasi mengenai: \na. \neksposur Risiko; \nb. \nkepatuhan \nterhadap \nkebijakan \ndan \nprosedur \nManajemen Risiko serta penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 10 dan Pasal 11; \ndan \nc. \nrealisasi \npelaksanaan \nManajemen \nRisiko \ndibandingkan dengan target yang ditetapkan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan atau informasi yang dihasilkan dari sistem \ninformasi Manajemen Risiko sebagaimana dimaksud pada \nayat (1) wajib disampaikan secara rutin kepada Direksi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sistem \ninformasi \nManajemen \nRisiko \nsebagaimana \ndimaksud pada ayat (1) untuk UUS dapat menggunakan \nteknologi sistem informasi yang digunakan dalam sistem \ninformasi Manajemen Risiko BUK. \n \nBAB VI \nSISTEM PENGENDALIAN INTERN \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN",
+      "teks_lengkap": "(1) \nBank wajib melaksanakan sistem pengendalian intern \nsecara efektif terhadap pelaksanaan kegiatan usaha dan \noperasional pada seluruh jenjang organisasi Bank. \n(2) \nPelaksanaan sistem pengendalian intern untuk UUS dapat \ndigabung dengan sistem pengendalian intern dari BUK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melaksanakan sistem pengendalian intern \nsecara efektif terhadap pelaksanaan kegiatan usaha dan \noperasional pada seluruh jenjang organisasi Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan sistem pengendalian intern untuk UUS dapat \ndigabung dengan sistem pengendalian intern dari BUK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN",
+      "teks_lengkap": "(1) \nPelaksanaan sistem pengendalian intern sebagaimana \ndimaksud dalam Pasal 15 paling sedikit mampu secara \ntepat waktu mendeteksi kelemahan dan penyimpangan \nyang terjadi. \n(2) \nSistem pengendalian intern sebagaimana dimaksud pada \nayat (1) wajib memastikan: \na. \nkepatuhan terhadap peraturan perundang-undangan \nyang berlaku serta kebijakan atau ketentuan intern \nBank; \nb. \ntersedianya informasi keuangan dan manajemen \nyang lengkap, akurat, tepat guna, dan tepat waktu; \nc. \nefektivitas dan efisiensi dalam kegiatan operasional; \ndan \nd. \nefektivitas budaya Risiko (risk culture) pada organisasi \nBank secara menyeluruh. \n\n\n \n\n\n \nBagian Kedua \nSistem Pengendalian Intern dalam Penerapan  \nManajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan sistem pengendalian intern sebagaimana \ndimaksud dalam Pasal 15 paling sedikit mampu secara \ntepat waktu mendeteksi kelemahan dan penyimpangan \nyang terjadi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sistem pengendalian intern sebagaimana dimaksud pada \nayat (1) wajib memastikan: \na. \nkepatuhan terhadap peraturan perundang-undangan \nyang berlaku serta kebijakan atau ketentuan intern \nBank; \nb. \ntersedianya informasi keuangan dan manajemen \nyang lengkap, akurat, tepat guna, dan tepat waktu; \nc. \nefektivitas dan efisiensi dalam kegiatan operasional; \ndan \nd. \nefektivitas budaya Risiko (risk culture) pada organisasi \nBank secara menyeluruh. \n\n\n \n\n\n \nBagian Kedua \nSistem Pengendalian Intern dalam Penerapan  \nManajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN",
+      "teks_lengkap": "(1) \nSistem pengendalian intern dalam penerapan Manajemen \nRisiko sebagaimana dimaksud dalam Pasal 3 huruf d \npaling sedikit mencakup: \na. \nkesesuaian sistem pengendalian intern dengan jenis \ndan tingkat Risiko yang melekat pada kegiatan usaha \nBank; \nb. \npenetapan wewenang dan tanggung jawab untuk \npemantauan kepatuhan kebijakan dan prosedur \nManajemen Risiko, serta penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 10 dan Pasal 11; \nc. \npenetapan jalur pelaporan dan pemisahan fungsi \nyang jelas dari satuan kerja operasional terhadap \nsatuan \nkerja \nyang \nmelaksanakan \nfungsi \npengendalian; \nd. \nstruktur organisasi yang menggambarkan secara \njelas kegiatan usaha Bank; \ne. \npelaporan keuangan dan kegiatan operasional yang \nakurat dan tepat waktu; \nf. \nkecukupan prosedur untuk memastikan kepatuhan \nBank terhadap peraturan perundang-undangan yang \nberlaku; \ng. \nkaji ulang yang efektif, independen, dan obyektif \nterhadap prosedur penilaian kegiatan operasional \nBank; \nh. \npengujian dan kaji ulang yang memadai terhadap \nsistem informasi Manajemen Risiko; \ni. \ndokumentasi secara lengkap dan memadai terhadap \nprosedur operasional, cakupan dan temuan audit, \nserta tanggapan pengurus Bank berdasarkan hasil \naudit; dan \nj. \nverifikasi dan kaji ulang secara berkala dan \nberkesinambungan \nterhadap \npenanganan \n\n\n \nkelemahan-kelemahan Bank yang bersifat material \ndan tindakan pengurus Bank untuk memperbaiki \npenyimpangan-penyimpangan yang terjadi. \n(2) \nPenilaian terhadap sistem pengendalian intern dalam \npenerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) wajib dilakukan oleh satuan kerja audit \nintern. \n \nBAB VII \nORGANISASI DAN FUNGSI MANAJEMEN RISIKO \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sistem pengendalian intern dalam penerapan Manajemen \nRisiko sebagaimana dimaksud dalam Pasal 3 huruf d \npaling sedikit mencakup: \na. \nkesesuaian sistem pengendalian intern dengan jenis \ndan tingkat Risiko yang melekat pada kegiatan usaha \nBank; \nb. \npenetapan wewenang dan tanggung jawab untuk \npemantauan kepatuhan kebijakan dan prosedur \nManajemen Risiko, serta penetapan limit Risiko \nsebagaimana dimaksud dalam Pasal 10 dan Pasal 11; \nc. \npenetapan jalur pelaporan dan pemisahan fungsi \nyang jelas dari satuan kerja operasional terhadap \nsatuan \nkerja \nyang \nmelaksanakan \nfungsi \npengendalian; \nd. \nstruktur organisasi yang menggambarkan secara \njelas kegiatan usaha Bank; \ne. \npelaporan keuangan dan kegiatan operasional yang \nakurat dan tepat waktu; \nf. \nkecukupan prosedur untuk memastikan kepatuhan \nBank terhadap peraturan perundang-undangan yang \nberlaku; \ng. \nkaji ulang yang efektif, independen, dan obyektif \nterhadap prosedur penilaian kegiatan operasional \nBank; \nh. \npengujian dan kaji ulang yang memadai terhadap \nsistem informasi Manajemen Risiko; \ni. \ndokumentasi secara lengkap dan memadai terhadap \nprosedur operasional, cakupan dan temuan audit, \nserta tanggapan pengurus Bank berdasarkan hasil \naudit; dan \nj. \nverifikasi dan kaji ulang secara berkala dan \nberkesinambungan \nterhadap \npenanganan \n\n\n \nkelemahan-kelemahan Bank yang bersifat material \ndan tindakan pengurus Bank untuk memperbaiki \npenyimpangan-penyimpangan yang terjadi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penilaian terhadap sistem pengendalian intern dalam \npenerapan Manajemen Risiko sebagaimana dimaksud \npada ayat (1) wajib dilakukan oleh satuan kerja audit \nintern. \n \nBAB VII \nORGANISASI DAN FUNGSI MANAJEMEN RISIKO \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nDalam rangka pelaksanaan proses dan sistem Manajemen \nRisiko yang efektif sebagaimana dimaksud dalam Pasal 2, \nBank wajib membentuk: \na. \nkomite Manajemen Risiko; dan \nb. \nsatuan kerja Manajemen Risiko. \n(2) \nKomite Manajemen Risiko dan satuan kerja Manajemen \nRisiko sebagaimana dimaksud pada ayat (1) untuk UUS \ndapat dibentuk secara tersendiri atau digabungkan \ndengan BUK sesuai dengan ukuran dan kompleksitas \nusaha UUS serta Risiko yang melekat pada UUS. \n \nBagian Kedua \nKomite Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka pelaksanaan proses dan sistem Manajemen \nRisiko yang efektif sebagaimana dimaksud dalam Pasal 2, \nBank wajib membentuk: \na. \nkomite Manajemen Risiko; dan \nb. \nsatuan kerja Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komite Manajemen Risiko dan satuan kerja Manajemen \nRisiko sebagaimana dimaksud pada ayat (1) untuk UUS \ndapat dibentuk secara tersendiri atau digabungkan \ndengan BUK sesuai dengan ukuran dan kompleksitas \nusaha UUS serta Risiko yang melekat pada UUS. \n \nBagian Kedua \nKomite Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nKomite Manajemen Risiko sebagaimana dimaksud dalam \nPasal 18 ayat (1) huruf a untuk BUS, paling sedikit terdiri \ndari: \na. \nmayoritas anggota Direksi yang salah satunya adalah \ndirektur yang membawahkan fungsi kepatuhan; dan \nb. \npejabat eksekutif terkait. \n \n\n\n \n(2) \nDalam hal komite Manajemen Risiko untuk UUS \nsebagaimana dimaksud dalam Pasal 18 ayat (2) dibentuk \nsecara tersendiri, maka keanggotaan komite Manajemen \nRisiko UUS paling sedikit terdiri dari: \na. \nDirektur UUS; \nb. \ndirektur yang membawahkan fungsi kepatuhan BUK; \ndan \nc. \npejabat eksekutif terkait. \n(3) \nDalam hal komite Manajemen Risiko untuk UUS \nsebagaimana dimaksud dalam Pasal 18 ayat (2) digabung \ndengan komite Manajemen Risiko BUK maka dalam \npembahasan yang terkait dengan Manajemen Risiko UUS, \nDirektur UUS diikutsertakan sebagai salah satu anggota \nkomite Manajemen Risiko BUK. \n(4) \nKomite Manajemen Risiko sebagaimana dimaksud pada \nayat (1) berwenang dan bertanggung jawab untuk \nmemberikan rekomendasi kepada Direktur Utama, yang \npaling sedikit meliputi: \na. \npenyusunan \nkebijakan, \nstrategi, \ndan \npedoman \npenerapan Manajemen Risiko; \nb. \nperbaikan \natau \npenyempurnaan \npelaksanaan \nManajemen \nRisiko \nberdasarkan \nhasil \nevaluasi \npelaksanaan Manajemen Risiko; dan \nc. \npenetapan hal-hal yang terkait dengan keputusan \nbisnis yang tidak sesuai dengan prosedur normal. \n \n \nBagian Ketiga \nSatuan Kerja Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Komite Manajemen Risiko sebagaimana dimaksud dalam \nPasal 18 ayat (1) huruf a untuk BUS, paling sedikit terdiri \ndari: \na. \nmayoritas anggota Direksi yang salah satunya adalah \ndirektur yang membawahkan fungsi kepatuhan; dan \nb. \npejabat eksekutif terkait."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal komite Manajemen Risiko untuk UUS \nsebagaimana dimaksud dalam Pasal 18 ayat (2) dibentuk \nsecara tersendiri, maka keanggotaan komite Manajemen \nRisiko UUS paling sedikit terdiri dari: \na. \nDirektur UUS; \nb. \ndirektur yang membawahkan fungsi kepatuhan BUK; \ndan \nc. \npejabat eksekutif terkait."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal komite Manajemen Risiko untuk UUS \nsebagaimana dimaksud dalam Pasal 18 ayat (2) digabung \ndengan komite Manajemen Risiko BUK maka dalam \npembahasan yang terkait dengan Manajemen Risiko UUS, \nDirektur UUS diikutsertakan sebagai salah satu anggota \nkomite Manajemen Risiko BUK."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Komite Manajemen Risiko sebagaimana dimaksud pada \nayat (1) berwenang dan bertanggung jawab untuk \nmemberikan rekomendasi kepada Direktur Utama, yang \npaling sedikit meliputi: \na. \npenyusunan \nkebijakan, \nstrategi, \ndan \npedoman \npenerapan Manajemen Risiko; \nb. \nperbaikan \natau \npenyempurnaan \npelaksanaan \nManajemen \nRisiko \nberdasarkan \nhasil \nevaluasi \npelaksanaan Manajemen Risiko; dan \nc. \npenetapan hal-hal yang terkait dengan keputusan \nbisnis yang tidak sesuai dengan prosedur normal. \n \n \nBagian Ketiga \nSatuan Kerja Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nStruktur organisasi satuan kerja Manajemen Risiko Bank \nsebagaimana dimaksud dalam Pasal 18 ayat (1) huruf b \ndisesuaikan dengan ukuran dan kompleksitas usaha Bank \nserta Risiko yang melekat pada Bank. \n \n \n \n\n\n \n(2) \nSatuan kerja Manajemen Risiko sebagaimana dimaksud \npada ayat (1) harus independen terhadap satuan kerja \noperasional (risk-taking unit) dan terhadap satuan kerja \nyang melaksanakan fungsi pengendalian intern. \n(3) \nSatuan kerja Manajemen Risiko sebagaimana dimaksud \npada ayat (2) bertanggung jawab langsung kepada \nDirektur Utama atau kepada direktur yang ditugaskan \nsecara khusus. \n(4) \nWewenang dan tanggung jawab satuan kerja Manajemen \nRisiko meliputi: \na. \npemantauan pelaksanaan strategi Manajemen Risiko \nyang telah disetujui oleh Direksi; \nb. \npemantauan \nposisi \nRisiko \nsecara \nkeseluruhan \n(composite), per jenis Risiko dan/atau per jenis \naktivitas fungsional serta melakukan stress testing; \nc. \nkaji ulang secara berkala terhadap proses Manajemen \nRisiko; \nd. \npengkajian usulan aktivitas dan/atau produk baru; \ne. \nevaluasi terhadap akurasi model dan validitas data \nyang digunakan untuk mengukur Risiko, bagi Bank \nyang menggunakan model untuk keperluan intern \n(internal model); \nf. \nmemberikan rekomendasi kepada satuan kerja \noperasional (risk-taking unit) dan/atau kepada komite \nManajemen Risiko; dan \ng. \nmenyusun dan menyampaikan laporan profil atau \nkomposisi Risiko secara berkala kepada: \n1. \nDirektur Utama atau direktur yang ditugaskan \nsecara khusus; dan \n2. \nkomite Manajemen Risiko. \n \n \n \n \n \n \n \n\n\n \nBagian Keempat \nHubungan Satuan Kerja Operasional dengan  \nSatuan Kerja Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Struktur organisasi satuan kerja Manajemen Risiko Bank \nsebagaimana dimaksud dalam Pasal 18 ayat (1) huruf b \ndisesuaikan dengan ukuran dan kompleksitas usaha Bank \nserta Risiko yang melekat pada Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Satuan kerja Manajemen Risiko sebagaimana dimaksud \npada ayat (1) harus independen terhadap satuan kerja \noperasional (risk-taking unit) dan terhadap satuan kerja \nyang melaksanakan fungsi pengendalian intern."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Satuan kerja Manajemen Risiko sebagaimana dimaksud \npada ayat (2) bertanggung jawab langsung kepada \nDirektur Utama atau kepada direktur yang ditugaskan \nsecara khusus."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Wewenang dan tanggung jawab satuan kerja Manajemen \nRisiko meliputi: \na. \npemantauan pelaksanaan strategi Manajemen Risiko \nyang telah disetujui oleh Direksi; \nb. \npemantauan \nposisi \nRisiko \nsecara \nkeseluruhan \n(composite), per jenis Risiko dan/atau per jenis \naktivitas fungsional serta melakukan stress testing; \nc. \nkaji ulang secara berkala terhadap proses Manajemen \nRisiko; \nd. \npengkajian usulan aktivitas dan/atau produk baru; \ne. \nevaluasi terhadap akurasi model dan validitas data \nyang digunakan untuk mengukur Risiko, bagi Bank \nyang menggunakan model untuk keperluan intern \n(internal model); \nf. \nmemberikan rekomendasi kepada satuan kerja \noperasional (risk-taking unit) dan/atau kepada komite \nManajemen Risiko; dan \ng. \nmenyusun dan menyampaikan laporan profil atau \nkomposisi Risiko secara berkala kepada: \n1. \nDirektur Utama atau direktur yang ditugaskan \nsecara khusus; dan \n2. \nkomite Manajemen Risiko. \n \n \n \n \n \n \n \n\n\n \nBagian Keempat \nHubungan Satuan Kerja Operasional dengan  \nSatuan Kerja Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "ORGANISASI DAN FUNGSI MANAJEMEN RISIKO",
+      "teks_lengkap": "Satuan kerja operasional (risk-taking unit) sebagaimana \ndimaksud dalam Pasal 20 ayat (2) wajib menginformasikan \neksposur Risiko yang melekat pada satuan kerja yang \nbersangkutan kepada satuan kerja Manajemen Risiko secara \nberkala. \n \nBAB VIII \nPELAPORAN \n \nBagian Kesatu \nLaporan Profil Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Satuan kerja operasional (risk-taking unit) sebagaimana \ndimaksud dalam Pasal 20 ayat (2) wajib menginformasikan \neksposur Risiko yang melekat pada satuan kerja yang \nbersangkutan kepada satuan kerja Manajemen Risiko secara \nberkala. \n \nBAB VIII \nPELAPORAN \n \nBagian Kesatu \nLaporan Profil Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank wajib menyampaikan laporan profil Risiko baik \nsecara individu maupun secara konsolidasi kepada \nOtoritas Jasa Keuangan. \n(2) \nLaporan profil Risiko sebagaimana dimaksud pada ayat (1) \nwajib memuat substansi yang sama dengan laporan profil \nRisiko yang disampaikan oleh satuan kerja Manajemen \nRisiko kepada Direktur Utama atau kepada direktur yang \nditugaskan secara khusus dan komite Manajemen Risiko. \n(3) \nLaporan profil Risiko sebagaimana dimaksud pada ayat (1) \ndisampaikan secara triwulanan untuk posisi bulan Maret, \nJuni, September, dan Desember. \n(4) \nDalam hal diperlukan, Otoritas Jasa Keuangan dapat \nmeminta Bank menyampaikan laporan profil Risiko \nsebagaimana dimaksud pada ayat (1) di luar jangka waktu \nyang ditetapkan sebagaimana dimaksud pada ayat (3). \n \n \n \n \n\n\n \n(5) \nLaporan profil Risiko sebagaimana dimaksud pada ayat (1) \nuntuk posisi bulan Maret dan posisi bulan September \nberpedoman pada Lampiran yang merupakan bagian yang \ntidak terpisahkan dari Peraturan Otoritas Jasa Keuangan \nini. \n(6) \nPenilaian profil Risiko dalam rangka penyusunan laporan \nprofil Risiko sebagaimana dimaksud pada ayat (5) \nmengacu pada ketentuan Otoritas Jasa Keuangan \nmengenai penilaian tingkat kesehatan bank umum syariah \ndan unit usaha syariah.  \n (7)   Laporan profil Risiko sebagaimana dimaksud pada ayat (1) \nuntuk posisi bulan Juni dan posisi bulan Desember \ndisampaikan sebagai bagian dari hasil penilaian sendiri \n(self assessment) atas tingkat kesehatan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyampaikan laporan profil Risiko baik \nsecara individu maupun secara konsolidasi kepada \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan profil Risiko sebagaimana dimaksud pada ayat (1) \nwajib memuat substansi yang sama dengan laporan profil \nRisiko yang disampaikan oleh satuan kerja Manajemen \nRisiko kepada Direktur Utama atau kepada direktur yang \nditugaskan secara khusus dan komite Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan profil Risiko sebagaimana dimaksud pada ayat (1) \ndisampaikan secara triwulanan untuk posisi bulan Maret, \nJuni, September, dan Desember."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal diperlukan, Otoritas Jasa Keuangan dapat \nmeminta Bank menyampaikan laporan profil Risiko \nsebagaimana dimaksud pada ayat (1) di luar jangka waktu \nyang ditetapkan sebagaimana dimaksud pada ayat (3)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Laporan profil Risiko sebagaimana dimaksud pada ayat (1) \nuntuk posisi bulan Maret dan posisi bulan September \nberpedoman pada Lampiran yang merupakan bagian yang \ntidak terpisahkan dari Peraturan Otoritas Jasa Keuangan \nini."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penilaian profil Risiko dalam rangka penyusunan laporan \nprofil Risiko sebagaimana dimaksud pada ayat (5) \nmengacu pada ketentuan Otoritas Jasa Keuangan \nmengenai penilaian tingkat kesehatan bank umum syariah \ndan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Laporan profil Risiko sebagaimana dimaksud pada ayat (1) \nuntuk posisi bulan Juni dan posisi bulan Desember \ndisampaikan sebagai bagian dari hasil penilaian sendiri \n(self assessment) atas tingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nLaporan profil Risiko secara individu sebagaimana \ndimaksud dalam Pasal 22 ayat (1) untuk posisi bulan \nMaret dan posisi bulan September disampaikan paling \nlambat 15 (lima belas) hari kerja setelah akhir bulan \nlaporan. \n(2)   Dalam hal batas waktu penyampaian laporan profil Risiko \nsecara individu sebagaimana dimaksud pada ayat (1) jatuh \npada hari libur maka laporan profil Risiko disampaikan \npada hari kerja berikutnya. \n (3) Batas waktu penyampaian laporan profil Risiko secara \nindividu untuk posisi bulan Juni dan posisi bulan \nDesember mengacu pada ketentuan \nOtoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank \numum syariah dan unit usaha syariah. \n(4) Bank dianggap terlambat menyampaikan laporan secara \nindividu apabila laporan disampaikan melampaui batas \nwaktu penyampaian sebagaimana dimaksud pada ayat (1) \ndan ayat (3) namun tidak melebihi 1 (satu) bulan sejak \nbatas akhir waktu penyampaian laporan. \n(5) \nBank dianggap tidak menyampaikan laporan secara \nindividu sebagaimana dimaksud dalam Pasal 22 ayat (1) \n\n\n \napabila Bank belum menyampaikan laporan melebihi 1 \n(satu) bulan sejak batas akhir waktu penyampaian laporan \nsebagaimana dimaksud pada ayat (1) dan ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan profil Risiko secara individu sebagaimana \ndimaksud dalam Pasal 22 ayat (1) untuk posisi bulan \nMaret dan posisi bulan September disampaikan paling \nlambat 15 (lima belas) hari kerja setelah akhir bulan \nlaporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal batas waktu penyampaian laporan profil Risiko \nsecara individu sebagaimana dimaksud pada ayat (1) jatuh \npada hari libur maka laporan profil Risiko disampaikan \npada hari kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Batas waktu penyampaian laporan profil Risiko secara \nindividu untuk posisi bulan Juni dan posisi bulan \nDesember mengacu pada ketentuan \nOtoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank \numum syariah dan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank dianggap terlambat menyampaikan laporan secara \nindividu apabila laporan disampaikan melampaui batas \nwaktu penyampaian sebagaimana dimaksud pada ayat (1) \ndan ayat (3) namun tidak melebihi 1 (satu) bulan sejak \nbatas akhir waktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dianggap tidak menyampaikan laporan secara \nindividu sebagaimana dimaksud dalam Pasal 22 ayat (1) \n\n\n \napabila Bank belum menyampaikan laporan melebihi 1 \n(satu) bulan sejak batas akhir waktu penyampaian laporan \nsebagaimana dimaksud pada ayat (1) dan ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nLaporan profil Risiko secara konsolidasi sebagaimana \ndimaksud dalam Pasal 22 ayat (1) untuk posisi bulan \nMaret dan posisi bulan September disampaikan paling \nlambat 1 (satu) bulan setelah akhir bulan laporan. \n(2) \nDalam hal batas waktu penyampaian laporan profil Risiko \nsecara konsolidasi sebagaimana dimaksud pada ayat (1) \njatuh pada hari libur maka laporan profil Risiko \ndisampaikan pada hari kerja berikutnya. \n(3) \nBatas waktu penyampaian laporan profil Risiko secara \nkonsolidasi untuk posisi bulan Juni dan posisi bulan \nDesember mengacu pada ketentuan \nOtoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank \numum syariah dan unit usaha syariah. \n(4) \nBank dianggap terlambat menyampaikan laporan secara \nkonsolidasi apabila laporan disampaikan melampaui batas \nwaktu penyampaian sebagaimana dimaksud pada ayat (1) \ndan ayat (3) namun tidak melebihi 14 (empat belas) hari \nkerja sejak batas akhir waktu penyampaian laporan. \n(5) \nBank dianggap tidak menyampaikan laporan secara \nkonsolidasi sebagaimana dimaksud dalam Pasal 22 ayat \n(1) apabila Bank belum menyampaikan laporan melebihi \n14 (empat belas) hari kerja sejak batas akhir waktu \npenyampaian laporan sebagaimana dimaksud pada ayat \n(1) dan ayat (3). \n \nBagian Kedua \nLaporan Lain",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan profil Risiko secara konsolidasi sebagaimana \ndimaksud dalam Pasal 22 ayat (1) untuk posisi bulan \nMaret dan posisi bulan September disampaikan paling \nlambat 1 (satu) bulan setelah akhir bulan laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal batas waktu penyampaian laporan profil Risiko \nsecara konsolidasi sebagaimana dimaksud pada ayat (1) \njatuh pada hari libur maka laporan profil Risiko \ndisampaikan pada hari kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Batas waktu penyampaian laporan profil Risiko secara \nkonsolidasi untuk posisi bulan Juni dan posisi bulan \nDesember mengacu pada ketentuan \nOtoritas Jasa \nKeuangan mengenai penilaian tingkat kesehatan bank \numum syariah dan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank dianggap terlambat menyampaikan laporan secara \nkonsolidasi apabila laporan disampaikan melampaui batas \nwaktu penyampaian sebagaimana dimaksud pada ayat (1) \ndan ayat (3) namun tidak melebihi 14 (empat belas) hari \nkerja sejak batas akhir waktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dianggap tidak menyampaikan laporan secara \nkonsolidasi sebagaimana dimaksud dalam Pasal 22 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "apabila Bank belum menyampaikan laporan melebihi \n14 (empat belas) hari kerja sejak batas akhir waktu \npenyampaian laporan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dan ayat (3). \n \nBagian Kedua \nLaporan Lain"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank harus menyampaikan laporan lain kepada Otoritas \nJasa Keuangan selain sebagaimana dimaksud dalam Pasal \n22, \ndalam \nhal \nterdapat \nkondisi \nyang \nberpotensi \n\n\n \nmenimbulkan kerugian yang signifikan terhadap kondisi \nkeuangan Bank. \n(2) \nBank \nwajib \nmenyampaikan \nkepada \nOtoritas \nJasa \nKeuangan laporan lain yang terkait dengan penerapan \nManajemen Risiko secara berkala atau sewaktu-waktu \napabila diperlukan. \n(3) \nFormat, tata cara pelaporan, dan pengenaan sanksi atas \nlaporan sebagaimana dimaksud pada ayat (2) mengacu \npada ketentuan yang mengatur mengenai pelaporan bank. \n \nBagian Ketiga \nAlamat Penyampaian",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank harus menyampaikan laporan lain kepada Otoritas \nJasa Keuangan selain sebagaimana dimaksud dalam Pasal \n22, \ndalam \nhal \nterdapat \nkondisi \nyang \nberpotensi \n\n\n \nmenimbulkan kerugian yang signifikan terhadap kondisi \nkeuangan Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nwajib \nmenyampaikan \nkepada \nOtoritas \nJasa \nKeuangan laporan lain yang terkait dengan penerapan \nManajemen Risiko secara berkala atau sewaktu-waktu \napabila diperlukan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Format, tata cara pelaporan, dan pengenaan sanksi atas \nlaporan sebagaimana dimaksud pada ayat (2) mengacu \npada ketentuan yang mengatur mengenai pelaporan bank. \n \nBagian Ketiga \nAlamat Penyampaian"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Laporan sebagaimana dimaksud dalam Pasal 22 dan Pasal 25 \ndisampaikan kepada Otoritas Jasa Keuangan dengan alamat: \na. \nDepartemen \nPerbankan \nSyariah, \nbagi \nBank \nyang \nberkantor pusat di wilayah Provinsi Daerah Khusus \nIbukota Jakarta; atau  \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat bagi Bank yang \nberkantor pusat di luar wilayah Provinsi Daerah Khusus \nIbukota Jakarta. \n \nBAB IX \nKETENTUAN LAIN-LAIN \n \nBagian Kesatu \nPenilaian Penerapan Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 22 dan Pasal 25 \ndisampaikan kepada Otoritas Jasa Keuangan dengan alamat: \na. \nDepartemen \nPerbankan \nSyariah, \nbagi \nBank \nyang \nberkantor pusat di wilayah Provinsi Daerah Khusus \nIbukota Jakarta; atau  \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat bagi Bank yang \nberkantor pusat di luar wilayah Provinsi Daerah Khusus \nIbukota Jakarta. \n \nBAB IX \nKETENTUAN LAIN-LAIN \n \nBagian Kesatu \nPenilaian Penerapan Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat melakukan penilaian terhadap \npenerapan Manajemen Risiko pada Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat melakukan penilaian terhadap \npenerapan Manajemen Risiko pada Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Bank wajib menyediakan data dan informasi yang berkaitan \ndengan penerapan Manajemen Risiko kepada Otoritas Jasa \nKeuangan. \n \nBagian Kedua \nAspek Pengungkapan Kinerja dan Kebijakan  \nManajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menyediakan data dan informasi yang berkaitan \ndengan penerapan Manajemen Risiko kepada Otoritas Jasa \nKeuangan. \n \nBagian Kedua \nAspek Pengungkapan Kinerja dan Kebijakan  \nManajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nPengungkapan Manajemen Risiko dalam laporan publikasi \ntahunan Bank sebagaimana diatur dalam Peraturan \nOtoritas Jasa Keuangan tentang Transparansi dan \nPublikasi Laporan Bank wajib disesuaikan dengan \nPeraturan Otoritas Jasa Keuangan ini. \n(2) \nPengungkapan sebagaimana dimaksud pada ayat (1) \npaling sedikit mencakup kinerja Manajemen Risiko dan \narah kebijakan Manajemen Risiko. \n(3) \nPengungkapan Manajemen Risiko dalam laporan publikasi \ntahunan sebagaimana dimaksud pada ayat (1) untuk UUS \ndigabungkan dalam laporan tahunan BUK. \n \nBAB X \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengungkapan Manajemen Risiko dalam laporan publikasi \ntahunan Bank sebagaimana diatur dalam Peraturan \nOtoritas Jasa Keuangan tentang Transparansi dan \nPublikasi Laporan Bank wajib disesuaikan dengan \nPeraturan Otoritas Jasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengungkapan sebagaimana dimaksud pada ayat (1) \npaling sedikit mencakup kinerja Manajemen Risiko dan \narah kebijakan Manajemen Risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengungkapan Manajemen Risiko dalam laporan publikasi \ntahunan sebagaimana dimaksud pada ayat (1) untuk UUS \ndigabungkan dalam laporan tahunan BUK. \n \nBAB X \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank \nyang \nterlambat \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 22 dikenakan sanksi \nadministratif berupa denda sebesar Rp1.000.000,00 (satu \njuta rupiah) per hari keterlambatan per laporan. \n(2) \nBank yang tidak menyampaikan laporan sebagaimana \ndimaksud dalam Pasal 22 dikenakan sanksi administratif \nberupa denda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah) per laporan. \n(3) \nBank yang tidak menyampaikan laporan sebagaimana \ndimaksud dalam Pasal 22 dan telah dikenakan sanksi \nsebagaimana dimaksud pada ayat (2), tetap wajib \n\n\n \nmenyampaikan laporan kepada Otoritas Jasa Keuangan. \n(4) \nBank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 22, namun: \na. \ndinilai tidak lengkap secara signifikan; dan/atau \nb. \ntidak dilampiri dengan dokumen dan informasi yang \nmaterial, \nsesuai dengan format yang ditentukan, dikenakan sanksi \nadministratif berupa denda sebesar Rp50.000.000,00 \n(lima puluh juta rupiah). \n(5) \nBank dikenakan sanksi sebagaimana dimaksud pada ayat \n(4) setelah: \na. \nBank diberikan 2 (dua) kali surat teguran oleh \nOtoritas Jasa Keuangan dengan tenggang waktu 7 \n(tujuh) hari kerja untuk setiap surat teguran; dan  \nb. \nBank tidak memperbaiki laporan dalam jangka waktu \n7 (tujuh) hari kerja setelah surat teguran terakhir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nterlambat \nmenyampaikan \nlaporan \nsebagaimana dimaksud dalam Pasal 22 dikenakan sanksi \nadministratif berupa denda sebesar Rp1.000.000,00 (satu \njuta rupiah) per hari keterlambatan per laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak menyampaikan laporan sebagaimana \ndimaksud dalam Pasal 22 dikenakan sanksi administratif \nberupa denda sebesar Rp50.000.000,00 (lima puluh juta \nrupiah) per laporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank yang tidak menyampaikan laporan sebagaimana \ndimaksud dalam Pasal 22 dan telah dikenakan sanksi \nsebagaimana dimaksud pada ayat (2), tetap wajib \n\n\n \nmenyampaikan laporan kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 22, namun: \na. \ndinilai tidak lengkap secara signifikan; dan/atau \nb. \ntidak dilampiri dengan dokumen dan informasi yang \nmaterial, \nsesuai dengan format yang ditentukan, dikenakan sanksi \nadministratif berupa denda sebesar Rp50.000.000,00 \n(lima puluh juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dikenakan sanksi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "setelah: \na. \nBank diberikan 2 (dua) kali surat teguran oleh \nOtoritas Jasa Keuangan dengan tenggang waktu 7 \n(tujuh) hari kerja untuk setiap surat teguran; dan  \nb. \nBank tidak memperbaiki laporan dalam jangka waktu \n7 (tujuh) hari kerja setelah surat teguran terakhir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak melaksanakan ketentuan sebagaimana \nditetapkan dalam Pasal 2 ayat (1), Pasal 4, Pasal 5 ayat (2), \nPasal 6, Pasal 11 ayat (1), Pasal 11 ayat (3), Pasal 12, Pasal 13 \nayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), \nPasal 14 ayat (2), Pasal 15 ayat (1), Pasal 16 ayat (2), Pasal 17 \nayat (2), Pasal 18 ayat (1), Pasal 21, Pasal 28, dan/atau Pasal \n29 ayat (1) dikenakan sanksi administratif antara lain berupa: \na. \nteguran tertulis; \nb. \npembekuan kegiatan usaha tertentu; dan/atau  \nc. \npencantuman anggota pengurus, pegawai Bank, dan/atau \npemegang \nsaham \ndalam \ndaftar \npihak-pihak \nyang \nmendapat predikat tidak lulus dalam uji/penilaian \nkemampuan \ndan \nkepatutan \natau \ndalam \ncatatan \nadministrasi Otoritas Jasa Keuangan sebagaimana diatur \ndalam ketentuan Otoritas Jasa Keuangan yang berlaku. \n \n \n \n \n\n\n \nBAB XI \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang tidak melaksanakan ketentuan sebagaimana \nditetapkan dalam Pasal 2 ayat (1), Pasal 4, Pasal 5 ayat (2), \nPasal 6, Pasal 11 ayat (1), Pasal 11 ayat (3), Pasal 12, Pasal 13 \nayat (1), Pasal 13 ayat (2), Pasal 13 ayat (3), Pasal 13 ayat (4), \nPasal 14 ayat (2), Pasal 15 ayat (1), Pasal 16 ayat (2), Pasal 17 \nayat (2), Pasal 18 ayat (1), Pasal 21, Pasal 28, dan/atau Pasal \n29 ayat (1) dikenakan sanksi administratif antara lain berupa: \na. \nteguran tertulis; \nb. \npembekuan kegiatan usaha tertentu; dan/atau  \nc. \npencantuman anggota pengurus, pegawai Bank, dan/atau \npemegang \nsaham \ndalam \ndaftar \npihak-pihak \nyang \nmendapat predikat tidak lulus dalam uji/penilaian \nkemampuan \ndan \nkepatutan \natau \ndalam \ncatatan \nadministrasi Otoritas Jasa Keuangan sebagaimana diatur \ndalam ketentuan Otoritas Jasa Keuangan yang berlaku. \n \n \n \n \n\n\n \nBAB XI \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai penerapan Manajemen Risiko \nbagi Bank diatur dalam Surat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai penerapan Manajemen Risiko \nbagi Bank diatur dalam Surat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1) \nPada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku \nmaka \nPeraturan \nBank \nIndonesia \nNomor \n13/23/PBI/2011 tentang Penerapan Manajemen Risiko \nBagi Bank Umum Syariah dan Unit Usaha Syariah dicabut \ndan dinyatakan tidak berlaku. \n(2) \nDengan berlakunya Peraturan Otoritas Jasa Keuangan ini, \npengaturan bagi Bank yang sebelumnya mengacu pada \nketentuan mengenai penerapan manajemen risiko bagi \nbank umum menjadi mengacu pada Peraturan Otoritas \nJasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku \nmaka \nPeraturan \nBank \nIndonesia \nNomor \n13/23/PBI/2011 tentang Penerapan Manajemen Risiko \nBagi Bank Umum Syariah dan Unit Usaha Syariah dicabut \ndan dinyatakan tidak berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dengan berlakunya Peraturan Otoritas Jasa Keuangan ini, \npengaturan bagi Bank yang sebelumnya mengacu pada \nketentuan mengenai penerapan manajemen risiko bagi \nbank umum menjadi mengacu pada Peraturan Otoritas \nJasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1) \nPeraturan Bank Indonesia Nomor 8/6/PBI/2006 tentang \nPenerapan Manajemen Risiko Secara Konsolidasi Bagi \nBank \nYang \nMelakukan \nPengendalian \nTerhadap \nPerusahaan Anak dinyatakan tetap berlaku sepanjang \ntidak bertentangan dengan ketentuan ini. \n(2) \nKetentuan pelaksanaan dari Peraturan Bank Indonesia \nNomor 5/8/PBI/2003 tentang Penerapan Manajemen \nRisiko Bagi Bank Umum sebagaimana telah diubah \ndengan \nPeraturan \nBank \nIndonesia \nNomor \n11/25/PBI/2009 dinyatakan tetap berlaku bagi BUS dan \nUUS sepanjang tidak bertentangan dengan Peraturan \nOtoritas Jasa Keuangan ini. \n(3)  Ketentuan pada angka 9 Surat Edaran Bank Indonesia \nNomor 5/21/DPNP perihal Penerapan Manajemen Risiko \nbagi Bank Umum dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peraturan Bank Indonesia Nomor 8/6/PBI/2006 tentang \nPenerapan Manajemen Risiko Secara Konsolidasi Bagi \nBank \nYang \nMelakukan \nPengendalian \nTerhadap \nPerusahaan Anak dinyatakan tetap berlaku sepanjang \ntidak bertentangan dengan ketentuan ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan pelaksanaan dari Peraturan Bank Indonesia \nNomor 5/8/PBI/2003 tentang Penerapan Manajemen \nRisiko Bagi Bank Umum sebagaimana telah diubah \ndengan \nPeraturan \nBank \nIndonesia \nNomor \n11/25/PBI/2009 dinyatakan tetap berlaku bagi BUS dan \nUUS sepanjang tidak bertentangan dengan Peraturan \nOtoritas Jasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan pada angka 9 Surat Edaran Bank Indonesia \nNomor 5/21/DPNP perihal Penerapan Manajemen Risiko \nbagi Bank Umum dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 23 Desember 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 28 Desember 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 298\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  65 /POJK.03/2016 \nTENTANG \nPENERAPAN MANAJEMEN RISIKO BAGI BANK UMUM SYARIAH \nDAN UNIT USAHA SYARIAH \n \nI. \nUMUM \n \n  \nKegiatan usaha Bank senantiasa dihadapkan pada risiko-risiko \nyang berkaitan erat dengan fungsinya sebagai lembaga intermediasi \nkeuangan. Perkembangan lingkungan eksternal dan internal perbankan \nsyariah yang semakin pesat mengakibatkan Risiko kegiatan usaha \nperbankan syariah semakin kompleks. Menghadapi kondisi tersebut, Bank \nperlu memperhatikan seluruh Risiko baik yang secara langsung maupun \ntidak langsung dapat mempengaruhi kelangsungan usaha Bank, termasuk \nyang berasal dari Perusahaan Anak dengan menerapkan Manajemen Risiko \nsecara konsolidasi. Bank dituntut untuk mampu beradaptasi dengan \nlingkungan melalui penerapan Manajemen Risiko yang sesuai dengan \nPrinsip Syariah. Prinsip-prinsip Manajemen Risiko yang diterapkan pada \nperbankan syariah di Indonesia diarahkan sejalan dengan aturan baku \nyang dikeluarkan oleh Islamic Financial Services Board (IFSB). \nPenerapan Manajemen Risiko pada perbankan syariah disesuaikan \ndengan ukuran dan kompleksitas usaha serta kemampuan Bank. Otoritas \nJasa Keuangan menetapkan aturan Manajemen Risiko ini sebagai standar \nminimal yang harus dipenuhi oleh BUS dan UUS sehingga perbankan \nsyariah dapat mengembangkan sesuai dengan kebutuhan dan tantangan \nyang dihadapi namun tetap dilakukan secara sehat, istiqomah, dan sesuai \ndengan Prinsip Syariah.  \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 23 Desember 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 28 Desember 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 298\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR  65 /POJK.03/2016 \nTENTANG \nPENERAPAN MANAJEMEN RISIKO BAGI BANK UMUM SYARIAH \nDAN UNIT USAHA SYARIAH \n \nI. \nUMUM \n \n  \nKegiatan usaha Bank senantiasa dihadapkan pada risiko-risiko \nyang berkaitan erat dengan fungsinya sebagai lembaga intermediasi \nkeuangan. Perkembangan lingkungan eksternal dan internal perbankan \nsyariah yang semakin pesat mengakibatkan Risiko kegiatan usaha \nperbankan syariah semakin kompleks. Menghadapi kondisi tersebut, Bank \nperlu memperhatikan seluruh Risiko baik yang secara langsung maupun \ntidak langsung dapat mempengaruhi kelangsungan usaha Bank, termasuk \nyang berasal dari Perusahaan Anak dengan menerapkan Manajemen Risiko \nsecara konsolidasi. Bank dituntut untuk mampu beradaptasi dengan \nlingkungan melalui penerapan Manajemen Risiko yang sesuai dengan \nPrinsip Syariah. Prinsip-prinsip Manajemen Risiko yang diterapkan pada \nperbankan syariah di Indonesia diarahkan sejalan dengan aturan baku \nyang dikeluarkan oleh Islamic Financial Services Board (IFSB). \nPenerapan Manajemen Risiko pada perbankan syariah disesuaikan \ndengan ukuran dan kompleksitas usaha serta kemampuan Bank. Otoritas \nJasa Keuangan menetapkan aturan Manajemen Risiko ini sebagai standar \nminimal yang harus dipenuhi oleh BUS dan UUS sehingga perbankan \nsyariah dapat mengembangkan sesuai dengan kebutuhan dan tantangan \nyang dihadapi namun tetap dilakukan secara sehat, istiqomah, dan sesuai \ndengan Prinsip Syariah.  \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTermasuk dalam cakupan penerapan Manajemen Risiko adalah \npenerapan program Anti Pencucian Uang dan Pencegahan \nPendanaan Terorisme.  \n \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk dalam cakupan penerapan Manajemen Risiko adalah \npenerapan program Anti Pencucian Uang dan Pencegahan \nPendanaan Terorisme.  \n \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kompleksitas usaha antara lain keragaman dalam jenis transaksi, \nproduk atau jasa, dan jaringan usaha. Kemampuan Bank antara lain \nkemampuan keuangan, infrastruktur pendukung, dan kemampuan \nsumber daya manusia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kompleksitas usaha antara lain keragaman dalam jenis transaksi, \nproduk atau jasa, dan jaringan usaha. Kemampuan Bank antara lain \nkemampuan keuangan, infrastruktur pendukung, dan kemampuan \nsumber daya manusia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nTermasuk dalam kelompok Risiko Kredit adalah Risiko \nkonsentrasi pembiayaan, counterparty credit risk, dan \nsettlement risk. \nRisiko konsentrasi pembiayaan merupakan Risiko yang \ntimbul akibat terkonsentrasinya penyediaan dana kepada 1 \n(satu) pihak atau sekelompok pihak, industri, sektor, \ndan/atau \narea \ngeografis \ntertentu \nyang \nberpotensi \nmenimbulkan kerugian cukup besar yang dapat mengancam \nkelangsungan usaha Bank. \nCounterparty credit risk merupakan Risiko yang timbul \n\n\n \nakibat terjadinya kegagalan pihak lawan dalam memenuhi \nkewajibannya dan timbul dari jenis transaksi yang memiliki \nkarakteristik tertentu, misalnya transaksi yang dipengaruhi \noleh pergerakan nilai wajar atau nilai pasar. \nSettlement risk merupakan Risiko yang timbul akibat \nkegagalan penyerahan kas dan/atau instrumen keuangan \npada tanggal penyelesaian (settlement date) yang telah \ndisepakati dari transaksi penjualan dan/atau pembelian \ninstrumen keuangan. \nHuruf b \nRisiko Pasar meliputi antara lain Risiko benchmark suku \nbunga (benchmark interest rate risk), Risiko nilai tukar, \nRisiko komoditas, dan Risiko ekuitas. Penerapan Manajemen \nRisiko untuk Risiko komoditas dan Risiko ekuitas wajib \nditerapkan oleh Bank yang melakukan konsolidasi dengan \nPerusahaan Anak. \nRisiko komoditas adalah Risiko akibat perubahan harga \ninstrumen keuangan dari posisi trading book dan banking \nbook yang disebabkan oleh perubahan harga komoditas. \nRisiko ekuitas adalah Risiko akibat perubahan harga \ninstrumen \nkeuangan \ndari \nposisi \ntrading \nbook \nyang \ndisebabkan oleh perubahan harga saham. \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \nRisiko Hukum timbul antara lain karena ketiadaan \nperaturan perundang-undangan yang mendukung atau \nkelemahan perikatan, seperti tidak dipenuhinya syarat \nsahnya kontrak atau pengikatan agunan yang tidak \nsempurna. \n \n \nHuruf f \nRisiko \nReputasi \ntimbul \nantara \nlain \nkarena \nadanya \npemberitaan media dan/atau rumor mengenai bank yang \nbersifat negatif, serta adanya strategi komunikasi bank yang \nkurang efektif. \n\n\n \nHuruf g \nRisiko Stratejik timbul antara lain karena bank menetapkan \nstrategi yang kurang sejalan dengan visi dan misi bank, \nmelakukan \nanalisis \nlingkungan \nstratejik \nyang \ntidak \nkomprehensif, dan/atau terdapat ketidaksesuaian rencana \nstratejik (strategic plan) antar level stratejik. Selain itu, Risiko \nStratejik juga timbul karena kegagalan dalam mengantisipasi \nperubahan lingkungan bisnis mencakup kegagalan dalam \nmengantisipasi perubahan teknologi, perubahan kondisi \nekonomi \nmakro, \ndinamika \nkompetisi \ndi \npasar, \ndan \nperubahan kebijakan otoritas terkait. \n \nHuruf h \nCukup jelas. \nHuruf i \n \n \nRisiko Imbal Hasil (Rate of Return Risk) timbul antara lain \nkarena adanya perubahan perilaku nasabah dana pihak \nketiga Bank yang disebabkan oleh perubahan ekspektasi \ntingkat imbal hasil yang diterima dari Bank. Perubahan \nekspektasi bisa disebabkan oleh faktor internal seperti \nmenurunnya nilai aset Bank dan/atau faktor eksternal \nseperti naiknya return/imbal hasil yang ditawarkan bank \nlain. Perubahan ekspektasi tingkat imbal hasil tersebut \ndapat memicu perpindahan dana nasabah dari Bank kepada \nbank lain. \nHuruf j \nRisiko Investasi (Equity Investment Risk) timbul apabila Bank \nmemberikan pembiayaan berbasis bagi hasil kepada \nnasabah dengan Bank ikut menanggung Risiko atas \nkerugian usaha nasabah yang dibiayai (metode profit and loss \nsharing). Dalam hal ini, perhitungan bagi hasil tidak hanya \ndidasarkan atas jumlah pendapatan atau penjualan yang \ndiperoleh nasabah namun dihitung dari keuntungan usaha \nyang dihasilkan nasabah. Apabila usaha nasabah mengalami \nkebangkrutan maka jumlah pokok pembiayaan yang \ndiberikan Bank kepada nasabah tidak akan diperoleh \nkembali. Sementara perhitungan bagi hasil juga dapat \nmenggunakan metode net revenue sharing yakni bagi hasil \n\n\n \ndihitung dari pendapatan setelah dikurangi modal. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nTermasuk dalam kelompok Risiko Kredit adalah Risiko \nkonsentrasi pembiayaan, counterparty credit risk, dan \nsettlement risk. \nRisiko konsentrasi pembiayaan merupakan Risiko yang \ntimbul akibat terkonsentrasinya penyediaan dana kepada 1 \n(satu) pihak atau sekelompok pihak, industri, sektor, \ndan/atau \narea \ngeografis \ntertentu \nyang \nberpotensi \nmenimbulkan kerugian cukup besar yang dapat mengancam \nkelangsungan usaha Bank. \nCounterparty credit risk merupakan Risiko yang timbul \n\n\n \nakibat terjadinya kegagalan pihak lawan dalam memenuhi \nkewajibannya dan timbul dari jenis transaksi yang memiliki \nkarakteristik tertentu, misalnya transaksi yang dipengaruhi \noleh pergerakan nilai wajar atau nilai pasar. \nSettlement risk merupakan Risiko yang timbul akibat \nkegagalan penyerahan kas dan/atau instrumen keuangan \npada tanggal penyelesaian (settlement date) yang telah \ndisepakati dari transaksi penjualan dan/atau pembelian \ninstrumen keuangan. \nHuruf b \nRisiko Pasar meliputi antara lain Risiko benchmark suku \nbunga (benchmark interest rate risk), Risiko nilai tukar, \nRisiko komoditas, dan Risiko ekuitas. Penerapan Manajemen \nRisiko untuk Risiko komoditas dan Risiko ekuitas wajib \nditerapkan oleh Bank yang melakukan konsolidasi dengan \nPerusahaan Anak. \nRisiko komoditas adalah Risiko akibat perubahan harga \ninstrumen keuangan dari posisi trading book dan banking \nbook yang disebabkan oleh perubahan harga komoditas. \nRisiko ekuitas adalah Risiko akibat perubahan harga \ninstrumen \nkeuangan \ndari \nposisi \ntrading \nbook \nyang \ndisebabkan oleh perubahan harga saham. \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \nRisiko Hukum timbul antara lain karena ketiadaan \nperaturan perundang-undangan yang mendukung atau \nkelemahan perikatan, seperti tidak dipenuhinya syarat \nsahnya kontrak atau pengikatan agunan yang tidak \nsempurna. \n \n \nHuruf f \nRisiko \nReputasi \ntimbul \nantara \nlain \nkarena \nadanya \npemberitaan media dan/atau rumor mengenai bank yang \nbersifat negatif, serta adanya strategi komunikasi bank yang \nkurang efektif. \n\n\n \nHuruf g \nRisiko Stratejik timbul antara lain karena bank menetapkan \nstrategi yang kurang sejalan dengan visi dan misi bank, \nmelakukan \nanalisis \nlingkungan \nstratejik \nyang \ntidak \nkomprehensif, dan/atau terdapat ketidaksesuaian rencana \nstratejik (strategic plan) antar level stratejik. Selain itu, Risiko \nStratejik juga timbul karena kegagalan dalam mengantisipasi \nperubahan lingkungan bisnis mencakup kegagalan dalam \nmengantisipasi perubahan teknologi, perubahan kondisi \nekonomi \nmakro, \ndinamika \nkompetisi \ndi \npasar, \ndan \nperubahan kebijakan otoritas terkait. \n \nHuruf h \nCukup jelas. \nHuruf i \n \n \nRisiko Imbal Hasil (Rate of Return Risk) timbul antara lain \nkarena adanya perubahan perilaku nasabah dana pihak \nketiga Bank yang disebabkan oleh perubahan ekspektasi \ntingkat imbal hasil yang diterima dari Bank. Perubahan \nekspektasi bisa disebabkan oleh faktor internal seperti \nmenurunnya nilai aset Bank dan/atau faktor eksternal \nseperti naiknya return/imbal hasil yang ditawarkan bank \nlain. Perubahan ekspektasi tingkat imbal hasil tersebut \ndapat memicu perpindahan dana nasabah dari Bank kepada \nbank lain. \nHuruf j \nRisiko Investasi (Equity Investment Risk) timbul apabila Bank \nmemberikan pembiayaan berbasis bagi hasil kepada \nnasabah dengan Bank ikut menanggung Risiko atas \nkerugian usaha nasabah yang dibiayai (metode profit and loss \nsharing). Dalam hal ini, perhitungan bagi hasil tidak hanya \ndidasarkan atas jumlah pendapatan atau penjualan yang \ndiperoleh nasabah namun dihitung dari keuntungan usaha \nyang dihasilkan nasabah. Apabila usaha nasabah mengalami \nkebangkrutan maka jumlah pokok pembiayaan yang \ndiberikan Bank kepada nasabah tidak akan diperoleh \nkembali. Sementara perhitungan bagi hasil juga dapat \nmenggunakan metode net revenue sharing yakni bagi hasil \n\n\n \ndihitung dari pendapatan setelah dikurangi modal. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \n \n \n \nTermasuk dalam kebijakan dan strategi Manajemen Risiko \nadalah penetapan dan persetujuan limit Risiko baik Risiko \nsecara keseluruhan (composite), per jenis Risiko, maupun per \naktivitas fungsional. \n \n \n \nKebijakan dan strategi Manajemen Risiko disusun paling \nsedikit 1 (satu) kali atau lebih dalam 1 (satu) tahun dalam \nhal terdapat perubahan faktor-faktor yang mempengaruhi \nkegiatan usaha BUS secara signifikan. \nHuruf b \nTermasuk tanggung jawab atas pelaksanaan kebijakan \nManajemen Risiko adalah: \n1. \nmengevaluasi dan memberikan arahan berdasarkan \nlaporan \nyang \ndisampaikan \noleh \nsatuan \nkerja \nManajemen Risiko; dan \n2. \npenyampaian laporan pertanggungjawaban kepada \nDewan Komisaris secara triwulanan. \nHuruf c  \nCukup jelas.  \nHuruf d \nPengembangan budaya Manajemen Risiko antara lain \nmeliputi komunikasi yang memadai kepada seluruh jenjang \norganisasi tentang pentingnya Manajemen Risiko yang \nefektif. \nHuruf e \nPeningkatan kompetensi sumber daya manusia antara lain \nmelalui \nprogram \npendidikan \ndan \npelatihan \nsecara \nberkesinambungan mengenai penerapan Manajemen Risiko. \n\n\n \nHuruf f \nYang dimaksud dengan independen antara lain adanya \npemisahan fungsi antara satuan kerja Manajemen Risiko \nyang melakukan identifikasi, pengukuran, dan pemantauan \nRisiko \ndengan \nsatuan \nkerja \nyang \nmelakukan \ndan \nmenyelesaikan transaksi. \nHuruf g \nKaji ulang secara berkala antara lain dimaksudkan untuk \nmengantisipasi jika terjadi perubahan faktor eksternal dan \nfaktor internal. \nAyat (2) \nYang dimaksud dengan “memiliki pemahaman yang memadai” \nadalah termasuk pemahaman terhadap Prinsip Syariah yang \nterkait dengan produk, jasa, dan kegiatan operasional Bank \nlainnya. \nAyat (3) \nDalam melaksanakan wewenang dan tanggung jawabnya, \nDirektur UUS dapat berkoordinasi dengan direktur lain pada \nBUK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \n \n \n \nTermasuk dalam kebijakan dan strategi Manajemen Risiko \nadalah penetapan dan persetujuan limit Risiko baik Risiko \nsecara keseluruhan (composite), per jenis Risiko, maupun per \naktivitas fungsional. \n \n \n \nKebijakan dan strategi Manajemen Risiko disusun paling \nsedikit 1 (satu) kali atau lebih dalam 1 (satu) tahun dalam \nhal terdapat perubahan faktor-faktor yang mempengaruhi \nkegiatan usaha BUS secara signifikan. \nHuruf b \nTermasuk tanggung jawab atas pelaksanaan kebijakan \nManajemen Risiko adalah: \n1. \nmengevaluasi dan memberikan arahan berdasarkan \nlaporan \nyang \ndisampaikan \noleh \nsatuan \nkerja \nManajemen Risiko; dan \n2. \npenyampaian laporan pertanggungjawaban kepada \nDewan Komisaris secara triwulanan. \nHuruf c  \nCukup jelas.  \nHuruf d \nPengembangan budaya Manajemen Risiko antara lain \nmeliputi komunikasi yang memadai kepada seluruh jenjang \norganisasi tentang pentingnya Manajemen Risiko yang \nefektif. \nHuruf e \nPeningkatan kompetensi sumber daya manusia antara lain \nmelalui \nprogram \npendidikan \ndan \npelatihan \nsecara \nberkesinambungan mengenai penerapan Manajemen Risiko. \n\n\n \nHuruf f \nYang dimaksud dengan independen antara lain adanya \npemisahan fungsi antara satuan kerja Manajemen Risiko \nyang melakukan identifikasi, pengukuran, dan pemantauan \nRisiko \ndengan \nsatuan \nkerja \nyang \nmelakukan \ndan \nmenyelesaikan transaksi. \nHuruf g \nKaji ulang secara berkala antara lain dimaksudkan untuk \nmengantisipasi jika terjadi perubahan faktor eksternal dan \nfaktor internal. \nAyat (2) \nYang dimaksud dengan “memiliki pemahaman yang memadai” \nadalah termasuk pemahaman terhadap Prinsip Syariah yang \nterkait dengan produk, jasa, dan kegiatan operasional Bank \nlainnya. \nAyat (3) \nDalam melaksanakan wewenang dan tanggung jawabnya, \nDirektur UUS dapat berkoordinasi dengan direktur lain pada \nBUK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nEvaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan \nKomisaris paling sedikit 1 (satu) kali atau lebih dalam 1 (satu) \ntahun dalam hal terdapat perubahan faktor-faktor yang \nmempengaruhi kegiatan usaha Bank secara signifikan. \nHuruf b \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris \npaling sedikit secara triwulanan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nEvaluasi kebijakan Manajemen Risiko dilakukan oleh Dewan \nKomisaris paling sedikit 1 (satu) kali atau lebih dalam 1 (satu) \ntahun dalam hal terdapat perubahan faktor-faktor yang \nmempengaruhi kegiatan usaha Bank secara signifikan. \nHuruf b \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko dilakukan oleh Dewan Komisaris \npaling sedikit secara triwulanan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \nEvaluasi kebijakan Manajemen Risiko yang terkait dengan \npemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas \nSyariah paling sedikit 1 (satu) kali dalam 1 (satu) tahun. \n \n\n\n \nHuruf b \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko yang terkait dengan pemenuhan \nPrinsip Syariah dilakukan oleh Dewan Pengawas Syariah paling \nsedikit secara triwulanan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \nEvaluasi kebijakan Manajemen Risiko yang terkait dengan \npemenuhan Prinsip Syariah dilakukan oleh Dewan Pengawas \nSyariah paling sedikit 1 (satu) kali dalam 1 (satu) tahun. \n \n\n\n \nHuruf b \nEvaluasi \npertanggungjawaban \nDireksi \natas \npelaksanaan \nkebijakan Manajemen Risiko yang terkait dengan pemenuhan \nPrinsip Syariah dilakukan oleh Dewan Pengawas Syariah paling \nsedikit secara triwulanan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kebijakan Manajemen Risiko ditetapkan antara lain dengan cara \nmenyusun strategi Manajemen Risiko untuk memastikan bahwa: \n1. \nBank tetap mempertahankan eksposur Risiko sesuai dengan \nkebijakan \ndan \nprosedur \nintern \nBank \ndan \nperaturan  \nperundang-undangan serta ketentuan lain yang berlaku; dan \n2. \nBank dikelola oleh sumber daya manusia yang memiliki \npengetahuan, pengalaman, dan keahlian di bidang Manajemen \nRisiko sesuai dengan kompleksitas usaha Bank.  \nPenyusunan \nstrategi \nManajemen \nRisiko \ndilakukan \ndengan \nmempertimbangkan kondisi keuangan Bank, organisasi Bank, dan \nRisiko yang timbul sebagai akibat perubahan faktor eksternal dan \nfaktor internal. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nToleransi Risiko merupakan potensi kerugian yang dapat diserap \noleh permodalan Bank. \nHuruf d \nPenetapan penilaian peringkat Risiko merupakan dasar bagi Bank \nuntuk mengkategorikan peringkat Risiko Bank. Peringkat Risiko \nbagi Bank dikategorikan menjadi 5 (lima) peringkat, yaitu: \n1. \nperingkat 1 (Low); \n2. \nperingkat 2 (Low to Moderate); \n3. \nperingkat 3 (Moderate); \n4. \nperingkat 4 (Moderate to High); dan  \n5. \nperingkat 5 (High). \nHuruf e \nCukup jelas. \n\n\n \nHuruf f \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan Manajemen Risiko ditetapkan antara lain dengan cara \nmenyusun strategi Manajemen Risiko untuk memastikan bahwa: \n1. \nBank tetap mempertahankan eksposur Risiko sesuai dengan \nkebijakan \ndan \nprosedur \nintern \nBank \ndan \nperaturan  \nperundang-undangan serta ketentuan lain yang berlaku; dan \n2. \nBank dikelola oleh sumber daya manusia yang memiliki \npengetahuan, pengalaman, dan keahlian di bidang Manajemen \nRisiko sesuai dengan kompleksitas usaha Bank.  \nPenyusunan \nstrategi \nManajemen \nRisiko \ndilakukan \ndengan \nmempertimbangkan kondisi keuangan Bank, organisasi Bank, dan \nRisiko yang timbul sebagai akibat perubahan faktor eksternal dan \nfaktor internal. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nToleransi Risiko merupakan potensi kerugian yang dapat diserap \noleh permodalan Bank. \nHuruf d \nPenetapan penilaian peringkat Risiko merupakan dasar bagi Bank \nuntuk mengkategorikan peringkat Risiko Bank. Peringkat Risiko \nbagi Bank dikategorikan menjadi 5 (lima) peringkat, yaitu: \n1. \nperingkat 1 (Low); \n2. \nperingkat 2 (Low to Moderate); \n3. \nperingkat 3 (Moderate); \n4. \nperingkat 4 (Moderate to High); dan  \n5. \nperingkat 5 (High). \nHuruf e \nCukup jelas. \n\n\n \nHuruf f \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTingkat Risiko yang akan diambil (risk appetite) memperhatikan \npengalaman yang dimiliki Bank dalam mengelola Risiko. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b  \nYang dimaksud dengan “secara berkala” adalah paling \nsedikit 1 (satu) kali atau lebih dalam 1 (satu) tahun, sesuai \ndengan jenis Risiko, kebutuhan, dan perkembangan Bank. \nHuruf c \nYang dimaksud dengan “dokumentasi yang memadai” adalah \ndokumentasi yang tertulis, lengkap, dan memudahkan \nuntuk dilakukan jejak audit (audit trail) untuk keperluan \npengendalian intern Bank. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTingkat Risiko yang akan diambil (risk appetite) memperhatikan \npengalaman yang dimiliki Bank dalam mengelola Risiko. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b  \nYang dimaksud dengan “secara berkala” adalah paling \nsedikit 1 (satu) kali atau lebih dalam 1 (satu) tahun, sesuai \ndengan jenis Risiko, kebutuhan, dan perkembangan Bank. \nHuruf c \nYang dimaksud dengan “dokumentasi yang memadai” adalah \ndokumentasi yang tertulis, lengkap, dan memudahkan \nuntuk dilakukan jejak audit (audit trail) untuk keperluan \npengendalian intern Bank. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “faktor-faktor Risiko” adalah berbagai \nparameter yang mempengaruhi eksposur Risiko. Yang dimaksud \ndengan “faktor-faktor Risiko (risk factors) yang bersifat material” \nadalah faktor-faktor Risiko baik kuantitatif maupun kualitatif \nyang berpengaruh secara signifikan terhadap kondisi keuangan \nBank. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “faktor-faktor Risiko” adalah berbagai \nparameter yang mempengaruhi eksposur Risiko. Yang dimaksud \ndengan “faktor-faktor Risiko (risk factors) yang bersifat material” \nadalah faktor-faktor Risiko baik kuantitatif maupun kualitatif \nyang berpengaruh secara signifikan terhadap kondisi keuangan \nBank. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nProses \nidentifikasi \nRisiko \nantara \nlain \ndidasarkan \npada \npengalaman kerugian Bank yang pernah terjadi. \n\n\n \nAyat (2) \nUntuk mengukur Risiko, Bank dapat menggunakan pendekatan \nkualitatif maupun kuantitatif yang disesuaikan dengan tujuan \nusaha, kompleksitas usaha, dan kemampuan Bank. \nHuruf a \nYang dimaksud dengan “secara berkala” adalah paling \nsedikit secara triwulanan atau lebih sesuai dengan \nperkembangan usaha Bank dan kondisi eksternal yang \nlangsung mempengaruhi kondisi Bank. \nHuruf b \nCukup jelas. \nAyat (3)  \nHuruf a \nEvaluasi terhadap eksposur Risiko dilakukan dengan cara \npemantauan dan pelaporan Risiko yang bersifat material \natau yang berdampak kepada kondisi permodalan Bank, \nyang antara lain didasarkan atas penilaian potensi Risiko \ndengan menggunakan historical trend. \nHuruf b \nCukup jelas. \nAyat (4) \nPengendalian Risiko dapat dilakukan antara lain dengan cara \nlindung nilai, metode mitigasi Risiko, dan penambahan modal \nuntuk menyerap potensi kerugian. \nSelain itu dalam melaksanakan fungsi pengendalian Risiko \nbenchmark suku bunga, Risiko nilai tukar, dan Risiko Likuiditas, \nBank \npaling \nsedikit \nmenerapkan \nAssets \nand \nLiabilities \nManagement (ALMA). \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nProses \nidentifikasi \nRisiko \nantara \nlain \ndidasarkan \npada \npengalaman kerugian Bank yang pernah terjadi. \n\n\n \nAyat (2) \nUntuk mengukur Risiko, Bank dapat menggunakan pendekatan \nkualitatif maupun kuantitatif yang disesuaikan dengan tujuan \nusaha, kompleksitas usaha, dan kemampuan Bank. \nHuruf a \nYang dimaksud dengan “secara berkala” adalah paling \nsedikit secara triwulanan atau lebih sesuai dengan \nperkembangan usaha Bank dan kondisi eksternal yang \nlangsung mempengaruhi kondisi Bank. \nHuruf b \nCukup jelas. \nAyat (3)  \nHuruf a \nEvaluasi terhadap eksposur Risiko dilakukan dengan cara \npemantauan dan pelaporan Risiko yang bersifat material \natau yang berdampak kepada kondisi permodalan Bank, \nyang antara lain didasarkan atas penilaian potensi Risiko \ndengan menggunakan historical trend. \nHuruf b \nCukup jelas. \nAyat (4) \nPengendalian Risiko dapat dilakukan antara lain dengan cara \nlindung nilai, metode mitigasi Risiko, dan penambahan modal \nuntuk menyerap potensi kerugian. \nSelain itu dalam melaksanakan fungsi pengendalian Risiko \nbenchmark suku bunga, Risiko nilai tukar, dan Risiko Likuiditas, \nBank \npaling \nsedikit \nmenerapkan \nAssets \nand \nLiabilities \nManagement (ALMA). \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nLaporan atau informasi eksposur Risiko mencakup eksposur \nkuantitatif dan kualitatif, secara keseluruhan (composite) \nmaupun rincian per jenis Risiko dan per jenis aktivitas \n\n\n \nfungsional. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (2) \nLaporan atau informasi yang disampaikan kepada Direksi dapat \nditingkatkan frekuensinya sesuai dengan kebutuhan BUS. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nLaporan atau informasi eksposur Risiko mencakup eksposur \nkuantitatif dan kualitatif, secara keseluruhan (composite) \nmaupun rincian per jenis Risiko dan per jenis aktivitas \n\n\n \nfungsional. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (2) \nLaporan atau informasi yang disampaikan kepada Direksi dapat \nditingkatkan frekuensinya sesuai dengan kebutuhan BUS. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nInformasi keuangan dan manajemen yang lengkap, akurat, \ntepat guna, dan tepat waktu diperlukan dalam rangka \npengambilan \nkeputusan \nyang \ntepat \ndan \ndapat \ndipertanggungjawabkan, serta dikomunikasikan kepada \npihak yang berkepentingan. \nHuruf c \nEfektivitas dan efisiensi dalam kegiatan operasional antara \nlain diperlukan untuk melindungi aset dan sumber daya \nBank lainnya dari Risiko terkait. \nHuruf d \nEfektivitas budaya Risiko (risk culture) dimaksudkan untuk \nmengidentifikasi kelemahan dan penyimpangan secara lebih \ndini dan menilai kembali kewajaran kebijakan dan prosedur \nyang ada pada Bank secara berkesinambungan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nInformasi keuangan dan manajemen yang lengkap, akurat, \ntepat guna, dan tepat waktu diperlukan dalam rangka \npengambilan \nkeputusan \nyang \ntepat \ndan \ndapat \ndipertanggungjawabkan, serta dikomunikasikan kepada \npihak yang berkepentingan. \nHuruf c \nEfektivitas dan efisiensi dalam kegiatan operasional antara \nlain diperlukan untuk melindungi aset dan sumber daya \nBank lainnya dari Risiko terkait. \nHuruf d \nEfektivitas budaya Risiko (risk culture) dimaksudkan untuk \nmengidentifikasi kelemahan dan penyimpangan secara lebih \ndini dan menilai kembali kewajaran kebijakan dan prosedur \nyang ada pada Bank secara berkesinambungan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nKomite Manajemen Risiko harus bersifat non struktural. \nHuruf b \nSatuan kerja Manajemen Risiko merupakan bagian dari \nstruktur organisasi Bank (bersifat struktural). \nAyat (2) \nPengaturan ini dimaksudkan agar UUS dapat menentukan \nstruktur organisasi yang tepat dan sesuai dengan kondisi BUK, \ntermasuk kemampuan keuangan dan sumber daya manusia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nKomite Manajemen Risiko harus bersifat non struktural. \nHuruf b \nSatuan kerja Manajemen Risiko merupakan bagian dari \nstruktur organisasi Bank (bersifat struktural). \nAyat (2) \nPengaturan ini dimaksudkan agar UUS dapat menentukan \nstruktur organisasi yang tepat dan sesuai dengan kondisi BUK, \ntermasuk kemampuan keuangan dan sumber daya manusia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKeanggotaan \nKomite \nManajemen \nRisiko \ndapat \nberupa \nkeanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan \nBank. \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “pejabat eksekutif terkait” adalah \npejabat Bank satu tingkat di bawah Direksi yang memimpin \nsatuan kerja operasional dan satuan kerja Manajemen \nRisiko. \nKeanggotaan \npejabat \neksekutif \ndalam \nkomite \nManajemen Risiko disesuaikan dengan permasalahan dan \nkebutuhan Bank. \nAyat (2) \nKeanggotaan \nKomite \nManajemen \nRisiko \ndapat \nberupa \nkeanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan \nUUS. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \n\n\n \nHuruf c \nYang dimaksud dengan “pejabat eksekutif terkait” adalah \npejabat UUS dan BUK satu tingkat di bawah Direksi yang \nmemimpin satuan kerja operasional dan satuan kerja \nManajemen Risiko. Keanggotaan pejabat eksekutif dalam \nkomite Manajemen Risiko disesuaikan dengan permasalahan \ndan kebutuhan UUS. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nTermasuk dalam keputusan bisnis yang tidak sesuai dengan \nprosedur normal antara lain pelampauan ekspansi usaha \nyang signifikan dibandingkan rencana bisnis Bank dan \npengambilan posisi atau eksposur Risiko yang tidak sesuai \ndengan limit yang telah ditetapkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKeanggotaan \nKomite \nManajemen \nRisiko \ndapat \nberupa \nkeanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan \nBank. \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “pejabat eksekutif terkait” adalah \npejabat Bank satu tingkat di bawah Direksi yang memimpin \nsatuan kerja operasional dan satuan kerja Manajemen \nRisiko. \nKeanggotaan \npejabat \neksekutif \ndalam \nkomite \nManajemen Risiko disesuaikan dengan permasalahan dan \nkebutuhan Bank. \nAyat (2) \nKeanggotaan \nKomite \nManajemen \nRisiko \ndapat \nberupa \nkeanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan \nUUS. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \n\n\n \nHuruf c \nYang dimaksud dengan “pejabat eksekutif terkait” adalah \npejabat UUS dan BUK satu tingkat di bawah Direksi yang \nmemimpin satuan kerja operasional dan satuan kerja \nManajemen Risiko. Keanggotaan pejabat eksekutif dalam \nkomite Manajemen Risiko disesuaikan dengan permasalahan \ndan kebutuhan UUS. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nTermasuk dalam keputusan bisnis yang tidak sesuai dengan \nprosedur normal antara lain pelampauan ekspansi usaha \nyang signifikan dibandingkan rencana bisnis Bank dan \npengambilan posisi atau eksposur Risiko yang tidak sesuai \ndengan limit yang telah ditetapkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPengaturan ini dimaksudkan agar Bank dapat menentukan \nstruktur organisasi yang tepat dan sesuai dengan kondisi Bank, \ntermasuk kemampuan keuangan dan sumber daya manusia. \nAyat (2) \nYang dimaksud dengan “independen” antara lain tercermin dari \nadanya: \n1. \npemisahan \nfungsi \natau \ntugas \nantara \nsatuan \nkerja \nManajemen Risiko dengan satuan kerja operasional (risk-\ntaking unit) dan satuan kerja yang melaksanakan fungsi \npengendalian intern; dan \n2. \nproses pengambilan keputusan yang tidak memihak atau \nmenguntungkan satuan kerja operasional tertentu atau \nmengabaikan satuan kerja operasional lainnya. \nYang dimaksud dengan satuan kerja operasional (risk-taking unit) \n\n\n \nantara lain satuan kerja pembiayaan, treasuri, dan pendanaan. \n \nAyat (3) \nYang dimaksud dengan “direktur yang ditugaskan secara khusus” \nadalah direktur yang membawahkan fungsi kepatuhan atau \nDirektur Manajemen Risiko. Istilah Direktur Utama dapat \ndipersamakan dengan Presiden Direktur. \nAyat (4) \nWewenang dan tanggung jawab satuan kerja Manajemen Risiko \ndisesuaikan dengan tujuan usaha, kompleksitas usaha, dan \nkemampuan Bank. \nHuruf a \nCukup jelas. \nHuruf b \nStress testing dilakukan guna mengetahui dampak dari \nimplementasi kebijakan dan strategi Manajemen Risiko \nterhadap kinerja dan pendapatan masing-masing satuan \nkerja operasional atau aktivitas fungsional Bank. \nHuruf c \nKaji ulang antara lain dilakukan berdasarkan temuan audit \nintern dan/atau perkembangan praktek-praktek Manajemen \nRisiko yang berlaku secara internasional. \nHuruf d \nTermasuk dalam pengkajian adalah penilaian kemampuan \nBank untuk melakukan aktivitas dan/atau produk baru dan \nkajian usulan perubahan sistem dan prosedur serta \npemenuhan terhadap Prinsip Syariah. \nHuruf e \nCukup jelas. \nHuruf f \nRekomendasi antara lain memuat rekomendasi yang terkait \ndengan besaran atau maksimum eksposur Risiko yang wajib \ndipelihara oleh Bank. \nHuruf g \nProfil Risiko merupakan gambaran secara menyeluruh atas \nbesarnya potensi Risiko yang melekat pada seluruh portofolio \natau eksposur Bank. Frekuensi penyampaian laporan \n\n\n \nditingkatkan dalam hal kondisi pasar berubah dengan cepat. \nUntuk eksposur Risiko yang berubah relatif lama, seperti \nRisiko Kredit maka penyampaian laporan disampaikan paling \nsedikit 1 (satu) kali dalam 1 (satu) bulan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPengaturan ini dimaksudkan agar Bank dapat menentukan \nstruktur organisasi yang tepat dan sesuai dengan kondisi Bank, \ntermasuk kemampuan keuangan dan sumber daya manusia. \nAyat (2) \nYang dimaksud dengan “independen” antara lain tercermin dari \nadanya: \n1. \npemisahan \nfungsi \natau \ntugas \nantara \nsatuan \nkerja \nManajemen Risiko dengan satuan kerja operasional (risk-\ntaking unit) dan satuan kerja yang melaksanakan fungsi \npengendalian intern; dan \n2. \nproses pengambilan keputusan yang tidak memihak atau \nmenguntungkan satuan kerja operasional tertentu atau \nmengabaikan satuan kerja operasional lainnya. \nYang dimaksud dengan satuan kerja operasional (risk-taking unit) \n\n\n \nantara lain satuan kerja pembiayaan, treasuri, dan pendanaan. \n \nAyat (3) \nYang dimaksud dengan “direktur yang ditugaskan secara khusus” \nadalah direktur yang membawahkan fungsi kepatuhan atau \nDirektur Manajemen Risiko. Istilah Direktur Utama dapat \ndipersamakan dengan Presiden Direktur. \nAyat (4) \nWewenang dan tanggung jawab satuan kerja Manajemen Risiko \ndisesuaikan dengan tujuan usaha, kompleksitas usaha, dan \nkemampuan Bank. \nHuruf a \nCukup jelas. \nHuruf b \nStress testing dilakukan guna mengetahui dampak dari \nimplementasi kebijakan dan strategi Manajemen Risiko \nterhadap kinerja dan pendapatan masing-masing satuan \nkerja operasional atau aktivitas fungsional Bank. \nHuruf c \nKaji ulang antara lain dilakukan berdasarkan temuan audit \nintern dan/atau perkembangan praktek-praktek Manajemen \nRisiko yang berlaku secara internasional. \nHuruf d \nTermasuk dalam pengkajian adalah penilaian kemampuan \nBank untuk melakukan aktivitas dan/atau produk baru dan \nkajian usulan perubahan sistem dan prosedur serta \npemenuhan terhadap Prinsip Syariah. \nHuruf e \nCukup jelas. \nHuruf f \nRekomendasi antara lain memuat rekomendasi yang terkait \ndengan besaran atau maksimum eksposur Risiko yang wajib \ndipelihara oleh Bank. \nHuruf g \nProfil Risiko merupakan gambaran secara menyeluruh atas \nbesarnya potensi Risiko yang melekat pada seluruh portofolio \natau eksposur Bank. Frekuensi penyampaian laporan \n\n\n \nditingkatkan dalam hal kondisi pasar berubah dengan cepat. \nUntuk eksposur Risiko yang berubah relatif lama, seperti \nRisiko Kredit maka penyampaian laporan disampaikan paling \nsedikit 1 (satu) kali dalam 1 (satu) bulan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Frekuensi penyampaian informasi eksposur Risiko disesuaikan \ndengan karakteristik jenis Risiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Frekuensi penyampaian informasi eksposur Risiko disesuaikan \ndengan karakteristik jenis Risiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nLaporan profil Risiko disajikan secara komparatif dengan posisi \ntriwulan sebelumnya.  \nAyat (6) \nCukup jelas.  \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nLaporan profil Risiko disajikan secara komparatif dengan posisi \ntriwulan sebelumnya.  \nAyat (6) \nCukup jelas.  \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nUntuk laporan profil Risiko secara individu posisi bulan \nSeptember 2016, Bank wajib menyampaikan laporan dimaksud \nkepada Otoritas Jasa Keuangan paling lambat pada tanggal 21 \nOktober 2016. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas \n\n\n \n \nAyat (4) \n \n \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara individu \nposisi bulan September 2016 pada tanggal 22 Oktober 2016 \nsampai dengan tanggal 21 November 2016, maka Bank dianggap \nterlambat menyampaikan laporan. \nAyat (5) \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara individu \nposisi bulan September 2016 setelah tanggal 21 November 2016, \nmaka Bank dianggap tidak menyampaikan laporan dimaksud.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nUntuk laporan profil Risiko secara individu posisi bulan \nSeptember 2016, Bank wajib menyampaikan laporan dimaksud \nkepada Otoritas Jasa Keuangan paling lambat pada tanggal 21 \nOktober 2016. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas \n\n\n \n \nAyat (4) \n \n \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara individu \nposisi bulan September 2016 pada tanggal 22 Oktober 2016 \nsampai dengan tanggal 21 November 2016, maka Bank dianggap \nterlambat menyampaikan laporan. \nAyat (5) \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara individu \nposisi bulan September 2016 setelah tanggal 21 November 2016, \nmaka Bank dianggap tidak menyampaikan laporan dimaksud."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nContoh: \nUntuk laporan profil Risiko secara konsolidasi posisi bulan \nSeptember 2016, Bank wajib menyampaikan laporan dimaksud \nkepada Otoritas Jasa Keuangan paling lambat pada tanggal 30 \nOktober 2016. Mengingat tanggal 30 Oktober 2016 merupakan \nhari libur maka laporan profil Risiko disampaikan paling lambat \npada tanggal 31 Oktober 2016.  \nAyat (3) \nCukup jelas.  \nAyat (4) \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara \nkonsolidasi posisi bulan September 2016 pada tanggal 1 \nNovember 2016 sampai dengan tanggal 17 November 2016, maka \nBank dianggap terlambat menyampaikan laporan. \nAyat (5) \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara \nkonsolidasi posisi bulan September 2016 setelah tanggal 17 \nNovember 2016, maka Bank dianggap tidak menyampaikan \nlaporan dimaksud.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nContoh: \nUntuk laporan profil Risiko secara konsolidasi posisi bulan \nSeptember 2016, Bank wajib menyampaikan laporan dimaksud \nkepada Otoritas Jasa Keuangan paling lambat pada tanggal 30 \nOktober 2016. Mengingat tanggal 30 Oktober 2016 merupakan \nhari libur maka laporan profil Risiko disampaikan paling lambat \npada tanggal 31 Oktober 2016.  \nAyat (3) \nCukup jelas.  \nAyat (4) \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara \nkonsolidasi posisi bulan September 2016 pada tanggal 1 \nNovember 2016 sampai dengan tanggal 17 November 2016, maka \nBank dianggap terlambat menyampaikan laporan. \nAyat (5) \nContoh: \nApabila Bank menyampaikan laporan profil Risiko secara \nkonsolidasi posisi bulan September 2016 setelah tanggal 17 \nNovember 2016, maka Bank dianggap tidak menyampaikan \nlaporan dimaksud."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nLaporan lain yang terkait dengan penerapan Manajemen Risiko \nantara lain Laporan Proyeksi Arus Kas dan Laporan Profil \nMaturitas dalam rangka Penerapan Manajemen Risiko untuk \nRisiko Likuiditas. \nAyat (3) \nKetentuan yang mengatur mengenai pelaporan bank antara lain \nketentuan mengenai Laporan Berkala Bank Umum dan Laporan \nKantor Pusat Bank Umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nLaporan lain yang terkait dengan penerapan Manajemen Risiko \nantara lain Laporan Proyeksi Arus Kas dan Laporan Profil \nMaturitas dalam rangka Penerapan Manajemen Risiko untuk \nRisiko Likuiditas. \nAyat (3) \nKetentuan yang mengatur mengenai pelaporan bank antara lain \nketentuan mengenai Laporan Berkala Bank Umum dan Laporan \nKantor Pusat Bank Umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penilaian terhadap penerapan Manajemen Risiko pada Bank termasuk \npenilaian Risiko yang melekat (inherent risk) dan kecukupan sistem \npengendalian Risiko (risk control system).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian terhadap penerapan Manajemen Risiko pada Bank termasuk \npenilaian Risiko yang melekat (inherent risk) dan kecukupan sistem \npengendalian Risiko (risk control system)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nKinerja \nManajemen \nRisiko \nmerupakan \nhasil \npenerapan \nManajemen Risiko untuk periode awal tahun (Januari) sampai \ndengan \nakhir \ntahun \n(Desember) \ntermasuk \nprofil \nRisiko, \nsedangkan arah kebijakan Manajemen Risiko merupakan arah \ndan strategi Manajemen Risiko periode 1 (satu) tahun ke depan. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nKinerja \nManajemen \nRisiko \nmerupakan \nhasil \npenerapan \nManajemen Risiko untuk periode awal tahun (Januari) sampai \ndengan \nakhir \ntahun \n(Desember) \ntermasuk \nprofil \nRisiko, \nsedangkan arah kebijakan Manajemen Risiko merupakan arah \ndan strategi Manajemen Risiko periode 1 (satu) tahun ke depan. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “hari” adalah hari kerja. \nAyat (2) \nBank yang telah dikenakan sanksi administratif  berupa denda \ndalam \nayat \nini \ntidak \ndikenakan \nsanksi \nketerlambatan \nsebagaimana dimaksud pada ayat (1). \nAyat (3) \nCukup jelas. \nAyat (4) \nBank yang telah dikenakan sanksi administratif berupa denda \npada ayat ini tidak dikenakan sanksi keterlambatan sebagaimana \ndimaksud pada ayat (1). \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “hari” adalah hari kerja. \nAyat (2) \nBank yang telah dikenakan sanksi administratif  berupa denda \ndalam \nayat \nini \ntidak \ndikenakan \nsanksi \nketerlambatan \nsebagaimana dimaksud pada ayat (1). \nAyat (3) \nCukup jelas. \nAyat (4) \nBank yang telah dikenakan sanksi administratif berupa denda \npada ayat ini tidak dikenakan sanksi keterlambatan sebagaimana \ndimaksud pada ayat (1). \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5988 \n\n\nLAMPIRAN \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   65/POJK.03/2016   \nTENTANG  \nPENERAPAN \nMANAJEMEN \nRISIKO \nBAGI \nBANK UMUM SYARIAH  DAN UNIT USAHA \nSYARIAH \n \nI. Format Laporan Profil Risiko untuk Bank Secara Individu \n \nPROFIL RISIKO \nUNTUK BANK SECARA INDIVIDU \n \n \nNama Bank  \n: \nPosisi \n \n:  31 Maret/30 September 20…. \n \nProfil Risiko \nPenilaian Per Posisi \nPenilaian Posisi Sebelumnya \nPeringkat \nRisiko \nInheren \n \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nPeringkat \nRisiko \nInheren \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nRisiko Kredit \n \nRisiko Pasar \n \nRisiko Likuiditas \n \nRisiko Operasional \n \nRisiko Hukum \n \nRisiko Stratejik \n \nRisiko Kepatuhan \n \nRisiko Reputasi \n \nRisiko Imbal Hasil \n \nRisiko Investasi \n \nPeringkat Komposit \n \n \n \nPeringkat  \nProfil Risiko \n \n \nPeringkat \nProfil Risiko \n \n \nAnalisis \nUraian mengenai profil Risiko bank secara keseluruhan meliputi penilaian atas Risiko inheren dan \nkualitas penerapan Manajemen Risiko, dengan fokus pada eksposur Risiko yang signifikan pada \nBank. \n \n \n \n \n \n \n \n \n\n\n \nII. Format Laporan Profil Risiko untuk Bank Secara Konsolidasi \n \n \nPROFIL RISIKO \nUNTUK BANK SECARA KONSOLIDASI*) \n \nNama Bank \n \n: \nPosisi  \n \n:  31 Maret/30 September 20…. \n \nProfil Risiko \nPenilaian Per Posisi \nPenilaian Posisi Sebelumnya \nPeringkat \nRisiko \nInheren \n \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nPeringkat \nRisiko \nInheren \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nRisiko Kredit \nRisiko Pasar \nRisiko Likuiditas \nRisiko Operasional \nRisiko Hukum \nRisiko Stratejik \nRisiko Kepatuhan \nRisiko Reputasi \nRisiko Imbal Hasil \nRisiko Investasi \nPeringkat Komposit \n \n \n \nPeringkat  \nProfil Risiko \n \n \nPeringkat \nProfil Risiko \n*) Hanya diisi oleh Bank yang memiliki Perusahaan Anak \n \n \nAnalisis \n \nUraian mengenai profil Risiko Bank secara keseluruhan meliputi penilaian atas Risiko inheren dan \nkualitas penerapan Manajemen Risiko, dengan fokus pada eksposur Risiko yang signifikan pada Bank. \nDalam hal Bank memiliki perusahaan anak yang wajib dikonsolidasikan, Bank memperhitungkan \ndampak Risiko perusahaan anak terhadap profil Risiko Bank dengan mempertimbangkan signifikansi \ndan materialitas perusahaan anak dan atau signifikasi permasalahan perusahaan anak. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nIII. Format Laporan Analisis Risiko \n \n \n \nANALISIS RISIKO ………….*)  \nNama Bank \n: \nPosisi \n: \n \nAnalisis \nPeringkat Risiko: \nKesimpulan akhir mengenai tingkat Risiko Bank yang mencakup tingkat Risiko inheren dan kualitas \npenerapan Manajemen Risiko sehingga dapat menggambarkan tingkat Risiko Bank. \nRisiko Inheren: \nUraian mengenai penilaian Risiko inheren berdasarkan analisis terhadap faktor penilaian dengan \nmenggunakan baik indikator kuantitatif maupun kualitatif sehingga dapat menggambarkan tingkat \nRisiko inheren Bank.  \nKualitas Penerapan Manajemen Risiko: \nAnalisis terhadap Kualitas Penerapan Manajemen Risiko terdiri dari tata kelola Risiko; kerangka \nmanajemen Risiko; proses Manajemen Risiko, SDM, dan MIS; dan pengendalian Risiko.  \n \n*)  Kertas kerja ini digunakan untuk mendukung analisis atas Risiko-Risiko pada Bank, meliputi Risiko \nKredit, Risiko Pasar, Risiko Likuiditas, Risiko Operasional, Risiko Hukum, Risiko Stratejik, Risiko \nKepatuhan, Risiko Reputasi, Risiko Imbal Hasil, dan Risiko Investasi.  \n \n \n     Ditetapkan di Jakarta \n                                                                       pada tanggal 23 Desember 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n \n \n \n \n \n \nttd \n \nMULIAMAN D. HADAD \n \n \n \n \n \n \n \n \n \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum  \n \nttd \n \nYuliana",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5988 \n\n\nLAMPIRAN \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   65/POJK.03/2016   \nTENTANG  \nPENERAPAN \nMANAJEMEN \nRISIKO \nBAGI \nBANK UMUM SYARIAH  DAN UNIT USAHA \nSYARIAH \n \nI. Format Laporan Profil Risiko untuk Bank Secara Individu \n \nPROFIL RISIKO \nUNTUK BANK SECARA INDIVIDU \n \n \nNama Bank  \n: \nPosisi \n \n:  31 Maret/30 September 20…. \n \nProfil Risiko \nPenilaian Per Posisi \nPenilaian Posisi Sebelumnya \nPeringkat \nRisiko \nInheren \n \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nPeringkat \nRisiko \nInheren \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nRisiko Kredit \n \nRisiko Pasar \n \nRisiko Likuiditas \n \nRisiko Operasional \n \nRisiko Hukum \n \nRisiko Stratejik \n \nRisiko Kepatuhan \n \nRisiko Reputasi \n \nRisiko Imbal Hasil \n \nRisiko Investasi \n \nPeringkat Komposit \n \n \n \nPeringkat  \nProfil Risiko \n \n \nPeringkat \nProfil Risiko \n \n \nAnalisis \nUraian mengenai profil Risiko bank secara keseluruhan meliputi penilaian atas Risiko inheren dan \nkualitas penerapan Manajemen Risiko, dengan fokus pada eksposur Risiko yang signifikan pada \nBank. \n \n \n \n \n \n \n \n \n\n\n \nII. Format Laporan Profil Risiko untuk Bank Secara Konsolidasi \n \n \nPROFIL RISIKO \nUNTUK BANK SECARA KONSOLIDASI*) \n \nNama Bank \n \n: \nPosisi  \n \n:  31 Maret/30 September 20…. \n \nProfil Risiko \nPenilaian Per Posisi \nPenilaian Posisi Sebelumnya \nPeringkat \nRisiko \nInheren \n \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nPeringkat \nRisiko \nInheren \nPeringkat \nKualitas \nPenerapan \nManajemen \nRisiko \nPeringkat \nRisiko \nRisiko Kredit \nRisiko Pasar \nRisiko Likuiditas \nRisiko Operasional \nRisiko Hukum \nRisiko Stratejik \nRisiko Kepatuhan \nRisiko Reputasi \nRisiko Imbal Hasil \nRisiko Investasi \nPeringkat Komposit \n \n \n \nPeringkat  \nProfil Risiko \n \n \nPeringkat \nProfil Risiko \n*) Hanya diisi oleh Bank yang memiliki Perusahaan Anak \n \n \nAnalisis \n \nUraian mengenai profil Risiko Bank secara keseluruhan meliputi penilaian atas Risiko inheren dan \nkualitas penerapan Manajemen Risiko, dengan fokus pada eksposur Risiko yang signifikan pada Bank. \nDalam hal Bank memiliki perusahaan anak yang wajib dikonsolidasikan, Bank memperhitungkan \ndampak Risiko perusahaan anak terhadap profil Risiko Bank dengan mempertimbangkan signifikansi \ndan materialitas perusahaan anak dan atau signifikasi permasalahan perusahaan anak. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nIII. Format Laporan Analisis Risiko \n \n \n \nANALISIS RISIKO ………….*)  \nNama Bank \n: \nPosisi \n: \n \nAnalisis \nPeringkat Risiko: \nKesimpulan akhir mengenai tingkat Risiko Bank yang mencakup tingkat Risiko inheren dan kualitas \npenerapan Manajemen Risiko sehingga dapat menggambarkan tingkat Risiko Bank. \nRisiko Inheren: \nUraian mengenai penilaian Risiko inheren berdasarkan analisis terhadap faktor penilaian dengan \nmenggunakan baik indikator kuantitatif maupun kualitatif sehingga dapat menggambarkan tingkat \nRisiko inheren Bank.  \nKualitas Penerapan Manajemen Risiko: \nAnalisis terhadap Kualitas Penerapan Manajemen Risiko terdiri dari tata kelola Risiko; kerangka \nmanajemen Risiko; proses Manajemen Risiko, SDM, dan MIS; dan pengendalian Risiko.  \n \n*)  Kertas kerja ini digunakan untuk mendukung analisis atas Risiko-Risiko pada Bank, meliputi Risiko \nKredit, Risiko Pasar, Risiko Likuiditas, Risiko Operasional, Risiko Hukum, Risiko Stratejik, Risiko \nKepatuhan, Risiko Reputasi, Risiko Imbal Hasil, dan Risiko Investasi.  \n \n \n     Ditetapkan di Jakarta \n                                                                       pada tanggal 23 Desember 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n \n \n \n \n \n \nttd \n \nMULIAMAN D. HADAD \n \n \n \n \n \n \n \n \n \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum  \n \nttd \n \nYuliana"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 70,
+  "total_ayat": 122,
+  "total_karakter": 56996,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

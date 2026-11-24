@@ -1,0 +1,101 @@
+{
+  "run_id": "index_20261117_103201",
+  "timestamp_utc": "2026-11-17T10:32:01.114618+00:00",
+  "phase": 3,
+  "config": {
+    "version": "v1",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dim": 384,
+    "parsed_dir": "data/parsed",
+    "bm25_dir": "index/bm25",
+    "batch_size": 256,
+    "qdrant": {
+      "host": "127.0.0.1",
+      "port": 6334,
+      "prefer_grpc": true
+    },
+    "strategies": {
+      "fixed": {
+        "chunk_size_chars": 600,
+        "overlap_chars": 100,
+        "collection_name": "reg_fixed_v1",
+        "bm25_index_file": "index/bm25/fixed_v1.pkl"
+      },
+      "heading_aware": {
+        "max_chunk_chars": 1500,
+        "collection_name": "reg_heading_aware_v1",
+        "bm25_index_file": "index/bm25/heading_aware_v1.pkl"
+      },
+      "hierarchical": {
+        "child_max_chars": 600,
+        "collection_name": "reg_hierarchical_v1",
+        "bm25_index_file": "index/bm25/hierarchical_v1.pkl"
+      }
+    }
+  },
+  "acceptance": {
+    "indices_versioned": true,
+    "index_sizes_recorded": true,
+    "context_lengths_recorded": true,
+    "all_strategies_built": true
+  },
+  "summary": {
+    "fixed": {
+      "version": "v1",
+      "collection_name": "reg_fixed_v1",
+      "points_count": 50813,
+      "bm25_index_file": "index/bm25/fixed_v1.pkl",
+      "stats": {
+        "total_chunks": 50813,
+        "char_mean": 597.2,
+        "char_p50": 600,
+        "char_p95": 600,
+        "char_min": 33,
+        "char_max": 600,
+        "token_mean": 79.7,
+        "token_p50": 80,
+        "token_p95": 92
+      },
+      "bm25_size_mb": 65.89,
+      "qdrant_dir_size_mb": 0.0
+    },
+    "heading_aware": {
+      "version": "v1",
+      "collection_name": "reg_heading_aware_v1",
+      "points_count": 21141,
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "stats": {
+        "total_chunks": 35828,
+        "char_mean": 765.2,
+        "char_p50": 591,
+        "char_p95": 1563,
+        "char_min": 49,
+        "char_max": 262563,
+        "token_mean": 102.8,
+        "token_p50": 80,
+        "token_p95": 214
+      },
+      "bm25_size_mb": 55.05,
+      "qdrant_dir_size_mb": 0.0
+    },
+    "hierarchical": {
+      "version": "v1",
+      "collection_name": "reg_hierarchical_v1",
+      "points_count": 48748,
+      "bm25_index_file": "index/bm25/hierarchical_v1.pkl",
+      "stats": {
+        "total_chunks": 54143,
+        "char_mean": 478.2,
+        "char_p50": 254,
+        "char_p95": 1165,
+        "char_min": 39,
+        "char_max": 262534,
+        "token_mean": 65.6,
+        "token_p50": 36,
+        "token_p95": 156
+      },
+      "bm25_size_mb": 83.37,
+      "qdrant_dir_size_mb": 0.0
+    }
+  }
+}

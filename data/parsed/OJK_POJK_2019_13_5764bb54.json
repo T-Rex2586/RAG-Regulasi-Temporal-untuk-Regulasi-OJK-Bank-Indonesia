@@ -1,0 +1,953 @@
+{
+  "doc_id": "OJK_POJK_2019_13_5764bb54",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "13",
+  "tahun": "2019",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 13/POJK.03/2019 tentang Pelaporan Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah melalui Sistem Pelaporan Otoritas Jasa Keuangan",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "29 April 2019",
+  "tanggal_berlaku": "1 Januari 2020",
+  "diundangkan_pada": "30 April 2019",
+  "mencabut": [],
+  "mengubah": [
+    "Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan"
+  ],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCATATAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud dengan: \n1. \nBank Perkreditan Rakyat yang selanjutnya disingkat BPR adalah \nbank yang melaksanakan kegiatan usaha secara konvensional \nyang dalam kegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran. \n \n\n\n \n2. \nBank Pembiayaan Rakyat Syariah yang selanjutnya disingkat \nBPRS adalah bank syariah yang dalam kegiatannya tidak \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nSistem Pelaporan Otoritas Jasa Keuangan adalah sistem \ninformasi yang digunakan sebagai sarana penyampaian laporan \nsecara daring oleh BPR dan BPRS kepada Otoritas Jasa \nKeuangan. \n4. \nLaporan Bulanan BPR adalah laporan keuangan dan informasi \nlain yang disusun oleh BPR untuk kepentingan Otoritas Jasa \nKeuangan, yang disajikan menurut sistematika yang ditentukan \noleh Otoritas Jasa Keuangan dalam format dan definisi yang \nseragam.  \n5. \nLaporan Bulanan BPRS adalah laporan keuangan dan informasi \nlain yang disusun oleh BPRS untuk kepentingan Otoritas Jasa \nKeuangan, yang disajikan menurut sistematika yang ditentukan \noleh Otoritas Jasa Keuangan dalam format dan definisi yang \nseragam. \n \nBAB II \nLAPORAN BPR DAN BPRS MELALUI  \nSISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud dengan: \n1. \nBank Perkreditan Rakyat yang selanjutnya disingkat BPR adalah \nbank yang melaksanakan kegiatan usaha secara konvensional \nyang dalam kegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran. \n \n\n\n \n2. \nBank Pembiayaan Rakyat Syariah yang selanjutnya disingkat \nBPRS adalah bank syariah yang dalam kegiatannya tidak \nmemberikan jasa dalam lalu lintas pembayaran. \n3. \nSistem Pelaporan Otoritas Jasa Keuangan adalah sistem \ninformasi yang digunakan sebagai sarana penyampaian laporan \nsecara daring oleh BPR dan BPRS kepada Otoritas Jasa \nKeuangan. \n4. \nLaporan Bulanan BPR adalah laporan keuangan dan informasi \nlain yang disusun oleh BPR untuk kepentingan Otoritas Jasa \nKeuangan, yang disajikan menurut sistematika yang ditentukan \noleh Otoritas Jasa Keuangan dalam format dan definisi yang \nseragam.  \n5. \nLaporan Bulanan BPRS adalah laporan keuangan dan informasi \nlain yang disusun oleh BPRS untuk kepentingan Otoritas Jasa \nKeuangan, yang disajikan menurut sistematika yang ditentukan \noleh Otoritas Jasa Keuangan dalam format dan definisi yang \nseragam. \n \nBAB II \nLAPORAN BPR DAN BPRS MELALUI  \nSISTEM PELAPORAN OTORITAS JASA KEUANGAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "teks_lengkap": "(1) \nLaporan BPR dan BPRS melalui Sistem Pelaporan Otoritas Jasa \nKeuangan meliputi: \na. \nLaporan Bulanan BPR; \nb. \nLaporan Bulanan BPRS;  \nc. \nrencana bisnis serta laporan realisasi rencana bisnis BPR \ndan BPRS berdasarkan ketentuan Peraturan Otoritas Jasa \nKeuangan; dan \nd. \nlaporan lain yang disampaikan oleh BPR dan BPRS secara \ndaring berdasarkan ketentuan Peraturan Otoritas Jasa \nKeuangan. \n(2) \nBPR dan BPRS wajib menyusun dan menyampaikan laporan BPR \ndan BPRS sebagaimana dimaksud pada ayat (1) kepada Otoritas \n\n\n \nJasa Keuangan melalui Sistem Pelaporan Otoritas Jasa Keuangan \nsecara lengkap, akurat, kini, utuh, dan tepat waktu. \n(3) \nBPR dan BPRS bertanggung jawab atas kebenaran dan \nkelengkapan isi serta ketepatan waktu penyampaian laporan BPR \ndan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \nsebagaimana dimaksud pada ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan BPR dan BPRS melalui Sistem Pelaporan Otoritas Jasa \nKeuangan meliputi: \na. \nLaporan Bulanan BPR; \nb. \nLaporan Bulanan BPRS;  \nc. \nrencana bisnis serta laporan realisasi rencana bisnis BPR \ndan BPRS berdasarkan ketentuan Peraturan Otoritas Jasa \nKeuangan; dan \nd. \nlaporan lain yang disampaikan oleh BPR dan BPRS secara \ndaring berdasarkan ketentuan Peraturan Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS wajib menyusun dan menyampaikan laporan BPR \ndan BPRS sebagaimana dimaksud pada ayat (1) kepada Otoritas \n\n\n \nJasa Keuangan melalui Sistem Pelaporan Otoritas Jasa Keuangan \nsecara lengkap, akurat, kini, utuh, dan tepat waktu."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS bertanggung jawab atas kebenaran dan \nkelengkapan isi serta ketepatan waktu penyampaian laporan BPR \ndan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \nsebagaimana dimaksud pada ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "teks_lengkap": "(1) \nKewajiban penyampaian laporan BPR dan BPRS melalui Sistem \nPelaporan Otoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 2 ayat (2) dapat dikecualikan untuk:  \na. \nBPR dan BPRS yang baru beroperasi paling lama 3 (tiga) \nbulan sejak pertama kali memulai kegiatan operasional; \ndan/atau \nb. \nBPR dan BPRS yang mengalami gangguan teknis.  \n(2) \nBPR dan BPRS memperoleh pengecualian sebagaimana dimaksud \npada ayat (1) dengan menyampaikan surat pemberitahuan kepada \nOtoritas Jasa Keuangan disertai alasan.  \n(3) \nBPR dan BPRS sebagaimana dimaksud pada ayat (1) huruf a \nmenyampaikan laporan BPR dan BPRS secara luring. \n(4) \nPenyampaian laporan BPR dan BPRS sebagaimana dimaksud \npada ayat (3) wajib dilakukan paling lambat pada hari kerja \nberikutnya apabila batas waktu periode penyampaian laporan \njatuh pada hari Sabtu, hari Minggu, atau hari libur. \n(5) \nBPR dan BPRS sebagaimana dimaksud pada ayat (1) huruf b \nmenyampaikan laporan BPR dan BPRS secara luring. \n(6) \nPenyampaian laporan sebagaimana dimaksud pada ayat (5) wajib \ndilakukan paling lambat 3 (tiga) hari kerja setelah batas waktu \npenyampaian \nlaporan \nBPR \ndan \nBPRS \ndengan \nsurat \npemberitahuan kepada Otoritas Jasa Keuangan disertai dokumen \npendukung.  \n(7) \nApabila gangguan teknis dapat diatasi sebelum 3 (tiga) hari kerja \nsebagaimana dimaksud pada ayat (6) serta BPR dan BPRS tidak \nmenyampaikan \nlaporan \nsecara \nluring, \nBPR \ndan \nBPRS \nsebagaimana \ndimaksud \npada \nayat \n(1) \nhuruf \nb \nwajib \n\n\n \nmenyampaikan laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan. \n(8) \nPenyampaian laporan BPR dan BPRS sebagaimana dimaksud \npada ayat (7) paling lambat 3 (tiga) hari kerja setelah batas waktu \npenyampaian laporan, dengan surat pemberitahuan kepada \nOtoritas Jasa Keuangan disertai dokumen pendukung. \n(9) \nBPR dan BPRS tetap bertanggung jawab terhadap laporan BPR \ndan BPRS yang disampaikan secara luring sebagaimana \ndimaksud pada ayat (3) dan ayat (5).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewajiban penyampaian laporan BPR dan BPRS melalui Sistem \nPelaporan Otoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 2 ayat (2) dapat dikecualikan untuk:  \na. \nBPR dan BPRS yang baru beroperasi paling lama 3 (tiga) \nbulan sejak pertama kali memulai kegiatan operasional; \ndan/atau \nb. \nBPR dan BPRS yang mengalami gangguan teknis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS memperoleh pengecualian sebagaimana dimaksud \npada ayat (1) dengan menyampaikan surat pemberitahuan kepada \nOtoritas Jasa Keuangan disertai alasan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS sebagaimana dimaksud pada ayat (1) huruf a \nmenyampaikan laporan BPR dan BPRS secara luring."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyampaian laporan BPR dan BPRS sebagaimana dimaksud \npada ayat (3) wajib dilakukan paling lambat pada hari kerja \nberikutnya apabila batas waktu periode penyampaian laporan \njatuh pada hari Sabtu, hari Minggu, atau hari libur."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "BPR dan BPRS sebagaimana dimaksud pada ayat (1) huruf b \nmenyampaikan laporan BPR dan BPRS secara luring."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Penyampaian laporan sebagaimana dimaksud pada ayat (5) wajib \ndilakukan paling lambat 3 (tiga) hari kerja setelah batas waktu \npenyampaian \nlaporan \nBPR \ndan \nBPRS \ndengan \nsurat \npemberitahuan kepada Otoritas Jasa Keuangan disertai dokumen \npendukung."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Apabila gangguan teknis dapat diatasi sebelum 3 (tiga) hari kerja \nsebagaimana dimaksud pada ayat (6) serta BPR dan BPRS tidak \nmenyampaikan \nlaporan \nsecara \nluring, \nBPR \ndan \nBPRS \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf \nb \nwajib \n\n\n \nmenyampaikan laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Penyampaian laporan BPR dan BPRS sebagaimana dimaksud \npada ayat (7) paling lambat 3 (tiga) hari kerja setelah batas waktu \npenyampaian laporan, dengan surat pemberitahuan kepada \nOtoritas Jasa Keuangan disertai dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "BPR dan BPRS tetap bertanggung jawab terhadap laporan BPR \ndan BPRS yang disampaikan secara luring sebagaimana \ndimaksud pada ayat (3) dan ayat (5)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat menetapkan tanggal batas waktu \npenyampaian laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan yang berbeda dengan batas waktu \npenyampaian laporan apabila terjadi kondisi tertentu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat menetapkan tanggal batas waktu \npenyampaian laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan yang berbeda dengan batas waktu \npenyampaian laporan apabila terjadi kondisi tertentu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "teks_lengkap": "BPR dan BPRS yang mengalami keadaan kahar sehingga tidak dapat \nmenyampaikan laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 2 ayat (2) \ndan secara luring sebagaimana  dimaksud dalam Pasal 3 ayat (3) dan \nayat (5) sampai dengan batas waktu penyampaian laporan, \nmemberitahukan secara tertulis kepada Otoritas Jasa Keuangan \nuntuk memperoleh perpanjangan batas waktu penyampaian laporan \nBPR dan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS yang mengalami keadaan kahar sehingga tidak dapat \nmenyampaikan laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 2 ayat (2) \ndan secara luring sebagaimana  dimaksud dalam Pasal 3 ayat (3) dan \nayat (5) sampai dengan batas waktu penyampaian laporan, \nmemberitahukan secara tertulis kepada Otoritas Jasa Keuangan \nuntuk memperoleh perpanjangan batas waktu penyampaian laporan \nBPR dan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "teks_lengkap": "BPR dan BPRS dinyatakan menyampaikan laporan BPR dan BPRS \npada tanggal diterimanya laporan BPR dan BPRS oleh Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS dinyatakan menyampaikan laporan BPR dan BPRS \npada tanggal diterimanya laporan BPR dan BPRS oleh Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "LAPORAN BPR DAN BPRS MELALUI SISTEM PELAPORAN OTORITAS JASA KEUANGAN",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menunjuk dan menyampaikan nama \npenanggung jawab laporan BPR dan BPRS kepada Otoritas Jasa \nKeuangan.  \n\n\n \n(2) \nNama penanggung jawab laporan BPR dan BPRS sebagaimana \ndimaksud pada ayat (1) untuk pertama kali wajib disampaikan \nmelalui surat paling lambat pada: \na. \ntanggal 30 April 2019 bagi BPR; dan \nb. \ntanggal 30 September 2019 bagi BPRS, \nyang dihitung berdasarkan tanggal diterimanya surat oleh \nOtoritas Jasa Keuangan. \n(3) \nBPR dan BPRS wajib melaporkan setiap perubahan nama \npenanggung jawab laporan BPR dan BPRS kepada Otoritas Jasa \nKeuangan paling lambat 10 (sepuluh) hari sebelum perubahan \nnama penanggung jawab laporan BPR dan BPRS. \n(4) \nDalam hal terjadi kekosongan penanggung jawab laporan BPR \ndan BPRS, BPR dan BPRS wajib menunjuk pengganti penanggung \njawab laporan BPR dan BPRS. \n(5) \nBPR dan BPRS wajib melaporkan kepada Otoritas Jasa Keuangan \nterkait penggantian penanggung jawab laporan BPR dan BPRS \nsebagaimana dimaksud pada ayat (4) paling lambat 1 (satu) hari \nkerja setelah penggantian penanggung jawab laporan BPR dan \nBPRS. \n \nBAB III \nLAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menunjuk dan menyampaikan nama \npenanggung jawab laporan BPR dan BPRS kepada Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Nama penanggung jawab laporan BPR dan BPRS sebagaimana \ndimaksud pada ayat (1) untuk pertama kali wajib disampaikan \nmelalui surat paling lambat pada: \na. \ntanggal 30 April 2019 bagi BPR; dan \nb. \ntanggal 30 September 2019 bagi BPRS, \nyang dihitung berdasarkan tanggal diterimanya surat oleh \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS wajib melaporkan setiap perubahan nama \npenanggung jawab laporan BPR dan BPRS kepada Otoritas Jasa \nKeuangan paling lambat 10 (sepuluh) hari sebelum perubahan \nnama penanggung jawab laporan BPR dan BPRS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal terjadi kekosongan penanggung jawab laporan BPR \ndan BPRS, BPR dan BPRS wajib menunjuk pengganti penanggung \njawab laporan BPR dan BPRS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "BPR dan BPRS wajib melaporkan kepada Otoritas Jasa Keuangan \nterkait penggantian penanggung jawab laporan BPR dan BPRS \nsebagaimana dimaksud pada ayat (4) paling lambat 1 (satu) hari \nkerja setelah penggantian penanggung jawab laporan BPR dan \nBPRS. \n \nBAB III \nLAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "(1) \nLaporan Bulanan BPR sebagaimana dimaksud dalam Pasal 2 ayat \n(1) huruf a meliputi: \na. \ndata pokok; \nb. \nlaporan posisi keuangan; \nc. \nrekening administratif; \nd. \nlaba rugi; \ne. \ndaftar rincian dari pos tertentu laporan posisi keuangan; \nf. \ninformasi terkait pelanggaran dan pelampauan batas \nmaksimum pemberian kredit; dan \ng. \nrasio keuangan triwulanan. \n(2) \nLaporan Bulanan BPRS sebagaimana dimaksud dalam Pasal 2 \nayat (1) huruf b meliputi:  \n\n\n \na. \ndata pokok; \nb. \nlaporan posisi keuangan; \nc. \nrekening administratif; \nd. \nlaba rugi; \ne. \ndaftar rincian dari pos tertentu laporan posisi keuangan; \nf. \nlaporan mingguan cash ratio; \ng. \ninformasi terkait pelanggaran dan pelampauan batas \nmaksimum penyaluran dana; \nh. \nrasio keuangan triwulanan;  \ni. \ndaftar rincian restrukturisasi pembiayaan; \nj. \ndaftar rincian sumber dan penyaluran dana zakat dan wakaf; \nk. \ndaftar rincian sumber dan penggunaan dana kebajikan; dan \nl. \ndaftar rincian distribusi bagi hasil. \n(3) \nLaporan Bulanan BPR dan Laporan Bulanan BPRS sebagaimana \ndimaksud pada ayat (1) dan ayat (2) wajib mencakup informasi \ngabungan seluruh kantor dan informasi masing-masing kantor \nBPR dan BPRS. \n(4) \nLaporan Bulanan BPR dan Laporan Bulanan BPRS sebagaimana \ndimaksud pada ayat (3) wajib disusun sesuai dengan pedoman \npenyusunan Laporan Bulanan BPR dan Laporan Bulanan BPRS.  \n(5) \nDalam hal terdapat kesalahan atas Laporan Bulanan BPR dan \nLaporan Bulanan BPRS yang disampaikan, BPR dan BPRS wajib \nmenyampaikan koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \ndengan memenuhi ketentuan sebagaimana dimaksud pada  \nayat (1) sampai dengan ayat (4). \n(6) \nKetentuan lebih lanjut mengenai pedoman penyusunan Laporan \nBulanan BPR dan Laporan Bulanan BPRS sebagaimana dimaksud \npada ayat (4) dimuat dalam Surat Edaran Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan Bulanan BPR sebagaimana dimaksud dalam Pasal 2 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf a meliputi: \na. \ndata pokok; \nb. \nlaporan posisi keuangan; \nc. \nrekening administratif; \nd. \nlaba rugi; \ne. \ndaftar rincian dari pos tertentu laporan posisi keuangan; \nf. \ninformasi terkait pelanggaran dan pelampauan batas \nmaksimum pemberian kredit; dan \ng. \nrasio keuangan triwulanan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan Bulanan BPRS sebagaimana dimaksud dalam Pasal 2 \nayat (1) huruf b meliputi:  \n\n\n \na. \ndata pokok; \nb. \nlaporan posisi keuangan; \nc. \nrekening administratif; \nd. \nlaba rugi; \ne. \ndaftar rincian dari pos tertentu laporan posisi keuangan; \nf. \nlaporan mingguan cash ratio; \ng. \ninformasi terkait pelanggaran dan pelampauan batas \nmaksimum penyaluran dana; \nh. \nrasio keuangan triwulanan;  \ni. \ndaftar rincian restrukturisasi pembiayaan; \nj. \ndaftar rincian sumber dan penyaluran dana zakat dan wakaf; \nk. \ndaftar rincian sumber dan penggunaan dana kebajikan; dan \nl. \ndaftar rincian distribusi bagi hasil."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan Bulanan BPR dan Laporan Bulanan BPRS sebagaimana \ndimaksud pada ayat (1) dan ayat (2) wajib mencakup informasi \ngabungan seluruh kantor dan informasi masing-masing kantor \nBPR dan BPRS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan Bulanan BPR dan Laporan Bulanan BPRS sebagaimana \ndimaksud pada ayat (3) wajib disusun sesuai dengan pedoman \npenyusunan Laporan Bulanan BPR dan Laporan Bulanan BPRS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat kesalahan atas Laporan Bulanan BPR dan \nLaporan Bulanan BPRS yang disampaikan, BPR dan BPRS wajib \nmenyampaikan koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \ndengan memenuhi ketentuan sebagaimana dimaksud pada  \nayat (1) sampai dengan ayat (4)."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Ketentuan lebih lanjut mengenai pedoman penyusunan Laporan \nBulanan BPR dan Laporan Bulanan BPRS sebagaimana dimaksud \npada ayat (4) dimuat dalam Surat Edaran Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "Ketentuan sebagaimana dimaksud dalam Pasal 3 sampai dengan  \nPasal 6 berlaku secara mutatis mutandis dalam hal terdapat koreksi \natas Laporan Bulanan BPR dan Laporan Bulanan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan sebagaimana dimaksud dalam Pasal 3 sampai dengan  \nPasal 6 berlaku secara mutatis mutandis dalam hal terdapat koreksi \natas Laporan Bulanan BPR dan Laporan Bulanan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "BPR dan BPRS wajib memiliki sistem dan prosedur konversi yang \ndituangkan dalam suatu pedoman tertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS wajib memiliki sistem dan prosedur konversi yang \ndituangkan dalam suatu pedoman tertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "Jika izin usaha BPR dan BPRS dicabut akibat dari penggabungan atau \npeleburan, BPR dan BPRS tetap wajib menyampaikan Laporan \nBulanan BPR dan Laporan Bulanan BPRS untuk data akhir bulan \nlaporan sebelum berlakunya izin penggabungan atau peleburan dari \nOtoritas Jasa Keuangan dan instansi yang berwenang berdasarkan \nUndang-Undang. \n \nBAB IV \nPERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN  \nLAPORAN BULANAN BPRS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Jika izin usaha BPR dan BPRS dicabut akibat dari penggabungan atau \npeleburan, BPR dan BPRS tetap wajib menyampaikan Laporan \nBulanan BPR dan Laporan Bulanan BPRS untuk data akhir bulan \nlaporan sebelum berlakunya izin penggabungan atau peleburan dari \nOtoritas Jasa Keuangan dan instansi yang berwenang berdasarkan \nUndang-Undang. \n \nBAB IV \nPERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN  \nLAPORAN BULANAN BPRS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menyampaikan Laporan Bulanan BPR dan \nLaporan Bulanan BPRS paling lambat tanggal 10 pada bulan \nberikutnya setelah bulan laporan yang bersangkutan. \n(2) \nApabila tanggal 10 sebagaimana dimaksud pada ayat (1) jatuh \npada hari Sabtu, hari Minggu, atau hari libur, batas waktu \npenyampaian Laporan Bulanan BPR dan Laporan Bulanan BPRS \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan tetap jatuh \npada tanggal 10.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menyampaikan Laporan Bulanan BPR dan \nLaporan Bulanan BPRS paling lambat tanggal 10 pada bulan \nberikutnya setelah bulan laporan yang bersangkutan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila tanggal 10 sebagaimana dimaksud pada ayat (1) jatuh \npada hari Sabtu, hari Minggu, atau hari libur, batas waktu \npenyampaian Laporan Bulanan BPR dan Laporan Bulanan BPRS \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan tetap jatuh \npada tanggal 10."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "(1) \nBPR dan BPRS wajib menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS sebagaimana dimaksud \ndalam Pasal 8 ayat (5) paling lambat tanggal 15 pada bulan \nberikutnya setelah bulan laporan yang bersangkutan. \n(2) \nApabila tanggal 15 sebagaimana dimaksud pada ayat (1) jatuh \npada hari Sabtu, hari Minggu, atau hari libur, batas waktu \npenyampaian koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \ntetap jatuh pada tanggal 15. \n\n\n \n(3) \nBPR dan BPRS dapat menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS setelah batas waktu \npenyampaian koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS sebagaimana dimaksud pada ayat (1) sampai \ndengan akhir bulan berikutnya setelah bulan laporan yang \nbersangkutan. \n(4) \nBPR dan BPRS dinyatakan menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS pada tanggal \nditerimanya koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS wajib menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS sebagaimana dimaksud \ndalam Pasal 8 ayat (5) paling lambat tanggal 15 pada bulan \nberikutnya setelah bulan laporan yang bersangkutan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila tanggal 15 sebagaimana dimaksud pada ayat (1) jatuh \npada hari Sabtu, hari Minggu, atau hari libur, batas waktu \npenyampaian koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \ntetap jatuh pada tanggal 15."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS dapat menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS setelah batas waktu \npenyampaian koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS sebagaimana dimaksud pada ayat (1) sampai \ndengan akhir bulan berikutnya setelah bulan laporan yang \nbersangkutan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPRS dinyatakan menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS pada tanggal \nditerimanya koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "(1) \nJika berdasarkan penelitian dan/atau pemeriksaan Otoritas Jasa \nKeuangan atas Laporan Bulanan BPR dan Laporan Bulanan BPRS \nditemukan \nadanya \nkesalahan, \nBPR \ndan \nBPRS \nwajib \nmenyampaikan koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS untuk posisi Laporan Bulanan BPR dan Laporan \nBulanan BPRS sejak ditemukannya kesalahan.  \n(2) \nKoreksi atas Laporan Bulanan BPR dan Laporan Bulanan BPRS \nsebagaimana dimaksud pada ayat (1) disampaikan paling lambat \n10 (sepuluh) hari sejak tanggal pemberitahuan oleh Otoritas Jasa \nKeuangan atau sejak tanggal pertemuan akhir antara anggota \ndireksi dan/atau anggota dewan komisaris BPR dan BPRS dengan \nOtoritas Jasa Keuangan untuk membahas hasil pemeriksaan (exit \nmeeting).  \n(3) \nBPR dan BPRS wajib menggunakan hasil penelitian dan/atau \nhasil pemeriksaan sebagaimana dimaksud pada ayat (1) untuk \nmenyusun Laporan Bulanan BPR dan Laporan Bulanan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Jika berdasarkan penelitian dan/atau pemeriksaan Otoritas Jasa \nKeuangan atas Laporan Bulanan BPR dan Laporan Bulanan BPRS \nditemukan \nadanya \nkesalahan, \nBPR \ndan \nBPRS \nwajib \nmenyampaikan koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS untuk posisi Laporan Bulanan BPR dan Laporan \nBulanan BPRS sejak ditemukannya kesalahan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koreksi atas Laporan Bulanan BPR dan Laporan Bulanan BPRS \nsebagaimana dimaksud pada ayat (1) disampaikan paling lambat \n10 (sepuluh) hari sejak tanggal pemberitahuan oleh Otoritas Jasa \nKeuangan atau sejak tanggal pertemuan akhir antara anggota \ndireksi dan/atau anggota dewan komisaris BPR dan BPRS dengan \nOtoritas Jasa Keuangan untuk membahas hasil pemeriksaan (exit \nmeeting)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS wajib menggunakan hasil penelitian dan/atau \nhasil pemeriksaan sebagaimana dimaksud pada ayat (1) untuk \nmenyusun Laporan Bulanan BPR dan Laporan Bulanan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERIODE PENYAMPAIAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "(1) \nApabila BPR dan BPRS tidak menyampaikan Laporan Bulanan \nBPR dan Laporan Bulanan BPRS sampai dengan batas waktu \nsebagaimana dimaksud dalam Pasal 3 ayat (4), ayat (6), ayat (8), \nPasal 4, atau Pasal 12 ayat (1), BPR dan BPRS dinyatakan \nterlambat menyampaikan Laporan Bulanan BPR dan Laporan \nBulanan BPRS.  \n\n\n \n(2) \nApabila BPR dan BPRS tidak menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS sampai dengan batas \nwaktu sebagaimana dimaksud dalam Pasal 9, Pasal 13 ayat (1), \natau Pasal 14 ayat (2), BPR dan BPRS dinyatakan terlambat \nmenyampaikan koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS.   \n(3)  BPR dan BPRS yang tidak menyampaikan Laporan Bulanan BPR \ndan Laporan Bulanan BPRS setelah batas waktu sebagaimana \ndimaksud pada ayat (1), serta koreksi atas Laporan Bulanan BPR \ndan Laporan Bulanan BPRS setelah batas waktu sebagaimana \ndimaksud pada ayat (2), tetap wajib menyampaikan Laporan \nBulanan BPR dan Laporan Bulanan BPRS serta koreksi atas \nLaporan Bulanan BPR dan Laporan Bulanan BPRS. \n \nBAB V \nPENCATATAN LAPORAN BULANAN BPR DAN  \nLAPORAN BULANAN BPRS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Apabila BPR dan BPRS tidak menyampaikan Laporan Bulanan \nBPR dan Laporan Bulanan BPRS sampai dengan batas waktu \nsebagaimana dimaksud dalam Pasal 3 ayat (4), ayat (6), ayat (8), \nPasal 4, atau Pasal 12 ayat (1), BPR dan BPRS dinyatakan \nterlambat menyampaikan Laporan Bulanan BPR dan Laporan \nBulanan BPRS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila BPR dan BPRS tidak menyampaikan koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS sampai dengan batas \nwaktu sebagaimana dimaksud dalam Pasal 9, Pasal 13 ayat (1), \natau Pasal 14 ayat (2), BPR dan BPRS dinyatakan terlambat \nmenyampaikan koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPRS yang tidak menyampaikan Laporan Bulanan BPR \ndan Laporan Bulanan BPRS setelah batas waktu sebagaimana \ndimaksud pada ayat (1), serta koreksi atas Laporan Bulanan BPR \ndan Laporan Bulanan BPRS setelah batas waktu sebagaimana \ndimaksud pada ayat (2), tetap wajib menyampaikan Laporan \nBulanan BPR dan Laporan Bulanan BPRS serta koreksi atas \nLaporan Bulanan BPR dan Laporan Bulanan BPRS. \n \nBAB V \nPENCATATAN LAPORAN BULANAN BPR DAN  \nLAPORAN BULANAN BPRS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENCATATAN LAPORAN BULANAN BPR DAN LAPORAN BULANAN BPRS",
+      "teks_lengkap": "BPR dan BPRS wajib melakukan pencatatan atas kegiatan usaha \nberdasarkan standar akuntansi keuangan bagi BPR dan BPRS. \n \nBAB VI \nSANKSI ADMINISTRATIF",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS wajib melakukan pencatatan atas kegiatan usaha \nberdasarkan standar akuntansi keuangan bagi BPR dan BPRS. \n \nBAB VI \nSANKSI ADMINISTRATIF"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBPR dan BPRS yang dinyatakan terlambat menyampaikan \nLaporan Bulanan BPR dan Laporan Bulanan BPRS sebagaimana \ndimaksud dalam Pasal 15 ayat (1), dikenakan sanksi administratif \nberupa denda sebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari keterlambatan \ndan paling banyak Rp3.000.0000,00 (tiga juta rupiah) bagi \nBPR dan BPRS yang memiliki modal inti kurang dari \nRp50.000.000.000,00 (lima puluh miliar rupiah); atau \nb. \nRp250.000,00 (dua ratus lima puluh ribu rupiah) per hari \nketerlambatan dan paling banyak Rp7.500.000,00 (tujuh \n\n\n \njuta lima ratus ribu rupiah) bagi BPR dan BPRS yang \nmemiliki modal inti paling sedikit Rp50.000.000.000,00 (lima \npuluh miliar rupiah). \n(2)  BPR dan BPRS yang dinyatakan terlambat menyampaikan koreksi \natas Laporan Bulanan BPR dan Laporan Bulanan BPRS \nsebagaimana dimaksud dalam Pasal 15 ayat (2), dikenakan sanksi \nadministratif berupa denda sebesar:  \na.  \nRp100.000,00 (seratus ribu rupiah) per hari keterlambatan \nbagi BPR dan BPRS yang memiliki modal inti kurang dari \nRp50.000.000.000,00 (lima puluh miliar rupiah); atau  \nb.  Rp250.000,00 (dua ratus lima puluh ribu rupiah) per hari \nketerlambatan bagi BPR dan BPRS yang memiliki modal inti \npaling sedikit Rp50.000.000.000,00 (lima puluh miliar \nrupiah).  \n(3)   Perhitungan \ndenda \nper \nhari \nketerlambatan \nsebagaimana \ndimaksud pada ayat (1) dan ayat (2) mengacu pada ketentuan \nmengenai batas waktu keterlambatan penyampaian Laporan \nBulanan BPR dan Laporan Bulanan BPRS sebagaimana dimaksud \ndalam Pasal 3 ayat (4), ayat (6), ayat (8), Pasal 4, dan Pasal 12 ayat \n(1) serta ketentuan mengenai batas waktu keterlambatan \npenyampaian koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS sebagaimana dimaksud dalam Pasal 9, Pasal 13  \nayat (1), dan Pasal 14 ayat (2).  \n(4)  Terhadap setiap kesalahan Laporan Bulanan BPR dan Laporan \nBulanan BPRS yang ditemukan berdasarkan penelitian dan/atau \npemeriksaan Otoritas Jasa Keuangan sebagaimana dimaksud \ndalam Pasal 14 ayat (1), dikenakan sanksi denda sebesar \nRp20.000,00 (dua puluh ribu rupiah) per item dan paling banyak \nsebesar: \na. \nRp2.000.000,00 (dua juta rupiah) bagi BPR dan BPRS yang \nmemiliki modal inti kurang dari Rp50.000.000.000,00 (lima \npuluh miliar rupiah); atau \nb. \nRp5.000.000,00 (lima juta rupiah) bagi BPR dan BPRS yang \nmemiliki modal inti paling sedikit Rp50.000.000.000,00 (lima \npuluh miliar rupiah). \n \n\n\n \n(5)  Dalam hal terdapat kesalahan Laporan Bulanan BPR dan Laporan \nBulanan \nBPRS \nberdasarkan \nhasil \npenelitian \ndan/atau \npemeriksaan Otoritas Jasa Keuangan sebagaimana dimaksud \npada ayat (4), sanksi hanya dikenakan atas kesalahan untuk data \nbulan laporan pada posisi penelitian dan/atau pemeriksaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPRS yang dinyatakan terlambat menyampaikan \nLaporan Bulanan BPR dan Laporan Bulanan BPRS sebagaimana \ndimaksud dalam Pasal 15 ayat (1), dikenakan sanksi administratif \nberupa denda sebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari keterlambatan \ndan paling banyak Rp3.000.0000,00 (tiga juta rupiah) bagi \nBPR dan BPRS yang memiliki modal inti kurang dari \nRp50.000.000.000,00 (lima puluh miliar rupiah); atau \nb. \nRp250.000,00 (dua ratus lima puluh ribu rupiah) per hari \nketerlambatan dan paling banyak Rp7.500.000,00 (tujuh \n\n\n \njuta lima ratus ribu rupiah) bagi BPR dan BPRS yang \nmemiliki modal inti paling sedikit Rp50.000.000.000,00 (lima \npuluh miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPRS yang dinyatakan terlambat menyampaikan koreksi \natas Laporan Bulanan BPR dan Laporan Bulanan BPRS \nsebagaimana dimaksud dalam Pasal 15 ayat (2), dikenakan sanksi \nadministratif berupa denda sebesar:  \na.  \nRp100.000,00 (seratus ribu rupiah) per hari keterlambatan \nbagi BPR dan BPRS yang memiliki modal inti kurang dari \nRp50.000.000.000,00 (lima puluh miliar rupiah); atau  \nb.  Rp250.000,00 (dua ratus lima puluh ribu rupiah) per hari \nketerlambatan bagi BPR dan BPRS yang memiliki modal inti \npaling sedikit Rp50.000.000.000,00 (lima puluh miliar \nrupiah)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perhitungan \ndenda \nper \nhari \nketerlambatan \nsebagaimana \ndimaksud pada ayat (1) dan ayat (2) mengacu pada ketentuan \nmengenai batas waktu keterlambatan penyampaian Laporan \nBulanan BPR dan Laporan Bulanan BPRS sebagaimana dimaksud \ndalam Pasal 3 ayat (4), ayat (6), ayat (8), Pasal 4, dan Pasal 12 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "serta ketentuan mengenai batas waktu keterlambatan \npenyampaian koreksi atas Laporan Bulanan BPR dan Laporan \nBulanan BPRS sebagaimana dimaksud dalam Pasal 9, Pasal 13  \nayat (1), dan Pasal 14 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Terhadap setiap kesalahan Laporan Bulanan BPR dan Laporan \nBulanan BPRS yang ditemukan berdasarkan penelitian dan/atau \npemeriksaan Otoritas Jasa Keuangan sebagaimana dimaksud \ndalam Pasal 14 ayat (1), dikenakan sanksi denda sebesar \nRp20.000,00 (dua puluh ribu rupiah) per item dan paling banyak \nsebesar: \na. \nRp2.000.000,00 (dua juta rupiah) bagi BPR dan BPRS yang \nmemiliki modal inti kurang dari Rp50.000.000.000,00 (lima \npuluh miliar rupiah); atau \nb. \nRp5.000.000,00 (lima juta rupiah) bagi BPR dan BPRS yang \nmemiliki modal inti paling sedikit Rp50.000.000.000,00 (lima \npuluh miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat kesalahan Laporan Bulanan BPR dan Laporan \nBulanan \nBPRS \nberdasarkan \nhasil \npenelitian \ndan/atau \npemeriksaan Otoritas Jasa Keuangan sebagaimana dimaksud \npada ayat (4), sanksi hanya dikenakan atas kesalahan untuk data \nbulan laporan pada posisi penelitian dan/atau pemeriksaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "BPR dan BPRS yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2 ayat (2), Pasal 7, Pasal 8 ayat (3), ayat (4),  \nayat (5), Pasal 10, Pasal 11, Pasal 14 ayat (1), Pasal 14 ayat (3), Pasal \n15 ayat (3), dan Pasal 16 dikenakan sanksi administratif berupa: \na. \nteguran tertulis; dan/atau  \nb. \npenurunan tingkat kesehatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2 ayat (2), Pasal 7, Pasal 8 ayat (3), ayat (4),  \nayat (5), Pasal 10, Pasal 11, Pasal 14 ayat (1), Pasal 14 ayat (3), Pasal \n15 ayat (3), dan Pasal 16 dikenakan sanksi administratif berupa: \na. \nteguran tertulis; dan/atau  \nb. \npenurunan tingkat kesehatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "BPR dan BPRS  yang dinyatakan: \na. \nterlambat menyampaikan Laporan Bulanan BPR dan Laporan \nBulanan BPRS sebagaimana dimaksud dalam Pasal 15 ayat (1);  \nb. \nterlambat menyampaikan koreksi atas Laporan Bulanan BPR dan \nLaporan Bulanan BPRS dimaksud dalam Pasal 15 ayat (2);  \ndan/atau  \nc. \nmelakukan kesalahan dalam Laporan Bulanan BPR dan Laporan \nBulanan BPRS berdasarkan penelitian dan/atau pemeriksaan \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 14 \nayat (1),  \nselain dikenakan sanksi administratif berupa denda sebagaimana \ndimaksud dalam Pasal 17 dikenakan pula sanksi administratif berupa \nteguran tertulis dan/atau penurunan tingkat kesehatan sebagaimana \ndimaksud dalam Pasal 18.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS  yang dinyatakan: \na. \nterlambat menyampaikan Laporan Bulanan BPR dan Laporan \nBulanan BPRS sebagaimana dimaksud dalam Pasal 15 ayat (1);  \nb. \nterlambat menyampaikan koreksi atas Laporan Bulanan BPR dan \nLaporan Bulanan BPRS dimaksud dalam Pasal 15 ayat (2);  \ndan/atau  \nc. \nmelakukan kesalahan dalam Laporan Bulanan BPR dan Laporan \nBulanan BPRS berdasarkan penelitian dan/atau pemeriksaan \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam Pasal 14 \nayat (1),  \nselain dikenakan sanksi administratif berupa denda sebagaimana \ndimaksud dalam Pasal 17 dikenakan pula sanksi administratif berupa \nteguran tertulis dan/atau penurunan tingkat kesehatan sebagaimana \ndimaksud dalam Pasal 18."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "Anggota direksi, anggota dewan komisaris dan/atau pegawai BPR dan \nBPRS yang melanggar ketentuan sebagaimana dimaksud dalam Pasal \n16 dan/atau melakukan perbuatan rekayasa transaksi yang tidak \nwajar dapat dikenakan sanksi sesuai dengan Undang-Undang \nmengenai perbankan dan perbankan syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Anggota direksi, anggota dewan komisaris dan/atau pegawai BPR dan \nBPRS yang melanggar ketentuan sebagaimana dimaksud dalam Pasal \n16 dan/atau melakukan perbuatan rekayasa transaksi yang tidak \nwajar dapat dikenakan sanksi sesuai dengan Undang-Undang \nmengenai perbankan dan perbankan syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "Pengenaan sanksi denda sebagaimana dimaksud dalam Pasal 17 ayat \n(2) dan ayat (4) dikecualikan untuk penyampaian koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS terkait: \na. \npelaksanaan audit tahunan oleh akuntan publik;  \nb. \npertanggungjawaban Laporan Keuangan Tahunan kepada rapat \numum pemegang saham atau rapat anggota; dan/atau \nc. \npemeriksaan oleh otoritas lain yang berwenang sesuai dengan \nUndang-Undang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dan ayat (4) dikecualikan untuk penyampaian koreksi atas Laporan \nBulanan BPR dan Laporan Bulanan BPRS terkait: \na. \npelaksanaan audit tahunan oleh akuntan publik;  \nb. \npertanggungjawaban Laporan Keuangan Tahunan kepada rapat \numum pemegang saham atau rapat anggota; dan/atau \nc. \npemeriksaan oleh otoritas lain yang berwenang sesuai dengan \nUndang-Undang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI ADMINISTRATIF",
+      "teks_lengkap": "Dalam hal terjadi pelanggaran terhadap ketentuan Laporan Bulanan \nBPR dan Laporan Bulanan BPRS serta koreksi atas Laporan Bulanan \nBPR dan Laporan Bulanan BPRS sampai dengan posisi laporan bulan \nNovember 2019 dikenakan sanksi berdasarkan Peraturan Bank \nIndonesia Nomor 7/51/PBI/2005 tentang Laporan Bulanan Bank \nPerkreditan \nRakyat \ndan \nPeraturan \nBank \nIndonesia \nNomor \n7/9/PBI/2005 tentang Laporan Bulanan Bank Perkreditan Rakyat \nSyariah. \n \nBAB VII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal terjadi pelanggaran terhadap ketentuan Laporan Bulanan \nBPR dan Laporan Bulanan BPRS serta koreksi atas Laporan Bulanan \nBPR dan Laporan Bulanan BPRS sampai dengan posisi laporan bulan \nNovember 2019 dikenakan sanksi berdasarkan Peraturan Bank \nIndonesia Nomor 7/51/PBI/2005 tentang Laporan Bulanan Bank \nPerkreditan \nRakyat \ndan \nPeraturan \nBank \nIndonesia \nNomor \n7/9/PBI/2005 tentang Laporan Bulanan Bank Perkreditan Rakyat \nSyariah. \n \nBAB VII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "BPR dan BPRS yang diberikan izin usaha setelah Peraturan Otoritas \nJasa Keuangan ini berlaku harus mengajukan permohonan nomor \nsandi BPR dan BPRS kepada Otoritas Jasa Keuangan. \n \nBAB VIII \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPRS yang diberikan izin usaha setelah Peraturan Otoritas \nJasa Keuangan ini berlaku harus mengajukan permohonan nomor \nsandi BPR dan BPRS kepada Otoritas Jasa Keuangan. \n \nBAB VIII \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nPenyampaian Laporan Bulanan BPR dan koreksi atas Laporan \nBulanan BPR melalui Sistem Pelaporan Otoritas Jasa Keuangan \ndilakukan mulai posisi laporan bulan Mei 2019. \n\n\n \n(2) \nPenyampaian Laporan Bulanan BPRS dan koreksi atas Laporan \nBulanan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \ndilakukan mulai posisi laporan bulan Oktober 2019.    \n(3) \nKetentuan mengenai penyampaian Laporan Bulanan BPR dan \nkoreksi atas Laporan Bulanan BPR sebagaimana diatur dalam \nPeraturan Bank Indonesia Nomor 7/51/PBI/2005 tentang \nLaporan Bulanan Bank Perkreditan Rakyat (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 145, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4580), tetap berlaku sampai \ndengan posisi laporan bulan November 2019.   \n(4) \nKetentuan mengenai penyampaian Laporan Bulanan BPRS dan \nkoreksi atas Laporan Bulanan BPRS sebagaimana diatur dalam \nPeraturan Bank Indonesia Nomor 7/9/PBI/2005 tentang Laporan \nBulanan Bank Perkreditan Rakyat Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 19, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4478), tetap berlaku sampai \ndengan posisi laporan bulan November 2019. \n \nBAB IX \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyampaian Laporan Bulanan BPR dan koreksi atas Laporan \nBulanan BPR melalui Sistem Pelaporan Otoritas Jasa Keuangan \ndilakukan mulai posisi laporan bulan Mei 2019."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian Laporan Bulanan BPRS dan koreksi atas Laporan \nBulanan BPRS melalui Sistem Pelaporan Otoritas Jasa Keuangan \ndilakukan mulai posisi laporan bulan Oktober 2019."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai penyampaian Laporan Bulanan BPR dan \nkoreksi atas Laporan Bulanan BPR sebagaimana diatur dalam \nPeraturan Bank Indonesia Nomor 7/51/PBI/2005 tentang \nLaporan Bulanan Bank Perkreditan Rakyat (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 145, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4580), tetap berlaku sampai \ndengan posisi laporan bulan November 2019."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai penyampaian Laporan Bulanan BPRS dan \nkoreksi atas Laporan Bulanan BPRS sebagaimana diatur dalam \nPeraturan Bank Indonesia Nomor 7/9/PBI/2005 tentang Laporan \nBulanan Bank Perkreditan Rakyat Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 19, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4478), tetap berlaku sampai \ndengan posisi laporan bulan November 2019. \n \nBAB IX \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan mengenai sanksi sebagaimana dimaksud dalam Pasal 17 \nsampai dengan Pasal 19 dalam Peraturan Otoritas Jasa Keuangan ini \nberlaku sejak posisi laporan bulan Desember 2019.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai sanksi sebagaimana dimaksud dalam Pasal 17 \nsampai dengan Pasal 19 dalam Peraturan Otoritas Jasa Keuangan ini \nberlaku sejak posisi laporan bulan Desember 2019."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan sebagaimana dimaksud dalam Pasal 22 tetap berlaku jika \npelanggaran ditemukan berdasarkan penelitian dan/atau pemeriksaan \nOtoritas Jasa Keuangan sejak Peraturan Otoritas Jasa Keuangan ini \nberlaku sampai dengan tanggal 31 Desember 2020.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan sebagaimana dimaksud dalam Pasal 22 tetap berlaku jika \npelanggaran ditemukan berdasarkan penelitian dan/atau pemeriksaan \nOtoritas Jasa Keuangan sejak Peraturan Otoritas Jasa Keuangan ini \nberlaku sampai dengan tanggal 31 Desember 2020."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nketentuan: \na. \nPasal 12 dan Pasal 13 Peraturan Bank Indonesia Nomor \n7/51/PBI/2005 tentang Laporan Bulanan Bank Perkreditan \nRakyat (Lembaran Negara Republik Indonesia Tahun 2005 Nomor \n145, Tambahan Lembaran Negara Republik Indonesia Nomor \n4580); dan \nb. \nPasal 16, Pasal 17, Pasal 18, dan Pasal 20 Peraturan Bank \nIndonesia Nomor 7/9/PBI/2005 tentang Laporan Bulanan Bank \nPerkreditan Rakyat Syariah (Lembaran Negara Republik Indonesia \nTahun 2005 Nomor 19, Tambahan Lembaran Negara Republik \nIndonesia Nomor 4478), \ndinyatakan tetap berlaku terhadap pelanggaran pada Laporan Bulanan \nBPR dan Laporan Bulanan BPRS sampai dengan posisi laporan bulan \nNovember 2019 yang ditemukan sampai dengan tanggal 31 Desember \n2020.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nketentuan: \na. \nPasal 12 dan Pasal 13 Peraturan Bank Indonesia Nomor \n7/51/PBI/2005 tentang Laporan Bulanan Bank Perkreditan \nRakyat (Lembaran Negara Republik Indonesia Tahun 2005 Nomor \n145, Tambahan Lembaran Negara Republik Indonesia Nomor \n4580); dan \nb. \nPasal 16, Pasal 17, Pasal 18, dan Pasal 20 Peraturan Bank \nIndonesia Nomor 7/9/PBI/2005 tentang Laporan Bulanan Bank \nPerkreditan Rakyat Syariah (Lembaran Negara Republik Indonesia \nTahun 2005 Nomor 19, Tambahan Lembaran Negara Republik \nIndonesia Nomor 4478), \ndinyatakan tetap berlaku terhadap pelanggaran pada Laporan Bulanan \nBPR dan Laporan Bulanan BPRS sampai dengan posisi laporan bulan \nNovember 2019 yang ditemukan sampai dengan tanggal 31 Desember \n2020."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan mengenai: \na. \nlaporan batas maksimum pemberian kredit bank perkreditan \nrakyat; \nb. \nlaporan batas maksimum penyaluran dana bank pembiayaan \nrakyat syariah; \nc. \nlaporan keuangan publikasi bank perkreditan rakyat;  \nd. \nlaporan keuangan publikasi triwulanan bank pembiayaan rakyat \nsyariah; \ne. \nlaporan restrukturisasi pembiayaan bank pembiayaan rakyat \nsyariah; dan  \nf. \nrencana bisnis dan laporan realisasi rencana bisnis bank \nperkreditan rakyat dan bank pembiayaan rakyat syariah,  \nyang disampaikan secara daring sebagaimana dimaksud dalam \nketentuan peraturan perundang-undangan sebelum berlakunya \nPeraturan Otoritas Jasa Keuangan ini, dinyatakan tetap berlaku \nsepanjang tidak bertentangan dengan ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai: \na. \nlaporan batas maksimum pemberian kredit bank perkreditan \nrakyat; \nb. \nlaporan batas maksimum penyaluran dana bank pembiayaan \nrakyat syariah; \nc. \nlaporan keuangan publikasi bank perkreditan rakyat;  \nd. \nlaporan keuangan publikasi triwulanan bank pembiayaan rakyat \nsyariah; \ne. \nlaporan restrukturisasi pembiayaan bank pembiayaan rakyat \nsyariah; dan  \nf. \nrencana bisnis dan laporan realisasi rencana bisnis bank \nperkreditan rakyat dan bank pembiayaan rakyat syariah,  \nyang disampaikan secara daring sebagaimana dimaksud dalam \nketentuan peraturan perundang-undangan sebelum berlakunya \nPeraturan Otoritas Jasa Keuangan ini, dinyatakan tetap berlaku \nsepanjang tidak bertentangan dengan ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku: \na. \nPeraturan Bank Indonesia Nomor 7/51/PBI/2005 tentang \nLaporan Bulanan Bank Perkreditan Rakyat (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 145, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4580); dan \nb. \nPeraturan Bank Indonesia Nomor 7/9/PBI/2005 tentang Laporan \nBulanan Bank Perkreditan Rakyat Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 19, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4478), \ndicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku: \na. \nPeraturan Bank Indonesia Nomor 7/51/PBI/2005 tentang \nLaporan Bulanan Bank Perkreditan Rakyat (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 145, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4580); dan \nb. \nPeraturan Bank Indonesia Nomor 7/9/PBI/2005 tentang Laporan \nBulanan Bank Perkreditan Rakyat Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2005 Nomor 19, Tambahan Lembaran \nNegara Republik Indonesia Nomor 4478), \ndicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan Pasal 17 sampai dengan Pasal 19 mulai berlaku pada \ntanggal 1 Januari 2020.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan Pasal 17 sampai dengan Pasal 19 mulai berlaku pada \ntanggal 1 Januari 2020."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal \ndiundangkan. \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar setiap orang mengetahuinya, memerintahkan pengundangan \nPeraturan Otoritas Jasa Keuangan ini dengan penempatannya dalam \nLembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 29 April 2019 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \n \nDiundangkan di Jakarta  \npada tanggal 30 April 2019 \n  \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA  \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2019 NOMOR 86 \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 13/POJK.03/2019 \nTENTANG \nPELAPORAN BANK PERKREDITAN RAKYAT DAN  \nBANK PEMBIAYAAN RAKYAT SYARIAH MELALUI  \nSISTEM PELAPORAN OTORITAS JASA KEUANGAN\n \nI. \nUMUM \nBerdasarkan Pasal 34 ayat (1) Undang-Undang Nomor 7 Tahun 1992 \ntentang Perbankan sebagaimana telah diubah dengan Undang-Undang \nNomor 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 \nTahun 1992 tentang Perbankan dan Pasal 35 ayat (2) Undang-Undang \nNomor 21 Tahun 2008 tentang Perbankan Syariah diatur bahwa BPR dan \nBPRS wajib menyampaikan kepada Otoritas Jasa Keuangan laporan posisi \nkeuangan dan perhitungan laba/rugi tahunan serta penjelasannya, serta \nlaporan berkala lainnya, dalam waktu dan bentuk yang ditetapkan oleh \nOtoritas Jasa Keuangan. \nSejalan dengan perkembangan teknologi informasi dan peningkatan \nkebutuhan terhadap sistem informasi manajemen untuk pengawasan \nterhadap BPR dan BPRS, penyampaian data dan informasi dari BPR dan \nBPRS perlu dilakukan melalui Sistem Pelaporan Otoritas Jasa Keuangan. \nPenyampaian laporan melalui Sistem Pelaporan Otoritas Jasa Keuangan \nbertujuan untuk meningkatkan efisiensi dan efektivitas dalam pengawasan \nserta analisis data dan informasi terkait pengambilan kebijakan oleh \nOtoritas Jasa Keuangan.  \n \n\n\n \nSehubungan dengan hal tersebut, perlu diatur ketentuan mengenai \nPelaporan Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal \ndiundangkan. \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar setiap orang mengetahuinya, memerintahkan pengundangan \nPeraturan Otoritas Jasa Keuangan ini dengan penempatannya dalam \nLembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 29 April 2019 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \n \nDiundangkan di Jakarta  \npada tanggal 30 April 2019 \n  \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA  \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2019 NOMOR 86 \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 13/POJK.03/2019 \nTENTANG \nPELAPORAN BANK PERKREDITAN RAKYAT DAN  \nBANK PEMBIAYAAN RAKYAT SYARIAH MELALUI  \nSISTEM PELAPORAN OTORITAS JASA KEUANGAN\n \nI. \nUMUM \nBerdasarkan Pasal 34 ayat (1) Undang-Undang Nomor 7 Tahun 1992 \ntentang Perbankan sebagaimana telah diubah dengan Undang-Undang \nNomor 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 \nTahun 1992 tentang Perbankan dan Pasal 35 ayat (2) Undang-Undang \nNomor 21 Tahun 2008 tentang Perbankan Syariah diatur bahwa BPR dan \nBPRS wajib menyampaikan kepada Otoritas Jasa Keuangan laporan posisi \nkeuangan dan perhitungan laba/rugi tahunan serta penjelasannya, serta \nlaporan berkala lainnya, dalam waktu dan bentuk yang ditetapkan oleh \nOtoritas Jasa Keuangan. \nSejalan dengan perkembangan teknologi informasi dan peningkatan \nkebutuhan terhadap sistem informasi manajemen untuk pengawasan \nterhadap BPR dan BPRS, penyampaian data dan informasi dari BPR dan \nBPRS perlu dilakukan melalui Sistem Pelaporan Otoritas Jasa Keuangan. \nPenyampaian laporan melalui Sistem Pelaporan Otoritas Jasa Keuangan \nbertujuan untuk meningkatkan efisiensi dan efektivitas dalam pengawasan \nserta analisis data dan informasi terkait pengambilan kebijakan oleh \nOtoritas Jasa Keuangan.  \n \n\n\n \nSehubungan dengan hal tersebut, perlu diatur ketentuan mengenai \nPelaporan Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah \nmelalui Sistem Pelaporan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nRencana bisnis termasuk juga penyesuaian dan perubahan \nrencana bisnis. \nHuruf d \nCukup jelas. \nAyat (2) \nPenyampaian laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan dilakukan sesuai dengan petunjuk teknis \naplikasi laporan BPR dan BPRS pada situs web Sistem Pelaporan \nOtoritas Jasa Keuangan. \nAyat (3) \nYang dimaksud dengan “bertanggung jawab atas kebenaran dan \nkelengkapan isi” adalah bertanggung jawab atas kelengkapan, \nakurasi, kekinian, serta keutuhan data dan informasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nRencana bisnis termasuk juga penyesuaian dan perubahan \nrencana bisnis. \nHuruf d \nCukup jelas. \nAyat (2) \nPenyampaian laporan BPR dan BPRS melalui Sistem Pelaporan \nOtoritas Jasa Keuangan dilakukan sesuai dengan petunjuk teknis \naplikasi laporan BPR dan BPRS pada situs web Sistem Pelaporan \nOtoritas Jasa Keuangan. \nAyat (3) \nYang dimaksud dengan “bertanggung jawab atas kebenaran dan \nkelengkapan isi” adalah bertanggung jawab atas kelengkapan, \nakurasi, kekinian, serta keutuhan data dan informasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “gangguan teknis” adalah gangguan \nyang disebabkan permasalahan teknis yang mengakibatkan \n\n\n \nBPR dan BPRS tidak dapat menyampaikan laporan secara \ndaring, antara lain gangguan pada jaringan komunikasi data, \npemadaman listrik, atau gangguan pada penyedia aplikasi \ninti perbankan dan/atau penyedia jasa teknologi informasi \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai standar penyelenggaraan teknologi \ninformasi \nbagi \nbank \nperkreditan \nrakyat \ndan \nbank \npembiayaan rakyat syariah. \nAyat (2) \n \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “menyampaikan laporan BPR dan BPRS \nsecara luring” adalah penyampaian laporan dalam bentuk \nrekaman data, antara lain diska lepas (flashdisk), cakram digital, \natau sarana rekaman atau transfer data lainnya yang telah \ndivalidasi oleh sistem, kepada kantor Otoritas Jasa Keuangan \nyang mewilayahi kantor pusat BPR dan BPRS. \nAyat (4) \nYang dimaksud dengan “hari libur” adalah hari libur nasional dan \ncuti bersama. \nAyat (5) \nCukup jelas. \nAyat (6) \nSurat pemberitahuan disertai dokumen pendukung disampaikan \nkepada pengawas BPR dan BPRS terkait. \nDokumen pendukung antara lain surat atau pengumuman dari \npenyedia jaringan komunikasi data dalam hal BPR atau BPRS \nmengalami gangguan komunikasi data, surat dari penyedia \njaringan listrik dalam hal BPR atau BPRS mengalami pemadaman \nlistrik, dan/atau dokumen yang menyatakan telah dilakukan \nupaya penyampaian laporan melalui Sistem Pelaporan Otoritas \nJasa Keuangan. \nAyat (7) \nCukup jelas. \nAyat (8) \nCukup jelas. \n \n\n\n \nAyat (9) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “gangguan teknis” adalah gangguan \nyang disebabkan permasalahan teknis yang mengakibatkan \n\n\n \nBPR dan BPRS tidak dapat menyampaikan laporan secara \ndaring, antara lain gangguan pada jaringan komunikasi data, \npemadaman listrik, atau gangguan pada penyedia aplikasi \ninti perbankan dan/atau penyedia jasa teknologi informasi \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai standar penyelenggaraan teknologi \ninformasi \nbagi \nbank \nperkreditan \nrakyat \ndan \nbank \npembiayaan rakyat syariah. \nAyat (2) \n \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “menyampaikan laporan BPR dan BPRS \nsecara luring” adalah penyampaian laporan dalam bentuk \nrekaman data, antara lain diska lepas (flashdisk), cakram digital, \natau sarana rekaman atau transfer data lainnya yang telah \ndivalidasi oleh sistem, kepada kantor Otoritas Jasa Keuangan \nyang mewilayahi kantor pusat BPR dan BPRS. \nAyat (4) \nYang dimaksud dengan “hari libur” adalah hari libur nasional dan \ncuti bersama. \nAyat (5) \nCukup jelas. \nAyat (6) \nSurat pemberitahuan disertai dokumen pendukung disampaikan \nkepada pengawas BPR dan BPRS terkait. \nDokumen pendukung antara lain surat atau pengumuman dari \npenyedia jaringan komunikasi data dalam hal BPR atau BPRS \nmengalami gangguan komunikasi data, surat dari penyedia \njaringan listrik dalam hal BPR atau BPRS mengalami pemadaman \nlistrik, dan/atau dokumen yang menyatakan telah dilakukan \nupaya penyampaian laporan melalui Sistem Pelaporan Otoritas \nJasa Keuangan. \nAyat (7) \nCukup jelas. \nAyat (8) \nCukup jelas. \n \n\n\n \nAyat (9) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “kondisi tertentu”, yaitu: \na. \nkerusakan dan/atau gangguan pada pangkalan data (database) \natau jaringan komunikasi di Otoritas Jasa Keuangan;  \nb. \nlibur dan cuti bersama hari raya Idul Fitri yang memiliki jangka \nwaktu relatif lama dan bertepatan dengan batas waktu \npenyampaian laporan BPR dan BPRS; dan/atau    \nc. \nkondisi lain yang berdampak signifikan terjadi pada periode \npenyampaian laporan BPR dan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “kondisi tertentu”, yaitu: \na. \nkerusakan dan/atau gangguan pada pangkalan data (database) \natau jaringan komunikasi di Otoritas Jasa Keuangan;  \nb. \nlibur dan cuti bersama hari raya Idul Fitri yang memiliki jangka \nwaktu relatif lama dan bertepatan dengan batas waktu \npenyampaian laporan BPR dan BPRS; dan/atau    \nc. \nkondisi lain yang berdampak signifikan terjadi pada periode \npenyampaian laporan BPR dan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “keadaan kahar” (force majeure) antara lain \nkebakaran, kerusuhan massa, perang, konflik bersenjata, sabotase, \nserta bencana alam seperti gempa bumi dan banjir, yang dibenarkan \noleh pejabat instansi yang berwenang dari daerah setempat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “keadaan kahar” (force majeure) antara lain \nkebakaran, kerusuhan massa, perang, konflik bersenjata, sabotase, \nserta bencana alam seperti gempa bumi dan banjir, yang dibenarkan \noleh pejabat instansi yang berwenang dari daerah setempat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Apabila disampaikan secara daring, tanggal diterimanya yaitu tanggal \npada softcopy yang dapat diunduh (download) dari situs web Sistem \nPelaporan Otoritas Jasa Keuangan. Apabila disampaikan secara luring, \ntanggal diterimanya yaitu tanggal pada: \n1. \ntanda terima Otoritas Jasa Keuangan jika disampaikan secara \nlangsung kepada Otoritas Jasa Keuangan; \n2. \nstempel pos jika dikirim melalui kantor pos; atau \n3. \ntanda terima jasa ekspedisi jika dikirim melalui jasa ekspedisi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Apabila disampaikan secara daring, tanggal diterimanya yaitu tanggal \npada softcopy yang dapat diunduh (download) dari situs web Sistem \nPelaporan Otoritas Jasa Keuangan. Apabila disampaikan secara luring, \ntanggal diterimanya yaitu tanggal pada: \n1. \ntanda terima Otoritas Jasa Keuangan jika disampaikan secara \nlangsung kepada Otoritas Jasa Keuangan; \n2. \nstempel pos jika dikirim melalui kantor pos; atau \n3. \ntanda terima jasa ekspedisi jika dikirim melalui jasa ekspedisi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenanggung jawab laporan BPR dan BPRS merupakan pegawai \ntetap BPR dan BPRS yang diberi tugas untuk melakukan verifikasi \ndan menyampaikan laporan BPR dan BPRS melalui Sistem \nPelaporan Otoritas Jasa Keuangan.  \nAyat (2) \nCukup jelas. \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nKekosongan penanggung jawab laporan BPR dan BPRS dapat \ndisebabkan antara lain penanggung jawab meninggal dunia,  \nmengundurkan diri tanpa pemberitahuan sebelumnya, dan \nberhalangan tetap. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenanggung jawab laporan BPR dan BPRS merupakan pegawai \ntetap BPR dan BPRS yang diberi tugas untuk melakukan verifikasi \ndan menyampaikan laporan BPR dan BPRS melalui Sistem \nPelaporan Otoritas Jasa Keuangan.  \nAyat (2) \nCukup jelas. \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nKekosongan penanggung jawab laporan BPR dan BPRS dapat \ndisebabkan antara lain penanggung jawab meninggal dunia,  \nmengundurkan diri tanpa pemberitahuan sebelumnya, dan \nberhalangan tetap. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nInformasi yang dilaporkan  terkait  pelanggaran dan \npelampauan batas maksimum pemberian kredit (BMPK) \nsesuai dengan perhitungan sebagaimana dimaksud dalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \nbatas \nmaksimum pemberian kredit bank perkreditan rakyat. \nPenyampaian informasi terkait pelanggaran dan pelampauan \nBMPK merupakan pemenuhan kewajiban pelaporan BMPK \nsebagaimana dimaksud dalam Undang-Undang mengenai \nperbankan. \nHuruf g \nRasio keuangan triwulanan yaitu rasio yang dimuat dalam \nLaporan Keuangan Publikasi sebagaimana dimaksud dalam \nPeraturan Otoritas Jasa Keuangan mengenai transparansi \nkondisi keuangan bank perkreditan rakyat. \n\n\n \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nInformasi yang dilaporkan  terkait  pelanggaran dan \npelampauan batas maksimum penyaluran dana (BMPD) \nsesuai dengan perhitungan sebagaimana dimaksud dalam \nketentuan peraturan perundang-undangan mengenai batas \nmaksimum penyaluran dana bank pembiayaan rakyat \nsyariah.  \nPenyampaian informasi terkait pelanggaran dan pelampauan \nBMPD merupakan pemenuhan kewajiban pelaporan BMPD \nsebagaimana dimaksud dalam Undang-Undang mengenai \nperbankan syariah. \nHuruf h \nRasio keuangan triwulanan yaitu rasio yang dimuat dalam \nlaporan \nkeuangan \npublikasi \ntriwulanan \nsebagaimana \ndimaksud dalam ketentuan peraturan perundang-undangan \nmengenai transparansi kondisi keuangan bank pembiayaan \nrakyat syariah.  \nHuruf i \nInformasi yang dilaporkan terkait rincian restrukturisasi \npembiayaan yang dilakukan sebagaimana dimaksud dalam \nketentuan \nperaturan \nperundang-undangan \nmengenai \nrestrukturisasi pembiayaan bagi bank syariah dan unit \nusaha syariah. \n \n\n\n \nHuruf j \nCukup jelas. \nHuruf k \nCukup jelas. \nHuruf l \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nKesalahan antara lain ketidaksesuaian antara Laporan Bulanan \nBPR dan Laporan Bulanan BPRS yang disampaikan dengan \npedoman penyusunan Laporan Bulanan BPR dan Laporan \nBulanan BPRS. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nInformasi yang dilaporkan  terkait  pelanggaran dan \npelampauan batas maksimum pemberian kredit (BMPK) \nsesuai dengan perhitungan sebagaimana dimaksud dalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \nbatas \nmaksimum pemberian kredit bank perkreditan rakyat. \nPenyampaian informasi terkait pelanggaran dan pelampauan \nBMPK merupakan pemenuhan kewajiban pelaporan BMPK \nsebagaimana dimaksud dalam Undang-Undang mengenai \nperbankan. \nHuruf g \nRasio keuangan triwulanan yaitu rasio yang dimuat dalam \nLaporan Keuangan Publikasi sebagaimana dimaksud dalam \nPeraturan Otoritas Jasa Keuangan mengenai transparansi \nkondisi keuangan bank perkreditan rakyat. \n\n\n \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nInformasi yang dilaporkan  terkait  pelanggaran dan \npelampauan batas maksimum penyaluran dana (BMPD) \nsesuai dengan perhitungan sebagaimana dimaksud dalam \nketentuan peraturan perundang-undangan mengenai batas \nmaksimum penyaluran dana bank pembiayaan rakyat \nsyariah.  \nPenyampaian informasi terkait pelanggaran dan pelampauan \nBMPD merupakan pemenuhan kewajiban pelaporan BMPD \nsebagaimana dimaksud dalam Undang-Undang mengenai \nperbankan syariah. \nHuruf h \nRasio keuangan triwulanan yaitu rasio yang dimuat dalam \nlaporan \nkeuangan \npublikasi \ntriwulanan \nsebagaimana \ndimaksud dalam ketentuan peraturan perundang-undangan \nmengenai transparansi kondisi keuangan bank pembiayaan \nrakyat syariah.  \nHuruf i \nInformasi yang dilaporkan terkait rincian restrukturisasi \npembiayaan yang dilakukan sebagaimana dimaksud dalam \nketentuan \nperaturan \nperundang-undangan \nmengenai \nrestrukturisasi pembiayaan bagi bank syariah dan unit \nusaha syariah. \n \n\n\n \nHuruf j \nCukup jelas. \nHuruf k \nCukup jelas. \nHuruf l \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nKesalahan antara lain ketidaksesuaian antara Laporan Bulanan \nBPR dan Laporan Bulanan BPRS yang disampaikan dengan \npedoman penyusunan Laporan Bulanan BPR dan Laporan \nBulanan BPRS. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Mutatis \nmutandis \nyaitu \nketentuan \nmengenai \npengecualian \npenyampaian \nlaporan \nBPR \ndan \nBPRS, \nberlaku \njuga \nuntuk \npengecualian penyampaian koreksi atas Laporan Bulanan BPR dan \nLaporan Bulanan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Mutatis \nmutandis \nyaitu \nketentuan \nmengenai \npengecualian \npenyampaian \nlaporan \nBPR \ndan \nBPRS, \nberlaku \njuga \nuntuk \npengecualian penyampaian koreksi atas Laporan Bulanan BPR dan \nLaporan Bulanan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Prosedur konversi yaitu prosedur yang digunakan oleh BPR dan BPRS \nuntuk menyesuaikan penyajian data dari format pembukuan intern \nBPR dan BPRS ke dalam format Laporan Bulanan BPR dan Laporan \nBulanan BPRS, dengan mengacu kepada pedoman penyusunan \nLaporan Bulanan BPR dan Laporan Bulanan BPRS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prosedur konversi yaitu prosedur yang digunakan oleh BPR dan BPRS \nuntuk menyesuaikan penyajian data dari format pembukuan intern \nBPR dan BPRS ke dalam format Laporan Bulanan BPR dan Laporan \nBulanan BPRS, dengan mengacu kepada pedoman penyusunan \nLaporan Bulanan BPR dan Laporan Bulanan BPRS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh: \nApabila \nOtoritas \nJasa \nKeuangan \nmemberikan \npersetujuan  \npenggabungan antara BPR X dan BPR Y pada tanggal 1 Februari 2020 \nyang berlaku sejak tanggal 1 Maret 2020, yaitu sejak memperoleh \npersetujuan Otoritas Jasa Keuangan dan persetujuan perubahan \n\n\n \nAnggaran Dasar atau Akta Pendirian BPR dari instansi yang \nberwenang atau tanggal pencatatan Akta Penggabungan Usaha dan \nperubahan Anggaran Dasar dalam Daftar Perusahaan apabila \nperubahan Anggaran Dasar tidak memerlukan persetujuan dari \ninstansi yang berwenang, maka masing-masing BPR X dan BPR Y tetap \nmenyampaikan Laporan Bulanan BPR posisi laporan bulan Februari \n2020.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh: \nApabila \nOtoritas \nJasa \nKeuangan \nmemberikan \npersetujuan  \npenggabungan antara BPR X dan BPR Y pada tanggal 1 Februari 2020 \nyang berlaku sejak tanggal 1 Maret 2020, yaitu sejak memperoleh \npersetujuan Otoritas Jasa Keuangan dan persetujuan perubahan \n\n\n \nAnggaran Dasar atau Akta Pendirian BPR dari instansi yang \nberwenang atau tanggal pencatatan Akta Penggabungan Usaha dan \nperubahan Anggaran Dasar dalam Daftar Perusahaan apabila \nperubahan Anggaran Dasar tidak memerlukan persetujuan dari \ninstansi yang berwenang, maka masing-masing BPR X dan BPR Y tetap \nmenyampaikan Laporan Bulanan BPR posisi laporan bulan Februari \n2020."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKoreksi atas  Laporan Bulanan BPR dan Laporan Bulanan BPRS \ndilakukan \nberdasarkan \nhasil \npenelitian \ndan/atau \nhasil \npemeriksaan Otoritas Jasa Keuangan.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKoreksi atas  Laporan Bulanan BPR dan Laporan Bulanan BPRS \ndilakukan \nberdasarkan \nhasil \npenelitian \ndan/atau \nhasil \npemeriksaan Otoritas Jasa Keuangan.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nPertanggungjawaban Laporan Keuangan Tahunan kepada rapat \numum pemegang saham atau rapat anggota yaitu sebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan mengenai \ntransparansi kondisi keuangan bank perkreditan rakyat dan \nketentuan \nperaturan \nperundang-undangan \nmengenai \ntransparansi kondisi keuangan bank pembiayaan rakyat syariah. \nHuruf c \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nPertanggungjawaban Laporan Keuangan Tahunan kepada rapat \numum pemegang saham atau rapat anggota yaitu sebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan mengenai \ntransparansi kondisi keuangan bank perkreditan rakyat dan \nketentuan \nperaturan \nperundang-undangan \nmengenai \ntransparansi kondisi keuangan bank pembiayaan rakyat syariah. \nHuruf c \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Izin usaha termasuk izin usaha pendirian BPR dan BPRS baru atau \nizin usaha BPR dan BPRS hasil peleburan. \nPermintaan nomor sandi BPR dan BPRS diajukan kepada Departemen \nPerizinan dan Informasi Perbankan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Izin usaha termasuk izin usaha pendirian BPR dan BPRS baru atau \nizin usaha BPR dan BPRS hasil peleburan. \nPermintaan nomor sandi BPR dan BPRS diajukan kepada Departemen \nPerizinan dan Informasi Perbankan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6342",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6342"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 62,
+  "total_ayat": 99,
+  "total_karakter": 34842,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

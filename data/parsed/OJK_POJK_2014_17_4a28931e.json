@@ -1,0 +1,1235 @@
+{
+  "doc_id": "OJK_POJK_2014_17_4a28931e",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "17",
+  "tahun": "2014",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 17/POJK.03/2014 tentang Penerapan Manajemen Risiko Terintergrasi bagi Konglomerasi Keuangan",
+  "status": "Berlaku (Dicabut Sebagian)",
+  "tanggal_ditetapkan": null,
+  "tanggal_berlaku": null,
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "STRUKTUR KONGLOMERASI KEUANGAN"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TERINTEGRASI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "KEBIJAKAN, PROSEDUR DAN PENETAPAN LIMIT MANAJEMEN RISIKO TERINTEGRASI"
+    },
+    {
+      "bab_nomor": "BAB  VI",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, PENGENDALIAN DAN SISTEM INFORMASI MANAJEMEN RISIKO TERINTEGRASI"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN MANAJEMEN RISIKO TERINTEGRASI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:\n1.\nLembaga Jasa Keuangan yang selanjutnya disebut LJK adalah lembaga yang\nmelaksanakan kegiatan di sektor perbankan, pasar modal, perasuransian,\ndana pensiun, lembaga pembiayaan, dan Lembaga Jasa Keuangan lainnya\nsebagaimana dimaksud dalam Undang-Undang\nmengenai\nOtoritas Jasa\nKeuangan.\n2.\nKonglomerasi Keuangan adalah LJK yang berada dalam satu grup atau\nkelompok karena keterkaitan kepemilikan dan/atau pengendalian.\n3.\nEntitas Utama adalah LJK induk dari Konglomerasi Keuangan atau LJK yang\nditunjuk oleh pemegang saham pengendali Konglomerasi Keuangan.\n4.\nRisiko adalah potensi kerugian akibat terjadinya suatu peristiwa tertentu.\n5.\nManajemen\nRisiko\nadalah serangkaian metodologi dan prosedur yang\ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, \nmemantau, \ndan\nmengendalikan Risiko yang timbul dari seluruh kegiatan usaha LJK.\n6.\nManajemen Risiko Terintegrasi adalah serangkaian metodologi dan prosedur\nyang\ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, \nmemantau, \ndan\nmengendalikan Risiko yang timbul dari seluruh kegiatan usaha LJK yang\ntergabung dalam suatu Konglomerasi Keuangan secara terintegrasi.\n7.\nDireksi adalah:\na.\nbagi \nLJK\nberbadan\nhukum \nPerseroan \nTerbatas \nadalah \ndireksi\nsebagaimana dimaksud dalam Undang-Undang mengenai\nPerseroan\nTerbatas;\nb.\nbagi \nLJK \nberbadan\nhukum \nPerusahaan \nDaerah \nadalah \ndireksi\nsebagaimana dimaksud dalam Undang-Undang mengenai Perusahaan\nDaerah;\n\n\nBAB ...\nc.\nbagi LJK berbadan\nhukum Koperasi adalah pengurus\nsebagaimana\ndimaksud dalam Undang-Undang mengenai Perkoperasian;\nd.\nbagi LJK yang berbadan\nhukum Usaha Bersama adalah direksi\nsebagaimana dimaksud dalam anggaran dasar perusahaan;\ne.\nbagi LJK yang berstatus sebagai  kantor cabang dari entitas yang\nberkedudukan di luar negeri adalah pemimpin kantor cabang dan pejabat\nsatu tingkat di bawah pemimpin kantor cabang.\n8.\nDewan Komisaris adalah:\na.\nbagi LJK berbadan hukum Perseroan Terbatas adalah dewan komisaris\nsebagaimana dimaksud dalam Undang-Undang mengenai\nPerseroan\nTerbatas;\nb.\nbagi LJK berbadan\nhukum Perusahaan Daerah adalah pengawas\nsebagaimana dimaksud dalam Undang-Undang mengenai Perusahaan\nDaerah;\nc.\nbagi LJK berbadan\nhukum Koperasi adalah pengawas sebagaimana\ndimaksud dalam Undang-Undang mengenai Perkoperasian;\nd.\nbagi LJK yang berbadan hukum Usaha Bersama adalah dewan komisaris\nsebagaimana dimaksud dalam anggaran dasar perusahaan;\ne.\nbagi LJK yang berstatus sebagai  kantor cabang dari entitas yang\nberkedudukan di luar negeri adalah pihak yang ditunjuk untuk\nmelaksanakan fungsi pengawasan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud dengan:\n1.\nLembaga Jasa Keuangan yang selanjutnya disebut LJK adalah lembaga yang\nmelaksanakan kegiatan di sektor perbankan, pasar modal, perasuransian,\ndana pensiun, lembaga pembiayaan, dan Lembaga Jasa Keuangan lainnya\nsebagaimana dimaksud dalam Undang-Undang\nmengenai\nOtoritas Jasa\nKeuangan.\n2.\nKonglomerasi Keuangan adalah LJK yang berada dalam satu grup atau\nkelompok karena keterkaitan kepemilikan dan/atau pengendalian.\n3.\nEntitas Utama adalah LJK induk dari Konglomerasi Keuangan atau LJK yang\nditunjuk oleh pemegang saham pengendali Konglomerasi Keuangan.\n4.\nRisiko adalah potensi kerugian akibat terjadinya suatu peristiwa tertentu.\n5.\nManajemen\nRisiko\nadalah serangkaian metodologi dan prosedur yang\ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, \nmemantau, \ndan\nmengendalikan Risiko yang timbul dari seluruh kegiatan usaha LJK.\n6.\nManajemen Risiko Terintegrasi adalah serangkaian metodologi dan prosedur\nyang\ndigunakan \nuntuk \nmengidentifikasi, \nmengukur, \nmemantau, \ndan\nmengendalikan Risiko yang timbul dari seluruh kegiatan usaha LJK yang\ntergabung dalam suatu Konglomerasi Keuangan secara terintegrasi.\n7.\nDireksi adalah:\na.\nbagi \nLJK\nberbadan\nhukum \nPerseroan \nTerbatas \nadalah \ndireksi\nsebagaimana dimaksud dalam Undang-Undang mengenai\nPerseroan\nTerbatas;\nb.\nbagi \nLJK \nberbadan\nhukum \nPerusahaan \nDaerah \nadalah \ndireksi\nsebagaimana dimaksud dalam Undang-Undang mengenai Perusahaan\nDaerah;\n\n\nBAB ...\nc.\nbagi LJK berbadan\nhukum Koperasi adalah pengurus\nsebagaimana\ndimaksud dalam Undang-Undang mengenai Perkoperasian;\nd.\nbagi LJK yang berbadan\nhukum Usaha Bersama adalah direksi\nsebagaimana dimaksud dalam anggaran dasar perusahaan;\ne.\nbagi LJK yang berstatus sebagai  kantor cabang dari entitas yang\nberkedudukan di luar negeri adalah pemimpin kantor cabang dan pejabat\nsatu tingkat di bawah pemimpin kantor cabang.\n8.\nDewan Komisaris adalah:\na.\nbagi LJK berbadan hukum Perseroan Terbatas adalah dewan komisaris\nsebagaimana dimaksud dalam Undang-Undang mengenai\nPerseroan\nTerbatas;\nb.\nbagi LJK berbadan\nhukum Perusahaan Daerah adalah pengawas\nsebagaimana dimaksud dalam Undang-Undang mengenai Perusahaan\nDaerah;\nc.\nbagi LJK berbadan\nhukum Koperasi adalah pengawas sebagaimana\ndimaksud dalam Undang-Undang mengenai Perkoperasian;\nd.\nbagi LJK yang berbadan hukum Usaha Bersama adalah dewan komisaris\nsebagaimana dimaksud dalam anggaran dasar perusahaan;\ne.\nbagi LJK yang berstatus sebagai  kantor cabang dari entitas yang\nberkedudukan di luar negeri adalah pihak yang ditunjuk untuk\nmelaksanakan fungsi pengawasan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Konglomerasi Keuangan wajib menerapkan Manajemen Risiko Terintegrasi secara\nkomprehensif dan efektif sebagaimana diatur dalam Peraturan Otoritas Jasa\nKeuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Konglomerasi Keuangan wajib menerapkan Manajemen Risiko Terintegrasi secara\nkomprehensif dan efektif sebagaimana diatur dalam Peraturan Otoritas Jasa\nKeuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Entitas Utama wajib mengintegrasikan penerapan Manajemen Risiko\npada\nKonglomerasi Keuangan.\n\n\nd. Entitas ...\nBAB II\nSTRUKTUR KONGLOMERASI KEUANGAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama wajib mengintegrasikan penerapan Manajemen Risiko\npada\nKonglomerasi Keuangan.\n\n\nd. Entitas ...\nBAB II\nSTRUKTUR KONGLOMERASI KEUANGAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "STRUKTUR KONGLOMERASI KEUANGAN",
+      "teks_lengkap": "(1)\nKonglomerasi Keuangan sebagaimana dimaksud dalam Pasal 2 memiliki\nstruktur yang terdiri dari Entitas Utama dan:\na.\nperusahaan anak; dan/atau\nb.\nperusahaan terelasi beserta perusahaan anaknya.\n(2)\nKonglomerasi Keuangan sebagaimana dimaksud pada ayat (1) meliputi jenis\nLJK sebagai berikut:\na.\nbank;\nb.\nperusahaan asuransi dan reasuransi;\nc.\nperusahaan efek; dan/atau\nd.\nperusahaan pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Konglomerasi Keuangan sebagaimana dimaksud dalam Pasal 2 memiliki\nstruktur yang terdiri dari Entitas Utama dan:\na.\nperusahaan anak; dan/atau\nb.\nperusahaan terelasi beserta perusahaan anaknya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Konglomerasi Keuangan sebagaimana dimaksud pada ayat (1) meliputi jenis\nLJK sebagai berikut:\na.\nbank;\nb.\nperusahaan asuransi dan reasuransi;\nc.\nperusahaan efek; dan/atau\nd.\nperusahaan pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "STRUKTUR KONGLOMERASI KEUANGAN",
+      "teks_lengkap": "(1)\nPerusahaan anak sebagaimana dimaksud dalam Pasal 4 ayat (1) adalah\nbadan hukum atau perusahaan yang dimiliki dan/atau dikendalikan oleh\nLJK secara langsung maupun tidak langsung baik di dalam maupun di luar\nnegeri yang melakukan kegiatan usaha di sektor jasa keuangan.\n(2)\nPerusahaan anak sebagaimana dimaksud pada ayat (1) terdiri dari:\na.\nPerusahaan subsidiari yaitu perusahaan yang dimiliki LJK lebih dari\n50% (lima puluh perseratus);\nb.\nPerusahaan partisipasi yaitu perusahaan yang dimiliki LJK sebesar 50%\n(lima puluh perseratus) atau kurang, namun LJK memiliki pengendalian\nterhadap perusahaan;\nc.\nPerusahaan yang dimiliki LJK lebih dari 20% (dua puluh perseratus)\nsampai \ndengan \n50% \n(lima \npuluh \nperseratus) \nyang \nmemenuhi\npersyaratan, yaitu:\n1.\nkepemilikan LJK dan para pihak lainnya pada perusahaan anak\nadalah masing-masing sama besar; dan\n2.\nmasing-masing pemilik melakukan pengendalian secara bersama\nterhadap perusahaan anak yang didasarkan pada perjanjian, dan\ndibuktikan dengan adanya kesepakatan atau komitmen secara\ntertulis dari para pemilik untuk memberikan dukungan baik finansial\nmaupun non finansial sesuai kepemilikannya masing-masing.\n\n\nBAB ...\nd.\nEntitas lain yang berdasarkan standar akuntansi keuangan yang berlaku\nwajib dikonsolidasikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perusahaan anak sebagaimana dimaksud dalam Pasal 4 ayat (1) adalah\nbadan hukum atau perusahaan yang dimiliki dan/atau dikendalikan oleh\nLJK secara langsung maupun tidak langsung baik di dalam maupun di luar\nnegeri yang melakukan kegiatan usaha di sektor jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perusahaan anak sebagaimana dimaksud pada ayat (1) terdiri dari:\na.\nPerusahaan subsidiari yaitu perusahaan yang dimiliki LJK lebih dari\n50% (lima puluh perseratus);\nb.\nPerusahaan partisipasi yaitu perusahaan yang dimiliki LJK sebesar 50%\n(lima puluh perseratus) atau kurang, namun LJK memiliki pengendalian\nterhadap perusahaan;\nc.\nPerusahaan yang dimiliki LJK lebih dari 20% (dua puluh perseratus)\nsampai \ndengan \n50% \n(lima \npuluh \nperseratus) \nyang \nmemenuhi\npersyaratan, yaitu:\n1.\nkepemilikan LJK dan para pihak lainnya pada perusahaan anak\nadalah masing-masing sama besar; dan\n2.\nmasing-masing pemilik melakukan pengendalian secara bersama\nterhadap perusahaan anak yang didasarkan pada perjanjian, dan\ndibuktikan dengan adanya kesepakatan atau komitmen secara\ntertulis dari para pemilik untuk memberikan dukungan baik finansial\nmaupun non finansial sesuai kepemilikannya masing-masing.\n\n\nBAB ...\nd.\nEntitas lain yang berdasarkan standar akuntansi keuangan yang berlaku\nwajib dikonsolidasikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "STRUKTUR KONGLOMERASI KEUANGAN",
+      "teks_lengkap": "Perusahaan terelasi (sister company) sebagaimana dimaksud dalam Pasal 4 ayat\n(1) adalah beberapa LJK yang terpisah secara kelembagaan dan/atau secara\nhukum namun dimiliki dan/atau dikendalikan oleh pemegang saham pengendali\nyang sama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "adalah beberapa LJK yang terpisah secara kelembagaan dan/atau secara\nhukum namun dimiliki dan/atau dikendalikan oleh pemegang saham pengendali\nyang sama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "STRUKTUR KONGLOMERASI KEUANGAN",
+      "teks_lengkap": "(1)\nLJK wajib mengidentifikasi keterkaitan kepemilikan dan/atau pengendalian\ndengan LJK lain dalam menentukan Konglomerasi Keuangan sebagaimana\ndimaksud dalam Pasal 4.\n(2)\nKonglomerasi Keuangan wajib memiliki Entitas Utama.\n(3)\nDalam hal struktur Konglomerasi Keuangan terdiri dari LJK induk dan LJK\nanak, Entitas Utama adalah LJK induk.\n(4)\nDalam hal struktur Konglomerasi Keuangan selain sebagaimana dimaksud\npada ayat (3), pemegang saham pengendali Konglomerasi Keuangan wajib\nmenunjuk Entitas Utama.\n(5)\nDalam hal Konglomerasi Keuangan dimiliki oleh lebih dari satu pihak\ndengan \nporsi \nkepemilikan \nyang \nsama,\npenunjukan\nEntitas \nUtama\nberdasarkan kesepakatan di antara pihak dengan porsi kepemilikan yang\nsama.\n(6)\nPihak yang ditunjuk sebagai Entitas Utama sebagaimana dimaksud pada\nayat (4) dan ayat (5) adalah LJK yang memiliki total aset terbesar dan/atau\nmemiliki kualitas penerapan Manajemen Risiko yang baik.\n(7)\nOtoritas Jasa Keuangan berwenang memerintahkan Entitas Utama untuk\nmelakukan penyesuaian terhadap:\na.\nLJK yang termasuk dalam Konglomerasi Keuangan; dan/atau\nb.\nLJK yang ditunjuk menjadi Entitas Utama.\n\n\nBAB ...\nBAB III\nRUANG LINGKUP MANAJEMEN RISIKO TERINTEGRASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "LJK wajib mengidentifikasi keterkaitan kepemilikan dan/atau pengendalian\ndengan LJK lain dalam menentukan Konglomerasi Keuangan sebagaimana\ndimaksud dalam Pasal 4."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Konglomerasi Keuangan wajib memiliki Entitas Utama."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal struktur Konglomerasi Keuangan terdiri dari LJK induk dan LJK\nanak, Entitas Utama adalah LJK induk."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal struktur Konglomerasi Keuangan selain sebagaimana dimaksud\npada ayat (3), pemegang saham pengendali Konglomerasi Keuangan wajib\nmenunjuk Entitas Utama."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Konglomerasi Keuangan dimiliki oleh lebih dari satu pihak\ndengan \nporsi \nkepemilikan \nyang \nsama,\npenunjukan\nEntitas \nUtama\nberdasarkan kesepakatan di antara pihak dengan porsi kepemilikan yang\nsama."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Pihak yang ditunjuk sebagai Entitas Utama sebagaimana dimaksud pada\nayat (4) dan ayat (5) adalah LJK yang memiliki total aset terbesar dan/atau\nmemiliki kualitas penerapan Manajemen Risiko yang baik."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Otoritas Jasa Keuangan berwenang memerintahkan Entitas Utama untuk\nmelakukan penyesuaian terhadap:\na.\nLJK yang termasuk dalam Konglomerasi Keuangan; dan/atau\nb.\nLJK yang ditunjuk menjadi Entitas Utama.\n\n\nBAB ...\nBAB III\nRUANG LINGKUP MANAJEMEN RISIKO TERINTEGRASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "Penerapan Manajemen Risiko Terintegrasi sebagaimana dimaksud dalam Pasal 2\nmencakup paling sedikit:\na.\npengawasan Direksi dan Dewan Komisaris Entitas Utama;\nb.\nkecukupan kebijakan, prosedur, dan penetapan limit Manajemen Risiko\nTerintegrasi;\nc.\nkecukupan proses identifikasi, pengukuran, pemantauan, pengendalian\nRisiko \nsecara \nterintegrasi,\ndan\nsistem \ninformasi \nManajemen \nRisiko\nTerintegrasi; dan\nd.\nsistem pengendalian intern yang menyeluruh terhadap penerapan Manajemen\nRisiko Terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan Manajemen Risiko Terintegrasi sebagaimana dimaksud dalam Pasal 2\nmencakup paling sedikit:\na.\npengawasan Direksi dan Dewan Komisaris Entitas Utama;\nb.\nkecukupan kebijakan, prosedur, dan penetapan limit Manajemen Risiko\nTerintegrasi;\nc.\nkecukupan proses identifikasi, pengukuran, pemantauan, pengendalian\nRisiko \nsecara \nterintegrasi,\ndan\nsistem \ninformasi \nManajemen \nRisiko\nTerintegrasi; dan\nd.\nsistem pengendalian intern yang menyeluruh terhadap penerapan Manajemen\nRisiko Terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "(1)\nRisiko yang wajib dikelola dalam Manajemen Risiko Terintegrasi mencakup:\na.\nRisiko kredit;\nb. Risiko pasar;\nc.\nRisiko likuiditas;\nd. Risiko operasional;\ne.\nRisiko hukum;\nf.\nRisiko reputasi;\ng.\nRisiko stratejik;\nh. Risiko kepatuhan;\ni.\nRisiko transaksi intra-grup;\nj.\nRisiko asuransi.\n(2)\nRisiko asuransi sebagaimana dimaksud pada ayat (1) huruf j tidak wajib\ndikelola\noleh\nKonglomerasi Keuangan yang tidak memiliki perusahaan\nasuransi dan/atau reasuransi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Risiko yang wajib dikelola dalam Manajemen Risiko Terintegrasi mencakup:\na.\nRisiko kredit;\nb. Risiko pasar;\nc.\nRisiko likuiditas;\nd. Risiko operasional;\ne.\nRisiko hukum;\nf.\nRisiko reputasi;\ng.\nRisiko stratejik;\nh. Risiko kepatuhan;\ni.\nRisiko transaksi intra-grup;\nj.\nRisiko asuransi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Risiko asuransi sebagaimana dimaksud pada ayat (1) huruf j tidak wajib\ndikelola\noleh\nKonglomerasi Keuangan yang tidak memiliki perusahaan\nasuransi dan/atau reasuransi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "RUANG LINGKUP MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "Penerapan \nManajemen \nRisiko \nTerintegrasi\ndapat \ndisesuaikan \ndengan\nkarakteristik dan kompleksitas usaha Konglomerasi Keuangan.\n\n\nf. mengevaluasi ...\nBAB IV\nPENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan \nManajemen \nRisiko \nTerintegrasi\ndapat \ndisesuaikan \ndengan\nkarakteristik dan kompleksitas usaha Konglomerasi Keuangan.\n\n\nf. mengevaluasi ...\nBAB IV\nPENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "(1)\nDireksi dan Dewan Komisaris Entitas Utama berwenang dan bertanggung\njawab untuk memastikan penerapan Manajemen Risiko Terintegrasi sesuai\ndengan karakteristik dan kompleksitas usaha Konglomerasi Keuangan.\n(2)\nDalam mendukung penerapan Manajemen Risiko Terintegrasi sebagaimana\ndimaksud pada ayat (1) Direksi dan Dewan Komisaris Entitas Utama wajib\nmemastikan penerapan Manajemen Risiko pada masing-masing LJK dalam\nKonglomerasi Keuangan.\n(3)\nDalam hal Entitas Utama adalah LJK yang melakukan kegiatan usaha\nberdasarkan prinsip syariah, Dewan Pengawas Syariah pada Entitas Utama\nwajib \nmemastikan \npenerapan \nManajemen \nRisiko \nTerintegrasi \ntidak\nbertentangan dengan prinsip-prinsip syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Direksi dan Dewan Komisaris Entitas Utama berwenang dan bertanggung\njawab untuk memastikan penerapan Manajemen Risiko Terintegrasi sesuai\ndengan karakteristik dan kompleksitas usaha Konglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam mendukung penerapan Manajemen Risiko Terintegrasi sebagaimana\ndimaksud pada ayat (1) Direksi dan Dewan Komisaris Entitas Utama wajib\nmemastikan penerapan Manajemen Risiko pada masing-masing LJK dalam\nKonglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Entitas Utama adalah LJK yang melakukan kegiatan usaha\nberdasarkan prinsip syariah, Dewan Pengawas Syariah pada Entitas Utama\nwajib \nmemastikan \npenerapan \nManajemen \nRisiko \nTerintegrasi \ntidak\nbertentangan dengan prinsip-prinsip syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "(1)\nKewenangan dan tanggung jawab Direksi Entitas Utama dalam rangka\nmemastikan \npenerapan \nManajemen \nRisiko \nTerintegrasi \nsebagaimana\ndimaksud dalam Pasal 11 ayat (1) dan ayat (2) mencakup paling sedikit:\na.\nmenyusun kebijakan Manajemen Risiko Terintegrasi secara tertulis dan\nkomprehensif sesuai dengan ketentuan dalam Peraturan Otoritas Jasa\nKeuangan ini;\nb.\nmelaksanakan kebijakan\nManajemen Risiko Terintegrasi yang telah\nditetapkan;\nc.\nmengembangkan \nbudaya\nRisiko \nsebagai \nbagian \ndari \npenerapan\nManajemen Risiko Terintegrasi pada Konglomerasi Keuangan;\nd.\nmemastikan \nefektivitas \npengelolaan \nsumber \ndaya \nmanusia \nyang\nmencakup  kompetensi, kualifikasi, dan kecukupan sumber daya\nmanusia pada Entitas Utama untuk melaksanakan fungsi Manajemen\nRisiko Terintegrasi;\ne.\nmemastikan bahwa penerapan Manajemen Risiko Terintegrasi telah\ndilakukan secara independen;\n\n\nPasal ...\nf.\nmengevaluasi \nhasil \nkaji \nulang\nSatuan\nKerja \nManajemen \nRisiko\nTerintegrasi \nsecara \nberkala \nterhadap \nproses \nManajemen \nRisiko\nTerintegrasi.\n(2)\nDireksi Entitas Utama wajib mengevaluasi dan menyesuaikan strategi dan\nkerangka\nRisiko \nsebagai \nbagian \ndari \nkebijakan \nManajemen \nRisiko\nTerintegrasi sebagaimana dimaksud pada ayat (1) huruf a paling sedikit 1\n(satu) kali dalam 1 (satu) tahun atau sewaktu-waktu dalam hal terdapat\nperubahan faktor-faktor yang mempengaruhi kegiatan usaha Konglomerasi\nKeuangan secara signifikan.\n(3)\nDalam rangka melaksanakan wewenang dan tanggung jawab sebagaimana\ndimaksud pada ayat (1), Direksi Entitas Utama wajib memiliki pemahaman\nyang memadai mengenai Risiko yang melekat pada seluruh kegiatan bisnis\ndalam Konglomerasi Keuangan dan mampu mengambil tindakan yang\ndiperlukan sesuai dengan profil Risiko Konglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewenangan dan tanggung jawab Direksi Entitas Utama dalam rangka\nmemastikan \npenerapan \nManajemen \nRisiko \nTerintegrasi \nsebagaimana\ndimaksud dalam Pasal 11 ayat (1) dan ayat (2) mencakup paling sedikit:\na.\nmenyusun kebijakan Manajemen Risiko Terintegrasi secara tertulis dan\nkomprehensif sesuai dengan ketentuan dalam Peraturan Otoritas Jasa\nKeuangan ini;\nb.\nmelaksanakan kebijakan\nManajemen Risiko Terintegrasi yang telah\nditetapkan;\nc.\nmengembangkan \nbudaya\nRisiko \nsebagai \nbagian \ndari \npenerapan\nManajemen Risiko Terintegrasi pada Konglomerasi Keuangan;\nd.\nmemastikan \nefektivitas \npengelolaan \nsumber \ndaya \nmanusia \nyang\nmencakup  kompetensi, kualifikasi, dan kecukupan sumber daya\nmanusia pada Entitas Utama untuk melaksanakan fungsi Manajemen\nRisiko Terintegrasi;\ne.\nmemastikan bahwa penerapan Manajemen Risiko Terintegrasi telah\ndilakukan secara independen;\n\n\nPasal ...\nf.\nmengevaluasi \nhasil \nkaji \nulang\nSatuan\nKerja \nManajemen \nRisiko\nTerintegrasi \nsecara \nberkala \nterhadap \nproses \nManajemen \nRisiko\nTerintegrasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Direksi Entitas Utama wajib mengevaluasi dan menyesuaikan strategi dan\nkerangka\nRisiko \nsebagai \nbagian \ndari \nkebijakan \nManajemen \nRisiko\nTerintegrasi sebagaimana dimaksud pada ayat (1) huruf a paling sedikit 1\n(satu) kali dalam 1 (satu) tahun atau sewaktu-waktu dalam hal terdapat\nperubahan faktor-faktor yang mempengaruhi kegiatan usaha Konglomerasi\nKeuangan secara signifikan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam rangka melaksanakan wewenang dan tanggung jawab sebagaimana\ndimaksud pada ayat (1), Direksi Entitas Utama wajib memiliki pemahaman\nyang memadai mengenai Risiko yang melekat pada seluruh kegiatan bisnis\ndalam Konglomerasi Keuangan dan mampu mengambil tindakan yang\ndiperlukan sesuai dengan profil Risiko Konglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "Entitas Utama wajib menunjuk Direktur Entitas Utama yang membawahkan\nfungsi\nManajemen Risiko\nmenjadi\nDirektur yang membawahkan fungsi\nManajemen Risiko Terintegrasi untuk melaksanakan penerapan Manajemen\nRisiko Terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama wajib menunjuk Direktur Entitas Utama yang membawahkan\nfungsi\nManajemen Risiko\nmenjadi\nDirektur yang membawahkan fungsi\nManajemen Risiko Terintegrasi untuk melaksanakan penerapan Manajemen\nRisiko Terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "(1)\nKewenangan dan tanggung jawab Dewan Komisaris Entitas Utama dalam\nrangka memastikan penerapan Manajemen Risiko Terintegrasi sebagaimana\ndimaksud dalam Pasal 11 ayat (1) dan ayat (2) mencakup paling sedikit:\na.\nmengarahkan, menyetujui, dan mengevaluasi kebijakan Manajemen\nRisiko Terintegrasi;\nb.\nmengevaluasi pelaksanaan kebijakan Manajemen Risiko Terintegrasi oleh\nDireksi Entitas Utama.\n(2)\nDewan Komisaris Entitas Utama wajib mengevaluasi kebijakan Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) huruf b paling\nsedikit 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu dalam hal\nterdapat perubahan faktor-faktor yang mempengaruhi kegiatan usaha secara\nsignifikan.\n\n\na. penyusunan ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewenangan dan tanggung jawab Dewan Komisaris Entitas Utama dalam\nrangka memastikan penerapan Manajemen Risiko Terintegrasi sebagaimana\ndimaksud dalam Pasal 11 ayat (1) dan ayat (2) mencakup paling sedikit:\na.\nmengarahkan, menyetujui, dan mengevaluasi kebijakan Manajemen\nRisiko Terintegrasi;\nb.\nmengevaluasi pelaksanaan kebijakan Manajemen Risiko Terintegrasi oleh\nDireksi Entitas Utama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dewan Komisaris Entitas Utama wajib mengevaluasi kebijakan Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) huruf b paling\nsedikit 1 (satu) kali dalam 1 (satu) tahun atau sewaktu-waktu dalam hal\nterdapat perubahan faktor-faktor yang mempengaruhi kegiatan usaha secara\nsignifikan.\n\n\na. penyusunan ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "Direksi dan\nDewan Komisaris Entitas Utama selain wajib\nmelaksanakan\nwewenang dan tanggung jawab dalam rangka penerapan Manajemen Risiko\nTerintegrasi pada Konglomerasi Keuangan, tetap wajib melaksanakan wewenang\ndan tanggung jawab sebagai\nDireksi dan\nDewan Komisaris\ndalam rangka\npenerapan manajemen risiko pada Entitas Utama sesuai dengan ketentuan yang\nberlaku bagi Entitas Utama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Direksi dan\nDewan Komisaris Entitas Utama selain wajib\nmelaksanakan\nwewenang dan tanggung jawab dalam rangka penerapan Manajemen Risiko\nTerintegrasi pada Konglomerasi Keuangan, tetap wajib melaksanakan wewenang\ndan tanggung jawab sebagai\nDireksi dan\nDewan Komisaris\ndalam rangka\npenerapan manajemen risiko pada Entitas Utama sesuai dengan ketentuan yang\nberlaku bagi Entitas Utama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "Dalam rangka penerapan Manajemen Risiko Terintegrasi yang komprehensif dan\nefektif, Entitas Utama wajib membentuk:\na.\nKomite Manajemen Risiko Terintegrasi; dan\nb.\nSatuan Kerja Manajemen Risiko Terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam rangka penerapan Manajemen Risiko Terintegrasi yang komprehensif dan\nefektif, Entitas Utama wajib membentuk:\na.\nKomite Manajemen Risiko Terintegrasi; dan\nb.\nSatuan Kerja Manajemen Risiko Terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "(1)\nKomite Manajemen Risiko Terintegrasi sebagaimana dimaksud dalam Pasal\n16 huruf a terdiri dari paling sedikit:\na.\nDirektur Entitas Utama yang membawahkan fungsi Manajemen Risiko\nsebagaimana dimaksud dalam Pasal 13  sebagai ketua  merangkap\nanggota Komite Manajemen Risiko Terintegrasi;\nb.\nDirektur yang mewakili dan ditunjuk dari LJK dalam Konglomerasi\nKeuangan; dan\nc.\npejabat eksekutif.\n(2)\nJumlah dan komposisi direktur yang menjadi anggota Komite Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) huruf b\ndisesuaikan dengan kebutuhan Konglomerasi Keuangan serta efisiensi dan\nefektivitas pelaksanaan tugas dari Komite Manajemen Risiko Terintegrasi\ndengan memperhatikan antara lain keterwakilan masing-masing sektor jasa\nkeuangan.\n(3)\nJumlah dan sifat keanggotaan pejabat eksekutif dalam Komite Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) huruf c disesuaikan\ndengan kebutuhan masing-masing Konglomerasi Keuangan.\n(4)\nKomite Manajemen Risiko Terintegrasi sebagaimana dimaksud pada ayat (1)\nmemiliki wewenang dan tanggung jawab untuk memberikan rekomendasi\nkepada Direksi Entitas Utama, dalam rangka paling kurang:\n\n\n1. profil ...\na.\npenyusunan kebijakan Manajemen Risiko Terintegrasi; dan\nb.\nperbaikan \natau \npenyempurnaan \nkebijakan \nManajemen \nRisiko\nTerintegrasi berdasarkan hasil evaluasi pelaksanaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Komite Manajemen Risiko Terintegrasi sebagaimana dimaksud dalam Pasal\n16 huruf a terdiri dari paling sedikit:\na.\nDirektur Entitas Utama yang membawahkan fungsi Manajemen Risiko\nsebagaimana dimaksud dalam Pasal 13  sebagai ketua  merangkap\nanggota Komite Manajemen Risiko Terintegrasi;\nb.\nDirektur yang mewakili dan ditunjuk dari LJK dalam Konglomerasi\nKeuangan; dan\nc.\npejabat eksekutif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jumlah dan komposisi direktur yang menjadi anggota Komite Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) huruf b\ndisesuaikan dengan kebutuhan Konglomerasi Keuangan serta efisiensi dan\nefektivitas pelaksanaan tugas dari Komite Manajemen Risiko Terintegrasi\ndengan memperhatikan antara lain keterwakilan masing-masing sektor jasa\nkeuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jumlah dan sifat keanggotaan pejabat eksekutif dalam Komite Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) huruf c disesuaikan\ndengan kebutuhan masing-masing Konglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Komite Manajemen Risiko Terintegrasi sebagaimana dimaksud pada ayat (1)\nmemiliki wewenang dan tanggung jawab untuk memberikan rekomendasi\nkepada Direksi Entitas Utama, dalam rangka paling kurang:\n\n\n1. profil ...\na.\npenyusunan kebijakan Manajemen Risiko Terintegrasi; dan\nb.\nperbaikan \natau \npenyempurnaan \nkebijakan \nManajemen \nRisiko\nTerintegrasi berdasarkan hasil evaluasi pelaksanaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "(1)\nPembentukan organisasi Satuan Kerja Manajemen Risiko Terintegrasi\nsebagaimana dimaksud dalam Pasal 16 huruf b dalam Entitas Utama\ndisesuaikan dengan karakteristik dan kompleksitas usaha serta Risiko yang\nmelekat pada Konglomerasi Keuangan.\n(2)\nDalam hal Entitas Utama telah memiliki satuan kerja Manajemen Risiko,\npelaksanaan tugas dan tanggung jawab Satuan Kerja Manajemen Risiko\nTerintegrasi dapat merupakan salah satu fungsi dari satuan kerja\nManajemen Risiko yang telah ada.\n(3)\nSatuan Kerja Manajemen Risiko Terintegrasi sebagaimana dimaksud pada\nayat (1) dan ayat (2) harus independen.\n(4)\nDalam \nmelaksanakan \ntugasnya, \nSatuan \nKerja \nManajemen \nRisiko\nTerintegrasi harus berkoordinasi dengan satuan kerja yang melaksanakan\nfungsi Manajemen Risiko pada masing-masing LJK dalam Konglomerasi\nKeuangan.\n(5)\nSatuan Kerja Manajemen Risiko Terintegrasi bertanggung jawab langsung\nkepada Direktur yang membawahkan fungsi Manajemen Risiko Terintegrasi\nsebagaimana dimaksud dalam Pasal 13.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembentukan organisasi Satuan Kerja Manajemen Risiko Terintegrasi\nsebagaimana dimaksud dalam Pasal 16 huruf b dalam Entitas Utama\ndisesuaikan dengan karakteristik dan kompleksitas usaha serta Risiko yang\nmelekat pada Konglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Entitas Utama telah memiliki satuan kerja Manajemen Risiko,\npelaksanaan tugas dan tanggung jawab Satuan Kerja Manajemen Risiko\nTerintegrasi dapat merupakan salah satu fungsi dari satuan kerja\nManajemen Risiko yang telah ada."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Satuan Kerja Manajemen Risiko Terintegrasi sebagaimana dimaksud pada\nayat (1) dan ayat (2) harus independen."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nmelaksanakan \ntugasnya, \nSatuan \nKerja \nManajemen \nRisiko\nTerintegrasi harus berkoordinasi dengan satuan kerja yang melaksanakan\nfungsi Manajemen Risiko pada masing-masing LJK dalam Konglomerasi\nKeuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Satuan Kerja Manajemen Risiko Terintegrasi bertanggung jawab langsung\nkepada Direktur yang membawahkan fungsi Manajemen Risiko Terintegrasi\nsebagaimana dimaksud dalam Pasal 13."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENGAWASAN DIREKSI DAN DEWAN KOMISARIS ENTITAS UTAMA",
+      "teks_lengkap": "Wewenang dan tanggung jawab Satuan Kerja Manajemen Risiko Terintegrasi\nmeliputi:\na.\nmemberikan masukan kepada Direksi Entitas Utama antara lain dalam\npenyusunan kebijakan Manajemen Risiko Terintegrasi;\nb.\nmemantau pelaksanaan kebijakan Manajemen Risiko Terintegrasi termasuk\nmengembangkan \nprosedur \ndan \nalat \nuntuk \nidentifikasi, \npengukuran,\npemantauan, dan pengendalian Risiko;\nc.\nmelakukan pemantauan Risiko pada Konglomerasi Keuangan berdasarkan\nhasil penilaian:\n\n\nPasal ...\n1.\nprofil Risiko setiap LJK dalam Konglomerasi Keuangan,\n2.\ntingkat Risiko masing-masing Risiko secara terintegrasi,\n3.\nprofil Risiko secara terintegrasi;\nd.\nmelakukan stress testing;\ne.\nmelaksanakan kaji ulang secara berkala untuk memastikan:\n1.\nkeakuratan metodologi penilaian Risiko;\n2.\nkecukupan implementasi sistem informasi manajemen; dan\n3.\nketepatan kebijakan, prosedur dan penetapan limit Risiko,\nsecara terintegrasi;\nf.\nmengkaji usulan lini bisnis baru yang bersifat strategis dan berpengaruh\nsignifikan terhadap eksposur Risiko Konglomerasi Keuangan;\ng.\nmemberikan informasi kepada Komite Manajemen Risiko Terintegrasi\nterhadap hal-hal yang perlu ditindaklanjuti terkait hasil evaluasi terhadap\npenerapan Manajemen Risiko Terintegrasi;\nh.\nmemberikan masukan kepada Komite Manajemen Risiko Terintegrasi, dalam\nrangka penyusunan dan penyempurnaan kebijakan Manajemen Risiko\nTerintegrasi;\ni.\nmenyusun dan menyampaikan laporan profil Risiko terintegrasi secara\nberkala kepada Direktur dari Entitas Utama yang membawahkan fungsi\nManajemen Risiko Terintegrasi\ndan\nkepada Komite Manajemen Risiko\nTerintegrasi.\nBAB V\nKEBIJAKAN, PROSEDUR DAN PENETAPAN LIMIT MANAJEMEN RISIKO\nTERINTEGRASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab Satuan Kerja Manajemen Risiko Terintegrasi\nmeliputi:\na.\nmemberikan masukan kepada Direksi Entitas Utama antara lain dalam\npenyusunan kebijakan Manajemen Risiko Terintegrasi;\nb.\nmemantau pelaksanaan kebijakan Manajemen Risiko Terintegrasi termasuk\nmengembangkan \nprosedur \ndan \nalat \nuntuk \nidentifikasi, \npengukuran,\npemantauan, dan pengendalian Risiko;\nc.\nmelakukan pemantauan Risiko pada Konglomerasi Keuangan berdasarkan\nhasil penilaian:\n\n\nPasal ...\n1.\nprofil Risiko setiap LJK dalam Konglomerasi Keuangan,\n2.\ntingkat Risiko masing-masing Risiko secara terintegrasi,\n3.\nprofil Risiko secara terintegrasi;\nd.\nmelakukan stress testing;\ne.\nmelaksanakan kaji ulang secara berkala untuk memastikan:\n1.\nkeakuratan metodologi penilaian Risiko;\n2.\nkecukupan implementasi sistem informasi manajemen; dan\n3.\nketepatan kebijakan, prosedur dan penetapan limit Risiko,\nsecara terintegrasi;\nf.\nmengkaji usulan lini bisnis baru yang bersifat strategis dan berpengaruh\nsignifikan terhadap eksposur Risiko Konglomerasi Keuangan;\ng.\nmemberikan informasi kepada Komite Manajemen Risiko Terintegrasi\nterhadap hal-hal yang perlu ditindaklanjuti terkait hasil evaluasi terhadap\npenerapan Manajemen Risiko Terintegrasi;\nh.\nmemberikan masukan kepada Komite Manajemen Risiko Terintegrasi, dalam\nrangka penyusunan dan penyempurnaan kebijakan Manajemen Risiko\nTerintegrasi;\ni.\nmenyusun dan menyampaikan laporan profil Risiko terintegrasi secara\nberkala kepada Direktur dari Entitas Utama yang membawahkan fungsi\nManajemen Risiko Terintegrasi\ndan\nkepada Komite Manajemen Risiko\nTerintegrasi.\nBAB V\nKEBIJAKAN, PROSEDUR DAN PENETAPAN LIMIT MANAJEMEN RISIKO\nTERINTEGRASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KEBIJAKAN, PROSEDUR DAN PENETAPAN LIMIT MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "Dalam menyusun kebijakan, prosedur, dan penetapan limit Manajemen Risiko\nTerintegrasi sebagaimana dimaksud dalam Pasal 8 huruf b, Entitas Utama wajib\nmemperhatikan tingkat Risiko yang akan diambil (risk appetite) dan toleransi\nRisiko (risk tolerance).\n\n\nBAB ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam menyusun kebijakan, prosedur, dan penetapan limit Manajemen Risiko\nTerintegrasi sebagaimana dimaksud dalam Pasal 8 huruf b, Entitas Utama wajib\nmemperhatikan tingkat Risiko yang akan diambil (risk appetite) dan toleransi\nRisiko (risk tolerance).\n\n\nBAB ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KEBIJAKAN, PROSEDUR DAN PENETAPAN LIMIT MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "Kebijakan Manajemen Risiko Terintegrasi memuat paling sedikit:\na.\npenetapan Risiko yang terkait dengan kegiatan bisnis Konglomerasi\nKeuangan;\nb.\nperumusan strategi Manajemen Risiko Terintegrasi;\nc.\npenetapan penggunaan metode pengukuran dan sistem informasi Manajemen\nRisiko Terintegrasi;\nd.\npenetapan strategi dan kerangka Risiko sesuai dengan tingkat Risiko yang\nakan diambil (risk appetite) dan toleransi Risiko (risk tolerance);\ne.\npenetapan metode penilaian peringkat Risiko;\nf.\npenyusunan rencana darurat (contingency plan) dalam kondisi terburuk\n(worst case scenario);\ng.\npenetapan sistem pengendalian intern dalam penerapan Manajemen Risiko\nTerintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan Manajemen Risiko Terintegrasi memuat paling sedikit:\na.\npenetapan Risiko yang terkait dengan kegiatan bisnis Konglomerasi\nKeuangan;\nb.\nperumusan strategi Manajemen Risiko Terintegrasi;\nc.\npenetapan penggunaan metode pengukuran dan sistem informasi Manajemen\nRisiko Terintegrasi;\nd.\npenetapan strategi dan kerangka Risiko sesuai dengan tingkat Risiko yang\nakan diambil (risk appetite) dan toleransi Risiko (risk tolerance);\ne.\npenetapan metode penilaian peringkat Risiko;\nf.\npenyusunan rencana darurat (contingency plan) dalam kondisi terburuk\n(worst case scenario);\ng.\npenetapan sistem pengendalian intern dalam penerapan Manajemen Risiko\nTerintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KEBIJAKAN, PROSEDUR DAN PENETAPAN LIMIT MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "(1)\nKebijakan Manajemen Risiko Terintegrasi sebagaimana dimaksud dalam\nPasal 21 dijabarkan dalam prosedur Manajemen Risiko Terintegrasi dan\npenetapan limit Risiko.\n(2)\nProsedur Manajemen Risiko Terintegrasi sebagaimana dimaksud pada ayat\n(1) memuat paling sedikit:\na.\nakuntabilitas \ndan \njenjang \ndelegasi \nwewenang \nyang \njelas \ndalam\npelaksanaan Manajemen Risiko Terintegrasi;\nb.\npelaksanaan kaji ulang terhadap prosedur secara berkala; dan\nc.\ndokumentasi prosedur secara memadai.\n(3)\nPenetapan limit Risiko sebagaimana dimaksud pada ayat (1) paling sedikit\nmencakup:\na.\nlimit secara keseluruhan;\nb.\nlimit setiap Risiko; dan\nc.\nlimit setiap LJK dalam Konglomerasi Keuangan yang memiliki eksposur\nRisiko.\n(4)\nKonglomerasi Keuangan wajib memiliki mekanisme persetujuan apabila\nterjadi pelampauan limit.\n\n\nPasal ...\nBAB  VI\nPROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, PENGENDALIAN DAN\nSISTEM INFORMASI MANAJEMEN RISIKO TERINTEGRASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan Manajemen Risiko Terintegrasi sebagaimana dimaksud dalam\nPasal 21 dijabarkan dalam prosedur Manajemen Risiko Terintegrasi dan\npenetapan limit Risiko."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Prosedur Manajemen Risiko Terintegrasi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "memuat paling sedikit:\na.\nakuntabilitas \ndan \njenjang \ndelegasi \nwewenang \nyang \njelas \ndalam\npelaksanaan Manajemen Risiko Terintegrasi;\nb.\npelaksanaan kaji ulang terhadap prosedur secara berkala; dan\nc.\ndokumentasi prosedur secara memadai."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan limit Risiko sebagaimana dimaksud pada ayat (1) paling sedikit\nmencakup:\na.\nlimit secara keseluruhan;\nb.\nlimit setiap Risiko; dan\nc.\nlimit setiap LJK dalam Konglomerasi Keuangan yang memiliki eksposur\nRisiko."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Konglomerasi Keuangan wajib memiliki mekanisme persetujuan apabila\nterjadi pelampauan limit.\n\n\nPasal ...\nBAB  VI\nPROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, PENGENDALIAN DAN\nSISTEM INFORMASI MANAJEMEN RISIKO TERINTEGRASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB  VI",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, PENGENDALIAN DAN SISTEM INFORMASI MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "(1)\nEntitas \nUtama \nwajib \nmelakukan \nproses \nidentifikasi, \npengukuran,\npemantauan, dan pengendalian Risiko terhadap seluruh faktor Risiko (risk\nfactors) yang bersifat signifikan secara terintegrasi.\n(2)\nPelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, \ndan\npengendalian Risiko sebagaimana dimaksud pada ayat (1) didukung oleh:\na.\nsistem informasi Manajemen Risiko Terintegrasi yang memadai; dan\nb.\npelaporan mengenai kinerja, kondisi keuangan, dan eksposur risiko atas:\n1.\nKonglomerasi Keuangan; dan\n2.\nmasing-masing LJK dalam Konglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Entitas \nUtama \nwajib \nmelakukan \nproses \nidentifikasi, \npengukuran,\npemantauan, dan pengendalian Risiko terhadap seluruh faktor Risiko (risk\nfactors) yang bersifat signifikan secara terintegrasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, \ndan\npengendalian Risiko sebagaimana dimaksud pada ayat (1) didukung oleh:\na.\nsistem informasi Manajemen Risiko Terintegrasi yang memadai; dan\nb.\npelaporan mengenai kinerja, kondisi keuangan, dan eksposur risiko atas:\n1.\nKonglomerasi Keuangan; dan\n2.\nmasing-masing LJK dalam Konglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB  VI",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, PENGENDALIAN DAN SISTEM INFORMASI MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "(1)\nDalam rangka melaksanakan\nidentifikasi Risiko, Entitas Utama wajib\nmelakukan analisis paling kurang terhadap Risiko yang melekat dalam\nbisnis Konglomerasi Keuangan.\n(2)\nDalam rangka melaksanakan pengukuran Risiko, Entitas Utama wajib\npaling kurang melakukan:\na.\nevaluasi secara berkala terhadap kesesuaian asumsi, sumber data, dan\nprosedur yang digunakan untuk mengukur Risiko; dan\nb.\npenyempurnaan terhadap metode pengukuran Risiko apabila terdapat\nperubahan faktor-faktor yang secara signifikan mempengaruhi Risiko.\n(3)\nDalam rangka melaksanakan pemantauan Risiko, Entitas Utama wajib\nmelakukan paling sedikit:\na.\nevaluasi terhadap eksposur Risiko; dan\nb.\npenyempurnaan proses dan cakupan pelaporan.\n(4)\nDalam rangka melaksanakan pengendalian Risiko, Entitas Utama wajib\nmemastikan Konglomerasi Keuangan memiliki metode pengendalian Risiko\natas Risiko yang dapat membahayakan kelangsungan usaha Konglomerasi\nKeuangan.\n\n\n(2) Entitas ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka melaksanakan\nidentifikasi Risiko, Entitas Utama wajib\nmelakukan analisis paling kurang terhadap Risiko yang melekat dalam\nbisnis Konglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka melaksanakan pengukuran Risiko, Entitas Utama wajib\npaling kurang melakukan:\na.\nevaluasi secara berkala terhadap kesesuaian asumsi, sumber data, dan\nprosedur yang digunakan untuk mengukur Risiko; dan\nb.\npenyempurnaan terhadap metode pengukuran Risiko apabila terdapat\nperubahan faktor-faktor yang secara signifikan mempengaruhi Risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam rangka melaksanakan pemantauan Risiko, Entitas Utama wajib\nmelakukan paling sedikit:\na.\nevaluasi terhadap eksposur Risiko; dan\nb.\npenyempurnaan proses dan cakupan pelaporan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam rangka melaksanakan pengendalian Risiko, Entitas Utama wajib\nmemastikan Konglomerasi Keuangan memiliki metode pengendalian Risiko\natas Risiko yang dapat membahayakan kelangsungan usaha Konglomerasi\nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Entitas ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB  VI",
+      "bab_judul": "PROSES IDENTIFIKASI, PENGUKURAN, PEMANTAUAN, PENGENDALIAN DAN SISTEM INFORMASI MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "(1)\nSistem informasi Manajemen Risiko Terintegrasi paling sedikit menghasilkan\nlaporan atau informasi mengenai:\na.\neksposur Risiko;\nb.\nkepatuhan pelaksanaan Manajemen Risiko Terintegrasi dibandingkan\ndengan kebijakan dan prosedur yang disusun; dan\nc.\nkepatuhan terhadap penetapan limit.\n(2)\nLaporan atau informasi yang dihasilkan dari sistem informasi Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) disampaikan secara\nberkala kepada\nDirektur Entitas Utama yang membawahkan fungsi\nManajemen Risiko Terintegrasi\ndan kepada Komite Manajemen Risiko\nTertintegrasi.\nBAB VII\nSISTEM PENGENDALIAN INTERN MANAJEMEN RISIKO TERINTEGRASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sistem informasi Manajemen Risiko Terintegrasi paling sedikit menghasilkan\nlaporan atau informasi mengenai:\na.\neksposur Risiko;\nb.\nkepatuhan pelaksanaan Manajemen Risiko Terintegrasi dibandingkan\ndengan kebijakan dan prosedur yang disusun; dan\nc.\nkepatuhan terhadap penetapan limit."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan atau informasi yang dihasilkan dari sistem informasi Manajemen\nRisiko Terintegrasi sebagaimana dimaksud pada ayat (1) disampaikan secara\nberkala kepada\nDirektur Entitas Utama yang membawahkan fungsi\nManajemen Risiko Terintegrasi\ndan kepada Komite Manajemen Risiko\nTertintegrasi.\nBAB VII\nSISTEM PENGENDALIAN INTERN MANAJEMEN RISIKO TERINTEGRASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SISTEM PENGENDALIAN INTERN MANAJEMEN RISIKO TERINTEGRASI",
+      "teks_lengkap": "(1)\nEntitas Utama wajib memiliki sistem pengendalian intern yang menyeluruh\nterhadap penerapan Manajemen Risiko Terintegrasi sebagaimana dimaksud\ndalam Pasal 8 huruf d.\n(2)\nSistem pengendalian intern sebagaimana dimaksud pada ayat (1) disusun\nagar dapat memastikan:\na.\ndipatuhinya kebijakan atau ketentuan intern serta peraturan  dan\nperundang-undangan yang berlaku;\nb.\ntersedianya informasi keuangan dan manajemen yang lengkap, akurat,\ntepat guna, dan tepat waktu; dan\nc.\nefektivitas budaya Risiko (risk culture) pada organisasi Konglomerasi\nKeuangan secara menyeluruh.\nBAB VIII\nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Entitas Utama wajib memiliki sistem pengendalian intern yang menyeluruh\nterhadap penerapan Manajemen Risiko Terintegrasi sebagaimana dimaksud\ndalam Pasal 8 huruf d."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sistem pengendalian intern sebagaimana dimaksud pada ayat (1) disusun\nagar dapat memastikan:\na.\ndipatuhinya kebijakan atau ketentuan intern serta peraturan  dan\nperundang-undangan yang berlaku;\nb.\ntersedianya informasi keuangan dan manajemen yang lengkap, akurat,\ntepat guna, dan tepat waktu; dan\nc.\nefektivitas budaya Risiko (risk culture) pada organisasi Konglomerasi\nKeuangan secara menyeluruh.\nBAB VIII\nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1)\nEntitas Utama wajib menyampaikan laporan mengenai LJK yang menjadi\nEntitas Utama dan LJK yang menjadi anggota Konglomerasi Keuangan\nkepada Otoritas Jasa Keuangan.\n\n\nPasal ...\n(2)\nEntitas Utama wajib menyampaikan laporan kepada Otoritas Jasa Keuangan\ndalam hal terdapat:\na.\nKonglomerasi Keuangan baru disertai penunjukan Entitas Utama;\nb.\nperubahan Entitas Utama;\nc.\nperubahan anggota Konglomerasi Keuangan; dan/atau\nd.\npembubaran Konglomerasi Keuangan,\n(3)\nLaporan disampaikan paling lama 20 (dua puluh) hari kerja sejak terjadinya\nkondisi sebagaimana dimaksud pada ayat (2).\n(4)\nDalam hal laporan sebagaimana dimaksud pada ayat (2) sudah dilaporkan\nkepada Otoritas Jasa Keuangan berdasarkan ketentuan Otoritas Jasa\nKeuangan yang lain, laporan tersebut dianggap telah memenuhi kewajiban\npelaporan.\n(5)\nEntitas Utama wajib menyampaikan laporan penyesuaian terhadap:\na.\nLJK yang termasuk dalam Konglomerasi Keuangan; dan/atau\nb.\nLJK yang ditunjuk menjadi Entitas Utama,\ndalam hal diperintahkan oleh Otoritas Jasa Keuangan sebagaimana\ndimaksud dalam Pasal 7 ayat (7).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Entitas Utama wajib menyampaikan laporan mengenai LJK yang menjadi\nEntitas Utama dan LJK yang menjadi anggota Konglomerasi Keuangan\nkepada Otoritas Jasa Keuangan.\n\n\nPasal ..."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Entitas Utama wajib menyampaikan laporan kepada Otoritas Jasa Keuangan\ndalam hal terdapat:\na.\nKonglomerasi Keuangan baru disertai penunjukan Entitas Utama;\nb.\nperubahan Entitas Utama;\nc.\nperubahan anggota Konglomerasi Keuangan; dan/atau\nd.\npembubaran Konglomerasi Keuangan,"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan disampaikan paling lama 20 (dua puluh) hari kerja sejak terjadinya\nkondisi sebagaimana dimaksud pada ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal laporan sebagaimana dimaksud pada ayat (2) sudah dilaporkan\nkepada Otoritas Jasa Keuangan berdasarkan ketentuan Otoritas Jasa\nKeuangan yang lain, laporan tersebut dianggap telah memenuhi kewajiban\npelaporan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Entitas Utama wajib menyampaikan laporan penyesuaian terhadap:\na.\nLJK yang termasuk dalam Konglomerasi Keuangan; dan/atau\nb.\nLJK yang ditunjuk menjadi Entitas Utama,\ndalam hal diperintahkan oleh Otoritas Jasa Keuangan sebagaimana\ndimaksud dalam Pasal 7 ayat (7)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1)\nEntitas Utama wajib menyusun laporan profil Risiko terintegrasi secara\nberkala.\n(2)\nProfil Risiko terintegrasi sebagaimana dimaksud pada ayat (1) dikategorikan\nmenjadi 5 (lima) peringkat.\n(3)\nLaporan profil Risiko terintegrasi disusun setiap semester untuk posisi akhir\nbulan Juni dan Desember.\n(4)\nEntitas Utama wajib menyampaikan laporan profil Risiko terintegrasi kepada\nOtoritas Jasa Keuangan.\n(5)\nLaporan profil Risiko terintegrasi disampaikan paling lambat pada tanggal 15\n(lima belas) bulan kedua setelah berakhirnya bulan laporan yang\nbersangkutan.\n(6)\nDalam hal tanggal 15 (lima belas) jatuh pada hari Sabtu/Minggu/libur,\nlaporan profil Risiko terintegrasi disampaikan pada hari kerja berikutnya.\n\n\nPasal ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Entitas Utama wajib menyusun laporan profil Risiko terintegrasi secara\nberkala."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Profil Risiko terintegrasi sebagaimana dimaksud pada ayat (1) dikategorikan\nmenjadi 5 (lima) peringkat."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan profil Risiko terintegrasi disusun setiap semester untuk posisi akhir\nbulan Juni dan Desember."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Entitas Utama wajib menyampaikan laporan profil Risiko terintegrasi kepada\nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Laporan profil Risiko terintegrasi disampaikan paling lambat pada tanggal 15\n(lima belas) bulan kedua setelah berakhirnya bulan laporan yang\nbersangkutan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal tanggal 15 (lima belas) jatuh pada hari Sabtu/Minggu/libur,\nlaporan profil Risiko terintegrasi disampaikan pada hari kerja berikutnya.\n\n\nPasal ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Bagi Entitas Utama berupa bank yang telah menyampaikan laporan profil Risiko\nterintegrasi \nsecara \nberkala,\nbank \ndianggap \ntelah \nmemenuhi \nkewajiban\npenyampaian laporan profil Risiko konsolidasi secara berkala sebagaimana diatur\ndalam ketentuan mengenai penerapan manajemen risiko secara konsolidasi bagi\nbank yang melakukan pengendalian terhadap perusahaan anak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi Entitas Utama berupa bank yang telah menyampaikan laporan profil Risiko\nterintegrasi \nsecara \nberkala,\nbank \ndianggap \ntelah \nmemenuhi \nkewajiban\npenyampaian laporan profil Risiko konsolidasi secara berkala sebagaimana diatur\ndalam ketentuan mengenai penerapan manajemen risiko secara konsolidasi bagi\nbank yang melakukan pengendalian terhadap perusahaan anak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Entitas Utama dinyatakan terlambat menyampaikan laporan profil Risiko\nterintegrasi apabila laporan diterima oleh Otoritas Jasa Keuangan setelah batas\nwaktu penyampaian laporan sebagaimana dimaksud dalam Pasal 28 ayat (5).\nBAB IX\nLAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama dinyatakan terlambat menyampaikan laporan profil Risiko\nterintegrasi apabila laporan diterima oleh Otoritas Jasa Keuangan setelah batas\nwaktu penyampaian laporan sebagaimana dimaksud dalam Pasal 28 ayat (5).\nBAB IX\nLAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAIN-LAIN",
+      "teks_lengkap": "Hubungan antar LJK yang dimiliki dan dikendalikan langsung oleh Pemerintah\nPusat Republik Indonesia dikecualikan dari pengertian Konglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Hubungan antar LJK yang dimiliki dan dikendalikan langsung oleh Pemerintah\nPusat Republik Indonesia dikecualikan dari pengertian Konglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAIN-LAIN",
+      "teks_lengkap": "(1)\nDalam hal Konglomerasi Keuangan berada dalam satu sektor jasa keuangan\nyang sama dan telah terdapat ketentuan Otoritas Jasa Keuangan mengenai\nmanajemen \nrisiko\nbagi\nsektor \njasa \nkeuangan \ntersebut, \npenerapan\nManajemen Risiko\nTerintegrasi sebagaimana dimaksud dalam Pasal\nmengacu pada ketentuan Otoritas Jasa Keuangan mengenai manajemen\nrisiko yang berlaku bagi sektor jasa keuangan tersebut.\n(2)\nKonglomerasi Keuangan sebagaimana dimaksud pada ayat (1) wajib:\na.\nmemiliki Entitas Utama sebagaimana dimaksud dalam Pasal 7 ayat (2);\nb.\nmembentuk Komite Manajemen Risiko Terintegrasi dan Satuan Kerja\nManajemen Risiko Terintegrasi sebagaimana dimaksud dalam Pasal 16;\nc.\nmenyampaikan laporan sebagaimana dimaksud dalam Pasal 27; dan\nd.\nmenyampaikan laporan profil Risiko terintegrasi sebagaimana dimaksud\ndalam Pasal 28.\n\n\nPasal ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Konglomerasi Keuangan berada dalam satu sektor jasa keuangan\nyang sama dan telah terdapat ketentuan Otoritas Jasa Keuangan mengenai\nmanajemen \nrisiko\nbagi\nsektor \njasa \nkeuangan \ntersebut, \npenerapan\nManajemen Risiko\nTerintegrasi sebagaimana dimaksud dalam Pasal\nmengacu pada ketentuan Otoritas Jasa Keuangan mengenai manajemen\nrisiko yang berlaku bagi sektor jasa keuangan tersebut."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Konglomerasi Keuangan sebagaimana dimaksud pada ayat (1) wajib:\na.\nmemiliki Entitas Utama sebagaimana dimaksud dalam Pasal 7 ayat (2);\nb.\nmembentuk Komite Manajemen Risiko Terintegrasi dan Satuan Kerja\nManajemen Risiko Terintegrasi sebagaimana dimaksud dalam Pasal 16;\nc.\nmenyampaikan laporan sebagaimana dimaksud dalam Pasal 27; dan\nd.\nmenyampaikan laporan profil Risiko terintegrasi sebagaimana dimaksud\ndalam Pasal 28.\n\n\nPasal ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAIN-LAIN",
+      "teks_lengkap": "Entitas Utama wajib menyediakan data dan informasi yang berkaitan dengan\npenerapan Manajemen Risiko Terintegrasi kepada Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama wajib menyediakan data dan informasi yang berkaitan dengan\npenerapan Manajemen Risiko Terintegrasi kepada Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "LAIN-LAIN",
+      "teks_lengkap": "Dalam menerapkan Manajemen Risiko Terintegrasi, Entitas Utama wajib\nmemastikan hal-hal sebagai berikut:\na.\nkecukupan permodalan Konglomerasi Keuangan;\nb.\nmanajemen likuiditas dilakukan secara efektif;\nc.\npemantauan transaksi intra grup secara terintegrasi;\nd.\nManajemen Risiko penyediaan dana termasuk penyediaan dana besar (large\nexposures) secara efektif; dan\ne.\npelaksanaan tata kelola terintegrasi secara efektif.\nBAB X\nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam menerapkan Manajemen Risiko Terintegrasi, Entitas Utama wajib\nmemastikan hal-hal sebagai berikut:\na.\nkecukupan permodalan Konglomerasi Keuangan;\nb.\nmanajemen likuiditas dilakukan secara efektif;\nc.\npemantauan transaksi intra grup secara terintegrasi;\nd.\nManajemen Risiko penyediaan dana termasuk penyediaan dana besar (large\nexposures) secara efektif; dan\ne.\npelaksanaan tata kelola terintegrasi secara efektif.\nBAB X\nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Konglomerasi Keuangan yang melanggar ketentuan dalam Pasal 2, Pasal 7 ayat\n(2), Pasal 9, Pasal 22 ayat (4), dan Pasal 32 ayat (2); Entitas Utama yang\nmelanggar ketentuan dalam Pasal 3, Pasal 11 ayat (2) dan ayat (3), Pasal 12 ayat\n(2) dan ayat (3), Pasal 13, Pasal 14 ayat (2), Pasal 15, Pasal 16, Pasal 20, Pasal\n23, Pasal 24, Pasal 26 ayat (1), Pasal 27 ayat (1), ayat (2) dan ayat (5), Pasal 28\nayat (1), Pasal 33, dan Pasal 34; LJK yang melanggar ketentuan dalam Pasal 7\nayat (1);\ndan\npemegang saham pengendali Konglomerasi Keuangan yang\nmelanggar ketentuan dalam Pasal 7 ayat (4), dikenakan sanksi administratif\nberupa:\na.\nperingatan tertulis;\nb.\npenurunan tingkat kesehatan;\nc.\npembatalan hasil uji kemampuan dan kepatutan;\nd.\npembatasan kegiatan usaha;\ne.\nperintah penggantian manajemen;\nf.\npencantuman manajemen dalam daftar orang tercela; dan/atau\ng.\npembatalan persetujuan, pendaftaran dan pengesahan.\n\n\nBAB ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(2)",
+          "teks": ", Pasal 9, Pasal 22 ayat (4), dan Pasal 32 ayat (2); Entitas Utama yang\nmelanggar ketentuan dalam Pasal 3, Pasal 11 ayat (2) dan ayat (3), Pasal 12 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dan ayat (3), Pasal 13, Pasal 14 ayat (2), Pasal 15, Pasal 16, Pasal 20, Pasal\n23, Pasal 24, Pasal 26 ayat (1), Pasal 27 ayat (1), ayat (2) dan ayat (5), Pasal 28\nayat (1), Pasal 33, dan Pasal 34; LJK yang melanggar ketentuan dalam Pasal 7\nayat (1);\ndan\npemegang saham pengendali Konglomerasi Keuangan yang\nmelanggar ketentuan dalam Pasal 7 ayat (4), dikenakan sanksi administratif\nberupa:\na.\nperingatan tertulis;\nb.\npenurunan tingkat kesehatan;\nc.\npembatalan hasil uji kemampuan dan kepatutan;\nd.\npembatasan kegiatan usaha;\ne.\nperintah penggantian manajemen;\nf.\npencantuman manajemen dalam daftar orang tercela; dan/atau\ng.\npembatalan persetujuan, pendaftaran dan pengesahan.\n\n\nBAB ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Entitas Utama yang dinyatakan terlambat menyampaikan laporan profil Risiko\nterintegrasi sebagaimana dimaksud dalam Pasal 28 ayat (4) dikenakan sanksi\nberupa peringatan tertulis dan kewajiban membayar sebesar Rp1.000.000,00\n(satu juta rupiah) per hari keterlambatan dengan jumlah paling banyak sebesar\nRp100.000.000,00 (seratus juta rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama yang dinyatakan terlambat menyampaikan laporan profil Risiko\nterintegrasi sebagaimana dimaksud dalam Pasal 28 ayat (4) dikenakan sanksi\nberupa peringatan tertulis dan kewajiban membayar sebesar Rp1.000.000,00\n(satu juta rupiah) per hari keterlambatan dengan jumlah paling banyak sebesar\nRp100.000.000,00 (seratus juta rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Mekanisme pengenaan sanksi sebagaimana dimaksud dalam Pasal 35 dan Pasal\n36 mengacu pada ketentuan yang berlaku bagi LJK pada setiap sektor jasa\nkeuangan.\nBAB XI\nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Mekanisme pengenaan sanksi sebagaimana dimaksud dalam Pasal 35 dan Pasal\n36 mengacu pada ketentuan yang berlaku bagi LJK pada setiap sektor jasa\nkeuangan.\nBAB XI\nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Laporan mengenai LJK yang menjadi Entitas Utama dan LJK yang menjadi\nanggota Konglomerasi Keuangan sebagaimana dimaksud dalam Pasal 27 ayat (1)\ndisampaikan pertama kali paling lambat 31 Maret 2015.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan mengenai LJK yang menjadi Entitas Utama dan LJK yang menjadi\nanggota Konglomerasi Keuangan sebagaimana dimaksud dalam Pasal 27 ayat (1)\ndisampaikan pertama kali paling lambat 31 Maret 2015."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Kewajiban penyampaian laporan profil Risiko terintegrasi sebagaimana dimaksud\ndalam Pasal 28 ayat (4) pertama kali dilakukan untuk posisi laporan sebagai\nberikut:\na.\nJuni 2015, untuk Entitas Utama yang merupakan Bank Umum Berdasarkan\nKegiatan Usaha (BUKU) 4;\nb.\nDesember 2015, untuk Entitas Utama berupa bank selain Bank Umum\nBerdasarkan Kegiatan Usaha (BUKU) 4 dan bukan bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kewajiban penyampaian laporan profil Risiko terintegrasi sebagaimana dimaksud\ndalam Pasal 28 ayat (4) pertama kali dilakukan untuk posisi laporan sebagai\nberikut:\na.\nJuni 2015, untuk Entitas Utama yang merupakan Bank Umum Berdasarkan\nKegiatan Usaha (BUKU) 4;\nb.\nDesember 2015, untuk Entitas Utama berupa bank selain Bank Umum\nBerdasarkan Kegiatan Usaha (BUKU) 4 dan bukan bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pengenaan sanksi sebagaimana dimaksud pada Pasal 35 mulai berlaku sejak:\na.\n1 Januari 2017,\nuntuk\nEntitas Utama yang merupakan Bank\nUmum\nBerdasarkan Kegiatan Usaha (BUKU) 4;\nb.\n1 Januari 2018, untuk Entitas Utama berupa bank non Bank Umum\nBerdasarkan Kegiatan Usaha (BUKU) 4 dan bukan bank.\n\n\n\n\npenerapan ...\nPENJELASAN\nATAS\nPERATURAN OTORITAS JASA KEUANGAN\nNOMOR 17/POJK.03/2014\nTENTANG\nPENERAPAN MANAJEMEN RISIKO TERINTEGRASI BAGI KONGLOMERASI\nKEUANGAN\nI.\nUMUM\nKondisi sektor jasa keuangan yang tumbuh secara berkelanjutan dan stabil\nserta aman merupakan suatu prasyarat utama agar sistem keuangan mampu\nmendukung pencapaian stabilitas sistem keuangan dan berperan secara optimal\ndalam perekonomian nasional.\nIndustri keuangan merupakan salah satu industri yang memiliki\nkompleksitas \noperasional \ndan \ntingkat \npersaingan \nyang \ntinggi,\nsehingga\nmenyebabkan industri keuangan terekspos\nrisiko yang tinggi dan harus\nberoperasi secara berhati-hati serta efisien.\nSeiring dengan perkembangan globalisasi, teknologi informasi, dan inovasi\nproduk serta aktivitas Lembaga Jasa Keuangan (LJK) telah menciptakan sistem\nkeuangan yang sangat kompleks, dinamis, dan saling terkait antar masing-\nmasing sektor jasa keuangan baik dalam produk dan kelembagaan, maupun\nkepemilikan yang menyebabkan meningkatnya eksposur risiko.\nMenghadapi kondisi tersebut, LJK perlu memperhatikan seluruh risiko\nyang dapat mempengaruhi kelangsungan usahanya. Risiko yang harus\ndiperhatikan mencakup seluruh risiko yang secara langsung maupun tidak\nlangsung dapat mempengaruhi kelangsungan usaha LJK, baik yang berasal dari\nperusahaan anak dan perusahaan terelasi (sister company), maupun entitas\nlainnya yang tergabung dalam suatu konglomerasi keuangan.\nDalam rangka pengukuran risiko secara lebih menyeluruh, konglomerasi\nkeuangan harus menerapkan manajemen risiko secara terintegrasi. Melalui\npenerapan manajemen risiko secara terintegrasi, konglomerasi keuangan akan\nmendapat manfaat antara lain pengelolaan risiko yang lebih baik, penetapan risk\nappetite dan risk tolerance yang sesuai dengan kompleksitas dan karakteristik\nusaha konglomerasi keuangan, sehingga pada akhirnya dapat menghasilkan\nsinergi serta meningkatkan kapasitas bisnis dan permodalan.\nSelain itu,\n\n\n3. mempunyai ...\npenerapan\nmanajemen\nrisiko \nterintegrasi \nbagi \nkonglomerasi \nkeuangan\ndiharapkan dapat mewujudkan stabilitas sistem keuangan yang tumbuh secara\nberkelanjutan, sehingga mampu meningkatkan daya saing nasional.\nSehubungan dengan hal-hal tersebut, perlu pengaturan tentang Penerapan\nManajemen Risiko Terintegrasi bagi Konglomerasi Keuangan dalam Peraturan\nOtoritas Jasa Keuangan.\nII. PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengenaan sanksi sebagaimana dimaksud pada Pasal 35 mulai berlaku sejak:\na.\n1 Januari 2017,\nuntuk\nEntitas Utama yang merupakan Bank\nUmum\nBerdasarkan Kegiatan Usaha (BUKU) 4;\nb.\n1 Januari 2018, untuk Entitas Utama berupa bank non Bank Umum\nBerdasarkan Kegiatan Usaha (BUKU) 4 dan bukan bank.\n\n\n\n\npenerapan ...\nPENJELASAN\nATAS\nPERATURAN OTORITAS JASA KEUANGAN\nNOMOR 17/POJK.03/2014\nTENTANG\nPENERAPAN MANAJEMEN RISIKO TERINTEGRASI BAGI KONGLOMERASI\nKEUANGAN\nI.\nUMUM\nKondisi sektor jasa keuangan yang tumbuh secara berkelanjutan dan stabil\nserta aman merupakan suatu prasyarat utama agar sistem keuangan mampu\nmendukung pencapaian stabilitas sistem keuangan dan berperan secara optimal\ndalam perekonomian nasional.\nIndustri keuangan merupakan salah satu industri yang memiliki\nkompleksitas \noperasional \ndan \ntingkat \npersaingan \nyang \ntinggi,\nsehingga\nmenyebabkan industri keuangan terekspos\nrisiko yang tinggi dan harus\nberoperasi secara berhati-hati serta efisien.\nSeiring dengan perkembangan globalisasi, teknologi informasi, dan inovasi\nproduk serta aktivitas Lembaga Jasa Keuangan (LJK) telah menciptakan sistem\nkeuangan yang sangat kompleks, dinamis, dan saling terkait antar masing-\nmasing sektor jasa keuangan baik dalam produk dan kelembagaan, maupun\nkepemilikan yang menyebabkan meningkatnya eksposur risiko.\nMenghadapi kondisi tersebut, LJK perlu memperhatikan seluruh risiko\nyang dapat mempengaruhi kelangsungan usahanya. Risiko yang harus\ndiperhatikan mencakup seluruh risiko yang secara langsung maupun tidak\nlangsung dapat mempengaruhi kelangsungan usaha LJK, baik yang berasal dari\nperusahaan anak dan perusahaan terelasi (sister company), maupun entitas\nlainnya yang tergabung dalam suatu konglomerasi keuangan.\nDalam rangka pengukuran risiko secara lebih menyeluruh, konglomerasi\nkeuangan harus menerapkan manajemen risiko secara terintegrasi. Melalui\npenerapan manajemen risiko secara terintegrasi, konglomerasi keuangan akan\nmendapat manfaat antara lain pengelolaan risiko yang lebih baik, penetapan risk\nappetite dan risk tolerance yang sesuai dengan kompleksitas dan karakteristik\nusaha konglomerasi keuangan, sehingga pada akhirnya dapat menghasilkan\nsinergi serta meningkatkan kapasitas bisnis dan permodalan.\nSelain itu,\n\n\n3. mempunyai ...\npenerapan\nmanajemen\nrisiko \nterintegrasi \nbagi \nkonglomerasi \nkeuangan\ndiharapkan dapat mewujudkan stabilitas sistem keuangan yang tumbuh secara\nberkelanjutan, sehingga mampu meningkatkan daya saing nasional.\nSehubungan dengan hal-hal tersebut, perlu pengaturan tentang Penerapan\nManajemen Risiko Terintegrasi bagi Konglomerasi Keuangan dalam Peraturan\nOtoritas Jasa Keuangan.\nII. PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan “pengendalian” adalah perseorangan\natau perusahaan/badan, baik secara sendiri maupun bersama-\nsama serta dan baik langsung maupun tidak langsung yang\nmemiliki 50% (lima puluh perseratus) atau kurang saham yang\nmemiliki hak suara pada suatu perusahaan atau badan lain\ntetapi:\n1.\nterdapat perjanjian dengan pemegang saham lain, sehingga\nmemiliki hak suara lebih dari 50% (lima puluh perseratus);\n2.\nmempunyai \nkewenangan \nuntuk \nmengatur \nkebijakan\nkeuangan \ndan \noperasional \nperusahaan/badan \nlain\nberdasarkan anggaran dasar/perjanjian;\n\n\nAyat ...\n3.\nmempunyai kewenangan untuk menunjuk atau mengganti\nsebagian besar Direksi dan Dewan Komisaris atau organ\nlain yang setara dan mengendalikan perusahaan/badan\nlain melalui Direksi dan Dewan Komisaris atau organ lain;\ndan/atau\n4.\nmampu menguasai suara mayoritas pada rapat Direksi dan\nDewan Komisaris atau organ lain\nyang setara dan\nmengendalikan perusahaan/badan melalui Direksi dan\nDewan Komisaris atau organ lain.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nYang dimaksud dengan “pengendalian” adalah perseorangan\natau perusahaan/badan, baik secara sendiri maupun bersama-\nsama serta dan baik langsung maupun tidak langsung yang\nmemiliki 50% (lima puluh perseratus) atau kurang saham yang\nmemiliki hak suara pada suatu perusahaan atau badan lain\ntetapi:\n1.\nterdapat perjanjian dengan pemegang saham lain, sehingga\nmemiliki hak suara lebih dari 50% (lima puluh perseratus);\n2.\nmempunyai \nkewenangan \nuntuk \nmengatur \nkebijakan\nkeuangan \ndan \noperasional \nperusahaan/badan \nlain\nberdasarkan anggaran dasar/perjanjian;\n\n\nAyat ...\n3.\nmempunyai kewenangan untuk menunjuk atau mengganti\nsebagian besar Direksi dan Dewan Komisaris atau organ\nlain yang setara dan mengendalikan perusahaan/badan\nlain melalui Direksi dan Dewan Komisaris atau organ lain;\ndan/atau\n4.\nmampu menguasai suara mayoritas pada rapat Direksi dan\nDewan Komisaris atau organ lain\nyang setara dan\nmengendalikan perusahaan/badan melalui Direksi dan\nDewan Komisaris atau organ lain.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nSebagai contoh: LJK A adalah LJK induk dari LJK anak yang terdiri\ndari LJK B dan LJK C secara langsung, serta LJK D dan LJK E secara\ntidak langsung. Dengan demikian, Entitas Utama dari Konglomerasi\nKeuangan adalah LJK A. Untuk jelasnya, sebagaimana bagan di\nbawah ini.\nLJK A\nLJK B\nLJK C\nLJK D\nLJK E\n\n\nAyat ...\nAyat (4)\nTermasuk pemegang saham pengendali pada ayat ini adalah:\n1.\nperorangan/perusahaan non keuangan; atau\n2.\nperorangan/perusahaan yang berkedudukan di luar negeri.\nSebagai contoh: “Non LJK 1” adalah  pemegang saham pengendali\ndari Konglomerasi Keuangan yang terdiri atas LJK A, LJK B, dan LJK\nC. “Non LJK 1” wajib menunjuk Entitas Utama dalam rangka\npenerapan \nManajemen \nRisiko \nTerintegrasi.\nUntuk \njelasnya,\nsebagaimana bagan di bawah ini.\nContoh berikutnya: “Non LJK 2” adalah  pemegang saham pengendali\ndari Konglomerasi Keuangan yang terdiri atas LJK A, LJK B, LJK C,\nLJK D, dan LJK E. “Non LJK 2” wajib menunjuk Entitas Utama dalam\nrangka penerapan Manajemen Risiko Terintegrasi. Untuk jelasnya,\nsebagaimana bagan di bawah ini.\nNon LJK 1\nLJK A\nLJK B\nLJK C\nNon LJK 2\nLJK A\nLJK C\nNon LJK 1\nLJK B\nLJK D\nLJK E\n\n\nHuruf …\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nSebagai contoh: LJK A adalah LJK induk dari LJK anak yang terdiri\ndari LJK B dan LJK C secara langsung, serta LJK D dan LJK E secara\ntidak langsung. Dengan demikian, Entitas Utama dari Konglomerasi\nKeuangan adalah LJK A. Untuk jelasnya, sebagaimana bagan di\nbawah ini.\nLJK A\nLJK B\nLJK C\nLJK D\nLJK E\n\n\nAyat ...\nAyat (4)\nTermasuk pemegang saham pengendali pada ayat ini adalah:\n1.\nperorangan/perusahaan non keuangan; atau\n2.\nperorangan/perusahaan yang berkedudukan di luar negeri.\nSebagai contoh: “Non LJK 1” adalah  pemegang saham pengendali\ndari Konglomerasi Keuangan yang terdiri atas LJK A, LJK B, dan LJK\nC. “Non LJK 1” wajib menunjuk Entitas Utama dalam rangka\npenerapan \nManajemen \nRisiko \nTerintegrasi.\nUntuk \njelasnya,\nsebagaimana bagan di bawah ini.\nContoh berikutnya: “Non LJK 2” adalah  pemegang saham pengendali\ndari Konglomerasi Keuangan yang terdiri atas LJK A, LJK B, LJK C,\nLJK D, dan LJK E. “Non LJK 2” wajib menunjuk Entitas Utama dalam\nrangka penerapan Manajemen Risiko Terintegrasi. Untuk jelasnya,\nsebagaimana bagan di bawah ini.\nNon LJK 1\nLJK A\nLJK B\nLJK C\nNon LJK 2\nLJK A\nLJK C\nNon LJK 1\nLJK B\nLJK D\nLJK E\n\n\nHuruf …\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.\nAyat (7)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nHuruf a\nYang dimaksud dengan “Risiko kredit” adalah Risiko akibat\nkegagalan debitur dan/atau pihak lain dalam memenuhi\nkewajiban kepada Konglomerasi Keuangan.\nUntuk LJK yang melakukan kegiatan usaha berdasarkan\nprinsip syariah, Risiko kredit mencakup pula Risiko investasi.\nYang dimaksud dengan Risiko investasi (Equity Investment Risk)\nadalah Risiko akibat LJK ikut menanggung kerugian usaha\nnasabah yang dibiayai dalam pembiayaan berbasis bagi hasil\nbaik yang menggunakan metode net revenue sharing maupun\nyang menggunakan metode profit and loss sharing.\nHuruf b\nYang dimaksud dengan “Risiko pasar” adalah Risiko akibat\nadanya pergerakan variabel pasar (adverse movement) dari\nportofolio yang dimiliki Konglomerasi Keuangan.\nYang dimaksud dengan “variabel pasar” adalah suku bunga,\nnilai tukar, komoditas, dan ekuitas.\nUntuk LJK yang melakukan kegiatan usaha berdasarkan\nprinsip syariah, Risiko pasar mencakup pula Risiko imbal hasil.\nYang dimaksud dengan Risiko imbal hasil (rate of return risk)\nadalah Risiko akibat perubahan tingkat imbal hasil yang\ndibayarkan LJK kepada nasabah, karena terjadi perubahan\ntingkat imbal hasil yang diterima LJK dari penyaluran dana,\nyang dapat mempengaruhi perilaku nasabah dana pihak ketiga\nLJK.\n\n\nHuruf …\nHuruf c\nYang dimaksud dengan “Risiko likuiditas” adalah Risiko akibat\nketidakmampuan Konglomerasi Keuangan untuk memenuhi\nkewajiban yang jatuh tempo dari sumber pendanaan arus kas\ndan/atau dari aset likuid berkualitas tinggi yang dapat\ndiagunkan, tanpa mengganggu aktivitas dan kondisi keuangan\ndari Konglomerasi Keuangan tersebut.\nHuruf d\nYang dimaksud dengan “Risiko operasional”\nadalah Risiko\nakibat ketidakcukupan dan/atau tidak berfungsinya proses\ninternal, kesalahan manusia, kegagalan sistem, dan/atau\nadanya \nkejadian-kejadian \neksternal \nyang \nmempengaruhi\noperasional Konglomerasi Keuangan.\nHuruf e\nYang dimaksud dengan “Risiko hukum” adalah Risiko akibat\ntuntutan hukum dan/atau kelemahan aspek yuridis.\nKelemahan aspek yuridis antara lain disebabkan adanya\ntuntutan hukum, ketiadaan peraturan perundang-undangan\nyang mendukung,\natau kelemahan perikatan seperti tidak\ndipenuhinya syarat sahnya perjanjian dan pengikatan agunan\nyang tidak sempurna.\nHuruf f\nYang dimaksud dengan “Risiko reputasi” adalah Risiko akibat\nmenurunnya tingkat kepercayaan stakeholder yang bersumber\ndari persepsi negatif baik terhadap LJK sebagai anggota\nKonglomerasi \nKeuangan\nmaupun \nterhadap \nKonglomerasi\nKeuangan secara keseluruhan.\nHuruf g\nYang dimaksud dengan “Risiko stratejik” adalah Risiko akibat\nketidaktepatan dalam pengambilan dan/atau pelaksanaan\nsuatu \nkeputusan \nstratejik \nserta \nkegagalan \ndalam\nmengantisipasi perubahan lingkungan bisnis.\n\n\nPasal …\nHuruf h\nYang dimaksud dengan “Risiko kepatuhan”\nadalah Risiko\nakibat \ntidak \nmematuhi \ndan/atau \ntidak \nmelaksanakan\nperaturan perundang-undangan dan ketentuan yang berlaku.\nHuruf i\nYang dimaksud dengan “Risiko transaksi intra-grup” adalah\nRisiko akibat ketergantungan suatu entitas baik secara\nlangsung maupun tidak langsung terhadap entitas lainnya\ndalam satu Konglomerasi Keuangan dalam rangka pemenuhan\nkewajiban perjanjian tertulis maupun perjanjian tidak tertulis\nbaik yang diikuti perpindahan dana dan/atau tidak diikuti\nperpindahan dana.\nRisiko transaksi intra-grup antara lain dapat timbul dari:\n1.\nkepemilikan \nsilang \nantar \nLJK \ndalam \nKonglomerasi\nKeuangan;\n2.\nsentralisasi manajemen likuiditas jangka pendek;\n3.\njaminan, pinjaman, dan komitmen yang diberikan atau\ndiperoleh suatu LJK dari LJK lain dalam Konglomerasi\nKeuangan;\n4.\neksposur kepada pemegang saham pengendali, termasuk\neksposur pinjaman dan off-balance sheet seperti jaminan\ndan komitmen;\n5.\npembelian atau penjualan aset kepada LJK lain dalam satu\nKonglomerasi Keuangan;\n6.\ntransfer risiko melalui reasuransi; dan/atau\n7.\ntransaksi untuk mengalihkan eksposur risiko pihak ketiga\ndi antara LJK dalam satu Konglomerasi Keuangan.\nHuruf j\nYang dimaksud dengan “Risiko asuransi” adalah Risiko akibat\nkegagalan perusahaan asuransi memenuhi kewajiban kepada\npemegang polis sebagai akibat dari ketidakcukupan proses\nseleksi \nRisiko \n(underwriting), \npenetapan \npremi \n(pricing),\npenggunaan reasuransi, dan/atau penanganan klaim.\nAyat (2)\nCukup jelas.\n\n\n3. menyampaikan …",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nHuruf a\nYang dimaksud dengan “Risiko kredit” adalah Risiko akibat\nkegagalan debitur dan/atau pihak lain dalam memenuhi\nkewajiban kepada Konglomerasi Keuangan.\nUntuk LJK yang melakukan kegiatan usaha berdasarkan\nprinsip syariah, Risiko kredit mencakup pula Risiko investasi.\nYang dimaksud dengan Risiko investasi (Equity Investment Risk)\nadalah Risiko akibat LJK ikut menanggung kerugian usaha\nnasabah yang dibiayai dalam pembiayaan berbasis bagi hasil\nbaik yang menggunakan metode net revenue sharing maupun\nyang menggunakan metode profit and loss sharing.\nHuruf b\nYang dimaksud dengan “Risiko pasar” adalah Risiko akibat\nadanya pergerakan variabel pasar (adverse movement) dari\nportofolio yang dimiliki Konglomerasi Keuangan.\nYang dimaksud dengan “variabel pasar” adalah suku bunga,\nnilai tukar, komoditas, dan ekuitas.\nUntuk LJK yang melakukan kegiatan usaha berdasarkan\nprinsip syariah, Risiko pasar mencakup pula Risiko imbal hasil.\nYang dimaksud dengan Risiko imbal hasil (rate of return risk)\nadalah Risiko akibat perubahan tingkat imbal hasil yang\ndibayarkan LJK kepada nasabah, karena terjadi perubahan\ntingkat imbal hasil yang diterima LJK dari penyaluran dana,\nyang dapat mempengaruhi perilaku nasabah dana pihak ketiga\nLJK.\n\n\nHuruf …\nHuruf c\nYang dimaksud dengan “Risiko likuiditas” adalah Risiko akibat\nketidakmampuan Konglomerasi Keuangan untuk memenuhi\nkewajiban yang jatuh tempo dari sumber pendanaan arus kas\ndan/atau dari aset likuid berkualitas tinggi yang dapat\ndiagunkan, tanpa mengganggu aktivitas dan kondisi keuangan\ndari Konglomerasi Keuangan tersebut.\nHuruf d\nYang dimaksud dengan “Risiko operasional”\nadalah Risiko\nakibat ketidakcukupan dan/atau tidak berfungsinya proses\ninternal, kesalahan manusia, kegagalan sistem, dan/atau\nadanya \nkejadian-kejadian \neksternal \nyang \nmempengaruhi\noperasional Konglomerasi Keuangan.\nHuruf e\nYang dimaksud dengan “Risiko hukum” adalah Risiko akibat\ntuntutan hukum dan/atau kelemahan aspek yuridis.\nKelemahan aspek yuridis antara lain disebabkan adanya\ntuntutan hukum, ketiadaan peraturan perundang-undangan\nyang mendukung,\natau kelemahan perikatan seperti tidak\ndipenuhinya syarat sahnya perjanjian dan pengikatan agunan\nyang tidak sempurna.\nHuruf f\nYang dimaksud dengan “Risiko reputasi” adalah Risiko akibat\nmenurunnya tingkat kepercayaan stakeholder yang bersumber\ndari persepsi negatif baik terhadap LJK sebagai anggota\nKonglomerasi \nKeuangan\nmaupun \nterhadap \nKonglomerasi\nKeuangan secara keseluruhan.\nHuruf g\nYang dimaksud dengan “Risiko stratejik” adalah Risiko akibat\nketidaktepatan dalam pengambilan dan/atau pelaksanaan\nsuatu \nkeputusan \nstratejik \nserta \nkegagalan \ndalam\nmengantisipasi perubahan lingkungan bisnis.\n\n\nPasal …\nHuruf h\nYang dimaksud dengan “Risiko kepatuhan”\nadalah Risiko\nakibat \ntidak \nmematuhi \ndan/atau \ntidak \nmelaksanakan\nperaturan perundang-undangan dan ketentuan yang berlaku.\nHuruf i\nYang dimaksud dengan “Risiko transaksi intra-grup” adalah\nRisiko akibat ketergantungan suatu entitas baik secara\nlangsung maupun tidak langsung terhadap entitas lainnya\ndalam satu Konglomerasi Keuangan dalam rangka pemenuhan\nkewajiban perjanjian tertulis maupun perjanjian tidak tertulis\nbaik yang diikuti perpindahan dana dan/atau tidak diikuti\nperpindahan dana.\nRisiko transaksi intra-grup antara lain dapat timbul dari:\n1.\nkepemilikan \nsilang \nantar \nLJK \ndalam \nKonglomerasi\nKeuangan;\n2.\nsentralisasi manajemen likuiditas jangka pendek;\n3.\njaminan, pinjaman, dan komitmen yang diberikan atau\ndiperoleh suatu LJK dari LJK lain dalam Konglomerasi\nKeuangan;\n4.\neksposur kepada pemegang saham pengendali, termasuk\neksposur pinjaman dan off-balance sheet seperti jaminan\ndan komitmen;\n5.\npembelian atau penjualan aset kepada LJK lain dalam satu\nKonglomerasi Keuangan;\n6.\ntransfer risiko melalui reasuransi; dan/atau\n7.\ntransaksi untuk mengalihkan eksposur risiko pihak ketiga\ndi antara LJK dalam satu Konglomerasi Keuangan.\nHuruf j\nYang dimaksud dengan “Risiko asuransi” adalah Risiko akibat\nkegagalan perusahaan asuransi memenuhi kewajiban kepada\npemegang polis sebagai akibat dari ketidakcukupan proses\nseleksi \nRisiko \n(underwriting), \npenetapan \npremi \n(pricing),\npenggunaan reasuransi, dan/atau penanganan klaim.\nAyat (2)\nCukup jelas.\n\n\n3. menyampaikan …"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\nAyat (2)\nPenerapan Manajemen Risiko untuk masing-masing LJK mencakup\npaling sedikit:\n1.\npengawasan Dewan Komisaris dan Direksi LJK;\n2.\nkecukupan kebijakan, prosedur, dan penetapan limit manajemen\nRisiko;\n3.\nkecukupan \nproses\nidentifikasi, \npengukuran, \npemantauan,\npengendalian Risiko, dan sistem informasi manajemen Risiko;\ndan\n4.\nsistem pengendalian intern yang menyeluruh terhadap penerapan\nmanajemen Risiko.\nAyat (3)\nCukup jelas",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\nAyat (2)\nPenerapan Manajemen Risiko untuk masing-masing LJK mencakup\npaling sedikit:\n1.\npengawasan Dewan Komisaris dan Direksi LJK;\n2.\nkecukupan kebijakan, prosedur, dan penetapan limit manajemen\nRisiko;\n3.\nkecukupan \nproses\nidentifikasi, \npengukuran, \npemantauan,\npengendalian Risiko, dan sistem informasi manajemen Risiko;\ndan\n4.\nsistem pengendalian intern yang menyeluruh terhadap penerapan\nmanajemen Risiko.\nAyat (3)\nCukup jelas"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nHuruf a\nKebijakan Manajemen Risiko Terintegrasi memuat antara lain\nstrategi dan kerangka Risiko yang ditetapkan sesuai dengan\ntingkat Risiko yang akan diambil (risk appetite) dan toleransi\nRisiko (risk tolerance).\nHuruf b\nTermasuk \npelaksanaan \nkebijakan \nManajemen \nRisiko\nTerintegrasi adalah:\n1.\nmengevaluasi penerapan Manajemen Risiko Terintegrasi\npada Konglomerasi Keuangan;\n2.\nmemastikan seluruh Risiko yang signifikan dan dampak\nyang \nditimbulkan \noleh \nRisiko \ndimaksud \ntelah\nditindaklanjuti;\n\n\nterintegrasi …\n3.\nmenyampaikan laporan pertanggungjawaban kepada Dewan\nKomisaris Entitas Utama secara berkala;\n4.\nmengkomunikasikan \nkebijakan \nManajemen \nRisiko\nTerintegrasi \nsecara \nefektif \nkepada \nseluruh \njenjang\norganisasi yang relevan dalam Konglomerasi Keuangan agar\ndipahami secara jelas.\nHuruf c\nPengembangan budaya Risiko antara lain dilakukan dengan\nmemupuk risk awareness melalui komunikasi yang memadai\ndalam \nKonglomerasi \nKeuangan \ntentang \npentingnya\npengendalian Risiko dan pengendalian intern yang efektif.\nHuruf d\nPengelolaan sumber daya manusia pada Entitas Utama  yang\nmelaksanakan fungsi Manajemen Risiko Terintegrasi dilakukan\ndengan cara antara lain:\n1.\npenetapan kualifikasi sumber daya manusia yang jelas\nuntuk \nsetiap \njenjang \njabatan \nyang \nterkait \ndengan\npenerapan Manajemen Risiko Terintegrasi;\n2.\npenempatan pejabat dan staf yang kompeten pada satuan\nkerja yang terkait dengan penerapan Manajemen Risiko\nTerintegrasi sesuai dengan sifat, jumlah, dan kompleksitas\nkegiatan usaha;\n3.\nkecukupan kuantitas dan kualitas sumber daya manusia\ndalam memahami tugas dan tanggung jawabnya, baik\nuntuk unit bisnis, satuan kerja Manajemen Risiko maupun\nunit pendukung yang bertanggung jawab atas pelaksanaan\nManajemen Risiko Terintegrasi;\n4.\npeningkatan kompetensi sumber daya manusia antara lain\nmelalui \nprogram \npendidikan \ndan \npelatihan \nsecara\nberkesinambungan mengenai penerapan Manajemen Risiko\nTerintegrasi;\n5.\npemahaman seluruh sumber daya manusia terhadap\nstrategi, tingkat Risiko yang akan diambil (risk appetite),\ntoleransi Risiko (risk tolerance), dan kerangka Risiko secara\n\n\nPasal …\nterintegrasi \nserta \nmengimplementasikannya \nsecara\nkonsisten dalam aktivitas yang ditangani.\nHuruf e\nYang dimaksud dengan “independen” antara lain:\n1.\nAdanya pemisahan satuan kerja yang melaksanakan fungsi\nManajemen Risiko Terintegrasi dan yang melaksanakan\nfungsi pengendalian intern dengan satuan kerja operasional\n(risk-taking unit) pada Entitas Utama, perusahaan anak,\ndan perusahaan terelasi.\n2.\nPenerapan manajemen Risiko  bebas dari benturan\nkepentingan\nantara \nKonglomerasi \nKeuangan \ndengan\nindividu masing-masing LJK.\nHuruf f\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan\n“tindakan yang diperlukan”\nantara lain\ndengan cara memberikan rekomendasi atau usulan terkait penerapan\nManajemen Risiko kepada LJK-LJK anggota Konglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nHuruf a\nKebijakan Manajemen Risiko Terintegrasi memuat antara lain\nstrategi dan kerangka Risiko yang ditetapkan sesuai dengan\ntingkat Risiko yang akan diambil (risk appetite) dan toleransi\nRisiko (risk tolerance).\nHuruf b\nTermasuk \npelaksanaan \nkebijakan \nManajemen \nRisiko\nTerintegrasi adalah:\n1.\nmengevaluasi penerapan Manajemen Risiko Terintegrasi\npada Konglomerasi Keuangan;\n2.\nmemastikan seluruh Risiko yang signifikan dan dampak\nyang \nditimbulkan \noleh \nRisiko \ndimaksud \ntelah\nditindaklanjuti;\n\n\nterintegrasi …\n3.\nmenyampaikan laporan pertanggungjawaban kepada Dewan\nKomisaris Entitas Utama secara berkala;\n4.\nmengkomunikasikan \nkebijakan \nManajemen \nRisiko\nTerintegrasi \nsecara \nefektif \nkepada \nseluruh \njenjang\norganisasi yang relevan dalam Konglomerasi Keuangan agar\ndipahami secara jelas.\nHuruf c\nPengembangan budaya Risiko antara lain dilakukan dengan\nmemupuk risk awareness melalui komunikasi yang memadai\ndalam \nKonglomerasi \nKeuangan \ntentang \npentingnya\npengendalian Risiko dan pengendalian intern yang efektif.\nHuruf d\nPengelolaan sumber daya manusia pada Entitas Utama  yang\nmelaksanakan fungsi Manajemen Risiko Terintegrasi dilakukan\ndengan cara antara lain:\n1.\npenetapan kualifikasi sumber daya manusia yang jelas\nuntuk \nsetiap \njenjang \njabatan \nyang \nterkait \ndengan\npenerapan Manajemen Risiko Terintegrasi;\n2.\npenempatan pejabat dan staf yang kompeten pada satuan\nkerja yang terkait dengan penerapan Manajemen Risiko\nTerintegrasi sesuai dengan sifat, jumlah, dan kompleksitas\nkegiatan usaha;\n3.\nkecukupan kuantitas dan kualitas sumber daya manusia\ndalam memahami tugas dan tanggung jawabnya, baik\nuntuk unit bisnis, satuan kerja Manajemen Risiko maupun\nunit pendukung yang bertanggung jawab atas pelaksanaan\nManajemen Risiko Terintegrasi;\n4.\npeningkatan kompetensi sumber daya manusia antara lain\nmelalui \nprogram \npendidikan \ndan \npelatihan \nsecara\nberkesinambungan mengenai penerapan Manajemen Risiko\nTerintegrasi;\n5.\npemahaman seluruh sumber daya manusia terhadap\nstrategi, tingkat Risiko yang akan diambil (risk appetite),\ntoleransi Risiko (risk tolerance), dan kerangka Risiko secara\n\n\nPasal …\nterintegrasi \nserta \nmengimplementasikannya \nsecara\nkonsisten dalam aktivitas yang ditangani.\nHuruf e\nYang dimaksud dengan “independen” antara lain:\n1.\nAdanya pemisahan satuan kerja yang melaksanakan fungsi\nManajemen Risiko Terintegrasi dan yang melaksanakan\nfungsi pengendalian intern dengan satuan kerja operasional\n(risk-taking unit) pada Entitas Utama, perusahaan anak,\ndan perusahaan terelasi.\n2.\nPenerapan manajemen Risiko  bebas dari benturan\nkepentingan\nantara \nKonglomerasi \nKeuangan \ndengan\nindividu masing-masing LJK.\nHuruf f\nCukup jelas.\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan\n“tindakan yang diperlukan”\nantara lain\ndengan cara memberikan rekomendasi atau usulan terkait penerapan\nManajemen Risiko kepada LJK-LJK anggota Konglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nHuruf a\nKebijakan Manajemen Risiko Terintegrasi memuat antara lain\nstrategi dan kerangka Risiko yang ditetapkan sesuai dengan\ntingkat Risiko yang akan diambil (risk appetite) dan toleransi\nRisiko (risk tolerance).\nHuruf b\nEvaluasi \ndilakukan \nantara \nlain \nmelalui \nevaluasi\npertanggungjawaban Direksi Entitas Utama.\nAyat (2)\nCukup jelas.\n\n\nAyat …",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nHuruf a\nKebijakan Manajemen Risiko Terintegrasi memuat antara lain\nstrategi dan kerangka Risiko yang ditetapkan sesuai dengan\ntingkat Risiko yang akan diambil (risk appetite) dan toleransi\nRisiko (risk tolerance).\nHuruf b\nEvaluasi \ndilakukan \nantara \nlain \nmelalui \nevaluasi\npertanggungjawaban Direksi Entitas Utama.\nAyat (2)\nCukup jelas.\n\n\nAyat …"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nKeanggotaan Komite Manajemen Risiko Terintegrasi dapat berupa\nkeanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan\nKonglomerasi Keuangan.\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nPejabat eksekutif adalah pejabat satu tingkat di bawah\nDirektur yang memimpin satuan kerja operasional dan/atau\nfungsi/satuan kerja Manajemen Risiko.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nHuruf a\nCukup jelas.\nHuruf b\nPenyempurnaan\nkebijakan\nManajemen \nRisiko \nTerintegrasi\ndilakukan secara berkala maupun bersifat insidentil sebagai akibat\ndari suatu perubahan kondisi internal\ndan eksternal\nyang\nmempengaruhi \nkecukupan \npermodalan, \nprofil \nRisiko, \ndan\nefektifitas penerapan Manajemen Risiko Terintegrasi berdasarkan\nhasil evaluasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nKeanggotaan Komite Manajemen Risiko Terintegrasi dapat berupa\nkeanggotaan tetap dan tidak tetap, sesuai dengan kebutuhan\nKonglomerasi Keuangan.\nHuruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nPejabat eksekutif adalah pejabat satu tingkat di bawah\nDirektur yang memimpin satuan kerja operasional dan/atau\nfungsi/satuan kerja Manajemen Risiko.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nHuruf a\nCukup jelas.\nHuruf b\nPenyempurnaan\nkebijakan\nManajemen \nRisiko \nTerintegrasi\ndilakukan secara berkala maupun bersifat insidentil sebagai akibat\ndari suatu perubahan kondisi internal\ndan eksternal\nyang\nmempengaruhi \nkecukupan \npermodalan, \nprofil \nRisiko, \ndan\nefektifitas penerapan Manajemen Risiko Terintegrasi berdasarkan\nhasil evaluasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\n\n\nHuruf …\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan “independen” antara lain adanya pemisahan\nsatuan \nkerja \nyang \nmelaksanakan \nfungsi \nManajemen \nRisiko\nTerintegrasi dengan satuan kerja operasional (risk-taking unit) pada\nEntitas Utama.\nAyat (4)\nSalah satu contoh koordinasi adalah satuan kerja atau fungsi\nManajemen Risiko masing-masing LJK menginformasikan eksposur\nRisiko masing-masing LJK kepada satuan kerja Manajemen Risiko\nTerintegrasi secara berkala.\nFrekuensi penyampaian informasi eksposur Risiko disesuaikan\ndengan karakteristik jenis Risiko.\nMasing-masing LJK dapat menyesuaikan organisasi satuan kerja\nManajemen Risiko yang tepat sesuai dengan kondisinya dengan\nmempertimbangkan antara lain kondisi keuangan dan sumber daya\nmanusia.\nAyat (5)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\n\n\nHuruf …\nAyat (2)\nCukup jelas.\nAyat (3)\nYang dimaksud dengan “independen” antara lain adanya pemisahan\nsatuan \nkerja \nyang \nmelaksanakan \nfungsi \nManajemen \nRisiko\nTerintegrasi dengan satuan kerja operasional (risk-taking unit) pada\nEntitas Utama.\nAyat (4)\nSalah satu contoh koordinasi adalah satuan kerja atau fungsi\nManajemen Risiko masing-masing LJK menginformasikan eksposur\nRisiko masing-masing LJK kepada satuan kerja Manajemen Risiko\nTerintegrasi secara berkala.\nFrekuensi penyampaian informasi eksposur Risiko disesuaikan\ndengan karakteristik jenis Risiko.\nMasing-masing LJK dapat menyesuaikan organisasi satuan kerja\nManajemen Risiko yang tepat sesuai dengan kondisinya dengan\nmempertimbangkan antara lain kondisi keuangan dan sumber daya\nmanusia.\nAyat (5)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Huruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nYang dimaksud dengan “stress testing” adalah pengujian terhadap\nkemampuan Konglomerasi Keuangan pada kondisi krisis dengan\nmenggunakan skenario stress secara spesifik pada Konglomerasi\nKeuangan maupun skenario stress pada pasar.\nStress testing dilakukan pula dengan memperhitungkan Risiko yang\nterkait dengan aktivitas off balance sheet.\n\n\nTingkat …\nHuruf e\nPelaksanaan kaji ulang secara berkala dimaksudkan antara lain\nuntuk mengantisipasi apabila terjadi perubahan faktor internal dan\nfaktor eksternal dalam Konglomerasi Keuangan.\nHuruf f\nLini bisnis baru dapat berupa masuknya suatu entitas yang\ntergabung dalam Konglomerasi Keuangan dalam segmen pasar baru\nyang dapat meningkatkan eksposur Risiko Konglomerasi Keuangan.\nPengkajian usulan lini bisnis baru difokuskan terutama pada aspek\nkemampuan dalam mengelola bisnis baru, termasuk kelengkapan\nsistem dan prosedur yang digunakan serta dampaknya terhadap\neksposur risiko secara keseluruhan.\nHuruf g\nInformasi\nyang \ndiberikan \nkepada \nKomite \nManajemen \nRisiko\nTerintegrasi antara lain mengenai besaran dan maksimum eksposur\nRisiko yang perlu mendapat perhatian Direksi Entitas Utama atau\nLJK pada Konglomerasi Keuangan.\nHuruf h\nCukup jelas.\nHuruf i\nProfil Risiko merupakan gambaran secara menyeluruh atas besarnya\npotensi Risiko yang melekat pada seluruh portofolio atau eksposur\nKonglomerasi Keuangan.\nFrekuensi penyampaian laporan dapat ditingkatkan apabila kondisi\npasar \nberubah \ndengan \ncepat \nnamun \npaling \nkurang\nsecara\nsemesteran.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a\nCukup jelas.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nHuruf d\nYang dimaksud dengan “stress testing” adalah pengujian terhadap\nkemampuan Konglomerasi Keuangan pada kondisi krisis dengan\nmenggunakan skenario stress secara spesifik pada Konglomerasi\nKeuangan maupun skenario stress pada pasar.\nStress testing dilakukan pula dengan memperhitungkan Risiko yang\nterkait dengan aktivitas off balance sheet.\n\n\nTingkat …\nHuruf e\nPelaksanaan kaji ulang secara berkala dimaksudkan antara lain\nuntuk mengantisipasi apabila terjadi perubahan faktor internal dan\nfaktor eksternal dalam Konglomerasi Keuangan.\nHuruf f\nLini bisnis baru dapat berupa masuknya suatu entitas yang\ntergabung dalam Konglomerasi Keuangan dalam segmen pasar baru\nyang dapat meningkatkan eksposur Risiko Konglomerasi Keuangan.\nPengkajian usulan lini bisnis baru difokuskan terutama pada aspek\nkemampuan dalam mengelola bisnis baru, termasuk kelengkapan\nsistem dan prosedur yang digunakan serta dampaknya terhadap\neksposur risiko secara keseluruhan.\nHuruf g\nInformasi\nyang \ndiberikan \nkepada \nKomite \nManajemen \nRisiko\nTerintegrasi antara lain mengenai besaran dan maksimum eksposur\nRisiko yang perlu mendapat perhatian Direksi Entitas Utama atau\nLJK pada Konglomerasi Keuangan.\nHuruf h\nCukup jelas.\nHuruf i\nProfil Risiko merupakan gambaran secara menyeluruh atas besarnya\npotensi Risiko yang melekat pada seluruh portofolio atau eksposur\nKonglomerasi Keuangan.\nFrekuensi penyampaian laporan dapat ditingkatkan apabila kondisi\npasar \nberubah \ndengan \ncepat \nnamun \npaling \nkurang\nsecara\nsemesteran."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Tingkat Risiko yang akan diambil (risk appetite) merupakan tingkat dan\ncakupan Risiko yang bersedia diambil dalam rangka mencapai sasaran\nsecara terintegrasi. Tingkat Risiko yang akan diambil tercermin dalam\nstrategi dan sasaran bisnis.\nToleransi Risiko (risk tolerance) merupakan tingkat dan cakupan Risiko\nyang ditetapkan secara maksimum dan merupakan penjabaran dari tingkat\nRisiko yang akan diambil.\n\n\nHuruf …\nTingkat Risiko yang akan diambil (risk appetite) dan toleransi Risiko (risk\ntolerance) harus sejalan dengan strategi bisnis, profil Risiko, dan rencana\npermodalan Konglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tingkat Risiko yang akan diambil (risk appetite) merupakan tingkat dan\ncakupan Risiko yang bersedia diambil dalam rangka mencapai sasaran\nsecara terintegrasi. Tingkat Risiko yang akan diambil tercermin dalam\nstrategi dan sasaran bisnis.\nToleransi Risiko (risk tolerance) merupakan tingkat dan cakupan Risiko\nyang ditetapkan secara maksimum dan merupakan penjabaran dari tingkat\nRisiko yang akan diambil.\n\n\nHuruf …\nTingkat Risiko yang akan diambil (risk appetite) dan toleransi Risiko (risk\ntolerance) harus sejalan dengan strategi bisnis, profil Risiko, dan rencana\npermodalan Konglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Huruf a\nPenetapan risiko yang terkait dengan kegiatan bisnis Konglomerasi\nKeuangan didasarkan pada hasil dari proses identifikasi terhadap\nRisiko yang melekat pada setiap lini bisnis yang telah dan akan\ndilakukan LJK dalam Konglomerasi Keuangan. Penetapan Risiko\ndilakukan pula pada saat Konglomerasi Keuangan akan melakukan\nkegiatan bisnis baru dalam bentuk ekspansi dan/atau diversifikasi\nusaha.\nHuruf b\nPerumusan Strategi Manajemen Risiko Terintegrasi disusun dengan\nmemperhatikan prinsip umum dan faktor antara lain sebagai berikut:\n1.\nberorientasi jangka panjang untuk memastikan kelangsungan\nusaha dengan mempertimbangkan kondisi/siklus ekonomi;\n2.\nperkembangan ekonomi dan industri serta dampaknya\npada\nRisiko Konglomerasi Keuangan;\n3.\nkompleksitas \nbisnis \nKonglomerasi \nKeuangan \ntermasuk\nkecukupan sumber daya manusia dan infrastruktur pendukung;\n4.\nkemampuan\nmengendalikan \ndan \nmengelola \nRisiko\nsecara\nkomprehensif, termasuk\nRisiko\npada\nperusahaan anak dan\nperusahaan terelasi;\n5.\nbauran serta diversifikasi portofolio;\n6.\nkondisi \nkeuangan \ndari \nKonglomerasi \nKeuangan \nuntuk\nmenghasilkan laba, dan menyerap Risiko yang timbul sebagai\nakibat perubahan faktor internal dan faktor eksternal; dan\n7.\nkecukupan permodalan yang diharapkan disertai alokasi sumber\ndaya yang memadai.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\n\n\nPasal …\nHuruf e\nPenetapan metode penilaian peringkat Risiko merupakan dasar bagi\nEntitas Utama untuk menetapkan profil Risiko terintegrasi sesuai\nperingkat Risiko yang berlaku di Konglomerasi Keuangan.\nHuruf f\nKebijakan rencana darurat (contingency plan) disusun untuk\nmenghadapi kemungkinan kondisi internal dan eksternal terburuk\ndalam rangka mempertahankan kelangsungan usaha Konglomerasi\nKeuangan.\nHuruf g\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a\nPenetapan risiko yang terkait dengan kegiatan bisnis Konglomerasi\nKeuangan didasarkan pada hasil dari proses identifikasi terhadap\nRisiko yang melekat pada setiap lini bisnis yang telah dan akan\ndilakukan LJK dalam Konglomerasi Keuangan. Penetapan Risiko\ndilakukan pula pada saat Konglomerasi Keuangan akan melakukan\nkegiatan bisnis baru dalam bentuk ekspansi dan/atau diversifikasi\nusaha.\nHuruf b\nPerumusan Strategi Manajemen Risiko Terintegrasi disusun dengan\nmemperhatikan prinsip umum dan faktor antara lain sebagai berikut:\n1.\nberorientasi jangka panjang untuk memastikan kelangsungan\nusaha dengan mempertimbangkan kondisi/siklus ekonomi;\n2.\nperkembangan ekonomi dan industri serta dampaknya\npada\nRisiko Konglomerasi Keuangan;\n3.\nkompleksitas \nbisnis \nKonglomerasi \nKeuangan \ntermasuk\nkecukupan sumber daya manusia dan infrastruktur pendukung;\n4.\nkemampuan\nmengendalikan \ndan \nmengelola \nRisiko\nsecara\nkomprehensif, termasuk\nRisiko\npada\nperusahaan anak dan\nperusahaan terelasi;\n5.\nbauran serta diversifikasi portofolio;\n6.\nkondisi \nkeuangan \ndari \nKonglomerasi \nKeuangan \nuntuk\nmenghasilkan laba, dan menyerap Risiko yang timbul sebagai\nakibat perubahan faktor internal dan faktor eksternal; dan\n7.\nkecukupan permodalan yang diharapkan disertai alokasi sumber\ndaya yang memadai.\nHuruf c\nCukup jelas.\nHuruf d\nCukup jelas.\n\n\nPasal …\nHuruf e\nPenetapan metode penilaian peringkat Risiko merupakan dasar bagi\nEntitas Utama untuk menetapkan profil Risiko terintegrasi sesuai\nperingkat Risiko yang berlaku di Konglomerasi Keuangan.\nHuruf f\nKebijakan rencana darurat (contingency plan) disusun untuk\nmenghadapi kemungkinan kondisi internal dan eksternal terburuk\ndalam rangka mempertahankan kelangsungan usaha Konglomerasi\nKeuangan.\nHuruf g\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nPelaksanaan kaji ulang terhadap prosedur dilakukan secara\nberkala paling sedikit 1 (satu) kali dalam 1 (satu) tahun atau\nsewaktu-waktu sesuai dengan cakupan Risiko, kebutuhan, dan\nperkembangan Konglomerasi Keuangan.\nHuruf c\nYang dimaksud dengan “dokumentasi prosedur yang memadai”\nadalah dokumentasi yang tertulis, lengkap dan memudahkan\nuntuk dilakukan jejak audit (audit trail) untuk keperluan\npengendalian intern.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\n\nproduk ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nPelaksanaan kaji ulang terhadap prosedur dilakukan secara\nberkala paling sedikit 1 (satu) kali dalam 1 (satu) tahun atau\nsewaktu-waktu sesuai dengan cakupan Risiko, kebutuhan, dan\nperkembangan Konglomerasi Keuangan.\nHuruf c\nYang dimaksud dengan “dokumentasi prosedur yang memadai”\nadalah dokumentasi yang tertulis, lengkap dan memudahkan\nuntuk dilakukan jejak audit (audit trail) untuk keperluan\npengendalian intern.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\n\n\nproduk ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nYang dimaksud dengan “seluruh\nfaktor risiko”\nadalah berbagai\nparameter yang mempengaruhi eksposur Risiko termasuk yang\nberasal dari perusahaan non keuangan yang mempengaruhi\nKonglomerasi Keuangan.\nYang dimaksud dengan “faktor risiko yang bersifat signifikan” adalah\nfaktor-faktor \nRisiko \nbaik \nkuantitatif \nmaupun \nkualitatif \nyang\nberpengaruh secara signifikan terhadap kondisi keuangan dari\nKonglomerasi Keuangan.\nAyat (2)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nYang dimaksud dengan “seluruh\nfaktor risiko”\nadalah berbagai\nparameter yang mempengaruhi eksposur Risiko termasuk yang\nberasal dari perusahaan non keuangan yang mempengaruhi\nKonglomerasi Keuangan.\nYang dimaksud dengan “faktor risiko yang bersifat signifikan” adalah\nfaktor-faktor \nRisiko \nbaik \nkuantitatif \nmaupun \nkualitatif \nyang\nberpengaruh secara signifikan terhadap kondisi keuangan dari\nKonglomerasi Keuangan.\nAyat (2)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nIdentifikasi Risiko antara lain dapat didasarkan pada pengalaman\nkerugian yang pernah terjadi.\nAyat (2)\nHuruf a\nFrekuensi evaluasi secara berkala dilakukan sesuai dengan\nperkembangan \nusaha \ndan \nkondisi \neksternal \nyang\nmempengaruhi kondisi Konglomerasi Keuangan.\nHuruf b\nFaktor-faktor yang secara signifikan mempengaruhi Risiko\nantara \nlain \npenambahan \nlini \nbisnis \nbaru \nyang \ndapat\nmempengaruhi kondisi keuangan Konglomerasi Keuangan.\nAyat (3)\nHuruf a\nEvaluasi terhadap eksposur\nRisiko dilakukan dengan cara\npemantauan dan pelaporan Risiko yang bersifat signifikan atau\nyang berdampak kepada kondisi permodalan Konglomerasi\nKeuangan.\nHuruf b\nPenyempurnaan proses dan cakupan pelaporan\ndilakukan\nantara lain apabila terdapat perubahan kegiatan usaha,\n\n\nkelemahan ...\nproduk, transaksi, faktor Risiko, teknologi informasi dan sistem\ninformasi \nManajemen \nRisiko \nTerintegrasi \nyang \nbersifat\nsignifikan.\nAyat (4)\nPengendalian Risiko dapat dilakukan antara lain dengan cara lindung\nnilai, metode mitigasi risiko, dan penambahan modal\nuntuk\nmenyerap potensi kerugian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nIdentifikasi Risiko antara lain dapat didasarkan pada pengalaman\nkerugian yang pernah terjadi.\nAyat (2)\nHuruf a\nFrekuensi evaluasi secara berkala dilakukan sesuai dengan\nperkembangan \nusaha \ndan \nkondisi \neksternal \nyang\nmempengaruhi kondisi Konglomerasi Keuangan.\nHuruf b\nFaktor-faktor yang secara signifikan mempengaruhi Risiko\nantara \nlain \npenambahan \nlini \nbisnis \nbaru \nyang \ndapat\nmempengaruhi kondisi keuangan Konglomerasi Keuangan.\nAyat (3)\nHuruf a\nEvaluasi terhadap eksposur\nRisiko dilakukan dengan cara\npemantauan dan pelaporan Risiko yang bersifat signifikan atau\nyang berdampak kepada kondisi permodalan Konglomerasi\nKeuangan.\nHuruf b\nPenyempurnaan proses dan cakupan pelaporan\ndilakukan\nantara lain apabila terdapat perubahan kegiatan usaha,\n\n\nkelemahan ...\nproduk, transaksi, faktor Risiko, teknologi informasi dan sistem\ninformasi \nManajemen \nRisiko \nTerintegrasi \nyang \nbersifat\nsignifikan.\nAyat (4)\nPengendalian Risiko dapat dilakukan antara lain dengan cara lindung\nnilai, metode mitigasi risiko, dan penambahan modal\nuntuk\nmenyerap potensi kerugian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nHuruf a\nLaporan atau informasi eksposur Risiko mencakup eksposur\nkuantitatif dan kualitatif, secara keseluruhan (composite)\nmaupun rincian eksposur untuk setiap jenis Risiko dan setiap\nLJK dalam Konglomerasi Keuangan.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nAyat (2)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nHuruf a\nLaporan atau informasi eksposur Risiko mencakup eksposur\nkuantitatif dan kualitatif, secara keseluruhan (composite)\nmaupun rincian eksposur untuk setiap jenis Risiko dan setiap\nLJK dalam Konglomerasi Keuangan.\nHuruf b\nCukup jelas.\nHuruf c\nCukup jelas.\nAyat (2)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nInformasi keuangan dan manajemen yang lengkap, akurat,\ntepat guna, dan tepat waktu\ndiperlukan dalam rangka\npengambilan \nkeputusan \nyang \ntepat \ndan \ndapat\ndipertanggungjawabkan, serta dikomunikasikan kepada pihak\nyang berkepentingan.\nHuruf c\nEfektivitas budaya Risiko dimaksudkan untuk mengidentifikasi\n\n\nPasal ...\nkelemahan dan penyimpangan secara lebih dini dan menilai\nkembali kewajaran kebijakan dan prosedur yang ada pada\nKonglomerasi Keuangan secara berkesinambungan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\nAyat (2)\nHuruf a\nCukup jelas.\nHuruf b\nInformasi keuangan dan manajemen yang lengkap, akurat,\ntepat guna, dan tepat waktu\ndiperlukan dalam rangka\npengambilan \nkeputusan \nyang \ntepat \ndan \ndapat\ndipertanggungjawabkan, serta dikomunikasikan kepada pihak\nyang berkepentingan.\nHuruf c\nEfektivitas budaya Risiko dimaksudkan untuk mengidentifikasi\n\n\nPasal ...\nkelemahan dan penyimpangan secara lebih dini dan menilai\nkembali kewajaran kebijakan dan prosedur yang ada pada\nKonglomerasi Keuangan secara berkesinambungan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nLaporan disertai dengan dokumen penunjukan Entitas Utama.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nLaporan disertai dengan dokumen penunjukan Entitas Utama.\nAyat (2)\nCukup jelas.\nAyat (3)\nCukup jelas.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nCukup jelas.\nAyat (2)\nPeringkat terbaik dari 5 (lima) kategori peringkat profil Risiko\nTerintegrasi adalah peringkat 1 (satu).\nAyat (3)\nLaporan profil Risiko terintegrasi disajikan secara komparatif dengan\nposisi semester sebelumnya.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nCukup jelas.\nAyat (2)\nPeringkat terbaik dari 5 (lima) kategori peringkat profil Risiko\nTerintegrasi adalah peringkat 1 (satu).\nAyat (3)\nLaporan profil Risiko terintegrasi disajikan secara komparatif dengan\nposisi semester sebelumnya.\nAyat (4)\nCukup jelas.\nAyat (5)\nCukup jelas.\nAyat (6)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Laporan profil Risiko terintegrasi dapat digunakan oleh Entitas Utama\nuntuk \nmelakukan \npenilaian \ntingkat \nkesehatan \nsecara \nkonsolidasi\nsebagaimana dimaksud dalam ketentuan mengenai penilaian tingkat\nkesehatan bank umum.\n\n\nPasal ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan profil Risiko terintegrasi dapat digunakan oleh Entitas Utama\nuntuk \nmelakukan \npenilaian \ntingkat \nkesehatan \nsecara \nkonsolidasi\nsebagaimana dimaksud dalam ketentuan mengenai penilaian tingkat\nkesehatan bank umum.\n\n\nPasal ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Ayat (1)\nSektor jasa keuangan terdiri dari sektor perbankan, sektor pasar\nmodal, dan sektor industri keuangan non bank.\nContoh:\nDalam hal Konglomerasi Keuangan seluruhnya terdiri dari beberapa\nperusahaan \nasuransi,\nmaka \npenerapan \nManajemen \nRisiko\nTerintegrasi mengacu pada ketentuan mengenai manajemen risiko\nuntuk perusahaan asuransi.\nAyat (2)\nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)\nSektor jasa keuangan terdiri dari sektor perbankan, sektor pasar\nmodal, dan sektor industri keuangan non bank.\nContoh:\nDalam hal Konglomerasi Keuangan seluruhnya terdiri dari beberapa\nperusahaan \nasuransi,\nmaka \npenerapan \nManajemen \nRisiko\nTerintegrasi mengacu pada ketentuan mengenai manajemen risiko\nuntuk perusahaan asuransi.\nAyat (2)\nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Data dan informasi dari Entitas Utama digunakan oleh Otoritas Jasa\nKeuangan dalam rangka melakukan evaluasi dan penilaian terhadap\npenerapan \nManajemen \nRisiko \nTerintegrasi \nyang \ndilakukan \noleh\nKonglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Data dan informasi dari Entitas Utama digunakan oleh Otoritas Jasa\nKeuangan dalam rangka melakukan evaluasi dan penilaian terhadap\npenerapan \nManajemen \nRisiko \nTerintegrasi \nyang \ndilakukan \noleh\nKonglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5626",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas.\n\n\nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5626"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 83,
+  "total_ayat": 126,
+  "total_karakter": 51033,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

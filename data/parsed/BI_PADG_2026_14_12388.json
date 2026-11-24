@@ -1,0 +1,1703 @@
+{
+  "doc_id": "BI_PADG_2026_14_12388",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "14",
+  "tahun": "2026",
+  "judul": "Transaksi Letter of Credit di Bank Indonesia",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "25 Juni 2026………",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA OPERASIONALISASI TRANSAKSI L/C DI BANK INDONESIA"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENUTUPAN L/C"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "ENDORSEMEN TERHADAP BILL OF LADING ATAU AIRWAY BILL"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BIAYA TRANSAKSI L/C"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETERLAMBATAN PEMBAYARAN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KORESPONDENSI"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nNasabah Bank Indonesia yang selanjutnya disebut \nNasabah \nadalah \npihak \nyang \ntelah \nmendapatkan \npersetujuan dari Bank Indonesia untuk memperoleh \nlayanan kebanksentralan. \n2. \nLayanan Kebanksentralan yang selanjutnya disebut \nLayanan adalah jasa yang diberikan oleh Bank Indonesia \nkepada Nasabah untuk mendukung pelaksanaan tugas \nBank Indonesia di bidang moneter, makroprudensial, serta \nsistem pembayaran dan pengelolaan uang rupiah. \n3. \nLetter of Credit yang selanjutnya disebut L/C adalah janji \npasti yang tidak dapat dibatalkan sepihak (irrevocable) dan \nmerupakan jaminan dari bank penerbit (issuing bank) \nuntuk membayar atas penyerahan dokumen yang sesuai \ndengan syarat dan kondisi L/C. \n4. \nTransaksi \nL/C \nadalah \nserangkaian \nkegiatan \nyang \ndilakukan oleh Bank Indonesia sebagai bank penerbit \n(issuing bank) L/C. \n5. \nAplikan adalah Nasabah yang melakukan Transaksi L/C \ndi Bank Indonesia.  \n6. \nPimpinan adalah direksi atau pejabat yang berwenang \nmewakili Nasabah sesuai dengan ketentuan internal \nmasing-masing Nasabah. \n7. \nPejabat Penerima Kuasa adalah pejabat yang menerima \nkuasa dari Pimpinan. \n8. \nPejabat yang Mewakili adalah pejabat yang berwenang \nmewakili Nasabah dalam kegiatan Layanan yang terdiri \natas Pimpinan dan/atau Pejabat Penerima Kuasa. \n9. \nPinjaman Luar Negeri Pemerintah yang selanjutnya \ndisebut Pinjaman adalah setiap pembiayaan melalui utang \nyang diperoleh pemerintah dari pemberi pinjaman luar \nnegeri yang diikat oleh suatu perjanjian pinjaman dan \ntidak berbentuk surat berharga negara, yang harus \ndibayar kembali dengan persyaratan tertentu. \n10. Hibah Luar Negeri Pemerintah yang selanjutnya disebut \nHibah adalah setiap penerimaan negara dalam bentuk \ndevisa, devisa yang dirupiahkan, rupiah, barang, jasa \ndan/atau surat berharga yang diperoleh dari pemberi \nhibah luar negeri yang tidak perlu dibayar kembali. \n11. Perjanjian \nPinjaman \nadalah \nkesepakatan \ntertulis \nmengenai pinjaman antara pemerintah dan pemberi \npinjaman luar negeri yang dituangkan dalam dokumen \nperjanjian \npinjaman \natau \ndokumen \nlain \nyang \ndipersamakan yang harus dibayar kembali dengan \npersyaratan tertentu. \n12. Perjanjian Hibah adalah kesepakatan tertulis mengenai \nhibah antara pemerintah dan pemberi hibah luar negeri \nyang dituangkan dalam dokumen perjanjian pemberian \nhibah atau dokumen lain yang dipersamakan yang tidak \nperlu dibayar kembali. \n\n\n \n13. Pemberi Pinjaman dan/atau Hibah yang selanjutnya \ndisebut Pemberi PHLN adalah kreditor atau lembaga donor \nyang berasal dari luar negeri yang memberikan Pinjaman \ndan/atau Hibah kepada pemerintah. \n14. Closing Date adalah batas akhir waktu (availability period) \nuntuk melakukan pencairan dan/atau penarikan dana \nPinjaman dan/atau Hibah. \n15. Perjanjian atau Kontrak Pengadaan Barang atau Jasa \nPemerintah yang selanjutnya disebut PKPBJ adalah \nperjanjian tertulis antara pejabat pembuat komitmen \ndengan penyedia barang atau jasa. \n16. Pengguna Anggaran yang selanjutnya disingkat PA adalah \npejabat pemegang kewenangan penggunaan anggaran \nkementerian atau lembaga. \n17. Kuasa Pengguna Anggaran yang selanjutnya disingkat \nKPA adalah pejabat yang memperoleh kuasa dari PA untuk \nmelaksanakan sebagian kewenangan dan tanggung jawab \npenggunaan anggaran pada kementerian atau lembaga \nyang bersangkutan. \n18. Pejabat Pembuat Komitmen yang selanjutnya disingkat \nPPK adalah pejabat yang diberi kewenangan oleh PA atau \nKPA untuk mengambil keputusan dan/atau tindakan yang \ndapat mengakibatkan pengeluaran atas beban Anggaran \nPendapatan dan Belanja Negara. \n19. Rupiah Murni adalah alokasi dana dalam Anggaran \nPendapatan dan Belanja Negara yang tidak berasal dari \nPinjaman dan/atau Hibah. \n20. Complying Presentation adalah presentasi dokumen yang \nsesuai dengan syarat dan kondisi kredit, ketentuan \nUniform Customs and Practice for Documentary Credits \n(UCPDC) yang berlaku, dan praktik perbankan sesuai \ndengan standar internasional. \n21. Penyedia Barang atau Jasa (Beneficiary) adalah pihak yang \nmenyediakan barang atau jasa dan merupakan pihak yang \nuntuk kepentingannya L/C diterbitkan. \n22. Bank Penerbit (Issuing Bank) adalah Bank Indonesia yang \nmenerbitkan L/C atas permohonan Aplikan. \n23. Bank Penerus (Advising Bank) adalah bank yang \nmeneruskan L/C kepada Penyedia Barang atau Jasa \n(Beneficiary) atas permohonan Bank Penerbit (Issuing \nBank). \n24. Bank Tertunjuk (Nominated Bank) adalah bank di mana \nkredit tersedia atau setiap bank dalam hal kredit tersedia \npada setiap bank. \n25. Surat Kuasa Pembebanan L/C yang selanjutnya disingkat \nSKP L/C adalah surat kuasa yang diterbitkan oleh Kantor \nPelayanan Perbendaharaan Negara yang ditunjuk atas \nnama Menteri Keuangan Republik Indonesia kepada Bank \nIndonesia untuk melaksanakan penarikan Pinjaman \ndan/atau Hibah melalui L/C. \n26. Surat Persetujuan Pembukaan L/C yang selanjutnya \ndisingkat SPP L/C adalah surat persetujuan pembukaan \nL/C dari Kantor Pelayanan Perbendaharaan Negara selaku \nKuasa Bendahara Umum Negara kepada Bank Indonesia \natas SPP L/C dari PA atau KPA untuk membuka L/C yang \nbesarnya tidak melebihi nilai SPP L/C dalam hal terdapat \n\n\n \npengadaan barang atau jasa dengan menggunakan L/C \natas beban Rupiah Murni dan rekening khusus.  \n27. Diskrepansi adalah tidak terpenuhinya syarat dan kondisi \nL/C dalam dokumen yang dipresentasikan. \n28. Nota Disposisi yang selanjutnya disebut Nodis adalah \nsurat yang diterbitkan oleh Bank Indonesia yang \nmerupakan data realisasi penarikan Pinjaman dan/atau \nHibah, serta data penggunaan Rupiah Murni dan \nsekaligus berfungsi sebagai pengantar dokumen kepada \nAplikan. \n29. Letter of Commitment yang selanjutnya disebut Letcom \nadalah surat komitmen pembiayaan L/C atau surat yang \ndapat dipersamakan dengan itu, yang diterbitkan oleh \nPemberi PHLN kepada Bank Penerus (Advising Bank) atau \nBank \nTertunjuk \n(Nominated \nBank) \nsebagai \nsyarat \nberlakunya \nL/C, \nsepanjang \ndipersyaratkan \ndalam \nPerjanjian Pinjaman dan/atau Perjanjian Hibah. \n30. Rupiah Murni Pendamping yang selanjutnya disingkat \nRMP adalah sejumlah dana dalam mata uang rupiah yang \nbersumber dari anggaran kementerian atau lembaga atau \nkuasi \npemerintah, \nyang \nmerupakan \nporsi \ndana \npendamping dalam penarikan Pinjaman dan/atau Hibah \nuntuk penerbitan L/C. \n31. Aplikasi Layanan Bank Indonesia yang selanjutnya \ndisingkat ALBI adalah suatu sarana elektronik secara \nonline yang disediakan kepada Nasabah untuk mengakses \nLayanan yang dilengkapi dengan sistem keamanan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nNasabah Bank Indonesia yang selanjutnya disebut \nNasabah \nadalah \npihak \nyang \ntelah \nmendapatkan \npersetujuan dari Bank Indonesia untuk memperoleh \nlayanan kebanksentralan. \n2. \nLayanan Kebanksentralan yang selanjutnya disebut \nLayanan adalah jasa yang diberikan oleh Bank Indonesia \nkepada Nasabah untuk mendukung pelaksanaan tugas \nBank Indonesia di bidang moneter, makroprudensial, serta \nsistem pembayaran dan pengelolaan uang rupiah. \n3. \nLetter of Credit yang selanjutnya disebut L/C adalah janji \npasti yang tidak dapat dibatalkan sepihak (irrevocable) dan \nmerupakan jaminan dari bank penerbit (issuing bank) \nuntuk membayar atas penyerahan dokumen yang sesuai \ndengan syarat dan kondisi L/C. \n4. \nTransaksi \nL/C \nadalah \nserangkaian \nkegiatan \nyang \ndilakukan oleh Bank Indonesia sebagai bank penerbit \n(issuing bank) L/C. \n5. \nAplikan adalah Nasabah yang melakukan Transaksi L/C \ndi Bank Indonesia.  \n6. \nPimpinan adalah direksi atau pejabat yang berwenang \nmewakili Nasabah sesuai dengan ketentuan internal \nmasing-masing Nasabah. \n7. \nPejabat Penerima Kuasa adalah pejabat yang menerima \nkuasa dari Pimpinan. \n8. \nPejabat yang Mewakili adalah pejabat yang berwenang \nmewakili Nasabah dalam kegiatan Layanan yang terdiri \natas Pimpinan dan/atau Pejabat Penerima Kuasa. \n9. \nPinjaman Luar Negeri Pemerintah yang selanjutnya \ndisebut Pinjaman adalah setiap pembiayaan melalui utang \nyang diperoleh pemerintah dari pemberi pinjaman luar \nnegeri yang diikat oleh suatu perjanjian pinjaman dan \ntidak berbentuk surat berharga negara, yang harus \ndibayar kembali dengan persyaratan tertentu. \n10. Hibah Luar Negeri Pemerintah yang selanjutnya disebut \nHibah adalah setiap penerimaan negara dalam bentuk \ndevisa, devisa yang dirupiahkan, rupiah, barang, jasa \ndan/atau surat berharga yang diperoleh dari pemberi \nhibah luar negeri yang tidak perlu dibayar kembali. \n11. Perjanjian \nPinjaman \nadalah \nkesepakatan \ntertulis \nmengenai pinjaman antara pemerintah dan pemberi \npinjaman luar negeri yang dituangkan dalam dokumen \nperjanjian \npinjaman \natau \ndokumen \nlain \nyang \ndipersamakan yang harus dibayar kembali dengan \npersyaratan tertentu. \n12. Perjanjian Hibah adalah kesepakatan tertulis mengenai \nhibah antara pemerintah dan pemberi hibah luar negeri \nyang dituangkan dalam dokumen perjanjian pemberian \nhibah atau dokumen lain yang dipersamakan yang tidak \nperlu dibayar kembali. \n\n\n \n13. Pemberi Pinjaman dan/atau Hibah yang selanjutnya \ndisebut Pemberi PHLN adalah kreditor atau lembaga donor \nyang berasal dari luar negeri yang memberikan Pinjaman \ndan/atau Hibah kepada pemerintah. \n14. Closing Date adalah batas akhir waktu (availability period) \nuntuk melakukan pencairan dan/atau penarikan dana \nPinjaman dan/atau Hibah. \n15. Perjanjian atau Kontrak Pengadaan Barang atau Jasa \nPemerintah yang selanjutnya disebut PKPBJ adalah \nperjanjian tertulis antara pejabat pembuat komitmen \ndengan penyedia barang atau jasa. \n16. Pengguna Anggaran yang selanjutnya disingkat PA adalah \npejabat pemegang kewenangan penggunaan anggaran \nkementerian atau lembaga. \n17. Kuasa Pengguna Anggaran yang selanjutnya disingkat \nKPA adalah pejabat yang memperoleh kuasa dari PA untuk \nmelaksanakan sebagian kewenangan dan tanggung jawab \npenggunaan anggaran pada kementerian atau lembaga \nyang bersangkutan. \n18. Pejabat Pembuat Komitmen yang selanjutnya disingkat \nPPK adalah pejabat yang diberi kewenangan oleh PA atau \nKPA untuk mengambil keputusan dan/atau tindakan yang \ndapat mengakibatkan pengeluaran atas beban Anggaran \nPendapatan dan Belanja Negara. \n19. Rupiah Murni adalah alokasi dana dalam Anggaran \nPendapatan dan Belanja Negara yang tidak berasal dari \nPinjaman dan/atau Hibah. \n20. Complying Presentation adalah presentasi dokumen yang \nsesuai dengan syarat dan kondisi kredit, ketentuan \nUniform Customs and Practice for Documentary Credits \n(UCPDC) yang berlaku, dan praktik perbankan sesuai \ndengan standar internasional. \n21. Penyedia Barang atau Jasa (Beneficiary) adalah pihak yang \nmenyediakan barang atau jasa dan merupakan pihak yang \nuntuk kepentingannya L/C diterbitkan. \n22. Bank Penerbit (Issuing Bank) adalah Bank Indonesia yang \nmenerbitkan L/C atas permohonan Aplikan. \n23. Bank Penerus (Advising Bank) adalah bank yang \nmeneruskan L/C kepada Penyedia Barang atau Jasa \n(Beneficiary) atas permohonan Bank Penerbit (Issuing \nBank). \n24. Bank Tertunjuk (Nominated Bank) adalah bank di mana \nkredit tersedia atau setiap bank dalam hal kredit tersedia \npada setiap bank. \n25. Surat Kuasa Pembebanan L/C yang selanjutnya disingkat \nSKP L/C adalah surat kuasa yang diterbitkan oleh Kantor \nPelayanan Perbendaharaan Negara yang ditunjuk atas \nnama Menteri Keuangan Republik Indonesia kepada Bank \nIndonesia untuk melaksanakan penarikan Pinjaman \ndan/atau Hibah melalui L/C. \n26. Surat Persetujuan Pembukaan L/C yang selanjutnya \ndisingkat SPP L/C adalah surat persetujuan pembukaan \nL/C dari Kantor Pelayanan Perbendaharaan Negara selaku \nKuasa Bendahara Umum Negara kepada Bank Indonesia \natas SPP L/C dari PA atau KPA untuk membuka L/C yang \nbesarnya tidak melebihi nilai SPP L/C dalam hal terdapat \n\n\n \npengadaan barang atau jasa dengan menggunakan L/C \natas beban Rupiah Murni dan rekening khusus.  \n27. Diskrepansi adalah tidak terpenuhinya syarat dan kondisi \nL/C dalam dokumen yang dipresentasikan. \n28. Nota Disposisi yang selanjutnya disebut Nodis adalah \nsurat yang diterbitkan oleh Bank Indonesia yang \nmerupakan data realisasi penarikan Pinjaman dan/atau \nHibah, serta data penggunaan Rupiah Murni dan \nsekaligus berfungsi sebagai pengantar dokumen kepada \nAplikan. \n29. Letter of Commitment yang selanjutnya disebut Letcom \nadalah surat komitmen pembiayaan L/C atau surat yang \ndapat dipersamakan dengan itu, yang diterbitkan oleh \nPemberi PHLN kepada Bank Penerus (Advising Bank) atau \nBank \nTertunjuk \n(Nominated \nBank) \nsebagai \nsyarat \nberlakunya \nL/C, \nsepanjang \ndipersyaratkan \ndalam \nPerjanjian Pinjaman dan/atau Perjanjian Hibah. \n30. Rupiah Murni Pendamping yang selanjutnya disingkat \nRMP adalah sejumlah dana dalam mata uang rupiah yang \nbersumber dari anggaran kementerian atau lembaga atau \nkuasi \npemerintah, \nyang \nmerupakan \nporsi \ndana \npendamping dalam penarikan Pinjaman dan/atau Hibah \nuntuk penerbitan L/C. \n31. Aplikasi Layanan Bank Indonesia yang selanjutnya \ndisingkat ALBI adalah suatu sarana elektronik secara \nonline yang disediakan kepada Nasabah untuk mengakses \nLayanan yang dilengkapi dengan sistem keamanan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Tujuan pengaturan Peraturan Anggota Dewan Gubernur ini \nyaitu untuk: \na. \nmenjadi dasar dan pedoman pelaksanaan Transaksi L/C \ndi Bank Indonesia; dan \nb. \nmemenuhi aspek tata kelola yang baik yaitu independensi, \nkonsistensi, koordinasi, akuntabilitas, dan transparansi \ndalam pelaksanaan Transaksi L/C di Bank Indonesia. \n \nBAB II \nKERANGKA KERJA OPERASIONALISASI TRANSAKSI L/C  \nDI BANK INDONESIA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tujuan pengaturan Peraturan Anggota Dewan Gubernur ini \nyaitu untuk: \na. \nmenjadi dasar dan pedoman pelaksanaan Transaksi L/C \ndi Bank Indonesia; dan \nb. \nmemenuhi aspek tata kelola yang baik yaitu independensi, \nkonsistensi, koordinasi, akuntabilitas, dan transparansi \ndalam pelaksanaan Transaksi L/C di Bank Indonesia. \n \nBAB II \nKERANGKA KERJA OPERASIONALISASI TRANSAKSI L/C  \nDI BANK INDONESIA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA OPERASIONALISASI TRANSAKSI L/C DI BANK INDONESIA",
+      "teks_lengkap": "Objek pengaturan dalam Peraturan Anggota Dewan Gubernur \nini yaitu pelaksanaan Transaksi L/C di Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Objek pengaturan dalam Peraturan Anggota Dewan Gubernur \nini yaitu pelaksanaan Transaksi L/C di Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA OPERASIONALISASI TRANSAKSI L/C DI BANK INDONESIA",
+      "teks_lengkap": "Ruang lingkup Peraturan Anggota Dewan Gubernur ini \nmeliputi: \na. \nprinsip umum Transaksi L/C; \nb. \npenerbitan L/C; \nc. \npembayaran tagihan L/C; \nd. \nperubahan L/C; \ne. \npenutupan L/C; \n \n \n \n\n\n \nf. \nendorsemen terhadap bill of lading atau airway bill; \ng. \nbiaya Transaksi L/C; \nh. \nketerlambatan pembayaran; dan \ni. \nkorespondensi. \n \n \nBAB III \nPRINSIP UMUM TRANSAKSI L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup Peraturan Anggota Dewan Gubernur ini \nmeliputi: \na. \nprinsip umum Transaksi L/C; \nb. \npenerbitan L/C; \nc. \npembayaran tagihan L/C; \nd. \nperubahan L/C; \ne. \npenutupan L/C; \n \n \n \n\n\n \nf. \nendorsemen terhadap bill of lading atau airway bill; \ng. \nbiaya Transaksi L/C; \nh. \nketerlambatan pembayaran; dan \ni. \nkorespondensi. \n \n \nBAB III \nPRINSIP UMUM TRANSAKSI L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nNasabah yang dapat mengajukan Layanan Transaksi L/C \ndi Bank Indonesia meliputi: \na. \ninstansi pemerintah pusat; \nb. \nbadan usaha milik negara nonbank; dan \nc. \npihak lain yang disetujui oleh Bank Indonesia. \n(2) \nDalam hal Nasabah sebagaimana dimaksud pada ayat (1) \nmelakukan transaksi menggunakan prinsip syariah, Bank \nIndonesia dapat menerbitkan L/C berdasarkan prinsip \nsyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nasabah yang dapat mengajukan Layanan Transaksi L/C \ndi Bank Indonesia meliputi: \na. \ninstansi pemerintah pusat; \nb. \nbadan usaha milik negara nonbank; dan \nc. \npihak lain yang disetujui oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Nasabah sebagaimana dimaksud pada ayat (1) \nmelakukan transaksi menggunakan prinsip syariah, Bank \nIndonesia dapat menerbitkan L/C berdasarkan prinsip \nsyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nTransaksi L/C di Bank Indonesia dilaksanakan untuk \npembayaran impor barang dan/atau jasa strategis guna \nmendukung kepentingan nasional. \n(2) \nBarang dan/atau jasa strategis sebagaimana dimaksud \npada ayat (1) meliputi barang dan/atau jasa untuk: \na. \npembangunan infrastruktur; \nb. \npertahanan dan keamanan nasional; \nc. \nkelancaran \nproses \noperasional \nterkait \nkegiatan \ninstansi pemerintah; dan/atau \nd. \nbarang dan/atau jasa strategis lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi L/C di Bank Indonesia dilaksanakan untuk \npembayaran impor barang dan/atau jasa strategis guna \nmendukung kepentingan nasional."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Barang dan/atau jasa strategis sebagaimana dimaksud \npada ayat (1) meliputi barang dan/atau jasa untuk: \na. \npembangunan infrastruktur; \nb. \npertahanan dan keamanan nasional; \nc. \nkelancaran \nproses \noperasional \nterkait \nkegiatan \ninstansi pemerintah; dan/atau \nd. \nbarang dan/atau jasa strategis lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nSumber pembiayaan L/C berasal dari: \na. \nPinjaman; \nb. \nHibah;  \nc. \nRupiah Murni; dan/atau \nd. \nsumber pembiayaan lainnya yang ditetapkan oleh \nKementerian Keuangan Republik Indonesia. \n(2) \nSumber pembiayaan L/C yang berasal dari Pinjaman \nsebagaimana dimaksud pada ayat (1) huruf a berupa: \na. \nPinjaman murni; atau \nb. \nPinjaman campuran.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sumber pembiayaan L/C berasal dari: \na. \nPinjaman; \nb. \nHibah;  \nc. \nRupiah Murni; dan/atau \nd. \nsumber pembiayaan lainnya yang ditetapkan oleh \nKementerian Keuangan Republik Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sumber pembiayaan L/C yang berasal dari Pinjaman \nsebagaimana dimaksud pada ayat (1) huruf a berupa: \na. \nPinjaman murni; atau \nb. \nPinjaman campuran."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nNilai L/C yang sumber pembiayaannya sebagaimana \ndimaksud dalam Pasal 7 diatur dengan ketentuan: \na. \nuntuk pembiayaan yang berasal dari Pinjaman murni, \nnilai L/C harus sama dengan nilai nominal yang \ntercantum dalam SKP L/C; \nb. \nuntuk pembiayaan yang berasal dari Pinjaman \ncampuran, nilai L/C merupakan penjumlahan dari nilai \nnominal pembiayaan RMP dengan nilai nominal yang \ntercantum dalam SKP L/C;  \nc. \nuntuk pembiayaan yang berasal dari Hibah, nilai L/C \nharus sama dengan nilai nominal yang ditetapkan oleh \nKementerian Keuangan Republik Indonesia; dan  \n\n\n \nd. \nuntuk pembiayaan yang berasal dari Rupiah Murni, \nnilai L/C harus sama dengan nilai nominal yang \ntercantum dalam SPP L/C. \n(2) \nSelain ketentuan sebagaimana dimaksud pada ayat (1), \nnilai L/C tidak melebihi nilai nominal yang tercantum \ndalam PKPBJ.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nilai L/C yang sumber pembiayaannya sebagaimana \ndimaksud dalam Pasal 7 diatur dengan ketentuan: \na. \nuntuk pembiayaan yang berasal dari Pinjaman murni, \nnilai L/C harus sama dengan nilai nominal yang \ntercantum dalam SKP L/C; \nb. \nuntuk pembiayaan yang berasal dari Pinjaman \ncampuran, nilai L/C merupakan penjumlahan dari nilai \nnominal pembiayaan RMP dengan nilai nominal yang \ntercantum dalam SKP L/C;  \nc. \nuntuk pembiayaan yang berasal dari Hibah, nilai L/C \nharus sama dengan nilai nominal yang ditetapkan oleh \nKementerian Keuangan Republik Indonesia; dan  \n\n\n \nd. \nuntuk pembiayaan yang berasal dari Rupiah Murni, \nnilai L/C harus sama dengan nilai nominal yang \ntercantum dalam SPP L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain ketentuan sebagaimana dimaksud pada ayat (1), \nnilai L/C tidak melebihi nilai nominal yang tercantum \ndalam PKPBJ."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nDalam hal Nasabah akan mengajukan penerbitan L/C \nyang sumber pembiayaannya berasal dari Pinjaman \ncampuran, dana untuk pembayaran uang muka yang \nberasal dari RMP harus sudah tersedia di Bank Indonesia \nsebelum Nasabah mengajukan permohonan penerbitan \nL/C. \n(2) \nPenyediaan dana untuk pembayaran uang muka yang \nberasal dari RMP sebagaimana dimaksud pada ayat (1) \ndilakukan oleh Kementerian Keuangan Republik Indonesia \ndengan menerbitkan instruksi pembayaran.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Nasabah akan mengajukan penerbitan L/C \nyang sumber pembiayaannya berasal dari Pinjaman \ncampuran, dana untuk pembayaran uang muka yang \nberasal dari RMP harus sudah tersedia di Bank Indonesia \nsebelum Nasabah mengajukan permohonan penerbitan \nL/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyediaan dana untuk pembayaran uang muka yang \nberasal dari RMP sebagaimana dimaksud pada ayat (1) \ndilakukan oleh Kementerian Keuangan Republik Indonesia \ndengan menerbitkan instruksi pembayaran."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "Bank Indonesia hanya dapat menerbitkan L/C jika dalam \nPKPBJ, Perjanjian Pinjaman, Perjanjian Hibah, dan/atau \nkesepakatan \ntertulis \nantara \nBank \nIndonesia \ndengan \nKementerian Keuangan Republik Indonesia dicantumkan cara \npembayaran dilakukan melalui penerbitan L/C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia hanya dapat menerbitkan L/C jika dalam \nPKPBJ, Perjanjian Pinjaman, Perjanjian Hibah, dan/atau \nkesepakatan \ntertulis \nantara \nBank \nIndonesia \ndengan \nKementerian Keuangan Republik Indonesia dicantumkan cara \npembayaran dilakukan melalui penerbitan L/C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nJenis L/C yang diterbitkan oleh Bank Indonesia berbentuk \nsight L/C.  \n(2) \nSight \nL/C \nyang \nditerbitkan \noleh \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (1) bersifat unconfirmed, \nrestricted, dan non-transferable.  \n(3) \nSight L/C dapat diterbitkan berdasarkan prinsip syariah \nsebagaimana dimaksud dalam Pasal 5 ayat (2) atas \npermintaan Aplikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Jenis L/C yang diterbitkan oleh Bank Indonesia berbentuk \nsight L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sight \nL/C \nyang \nditerbitkan \noleh \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (1) bersifat unconfirmed, \nrestricted, dan non-transferable."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sight L/C dapat diterbitkan berdasarkan prinsip syariah \nsebagaimana dimaksud dalam Pasal 5 ayat (2) atas \npermintaan Aplikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nMasa berlaku L/C yang sumber pembiayaannya berasal \ndari Pinjaman sebagaimana dimaksud dalam Pasal 7 ayat \n(1) huruf a dan berasal dari Hibah sebagaimana dimaksud \ndalam Pasal 7 ayat (1) huruf b, tidak melebihi: \na. \nClosing Date;  \nb. \nmasa berlaku SKP L/C; dan \nc. \nmasa berlaku PKPBJ. \n(2) \nMasa berlaku L/C yang sumber pembiayaannya berasal \ndari Rupiah Murni sebagaimana dimaksud dalam Pasal 7 \nayat (1) huruf c, tidak melebihi masa berlaku: \na. \nSPP L/C; dan  \nb. \nPKPBJ. \n(3) \nMasa \nberlaku \nL/C \nyang \nsumber \npembiayaannya \nsebagaimana dimaksud dalam Pasal 7 ayat (1) huruf d \nditetapkan \noleh \nKementerian \nKeuangan \nRepublik \nIndonesia dan tidak melebihi masa berlaku PKPBJ.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Masa berlaku L/C yang sumber pembiayaannya berasal \ndari Pinjaman sebagaimana dimaksud dalam Pasal 7 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf a dan berasal dari Hibah sebagaimana dimaksud \ndalam Pasal 7 ayat (1) huruf b, tidak melebihi: \na. \nClosing Date;  \nb. \nmasa berlaku SKP L/C; dan \nc. \nmasa berlaku PKPBJ."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Masa berlaku L/C yang sumber pembiayaannya berasal \ndari Rupiah Murni sebagaimana dimaksud dalam Pasal 7 \nayat (1) huruf c, tidak melebihi masa berlaku: \na. \nSPP L/C; dan  \nb. \nPKPBJ."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Masa \nberlaku \nL/C \nyang \nsumber \npembiayaannya \nsebagaimana dimaksud dalam Pasal 7 ayat (1) huruf d \nditetapkan \noleh \nKementerian \nKeuangan \nRepublik \nIndonesia dan tidak melebihi masa berlaku PKPBJ."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nBank Penerus (Advising Bank) dan Bank Tertunjuk \n(Nominated Bank) harus memiliki relationship management \napplication dengan Bank Indonesia. \n(2) \nDalam hal Aplikan menunjuk Bank Penerus (Advising \nBank) dan/atau Bank Tertunjuk (Nominated Bank) yang \ntidak \nmemiliki \nrelationship \nmanagement \napplication \ndengan Bank Indonesia, Bank Indonesia meminta Aplikan \nuntuk menunjuk Bank Penerus (Advising Bank) dan/atau \nBank \nTertunjuk \n(Nominated \nBank) \nyang \nmemiliki \nrelationship \nmanagement \napplication \ndengan \nBank \nIndonesia. \n(3) \nDalam hal Bank Indonesia telah meminta Aplikan untuk \nmenunjuk bank lain sebagaimana dimaksud pada ayat (2) \ndan Aplikan tetap menunjuk Bank Penerus (Advising \nBank) dan/atau Bank Tertunjuk (Nominated Bank) yang \nbelum memiliki relationship management application, Bank \nIndonesia dapat menyetujui Bank Penerus (Advising Bank) \ndan/atau Bank Tertunjuk (Nominated Bank) yang belum \nmemiliki relationship management application dengan \nBank Indonesia. \n(4) \nBank Indonesia dapat menggunakan Bank Penerus \n(Advising Bank) dan/atau Bank Tertunjuk (Nominated \nBank) sebagaimana dimaksud pada ayat (3) setelah Bank \nIndonesia membuka relationship management application \ndengan Bank Penerus (Advising Bank) dan/atau Bank \nTertunjuk (Nominated Bank) yang ditunjuk oleh Aplikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Penerus (Advising Bank) dan Bank Tertunjuk \n(Nominated Bank) harus memiliki relationship management \napplication dengan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Aplikan menunjuk Bank Penerus (Advising \nBank) dan/atau Bank Tertunjuk (Nominated Bank) yang \ntidak \nmemiliki \nrelationship \nmanagement \napplication \ndengan Bank Indonesia, Bank Indonesia meminta Aplikan \nuntuk menunjuk Bank Penerus (Advising Bank) dan/atau \nBank \nTertunjuk \n(Nominated \nBank) \nyang \nmemiliki \nrelationship \nmanagement \napplication \ndengan \nBank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank Indonesia telah meminta Aplikan untuk \nmenunjuk bank lain sebagaimana dimaksud pada ayat (2) \ndan Aplikan tetap menunjuk Bank Penerus (Advising \nBank) dan/atau Bank Tertunjuk (Nominated Bank) yang \nbelum memiliki relationship management application, Bank \nIndonesia dapat menyetujui Bank Penerus (Advising Bank) \ndan/atau Bank Tertunjuk (Nominated Bank) yang belum \nmemiliki relationship management application dengan \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia dapat menggunakan Bank Penerus \n(Advising Bank) dan/atau Bank Tertunjuk (Nominated \nBank) sebagaimana dimaksud pada ayat (3) setelah Bank \nIndonesia membuka relationship management application \ndengan Bank Penerus (Advising Bank) dan/atau Bank \nTertunjuk (Nominated Bank) yang ditunjuk oleh Aplikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nPelaksanaan Transaksi L/C di Bank Indonesia dilakukan \nsesuai dengan ketentuan dalam: \na. \nUniform Customs and Practice for Documentary Credit \n(UCPDC) \nversi \nterakhir \nyang \nditerbitkan \noleh \nInternational Chamber of Commerce (ICC); dan \nb. \nInternational Standard Banking Practice (ISBP) versi \nterakhir yang diterbitkan oleh International Chamber \nof Commerce (ICC). \n(2) \nBank Indonesia berwenang mencantumkan persyaratan \ntertentu yang berbeda dengan ketentuan sebagaimana \ndimaksud pada ayat (1) untuk kepentingan Bank \nIndonesia sebagai Bank Penerbit (Issuing Bank) dan/atau \nkepentingan Aplikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan Transaksi L/C di Bank Indonesia dilakukan \nsesuai dengan ketentuan dalam: \na. \nUniform Customs and Practice for Documentary Credit \n(UCPDC) \nversi \nterakhir \nyang \nditerbitkan \noleh \nInternational Chamber of Commerce (ICC); dan \nb. \nInternational Standard Banking Practice (ISBP) versi \nterakhir yang diterbitkan oleh International Chamber \nof Commerce (ICC)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia berwenang mencantumkan persyaratan \ntertentu yang berbeda dengan ketentuan sebagaimana \ndimaksud pada ayat (1) untuk kepentingan Bank \nIndonesia sebagai Bank Penerbit (Issuing Bank) dan/atau \nkepentingan Aplikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRINSIP UMUM TRANSAKSI L/C",
+      "teks_lengkap": "Kegiatan dalam Transaksi L/C di Bank Indonesia meliputi: \na. \npenerbitan L/C; \nb. \npembayaran tagihan L/C;  \nc. \nperubahan L/C; dan  \nd. \npenutupan L/C. \n \n \n \n \n \n \n \n\n\n \nBAB IV \nPENERBITAN L/C \n \nBagian Kesatu \nPermohonan Penerbitan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kegiatan dalam Transaksi L/C di Bank Indonesia meliputi: \na. \npenerbitan L/C; \nb. \npembayaran tagihan L/C;  \nc. \nperubahan L/C; dan  \nd. \npenutupan L/C. \n \n \n \n \n \n \n \n\n\n \nBAB IV \nPENERBITAN L/C \n \nBagian Kesatu \nPermohonan Penerbitan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "(1) \nUntuk melakukan Transaksi L/C di Bank Indonesia, \nAplikan harus mengajukan permohonan penerbitan L/C.  \n(2) \nPengajuan permohonan penerbitan L/C sebagaimana \ndimaksud pada ayat (1) dilakukan melalui ALBI. \n(3) \nDalam hal Aplikan tidak dapat menggunakan ALBI atau \ntidak \nmemenuhi \npersyaratan \nmemperoleh \nALBI \nsebagaimana diatur dalam ketentuan Peraturan Anggota \nDewan Gubernur mengenai penyelenggaraan aplikasi \nlayanan \nBank \nIndonesia, \npengajuan \npermohonan \npenerbitan L/C disampaikan kepada Bank Indonesia \nmelalui sarana elektronik atau dalam bentuk salinan \nkeras.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk melakukan Transaksi L/C di Bank Indonesia, \nAplikan harus mengajukan permohonan penerbitan L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan permohonan penerbitan L/C sebagaimana \ndimaksud pada ayat (1) dilakukan melalui ALBI."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Aplikan tidak dapat menggunakan ALBI atau \ntidak \nmemenuhi \npersyaratan \nmemperoleh \nALBI \nsebagaimana diatur dalam ketentuan Peraturan Anggota \nDewan Gubernur mengenai penyelenggaraan aplikasi \nlayanan \nBank \nIndonesia, \npengajuan \npermohonan \npenerbitan L/C disampaikan kepada Bank Indonesia \nmelalui sarana elektronik atau dalam bentuk salinan \nkeras."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "(1) \nPermohonan penerbitan L/C sebagaimana dimaksud \ndalam Pasal 16 disertai dengan dokumen pendukung \nberupa: \na. \nformulir \npermohonan \npenerbitan \nL/C \nyang \nditandatangani oleh Pejabat yang Mewakili yang telah \nmemiliki spesimen tanda tangan di Bank Indonesia \nsesuai \nformat \nsebagaimana \ntercantum \ndalam \nLampiran I yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini; \nb. \nresume of contract atau ringkasan informasi PKPBJ \nyang ditandatangani oleh Pejabat yang Mewakili yang \ntelah memiliki spesimen tanda tangan di Bank \nIndonesia; \nc. \nsurat pernyataan penerapan prinsip kehati-hatian \nyang dibuat oleh Aplikan yang ditandatangani oleh \nPejabat yang Mewakili yang telah memiliki spesimen \ntanda tangan di Bank Indonesia sesuai format \nsebagaimana tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini; \nd. \nsurat \npernyataan \nsetuju \nterhadap \npenerbitan \ndan/atau perubahan L/C di Bank Indonesia yang \nditandatangani oleh Pejabat yang Mewakili yang telah \nmemiliki spesimen tanda tangan di Bank Indonesia \nsesuai \nformat \nsebagaimana \ntercantum \ndalam \nLampiran \nIII \nyang \nmerupakan \nbagian \ntidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur \nini; \ne. \nuntuk L/C berdasarkan prinsip syariah, surat \npernyataan setuju terhadap penerbitan dan/atau \nperubahan L/C di Bank Indonesia sebagaimana \ndimaksud dalam huruf d diganti dengan akad \npenerbitan \nL/C \ndi \nBank \nIndonesia \nyang \nditandatangani oleh Pejabat yang Mewakili yang telah \nmemiliki spesimen tanda tangan di Bank Indonesia \n\n\n \nsesuai \nformat \nsebagaimana \ntercantum \ndalam \nLampiran \nIV \nyang \nmerupakan \nbagian \ntidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur \nini; \nf. \nbukti pembayaran biaya penerbitan L/C; \ng. \nfotokopi PKPBJ dan perubahannya apabila ada; dan \nh. \ndokumen lainnya dalam hal diperlukan. \n(2) \nSelain menyampaikan dokumen pendukung sebagaimana \ndimaksud pada ayat (1), permohonan penerbitan L/C \ndengan sumber pembiayaan L/C berasal dari Hibah \nsebagaimana dimaksud dalam Pasal 7 ayat (1) huruf b \natau berupa Pinjaman murni sebagaimana dimaksud \ndalam Pasal 7 ayat (2) huruf a harus disertai dengan \ndokumen pendukung tambahan berupa: \na. \nSKP L/C; dan  \nb. \nfotokopi \nPerjanjian \nHibah \ndan/atau \nPerjanjian \nPinjaman serta perubahannya apabila ada. \n(3) \nSelain menyampaikan dokumen pendukung sebagaimana \ndimaksud pada ayat (1), permohonan penerbitan L/C \ndengan sumber pembiayaan L/C berasal dari Pinjaman \ncampuran sebagaimana dimaksud dalam Pasal 7 ayat (2) \nhuruf b harus disertai dengan dokumen pendukung \ntambahan berupa:  \na. \nSKP L/C; \nb. \nfotokopi instruksi pembayaran; dan  \nc. \nfotokopi Perjanjian Pinjaman dan/atau Perjanjian \nHibah serta perubahannya apabila ada. \n(4) \nSelain menyampaikan dokumen pendukung sebagaimana \ndimaksud pada ayat (1), permohonan penerbitan L/C \ndengan sumber pembiayaan L/C berasal dari Rupiah \nMurni sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf \nc harus disertai dengan dokumen pendukung tambahan \nberupa SPP L/C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan penerbitan L/C sebagaimana dimaksud \ndalam Pasal 16 disertai dengan dokumen pendukung \nberupa: \na. \nformulir \npermohonan \npenerbitan \nL/C \nyang \nditandatangani oleh Pejabat yang Mewakili yang telah \nmemiliki spesimen tanda tangan di Bank Indonesia \nsesuai \nformat \nsebagaimana \ntercantum \ndalam \nLampiran I yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini; \nb. \nresume of contract atau ringkasan informasi PKPBJ \nyang ditandatangani oleh Pejabat yang Mewakili yang \ntelah memiliki spesimen tanda tangan di Bank \nIndonesia; \nc. \nsurat pernyataan penerapan prinsip kehati-hatian \nyang dibuat oleh Aplikan yang ditandatangani oleh \nPejabat yang Mewakili yang telah memiliki spesimen \ntanda tangan di Bank Indonesia sesuai format \nsebagaimana tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini; \nd. \nsurat \npernyataan \nsetuju \nterhadap \npenerbitan \ndan/atau perubahan L/C di Bank Indonesia yang \nditandatangani oleh Pejabat yang Mewakili yang telah \nmemiliki spesimen tanda tangan di Bank Indonesia \nsesuai \nformat \nsebagaimana \ntercantum \ndalam \nLampiran \nIII \nyang \nmerupakan \nbagian \ntidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur \nini; \ne. \nuntuk L/C berdasarkan prinsip syariah, surat \npernyataan setuju terhadap penerbitan dan/atau \nperubahan L/C di Bank Indonesia sebagaimana \ndimaksud dalam huruf d diganti dengan akad \npenerbitan \nL/C \ndi \nBank \nIndonesia \nyang \nditandatangani oleh Pejabat yang Mewakili yang telah \nmemiliki spesimen tanda tangan di Bank Indonesia \n\n\n \nsesuai \nformat \nsebagaimana \ntercantum \ndalam \nLampiran \nIV \nyang \nmerupakan \nbagian \ntidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur \nini; \nf. \nbukti pembayaran biaya penerbitan L/C; \ng. \nfotokopi PKPBJ dan perubahannya apabila ada; dan \nh. \ndokumen lainnya dalam hal diperlukan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain menyampaikan dokumen pendukung sebagaimana \ndimaksud pada ayat (1), permohonan penerbitan L/C \ndengan sumber pembiayaan L/C berasal dari Hibah \nsebagaimana dimaksud dalam Pasal 7 ayat (1) huruf b \natau berupa Pinjaman murni sebagaimana dimaksud \ndalam Pasal 7 ayat (2) huruf a harus disertai dengan \ndokumen pendukung tambahan berupa: \na. \nSKP L/C; dan  \nb. \nfotokopi \nPerjanjian \nHibah \ndan/atau \nPerjanjian \nPinjaman serta perubahannya apabila ada."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Selain menyampaikan dokumen pendukung sebagaimana \ndimaksud pada ayat (1), permohonan penerbitan L/C \ndengan sumber pembiayaan L/C berasal dari Pinjaman \ncampuran sebagaimana dimaksud dalam Pasal 7 ayat (2) \nhuruf b harus disertai dengan dokumen pendukung \ntambahan berupa:  \na. \nSKP L/C; \nb. \nfotokopi instruksi pembayaran; dan  \nc. \nfotokopi Perjanjian Pinjaman dan/atau Perjanjian \nHibah serta perubahannya apabila ada."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Selain menyampaikan dokumen pendukung sebagaimana \ndimaksud pada ayat (1), permohonan penerbitan L/C \ndengan sumber pembiayaan L/C berasal dari Rupiah \nMurni sebagaimana dimaksud dalam Pasal 7 ayat (1) huruf \nc harus disertai dengan dokumen pendukung tambahan \nberupa SPP L/C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "Penyampaian dokumen sebagaimana dimaksud dalam Pasal 17 \ndiatur dengan ketentuan: \na. \ndokumen sebagaimana dimaksud dalam Pasal 17 ayat (1) \nhuruf a dan huruf b disampaikan melalui ALBI oleh \nAplikan; \nb. \ndokumen sebagaimana dimaksud dalam Pasal 17 ayat (1) \nhuruf c, huruf d, huruf e, huruf f, huruf g, dan huruf h, \nPasal 17 ayat (2) huruf b, serta Pasal 17 ayat (3) huruf b \ndan huruf c disampaikan dalam bentuk salinan keras oleh \nAplikan; dan \nc. \ndokumen sebagaimana dimaksud dalam Pasal 17 ayat (2) \nhuruf a, Pasal 17 ayat (3) huruf a, dan Pasal 17 ayat (4) \ndisampaikan dalam bentuk salinan keras oleh Kantor \nPelayanan Perbendaharaan Negara (KPPN) atau oleh \nAplikan. \n \n \n \n \n \n \n\n\n \nBagian Kedua \nPersetujuan atau Penolakan Penerbitan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyampaian dokumen sebagaimana dimaksud dalam Pasal 17 \ndiatur dengan ketentuan: \na. \ndokumen sebagaimana dimaksud dalam Pasal 17 ayat (1) \nhuruf a dan huruf b disampaikan melalui ALBI oleh \nAplikan; \nb. \ndokumen sebagaimana dimaksud dalam Pasal 17 ayat (1) \nhuruf c, huruf d, huruf e, huruf f, huruf g, dan huruf h, \nPasal 17 ayat (2) huruf b, serta Pasal 17 ayat (3) huruf b \ndan huruf c disampaikan dalam bentuk salinan keras oleh \nAplikan; dan \nc. \ndokumen sebagaimana dimaksud dalam Pasal 17 ayat (2) \nhuruf a, Pasal 17 ayat (3) huruf a, dan Pasal 17 ayat (4) \ndisampaikan dalam bentuk salinan keras oleh Kantor \nPelayanan Perbendaharaan Negara (KPPN) atau oleh \nAplikan. \n \n \n \n \n \n \n\n\n \nBagian Kedua \nPersetujuan atau Penolakan Penerbitan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "(1) \nBank Indonesia menyetujui atau menolak permohonan \npenerbitan L/C sebagaimana dimaksud dalam Pasal 16. \n(2) \nPersetujuan atau penolakan permohonan penerbitan L/C \nsebagaimana dimaksud pada ayat (1) dilakukan setelah \nmempertimbangkan:  \na. \npenelitian kelengkapan dan kebenaran dokumen \npendukung dan dokumen pendukung tambahan; dan  \nb. \npenerapan prinsip kehati-hatian terhadap Penyedia \nBarang atau Jasa (Beneficiary) yang merupakan \ncounterpart Aplikan, Bank Penerus (Advising Bank), \ndan/atau Bank Tertunjuk (Nominated Bank).  \n(3) \nDalam hal Bank Indonesia menyetujui permohonan \npenerbitan L/C berdasarkan prinsip syariah, pejabat Bank \nIndonesia menandatangani akad penerbitan L/C di Bank \nIndonesia sebagaimana dimaksud dalam Pasal 17 ayat (1) \nhuruf e sebagai bentuk akad antara Bank Indonesia \ndengan Aplikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menyetujui atau menolak permohonan \npenerbitan L/C sebagaimana dimaksud dalam Pasal 16."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persetujuan atau penolakan permohonan penerbitan L/C \nsebagaimana dimaksud pada ayat (1) dilakukan setelah \nmempertimbangkan:  \na. \npenelitian kelengkapan dan kebenaran dokumen \npendukung dan dokumen pendukung tambahan; dan  \nb. \npenerapan prinsip kehati-hatian terhadap Penyedia \nBarang atau Jasa (Beneficiary) yang merupakan \ncounterpart Aplikan, Bank Penerus (Advising Bank), \ndan/atau Bank Tertunjuk (Nominated Bank)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank Indonesia menyetujui permohonan \npenerbitan L/C berdasarkan prinsip syariah, pejabat Bank \nIndonesia menandatangani akad penerbitan L/C di Bank \nIndonesia sebagaimana dimaksud dalam Pasal 17 ayat (1) \nhuruf e sebagai bentuk akad antara Bank Indonesia \ndengan Aplikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "(1) \nDalam hal dokumen pendukung dan/atau dokumen \npendukung tambahan sebagaimana dimaksud dalam \nPasal 17 belum lengkap dan/atau belum benar, Aplikan \nharus melengkapi, memperbaiki, dan/atau memperbarui \ndokumen pendukung dan/atau dokumen pendukung \ntambahan. \n(2) \nAplikan menyampaikan dokumen pendukung dan/atau \ndokumen pendukung tambahan yang telah dilengkapi, \ndiperbaiki, dan/atau diperbarui sebagaimana dimaksud \npada ayat (1) melalui sarana sebagaimana dimaksud \ndalam Pasal 18.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal dokumen pendukung dan/atau dokumen \npendukung tambahan sebagaimana dimaksud dalam \nPasal 17 belum lengkap dan/atau belum benar, Aplikan \nharus melengkapi, memperbaiki, dan/atau memperbarui \ndokumen pendukung dan/atau dokumen pendukung \ntambahan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Aplikan menyampaikan dokumen pendukung dan/atau \ndokumen pendukung tambahan yang telah dilengkapi, \ndiperbaiki, dan/atau diperbarui sebagaimana dimaksud \npada ayat (1) melalui sarana sebagaimana dimaksud \ndalam Pasal 18."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "(1) \nDalam penerapan prinsip kehati-hatian sebagaimana \ndimaksud dalam Pasal 19 ayat (2) huruf b, Bank Indonesia \nmeminta Aplikan untuk memastikan Penyedia Barang \natau Jasa (Beneficiary) yang merupakan counterpart \nAplikan, Bank Penerus (Advising Bank), dan/atau Bank \nTertunjuk (Nominated Bank) telah memenuhi prinsip \nkehati-hatian. \n(2) \nPemenuhan prinsip kehati-hatian sebagaimana dimaksud \npada ayat (1) dilakukan dengan cara identifikasi dan \nverifikasi atas profil counterpart Nasabah, Bank Penerus \n(Advising Bank), dan/atau Bank Tertunjuk (Nominated \nBank). \n(3) \nAplikan \nharus \nmembuat \nsurat \npernyataan \ntelah \nmelakukan \nidentifikasi \ndan \nverifikasi \nsebagaimana \ndimaksud pada ayat (2) yang disampaikan kepada Bank \nIndonesia sesuai format sebagaimana tercantum dalam \nLampiran II.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penerapan prinsip kehati-hatian sebagaimana \ndimaksud dalam Pasal 19 ayat (2) huruf b, Bank Indonesia \nmeminta Aplikan untuk memastikan Penyedia Barang \natau Jasa (Beneficiary) yang merupakan counterpart \nAplikan, Bank Penerus (Advising Bank), dan/atau Bank \nTertunjuk (Nominated Bank) telah memenuhi prinsip \nkehati-hatian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemenuhan prinsip kehati-hatian sebagaimana dimaksud \npada ayat (1) dilakukan dengan cara identifikasi dan \nverifikasi atas profil counterpart Nasabah, Bank Penerus \n(Advising Bank), dan/atau Bank Tertunjuk (Nominated \nBank)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Aplikan \nharus \nmembuat \nsurat \npernyataan \ntelah \nmelakukan \nidentifikasi \ndan \nverifikasi \nsebagaimana \ndimaksud pada ayat (2) yang disampaikan kepada Bank \nIndonesia sesuai format sebagaimana tercantum dalam \nLampiran II."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "(1) \nDalam hal Bank Indonesia menyetujui permohonan \npenerbitan L/C yang diajukan oleh Aplikan sebagaimana \ndimaksud dalam Pasal 16 ayat (1), Bank Indonesia \nmenerbitkan \nL/C \ndengan \nmenggunakan \nsarana \ninternational standard messaging. \n(2) \nPenerbitan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan paling lama 3 (tiga) hari kerja setelah dokumen \npendukung \ndan \ndokumen \npendukung \ntambahan \ndinyatakan lengkap dan benar.  \n(3) \nBank Indonesia menyampaikan salinan L/C kepada \nKementerian Keuangan Republik Indonesia dan Aplikan \nmelalui surat elektronik disertai dengan unggahan \ndokumen.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank Indonesia menyetujui permohonan \npenerbitan L/C yang diajukan oleh Aplikan sebagaimana \ndimaksud dalam Pasal 16 ayat (1), Bank Indonesia \nmenerbitkan \nL/C \ndengan \nmenggunakan \nsarana \ninternational standard messaging."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerbitan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan paling lama 3 (tiga) hari kerja setelah dokumen \npendukung \ndan \ndokumen \npendukung \ntambahan \ndinyatakan lengkap dan benar."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menyampaikan salinan L/C kepada \nKementerian Keuangan Republik Indonesia dan Aplikan \nmelalui surat elektronik disertai dengan unggahan \ndokumen."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERBITAN L/C",
+      "teks_lengkap": "Bank Indonesia dan Aplikan melakukan penerapan prinsip \nkehati-hatian \nsecara \nberkelanjutan \nberupa \npemantauan \nterhadap profil Penyedia Barang atau Jasa (Beneficiary) yang \nmerupakan counterpart Aplikan, Bank Penerus (Advising Bank), \ndan/atau Bank Tertunjuk (Nominated Bank).  \n \nBAB V \nPEMBAYARAN TAGIHAN L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dan Aplikan melakukan penerapan prinsip \nkehati-hatian \nsecara \nberkelanjutan \nberupa \npemantauan \nterhadap profil Penyedia Barang atau Jasa (Beneficiary) yang \nmerupakan counterpart Aplikan, Bank Penerus (Advising Bank), \ndan/atau Bank Tertunjuk (Nominated Bank).  \n \nBAB V \nPEMBAYARAN TAGIHAN L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "Bank Indonesia melakukan pembayaran tagihan L/C melalui \ntahapan: \na. \npenerimaan dokumen tagihan L/C; dan \nb. \npemeriksaan dokumen tagihan L/C. \n \nBagian Kesatu \nPenerimaan Dokumen Tagihan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melakukan pembayaran tagihan L/C melalui \ntahapan: \na. \npenerimaan dokumen tagihan L/C; dan \nb. \npemeriksaan dokumen tagihan L/C. \n \nBagian Kesatu \nPenerimaan Dokumen Tagihan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmenerima \ndokumen \ntagihan \nL/C \nsebagaimana dimaksud dalam Pasal 24 huruf a dari: \na. \nBank Penerus (Advising Bank) atau Bank Tertunjuk \n(Nominated Bank); \nb. \nPenyedia Barang atau Jasa (Beneficiary); atau \nc. \npihak yang ditunjuk oleh Penyedia Barang atau Jasa \n(Beneficiary). \n(2) \nDalam hal penerimaan dokumen tagihan L/C diterima dari \nPenyedia Barang atau Jasa (Beneficiary) atau pihak yang \nditunjuk oleh Penyedia Barang atau Jasa (Beneficiary), \ndokumen tagihan harus menyertakan dokumen pengantar \n(cover letter) yang berasal dari Bank Penerus (Advising \nBank) atau Bank Tertunjuk (Nominated Bank). \n \n \n \n \n \n \n \n \n\n\n \nBagian Kedua  \nPemeriksaan Dokumen Tagihan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmenerima \ndokumen \ntagihan \nL/C \nsebagaimana dimaksud dalam Pasal 24 huruf a dari: \na. \nBank Penerus (Advising Bank) atau Bank Tertunjuk \n(Nominated Bank); \nb. \nPenyedia Barang atau Jasa (Beneficiary); atau \nc. \npihak yang ditunjuk oleh Penyedia Barang atau Jasa \n(Beneficiary)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal penerimaan dokumen tagihan L/C diterima dari \nPenyedia Barang atau Jasa (Beneficiary) atau pihak yang \nditunjuk oleh Penyedia Barang atau Jasa (Beneficiary), \ndokumen tagihan harus menyertakan dokumen pengantar \n(cover letter) yang berasal dari Bank Penerus (Advising \nBank) atau Bank Tertunjuk (Nominated Bank). \n \n \n \n \n \n \n \n \n\n\n \nBagian Kedua  \nPemeriksaan Dokumen Tagihan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmelakukan \npemeriksaan \ndokumen \ntagihan L/C sebagaimana dimaksud dalam Pasal 24 huruf \nb untuk menentukan Complying Presentation. \n(2) \nPemeriksaan \ndokumen \ntagihan \nL/C \nsebagaimana \ndimaksud pada ayat (1) dilakukan paling lama 5 (lima) hari \nkerja setelah dokumen tagihan L/C diterima oleh Bank \nIndonesia. \n(3) \nDokumen tagihan L/C sebagaimana dimaksud pada ayat \n(1) diterima oleh Bank Indonesia pada jam operasional \nyang ditentukan oleh Bank Indonesia. \n(4) \nDalam hal penerimaan dokumen tagihan L/C melebihi \nbatas waktu sebagaimana dimaksud pada ayat (3), \npenerimaan dokumen tagihan L/C dicatat pada hari kerja \nberikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmelakukan \npemeriksaan \ndokumen \ntagihan L/C sebagaimana dimaksud dalam Pasal 24 huruf \nb untuk menentukan Complying Presentation."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeriksaan \ndokumen \ntagihan \nL/C \nsebagaimana \ndimaksud pada ayat (1) dilakukan paling lama 5 (lima) hari \nkerja setelah dokumen tagihan L/C diterima oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dokumen tagihan L/C sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "diterima oleh Bank Indonesia pada jam operasional \nyang ditentukan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal penerimaan dokumen tagihan L/C melebihi \nbatas waktu sebagaimana dimaksud pada ayat (3), \npenerimaan dokumen tagihan L/C dicatat pada hari kerja \nberikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "(1) \nDalam hal Bank Indonesia menemukan Diskrepansi pada \nhasil pemeriksaan dokumen tagihan L/C, Bank Indonesia \nmemberitahukan \nadanya \nDiskrepansi \nkepada \nBank \nPenerus (Advising Bank) dan/atau Bank Tertunjuk \n(Nominated Bank) serta kepada Aplikan. \n(2) \nBank Indonesia memberitahukan adanya Diskrepansi \nkepada Aplikan sebagaimana dimaksud pada ayat (1) \ndisertai dengan permintaan persetujuan atau penolakan \nAplikan untuk melakukan pembayaran tagihan L/C \nterhadap dokumen yang terdapat Diskrepansi. \n(3) \nPemberitahuan adanya Diskrepansi kepada Aplikan \nsebagaimana dimaksud pada ayat (2) dilakukan melalui \nsurat elektronik dengan melampirkan dokumen tagihan \nL/C yang ditemukan Diskrepansi. \n(4) \nAplikan menyampaikan persetujuan atau penolakan \nuntuk melakukan pembayaran tagihan L/C sebagaimana \ndimaksud pada ayat (2) dalam bentuk salinan keras \nkepada Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank Indonesia menemukan Diskrepansi pada \nhasil pemeriksaan dokumen tagihan L/C, Bank Indonesia \nmemberitahukan \nadanya \nDiskrepansi \nkepada \nBank \nPenerus (Advising Bank) dan/atau Bank Tertunjuk \n(Nominated Bank) serta kepada Aplikan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia memberitahukan adanya Diskrepansi \nkepada Aplikan sebagaimana dimaksud pada ayat (1) \ndisertai dengan permintaan persetujuan atau penolakan \nAplikan untuk melakukan pembayaran tagihan L/C \nterhadap dokumen yang terdapat Diskrepansi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemberitahuan adanya Diskrepansi kepada Aplikan \nsebagaimana dimaksud pada ayat (2) dilakukan melalui \nsurat elektronik dengan melampirkan dokumen tagihan \nL/C yang ditemukan Diskrepansi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Aplikan menyampaikan persetujuan atau penolakan \nuntuk melakukan pembayaran tagihan L/C sebagaimana \ndimaksud pada ayat (2) dalam bentuk salinan keras \nkepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "(1) \nDalam hal Aplikan menyetujui Diskrepansi, berlaku \nketentuan: \na. \nsurat persetujuan ditandatangani oleh Pejabat yang \nMewakili yang telah memiliki spesimen tanda tangan \ndi Bank Indonesia; dan \nb. \npersetujuan disampaikan kepada Bank Indonesia \npaling lama 21 (dua puluh satu) hari kerja setelah \ntanggal pemberitahuan Diskrepansi.  \n(2) \nDalam \nhal \nAplikan \nmenolak \nDiskrepansi, \nberlaku \nketentuan: \na. \nsurat penolakan ditandatangani oleh Pejabat yang \nMewakili yang telah memiliki spesimen tanda tangan \ndi Bank Indonesia;  \nb. \npenolakan disampaikan kepada Bank Indonesia \npaling lama 21 (dua puluh satu) hari kerja setelah \ntanggal pemberitahuan Diskrepansi; \n\n\n \nc. \nBank Indonesia menyampaikan informasi penolakan \npembayaran tagihan L/C dari Aplikan kepada Bank \nPenerus (Advising Bank) atau Bank Tertunjuk \n(Nominated Bank); dan \nd. \napabila terdapat permintaan dari Bank Penerus \n(Advising Bank) dan/atau Bank Tertunjuk (Nominated \nBank), Bank Indonesia mengembalikan seluruh \ndokumen tagihan L/C kepada pengirim dokumen \nsebagaimana dimaksud dalam Pasal 25 ayat (1)  \nhuruf a.  \n(3) \nDalam \nhal \nAplikan \nbelum \ndapat \nmenyampaikan \npersetujuan sebagaimana dimaksud pada ayat (1) atau \npenolakan sebagaimana dimaksud pada ayat (2) sesuai \njangka waktu sebagaimana dimaksud pada ayat (1) huruf \nb dan ayat (2) huruf b, diatur ketentuan: \na. \nAplikan harus menginformasikan kepada Bank \nIndonesia \nalasan \nbelum \ndapat \nmemberikan \npersetujuan atau penolakan atas Diskrepansi; \nb. \ninformasi tentang alasan belum dapat memberikan \npersetujuan \natau \npenolakan \natas \nDiskrepansi \nsebagaimana dimaksud dalam huruf a disampaikan \nkepada Bank Indonesia dalam kurun waktu 21 (dua \npuluh satu) hari kerja setelah tanggal pemberitahuan \nDiskrepansi melalui sarana elektronik atau dalam \nbentuk salinan keras; dan \nc. \ndalam \nhal \nAplikan \nbelum \ndapat \nmemberikan \npersetujuan \natau \npenolakan \natas \nDiskrepansi \nsebagaimana dimaksud dalam huruf b, Aplikan harus \nmenyampaikan \nkembali \nalasan \nbelum \ndapat \nmemberikan \npersetujuan \natau \npenolakan \natas \nDiskrepansi paling lambat setiap 21 (dua puluh satu) \nhari kerja sampai Aplikan dapat menyampaikan \npersetujuan sebagaimana dimaksud pada ayat (1) \natau penolakan sebagaimana dimaksud pada ayat (2). \n \nBagian Ketiga \nPembayaran Tagihan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Aplikan menyetujui Diskrepansi, berlaku \nketentuan: \na. \nsurat persetujuan ditandatangani oleh Pejabat yang \nMewakili yang telah memiliki spesimen tanda tangan \ndi Bank Indonesia; dan \nb. \npersetujuan disampaikan kepada Bank Indonesia \npaling lama 21 (dua puluh satu) hari kerja setelah \ntanggal pemberitahuan Diskrepansi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \nAplikan \nmenolak \nDiskrepansi, \nberlaku \nketentuan: \na. \nsurat penolakan ditandatangani oleh Pejabat yang \nMewakili yang telah memiliki spesimen tanda tangan \ndi Bank Indonesia;  \nb. \npenolakan disampaikan kepada Bank Indonesia \npaling lama 21 (dua puluh satu) hari kerja setelah \ntanggal pemberitahuan Diskrepansi; \n\n\n \nc. \nBank Indonesia menyampaikan informasi penolakan \npembayaran tagihan L/C dari Aplikan kepada Bank \nPenerus (Advising Bank) atau Bank Tertunjuk \n(Nominated Bank); dan \nd. \napabila terdapat permintaan dari Bank Penerus \n(Advising Bank) dan/atau Bank Tertunjuk (Nominated \nBank), Bank Indonesia mengembalikan seluruh \ndokumen tagihan L/C kepada pengirim dokumen \nsebagaimana dimaksud dalam Pasal 25 ayat (1)  \nhuruf a."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \nAplikan \nbelum \ndapat \nmenyampaikan \npersetujuan sebagaimana dimaksud pada ayat (1) atau \npenolakan sebagaimana dimaksud pada ayat (2) sesuai \njangka waktu sebagaimana dimaksud pada ayat (1) huruf \nb dan ayat (2) huruf b, diatur ketentuan: \na. \nAplikan harus menginformasikan kepada Bank \nIndonesia \nalasan \nbelum \ndapat \nmemberikan \npersetujuan atau penolakan atas Diskrepansi; \nb. \ninformasi tentang alasan belum dapat memberikan \npersetujuan \natau \npenolakan \natas \nDiskrepansi \nsebagaimana dimaksud dalam huruf a disampaikan \nkepada Bank Indonesia dalam kurun waktu 21 (dua \npuluh satu) hari kerja setelah tanggal pemberitahuan \nDiskrepansi melalui sarana elektronik atau dalam \nbentuk salinan keras; dan \nc. \ndalam \nhal \nAplikan \nbelum \ndapat \nmemberikan \npersetujuan \natau \npenolakan \natas \nDiskrepansi \nsebagaimana dimaksud dalam huruf b, Aplikan harus \nmenyampaikan \nkembali \nalasan \nbelum \ndapat \nmemberikan \npersetujuan \natau \npenolakan \natas \nDiskrepansi paling lambat setiap 21 (dua puluh satu) \nhari kerja sampai Aplikan dapat menyampaikan \npersetujuan sebagaimana dimaksud pada ayat (1) \natau penolakan sebagaimana dimaksud pada ayat (2). \n \nBagian Ketiga \nPembayaran Tagihan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "Bank Indonesia melakukan pembayaran tagihan L/C dalam hal \ndokumen tagihan L/C: \na. \nsudah dinyatakan memenuhi Complying Presentation; \natau \nb. \ntelah mendapatkan persetujuan pembayaran oleh Aplikan \ndalam hal terdapat Diskrepansi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melakukan pembayaran tagihan L/C dalam hal \ndokumen tagihan L/C: \na. \nsudah dinyatakan memenuhi Complying Presentation; \natau \nb. \ntelah mendapatkan persetujuan pembayaran oleh Aplikan \ndalam hal terdapat Diskrepansi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "(1) \nSelain ketentuan sebagaimana dimaksud dalam Pasal 29, \npembayaran \ntagihan \nL/C \ndilakukan \nberdasarkan \npemenuhan syarat dan ketentuan dari masing-masing \nsumber pembiayaan L/C.  \n(2) \nPembayaran tagihan L/C sebagaimana dimaksud pada \nayat (1) yang sumber pembiayaannya berasal dari \nPinjaman dan/atau Hibah, diatur dengan ketentuan: \na. \nmasa berlaku L/C belum berakhir; \nb. \nmasa berlaku SKP L/C belum berakhir; \n\n\n \nc. \nPerjanjian Pinjaman dan/atau Perjanjian Hibah telah \ndinyatakan efektif berdasarkan surat yang diterima \ndari Kementerian Keuangan Republik Indonesia; \nd. \nClosing Date belum terlampaui;  \ne. \nsyarat dan kondisi Perjanjian Pinjaman dan/atau \nPerjanjian Hibah telah dipenuhi;  \nf. \ndalam hal pemberi PHLN mensyaratkan adanya \nLetcom \natau \ndokumen \nyang \ndipersamakan, \npembayaran tagihan L/C baru dapat dilakukan \nsetelah Bank Penerus (Advising Bank) atau Bank \nTertunjuk (Nominated Bank) menerima Letcom atau \ndokumen yang dipersamakan dari Pemberi PHLN; \ng. \ndalam hal penerbitan L/C menggunakan tata cara \nrekening khusus, dana pembayaran tagihan L/C \ntelah tersedia di rekening Bank Indonesia; dan \nh. \ndalam hal masa berlaku L/C dan SKP L/C \nsebagaimana dimaksud dalam huruf a dan huruf b \ntelah \nberakhir \nserta \nClosing \nDate \nterlampaui \nsebagaimana dimaksud dalam huruf d, Bank \nIndonesia dapat melakukan pembayaran tagihan L/C \nsepanjang tagihan L/C telah dibayarkan oleh Pemberi \nPHLN yang juga bertindak sebagai Bank Penerus \n(Advising Bank) atau Bank Tertunjuk (Nominated \nBank). \n(3) \nPembayaran tagihan L/C sebagaimana dimaksud pada \nayat (1) yang sumber pembiayaannya berasal dari Rupiah \nMurni, diatur dengan ketentuan: \na. \nmasa berlaku L/C belum berakhir; \nb. \nmasa berlaku SPP L/C belum berakhir;  \nc. \ndana pembayaran tagihan L/C telah tersedia di \nrekening Bank Indonesia; \nd. \npembayaran tagihan L/C dilakukan berdasarkan \nketentuan \nperaturan \nKementerian \nKeuangan \nRepublik Indonesia mengenai pembayaran tagihan \nL/C yang sumber pembiayaannya berasal dari \nRupiah Murni; dan \ne. \ndalam hal penyelesaian pekerjaan proyek pemerintah \nmelampaui akhir tahun Anggaran Pendapatan dan \nBelanja Negara, Bank Indonesia dapat melakukan \npembayaran tagihan L/C sesuai perintah Kantor \nPelayanan Perbendaharaan Negara (KPPN).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Selain ketentuan sebagaimana dimaksud dalam Pasal 29, \npembayaran \ntagihan \nL/C \ndilakukan \nberdasarkan \npemenuhan syarat dan ketentuan dari masing-masing \nsumber pembiayaan L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembayaran tagihan L/C sebagaimana dimaksud pada \nayat (1) yang sumber pembiayaannya berasal dari \nPinjaman dan/atau Hibah, diatur dengan ketentuan: \na. \nmasa berlaku L/C belum berakhir; \nb. \nmasa berlaku SKP L/C belum berakhir; \n\n\n \nc. \nPerjanjian Pinjaman dan/atau Perjanjian Hibah telah \ndinyatakan efektif berdasarkan surat yang diterima \ndari Kementerian Keuangan Republik Indonesia; \nd. \nClosing Date belum terlampaui;  \ne. \nsyarat dan kondisi Perjanjian Pinjaman dan/atau \nPerjanjian Hibah telah dipenuhi;  \nf. \ndalam hal pemberi PHLN mensyaratkan adanya \nLetcom \natau \ndokumen \nyang \ndipersamakan, \npembayaran tagihan L/C baru dapat dilakukan \nsetelah Bank Penerus (Advising Bank) atau Bank \nTertunjuk (Nominated Bank) menerima Letcom atau \ndokumen yang dipersamakan dari Pemberi PHLN; \ng. \ndalam hal penerbitan L/C menggunakan tata cara \nrekening khusus, dana pembayaran tagihan L/C \ntelah tersedia di rekening Bank Indonesia; dan \nh. \ndalam hal masa berlaku L/C dan SKP L/C \nsebagaimana dimaksud dalam huruf a dan huruf b \ntelah \nberakhir \nserta \nClosing \nDate \nterlampaui \nsebagaimana dimaksud dalam huruf d, Bank \nIndonesia dapat melakukan pembayaran tagihan L/C \nsepanjang tagihan L/C telah dibayarkan oleh Pemberi \nPHLN yang juga bertindak sebagai Bank Penerus \n(Advising Bank) atau Bank Tertunjuk (Nominated \nBank)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pembayaran tagihan L/C sebagaimana dimaksud pada \nayat (1) yang sumber pembiayaannya berasal dari Rupiah \nMurni, diatur dengan ketentuan: \na. \nmasa berlaku L/C belum berakhir; \nb. \nmasa berlaku SPP L/C belum berakhir;  \nc. \ndana pembayaran tagihan L/C telah tersedia di \nrekening Bank Indonesia; \nd. \npembayaran tagihan L/C dilakukan berdasarkan \nketentuan \nperaturan \nKementerian \nKeuangan \nRepublik Indonesia mengenai pembayaran tagihan \nL/C yang sumber pembiayaannya berasal dari \nRupiah Murni; dan \ne. \ndalam hal penyelesaian pekerjaan proyek pemerintah \nmelampaui akhir tahun Anggaran Pendapatan dan \nBelanja Negara, Bank Indonesia dapat melakukan \npembayaran tagihan L/C sesuai perintah Kantor \nPelayanan Perbendaharaan Negara (KPPN)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMBAYARAN TAGIHAN L/C",
+      "teks_lengkap": "Dalam hal Bank Indonesia telah melakukan pembayaran \ntagihan L/C, Bank Indonesia menerbitkan dan menyampaikan \nNodis kepada Kementerian Keuangan Republik Indonesia dan \nAplikan melalui surat elektronik.  \n \n \n \n \n \n \n \n \n \n\n\n \nBAB VI \nPERUBAHAN L/C \n \nBagian Kesatu \nPersyaratan Perubahan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal Bank Indonesia telah melakukan pembayaran \ntagihan L/C, Bank Indonesia menerbitkan dan menyampaikan \nNodis kepada Kementerian Keuangan Republik Indonesia dan \nAplikan melalui surat elektronik.  \n \n \n \n \n \n \n \n \n \n\n\n \nBAB VI \nPERUBAHAN L/C \n \nBagian Kesatu \nPersyaratan Perubahan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nPerubahan L/C dapat dilakukan berdasarkan: \na. \nkesepakatan antara Aplikan dan Penyedia Barang \natau Jasa (Beneficiary); dan \nb. \npertimbangan Bank Indonesia. \n(2) \nPerubahan L/C sebagaimana dimaksud pada ayat (1) \nhanya meliputi perubahan terhadap:  \na. \nsyarat dan kondisi L/C;  \nb. \nnilai L/C;  \nc. \nBank Penerus (Advising Bank) dan/atau Bank \nTertunjuk (Nominated Bank); dan/atau \nd. \nPenyedia Barang atau Jasa (Beneficiary).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perubahan L/C dapat dilakukan berdasarkan: \na. \nkesepakatan antara Aplikan dan Penyedia Barang \natau Jasa (Beneficiary); dan \nb. \npertimbangan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perubahan L/C sebagaimana dimaksud pada ayat (1) \nhanya meliputi perubahan terhadap:  \na. \nsyarat dan kondisi L/C;  \nb. \nnilai L/C;  \nc. \nBank Penerus (Advising Bank) dan/atau Bank \nTertunjuk (Nominated Bank); dan/atau \nd. \nPenyedia Barang atau Jasa (Beneficiary)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nPerubahan L/C yang sumber pembiayaannya berasal dari \nPinjaman dan/atau Hibah dapat dilakukan apabila \nmemenuhi persyaratan: \na. \nmasa berlaku L/C belum berakhir; \nb. \nmasa berlaku SKP L/C belum berakhir; \nc. \nmasa berlaku PKPBJ belum berakhir; \nd. \nmasa berlaku penarikan Pinjaman dan/atau Hibah \nbelum berakhir; \ne. \nsaldo L/C masih tersedia; dan \nf. \ntelah memperoleh persetujuan dari Pemberi PHLN \ndalam hal terdapat persyaratan untuk mendapat \npersetujuan dari Pemberi PHLN. \n(2) \nPerubahan L/C yang sumber pembiayaannya berasal dari \nRupiah Murni dapat dilakukan apabila memenuhi \npersyaratan: \na. \nmasa berlaku L/C belum berakhir;  \nb. \nmasa berlaku SPP L/C belum berakhir;  \nc. \nmasa berlaku PKPBJ belum berakhir; dan \nd. \nsaldo L/C masih tersedia. \n(3) \nDalam kondisi tertentu Bank Indonesia dapat melakukan \nperubahan L/C jika Aplikan tidak memenuhi persyaratan \nsebagaimana dimaksud pada ayat (1) huruf a sampai \ndengan huruf e dan ayat (2) berdasarkan dokumen \npendukung perubahan L/C dari Aplikan, Bank Penerus \n(Advising Bank), Bank Tertunjuk (Nominated Bank), \ndan/atau Penyedia Barang atau Jasa (Beneficiary). \n \nBagian Kedua \nPermohonan Perubahan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perubahan L/C yang sumber pembiayaannya berasal dari \nPinjaman dan/atau Hibah dapat dilakukan apabila \nmemenuhi persyaratan: \na. \nmasa berlaku L/C belum berakhir; \nb. \nmasa berlaku SKP L/C belum berakhir; \nc. \nmasa berlaku PKPBJ belum berakhir; \nd. \nmasa berlaku penarikan Pinjaman dan/atau Hibah \nbelum berakhir; \ne. \nsaldo L/C masih tersedia; dan \nf. \ntelah memperoleh persetujuan dari Pemberi PHLN \ndalam hal terdapat persyaratan untuk mendapat \npersetujuan dari Pemberi PHLN."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perubahan L/C yang sumber pembiayaannya berasal dari \nRupiah Murni dapat dilakukan apabila memenuhi \npersyaratan: \na. \nmasa berlaku L/C belum berakhir;  \nb. \nmasa berlaku SPP L/C belum berakhir;  \nc. \nmasa berlaku PKPBJ belum berakhir; dan \nd. \nsaldo L/C masih tersedia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam kondisi tertentu Bank Indonesia dapat melakukan \nperubahan L/C jika Aplikan tidak memenuhi persyaratan \nsebagaimana dimaksud pada ayat (1) huruf a sampai \ndengan huruf e dan ayat (2) berdasarkan dokumen \npendukung perubahan L/C dari Aplikan, Bank Penerus \n(Advising Bank), Bank Tertunjuk (Nominated Bank), \ndan/atau Penyedia Barang atau Jasa (Beneficiary). \n \nBagian Kedua \nPermohonan Perubahan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nUntuk melakukan perubahan L/C di Bank Indonesia, \nAplikan harus menyampaikan permohonan perubahan \nL/C.  \n(2) \nPengajuan permohonan perubahan L/C sebagaimana \ndimaksud pada ayat (1) dilakukan melalui ALBI. \n\n\n \n(3) \nDalam hal Aplikan tidak dapat menggunakan ALBI atau \ntidak \nmemenuhi \npersyaratan \nmemperoleh \nALBI \nsebagaimana diatur dalam ketentuan Peraturan Anggota \nDewan Gubernur mengenai penyelenggaraan aplikasi \nlayanan \nBank \nIndonesia, \npengajuan \npermohonan \nperubahan L/C disampaikan kepada Bank Indonesia \nmelalui sarana elektronik atau dalam bentuk salinan \nkeras.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk melakukan perubahan L/C di Bank Indonesia, \nAplikan harus menyampaikan permohonan perubahan \nL/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan permohonan perubahan L/C sebagaimana \ndimaksud pada ayat (1) dilakukan melalui ALBI."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Aplikan tidak dapat menggunakan ALBI atau \ntidak \nmemenuhi \npersyaratan \nmemperoleh \nALBI \nsebagaimana diatur dalam ketentuan Peraturan Anggota \nDewan Gubernur mengenai penyelenggaraan aplikasi \nlayanan \nBank \nIndonesia, \npengajuan \npermohonan \nperubahan L/C disampaikan kepada Bank Indonesia \nmelalui sarana elektronik atau dalam bentuk salinan \nkeras."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nPengajuan permohonan perubahan L/C disertai dengan \ndokumen pendukung perubahan L/C berupa: \na. \nformulir \npermohonan \nperubahan \nL/C \nyang \nditandatangani oleh Pejabat yang Mewakili yang \nmemiliki spesimen tanda tangan di Bank Indonesia \nsesuai format sebagaimana tercantum pada Lampiran \nV yang merupakan bagian tidak terpisahkan dari \nPeraturan Anggota Dewan Gubernur ini;  \nb. \nfotokopi perubahan PKPBJ, dalam hal perubahan \nL/C didasari perubahan pada PKPBJ;  \nc. \nfotokopi perubahan Perjanjian Pinjaman dan/atau \nPerjanjian Hibah, dalam hal perubahan L/C didasari \nperubahan pada Perjanjian Pinjaman dan/atau \nPerjanjian Hibah; \nd. \nbukti pembayaran biaya perubahan L/C, dalam hal \nterdapat kenaikan (increase) nilai L/C dan/atau \nperubahan Bank Penerus (Advising Bank) L/C; \ne. \nfotokopi instruksi pembayaran, dalam hal perubahan \nL/C didasari kenaikan (increase) nilai L/C dari RMP; \nf. \nperubahan SKP L/C atau SPP L/C, dalam hal \nperubahan L/C didasari perubahan pada SKP L/C \natau SPP L/C; dan/atau \ng. \nuntuk L/C berdasarkan prinsip syariah, akad \nperubahan L/C di Bank Indonesia sesuai format \nsebagaimana tercantum pada Lampiran IV. \n(2) \nPenyampaian dokumen pendukung dalam pengajuan \npermohonan perubahan L/C sebagaimana dimaksud pada \nayat (1) diatur dengan ketentuan: \na. \ndokumen sebagaimana dimaksud pada ayat (1) huruf \na disampaikan melalui ALBI oleh Aplikan;  \nb. \ndokumen sebagaimana dimaksud pada ayat (1) huruf \nb, huruf c, huruf d, dan huruf g disampaikan dalam \nbentuk salinan keras oleh Aplikan; dan \nc. \ndokumen sebagaimana dimaksud pada ayat (1) huruf \ne dan huruf f disampaikan dalam bentuk salinan \nkeras oleh Kantor Pelayanan Perbendaharaan Negara \n(KPPN) atau oleh Aplikan. \n \nBagian Ketiga \nPersetujuan atau Penolakan Perubahan L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengajuan permohonan perubahan L/C disertai dengan \ndokumen pendukung perubahan L/C berupa: \na. \nformulir \npermohonan \nperubahan \nL/C \nyang \nditandatangani oleh Pejabat yang Mewakili yang \nmemiliki spesimen tanda tangan di Bank Indonesia \nsesuai format sebagaimana tercantum pada Lampiran \nV yang merupakan bagian tidak terpisahkan dari \nPeraturan Anggota Dewan Gubernur ini;  \nb. \nfotokopi perubahan PKPBJ, dalam hal perubahan \nL/C didasari perubahan pada PKPBJ;  \nc. \nfotokopi perubahan Perjanjian Pinjaman dan/atau \nPerjanjian Hibah, dalam hal perubahan L/C didasari \nperubahan pada Perjanjian Pinjaman dan/atau \nPerjanjian Hibah; \nd. \nbukti pembayaran biaya perubahan L/C, dalam hal \nterdapat kenaikan (increase) nilai L/C dan/atau \nperubahan Bank Penerus (Advising Bank) L/C; \ne. \nfotokopi instruksi pembayaran, dalam hal perubahan \nL/C didasari kenaikan (increase) nilai L/C dari RMP; \nf. \nperubahan SKP L/C atau SPP L/C, dalam hal \nperubahan L/C didasari perubahan pada SKP L/C \natau SPP L/C; dan/atau \ng. \nuntuk L/C berdasarkan prinsip syariah, akad \nperubahan L/C di Bank Indonesia sesuai format \nsebagaimana tercantum pada Lampiran IV."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian dokumen pendukung dalam pengajuan \npermohonan perubahan L/C sebagaimana dimaksud pada \nayat (1) diatur dengan ketentuan: \na. \ndokumen sebagaimana dimaksud pada ayat (1) huruf \na disampaikan melalui ALBI oleh Aplikan;  \nb. \ndokumen sebagaimana dimaksud pada ayat (1) huruf \nb, huruf c, huruf d, dan huruf g disampaikan dalam \nbentuk salinan keras oleh Aplikan; dan \nc. \ndokumen sebagaimana dimaksud pada ayat (1) huruf \ne dan huruf f disampaikan dalam bentuk salinan \nkeras oleh Kantor Pelayanan Perbendaharaan Negara \n(KPPN) atau oleh Aplikan. \n \nBagian Ketiga \nPersetujuan atau Penolakan Perubahan L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nAtas permohonan perubahan L/C sebagaimana dimaksud \ndalam Pasal 34, Bank Indonesia menyetujui atau menolak \npermohonan perubahan L/C. \n\n\n \n(2) \nPersetujuan atau penolakan permohonan perubahan L/C \nsebagaimana dimaksud pada ayat (1) dilakukan setelah \nmempertimbangkan: \na. \npenelitian kelengkapan dan kebenaran dokumen \npendukung perubahan L/C sebagaimana dimaksud \ndalam Pasal 33 ayat (3) dan/atau Pasal 35 ayat (1); \ndan  \nb. \npenerapan \nprinsip \nkehati-hatian, \ndalam \nhal \nperubahan L/C terkait dengan perubahan Bank \nPenerus (Advising Bank), Bank Tertunjuk (Nominated \nBank), \ndan/atau \nPenyedia \nBarang \natau \nJasa \n(Beneficiary).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Atas permohonan perubahan L/C sebagaimana dimaksud \ndalam Pasal 34, Bank Indonesia menyetujui atau menolak \npermohonan perubahan L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persetujuan atau penolakan permohonan perubahan L/C \nsebagaimana dimaksud pada ayat (1) dilakukan setelah \nmempertimbangkan: \na. \npenelitian kelengkapan dan kebenaran dokumen \npendukung perubahan L/C sebagaimana dimaksud \ndalam Pasal 33 ayat (3) dan/atau Pasal 35 ayat (1); \ndan  \nb. \npenerapan \nprinsip \nkehati-hatian, \ndalam \nhal \nperubahan L/C terkait dengan perubahan Bank \nPenerus (Advising Bank), Bank Tertunjuk (Nominated \nBank), \ndan/atau \nPenyedia \nBarang \natau \nJasa \n(Beneficiary)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nDalam \nhal \ndokumen \npendukung \nperubahan \nL/C \nsebagaimana dimaksud dalam Pasal 36 ayat (2) belum \nlengkap \ndan/atau \nbelum \nbenar, \nAplikan \nharus \nmelengkapi, \nmemperbaiki, \ndan/atau \nmemperbarui \ndokumen pendukung perubahan L/C. \n(2) \nAplikan harus menyampaikan dokumen pendukung \nperubahan \nL/C \nyang \ntelah \ndilengkapi, \ndiperbaiki, \ndan/atau diperbarui sebagaimana dimaksud pada ayat (1) \nmelalui \nALBI \natau \ndalam \nbentuk \nsalinan \nkeras \nsebagaimana dimaksud dalam Pasal 35 ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nhal \ndokumen \npendukung \nperubahan \nL/C \nsebagaimana dimaksud dalam Pasal 36 ayat (2) belum \nlengkap \ndan/atau \nbelum \nbenar, \nAplikan \nharus \nmelengkapi, \nmemperbaiki, \ndan/atau \nmemperbarui \ndokumen pendukung perubahan L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Aplikan harus menyampaikan dokumen pendukung \nperubahan \nL/C \nyang \ntelah \ndilengkapi, \ndiperbaiki, \ndan/atau diperbarui sebagaimana dimaksud pada ayat (1) \nmelalui \nALBI \natau \ndalam \nbentuk \nsalinan \nkeras \nsebagaimana dimaksud dalam Pasal 35 ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nDalam penerapan prinsip kehati-hatian sebagaimana \ndimaksud dalam Pasal 36 ayat (2) huruf b, Bank Indonesia \nmeminta Aplikan untuk memastikan Penyedia Barang \natau Jasa (Beneficiary) yang merupakan counterpart \nAplikan, Bank Penerus (Advising Bank), dan/atau Bank \nTertunjuk (Nominated Bank) telah memenuhi prinsip \nkehati-hatian. \n(2) \nPemenuhan prinsip kehati-hatian sebagaimana dimaksud \npada ayat (1) dilakukan dengan cara identifikasi dan \nverifikasi atas profil para pihak yang berubah. \n(3) \nAplikan \nharus \nmembuat \nsurat \npernyataan \ntelah \nmelakukan \nidentifikasi \ndan \nverifikasi \nsebagaimana \ndimaksud pada ayat (2) yang disampaikan kepada Bank \nIndonesia sesuai format sebagaimana tercantum dalam \nLampiran II.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penerapan prinsip kehati-hatian sebagaimana \ndimaksud dalam Pasal 36 ayat (2) huruf b, Bank Indonesia \nmeminta Aplikan untuk memastikan Penyedia Barang \natau Jasa (Beneficiary) yang merupakan counterpart \nAplikan, Bank Penerus (Advising Bank), dan/atau Bank \nTertunjuk (Nominated Bank) telah memenuhi prinsip \nkehati-hatian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemenuhan prinsip kehati-hatian sebagaimana dimaksud \npada ayat (1) dilakukan dengan cara identifikasi dan \nverifikasi atas profil para pihak yang berubah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Aplikan \nharus \nmembuat \nsurat \npernyataan \ntelah \nmelakukan \nidentifikasi \ndan \nverifikasi \nsebagaimana \ndimaksud pada ayat (2) yang disampaikan kepada Bank \nIndonesia sesuai format sebagaimana tercantum dalam \nLampiran II."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PERUBAHAN L/C",
+      "teks_lengkap": "(1) \nDalam hal Bank Indonesia menyetujui permohonan \nperubahan L/C, Bank Indonesia melakukan perubahan \nL/C dengan menggunakan sarana international standard \nmessaging.  \n(2) \nPerubahan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan paling lama 2 (dua) hari kerja setelah dokumen \npendukung perubahan L/C dinyatakan lengkap dan \nbenar. \n(3) \nBank Indonesia menyampaikan salinan perubahan L/C \nkepada Kementerian Keuangan Republik Indonesia, \nAplikan, dan/atau pihak lainnya melalui surat elektronik. \n \n \n\n\n \nBAB VII \nPENUTUPAN L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank Indonesia menyetujui permohonan \nperubahan L/C, Bank Indonesia melakukan perubahan \nL/C dengan menggunakan sarana international standard \nmessaging."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perubahan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan paling lama 2 (dua) hari kerja setelah dokumen \npendukung perubahan L/C dinyatakan lengkap dan \nbenar."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menyampaikan salinan perubahan L/C \nkepada Kementerian Keuangan Republik Indonesia, \nAplikan, dan/atau pihak lainnya melalui surat elektronik. \n \n \n\n\n \nBAB VII \nPENUTUPAN L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENUTUPAN L/C",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan penutupan L/C. \n(2) \nPenutupan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan dalam hal: \na. \nmasa berlaku L/C berakhir; atau \nb. \nterdapat pembatalan L/C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan penutupan L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penutupan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan dalam hal: \na. \nmasa berlaku L/C berakhir; atau \nb. \nterdapat pembatalan L/C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENUTUPAN L/C",
+      "teks_lengkap": "(1) \nAplikan harus memantau masa berlaku L/C. \n(2) \nDalam hal Aplikan tidak mengajukan permohonan \nperpanjangan masa berlaku L/C, Bank Indonesia dapat \nmelakukan penutupan L/C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Aplikan harus memantau masa berlaku L/C."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Aplikan tidak mengajukan permohonan \nperpanjangan masa berlaku L/C, Bank Indonesia dapat \nmelakukan penutupan L/C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENUTUPAN L/C",
+      "teks_lengkap": "(1) \nPembatalan L/C sebagaimana dimaksud dalam Pasal 40 \nayat (2) huruf b dilakukan berdasarkan: \na. \npermintaan Aplikan; atau \nb. \nevaluasi Bank Indonesia atas dasar: \n1. \npermintaan otoritas yang berwenang; dan/atau \n2. \npertimbangan Bank Indonesia. \n(2) Pembatalan L/C atas permintaan Aplikan sebagaimana \ndimaksud \npada \nayat \n(1) \nhanya \ndapat \ndilakukan \nberdasarkan kesepakatan antara Aplikan dan Penyedia \nBarang atau Jasa (Beneficiary).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembatalan L/C sebagaimana dimaksud dalam Pasal 40 \nayat (2) huruf b dilakukan berdasarkan: \na. \npermintaan Aplikan; atau \nb. \nevaluasi Bank Indonesia atas dasar: \n1. \npermintaan otoritas yang berwenang; dan/atau \n2. \npertimbangan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembatalan L/C atas permintaan Aplikan sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "hanya \ndapat \ndilakukan \nberdasarkan kesepakatan antara Aplikan dan Penyedia \nBarang atau Jasa (Beneficiary)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENUTUPAN L/C",
+      "teks_lengkap": "(1) Pembatalan \nL/C \nberdasarkan \npermintaan \nAplikan \nsebagaimana dimaksud dalam Pasal 42 ayat (1) huruf a \ndilakukan atas dasar:  \na. \nperubahan Bank Penerus (Advising Bank), Bank \nTertunjuk (Nominated Bank), dan/atau Penyedia \nBarang atau Jasa (Beneficiary); atau \nb. \nalasan lain dari Aplikan. \n(2) Pembatalan L/C atas permintaan Aplikan sebagaimana \ndimaksud pada ayat (1) dilakukan dengan mengajukan \npermohonan pembatalan L/C melalui ALBI disertai \ndengan dokumen pendukung berupa kesepakatan \npembatalan Transaksi L/C antara Aplikan dan Penyedia \nBarang atau Jasa (Beneficiary).  \n(3) Dalam hal Aplikan tidak dapat menggunakan ALBI atau \ntidak \nmemenuhi \npersyaratan \nmemperoleh \nALBI \nsebagaimana diatur dalam ketentuan Peraturan Anggota \nDewan Gubernur mengenai penyelenggaraan aplikasi \nlayanan \nBank \nIndonesia, \npengajuan \npermohonan \npembatalan L/C disampaikan kepada Bank Indonesia \nmelalui sarana elektronik atau dalam bentuk salinan \nkeras. \n(4) \nBank Indonesia melakukan pembatalan L/C setelah \nAplikan memenuhi ketentuan sebagaimana dimaksud \npada ayat (1), ayat (2), dan ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembatalan \nL/C \nberdasarkan \npermintaan \nAplikan \nsebagaimana dimaksud dalam Pasal 42 ayat (1) huruf a \ndilakukan atas dasar:  \na. \nperubahan Bank Penerus (Advising Bank), Bank \nTertunjuk (Nominated Bank), dan/atau Penyedia \nBarang atau Jasa (Beneficiary); atau \nb. \nalasan lain dari Aplikan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembatalan L/C atas permintaan Aplikan sebagaimana \ndimaksud pada ayat (1) dilakukan dengan mengajukan \npermohonan pembatalan L/C melalui ALBI disertai \ndengan dokumen pendukung berupa kesepakatan \npembatalan Transaksi L/C antara Aplikan dan Penyedia \nBarang atau Jasa (Beneficiary)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Aplikan tidak dapat menggunakan ALBI atau \ntidak \nmemenuhi \npersyaratan \nmemperoleh \nALBI \nsebagaimana diatur dalam ketentuan Peraturan Anggota \nDewan Gubernur mengenai penyelenggaraan aplikasi \nlayanan \nBank \nIndonesia, \npengajuan \npermohonan \npembatalan L/C disampaikan kepada Bank Indonesia \nmelalui sarana elektronik atau dalam bentuk salinan \nkeras."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia melakukan pembatalan L/C setelah \nAplikan memenuhi ketentuan sebagaimana dimaksud \npada ayat (1), ayat (2), dan ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENUTUPAN L/C",
+      "teks_lengkap": "Bank Indonesia memberitahukan penutupan L/C kepada \nAplikan dan pihak lainnya melalui surat elektronik. \n \nBAB VIII \nENDORSEMEN TERHADAP BILL OF LADING \nATAU AIRWAY BILL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia memberitahukan penutupan L/C kepada \nAplikan dan pihak lainnya melalui surat elektronik. \n \nBAB VIII \nENDORSEMEN TERHADAP BILL OF LADING \nATAU AIRWAY BILL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "ENDORSEMEN TERHADAP BILL OF LADING ATAU AIRWAY BILL",
+      "teks_lengkap": "(1) Dalam hal dokumen bill of lading atau airway bill \nmencantumkan nama Bank Indonesia sebagai penerima \nbarang (consignee), Bank Indonesia dapat melakukan \nendorsemen pada bill of lading atau airway bill. \n(2) Endorsemen sebagaimana dimaksud pada ayat (1) dapat \ndilakukan Bank Indonesia sebelum dokumen tagihan \nL/C yang dipersyaratkan dalam L/C diterima oleh Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal dokumen bill of lading atau airway bill \nmencantumkan nama Bank Indonesia sebagai penerima \nbarang (consignee), Bank Indonesia dapat melakukan \nendorsemen pada bill of lading atau airway bill."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Endorsemen sebagaimana dimaksud pada ayat (1) dapat \ndilakukan Bank Indonesia sebelum dokumen tagihan \nL/C yang dipersyaratkan dalam L/C diterima oleh Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "ENDORSEMEN TERHADAP BILL OF LADING ATAU AIRWAY BILL",
+      "teks_lengkap": "(1) Endorsemen sebagaimana dimaksud dalam Pasal 45 ayat \n(2) dilakukan berdasarkan permohonan Aplikan dengan \nmenggunakan formulir permohonan endorsemen bill of \nlading atau airway bill yang ditandatangani oleh Pejabat \nyang Mewakili yang memiliki spesimen tanda tangan di \nBank Indonesia sesuai format sebagaimana tercantum \ndalam Lampiran VI yang merupakan bagian tidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur ini. \n(2) Permohonan endorsemen atas dokumen bill of lading atau \nairway bill harus disertai dengan dokumen pendukung \npaling kurang berupa:  \na. \nasli bill of lading atau airway bill;  \nb. \nfotokopi tagihan (invoice); dan \nc. \nfotokopi packing list atau dokumen lain yang \ndipersamakan. \n \nBAB IX \nBIAYA TRANSAKSI L/C",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Endorsemen sebagaimana dimaksud dalam Pasal 45 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dilakukan berdasarkan permohonan Aplikan dengan \nmenggunakan formulir permohonan endorsemen bill of \nlading atau airway bill yang ditandatangani oleh Pejabat \nyang Mewakili yang memiliki spesimen tanda tangan di \nBank Indonesia sesuai format sebagaimana tercantum \ndalam Lampiran VI yang merupakan bagian tidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan endorsemen atas dokumen bill of lading atau \nairway bill harus disertai dengan dokumen pendukung \npaling kurang berupa:  \na. \nasli bill of lading atau airway bill;  \nb. \nfotokopi tagihan (invoice); dan \nc. \nfotokopi packing list atau dokumen lain yang \ndipersamakan. \n \nBAB IX \nBIAYA TRANSAKSI L/C"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BIAYA TRANSAKSI L/C",
+      "teks_lengkap": "Bank Indonesia mengenakan biaya Transaksi L/C untuk: \na. \npenerbitan L/C; dan  \nb. \nperubahan L/C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia mengenakan biaya Transaksi L/C untuk: \na. \npenerbitan L/C; dan  \nb. \nperubahan L/C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BIAYA TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nBiaya penerbitan L/C sebagaimana dimaksud dalam Pasal \n47 huruf a terdiri atas: \na. \nbiaya provisi; dan \nb. \nbiaya korespondensi. \n(2) \nBiaya provisi dan biaya korespondensi sebagaimana \ndimaksud pada ayat (1) dibayarkan oleh Aplikan atau \npihak lain yang ditunjuk oleh Aplikan sebelum L/C \nditerbitkan. \n(3) \nBiaya provisi sebagaimana dimaksud pada ayat (1) huruf \na yaitu sebesar 0,5% (nol koma lima persen) dari nilai L/C \ndengan nilai paling sedikit setara USD50,00 (lima puluh \n\n\n \ndolar Amerika Serikat) dan paling \nbanyak setara \nUSD5.000,00 (lima ribu dolar Amerika Serikat).  \n(4) \nBiaya korespondensi sebagaimana dimaksud pada ayat (1) \nhuruf b yaitu setara USD150,00 (seratus lima puluh dolar \nAmerika Serikat).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Biaya penerbitan L/C sebagaimana dimaksud dalam Pasal \n47 huruf a terdiri atas: \na. \nbiaya provisi; dan \nb. \nbiaya korespondensi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Biaya provisi dan biaya korespondensi sebagaimana \ndimaksud pada ayat (1) dibayarkan oleh Aplikan atau \npihak lain yang ditunjuk oleh Aplikan sebelum L/C \nditerbitkan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Biaya provisi sebagaimana dimaksud pada ayat (1) huruf \na yaitu sebesar 0,5% (nol koma lima persen) dari nilai L/C \ndengan nilai paling sedikit setara USD50,00 (lima puluh \n\n\n \ndolar Amerika Serikat) dan paling \nbanyak setara \nUSD5.000,00 (lima ribu dolar Amerika Serikat)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Biaya korespondensi sebagaimana dimaksud pada ayat (1) \nhuruf b yaitu setara USD150,00 (seratus lima puluh dolar \nAmerika Serikat)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BIAYA TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nBiaya perubahan L/C sebagaimana dimaksud dalam Pasal \n47 huruf b terdiri atas: \na. \nbiaya provisi untuk kenaikan (increase) nilai L/C; \ndan/atau \nb. \nbiaya korespondensi untuk perubahan Bank Penerus \n(Advising Bank), Bank Tertunjuk (Nominated Bank), \ndan/atau Penyedia Barang atau Jasa (Beneficiary). \n(2) \nBiaya provisi sebagaimana dimaksud pada ayat (1) huruf \na yaitu sebesar 0,5% (nol koma lima persen) dari kenaikan \n(increase) nilai L/C dengan nilai paling sedikit setara \nUSD50,00 (lima puluh dolar Amerika Serikat) dan paling \nbanyak setara USD5.000,00 (lima ribu dolar Amerika \nSerikat). \n(3) \nBiaya korespondensi sebagaimana dimaksud pada ayat (1) \nhuruf b yaitu setara USD150,00 (seratus lima puluh dolar \nAmerika Serikat).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Biaya perubahan L/C sebagaimana dimaksud dalam Pasal \n47 huruf b terdiri atas: \na. \nbiaya provisi untuk kenaikan (increase) nilai L/C; \ndan/atau \nb. \nbiaya korespondensi untuk perubahan Bank Penerus \n(Advising Bank), Bank Tertunjuk (Nominated Bank), \ndan/atau Penyedia Barang atau Jasa (Beneficiary)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Biaya provisi sebagaimana dimaksud pada ayat (1) huruf \na yaitu sebesar 0,5% (nol koma lima persen) dari kenaikan \n(increase) nilai L/C dengan nilai paling sedikit setara \nUSD50,00 (lima puluh dolar Amerika Serikat) dan paling \nbanyak setara USD5.000,00 (lima ribu dolar Amerika \nSerikat)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Biaya korespondensi sebagaimana dimaksud pada ayat (1) \nhuruf b yaitu setara USD150,00 (seratus lima puluh dolar \nAmerika Serikat)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BIAYA TRANSAKSI L/C",
+      "teks_lengkap": "(1) \nBiaya penerbitan L/C sebagaimana dimaksud dalam Pasal \n48 dan biaya perubahan L/C sebagaimana dimaksud \ndalam Pasal 49 dibayarkan kepada Bank Indonesia dalam \nmata uang rupiah atau mata uang dolar Amerika Serikat, \nsebelum L/C diterbitkan. \n(2) \nDalam hal pembayaran biaya penerbitan L/C atau \nperubahan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan dalam mata uang rupiah, kurs yang digunakan \nadalah kurs transaksi jual Bank Indonesia pada tanggal \npembayaran. \n(3) \nBiaya penerbitan L/C atau perubahan L/C sebagaimana \ndimaksud pada ayat (1) dibayarkan kepada Bank \nIndonesia dengan ketentuan: \na. \nuntuk pembayaran dengan mata uang rupiah, \napabila hasil perhitungan terdapat angka puluhan, \ndilakukan pembulatan ke atas pada ratusan terdekat; \natau \nb. \nuntuk pembayaran dengan mata uang dolar Amerika \nSerikat, apabila hasil perhitungan terdapat angka di \nbelakang koma, dilakukan pembulatan ke atas pada \nsatuan terdekat. \n(4) \nPerhitungan biaya untuk penerbitan L/C dilakukan sesuai \ncontoh sebagaimana tercantum dalam Lampiran VII yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n(5) \nDalam hal Aplikan melakukan kesalahan pembayaran \nbiaya penerbitan L/C atau perubahan L/C sebagaimana \ndimaksud pada ayat (1) berlaku ketentuan:  \na. \njumlah uang yang dibayarkan lebih besar dari jumlah \nuang seharusnya, Bank Indonesia mengembalikan \n\n\n \ndana Aplikan sebesar selisih dari jumlah yang \nseharusnya dibayarkan; atau \nb. \njumlah uang yang dibayarkan lebih kecil dari jumlah \nuang seharusnya, Bank Indonesia mengembalikan \ndana Aplikan seluruhnya sebesar jumlah uang yang \nBank Indonesia terima dan meminta Aplikan untuk \nmelakukan pembayaran kembali. \n(6) \nBiaya yang timbul sebagai akibat dari pengembalian uang \nsebagaimana dimaksud pada ayat (5) menjadi beban \nAplikan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Biaya penerbitan L/C sebagaimana dimaksud dalam Pasal \n48 dan biaya perubahan L/C sebagaimana dimaksud \ndalam Pasal 49 dibayarkan kepada Bank Indonesia dalam \nmata uang rupiah atau mata uang dolar Amerika Serikat, \nsebelum L/C diterbitkan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal pembayaran biaya penerbitan L/C atau \nperubahan L/C sebagaimana dimaksud pada ayat (1) \ndilakukan dalam mata uang rupiah, kurs yang digunakan \nadalah kurs transaksi jual Bank Indonesia pada tanggal \npembayaran."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Biaya penerbitan L/C atau perubahan L/C sebagaimana \ndimaksud pada ayat (1) dibayarkan kepada Bank \nIndonesia dengan ketentuan: \na. \nuntuk pembayaran dengan mata uang rupiah, \napabila hasil perhitungan terdapat angka puluhan, \ndilakukan pembulatan ke atas pada ratusan terdekat; \natau \nb. \nuntuk pembayaran dengan mata uang dolar Amerika \nSerikat, apabila hasil perhitungan terdapat angka di \nbelakang koma, dilakukan pembulatan ke atas pada \nsatuan terdekat."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Perhitungan biaya untuk penerbitan L/C dilakukan sesuai \ncontoh sebagaimana tercantum dalam Lampiran VII yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Aplikan melakukan kesalahan pembayaran \nbiaya penerbitan L/C atau perubahan L/C sebagaimana \ndimaksud pada ayat (1) berlaku ketentuan:  \na. \njumlah uang yang dibayarkan lebih besar dari jumlah \nuang seharusnya, Bank Indonesia mengembalikan \n\n\n \ndana Aplikan sebesar selisih dari jumlah yang \nseharusnya dibayarkan; atau \nb. \njumlah uang yang dibayarkan lebih kecil dari jumlah \nuang seharusnya, Bank Indonesia mengembalikan \ndana Aplikan seluruhnya sebesar jumlah uang yang \nBank Indonesia terima dan meminta Aplikan untuk \nmelakukan pembayaran kembali."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Biaya yang timbul sebagai akibat dari pengembalian uang \nsebagaimana dimaksud pada ayat (5) menjadi beban \nAplikan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "BIAYA TRANSAKSI L/C",
+      "teks_lengkap": "Bank \nIndonesia \ndapat \nmengecualikan \npengenaan \nbiaya \nTransaksi L/C sebagaimana dimaksud dalam Pasal 47 kepada \npihak tertentu berdasarkan pertimbangan tertentu sesuai \nkewenangan Bank Indonesia. \n \nBAB X \nKETERLAMBATAN PEMBAYARAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nIndonesia \ndapat \nmengecualikan \npengenaan \nbiaya \nTransaksi L/C sebagaimana dimaksud dalam Pasal 47 kepada \npihak tertentu berdasarkan pertimbangan tertentu sesuai \nkewenangan Bank Indonesia. \n \nBAB X \nKETERLAMBATAN PEMBAYARAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETERLAMBATAN PEMBAYARAN",
+      "teks_lengkap": "(1) \nDalam hal terdapat keterlambatan pembayaran tagihan \nL/C yang mengakibatkan timbulnya biaya, pihak yang \nmenyebabkan keterlambatan harus membayar biaya \nketerlambatan kepada: \na. \nPenyedia Barang atau Jasa (Beneficiary);  \nb. \nBank Penerus (Advising Bank); dan/atau \nc. \nBank Tertunjuk (Nominated Bank). \n(2) \nPihak yang menyebabkan keterlambatan sebagaimana \ndimaksud pada ayat (1) terdiri atas: \na. \npihak di luar Bank Indonesia; atau \nb. \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terdapat keterlambatan pembayaran tagihan \nL/C yang mengakibatkan timbulnya biaya, pihak yang \nmenyebabkan keterlambatan harus membayar biaya \nketerlambatan kepada: \na. \nPenyedia Barang atau Jasa (Beneficiary);  \nb. \nBank Penerus (Advising Bank); dan/atau \nc. \nBank Tertunjuk (Nominated Bank)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak yang menyebabkan keterlambatan sebagaimana \ndimaksud pada ayat (1) terdiri atas: \na. \npihak di luar Bank Indonesia; atau \nb. \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETERLAMBATAN PEMBAYARAN",
+      "teks_lengkap": "Dalam hal biaya keterlambatan disebabkan oleh pihak di luar \nBank Indonesia sebagaimana dimaksud dalam Pasal 52 ayat (2) \nhuruf a, berlaku ketentuan: \na. \nBank Indonesia menginformasikan kepada pihak di luar \nBank \nIndonesia \nyang \nmenyebabkan \nketerlambatan \npembayaran tentang adanya klaim biaya keterlambatan \noleh Penyedia Barang atau Jasa (Beneficiary), Bank \nPenerus (Advising Bank), dan/atau Bank Tertunjuk \n(Nominated Bank); dan  \nb. \nBank \nIndonesia \nmelaksanakan \npembayaran \nbiaya \nketerlambatan kepada Penyedia Barang atau Jasa \n(Beneficiary), Bank Penerus (Advising Bank), dan/atau \nBank Tertunjuk (Nominated Bank) dalam hal dana untuk \npembayaran biaya keterlambatan telah tersedia di \nrekening Bank Indonesia. \n \n \n \n \n \n \n \n\n\n \nBAB XI \nKORESPONDENSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal biaya keterlambatan disebabkan oleh pihak di luar \nBank Indonesia sebagaimana dimaksud dalam Pasal 52 ayat (2) \nhuruf a, berlaku ketentuan: \na. \nBank Indonesia menginformasikan kepada pihak di luar \nBank \nIndonesia \nyang \nmenyebabkan \nketerlambatan \npembayaran tentang adanya klaim biaya keterlambatan \noleh Penyedia Barang atau Jasa (Beneficiary), Bank \nPenerus (Advising Bank), dan/atau Bank Tertunjuk \n(Nominated Bank); dan  \nb. \nBank \nIndonesia \nmelaksanakan \npembayaran \nbiaya \nketerlambatan kepada Penyedia Barang atau Jasa \n(Beneficiary), Bank Penerus (Advising Bank), dan/atau \nBank Tertunjuk (Nominated Bank) dalam hal dana untuk \npembayaran biaya keterlambatan telah tersedia di \nrekening Bank Indonesia. \n \n \n \n \n \n \n \n\n\n \nBAB XI \nKORESPONDENSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KORESPONDENSI",
+      "teks_lengkap": "(1) \nKorespondensi terkait dengan Transaksi L/C ditujukan \nkepada: \nBank Indonesia c.q. Departemen Jasa Perbankan, \nPerizinan, dan Operasional Tresuri c.q. Divisi Layanan \nJasa Perbankan \nGedung Kebon Sirih Lantai 2 \nJalan M.H. Thamrin Nomor 2, Jakarta 10350 \nSurat elektronik: customerservice_ljp@bi.go.id \n(2) \nDalam hal terjadi perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmemberitahukan \nperubahan \nalamat \nkorespondensi \nmelalui laman Bank Indonesia dan/atau surat. \n \nBAB XII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Korespondensi terkait dengan Transaksi L/C ditujukan \nkepada: \nBank Indonesia c.q. Departemen Jasa Perbankan, \nPerizinan, dan Operasional Tresuri c.q. Divisi Layanan \nJasa Perbankan \nGedung Kebon Sirih Lantai 2 \nJalan M.H. Thamrin Nomor 2, Jakarta 10350 \nSurat elektronik: customerservice_ljp@bi.go.id"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terjadi perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \nmemberitahukan \nperubahan \nalamat \nkorespondensi \nmelalui laman Bank Indonesia dan/atau surat. \n \nBAB XII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Anggota Dewan Gubernur ini mulai \nberlaku, \nPeraturan \nAnggota \nDewan \nGubernur \nNomor \n23/21/PADG/2021 tentang Transaksi Letter of Credit di Bank \nIndonesia dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Anggota Dewan Gubernur ini mulai \nberlaku, \nPeraturan \nAnggota \nDewan \nGubernur \nNomor \n23/21/PADG/2021 tentang Transaksi Letter of Credit di Bank \nIndonesia dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \n \n \n \n \n \n \n \n \n \n \n \nDitetapkan di Jakarta \n \n \n \n \n \npada tanggal 25 Juni 2026……….. \n \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n  THOMAS A.M. DJIWANDONO \n \n\n\nPENJELASAN \n \nATAS \n \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 14 TAHUN 2026 \nTENTANG \nTRANSAKSI LETTER OF CREDIT DI BANK INDONESIA \n \nI. \nUMUM \nDalam melaksanakan fungsi Bank Indonesia sebagai pemegang kas \npemerintah dan dalam mendukung pelaksanaan tugas Bank Indonesia di \nbidang moneter, sistem pembayaran, dan makroprudensial, Bank \nIndonesia memberikan layanan jasa kebanksentralan kepada pemerintah \nsehubungan dengan penerimaan pinjaman luar negeri untuk dan atas \nnama pemerintah, penatausahaan, serta penyelesaian tagihan dan \nkewajiban keuangan pemerintah terhadap pihak luar negeri.  \nLayanan jasa kebanksentralan tersebut antara lain berupa Layanan \nTransaksi L/C yang digunakan untuk penarikan pinjaman luar negeri \npemerintah dan penarikan hibah luar negeri pemerintah. Layanan \nTransaksi L/C oleh Bank Indonesia juga dilakukan untuk pembayaran atas \ndasar perjanjian dalam valuta asing oleh nasabah Bank Indonesia. \nSehubungan dengan hal tersebut, Layanan Transaksi L/C kepada \npemerintah dan nasabah Bank Indonesia perlu diberikan secara efektif dan \nefisien. Guna mendukung pemberian Layanan Transaksi L/C, Bank \nIndonesia mengimplementasikan ALBI.  \nSeiring dengan adanya perkembangan proses bisnis terkini serta \nuntuk penyelarasan dengan ketentuan terkait lainnya, Peraturan Anggota \nDewan Gubernur Nomor 23/21/PADG/2021 tentang Transaksi Letter of \nCredit di Bank Indonesia perlu diganti guna meningkatkan prinsip tata \nkelola yang baik dalam pelaksanaan layanan jasa kebanksentralan. \nSehubungan dengan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Transaksi Letter of Credit di \nBank Indonesia. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \n \n \n \n \n \n \n \n \n \n \n \nDitetapkan di Jakarta \n \n \n \n \n \npada tanggal 25 Juni 2026……….. \n \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n  THOMAS A.M. DJIWANDONO \n \n\n\nPENJELASAN \n \nATAS \n \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 14 TAHUN 2026 \nTENTANG \nTRANSAKSI LETTER OF CREDIT DI BANK INDONESIA \n \nI. \nUMUM \nDalam melaksanakan fungsi Bank Indonesia sebagai pemegang kas \npemerintah dan dalam mendukung pelaksanaan tugas Bank Indonesia di \nbidang moneter, sistem pembayaran, dan makroprudensial, Bank \nIndonesia memberikan layanan jasa kebanksentralan kepada pemerintah \nsehubungan dengan penerimaan pinjaman luar negeri untuk dan atas \nnama pemerintah, penatausahaan, serta penyelesaian tagihan dan \nkewajiban keuangan pemerintah terhadap pihak luar negeri.  \nLayanan jasa kebanksentralan tersebut antara lain berupa Layanan \nTransaksi L/C yang digunakan untuk penarikan pinjaman luar negeri \npemerintah dan penarikan hibah luar negeri pemerintah. Layanan \nTransaksi L/C oleh Bank Indonesia juga dilakukan untuk pembayaran atas \ndasar perjanjian dalam valuta asing oleh nasabah Bank Indonesia. \nSehubungan dengan hal tersebut, Layanan Transaksi L/C kepada \npemerintah dan nasabah Bank Indonesia perlu diberikan secara efektif dan \nefisien. Guna mendukung pemberian Layanan Transaksi L/C, Bank \nIndonesia mengimplementasikan ALBI.  \nSeiring dengan adanya perkembangan proses bisnis terkini serta \nuntuk penyelarasan dengan ketentuan terkait lainnya, Peraturan Anggota \nDewan Gubernur Nomor 23/21/PADG/2021 tentang Transaksi Letter of \nCredit di Bank Indonesia perlu diganti guna meningkatkan prinsip tata \nkelola yang baik dalam pelaksanaan layanan jasa kebanksentralan. \nSehubungan dengan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Transaksi Letter of Credit di \nBank Indonesia. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nInstansi pemerintah pusat antara lain kementerian dan \nlembaga pemerintah nonkementerian. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “prinsip syariah” adalah prinsip syariah \nyang ditetapkan oleh lembaga yang berwenang di bidang syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nInstansi pemerintah pusat antara lain kementerian dan \nlembaga pemerintah nonkementerian. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “prinsip syariah” adalah prinsip syariah \nyang ditetapkan oleh lembaga yang berwenang di bidang syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nContoh barang dan/atau jasa strategis untuk pembangunan \ninfrastruktur antara lain impor barang yang mendukung \npembangunan jalan tol dan jembatan. \nHuruf b \nContoh barang dan/atau jasa strategis untuk pertahanan \nnasional antara lain impor alat utama sistem senjata \n(alutsista) seperti pengadaan pesawat tempur dan kapal \nperang. \nContoh barang dan/atau jasa strategis untuk keamanan \nnasional antara lain alat material khusus Kepolisian Negara \nRepublik Indonesia (almatsus Polri), seperti penyediaan \nkendaraan barracuda dan mobil gas air mata. \nHuruf c \nContoh barang dan/atau jasa strategis untuk kelancaran \nproses operasional terkait kegiatan instansi pemerintah \nantara lain impor generator listrik. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nContoh barang dan/atau jasa strategis untuk pembangunan \ninfrastruktur antara lain impor barang yang mendukung \npembangunan jalan tol dan jembatan. \nHuruf b \nContoh barang dan/atau jasa strategis untuk pertahanan \nnasional antara lain impor alat utama sistem senjata \n(alutsista) seperti pengadaan pesawat tempur dan kapal \nperang. \nContoh barang dan/atau jasa strategis untuk keamanan \nnasional antara lain alat material khusus Kepolisian Negara \nRepublik Indonesia (almatsus Polri), seperti penyediaan \nkendaraan barracuda dan mobil gas air mata. \nHuruf c \nContoh barang dan/atau jasa strategis untuk kelancaran \nproses operasional terkait kegiatan instansi pemerintah \nantara lain impor generator listrik. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2) \nHuruf a \nYang dimaksud dengan “Pinjaman murni” adalah seluruh \npembiayaan berasal dari pemberi Pinjaman.  \nHuruf b \nYang dimaksud dengan “Pinjaman campuran” adalah \npembiayaan berasal dari pemberi Pinjaman dan terdapat \nporsi Anggaran Pendapatan dan Belanja Negara berupa RMP.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2) \nHuruf a \nYang dimaksud dengan “Pinjaman murni” adalah seluruh \npembiayaan berasal dari pemberi Pinjaman.  \nHuruf b \nYang dimaksud dengan “Pinjaman campuran” adalah \npembiayaan berasal dari pemberi Pinjaman dan terdapat \nporsi Anggaran Pendapatan dan Belanja Negara berupa RMP."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “instruksi pembayaran” adalah perintah \npembukuan \nyang \nditerbitkan \noleh \nKantor \nPelayanan \nPerbendaharaan Negara (KPPN) selaku Kuasa Bendahara Umum \nNegara untuk melaksanakan pengeluaran atas beban Anggaran \nPendapatan dan Belanja Negara berdasarkan surat perintah \nmembayar yang diterbitkan oleh KPA yang dapat dilakukan \nmelalui host to host, ALBI, dan secara manual menerbitkan surat \nperintah pencairan dana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan “instruksi pembayaran” adalah perintah \npembukuan \nyang \nditerbitkan \noleh \nKantor \nPelayanan \nPerbendaharaan Negara (KPPN) selaku Kuasa Bendahara Umum \nNegara untuk melaksanakan pengeluaran atas beban Anggaran \nPendapatan dan Belanja Negara berdasarkan surat perintah \nmembayar yang diterbitkan oleh KPA yang dapat dilakukan \nmelalui host to host, ALBI, dan secara manual menerbitkan surat \nperintah pencairan dana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “sight L/C” adalah L/C yang diterbitkan \nBank Indonesia dengan mensyaratkan pembayaran atas unjuk \ndari Complying Presentation kecuali diatur secara khusus dalam \nPerjanjian Pinjaman dan/atau Perjanjian Hibah. \nAyat (2) \nYang dimaksud dengan “unconfirmed” adalah L/C yang diterbitkan \nBank Indonesia tidak perlu dikonfirmasi oleh bank lain sebagai \ntambahan atas jaminan Bank Penerbit (Issuing Bank) untuk \nmembayar Complying Presentation. \nYang dimaksud dengan “restricted” adalah L/C yang diterbitkan \nBank \nIndonesia \nmembatasi \nPenyedia \nBarang \natau \nJasa \n(Beneficiary) untuk mempresentasikan dan/atau menegosiasikan \ndokumen tagihan L/C hanya kepada Bank Penerus (Advising \nBank) atau Bank Tertunjuk (Nominated Bank) yang disebutkan \nBank Penerbit (Issuing Bank) dalam L/C. \nYang dimaksud dengan “non-transferable” adalah L/C yang \nditerbitkan Bank Indonesia tidak dapat dialihkan kepada pihak \nketiga, sehingga hak untuk menyerahkan dokumen dan menerima \npencairan dana hanya dimiliki oleh Penyedia Barang atau Jasa \n(Beneficiary) yang tercantum dalam L/C. \nAyat (3) \nLihat penjelasan Pasal 5 ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “sight L/C” adalah L/C yang diterbitkan \nBank Indonesia dengan mensyaratkan pembayaran atas unjuk \ndari Complying Presentation kecuali diatur secara khusus dalam \nPerjanjian Pinjaman dan/atau Perjanjian Hibah. \nAyat (2) \nYang dimaksud dengan “unconfirmed” adalah L/C yang diterbitkan \nBank Indonesia tidak perlu dikonfirmasi oleh bank lain sebagai \ntambahan atas jaminan Bank Penerbit (Issuing Bank) untuk \nmembayar Complying Presentation. \nYang dimaksud dengan “restricted” adalah L/C yang diterbitkan \nBank \nIndonesia \nmembatasi \nPenyedia \nBarang \natau \nJasa \n(Beneficiary) untuk mempresentasikan dan/atau menegosiasikan \ndokumen tagihan L/C hanya kepada Bank Penerus (Advising \nBank) atau Bank Tertunjuk (Nominated Bank) yang disebutkan \nBank Penerbit (Issuing Bank) dalam L/C. \nYang dimaksud dengan “non-transferable” adalah L/C yang \nditerbitkan Bank Indonesia tidak dapat dialihkan kepada pihak \nketiga, sehingga hak untuk menyerahkan dokumen dan menerima \npencairan dana hanya dimiliki oleh Penyedia Barang atau Jasa \n(Beneficiary) yang tercantum dalam L/C. \nAyat (3) \nLihat penjelasan Pasal 5 ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nYang dimaksud dengan “relationship management application” \nadalah mekanisme kontrol dalam bentuk pengaturan otorisasi \natas proses pengiriman dan/atau penerimaan financial message \ntype antarkoresponden society for worldwide interbank financial \ntelecommunication (SWIFT).  \n \n \n \n \n\n\n \nSociety for worldwide interbank financial telecommunication \n(SWIFT) merupakan suatu jaringan (network) internasional untuk \nsistem pemindahan dana dan/atau pertukaran berita dengan \nmenggunakan teknologi informasi dan komunikasi antaranggota \nsociety for worldwide interbank financial telecommunication \n(SWIFT). \n \nAyat (2) \n \n \nCukup jelas.  \n \nAyat (3) \nCukup jelas. \nAyat (4) \nPembukaan \nrelationship \nmanagement \napplication \ndilakukan \ndengan ketentuan: \na. \npengajuan dari Bank Indonesia dan disetujui oleh Bank \nPenerus \n(Advising \nBank) \ndan/atau \nBank \nTertunjuk \n(Nominated Bank); dan  \nb. \npengajuan dari Bank Penerus (Advising Bank) dan/atau Bank \nTertunjuk (Nominated Bank) dan disetujui oleh Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nYang dimaksud dengan “relationship management application” \nadalah mekanisme kontrol dalam bentuk pengaturan otorisasi \natas proses pengiriman dan/atau penerimaan financial message \ntype antarkoresponden society for worldwide interbank financial \ntelecommunication (SWIFT).  \n \n \n \n \n\n\n \nSociety for worldwide interbank financial telecommunication \n(SWIFT) merupakan suatu jaringan (network) internasional untuk \nsistem pemindahan dana dan/atau pertukaran berita dengan \nmenggunakan teknologi informasi dan komunikasi antaranggota \nsociety for worldwide interbank financial telecommunication \n(SWIFT). \n \nAyat (2) \n \n \nCukup jelas.  \n \nAyat (3) \nCukup jelas. \nAyat (4) \nPembukaan \nrelationship \nmanagement \napplication \ndilakukan \ndengan ketentuan: \na. \npengajuan dari Bank Indonesia dan disetujui oleh Bank \nPenerus \n(Advising \nBank) \ndan/atau \nBank \nTertunjuk \n(Nominated Bank); dan  \nb. \npengajuan dari Bank Penerus (Advising Bank) dan/atau Bank \nTertunjuk (Nominated Bank) dan disetujui oleh Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPada saat Peraturan Anggota Dewan Gubernur ini diterbitkan, \nUniform Customs and Practice for Documentary Credit (UCPDC) \nversi terakhir yang diterbitkan oleh International Chamber of \nCommerce (ICC) adalah Uniform Customs and Practice for \nDocumentary Credit (UCPDC), revisi 2007, publikasi International \nChamber of Commerce (ICC) Nomor 600.  \nAyat (2) \nContoh pencantuman persyaratan tertentu untuk kepentingan \nBank Indonesia sebagai Bank Penerbit (Issuing Bank) antara lain \nberupa pencantuman bahwa L/C yang diterbitkan Bank Indonesia \ntidak tunduk pada article 14.b. Uniform Customs and Practice for \nDocumentary Credit (UCPDC) revisi 2007, publikasi International \nChamber of Commerce (ICC) Nomor 600 mengenai batasan waktu \npemeriksaan dokumen paling lama 5 (lima) hari kerja perbankan \n(banking \ndays) \nsetelah \nhari \npresentasi \ndokumen \nuntuk \nmenentukan jika presentasi dokumen sesuai (comply with), apabila \nPemberi PHLN mensyaratkan jangka waktu penarikan Pinjaman \ndan/atau Hibah yang digunakan untuk pelaksanaan pembayaran \ntagihan L/C melebihi 5 (lima) hari kerja perbankan (banking days).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPada saat Peraturan Anggota Dewan Gubernur ini diterbitkan, \nUniform Customs and Practice for Documentary Credit (UCPDC) \nversi terakhir yang diterbitkan oleh International Chamber of \nCommerce (ICC) adalah Uniform Customs and Practice for \nDocumentary Credit (UCPDC), revisi 2007, publikasi International \nChamber of Commerce (ICC) Nomor 600.  \nAyat (2) \nContoh pencantuman persyaratan tertentu untuk kepentingan \nBank Indonesia sebagai Bank Penerbit (Issuing Bank) antara lain \nberupa pencantuman bahwa L/C yang diterbitkan Bank Indonesia \ntidak tunduk pada article 14.b. Uniform Customs and Practice for \nDocumentary Credit (UCPDC) revisi 2007, publikasi International \nChamber of Commerce (ICC) Nomor 600 mengenai batasan waktu \npemeriksaan dokumen paling lama 5 (lima) hari kerja perbankan \n(banking \ndays) \nsetelah \nhari \npresentasi \ndokumen \nuntuk \nmenentukan jika presentasi dokumen sesuai (comply with), apabila \nPemberi PHLN mensyaratkan jangka waktu penarikan Pinjaman \ndan/atau Hibah yang digunakan untuk pelaksanaan pembayaran \ntagihan L/C melebihi 5 (lima) hari kerja perbankan (banking days)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \n \nCukup jelas.  \n \n \n \nHuruf b \nYang dimaksud dengan “resume of contract” adalah ringkasan \ninformasi PKPBJ yang merupakan bagian yang tidak \nterpisahkan dari aplikasi penerbitan L/C yang berisi syarat \n\n\n \ndan kondisi L/C, antara lain berupa uraian barang, syarat \npembayaran, dokumen yang dipersyaratkan, notify address, \ndan additional conditions.  \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d  \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \nCukup jelas.  \n \n \n \nHuruf g \n \n \n \nCukup jelas. \nHuruf h \n \n \n \nCukup jelas. \n \nAyat (2) \n \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \n \nCukup jelas.  \n \n \n \nHuruf b \nYang dimaksud dengan “resume of contract” adalah ringkasan \ninformasi PKPBJ yang merupakan bagian yang tidak \nterpisahkan dari aplikasi penerbitan L/C yang berisi syarat \n\n\n \ndan kondisi L/C, antara lain berupa uraian barang, syarat \npembayaran, dokumen yang dipersyaratkan, notify address, \ndan additional conditions.  \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d  \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \nCukup jelas.  \n \n \n \nHuruf g \n \n \n \nCukup jelas. \nHuruf h \n \n \n \nCukup jelas. \n \nAyat (2) \n \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2)  \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nDalam penerapan prinsip kehati-hatian, Bank Indonesia \nmempertimbangkan risiko reputasi, risiko hukum, risiko \nfinansial, dan risiko lainnya. \nContoh penerapan prinsip kehati-hatian oleh Bank Indonesia \nyaitu Bank Indonesia melakukan pengecekan pengenaan \nsanksi internasional terhadap Penyedia Barang atau Jasa \n(Beneficiary) yang merupakan counterpart Aplikan, Bank \nPenerus \n(Advising \nBank), \ndan/atau \nBank \nTertunjuk \n(Nominated Bank). \nAyat (3)  \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2)  \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nDalam penerapan prinsip kehati-hatian, Bank Indonesia \nmempertimbangkan risiko reputasi, risiko hukum, risiko \nfinansial, dan risiko lainnya. \nContoh penerapan prinsip kehati-hatian oleh Bank Indonesia \nyaitu Bank Indonesia melakukan pengecekan pengenaan \nsanksi internasional terhadap Penyedia Barang atau Jasa \n(Beneficiary) yang merupakan counterpart Aplikan, Bank \nPenerus \n(Advising \nBank), \ndan/atau \nBank \nTertunjuk \n(Nominated Bank). \nAyat (3)  \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPertimbangan pemenuhan prinsip kehati-hatian antara lain \nadanya pengenaan sanksi termasuk sanksi internasional dan \nsanksi unilateral. \nAyat (2) \nCukup jelas. \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPertimbangan pemenuhan prinsip kehati-hatian antara lain \nadanya pengenaan sanksi termasuk sanksi internasional dan \nsanksi unilateral. \nAyat (2) \nCukup jelas. \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nInternational standard messaging antara lain society for worldwide \ninterbank financial telecommunication (SWIFT).  \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nInternational standard messaging antara lain society for worldwide \ninterbank financial telecommunication (SWIFT).  \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kegiatan pemantauan dilakukan untuk memastikan profil terkini \nPenyedia Barang atau Jasa (Beneficiary) yang merupakan counterpart \nAplikan, Bank Penerus (Advising Bank) dan/atau Bank Tertunjuk \n(Nominated Bank), dan untuk memastikan maksud dan tujuan \nTransaksi L/C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kegiatan pemantauan dilakukan untuk memastikan profil terkini \nPenyedia Barang atau Jasa (Beneficiary) yang merupakan counterpart \nAplikan, Bank Penerus (Advising Bank) dan/atau Bank Tertunjuk \n(Nominated Bank), dan untuk memastikan maksud dan tujuan \nTransaksi L/C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “dokumen tagihan L/C” adalah dokumen \nyang dipersyaratkan dalam L/C antara lain berupa tagihan \n(invoice), dokumen pengiriman barang berupa bill of lading atau \nairway bill dan certificate of origin. \nHuruf a \nCukup jelas.  \nHuruf b \n \nCukup jelas.  \nHuruf c \nYang dimaksud dengan “pihak yang ditunjuk oleh \nPenyedia Barang atau Jasa (Beneficiary)” adalah pihak \nyang \nditunjuk \noleh \nPenyedia \nBarang \natau \nJasa \n(Beneficiary) untuk mengirimkan dokumen tagihan L/C \nke Bank Indonesia. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “dokumen tagihan L/C” adalah dokumen \nyang dipersyaratkan dalam L/C antara lain berupa tagihan \n(invoice), dokumen pengiriman barang berupa bill of lading atau \nairway bill dan certificate of origin. \nHuruf a \nCukup jelas.  \nHuruf b \n \nCukup jelas.  \nHuruf c \nYang dimaksud dengan “pihak yang ditunjuk oleh \nPenyedia Barang atau Jasa (Beneficiary)” adalah pihak \nyang \nditunjuk \noleh \nPenyedia \nBarang \natau \nJasa \n(Beneficiary) untuk mengirimkan dokumen tagihan L/C \nke Bank Indonesia. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nComplying Presentation antara lain adanya kondisi dokumen yang \ntidak terdapat kesalahan atau penyimpangan, kesesuaian waktu \natau tanggal penyerahan dokumen, kesesuaian waktu atau \ntanggal lainnya, dan ketersediaan saldo L/C.  \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nComplying Presentation antara lain adanya kondisi dokumen yang \ntidak terdapat kesalahan atau penyimpangan, kesesuaian waktu \natau tanggal penyerahan dokumen, kesesuaian waktu atau \ntanggal lainnya, dan ketersediaan saldo L/C.  \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nYang dimaksud dengan “Perjanjian Pinjaman dan/atau \nPerjanjian Hibah telah dinyatakan efektif” adalah penerima \nPinjaman dan/atau Hibah telah memenuhi kewajiban \nsebagaimana tercantum dalam Perjanjian Pinjaman dan/atau \nPerjanjian Hibah seperti adanya power of attorney dan \npembayaran fee. \n \n \nHuruf d \n \n \n \nCukup jelas. \nHuruf e \nYang dimaksud “syarat dan kondisi Perjanjian Pinjaman \ndan/atau Perjanjian Hibah telah dipenuhi” antara lain \nberupa: \n1. \npenarikan \nPinjaman \ndan/atau \nHibah \ndisertai \ndisbursement request yang menyatakan adanya jangka \nwaktu pembayaran kepada Penyedia Barang atau Jasa \n(Beneficiary); atau  \n2. \npenerima Pinjaman menarik terlebih dahulu dana \nPinjaman (disbursement of loan) untuk selanjutnya \ndikreditkan pada rekening yang ditunjuk di Bank \nIndonesia dan Bank Indonesia sebagai Bank Penerbit \n(Issuing Bank) melakukan transfer kepada Penyedia \nBarang atau Jasa (Beneficiary). \nHuruf f \n Cukup jelas. \nHuruf g \n \n \n \nCukup jelas. \nHuruf h \n \n \n \nCukup jelas. \nAyat (3) \n \n \nHuruf a \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nCukup jelas. \nHuruf d \nKetentuan \nperaturan \nKementerian \nKeuangan \nRepublik \nIndonesia mengenai pembayaran tagihan L/C yang sumber \npembiayaannya berasal dari Rupiah Murni antara lain \nketentuan mengenai: \n1. \npembayaran tagihan L/C; \n2. \nwaktu penyelesaian pembayaran tagihan L/C; dan \n3. \npembayaran penyelesaian pekerjaan yang melampaui \nakhir tahun Anggaran Pendapatan dan Belanja Negara. \nHuruf e \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nYang dimaksud dengan “Perjanjian Pinjaman dan/atau \nPerjanjian Hibah telah dinyatakan efektif” adalah penerima \nPinjaman dan/atau Hibah telah memenuhi kewajiban \nsebagaimana tercantum dalam Perjanjian Pinjaman dan/atau \nPerjanjian Hibah seperti adanya power of attorney dan \npembayaran fee. \n \n \nHuruf d \n \n \n \nCukup jelas. \nHuruf e \nYang dimaksud “syarat dan kondisi Perjanjian Pinjaman \ndan/atau Perjanjian Hibah telah dipenuhi” antara lain \nberupa: \n1. \npenarikan \nPinjaman \ndan/atau \nHibah \ndisertai \ndisbursement request yang menyatakan adanya jangka \nwaktu pembayaran kepada Penyedia Barang atau Jasa \n(Beneficiary); atau  \n2. \npenerima Pinjaman menarik terlebih dahulu dana \nPinjaman (disbursement of loan) untuk selanjutnya \ndikreditkan pada rekening yang ditunjuk di Bank \nIndonesia dan Bank Indonesia sebagai Bank Penerbit \n(Issuing Bank) melakukan transfer kepada Penyedia \nBarang atau Jasa (Beneficiary). \nHuruf f \n Cukup jelas. \nHuruf g \n \n \n \nCukup jelas. \nHuruf h \n \n \n \nCukup jelas. \nAyat (3) \n \n \nHuruf a \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nCukup jelas. \nHuruf d \nKetentuan \nperaturan \nKementerian \nKeuangan \nRepublik \nIndonesia mengenai pembayaran tagihan L/C yang sumber \npembiayaannya berasal dari Rupiah Murni antara lain \nketentuan mengenai: \n1. \npembayaran tagihan L/C; \n2. \nwaktu penyelesaian pembayaran tagihan L/C; dan \n3. \npembayaran penyelesaian pekerjaan yang melampaui \nakhir tahun Anggaran Pendapatan dan Belanja Negara. \nHuruf e \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \nCukup jelas. \nHuruf b \nPertimbangan Bank Indonesia didasarkan pada penelitian \nkelengkapan dan kebenaran dokumen pendukung perubahan \nL/C dan penerapan prinsip kehati-hatian dalam perubahan \nL/C. \n \nAyat (2) \n \n \nHuruf a \nPerubahan terhadap syarat dan kondisi L/C antara lain \nadalah perpanjangan jangka waktu L/C. \n \n \nHuruf b \nPerubahan terhadap nilai L/C dapat berupa kenaikan \n(increase) atau penurunan (decrease) nilai L/C. \n \n \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \nCukup jelas. \nHuruf b \nPertimbangan Bank Indonesia didasarkan pada penelitian \nkelengkapan dan kebenaran dokumen pendukung perubahan \nL/C dan penerapan prinsip kehati-hatian dalam perubahan \nL/C. \n \nAyat (2) \n \n \nHuruf a \nPerubahan terhadap syarat dan kondisi L/C antara lain \nadalah perpanjangan jangka waktu L/C. \n \n \nHuruf b \nPerubahan terhadap nilai L/C dapat berupa kenaikan \n(increase) atau penurunan (decrease) nilai L/C. \n \n \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \nHuruf c \nPerubahan Perjanjian Pinjaman dan/atau Perjanjian Hibah \ndisampaikan apabila terdapat perubahan syarat dan kondisi \nPinjaman dan/atau Hibah. \nHuruf d \n \n \n \nCukup jelas. \nHuruf e \n \nLihat Penjelasan Pasal 9 ayat (2). \nHuruf f \nPerubahan SKP L/C atau SPP L/C disampaikan apabila \nterdapat perubahan nilai L/C berupa kenaikan (increase) atau \npenurunan (decrease) nilai L/C dan masa berlaku L/C. \nHuruf g \nLihat penjelasan Pasal 5 ayat (2). \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \nHuruf c \nPerubahan Perjanjian Pinjaman dan/atau Perjanjian Hibah \ndisampaikan apabila terdapat perubahan syarat dan kondisi \nPinjaman dan/atau Hibah. \nHuruf d \n \n \n \nCukup jelas. \nHuruf e \n \nLihat Penjelasan Pasal 9 ayat (2). \nHuruf f \nPerubahan SKP L/C atau SPP L/C disampaikan apabila \nterdapat perubahan nilai L/C berupa kenaikan (increase) atau \npenurunan (decrease) nilai L/C dan masa berlaku L/C. \nHuruf g \nLihat penjelasan Pasal 5 ayat (2). \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 22 ayat (1). \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 22 ayat (1). \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nDokumen \npendukung \nberupa \nkesepakatan \npembatalan \nTransaksi \nL/C \nantara \nlain \nberupa \nkorespondensi \nyang \nmenunjukkan adanya kesepakatan pembatalan L/C antara \nAplikan dan Penyedia Barang atau Jasa (Beneficiary). \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nDokumen \npendukung \nberupa \nkesepakatan \npembatalan \nTransaksi \nL/C \nantara \nlain \nberupa \nkorespondensi \nyang \nmenunjukkan adanya kesepakatan pembatalan L/C antara \nAplikan dan Penyedia Barang atau Jasa (Beneficiary). \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \n \nAyat (2) \nDokumen tagihan L/C yang dipersyaratkan dalam L/C antara lain \nberupa tagihan (invoice), dokumen pengiriman barang berupa bill \nof lading atau airway bill dan certificate of origin.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \n \nAyat (2) \nDokumen tagihan L/C yang dipersyaratkan dalam L/C antara lain \nberupa tagihan (invoice), dokumen pengiriman barang berupa bill \nof lading atau airway bill dan certificate of origin."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \n \n \nCukup jelas. \nAyat (4) \n \n \nCukup jelas. \nAyat (5) \n \n \nCukup jelas. \nAyat (6) \nContoh biaya yang timbul sebagai akibat dari pengembalian uang \nyaitu biaya transaksi melalui society for worldwide interbank \nfinancial telecommunication (SWIFT).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \n \n \nCukup jelas. \nAyat (4) \n \n \nCukup jelas. \nAyat (5) \n \n \nCukup jelas. \nAyat (6) \nContoh biaya yang timbul sebagai akibat dari pengembalian uang \nyaitu biaya transaksi melalui society for worldwide interbank \nfinancial telecommunication (SWIFT)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nHuruf a \nPihak di luar Bank Indonesia antara lain Aplikan dan \nKementerian Keuangan Republik Indonesia. \n \n \nHuruf b \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nHuruf a \nPihak di luar Bank Indonesia antara lain Aplikan dan \nKementerian Keuangan Republik Indonesia. \n \n \nHuruf b \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Lihat penjelasan Pasal 52 ayat (2) huruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Lihat penjelasan Pasal 52 ayat (2) huruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 112,
+  "total_ayat": 184,
+  "total_karakter": 60972,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

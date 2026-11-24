@@ -1,0 +1,46 @@
+{
+  "run_id": "corpus_init_20261115_170536",
+  "timestamp_utc": "2026-11-15T17:05:36.785559+00:00",
+  "phase": 1,
+  "config": {
+    "target_total": 320,
+    "target_ojk": 160,
+    "target_bi": 160,
+    "raw_dir": "data/raw",
+    "register_path": "data/source_register.csv",
+    "request_timeout_seconds": 45,
+    "request_delay_seconds": 0.5,
+    "max_retries": 3,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 (Research Corpus Ingestion/TBP)",
+    "ojk": {
+      "base_url": "https://jdih.ojk.go.id",
+      "sektors": [
+        "01",
+        "02"
+      ],
+      "jenis": [
+        "06",
+        "09"
+      ]
+    },
+    "bi": {
+      "base_url": "https://jdih.bi.go.id",
+      "listing_url": "https://jdih.bi.go.id/Web/DaftarPeraturan",
+      "download_api": "https://jdih.bi.go.id/api/WebJDIH/GetFilePeraturan"
+    }
+  },
+  "verification": {
+    "total_records": 320,
+    "unique_hashes": 320,
+    "missing_files_count": 0,
+    "corrupted_hashes_count": 0,
+    "duplicates_count": 0,
+    "is_valid": true
+  },
+  "breakdown": {
+    "BI_PADG": 114,
+    "BI_PBI": 46,
+    "OJK_POJK": 160
+  },
+  "total_storage_mb": 396.22
+}

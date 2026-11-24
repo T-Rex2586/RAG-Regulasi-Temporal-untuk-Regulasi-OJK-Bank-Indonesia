@@ -1,0 +1,807 @@
+{
+  "doc_id": "OJK_POJK_2015_26_7b8e76db",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "26",
+  "tahun": "2015",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 26/POJK.03/2015 tentang Kewajiban Penyediaan Modal Minimum Terintegrasi Bagi Konglomerasi Keuangan",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "4 Desember 2015",
+  "tanggal_berlaku": "saat ketentuan",
+  "diundangkan_pada": "11 Desember 2015",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "TOTAL MODAL AKTUAL KONGLOMERASI KEUANGAN (AGGREGATE NET EQUITY)"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "TOTAL MODAL MINIMUM KONGLOMERASI KEUANGAN (AGGREGATE REGULATORY CAPITAL REQUIREMENT)"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nLembaga Jasa Keuangan, yang selanjutnya disingkat \nLJK, adalah lembaga yang melaksanakan kegiatan di \nsektor Perbankan, Pasar Modal, Perasuransian, Dana \nPensiun, Lembaga Pembiayaan, dan Lembaga Jasa \nKeuangan \nLainnya \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 21 Tahun 2011 tentang Otoritas \nJasa Keuangan.  \n2. \nKonglomerasi Keuangan adalah Konglomerasi Keuangan \nsebagaimana dimaksud dalam ketentuan Otoritas Jasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \nterintegrasi bagi konglomerasi keuangan. \n\n\n \n3. \nEntitas Utama adalah Entitas Utama sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko terintegrasi bagi \nkonglomerasi keuangan. \n4. \nPerusahaan Anak adalah Perusahaan Anak sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko terintegrasi bagi \nkonglomerasi keuangan. \n5. \nRasio \nKewajiban \nPenyediaan \nModal \nMinimum \nTerintegrasi, yang selanjutnya disebut Rasio KPMM \nTerintegrasi, adalah perbandingan antara Total Modal \nAktual Konglomerasi Keuangan (aggregate net equity) \ndengan Total Modal Minimum Konglomerasi Keuangan \n(aggregate regulatory capital requirement). \n6. \nManajemen Permodalan Terintegrasi adalah proses yang \nberkesinambungan untuk memelihara permodalan pada \ntingkat yang memadai dalam rangka mendukung rencana \nbisnis Konglomerasi Keuangan maupun mengantisipasi \npotensi \nkerugian \nyang \ndiakibatkan \noleh \naktivitas \nKonglomerasi Keuangan. \n7. \nDireksi adalah: \na. \nbagi LJK berbadan hukum Perseroan Terbatas \nadalah \nDireksi \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 40 Tahun 2007 tentang \nPerseroan Terbatas; \nb. \nbagi LJK berbadan hukum: \n1) Perusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah Direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 23 \nTahun \ntentang \nPemerintahan \nDaerah \nsebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-Undang Nomor 9 Tahun 2015;  \n\n\n \n2) Perusahaan Daerah adalah Direksi Perusahaan \nDaerah yang belum menyesuaikan bentuk badan \nhukum sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPemerintahan Daerah sebagaimana telah diubah \nterakhir dengan Undang-Undang Nomor 9 Tahun \n2015; \nc. \nbagi \nLJK \nberbadan \nhukum \nKoperasi \nadalah \nPengurus sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi LJK berbadan hukum Usaha Bersama adalah \nDireksi sebagaimana dimaksud dalam anggaran \ndasar perusahaan; \ne. \nbagi LJK berstatus sebagai kantor cabang dari \nentitas yang berkedudukan di luar negeri adalah \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang. \n8. \nDewan Komisaris adalah: \na. \nbagi LJK berbadan hukum Perseroan Terbatas \nadalah Dewan Komisaris sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb. \nbagi LJK berbadan hukum: \n1) Perusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah Dewan Pengawas atau \nKomisaris \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah diubah \nterakhir dengan Undang-Undang Nomor 9 Tahun \n2015;  \n\n\n \n2) Perusahaan \nDaerah \nadalah \nPengawas \nbagi \nPerusahaan Daerah yang belum menyesuaikan \nbentuk badan hukum sebagaimana dimaksud \ndalam Undang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana telah \ndiubah terakhir dengan Undang-Undang Nomor \n9 Tahun 2015; \nc. \nbagi \nLJK \nberbadan \nhukum \nKoperasi \nadalah \nPengawas sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi LJK berbadan hukum Usaha Bersama adalah \nDewan Komisaris sebagaimana dimaksud dalam \nanggaran dasar perusahaan; \ne. \nbagi LJK berstatus sebagai kantor cabang dari \nentitas yang berkedudukan di luar negeri adalah \npihak yang ditunjuk untuk melaksanakan fungsi \npengawasan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nLembaga Jasa Keuangan, yang selanjutnya disingkat \nLJK, adalah lembaga yang melaksanakan kegiatan di \nsektor Perbankan, Pasar Modal, Perasuransian, Dana \nPensiun, Lembaga Pembiayaan, dan Lembaga Jasa \nKeuangan \nLainnya \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 21 Tahun 2011 tentang Otoritas \nJasa Keuangan.  \n2. \nKonglomerasi Keuangan adalah Konglomerasi Keuangan \nsebagaimana dimaksud dalam ketentuan Otoritas Jasa \nKeuangan \nmengenai \npenerapan \nmanajemen \nrisiko \nterintegrasi bagi konglomerasi keuangan. \n\n\n \n3. \nEntitas Utama adalah Entitas Utama sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko terintegrasi bagi \nkonglomerasi keuangan. \n4. \nPerusahaan Anak adalah Perusahaan Anak sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan \nmengenai penerapan manajemen risiko terintegrasi bagi \nkonglomerasi keuangan. \n5. \nRasio \nKewajiban \nPenyediaan \nModal \nMinimum \nTerintegrasi, yang selanjutnya disebut Rasio KPMM \nTerintegrasi, adalah perbandingan antara Total Modal \nAktual Konglomerasi Keuangan (aggregate net equity) \ndengan Total Modal Minimum Konglomerasi Keuangan \n(aggregate regulatory capital requirement). \n6. \nManajemen Permodalan Terintegrasi adalah proses yang \nberkesinambungan untuk memelihara permodalan pada \ntingkat yang memadai dalam rangka mendukung rencana \nbisnis Konglomerasi Keuangan maupun mengantisipasi \npotensi \nkerugian \nyang \ndiakibatkan \noleh \naktivitas \nKonglomerasi Keuangan. \n7. \nDireksi adalah: \na. \nbagi LJK berbadan hukum Perseroan Terbatas \nadalah \nDireksi \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 40 Tahun 2007 tentang \nPerseroan Terbatas; \nb. \nbagi LJK berbadan hukum: \n1) Perusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah Direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 23 \nTahun \ntentang \nPemerintahan \nDaerah \nsebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-Undang Nomor 9 Tahun 2015;  \n\n\n \n2) Perusahaan Daerah adalah Direksi Perusahaan \nDaerah yang belum menyesuaikan bentuk badan \nhukum sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPemerintahan Daerah sebagaimana telah diubah \nterakhir dengan Undang-Undang Nomor 9 Tahun \n2015; \nc. \nbagi \nLJK \nberbadan \nhukum \nKoperasi \nadalah \nPengurus sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi LJK berbadan hukum Usaha Bersama adalah \nDireksi sebagaimana dimaksud dalam anggaran \ndasar perusahaan; \ne. \nbagi LJK berstatus sebagai kantor cabang dari \nentitas yang berkedudukan di luar negeri adalah \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang. \n8. \nDewan Komisaris adalah: \na. \nbagi LJK berbadan hukum Perseroan Terbatas \nadalah Dewan Komisaris sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb. \nbagi LJK berbadan hukum: \n1) Perusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah Dewan Pengawas atau \nKomisaris \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah diubah \nterakhir dengan Undang-Undang Nomor 9 Tahun \n2015;  \n\n\n \n2) Perusahaan \nDaerah \nadalah \nPengawas \nbagi \nPerusahaan Daerah yang belum menyesuaikan \nbentuk badan hukum sebagaimana dimaksud \ndalam Undang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana telah \ndiubah terakhir dengan Undang-Undang Nomor \n9 Tahun 2015; \nc. \nbagi \nLJK \nberbadan \nhukum \nKoperasi \nadalah \nPengawas sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi LJK berbadan hukum Usaha Bersama adalah \nDewan Komisaris sebagaimana dimaksud dalam \nanggaran dasar perusahaan; \ne. \nbagi LJK berstatus sebagai kantor cabang dari \nentitas yang berkedudukan di luar negeri adalah \npihak yang ditunjuk untuk melaksanakan fungsi \npengawasan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nKonglomerasi \nKeuangan \nwajib \nmenyediakan \nmodal \nminimum terintegrasi paling rendah sebesar 100% \n(seratus persen) dari Total Modal Minimum (TMM) \nKonglomerasi Keuangan (aggregate regulatory capital \nrequirement). \n(2) \nPenyediaan Modal Minimum Terintegrasi sebagaimana \ndimaksud \npada \nayat \n(1) \nwajib \ndilakukan \ndengan \nmenghitung Rasio KPMM Terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Konglomerasi \nKeuangan \nwajib \nmenyediakan \nmodal \nminimum terintegrasi paling rendah sebesar 100% \n(seratus persen) dari Total Modal Minimum (TMM) \nKonglomerasi Keuangan (aggregate regulatory capital \nrequirement)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyediaan Modal Minimum Terintegrasi sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "wajib \ndilakukan \ndengan \nmenghitung Rasio KPMM Terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan berwenang menetapkan modal \nminimum terintegrasi lebih besar dari modal minimum \nsebagaimana dimaksud dalam Pasal 2 ayat (1), dalam hal \nOtoritas Jasa Keuangan menilai Konglomerasi Keuangan \nmenghadapi \nrisiko \nyang \nmembutuhkan \npenyediaan \nmodal lebih besar.  \n\n\n \n(2) \nOtoritas Jasa Keuangan berwenang meminta anggota \nKonglomerasi Keuangan yang berpotensi menimbulkan \npermasalahan \npermodalan \nKonglomerasi \nKeuangan \nuntuk meningkatkan modal dan melakukan hal-hal lain \nsesuai ketentuan pada masing-masing sektor keuangan. \n(3) \nPermintaan \nsebagaimana \ndimaksud \npada \nayat \n(2) \ndilakukan dalam hal Otoritas Jasa Keuangan menilai \nterdapat \nkecenderungan \npenurunan \nmodal \nyang \nberpotensi menyebabkan modal Konglomerasi Keuangan \nberada di bawah kewajiban penyediaan modal minimum \nterintegrasi sebagaimana dimaksud dalam Pasal 2 ayat \n(1) atau Pasal 3 ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan berwenang menetapkan modal \nminimum terintegrasi lebih besar dari modal minimum \nsebagaimana dimaksud dalam Pasal 2 ayat (1), dalam hal \nOtoritas Jasa Keuangan menilai Konglomerasi Keuangan \nmenghadapi \nrisiko \nyang \nmembutuhkan \npenyediaan \nmodal lebih besar."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan berwenang meminta anggota \nKonglomerasi Keuangan yang berpotensi menimbulkan \npermasalahan \npermodalan \nKonglomerasi \nKeuangan \nuntuk meningkatkan modal dan melakukan hal-hal lain \nsesuai ketentuan pada masing-masing sektor keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Permintaan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dilakukan dalam hal Otoritas Jasa Keuangan menilai \nterdapat \nkecenderungan \npenurunan \nmodal \nyang \nberpotensi menyebabkan modal Konglomerasi Keuangan \nberada di bawah kewajiban penyediaan modal minimum \nterintegrasi sebagaimana dimaksud dalam Pasal 2 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "atau Pasal 3 ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "LJK anggota Konglomerasi Keuangan dilarang melakukan \ntindakan yang dapat mengakibatkan kondisi permodalan \nKonglomerasi \nKeuangan \ntidak \nmemenuhi \nketentuan \nsebagaimana dimaksud dalam Pasal 2 ayat (1) atau Pasal 3 \nayat (1). \n \nBAB II \nTOTAL MODAL AKTUAL KONGLOMERASI KEUANGAN \n(AGGREGATE NET EQUITY)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "LJK anggota Konglomerasi Keuangan dilarang melakukan \ntindakan yang dapat mengakibatkan kondisi permodalan \nKonglomerasi \nKeuangan \ntidak \nmemenuhi \nketentuan \nsebagaimana dimaksud dalam Pasal 2 ayat (1) atau Pasal 3 \nayat (1). \n \nBAB II \nTOTAL MODAL AKTUAL KONGLOMERASI KEUANGAN \n(AGGREGATE NET EQUITY)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TOTAL MODAL AKTUAL KONGLOMERASI KEUANGAN (AGGREGATE NET EQUITY)",
+      "teks_lengkap": "(1) \nDalam \nmenghitung \nRasio \nKPMM \nTerintegrasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2), Entitas \nUtama \nmenghitung \nTotal \nModal \nAktual \n(TMA) \nKonglomerasi Keuangan dengan cara menjumlahkan nilai \nnominal dari modal aktual masing-masing LJK secara \nindividu dan/atau secara konsolidasi dengan Perusahaan \nAnak dalam Konglomerasi Keuangan sesuai ketentuan \npada masing-masing sektor keuangan. \n(2) \nTMA Konglomerasi Keuangan sebagaimana dimaksud \npada ayat (1) harus dikurangi dengan faktor pengurang \nmodal berupa:  \n\n\n \na. \npenyertaan modal LJK kepada LJK lain dalam \nKonglomerasi Keuangan; dan/atau \nb. \npenempatan dana LJK kepada LJK lain dalam \nKonglomerasi Keuangan  yang diakui sebagai \ninstrumen modal (regulatory capital) oleh LJK lain \ndimaksud, \nsepanjang belum diperhitungkan dalam perhitungan \nmodal \natau \nbelum \ndiperhitungkan \nsebagai \nfaktor \npengurang modal pada masing-masing sektor keuangan. \n(3) \nDalam hal suatu sektor keuangan memiliki pengaturan \nperhitungan \npermodalan \nkonsolidasi \nterhadap \nPerusahaan Anak, modal aktual yang diperhitungkan \ndalam TMA Konglomerasi Keuangan adalah modal aktual \nsecara konsolidasi dengan Perusahaan Anak. \n(4) \nDalam \nhal \npengaturan \nperhitungan \npermodalan \nkonsolidasi \ntidak \nmemperhitungkan \nmodal \nsuatu \nPerusahaan Anak, modal aktual Perusahaan Anak \ndimaksud diperhitungkan dalam TMA Konglomerasi \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmenghitung \nRasio \nKPMM \nTerintegrasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2), Entitas \nUtama \nmenghitung \nTotal \nModal \nAktual \n(TMA) \nKonglomerasi Keuangan dengan cara menjumlahkan nilai \nnominal dari modal aktual masing-masing LJK secara \nindividu dan/atau secara konsolidasi dengan Perusahaan \nAnak dalam Konglomerasi Keuangan sesuai ketentuan \npada masing-masing sektor keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "TMA Konglomerasi Keuangan sebagaimana dimaksud \npada ayat (1) harus dikurangi dengan faktor pengurang \nmodal berupa:  \n\n\n \na. \npenyertaan modal LJK kepada LJK lain dalam \nKonglomerasi Keuangan; dan/atau \nb. \npenempatan dana LJK kepada LJK lain dalam \nKonglomerasi Keuangan  yang diakui sebagai \ninstrumen modal (regulatory capital) oleh LJK lain \ndimaksud, \nsepanjang belum diperhitungkan dalam perhitungan \nmodal \natau \nbelum \ndiperhitungkan \nsebagai \nfaktor \npengurang modal pada masing-masing sektor keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal suatu sektor keuangan memiliki pengaturan \nperhitungan \npermodalan \nkonsolidasi \nterhadap \nPerusahaan Anak, modal aktual yang diperhitungkan \ndalam TMA Konglomerasi Keuangan adalah modal aktual \nsecara konsolidasi dengan Perusahaan Anak."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nhal \npengaturan \nperhitungan \npermodalan \nkonsolidasi \ntidak \nmemperhitungkan \nmodal \nsuatu \nPerusahaan Anak, modal aktual Perusahaan Anak \ndimaksud diperhitungkan dalam TMA Konglomerasi \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TOTAL MODAL AKTUAL KONGLOMERASI KEUANGAN (AGGREGATE NET EQUITY)",
+      "teks_lengkap": "Modal \naktual \nmasing-masing \nLJK \ndalam \nKonglomerasi \nKeuangan secara individu dan/atau secara konsolidasi \ndengan Perusahaan Anak yang diperhitungkan dalam TMA \nKonglomerasi Keuangan yaitu: \na. \nbagi bank adalah modal inti aktual dan modal pelengkap \naktual; \nb. \nbagi \nperusahaan \npembiayaan \nadalah \nmodal \nyang \ndisesuaikan aktual; \nc. \nbagi perusahaan asuransi/reasuransi adalah nilai aktual \ndari selisih antara aset/kekayaan yang diperkenankan \ndengan liabilitas; \nd. \nbagi perusahaan efek adalah Modal Kerja Bersih yang \nDisesuaikan (MKBD) aktual. \n \n \n \n\n\n \nBAB III \nTOTAL MODAL MINIMUM KONGLOMERASI KEUANGAN \n(AGGREGATE REGULATORY CAPITAL REQUIREMENT)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Modal \naktual \nmasing-masing \nLJK \ndalam \nKonglomerasi \nKeuangan secara individu dan/atau secara konsolidasi \ndengan Perusahaan Anak yang diperhitungkan dalam TMA \nKonglomerasi Keuangan yaitu: \na. \nbagi bank adalah modal inti aktual dan modal pelengkap \naktual; \nb. \nbagi \nperusahaan \npembiayaan \nadalah \nmodal \nyang \ndisesuaikan aktual; \nc. \nbagi perusahaan asuransi/reasuransi adalah nilai aktual \ndari selisih antara aset/kekayaan yang diperkenankan \ndengan liabilitas; \nd. \nbagi perusahaan efek adalah Modal Kerja Bersih yang \nDisesuaikan (MKBD) aktual. \n \n \n \n\n\n \nBAB III \nTOTAL MODAL MINIMUM KONGLOMERASI KEUANGAN \n(AGGREGATE REGULATORY CAPITAL REQUIREMENT)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TOTAL MODAL MINIMUM KONGLOMERASI KEUANGAN (AGGREGATE REGULATORY CAPITAL REQUIREMENT)",
+      "teks_lengkap": "(1) \nDalam \nmenghitung \nRasio \nKPMM \nTerintegrasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2), Entitas \nUtama \nmenghitung \nTotal \nModal \nMinimum \n(TMM) \nKonglomerasi Keuangan dengan cara menjumlahkan nilai \nnominal dari modal minimum masing-masing LJK secara \nindividu dan/atau secara konsolidasi dengan Perusahaan \nAnak yang wajib dipenuhi oleh masing-masing LJK dalam \nKonglomerasi Keuangan sesuai ketentuan pada masing-\nmasing sektor keuangan. \n(2) \nDalam hal suatu sektor keuangan memiliki pengaturan \nperhitungan \npermodalan \nkonsolidasi \nterhadap \nPerusahaan Anak, modal minimum yang diperhitungkan \ndalam TMM Konglomerasi Keuangan adalah modal \nminimum secara konsolidasi dengan Perusahaan Anak \nyang wajib dipenuhi sesuai ketentuan pada masing-\nmasing sektor keuangan. \n(3) \nDalam \nhal \npengaturan \nperhitungan \npermodalan \nkonsolidasi \ntidak \nmemperhitungkan \nmodal \nsuatu \nPerusahaan Anak, modal minimum Perusahaan Anak \ndimaksud diperhitungkan dalam TMM Konglomerasi \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmenghitung \nRasio \nKPMM \nTerintegrasi \nsebagaimana dimaksud dalam Pasal 2 ayat (2), Entitas \nUtama \nmenghitung \nTotal \nModal \nMinimum \n(TMM) \nKonglomerasi Keuangan dengan cara menjumlahkan nilai \nnominal dari modal minimum masing-masing LJK secara \nindividu dan/atau secara konsolidasi dengan Perusahaan \nAnak yang wajib dipenuhi oleh masing-masing LJK dalam \nKonglomerasi Keuangan sesuai ketentuan pada masing-\nmasing sektor keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal suatu sektor keuangan memiliki pengaturan \nperhitungan \npermodalan \nkonsolidasi \nterhadap \nPerusahaan Anak, modal minimum yang diperhitungkan \ndalam TMM Konglomerasi Keuangan adalah modal \nminimum secara konsolidasi dengan Perusahaan Anak \nyang wajib dipenuhi sesuai ketentuan pada masing-\nmasing sektor keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \npengaturan \nperhitungan \npermodalan \nkonsolidasi \ntidak \nmemperhitungkan \nmodal \nsuatu \nPerusahaan Anak, modal minimum Perusahaan Anak \ndimaksud diperhitungkan dalam TMM Konglomerasi \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TOTAL MODAL MINIMUM KONGLOMERASI KEUANGAN (AGGREGATE REGULATORY CAPITAL REQUIREMENT)",
+      "teks_lengkap": "Modal minimum masing-masing LJK dalam Konglomerasi \nKeuangan secara individu dan/atau secara konsolidasi \ndengan Perusahaan Anak yang diperhitungkan dalam TMM \nKonglomerasi Keuangan yaitu:  \na. \nbagi bank adalah modal minimum sesuai profil risiko;  \nb. \nbagi \nperusahaan \npembiayaan \nadalah \nmodal \nyang \ndisesuaikan minimum;  \n\n\n \nc. \nbagi \nperusahaan \nasuransi/reasuransi \nadalah \nnilai \nminimum \ndari \nselisih \nantara \naset/kekayaan \nyang \ndiperkenankan dengan liabilitas;  \nd. \nbagi perusahaan efek adalah nilai minimum Modal Kerja \nBersih yang Disesuaikan (MKBD). \n \nBAB IV \nMANAJEMEN PERMODALAN TERINTEGRASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Modal minimum masing-masing LJK dalam Konglomerasi \nKeuangan secara individu dan/atau secara konsolidasi \ndengan Perusahaan Anak yang diperhitungkan dalam TMM \nKonglomerasi Keuangan yaitu:  \na. \nbagi bank adalah modal minimum sesuai profil risiko;  \nb. \nbagi \nperusahaan \npembiayaan \nadalah \nmodal \nyang \ndisesuaikan minimum;  \n\n\n \nc. \nbagi \nperusahaan \nasuransi/reasuransi \nadalah \nnilai \nminimum \ndari \nselisih \nantara \naset/kekayaan \nyang \ndiperkenankan dengan liabilitas;  \nd. \nbagi perusahaan efek adalah nilai minimum Modal Kerja \nBersih yang Disesuaikan (MKBD). \n \nBAB IV \nMANAJEMEN PERMODALAN TERINTEGRASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "(1) \nKonglomerasi Keuangan wajib menerapkan Manajemen \nPermodalan Terintegrasi secara komprehensif dan efektif.  \n(2) \nPenerapan \nManajemen \nPermodalan \nTerintegrasi \nsebagaimana dimaksud pada ayat (1) wajib dilakukan \noleh Entitas Utama, Direksi Entitas Utama, dan Dewan \nKomisaris Entitas Utama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Konglomerasi Keuangan wajib menerapkan Manajemen \nPermodalan Terintegrasi secara komprehensif dan efektif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan \nManajemen \nPermodalan \nTerintegrasi \nsebagaimana dimaksud pada ayat (1) wajib dilakukan \noleh Entitas Utama, Direksi Entitas Utama, dan Dewan \nKomisaris Entitas Utama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "(1) \nDireksi Entitas Utama dan Dewan Komisaris Entitas \nUtama \nberwenang \ndan \nbertanggung \njawab \nuntuk \nmemastikan \npenerapan \nManajemen \nPermodalan \nTerintegrasi sebagaimana dimaksud dalam Pasal 9 ayat \n(1) sesuai dengan karakteristik dan kompleksitas usaha \nKonglomerasi Keuangan. \n(2) \nKewenangan dan tanggung jawab Direksi Entitas Utama \nsebagaimana dimaksud pada ayat (1) mencakup paling \nsedikit: \na. \nmenyusun \nkebijakan, \nstrategi, \ndan \nprosedur \npermodalan \nsecara \nterintegrasi \nsesuai \ndengan \nukuran, karakteristik, kompleksitas usaha, dan \ntingkat risiko Konglomerasi Keuangan; dan \nb. \nmelaksanakan kebijakan, strategi, dan prosedur \npengelolaan permodalan secara terintegrasi. \n(3) \nKewenangan dan tanggung jawab Dewan Komisaris \nEntitas Utama sebagaimana dimaksud pada ayat (1) \nmencakup paling sedikit:  \n\n\n \na. \nmengarahkan, \nmenyetujui, \ndan \nmengevaluasi \nkebijakan, \nstrategi, \ndan \nprosedur \npengelolaan \npermodalan secara terintegrasi; dan  \nb. \nmengevaluasi pelaksanaan kebijakan, strategi, dan \nprosedur pengelolaan permodalan secara terintegrasi \noleh Direksi Entitas Utama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Direksi Entitas Utama dan Dewan Komisaris Entitas \nUtama \nberwenang \ndan \nbertanggung \njawab \nuntuk \nmemastikan \npenerapan \nManajemen \nPermodalan \nTerintegrasi sebagaimana dimaksud dalam Pasal 9 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "sesuai dengan karakteristik dan kompleksitas usaha \nKonglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewenangan dan tanggung jawab Direksi Entitas Utama \nsebagaimana dimaksud pada ayat (1) mencakup paling \nsedikit: \na. \nmenyusun \nkebijakan, \nstrategi, \ndan \nprosedur \npermodalan \nsecara \nterintegrasi \nsesuai \ndengan \nukuran, karakteristik, kompleksitas usaha, dan \ntingkat risiko Konglomerasi Keuangan; dan \nb. \nmelaksanakan kebijakan, strategi, dan prosedur \npengelolaan permodalan secara terintegrasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewenangan dan tanggung jawab Dewan Komisaris \nEntitas Utama sebagaimana dimaksud pada ayat (1) \nmencakup paling sedikit:  \n\n\n \na. \nmengarahkan, \nmenyetujui, \ndan \nmengevaluasi \nkebijakan, \nstrategi, \ndan \nprosedur \npengelolaan \npermodalan secara terintegrasi; dan  \nb. \nmengevaluasi pelaksanaan kebijakan, strategi, dan \nprosedur pengelolaan permodalan secara terintegrasi \noleh Direksi Entitas Utama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "Dalam \nrangka \npenerapan \nManajemen \nPermodalan \nTerintegrasi, Entitas Utama wajib paling sedikit: \na. \nmemiliki kebijakan dan prosedur pengelolaan permodalan \nsecara terintegrasi; \nb. \nmelakukan \npenilaian \nkecukupan \nmodal \nsecara \nterintegrasi; \nc. \nmemantau dan menyampaikan laporan modal secara \nterintegrasi; \nd. \nmemiliki sistem pengendalian intern yang memadai \nterkait dengan permodalan secara terintegrasi; dan \ne. \nmelakukan kaji ulang penerapan Manajemen Permodalan \nTerintegrasi secara berkala.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nrangka \npenerapan \nManajemen \nPermodalan \nTerintegrasi, Entitas Utama wajib paling sedikit: \na. \nmemiliki kebijakan dan prosedur pengelolaan permodalan \nsecara terintegrasi; \nb. \nmelakukan \npenilaian \nkecukupan \nmodal \nsecara \nterintegrasi; \nc. \nmemantau dan menyampaikan laporan modal secara \nterintegrasi; \nd. \nmemiliki sistem pengendalian intern yang memadai \nterkait dengan permodalan secara terintegrasi; dan \ne. \nmelakukan kaji ulang penerapan Manajemen Permodalan \nTerintegrasi secara berkala."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "(1) \nKebijakan pengelolaan permodalan secara terintegrasi \nsebagaimana dimaksud dalam Pasal 11 huruf a memuat \npaling sedikit kebijakan mengenai: \na. \ntingkat \npermodalan \nuntuk \nmemenuhi \nmodal \nminimum \nKonglomerasi \nKeuangan \n(regulatory \ncapital); \nb. \nsumber-sumber permodalan baik intern maupun \nekstern Konglomerasi Keuangan; \nc. \ntindakan yang dilakukan Konglomerasi Keuangan: \n1. \nuntuk \nmengantisipasi \nseluruh \nrisiko \nyang \nditimbulkan \noleh \naktivitas \nKonglomerasi \nKeuangan; \n2. \npada saat modal berada di bawah target yang \nditetapkan; dan  \n\n\n \n3. \nuntuk memastikan kepatuhan Konglomerasi \nKeuangan \npada \nketentuan \nyang \nberlaku \nmengenai \nkewajiban \npenyediaan \nmodal \nminimum. \n(2) \nProsedur pengelolaan permodalan secara terintegrasi \nsebagaimana dimaksud dalam Pasal 11 huruf a memuat \npaling \nsedikit \nprosedur \nperencanaan, \npenilaian \nkecukupan, dan pemantauan permodalan Konglomerasi \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan pengelolaan permodalan secara terintegrasi \nsebagaimana dimaksud dalam Pasal 11 huruf a memuat \npaling sedikit kebijakan mengenai: \na. \ntingkat \npermodalan \nuntuk \nmemenuhi \nmodal \nminimum \nKonglomerasi \nKeuangan \n(regulatory \ncapital); \nb. \nsumber-sumber permodalan baik intern maupun \nekstern Konglomerasi Keuangan; \nc. \ntindakan yang dilakukan Konglomerasi Keuangan: \n1. \nuntuk \nmengantisipasi \nseluruh \nrisiko \nyang \nditimbulkan \noleh \naktivitas \nKonglomerasi \nKeuangan; \n2. \npada saat modal berada di bawah target yang \nditetapkan; dan  \n\n\n \n3. \nuntuk memastikan kepatuhan Konglomerasi \nKeuangan \npada \nketentuan \nyang \nberlaku \nmengenai \nkewajiban \npenyediaan \nmodal \nminimum."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Prosedur pengelolaan permodalan secara terintegrasi \nsebagaimana dimaksud dalam Pasal 11 huruf a memuat \npaling \nsedikit \nprosedur \nperencanaan, \npenilaian \nkecukupan, dan pemantauan permodalan Konglomerasi \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "(1) \nDalam melakukan penilaian kecukupan modal secara \nterintegrasi sebagaimana dimaksud dalam Pasal 11 huruf \nb, Entitas Utama wajib mengidentifikasi:  \na. \nindikasi \ndouble \natau \nmultiple \ngearing \ndalam \nKonglomerasi Keuangan; \nb. \nindikasi excessive leverage;  \nc. \nhambatan melakukan transfer modal dari satu LJK \nkepada LJK lain dalam Konglomerasi Keuangan; dan \nd. \nrisiko yang signifikan mempengaruhi Konglomerasi \nKeuangan. \n(2) \nPenilaian kecukupan modal secara terintegrasi dilakukan \noleh \nSatuan \nKerja \nManajemen \nRisiko \nTerintegrasi \n(SKMRT). \n(3) \nEntitas Utama wajib mendokumentasikan hasil penilaian \nkecukupan \nmodal \nsecara \nterintegrasi \nsebagaimana \ndimaksud pada ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan penilaian kecukupan modal secara \nterintegrasi sebagaimana dimaksud dalam Pasal 11 huruf \nb, Entitas Utama wajib mengidentifikasi:  \na. \nindikasi \ndouble \natau \nmultiple \ngearing \ndalam \nKonglomerasi Keuangan; \nb. \nindikasi excessive leverage;  \nc. \nhambatan melakukan transfer modal dari satu LJK \nkepada LJK lain dalam Konglomerasi Keuangan; dan \nd. \nrisiko yang signifikan mempengaruhi Konglomerasi \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penilaian kecukupan modal secara terintegrasi dilakukan \noleh \nSatuan \nKerja \nManajemen \nRisiko \nTerintegrasi \n(SKMRT)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Entitas Utama wajib mendokumentasikan hasil penilaian \nkecukupan \nmodal \nsecara \nterintegrasi \nsebagaimana \ndimaksud pada ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "(1) \nDalam \nmelakukan \npemantauan \ndan \npenyampaian \nlaporan modal secara terintegrasi sebagaimana dimaksud \ndalam Pasal 11 huruf c, Entitas Utama wajib memiliki \nsistem informasi yang dapat menghasilkan informasi dan \nlaporan yang memadai termasuk dampak risiko terhadap \nkebutuhan modal Konglomerasi Keuangan.  \n\n\n \n(2) \nPemantauan dan penyampaian laporan modal secara \nterintegrasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan \noleh \nSatuan \nKerja \nManajemen \nRisiko \nTerintegrasi (SKMRT). \n(3) \nLaporan modal sebagaimana dimaksud pada ayat (2) \ndisampaikan kepada Direksi Entitas Utama dan Komite \nManajemen Risiko Terintegrasi secara berkala.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelakukan \npemantauan \ndan \npenyampaian \nlaporan modal secara terintegrasi sebagaimana dimaksud \ndalam Pasal 11 huruf c, Entitas Utama wajib memiliki \nsistem informasi yang dapat menghasilkan informasi dan \nlaporan yang memadai termasuk dampak risiko terhadap \nkebutuhan modal Konglomerasi Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemantauan dan penyampaian laporan modal secara \nterintegrasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \noleh \nSatuan \nKerja \nManajemen \nRisiko \nTerintegrasi (SKMRT)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan modal sebagaimana dimaksud pada ayat (2) \ndisampaikan kepada Direksi Entitas Utama dan Komite \nManajemen Risiko Terintegrasi secara berkala."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "Entitas Utama wajib memiliki sistem pengendalian intern yang \nmemadai sebagaimana dimaksud dalam Pasal 11 huruf d \nuntuk \nmemastikan \nkeandalan \npenerapan \nManajemen \nPermodalan Terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama wajib memiliki sistem pengendalian intern yang \nmemadai sebagaimana dimaksud dalam Pasal 11 huruf d \nuntuk \nmemastikan \nkeandalan \npenerapan \nManajemen \nPermodalan Terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MANAJEMEN PERMODALAN TERINTEGRASI",
+      "teks_lengkap": "Kaji ulang penerapan Manajemen Permodalan Terintegrasi \nsebagaimana dimaksud dalam Pasal 11 huruf e dilakukan \nSatuan Kerja Audit Intern Terintegrasi (SKAIT). \n \nBAB V \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kaji ulang penerapan Manajemen Permodalan Terintegrasi \nsebagaimana dimaksud dalam Pasal 11 huruf e dilakukan \nSatuan Kerja Audit Intern Terintegrasi (SKAIT). \n \nBAB V \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nEntitas Utama wajib menyusun Laporan Kecukupan \nPermodalan Terintegrasi setiap semester untuk posisi \nakhir bulan Juni dan Desember.  \n(2) \nLaporan \nKecukupan \nPermodalan \nTerintegrasi \nsebagaimana dimaksud pada ayat (1) memuat: \na. \nmodal aktual dari masing-masing LJK anggota \nKonglomerasi Keuangan; \nb. \nTMA Konglomerasi Keuangan; \nc. \nmodal minimum yang wajib dipenuhi oleh masing-\nmasing LJK anggota Konglomerasi Keuangan; \nd. \nTMM Konglomerasi Keuangan; \ne. \nRasio KPMM Terintegrasi;  \nf. \nRincian \npenyertaan \nmodal \nantar \nLJK \ndalam \nKonglomerasi Keuangan; dan \n\n\n \ng. \nRincian penempatan dana LJK kepada LJK lain \ndalam Konglomerasi Keuangan yang diakui sebagai \ninstrumen modal (regulatory capital) oleh LJK lain \ndimaksud. \n(3) \nEntitas Utama wajib menyampaikan Laporan Kecukupan \nPermodalan Terintegrasi sebagaimana dimaksud pada \nayat (1) kepada Otoritas Jasa Keuangan paling lambat: \na. \ntanggal 15 (lima belas) bulan Agustus untuk laporan \nposisi akhir bulan Juni;  \nb. \ntanggal 15 (lima belas) bulan Februari untuk laporan \nposisi akhir bulan Desember. \n(4) \nDalam hal tanggal 15 (lima belas) jatuh pada hari \nSabtu/Minggu/libur, Laporan Kecukupan Permodalan \nTerintegrasi disampaikan pada hari kerja berikutnya. \n(5) \nLaporan \nKecukupan \nPermodalan \nTerintegrasi \ndisampaikan \nkepada Otoritas Jasa Keuangan \nu.p. \nDepartemen Pengawasan atau Kantor Regional atau \nKantor Otoritas Jasa Keuangan yang bertanggung jawab \nmengawasi LJK Entitas Utama. \n(6) \nLaporan Kecukupan Permodalan Terintegrasi dibuat \nsesuai dengan format sebagaimana dimaksud dalam \nLampiran I Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Entitas Utama wajib menyusun Laporan Kecukupan \nPermodalan Terintegrasi setiap semester untuk posisi \nakhir bulan Juni dan Desember."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan \nKecukupan \nPermodalan \nTerintegrasi \nsebagaimana dimaksud pada ayat (1) memuat: \na. \nmodal aktual dari masing-masing LJK anggota \nKonglomerasi Keuangan; \nb. \nTMA Konglomerasi Keuangan; \nc. \nmodal minimum yang wajib dipenuhi oleh masing-\nmasing LJK anggota Konglomerasi Keuangan; \nd. \nTMM Konglomerasi Keuangan; \ne. \nRasio KPMM Terintegrasi;  \nf. \nRincian \npenyertaan \nmodal \nantar \nLJK \ndalam \nKonglomerasi Keuangan; dan \n\n\n \ng. \nRincian penempatan dana LJK kepada LJK lain \ndalam Konglomerasi Keuangan yang diakui sebagai \ninstrumen modal (regulatory capital) oleh LJK lain \ndimaksud."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Entitas Utama wajib menyampaikan Laporan Kecukupan \nPermodalan Terintegrasi sebagaimana dimaksud pada \nayat (1) kepada Otoritas Jasa Keuangan paling lambat: \na. \ntanggal 15 (lima belas) bulan Agustus untuk laporan \nposisi akhir bulan Juni;  \nb. \ntanggal 15 (lima belas) bulan Februari untuk laporan \nposisi akhir bulan Desember."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal tanggal 15 (lima belas) jatuh pada hari \nSabtu/Minggu/libur, Laporan Kecukupan Permodalan \nTerintegrasi disampaikan pada hari kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Laporan \nKecukupan \nPermodalan \nTerintegrasi \ndisampaikan \nkepada Otoritas Jasa Keuangan \nu.p. \nDepartemen Pengawasan atau Kantor Regional atau \nKantor Otoritas Jasa Keuangan yang bertanggung jawab \nmengawasi LJK Entitas Utama."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Laporan Kecukupan Permodalan Terintegrasi dibuat \nsesuai dengan format sebagaimana dimaksud dalam \nLampiran I Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Entitas Utama wajib menyampaikan Laporan Kecukupan \nPermodalan Terintegrasi sewaktu-waktu dalam hal diminta \noleh Otoritas Jasa Keuangan. \n \nBAB VI \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama wajib menyampaikan Laporan Kecukupan \nPermodalan Terintegrasi sewaktu-waktu dalam hal diminta \noleh Otoritas Jasa Keuangan. \n \nBAB VI \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Pelanggaran terhadap ketentuan dalam Pasal 2, Pasal 4, Pasal \n9, Pasal 11, Pasal 13 ayat (1), Pasal 13 ayat (3), Pasal 14 ayat \n(1), Pasal 15, Pasal 17 ayat (1) dan/atau Pasal 18 dikenakan \nsanksi administratif berupa: \na. \nperingatan tertulis; \n\n\n \nb. \npenurunan tingkat kesehatan; \nc. \npembatalan hasil uji kemampuan dan kepatutan; \nd. \npembatasan kegiatan usaha; \ne. \nperintah penggantian manajemen; \nf. \npencantuman manajemen dalam daftar orang tercela; \ndan/atau \ng. \npembatalan persetujuan, pendaftaran dan pengesahan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Pasal 15, Pasal 17 ayat (1) dan/atau Pasal 18 dikenakan \nsanksi administratif berupa: \na. \nperingatan tertulis; \n\n\n \nb. \npenurunan tingkat kesehatan; \nc. \npembatalan hasil uji kemampuan dan kepatutan; \nd. \npembatasan kegiatan usaha; \ne. \nperintah penggantian manajemen; \nf. \npencantuman manajemen dalam daftar orang tercela; \ndan/atau \ng. \npembatalan persetujuan, pendaftaran dan pengesahan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Entitas Utama yang dinyatakan terlambat menyampaikan \nlaporan sebagaimana dimaksud dalam Pasal 17 ayat (3) \ndikenakan sanksi berupa peringatan tertulis dan kewajiban \nmembayar berupa denda sebesar Rp1.000.000,00 (satu juta \nrupiah) per hari keterlambatan dengan jumlah paling banyak \nsebesar Rp100.000.000,00 (seratus juta rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Entitas Utama yang dinyatakan terlambat menyampaikan \nlaporan sebagaimana dimaksud dalam Pasal 17 ayat (3) \ndikenakan sanksi berupa peringatan tertulis dan kewajiban \nmembayar berupa denda sebesar Rp1.000.000,00 (satu juta \nrupiah) per hari keterlambatan dengan jumlah paling banyak \nsebesar Rp100.000.000,00 (seratus juta rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Mekanisme pengenaan sanksi sebagaimana dimaksud dalam \nPasal 19 dan Pasal 20 mengacu pada ketentuan yang berlaku \nbagi LJK pada masing-masing sektor keuangan. \n \nBAB VII \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Mekanisme pengenaan sanksi sebagaimana dimaksud dalam \nPasal 19 dan Pasal 20 mengacu pada ketentuan yang berlaku \nbagi LJK pada masing-masing sektor keuangan. \n \nBAB VII \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Bagi Konglomerasi Keuangan yang terdiri atas LJK-LJK \nsejenis, penerapan ketentuan kewajiban penyediaan modal \nminimum terintegrasi mulai berlaku pada saat ketentuan \nmanajemen risiko terintegrasi dan tata kelola terintegrasi bagi \nKonglomerasi Keuangan dimaksud mulai diterapkan pada \nmasing-masing sektor keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi Konglomerasi Keuangan yang terdiri atas LJK-LJK \nsejenis, penerapan ketentuan kewajiban penyediaan modal \nminimum terintegrasi mulai berlaku pada saat ketentuan \nmanajemen risiko terintegrasi dan tata kelola terintegrasi bagi \nKonglomerasi Keuangan dimaksud mulai diterapkan pada \nmasing-masing sektor keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Kewajiban penyampaian Laporan Kecukupan Permodalan \nTerintegrasi sebagaimana dimaksud dalam Pasal 17 ayat (3) \npertama kali dilakukan untuk laporan posisi akhir bulan \nDesember 2015.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kewajiban penyampaian Laporan Kecukupan Permodalan \nTerintegrasi sebagaimana dimaksud dalam Pasal 17 ayat (3) \npertama kali dilakukan untuk laporan posisi akhir bulan \nDesember 2015."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pengenaan sanksi sebagaimana dimaksud dalam Pasal 19 \nmulai berlaku pada: \na. \n1 Januari 2019, untuk Entitas Utama yang merupakan \nBank Umum Berdasarkan Kegiatan Usaha (BUKU) 4; \nb. \n1 Juli 2019, untuk Entitas Utama bukan bank dan \nEntitas \nUtama \nberupa \nbank \nselain \nBank \nUmum \nBerdasarkan Kegiatan Usaha (BUKU) 4.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengenaan sanksi sebagaimana dimaksud dalam Pasal 19 \nmulai berlaku pada: \na. \n1 Januari 2019, untuk Entitas Utama yang merupakan \nBank Umum Berdasarkan Kegiatan Usaha (BUKU) 4; \nb. \n1 Juli 2019, untuk Entitas Utama bukan bank dan \nEntitas \nUtama \nberupa \nbank \nselain \nBank \nUmum \nBerdasarkan Kegiatan Usaha (BUKU) 4."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pengenaan sanksi sebagaimana dimaksud dalam Pasal 20 \nmulai berlaku pada: \na. \n1 Januari 2018, untuk Entitas Utama yang merupakan \nBank Umum Berdasarkan Kegiatan Usaha (BUKU) 4; \nb. \n1 Juli 2018, untuk Entitas Utama bukan bank dan \nEntitas \nUtama \nberupa \nbank \nselain \nBank \nUmum \nBerdasarkan Kegiatan Usaha (BUKU) 4. \n \nBAB VIII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengenaan sanksi sebagaimana dimaksud dalam Pasal 20 \nmulai berlaku pada: \na. \n1 Januari 2018, untuk Entitas Utama yang merupakan \nBank Umum Berdasarkan Kegiatan Usaha (BUKU) 4; \nb. \n1 Juli 2018, untuk Entitas Utama bukan bank dan \nEntitas \nUtama \nberupa \nbank \nselain \nBank \nUmum \nBerdasarkan Kegiatan Usaha (BUKU) 4. \n \nBAB VIII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini berlaku, LJK \ntetap menerapkan ketentuan yang berlaku pada masing-\nmasing sektor keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini berlaku, LJK \ntetap menerapkan ketentuan yang berlaku pada masing-\nmasing sektor keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \nDitetapkan di Jakarta \nPada tanggal  4 Desember 2015 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \nPada tanggal   11 Desember 2015 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 292\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \n \nSudarmaji \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   26 /POJK.03/2015 \nTENTANG \nKEWAJIBAN PENYEDIAAN MODAL MINIMUM TERINTEGRASI BAGI \nKONGLOMERASI KEUANGAN  \n \nI. \nUMUM \nKondisi sektor jasa keuangan yang tumbuh secara berkelanjutan \nmerupakan suatu prasyarat utama agar sistem keuangan mampu \nmendukung pencapaian stabilitas sistem keuangan dan berkontribusi \nsecara optimal dalam perekonomian nasional. \nModal merupakan sumber dukungan keuangan dalam pelaksanaan \naktivitas Konglomerasi Keuangan secara keseluruhan, cushion untuk \nmenyerap kerugian yang tidak terduga (unexpected losses), dan jaring \npengaman (safety net) dalam kondisi krisis. Kecukupan modal yang \nmemadai dapat meningkatkan kepercayaan pemangku kepentingan \n(stakeholders) sehingga mendukung kondisi dan kestabilan Konglomerasi \nKeuangan.  \nBesaran modal yang harus disediakan oleh suatu Konglomerasi \nKeuangan sangat bergantung pada risiko yang dihadapi. Oleh karena itu \ndalam rangka menjaga kepercayaan masyarakat dan meningkatkan \nkondisi usahanya secara keseluruhan, Konglomerasi Keuangan wajib \nmemiliki sistem yang memadai untuk mengidentifikasi, mengukur, \nmemantau, dan mengendalikan risiko yang ditimbulkan dari aktivitas \nbisnis Konglomerasi Keuangan serta menyediakan modal yang memadai \nuntuk mengantisipasi risiko tersebut. \n \n\n\n \nSehubungan \ndengan \nhal-hal \ntersebut, \ndiperlukan \npengaturan \nmengenai kewajiban penyediaan modal minimum terintegrasi bagi \nkonglomerasi keuangan dalam suatu Peraturan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \nDitetapkan di Jakarta \nPada tanggal  4 Desember 2015 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \nPada tanggal   11 Desember 2015 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 292\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \n \nSudarmaji \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   26 /POJK.03/2015 \nTENTANG \nKEWAJIBAN PENYEDIAAN MODAL MINIMUM TERINTEGRASI BAGI \nKONGLOMERASI KEUANGAN  \n \nI. \nUMUM \nKondisi sektor jasa keuangan yang tumbuh secara berkelanjutan \nmerupakan suatu prasyarat utama agar sistem keuangan mampu \nmendukung pencapaian stabilitas sistem keuangan dan berkontribusi \nsecara optimal dalam perekonomian nasional. \nModal merupakan sumber dukungan keuangan dalam pelaksanaan \naktivitas Konglomerasi Keuangan secara keseluruhan, cushion untuk \nmenyerap kerugian yang tidak terduga (unexpected losses), dan jaring \npengaman (safety net) dalam kondisi krisis. Kecukupan modal yang \nmemadai dapat meningkatkan kepercayaan pemangku kepentingan \n(stakeholders) sehingga mendukung kondisi dan kestabilan Konglomerasi \nKeuangan.  \nBesaran modal yang harus disediakan oleh suatu Konglomerasi \nKeuangan sangat bergantung pada risiko yang dihadapi. Oleh karena itu \ndalam rangka menjaga kepercayaan masyarakat dan meningkatkan \nkondisi usahanya secara keseluruhan, Konglomerasi Keuangan wajib \nmemiliki sistem yang memadai untuk mengidentifikasi, mengukur, \nmemantau, dan mengendalikan risiko yang ditimbulkan dari aktivitas \nbisnis Konglomerasi Keuangan serta menyediakan modal yang memadai \nuntuk mengantisipasi risiko tersebut. \n \n\n\n \nSehubungan \ndengan \nhal-hal \ntersebut, \ndiperlukan \npengaturan \nmengenai kewajiban penyediaan modal minimum terintegrasi bagi \nkonglomerasi keuangan dalam suatu Peraturan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nYang dimaksud dengan risiko yang membutuhkan penyediaan \nmodal lebih besar antara lain risiko transaksi intra grup. \n \n \nAyat (2) \n \nYang dimaksud dengan hal-hal lain antara lain: \na. \npembatasan kegiatan usaha tertentu; \nb. \npembatasan bonus dan insentif lainnya; dan/atau \nc. \npengaturan atau penundaan pembayaran dividen. \n \n \nAyat (3) \n \n \n  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nYang dimaksud dengan risiko yang membutuhkan penyediaan \nmodal lebih besar antara lain risiko transaksi intra grup. \n \n \nAyat (2) \n \nYang dimaksud dengan hal-hal lain antara lain: \na. \npembatasan kegiatan usaha tertentu; \nb. \npembatasan bonus dan insentif lainnya; dan/atau \nc. \npengaturan atau penundaan pembayaran dividen. \n \n \nAyat (3) \n \n \n  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh tindakan yang dapat mengakibatkan kondisi permodalan \nKonglomerasi Keuangan tidak memenuhi ketentuan antara lain: \n1) \nmelakukan pembayaran dividen;  \n2) \nmemberikan bonus / insentif / tantiem / remunerasi /benefit \nlainnya kepada Direksi, Dewan Komisaris, atau pegawai.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh tindakan yang dapat mengakibatkan kondisi permodalan \nKonglomerasi Keuangan tidak memenuhi ketentuan antara lain: \n1) \nmelakukan pembayaran dividen;  \n2) \nmemberikan bonus / insentif / tantiem / remunerasi /benefit \nlainnya kepada Direksi, Dewan Komisaris, atau pegawai."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nContoh 1: \n                \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. TMA Konglomerasi Keuangan adalah penjumlahan dari \nmodal aktual LJK 1, LJK A, LJK B, dan LJK C, sesuai ketentuan \nyang berlaku pada masing-masing sektor keuangan. \n \n \n \nContoh 2: \n                \n \n \nKonglomerasi Keuangan terdiri atas LJK A, LJK B, dan LJK C. \nTMA Konglomerasi Keuangan adalah penjumlahan dari modal \naktual LJK A, LJK B, dan LJK C, sesuai ketentuan yang berlaku \npada masing-masing sektor keuangan. \n \n \nAyat (2) \n \n \n \n \n \nCukup jelas. \n \n \n \n \nAyat (3) \n \n \n \nContoh 1 \n                  \n \n\n\n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. Dalam hal pada LJK 1 terdapat ketentuan yang mengatur \nperhitungan modal secara konsolidasi dengan Perusahaan Anak, \nTMA Konglomerasi Keuangan adalah modal aktual LJK 1 secara \nkonsolidasi dengan LJK A, LJK B, dan LJK C. \n \n \n \nContoh 2: \n                        \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, LJK C, \ndan LJK D. Dalam hal pada LJK 1 terdapat ketentuan yang \nmengatur \nperhitungan \nmodal \nsecara \nkonsolidasi \ndengan \nPerusahaan \nAnak, \nTMA \nKonglomerasi \nKeuangan \nadalah \npenjumlahan modal aktual LJK 1 secara konsolidasi dengan LJK \nA, LJK B, dan LJK C ditambah dengan modal aktual LJK D \nsecara individu. \n \n \nAyat (4) \n \n \n \nContoh: \n                 \n \nKonglomerasi \nKeuangan \nterdiri \natas \nbank, \nperusahaan \npembiayaan, perusahaan efek, dan perusahaan asuransi. \nBerdasarkan ketentuan yang mengatur bank, penyertaan \nkepada Perusahaan Anak berupa perusahaan asuransi menjadi \nfaktor pengurang modal dalam perhitungan modal secara \nkonsolidasi \ndengan \nPerusahaan \nAnak \nsehingga \nmodal \nperusahaan asuransi tersebut tidak ditambahkan ke modal bank \nsecara konsolidasi.  \n\n\n \nDengan demikian, perhitungan TMA Konglomerasi Keuangan \nadalah \nmodal \naktual \nbank \nsecara \nkonsolidasi \ndengan \nPerusahaan \nAnak \nberupa \nperusahaan \npembiayaan \ndan \nperusahaan efek ditambah dengan modal aktual perusahaan \nasuransi secara individu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nContoh 1: \n                \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. TMA Konglomerasi Keuangan adalah penjumlahan dari \nmodal aktual LJK 1, LJK A, LJK B, dan LJK C, sesuai ketentuan \nyang berlaku pada masing-masing sektor keuangan. \n \n \n \nContoh 2: \n                \n \n \nKonglomerasi Keuangan terdiri atas LJK A, LJK B, dan LJK C. \nTMA Konglomerasi Keuangan adalah penjumlahan dari modal \naktual LJK A, LJK B, dan LJK C, sesuai ketentuan yang berlaku \npada masing-masing sektor keuangan. \n \n \nAyat (2) \n \n \n \n \n \nCukup jelas. \n \n \n \n \nAyat (3) \n \n \n \nContoh 1 \n                  \n \n\n\n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. Dalam hal pada LJK 1 terdapat ketentuan yang mengatur \nperhitungan modal secara konsolidasi dengan Perusahaan Anak, \nTMA Konglomerasi Keuangan adalah modal aktual LJK 1 secara \nkonsolidasi dengan LJK A, LJK B, dan LJK C. \n \n \n \nContoh 2: \n                        \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, LJK C, \ndan LJK D. Dalam hal pada LJK 1 terdapat ketentuan yang \nmengatur \nperhitungan \nmodal \nsecara \nkonsolidasi \ndengan \nPerusahaan \nAnak, \nTMA \nKonglomerasi \nKeuangan \nadalah \npenjumlahan modal aktual LJK 1 secara konsolidasi dengan LJK \nA, LJK B, dan LJK C ditambah dengan modal aktual LJK D \nsecara individu. \n \n \nAyat (4) \n \n \n \nContoh: \n                 \n \nKonglomerasi \nKeuangan \nterdiri \natas \nbank, \nperusahaan \npembiayaan, perusahaan efek, dan perusahaan asuransi. \nBerdasarkan ketentuan yang mengatur bank, penyertaan \nkepada Perusahaan Anak berupa perusahaan asuransi menjadi \nfaktor pengurang modal dalam perhitungan modal secara \nkonsolidasi \ndengan \nPerusahaan \nAnak \nsehingga \nmodal \nperusahaan asuransi tersebut tidak ditambahkan ke modal bank \nsecara konsolidasi.  \n\n\n \nDengan demikian, perhitungan TMA Konglomerasi Keuangan \nadalah \nmodal \naktual \nbank \nsecara \nkonsolidasi \ndengan \nPerusahaan \nAnak \nberupa \nperusahaan \npembiayaan \ndan \nperusahaan efek ditambah dengan modal aktual perusahaan \nasuransi secara individu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “bank” adalah bank umum, bank umum \nsyariah, bank perkreditan rakyat, dan bank pembiayaan rakyat \nsyariah. \nYang dimaksud dengan “modal inti dan modal pelengkap” adalah \nmodal inti dan modal pelengkap setelah memperhitungkan \nfaktor \npengurang \nmodal \nsebagaimana \ndimaksud \ndalam \nketentuan mengenai kewajiban penyediaan modal minimum.  \n \n \nHuruf b \nYang dimaksud dengan “perusahaan pembiayaan” adalah \nperusahaan pembiayaan dan perusahaan pembiayaan syariah. \nYang dimaksud dengan “modal yang disesuaikan” adalah modal \nyang disesuaikan sebagaimana dimaksud dalam ketentuan \nmengenai penyelenggaraan usaha perusahaan pembiayaan atau \npenyelenggaraan usaha pembiayaan syariah. \n \n \nHuruf c \nYang dimaksud dengan \n“perusahaan asuransi/reasuransi” \nadalah \nperusahaan \nasuransi/reasuransi \ndan \nperusahaan \nasuransi/reasuransi syariah. \nYang dimaksud dengan “aset/kekayaan yang diperkenankan” \nadalah \naset/kekayaan \nyang \ndiperkenankan \nsebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \nYang dimaksud dengan “liabilitas” adalah liabilitas sebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \n \nHuruf d \nYang dimaksud dengan “modal kerja bersih yang disesuaikan \n(MKBD)” adalah MKBD sebagaimana dimaksud dalam ketentuan \nmengenai pemeliharaan dan pelaporan MKBD.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “bank” adalah bank umum, bank umum \nsyariah, bank perkreditan rakyat, dan bank pembiayaan rakyat \nsyariah. \nYang dimaksud dengan “modal inti dan modal pelengkap” adalah \nmodal inti dan modal pelengkap setelah memperhitungkan \nfaktor \npengurang \nmodal \nsebagaimana \ndimaksud \ndalam \nketentuan mengenai kewajiban penyediaan modal minimum.  \n \n \nHuruf b \nYang dimaksud dengan “perusahaan pembiayaan” adalah \nperusahaan pembiayaan dan perusahaan pembiayaan syariah. \nYang dimaksud dengan “modal yang disesuaikan” adalah modal \nyang disesuaikan sebagaimana dimaksud dalam ketentuan \nmengenai penyelenggaraan usaha perusahaan pembiayaan atau \npenyelenggaraan usaha pembiayaan syariah. \n \n \nHuruf c \nYang dimaksud dengan \n“perusahaan asuransi/reasuransi” \nadalah \nperusahaan \nasuransi/reasuransi \ndan \nperusahaan \nasuransi/reasuransi syariah. \nYang dimaksud dengan “aset/kekayaan yang diperkenankan” \nadalah \naset/kekayaan \nyang \ndiperkenankan \nsebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \nYang dimaksud dengan “liabilitas” adalah liabilitas sebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \n \nHuruf d \nYang dimaksud dengan “modal kerja bersih yang disesuaikan \n(MKBD)” adalah MKBD sebagaimana dimaksud dalam ketentuan \nmengenai pemeliharaan dan pelaporan MKBD."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nContoh 1: \n                    \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. TMM Konglomerasi Keuangan adalah penjumlahan dari \nmodal minimum yang wajib dipenuhi oleh LJK 1, LJK A, LJK B, \ndan LJK C, sesuai ketentuan yang berlaku pada masing-masing \nsektor keuangan sehingga Rasio KPMM Terintegrasi dihitung \nsebagai berikut: \n                                    \n \n \n \n \n \nContoh 2: \n                     \n \n \nKonglomerasi Keuangan terdiri atas LJK A, LJK B, dan LJK C. \nTMM Konglomerasi Keuangan adalah penjumlahan dari modal \nminimum yang wajib dipenuhi oleh LJK A, LJK B, dan LJK C, \nsesuai ketentuan yang berlaku pada masing-masing sektor \nkeuangan sehingga Rasio KPMM Terintegrasi dihitung sebagai \nberikut: \n\n\n \n                                  \n \n \n \n \nAyat (2) \n \n \n \nContoh 1: \n             \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. Pada LJK 1 terdapat ketentuan yang mengatur \nperhitungan modal secara konsolidasi dengan Perusahaan Anak. \nDengan demikian, TMM Konglomerasi Keuangan adalah modal \nminimum yang wajib dipenuhi oleh LJK 1 secara konsolidasi \ndengan LJK A, LJK B, dan LJK C sehingga Rasio KPMM \nTerintegrasi dihitung sebagai berikut: \n                              \n \n \n \n \n \nContoh 2: \n                             \n \n\n\n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, LJK C, \ndan LJK D. Pada LJK 1 terdapat ketentuan yang mengatur \nperhitungan modal secara konsolidasi dengan Perusahaan Anak. \nDengan demikian, TMM Konglomerasi Keuangan adalah modal \nminimum yang wajib dipenuhi oleh LJK 1 secara konsolidasi \ndengan LJK A, LJK B, dan LJK C ditambah dengan modal \nminimum yang wajib dipenuhi oleh LJK D secara individu, \nsehingga Rasio KPMM Terintegrasi dihitung sebagai berikut: \n                                      \n \n \n \nAyat (3) \nYang dimaksud dengan “modal minimum Perusahaan Anak” \nadalah modal minimum yang wajib dipenuhi oleh Perusahaan \nAnak sesuai ketentuan pada masing-masing sektor keuangan. \n \n \n \n \nContoh : \n \n             \n \n \nKonglomerasi \nKeuangan \nterdiri \natas \nbank, \nperusahaan \npembiayaan, perusahaan efek, dan perusahaan asuransi. \nBerdasarkan ketentuan yang mengatur bank, penyertaan \nkepada Perusahaan Anak berupa perusahaan asuransi menjadi \nfaktor pengurang modal dalam perhitungan modal secara \nkonsolidasi \ndengan \nPerusahaan \nAnak \nsehingga \nmodal \nperusahaan asuransi tersebut tidak ditambahkan pada modal \nbank secara konsolidasi. \n\n\n \nDengan demikian perhitungan TMM Konglomerasi Keuangan \nadalah modal minimum yang wajib dipenuhi oleh bank secara \nkonsolidasi dengan Perusahaan Anak berupa perusahaan \npembiayaan dan perusahaan efek ditambah dengan modal \nminimum yang wajib dipenuhi oleh perusahaan asuransi secara \nindividu sehingga Rasio KPMM Terintegrasi dihitung sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nContoh 1: \n                    \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. TMM Konglomerasi Keuangan adalah penjumlahan dari \nmodal minimum yang wajib dipenuhi oleh LJK 1, LJK A, LJK B, \ndan LJK C, sesuai ketentuan yang berlaku pada masing-masing \nsektor keuangan sehingga Rasio KPMM Terintegrasi dihitung \nsebagai berikut: \n                                    \n \n \n \n \n \nContoh 2: \n                     \n \n \nKonglomerasi Keuangan terdiri atas LJK A, LJK B, dan LJK C. \nTMM Konglomerasi Keuangan adalah penjumlahan dari modal \nminimum yang wajib dipenuhi oleh LJK A, LJK B, dan LJK C, \nsesuai ketentuan yang berlaku pada masing-masing sektor \nkeuangan sehingga Rasio KPMM Terintegrasi dihitung sebagai \nberikut: \n\n\n \n                                  \n \n \n \n \nAyat (2) \n \n \n \nContoh 1: \n             \n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, dan \nLJK C. Pada LJK 1 terdapat ketentuan yang mengatur \nperhitungan modal secara konsolidasi dengan Perusahaan Anak. \nDengan demikian, TMM Konglomerasi Keuangan adalah modal \nminimum yang wajib dipenuhi oleh LJK 1 secara konsolidasi \ndengan LJK A, LJK B, dan LJK C sehingga Rasio KPMM \nTerintegrasi dihitung sebagai berikut: \n                              \n \n \n \n \n \nContoh 2: \n                             \n \n\n\n \n \nKonglomerasi Keuangan terdiri atas LJK 1, LJK A, LJK B, LJK C, \ndan LJK D. Pada LJK 1 terdapat ketentuan yang mengatur \nperhitungan modal secara konsolidasi dengan Perusahaan Anak. \nDengan demikian, TMM Konglomerasi Keuangan adalah modal \nminimum yang wajib dipenuhi oleh LJK 1 secara konsolidasi \ndengan LJK A, LJK B, dan LJK C ditambah dengan modal \nminimum yang wajib dipenuhi oleh LJK D secara individu, \nsehingga Rasio KPMM Terintegrasi dihitung sebagai berikut: \n                                      \n \n \n \nAyat (3) \nYang dimaksud dengan “modal minimum Perusahaan Anak” \nadalah modal minimum yang wajib dipenuhi oleh Perusahaan \nAnak sesuai ketentuan pada masing-masing sektor keuangan. \n \n \n \n \nContoh : \n \n             \n \n \nKonglomerasi \nKeuangan \nterdiri \natas \nbank, \nperusahaan \npembiayaan, perusahaan efek, dan perusahaan asuransi. \nBerdasarkan ketentuan yang mengatur bank, penyertaan \nkepada Perusahaan Anak berupa perusahaan asuransi menjadi \nfaktor pengurang modal dalam perhitungan modal secara \nkonsolidasi \ndengan \nPerusahaan \nAnak \nsehingga \nmodal \nperusahaan asuransi tersebut tidak ditambahkan pada modal \nbank secara konsolidasi. \n\n\n \nDengan demikian perhitungan TMM Konglomerasi Keuangan \nadalah modal minimum yang wajib dipenuhi oleh bank secara \nkonsolidasi dengan Perusahaan Anak berupa perusahaan \npembiayaan dan perusahaan efek ditambah dengan modal \nminimum yang wajib dipenuhi oleh perusahaan asuransi secara \nindividu sehingga Rasio KPMM Terintegrasi dihitung sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “bank” adalah bank umum, bank umum \nsyariah, bank perkreditan rakyat, dan bank pembiayaan rakyat \nsyariah. \nYang dimaksud dengan “modal minimum sesuai profil risiko” \nadalah modal minimum sesuai profil risiko sebagaimana \ndimaksud dalam ketentuan mengenai kewajiban penyediaan \nmodal minimum.  \nContoh: Bank A memiliki profil risiko 2 (dua) dan memiliki \nkewajiban penyediaan modal mínimum sesuai profil risiko \nsebesar 9% (sembilan persen) dari Aset Tertimbang Menurut \nRisiko \n(ATMR). \nApabila \nbank \nmemiliki \nATMR \nsebesar \nRp1.000.000.000,- (satu milyar rupiah) maka modal minimum \nsesuai profil risiko adalah sebesar 9% x Rp1.000.000.000.-\n=Rp90.000.000,- (sembilan puluh juta rupiah). \n \n \nHuruf b \nYang dimaksud dengan “perusahaan pembiayaan” adalah \nperusahaan pembiayaan dan perusahaan pembiayaan syariah. \nYang dimaksud dengan “modal yang disesuaikan” adalah modal \nyang disesuaikan sebagaimana dimaksud dalam ketentuan \nmengenai penyelenggaraan usaha perusahaan pembiayaan atau \npenyelenggaran usaha pembiayaan syariah. \n\n\n \nContoh: Perusahaan Pembiayaan A memiliki nilai aset yang  \ndisesuaikan sebesar Rp2.000.000.000,- (dua milyar rupiah). \nApabila rasio permodalan mínimum ditetapkan sebesar 10% \n(sepuluh persen) maka modal yang disesuaikan mínimum \nadalah sebesar 10% x Rp2.000.000.000,- = Rp200.000.000,- \n(dua ratus juta rupiah). \n \n \nHuruf c \nYang dimaksud dengan \n“perusahaan asuransi/reasuransi” \nadalah \nperusahaan \nasuransi/reasuransi \ndan \nperusahaan \nasuransi/reasuransi syariah. \nYang dimaksud dengan “aset/kekayaan yang diperkenankan” \nadalah \naset/kekayaan \nyang \ndiperkenankan \nsebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \nYang dimaksud dengan “liabilitas” adalah liabilitas sebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \nContoh: Perusahaan Asuransi A memiliki modal mínimum \nberbasis risiko (MMBR) sebesar Rp1.000.000.000,- (satu milyar \nrupiah). Apabila target tingkat solvabilitas ditetapkan sebesar \n120% (seratus dua puluh persen) maka nilai mínimum dari \nselisih antara aset/kekayaan yang diperkenankan dengan \nliabilitas \nadalah \nsebesar \n120% \nx \nRp1.000.000.000,- \n= \nRp1.200.000.000,- (satu milyar dua ratus juta rupiah). \n \n \nHuruf d \nYang dimaksud dengan “modal kerja bersih yang disesuaikan \n(MKBD)” adalah MKBD sebagaimana dimaksud dalam ketentuan \nmengenai pemeliharaan dan pelaporan MKBD.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “bank” adalah bank umum, bank umum \nsyariah, bank perkreditan rakyat, dan bank pembiayaan rakyat \nsyariah. \nYang dimaksud dengan “modal minimum sesuai profil risiko” \nadalah modal minimum sesuai profil risiko sebagaimana \ndimaksud dalam ketentuan mengenai kewajiban penyediaan \nmodal minimum.  \nContoh: Bank A memiliki profil risiko 2 (dua) dan memiliki \nkewajiban penyediaan modal mínimum sesuai profil risiko \nsebesar 9% (sembilan persen) dari Aset Tertimbang Menurut \nRisiko \n(ATMR). \nApabila \nbank \nmemiliki \nATMR \nsebesar \nRp1.000.000.000,- (satu milyar rupiah) maka modal minimum \nsesuai profil risiko adalah sebesar 9% x Rp1.000.000.000.-\n=Rp90.000.000,- (sembilan puluh juta rupiah). \n \n \nHuruf b \nYang dimaksud dengan “perusahaan pembiayaan” adalah \nperusahaan pembiayaan dan perusahaan pembiayaan syariah. \nYang dimaksud dengan “modal yang disesuaikan” adalah modal \nyang disesuaikan sebagaimana dimaksud dalam ketentuan \nmengenai penyelenggaraan usaha perusahaan pembiayaan atau \npenyelenggaran usaha pembiayaan syariah. \n\n\n \nContoh: Perusahaan Pembiayaan A memiliki nilai aset yang  \ndisesuaikan sebesar Rp2.000.000.000,- (dua milyar rupiah). \nApabila rasio permodalan mínimum ditetapkan sebesar 10% \n(sepuluh persen) maka modal yang disesuaikan mínimum \nadalah sebesar 10% x Rp2.000.000.000,- = Rp200.000.000,- \n(dua ratus juta rupiah). \n \n \nHuruf c \nYang dimaksud dengan \n“perusahaan asuransi/reasuransi” \nadalah \nperusahaan \nasuransi/reasuransi \ndan \nperusahaan \nasuransi/reasuransi syariah. \nYang dimaksud dengan “aset/kekayaan yang diperkenankan” \nadalah \naset/kekayaan \nyang \ndiperkenankan \nsebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \nYang dimaksud dengan “liabilitas” adalah liabilitas sebagaimana \ndimaksud dalam ketentuan mengenai kesehatan keuangan \nperusahaan asuransi dan perusahaan reasuransi. \nContoh: Perusahaan Asuransi A memiliki modal mínimum \nberbasis risiko (MMBR) sebesar Rp1.000.000.000,- (satu milyar \nrupiah). Apabila target tingkat solvabilitas ditetapkan sebesar \n120% (seratus dua puluh persen) maka nilai mínimum dari \nselisih antara aset/kekayaan yang diperkenankan dengan \nliabilitas \nadalah \nsebesar \n120% \nx \nRp1.000.000.000,- \n= \nRp1.200.000.000,- (satu milyar dua ratus juta rupiah). \n \n \nHuruf d \nYang dimaksud dengan “modal kerja bersih yang disesuaikan \n(MKBD)” adalah MKBD sebagaimana dimaksud dalam ketentuan \nmengenai pemeliharaan dan pelaporan MKBD."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n\n\n \n \n \nAyat (2) \n \n \n \nCukup jelas. \n \n \nAyat (3) \n \n \n \nHuruf a  \nEvaluasi kebijakan, strategi, dan prosedur pengelolaan \npermodalan dilakukan secara berkala paling sedikit 1 (satu) \ntahun sekali atau sewaktu-waktu jika diperlukan. \n \n \n \nHuruf b \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n\n\n \n \n \nAyat (2) \n \n \n \nCukup jelas. \n \n \nAyat (3) \n \n \n \nHuruf a  \nEvaluasi kebijakan, strategi, dan prosedur pengelolaan \npermodalan dilakukan secara berkala paling sedikit 1 (satu) \ntahun sekali atau sewaktu-waktu jika diperlukan. \n \n \n \nHuruf b \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \n \nHuruf b \nKebijakan mengenai sumber permodalan intern perlu \nmempertimbangkan hambatan dalam melakukan transfer \nmodal antar LJK dalam Konglomerasi Keuangan baik \nkarena kondisi intern maupun ekstern Konglomerasi \nKeuangan seperti adanya ketentuan yang berlaku dari \notoritas yang menghambat dilakukannya transfer modal. \n \n \n \nHuruf c \n \n \n \n \nAngka 1 \n \n \n \n \n \nCukup jelas. \n \n \n \n \nAngka 2 \nYang dimaksud dengan “target yang ditetapkan” \nadalah target yang ditetapkan oleh Konglomerasi \nKeuangan ataupun oleh Otoritas Jasa Keuangan. \n \n \n \n \nAngka 3 \n \n \n \n \n \nCukup jelas. \n \n \nAyat (2) \nDalam prosedur perencanaan modal mempertimbangkan antara \nlain target permodalan, risiko, strategi, dan rencana bisnis \nKonglomerasi Keuangan serta kondisi makroekonomi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \n \nHuruf b \nKebijakan mengenai sumber permodalan intern perlu \nmempertimbangkan hambatan dalam melakukan transfer \nmodal antar LJK dalam Konglomerasi Keuangan baik \nkarena kondisi intern maupun ekstern Konglomerasi \nKeuangan seperti adanya ketentuan yang berlaku dari \notoritas yang menghambat dilakukannya transfer modal. \n \n \n \nHuruf c \n \n \n \n \nAngka 1 \n \n \n \n \n \nCukup jelas. \n \n \n \n \nAngka 2 \nYang dimaksud dengan “target yang ditetapkan” \nadalah target yang ditetapkan oleh Konglomerasi \nKeuangan ataupun oleh Otoritas Jasa Keuangan. \n \n \n \n \nAngka 3 \n \n \n \n \n \nCukup jelas. \n \n \nAyat (2) \nDalam prosedur perencanaan modal mempertimbangkan antara \nlain target permodalan, risiko, strategi, dan rencana bisnis \nKonglomerasi Keuangan serta kondisi makroekonomi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nHuruf a \nYang dimaksud dengan “double atau multiple gearing” \nadalah kondisi adanya penyertaan atau penempatan modal \nantar \nLJK \nanggota \nKonglomerasi \nKeuangan \nyang \nmenyebabkan modal Konglomerasi Keuangan dinilai lebih \nbesar dari yang seharusnya (overstated). \n \nHuruf b \nYang dimaksud dengan “excessive leverage” adalah kondisi \nadanya pinjaman yang berlebihan oleh suatu LJK yang \nditempatkan dalam bentuk modal pada LJK lain. \n \n \n \nHuruf c \nCukup jelas.  \n \n \n \nHuruf d \n \n \n \n  \nCukup jelas. \n \n \nAyat (2) \nYang dimaksud dengan “SKMRT” adalah SKMRT sebagaimana \ndimaksud dalam ketentuan mengenai penerapan manajemen \nrisiko terintegrasi bagi Konglomerasi Keuangan. \n \n \nAyat (3) \n \n \n  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nHuruf a \nYang dimaksud dengan “double atau multiple gearing” \nadalah kondisi adanya penyertaan atau penempatan modal \nantar \nLJK \nanggota \nKonglomerasi \nKeuangan \nyang \nmenyebabkan modal Konglomerasi Keuangan dinilai lebih \nbesar dari yang seharusnya (overstated). \n \nHuruf b \nYang dimaksud dengan “excessive leverage” adalah kondisi \nadanya pinjaman yang berlebihan oleh suatu LJK yang \nditempatkan dalam bentuk modal pada LJK lain. \n \n \n \nHuruf c \nCukup jelas.  \n \n \n \nHuruf d \n \n \n \n  \nCukup jelas. \n \n \nAyat (2) \nYang dimaksud dengan “SKMRT” adalah SKMRT sebagaimana \ndimaksud dalam ketentuan mengenai penerapan manajemen \nrisiko terintegrasi bagi Konglomerasi Keuangan. \n \n \nAyat (3) \n \n \n  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \n \nCukup jelas. \n \n \nAyat (2) \nYang dimaksud dengan “SKMRT” adalah SKMRT sebagaimana \ndimaksud dalam ketentuan mengenai penerapan manajemen \nrisiko terintegrasi bagi Konglomerasi Keuangan. \n \n \nAyat (3) \nYang dimaksud dengan “Komite Manajemen Risiko Terintegrasi” \nadalah Komite Manajemen Risiko Terintegrasi sebagaimana \ndimaksud dalam ketentuan mengenai penerapan manajemen \nrisiko terintegrasi bagi Konglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \n \nCukup jelas. \n \n \nAyat (2) \nYang dimaksud dengan “SKMRT” adalah SKMRT sebagaimana \ndimaksud dalam ketentuan mengenai penerapan manajemen \nrisiko terintegrasi bagi Konglomerasi Keuangan. \n \n \nAyat (3) \nYang dimaksud dengan “Komite Manajemen Risiko Terintegrasi” \nadalah Komite Manajemen Risiko Terintegrasi sebagaimana \ndimaksud dalam ketentuan mengenai penerapan manajemen \nrisiko terintegrasi bagi Konglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud “SKAIT” adalah SKAIT sebagaimana dimaksud dalam \nketentuan \nmengenai \npenerapan \ntata \nkelola \nterintegrasi \nbagi \nKonglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud “SKAIT” adalah SKAIT sebagaimana dimaksud dalam \nketentuan \nmengenai \npenerapan \ntata \nkelola \nterintegrasi \nbagi \nKonglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Laporan Kecukupan Permodalan Terintegrasi dapat diminta secara \nsewaktu-waktu antara lain dalam hal Otoritas Jasa Keuangan \nmemerlukan informasi mengenai kondisi permodalan Konglomerasi \nKeuangan terkini dalam rangka pengawasan terintegrasi terhadap \nKonglomerasi Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan Kecukupan Permodalan Terintegrasi dapat diminta secara \nsewaktu-waktu antara lain dalam hal Otoritas Jasa Keuangan \nmemerlukan informasi mengenai kondisi permodalan Konglomerasi \nKeuangan terkini dalam rangka pengawasan terintegrasi terhadap \nKonglomerasi Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “LJK-LJK yang sejenis” adalah LJK-LJK yang \ndiatur oleh ketentuan mengenai penerapan manajemen risiko dan \ntata kelola yang sama pada masing-masing sektor keuangan. \n \n \nContoh:  \na. \nLJK berupa perusahaan asuransi. \nb. \nLJK berupa perusahaan efek. \nc. \nLJK berupa bank perkreditan rakyat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “LJK-LJK yang sejenis” adalah LJK-LJK yang \ndiatur oleh ketentuan mengenai penerapan manajemen risiko dan \ntata kelola yang sama pada masing-masing sektor keuangan. \n \n \nContoh:  \na. \nLJK berupa perusahaan asuransi. \nb. \nLJK berupa perusahaan efek. \nc. \nLJK berupa bank perkreditan rakyat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5774 \n \n \n\n\n \n \n \nLAMPIRAN I \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   26 /POJK.03/2015 \n \nTENTANG \nKEWAJIBAN \nPENYEDIAAN \nMODAL \nMINIMUM \nTERINTEGRASI \nBAGI \nKONGLOMERASI KEUANGAN \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nLampiran I.A \nLaporan Kecukupan Permodalan Terintegrasi \n \nNama Konglomerasi Keuangan : \nPosisi \n: \nEntitas Utama \n: \n \nNo. Nama LJK Jenis LJK Modal Aktual \n(Juta Rp) \nFaktor Pengurang Total Modal Aktual \n(Juta Rp) \nModal Minimum \n(Juta Rp) \nRasio KPMM \nTerintegrasi \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n… \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTotal \nRp \nRp \nRp \n…% \n \nKeterangan: \n1. Nama LJK diisi dengan nama LJK anggota Konglomerasi Keuangan. \n2. Jenis LJK diisi dengan bank, perusahaan asuransi/reasuransi, perusahaan pembiayaan, atau perusahaan efek. \n3. Modal Aktual diisi dengan: \na. (Modal inti + Modal pelengkap) aktual setelah dikurangi faktor-faktor pengurang modal untuk jenis LJK berupa bank; \nb. Modal yang disesuaikan aktual untuk jenis LJK berupa perusahaan pembiayaan; \nc. (Aset atau kekayaan yang diperkenankan – liabilitas) aktual untuk jenis LJK berupa perusahaan asuransi/reasuransi; \nd. Modal Kerja Bersih Disesuaikan (MKBD) aktual untuk jenis LJK berupa perusahaan efek.  \n\n\n \n \n4. Faktor Pengurang Total Modal Aktual adalah penjumlahan dari: \na. penyertaan modal LJK kepada LJK lain dalam Konglomerasi Keuangan; dan/atau \nb. penempatan dana LJK kepada LJK lain dalam Konglomerasi Keuangan  yang diakui sebagai instrumen modal (regulatory \ncapital) oleh LJK lain dimaksud, \nsepanjang belum diperhitungkan dalam perhitungan modal atau belum diperhitungkan sebagai faktor pengurang modal, pada \nmasing-masing sektor keuangan. \n \n5. Modal Minimum adalah modal minimum yang wajib dipenuhi oleh setiap LJK sesuai ketentuan pada masing-masing sektor \nkeuangan. Modal Minimum diisi dengan: \na. modal minimum sesuai profil risiko untuk jenis LJK berupa bank;  \nb. modal yang disesuaikan minimum untuk jenis LJK berupa perusahaan pembiayaan; \nc. nilai minimum dari selisih antara aset/kekayaan yang diperkenankan dengan liabilitas untuk jenis LJK berupa perusahaan \nasuransi/reasuransi; \nd. nilai minimum Modal Kerja Bersih yang Disesuaikan (MKBD) untuk jenis LJK berupa perusahaan efek. \n \n6. Rasio KPMM Terintegrasi dihitung dari (Total Modal Aktual – Faktor Pengurang Total Modal Aktual)/ Total Modal Minimum).\n\n\n \n \nLampiran I.B \n \nLaporan Rincian Faktor Pengurang Total Modal Aktual berupa Penyertaan Modal LJK Kepada LJK lain \ndalam Konglomerasi Keuangan \nNama Konglomerasi Keuangan : \nPosisi \n: \nEntitas Utama \n: \n \nNo. \nNama LJK yang Melakukan \nPenyertaan Modal (Investor) \nNama LJK Tujuan \nPenyertaan Modal \n(Investee) \nWaktu \nPenyertaan \nModal1) \nPorsi \nPenyertaan \nModal2) \nNilai \nPenyertaan \nModal3) \n(Juta Rp) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTotal Penyertaan Modal \n \n \nKeterangan: \n1) Tanggal, bulan, dan tahun efektif dimulainya penyertaan modal. \n2) Persentase penyertaan modal (kepemilikan) pada perusahaan investee per posisi laporan. \n3) Nilai penyertaan modal per posisi laporan. \n \n\n\n \n \nLampiran I.C \n \nLaporan Rincian Faktor Pengurang Total Modal Aktual berupa Penempatan Dana LJK kepada LJK Lain \ndalam Konglomerasi Keuangan yang Diakui sebagai Instrumen Modal (Regulatory Capital)  \noleh LJK Lain  \n \nNama Konglomerasi Keuangan : \nPosisi \n: \nEntitas Utama \n: \n \nNo. \nNama LJK yang \nMelakukan \nPenempatan Dana \nNama LJK Tujuan Penempatan \nDana  \n \nWaktu Penempatan \nDana1) \nNilai Penempatan \nDana2) \n(Juta Rp) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTotal Penempatan Dana \n \n \nKeterangan: \n1) Tanggal, bulan, dan tahun efektif dimulainya penempatan dana. \n2) Nilai penempatan dana per posisi laporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5774 \n \n \n\n\n \n \n \nLAMPIRAN I \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   26 /POJK.03/2015 \n \nTENTANG \nKEWAJIBAN \nPENYEDIAAN \nMODAL \nMINIMUM \nTERINTEGRASI \nBAGI \nKONGLOMERASI KEUANGAN \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nLampiran I.A \nLaporan Kecukupan Permodalan Terintegrasi \n \nNama Konglomerasi Keuangan : \nPosisi \n: \nEntitas Utama \n: \n \nNo. Nama LJK Jenis LJK Modal Aktual \n(Juta Rp) \nFaktor Pengurang Total Modal Aktual \n(Juta Rp) \nModal Minimum \n(Juta Rp) \nRasio KPMM \nTerintegrasi \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n… \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTotal \nRp \nRp \nRp \n…% \n \nKeterangan: \n1. Nama LJK diisi dengan nama LJK anggota Konglomerasi Keuangan. \n2. Jenis LJK diisi dengan bank, perusahaan asuransi/reasuransi, perusahaan pembiayaan, atau perusahaan efek. \n3. Modal Aktual diisi dengan: \na. (Modal inti + Modal pelengkap) aktual setelah dikurangi faktor-faktor pengurang modal untuk jenis LJK berupa bank; \nb. Modal yang disesuaikan aktual untuk jenis LJK berupa perusahaan pembiayaan; \nc. (Aset atau kekayaan yang diperkenankan – liabilitas) aktual untuk jenis LJK berupa perusahaan asuransi/reasuransi; \nd. Modal Kerja Bersih Disesuaikan (MKBD) aktual untuk jenis LJK berupa perusahaan efek.  \n\n\n \n \n4. Faktor Pengurang Total Modal Aktual adalah penjumlahan dari: \na. penyertaan modal LJK kepada LJK lain dalam Konglomerasi Keuangan; dan/atau \nb. penempatan dana LJK kepada LJK lain dalam Konglomerasi Keuangan  yang diakui sebagai instrumen modal (regulatory \ncapital) oleh LJK lain dimaksud, \nsepanjang belum diperhitungkan dalam perhitungan modal atau belum diperhitungkan sebagai faktor pengurang modal, pada \nmasing-masing sektor keuangan. \n \n5. Modal Minimum adalah modal minimum yang wajib dipenuhi oleh setiap LJK sesuai ketentuan pada masing-masing sektor \nkeuangan. Modal Minimum diisi dengan: \na. modal minimum sesuai profil risiko untuk jenis LJK berupa bank;  \nb. modal yang disesuaikan minimum untuk jenis LJK berupa perusahaan pembiayaan; \nc. nilai minimum dari selisih antara aset/kekayaan yang diperkenankan dengan liabilitas untuk jenis LJK berupa perusahaan \nasuransi/reasuransi; \nd. nilai minimum Modal Kerja Bersih yang Disesuaikan (MKBD) untuk jenis LJK berupa perusahaan efek. \n \n6. Rasio KPMM Terintegrasi dihitung dari (Total Modal Aktual – Faktor Pengurang Total Modal Aktual)/ Total Modal Minimum).\n\n\n \n \nLampiran I.B \n \nLaporan Rincian Faktor Pengurang Total Modal Aktual berupa Penyertaan Modal LJK Kepada LJK lain \ndalam Konglomerasi Keuangan \nNama Konglomerasi Keuangan : \nPosisi \n: \nEntitas Utama \n: \n \nNo. \nNama LJK yang Melakukan \nPenyertaan Modal (Investor) \nNama LJK Tujuan \nPenyertaan Modal \n(Investee) \nWaktu \nPenyertaan \nModal1) \nPorsi \nPenyertaan \nModal2) \nNilai \nPenyertaan \nModal3) \n(Juta Rp) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTotal Penyertaan Modal \n \n \nKeterangan: \n1) Tanggal, bulan, dan tahun efektif dimulainya penyertaan modal. \n2) Persentase penyertaan modal (kepemilikan) pada perusahaan investee per posisi laporan. \n3) Nilai penyertaan modal per posisi laporan. \n \n\n\n \n \nLampiran I.C \n \nLaporan Rincian Faktor Pengurang Total Modal Aktual berupa Penempatan Dana LJK kepada LJK Lain \ndalam Konglomerasi Keuangan yang Diakui sebagai Instrumen Modal (Regulatory Capital)  \noleh LJK Lain  \n \nNama Konglomerasi Keuangan : \nPosisi \n: \nEntitas Utama \n: \n \nNo. \nNama LJK yang \nMelakukan \nPenempatan Dana \nNama LJK Tujuan Penempatan \nDana  \n \nWaktu Penempatan \nDana1) \nNilai Penempatan \nDana2) \n(Juta Rp) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTotal Penempatan Dana \n \n \nKeterangan: \n1) Tanggal, bulan, dan tahun efektif dimulainya penempatan dana. \n2) Nilai penempatan dana per posisi laporan."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 54,
+  "total_ayat": 80,
+  "total_karakter": 41016,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

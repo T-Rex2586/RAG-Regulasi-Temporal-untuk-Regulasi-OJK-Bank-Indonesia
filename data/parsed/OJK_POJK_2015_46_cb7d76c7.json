@@ -1,0 +1,515 @@
+{
+  "doc_id": "OJK_POJK_2015_46_cb7d76c7",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "46",
+  "tahun": "2015",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 46/POJK.03/2015 tentang Penerapan Systematically Important Bank Dan Capital Surcharge",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "23  Desember 2015",
+  "tanggal_berlaku": "diundangkan (28 Desember 2015)",
+  "diundangkan_pada": "28 Desember 2015",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "INDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "METODOLOGI PENETAPAN SYSTEMICALLY IMPORTANT BANK (SIB)"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "CAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT BANK (SIB)"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, dan Bank Umum \nSyariah \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \nSyariah. \n2. \nSystemically \nImportant \nBank, \nyang \nselanjutnya \ndisingkat SIB, adalah suatu Bank yang karena ukuran \naset, modal, dan kewajiban, luas jaringan atau \nkompleksitas transaksi atas jasa perbankan serta \nketerkaitan dengan sektor keuangan lain dapat \nmengakibatkan \ngagalnya \nsebagian \natau \nsecara \nkeseluruhan \nbank-bank \nlain \natau \nsektor \njasa \n\n\n \n \nkeuangan, baik secara operasional maupun finansial, \napabila Bank mengalami gangguan atau gagal. \n3. \nCapital Surcharge untuk SIB adalah tambahan modal \nyang berfungsi untuk mengurangi dampak negatif \nterhadap \nstabilitas \nsistem \nkeuangan \ndan \nperekonomian apabila terjadi kegagalan SIB melalui \npeningkatan kemampuan Bank dalam menyerap \nkerugian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang \ndimaksud dengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, dan Bank Umum \nSyariah \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 21 Tahun 2008 tentang Perbankan \nSyariah. \n2. \nSystemically \nImportant \nBank, \nyang \nselanjutnya \ndisingkat SIB, adalah suatu Bank yang karena ukuran \naset, modal, dan kewajiban, luas jaringan atau \nkompleksitas transaksi atas jasa perbankan serta \nketerkaitan dengan sektor keuangan lain dapat \nmengakibatkan \ngagalnya \nsebagian \natau \nsecara \nkeseluruhan \nbank-bank \nlain \natau \nsektor \njasa \n\n\n \n \nkeuangan, baik secara operasional maupun finansial, \napabila Bank mengalami gangguan atau gagal. \n3. \nCapital Surcharge untuk SIB adalah tambahan modal \nyang berfungsi untuk mengurangi dampak negatif \nterhadap \nstabilitas \nsistem \nkeuangan \ndan \nperekonomian apabila terjadi kegagalan SIB melalui \npeningkatan kemampuan Bank dalam menyerap \nkerugian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) Otoritas Jasa Keuangan menetapkan SIB dan Capital \nSurcharge untuk SIB. \n(2) Dalam menetapkan SIB dan Capital Surcharge untuk \nSIB sebagaimana dimaksud pada ayat (1), Otoritas \nJasa Keuangan berkoordinasi dengan Bank Indonesia. \n(3) Penetapan SIB dan Capital Surcharge untuk SIB \nsebagaimana dimaksud pada ayat (1) dilakukan secara \nsemesteran setiap tahun pada: \na. bulan Maret dengan menggunakan data posisi \nbulan Desember tahun sebelumnya; dan \nb. bulan September dengan menggunakan data posisi \nbulan Juni.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan menetapkan SIB dan Capital \nSurcharge untuk SIB."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menetapkan SIB dan Capital Surcharge untuk \nSIB sebagaimana dimaksud pada ayat (1), Otoritas \nJasa Keuangan berkoordinasi dengan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan SIB dan Capital Surcharge untuk SIB \nsebagaimana dimaksud pada ayat (1) dilakukan secara \nsemesteran setiap tahun pada: \na. bulan Maret dengan menggunakan data posisi \nbulan Desember tahun sebelumnya; dan \nb. bulan September dengan menggunakan data posisi \nbulan Juni."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Bank yang ditetapkan sebagai SIB wajib membentuk \nCapital Surcharge untuk SIB.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang ditetapkan sebagai SIB wajib membentuk \nCapital Surcharge untuk SIB."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) Penetapan SIB dilakukan menggunakan metodologi \ntertentu berdasarkan indikator tertentu. \n(2) Otoritas Jasa Keuangan mengkaji ulang metodologi \npenetapan SIB paling kurang 1 (satu) kali dalam 3 \n(tiga) tahun. \n \n \n \n \n\n\n \n \nBAB II \nINDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penetapan SIB dilakukan menggunakan metodologi \ntertentu berdasarkan indikator tertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan mengkaji ulang metodologi \npenetapan SIB paling kurang 1 (satu) kali dalam 3 \n(tiga) tahun. \n \n \n \n \n\n\n \n \nBAB II \nINDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "INDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Indikator yang digunakan dalam metodologi penetapan SIB \nsebagaimana dimaksud dalam Pasal 4 ayat (1) terdiri atas: \na. \nukuran Bank (size); \nb. \nketerkaitan \ndengan \nsistem \nkeuangan \n(interconnectedness); dan \nc. \nkompleksitas kegiatan usaha (complexity).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Indikator yang digunakan dalam metodologi penetapan SIB \nsebagaimana dimaksud dalam Pasal 4 ayat (1) terdiri atas: \na. \nukuran Bank (size); \nb. \nketerkaitan \ndengan \nsistem \nkeuangan \n(interconnectedness); dan \nc. \nkompleksitas kegiatan usaha (complexity)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "INDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Indikator ukuran Bank (size) sebagaimana dimaksud dalam \nPasal 5 huruf a diukur dari sub-indikator yaitu total \neksposur Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Indikator ukuran Bank (size) sebagaimana dimaksud dalam \nPasal 5 huruf a diukur dari sub-indikator yaitu total \neksposur Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "INDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Indikator \nketerkaitan \ndengan \nsistem \nkeuangan \n(interconnectedness) sebagaimana dimaksud dalam Pasal 5 \nhuruf b terdiri atas sub-indikator: \na. \naset keuangan berupa tagihan atau penempatan \nkepada lembaga jasa keuangan (intra financial system \nassets); \nb. \nkewajiban keuangan kepada lembaga jasa keuangan \n(intra financial system liabilities); dan \nc. \nsurat berharga yang diterbitkan oleh Bank (securities \noutstanding).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Indikator \nketerkaitan \ndengan \nsistem \nkeuangan \n(interconnectedness) sebagaimana dimaksud dalam Pasal 5 \nhuruf b terdiri atas sub-indikator: \na. \naset keuangan berupa tagihan atau penempatan \nkepada lembaga jasa keuangan (intra financial system \nassets); \nb. \nkewajiban keuangan kepada lembaga jasa keuangan \n(intra financial system liabilities); dan \nc. \nsurat berharga yang diterbitkan oleh Bank (securities \noutstanding)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "INDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Indikator \nkompleksitas \nkegiatan \nusaha \n(complexity) \nsebagaimana dimaksud dalam Pasal 5 huruf c terdiri atas \nsub-indikator: \na. \nnilai nosional spot dan derivatif over the counter; \nb. \nsurat berharga yang diklasifikasikan sebagai tersedia \nuntuk dijual dan diperdagangkan namun tidak \ntermasuk  surat  berharga yang dijadikan sebagai high  \n \n\n\n \n \nquality \nliquid \nasset \ndalam \nperhitungan \nliquidity \ncoverage ratio; \nc. \nindikator \ndomestik \nyang \nbersifat \nspesifik \nyang \nditetapkan oleh Otoritas Jasa Keuangan; dan \nd. \nketergantian \n(substitutability) \nperan \nBank \ndalam \naktivitas sistem pembayaran dan kustodian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Indikator \nkompleksitas \nkegiatan \nusaha \n(complexity) \nsebagaimana dimaksud dalam Pasal 5 huruf c terdiri atas \nsub-indikator: \na. \nnilai nosional spot dan derivatif over the counter; \nb. \nsurat berharga yang diklasifikasikan sebagai tersedia \nuntuk dijual dan diperdagangkan namun tidak \ntermasuk  surat  berharga yang dijadikan sebagai high  \n \n\n\n \n \nquality \nliquid \nasset \ndalam \nperhitungan \nliquidity \ncoverage ratio; \nc. \nindikator \ndomestik \nyang \nbersifat \nspesifik \nyang \nditetapkan oleh Otoritas Jasa Keuangan; dan \nd. \nketergantian \n(substitutability) \nperan \nBank \ndalam \naktivitas sistem pembayaran dan kustodian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "INDIKATOR SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "(1) Bobot setiap indikator SIB sebagaimana dimaksud \ndalam Pasal 5 ditetapkan sama besar (equal weight). \n(2) Bobot setiap sub-indikator sebagaimana dimaksud \ndalam Pasal 6, Pasal 7, dan Pasal 8 ditetapkan sama \nbesar (equal weight). \n \nBAB III \nMETODOLOGI PENETAPAN SYSTEMICALLY IMPORTANT \nBANK (SIB)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bobot setiap indikator SIB sebagaimana dimaksud \ndalam Pasal 5 ditetapkan sama besar (equal weight)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bobot setiap sub-indikator sebagaimana dimaksud \ndalam Pasal 6, Pasal 7, dan Pasal 8 ditetapkan sama \nbesar (equal weight). \n \nBAB III \nMETODOLOGI PENETAPAN SYSTEMICALLY IMPORTANT \nBANK (SIB)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "METODOLOGI PENETAPAN SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Otoritas Jasa Keuangan menetapkan SIB berdasarkan \nperhitungan skor sistemik (systemic importance score).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan menetapkan SIB berdasarkan \nperhitungan skor sistemik (systemic importance score)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "METODOLOGI PENETAPAN SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Skor sistemik (systemic importance score) setiap Bank \ndihitung dengan cara: \na. \nmenghitung nilai masing-masing sub-indikator dalam \nsatuan basis poin, dengan cara menghitung proporsi \nnilai masing-masing sub-indikator terhadap nilai \nagregat industri perbankan; \nb. \nmenghitung \nnilai \npembobotan \nmasing-masing            \nsub-indikator, dengan cara mengalikan nilai masing-\nmasing sub-indikator sebagaimana dimaksud pada \nhuruf a dengan bobot sub-indikator; \nc. \nmenghitung nilai masing-masing indikator, dengan \ncara menjumlahkan nilai pembobotan masing-masing        \nsub-indikator sebagaimana dimaksud pada huruf b; \n \n\n\n \n \nd. \nmenghitung \nnilai \npembobotan \nmasing-masing \nindikator, dengan cara mengalikan nilai masing-\nmasing indikator sebagaimana dimaksud pada huruf c \ndengan bobot indikator; dan \ne. \nmenghitung nilai skor sistemik (systemic importance \nscore), dengan cara menjumlahkan nilai pembobotan \nmasing-masing indikator sebagaimana dimaksud pada \nhuruf d. \n \nBAB IV \nCAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT \nBANK (SIB)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Skor sistemik (systemic importance score) setiap Bank \ndihitung dengan cara: \na. \nmenghitung nilai masing-masing sub-indikator dalam \nsatuan basis poin, dengan cara menghitung proporsi \nnilai masing-masing sub-indikator terhadap nilai \nagregat industri perbankan; \nb. \nmenghitung \nnilai \npembobotan \nmasing-masing            \nsub-indikator, dengan cara mengalikan nilai masing-\nmasing sub-indikator sebagaimana dimaksud pada \nhuruf a dengan bobot sub-indikator; \nc. \nmenghitung nilai masing-masing indikator, dengan \ncara menjumlahkan nilai pembobotan masing-masing        \nsub-indikator sebagaimana dimaksud pada huruf b; \n \n\n\n \n \nd. \nmenghitung \nnilai \npembobotan \nmasing-masing \nindikator, dengan cara mengalikan nilai masing-\nmasing indikator sebagaimana dimaksud pada huruf c \ndengan bobot indikator; dan \ne. \nmenghitung nilai skor sistemik (systemic importance \nscore), dengan cara menjumlahkan nilai pembobotan \nmasing-masing indikator sebagaimana dimaksud pada \nhuruf d. \n \nBAB IV \nCAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT \nBANK (SIB)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "CAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "(1) \nOtoritas \nJasa \nKeuangan \nmenetapkan \nCapital \nSurcharge untuk SIB dalam 5 (lima) kelompok (bucket). \n(2) Besaran Capital Surcharge untuk SIB pada setiap \nkelompok (bucket) ditetapkan: \na. \n1% (satu persen) dari Aset Tertimbang Menurut \nRisiko (ATMR) bagi SIB yang digolongkan dalam \nkelompok (bucket) 1; \nb. \n1,5% (satu koma lima persen) dari ATMR bagi SIB \nyang digolongkan dalam kelompok (bucket) 2; \nc. \n2% (dua persen) dari ATMR bagi SIB yang \ndigolongkan dalam kelompok (bucket) 3; \nd. \n2,5% (dua koma lima persen) dari ATMR bagi SIB \nyang digolongkan dalam kelompok (bucket) 4; dan \ne. \n3,5% (tiga koma lima persen) dari ATMR bagi SIB \nyang digolongkan dalam kelompok (bucket) 5. \n(3) Capital Surcharge untuk SIB sebagaimana dimaksud \npada ayat (2) wajib dipenuhi dengan menggunakan \nkomponen modal inti utama (Common Equity Tier 1). \n(4) Otoritas Jasa Keuangan berwenang meninjau ulang \ndan menyesuaikan penetapan besaran serta waktu \npemenuhan Capital Surcharge untuk SIB, dengan \nmempertimbangkan \nkondisi \nperekonomian \ndan \nstabilitas sistem keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas \nJasa \nKeuangan \nmenetapkan \nCapital \nSurcharge untuk SIB dalam 5 (lima) kelompok (bucket)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Besaran Capital Surcharge untuk SIB pada setiap \nkelompok (bucket) ditetapkan: \na. \n1% (satu persen) dari Aset Tertimbang Menurut \nRisiko (ATMR) bagi SIB yang digolongkan dalam \nkelompok (bucket) 1; \nb. \n1,5% (satu koma lima persen) dari ATMR bagi SIB \nyang digolongkan dalam kelompok (bucket) 2; \nc. \n2% (dua persen) dari ATMR bagi SIB yang \ndigolongkan dalam kelompok (bucket) 3; \nd. \n2,5% (dua koma lima persen) dari ATMR bagi SIB \nyang digolongkan dalam kelompok (bucket) 4; dan \ne. \n3,5% (tiga koma lima persen) dari ATMR bagi SIB \nyang digolongkan dalam kelompok (bucket) 5."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Capital Surcharge untuk SIB sebagaimana dimaksud \npada ayat (2) wajib dipenuhi dengan menggunakan \nkomponen modal inti utama (Common Equity Tier 1)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Otoritas Jasa Keuangan berwenang meninjau ulang \ndan menyesuaikan penetapan besaran serta waktu \npemenuhan Capital Surcharge untuk SIB, dengan \nmempertimbangkan \nkondisi \nperekonomian \ndan \nstabilitas sistem keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "CAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Berdasarkan penetapan Capital Surcharge untuk SIB dalam \n5 (lima) kelompok (bucket) sebagaimana dimaksud dalam \nPasal 12 ayat (1), untuk pertama kali Otoritas Jasa \nKeuangan menetapkan SIB dalam 4 (empat) kelompok \n(bucket) Capital Surcharge untuk SIB yaitu kelompok \n(bucket) 1, kelompok (bucket) 2, kelompok (bucket) 3, dan \nkelompok (bucket) 4.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berdasarkan penetapan Capital Surcharge untuk SIB dalam \n5 (lima) kelompok (bucket) sebagaimana dimaksud dalam \nPasal 12 ayat (1), untuk pertama kali Otoritas Jasa \nKeuangan menetapkan SIB dalam 4 (empat) kelompok \n(bucket) Capital Surcharge untuk SIB yaitu kelompok \n(bucket) 1, kelompok (bucket) 2, kelompok (bucket) 3, dan \nkelompok (bucket) 4."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "CAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "(1) Dalam hal terdapat Bank yang memiliki skor sistemik \n(systemic importance score) yang sangat tinggi sehingga \ndigolongkan dalam kelompok yang tertinggi, Otoritas \nJasa Keuangan menetapkan: \na. \npengelompokan SIB bertambah 1 (satu) kelompok \n(bucket) di atas kelompok tertinggi; dan   \nb. \ntidak terdapat SIB yang digolongkan dalam \nkelompok \n(bucket) \ntertinggi \nyang \nbaru \nsebagaimana dimaksud pada huruf a. \n(2) Setiap \npenambahan \n(satu) \nkelompok \n(bucket) \nsebagaimana dimaksud pada ayat (1), besaran Capital \nSurcharge untuk SIB sebagaimana dimaksud dalam \nPasal 12 ayat (2) ditetapkan meningkat sebesar 1% \n(satu persen) dari ATMR.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terdapat Bank yang memiliki skor sistemik \n(systemic importance score) yang sangat tinggi sehingga \ndigolongkan dalam kelompok yang tertinggi, Otoritas \nJasa Keuangan menetapkan: \na. \npengelompokan SIB bertambah 1 (satu) kelompok \n(bucket) di atas kelompok tertinggi; dan   \nb. \ntidak terdapat SIB yang digolongkan dalam \nkelompok \n(bucket) \ntertinggi \nyang \nbaru \nsebagaimana dimaksud pada huruf a."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Setiap \npenambahan \n(satu) \nkelompok \n(bucket) \nsebagaimana dimaksud pada ayat (1), besaran Capital \nSurcharge untuk SIB sebagaimana dimaksud dalam \nPasal 12 ayat (2) ditetapkan meningkat sebesar 1% \n(satu persen) dari ATMR."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "CAPITAL SURCHARGE UNTUK SYSTEMICALLY IMPORTANT BANK (SIB)",
+      "teks_lengkap": "Pembentukan Capital Surcharge untuk SIB sebagaimana \ndimaksud dalam Pasal 12 ayat (2) wajib dipenuhi secara \nbertahap: \n1. \nbagi SIB yang digolongkan dalam kelompok (bucket) 1, \nsebesar: \na. \n0,25% (nol koma dua puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2016; \nb. \n0,5% (nol koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2017; \nc. \n0,75% (nol koma tujuh puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2018; \n\n\n \n \nd. \n1% (satu persen) dari ATMR sejak tanggal 1 \nJanuari 2019; \n2. \nbagi SIB yang digolongkan dalam kelompok (bucket) 2, \nsebesar: \na. \n0,375% (nol koma tiga ratus tujuh puluh lima \npersen) dari ATMR sejak tanggal 1 Januari 2016; \nb. \n0,75% (nol koma tujuh puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2017; \nc. \n1,125% (satu koma seratus dua puluh lima \npersen) dari ATMR sejak tanggal 1 Januari 2018; \nd. \n1,5% (satu koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2019; \n3. \nbagi SIB yang digolongkan dalam kelompok (bucket) 3, \nsebesar: \na. \n0,5% (nol koma lima persen) dari  ATMR sejak \ntanggal 1 Januari 2016; \nb. \n1% (satu persen) dari ATMR sejak tanggal 1 \nJanuari 2017; \nc. \n1,5% (satu koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2018; \nd. \n2% (dua persen) dari ATMR sejak tanggal 1 \nJanuari 2019; \n4. \nbagi SIB yang digolongkan dalam kelompok (bucket) 4, \nsebesar: \na. \n0,625% (nol koma enam ratus dua puluh lima \npersen) dari  ATMR sejak tanggal 1 Januari 2016; \nb. \n1,25% (satu koma dua puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2017; \nc. \n1,875% (satu koma delapan ratus tujuh puluh \nlima persen) dari ATMR sejak tanggal 1 Januari \n2018; \nd. \n2,5% (dua koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2019. \n \n \n \n \n\n\n \n \nBAB V \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pembentukan Capital Surcharge untuk SIB sebagaimana \ndimaksud dalam Pasal 12 ayat (2) wajib dipenuhi secara \nbertahap: \n1. \nbagi SIB yang digolongkan dalam kelompok (bucket) 1, \nsebesar: \na. \n0,25% (nol koma dua puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2016; \nb. \n0,5% (nol koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2017; \nc. \n0,75% (nol koma tujuh puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2018; \n\n\n \n \nd. \n1% (satu persen) dari ATMR sejak tanggal 1 \nJanuari 2019; \n2. \nbagi SIB yang digolongkan dalam kelompok (bucket) 2, \nsebesar: \na. \n0,375% (nol koma tiga ratus tujuh puluh lima \npersen) dari ATMR sejak tanggal 1 Januari 2016; \nb. \n0,75% (nol koma tujuh puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2017; \nc. \n1,125% (satu koma seratus dua puluh lima \npersen) dari ATMR sejak tanggal 1 Januari 2018; \nd. \n1,5% (satu koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2019; \n3. \nbagi SIB yang digolongkan dalam kelompok (bucket) 3, \nsebesar: \na. \n0,5% (nol koma lima persen) dari  ATMR sejak \ntanggal 1 Januari 2016; \nb. \n1% (satu persen) dari ATMR sejak tanggal 1 \nJanuari 2017; \nc. \n1,5% (satu koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2018; \nd. \n2% (dua persen) dari ATMR sejak tanggal 1 \nJanuari 2019; \n4. \nbagi SIB yang digolongkan dalam kelompok (bucket) 4, \nsebesar: \na. \n0,625% (nol koma enam ratus dua puluh lima \npersen) dari  ATMR sejak tanggal 1 Januari 2016; \nb. \n1,25% (satu koma dua puluh lima persen) dari \nATMR sejak tanggal 1 Januari 2017; \nc. \n1,875% (satu koma delapan ratus tujuh puluh \nlima persen) dari ATMR sejak tanggal 1 Januari \n2018; \nd. \n2,5% (dua koma lima persen) dari ATMR sejak \ntanggal 1 Januari 2019. \n \n \n \n \n\n\n \n \nBAB V \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang ditetapkan sebagai SIB, yang tidak memenuhi \nkewajiban \npenyediaan \nCapital \nSurcharge \nuntuk \nSIB, \ndikenakan sanksi sebagaimana ketentuan yang mengatur \nmengenai kewajiban penyediaan modal minimum bagi bank \numum konvensional atau bagi bank umum syariah. \n \nBAB VI \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang ditetapkan sebagai SIB, yang tidak memenuhi \nkewajiban \npenyediaan \nCapital \nSurcharge \nuntuk \nSIB, \ndikenakan sanksi sebagaimana ketentuan yang mengatur \nmengenai kewajiban penyediaan modal minimum bagi bank \numum konvensional atau bagi bank umum syariah. \n \nBAB VI \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Untuk pertama kali, penetapan SIB dan Capital Surcharge \nuntuk SIB dilakukan pada bulan Januari 2016 dengan \nmenggunakan data posisi bulan Juni 2015. \n \nBAB VII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk pertama kali, penetapan SIB dan Capital Surcharge \nuntuk SIB dilakukan pada bulan Januari 2016 dengan \nmenggunakan data posisi bulan Juni 2015. \n \nBAB VII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \nPada tanggal  23  Desember 2015 \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \nPada tanggal   28 Desember 2015 \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 372 \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nSudarmaji \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 46 /POJK.03/2015 \nTENTANG \nPENETAPAN SYSTEMICALLY IMPORTANT BANK  DAN CAPITAL SURCHARGE  \n \nI. \nUMUM \nPenentuan SIB di pasar keuangan domestik bertujuan untuk \nmengidentifikasi Bank yang memiliki dampak signifikan terhadap \nsistem keuangan domestik. Dengan demikian diperlukan suatu \nmetodologi dalam melakukan asesmen tingkat sistemik suatu Bank \nsecara domestik yang mencerminkan adverse effect yang berpotensi \nterjadi apabila SIB mengalami kegagalan.  \nRisiko yang bersumber dari SIB dimitigasi melalui penetapan \nCapital Surcharge untuk SIB berdasarkan tingkat dampak sistemik \nBank terhadap sistem keuangan domestik. Penetapan Capital Surcharge \nuntuk SIB tersebut merupakan bagian dari supervisory action yang \ndilakukan dalam kondisi normal. \nSehubungan \ndengan \nhal-hal \ntersebut \nmaka \nperlu \nadanya \npengaturan tentang Penetapan Systemically Important Bank dan Capital \nSurcharge. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \nPada tanggal  23  Desember 2015 \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \nPada tanggal   28 Desember 2015 \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 372 \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nSudarmaji \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 46 /POJK.03/2015 \nTENTANG \nPENETAPAN SYSTEMICALLY IMPORTANT BANK  DAN CAPITAL SURCHARGE  \n \nI. \nUMUM \nPenentuan SIB di pasar keuangan domestik bertujuan untuk \nmengidentifikasi Bank yang memiliki dampak signifikan terhadap \nsistem keuangan domestik. Dengan demikian diperlukan suatu \nmetodologi dalam melakukan asesmen tingkat sistemik suatu Bank \nsecara domestik yang mencerminkan adverse effect yang berpotensi \nterjadi apabila SIB mengalami kegagalan.  \nRisiko yang bersumber dari SIB dimitigasi melalui penetapan \nCapital Surcharge untuk SIB berdasarkan tingkat dampak sistemik \nBank terhadap sistem keuangan domestik. Penetapan Capital Surcharge \nuntuk SIB tersebut merupakan bagian dari supervisory action yang \ndilakukan dalam kondisi normal. \nSehubungan \ndengan \nhal-hal \ntersebut \nmaka \nperlu \nadanya \npengaturan tentang Penetapan Systemically Important Bank dan Capital \nSurcharge. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n\n\n \n \n \n \n \n \n \n \nYang dimaksud dengan “Capital Surcharge untuk SIB” adalah \nCapital Surcharge untuk Domestic Systemically Important \nBank sebagaimana ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai kewajiban penyediaan modal minimum \nbagi bank umum konvensional atau bagi bank umum syariah. \n \n \n \nDomestic Systemically Important Bank adalah Bank di \nIndonesia yang ditetapkan sebagai SIB. \n \n \nAyat (2) \n \nKoordinasi antara Otoritas Jasa Keuangan dengan Bank \nIndonesia dilakukan melalui mekanisme koordinasi. \n \n \nAyat (3) \n \n \nOtoritas Jasa Keuangan memberitahukan secara tertulis \nkepada Bank yang ditetapkan sebagai SIB dan besaran \nCapital Surcharge untuk SIB.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n\n\n \n \n \n \n \n \n \n \nYang dimaksud dengan “Capital Surcharge untuk SIB” adalah \nCapital Surcharge untuk Domestic Systemically Important \nBank sebagaimana ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai kewajiban penyediaan modal minimum \nbagi bank umum konvensional atau bagi bank umum syariah. \n \n \n \nDomestic Systemically Important Bank adalah Bank di \nIndonesia yang ditetapkan sebagai SIB. \n \n \nAyat (2) \n \nKoordinasi antara Otoritas Jasa Keuangan dengan Bank \nIndonesia dilakukan melalui mekanisme koordinasi. \n \n \nAyat (3) \n \n \nOtoritas Jasa Keuangan memberitahukan secara tertulis \nkepada Bank yang ditetapkan sebagai SIB dan besaran \nCapital Surcharge untuk SIB."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penetapan Bank sebagai SIB tidak mencakup kantor cabang dari \nbank yang berkedudukan di luar negeri.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penetapan Bank sebagai SIB tidak mencakup kantor cabang dari \nbank yang berkedudukan di luar negeri."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nYang \ndimaksud \ndengan \n“metodologi \ntertentu” \nadalah \nmetodologi yang digunakan sesuai standar internasional \ndalam menentukan SIB. \n \n \nAyat (2) \n \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nYang \ndimaksud \ndengan \n“metodologi \ntertentu” \nadalah \nmetodologi yang digunakan sesuai standar internasional \ndalam menentukan SIB. \n \n \nAyat (2) \n \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “total eksposur Bank” adalah penjumlahan \ndari eksposur pada neraca, eksposur pada rekening administratif, \ndan potential future exposure dari transaksi derivatif. \n \nYang dimaksud dengan “eksposur pada neraca” adalah total aset \nsetelah dikurangi pos antar kantor. \n \n \n\n\n \n \n \n \n \n \nYang dimaksud dengan “eksposur pada rekening administratif” \nadalah total kewajiban komitmen dan kontijensi. \n \nPerhitungan potential future exposure dari transaksi derivatif \nmengacu pada ketentuan yang mengatur mengenai perhitungan \naset tertimbang menurut risiko untuk risiko kredit dengan \nmenggunakan pendekatan standar. \n \nTransaksi derivatif di Bank Umum Syariah adalah transaksi \nlindung nilai syariah yang mengacu pada ketentuan yang \nmengatur mengenai perhitungan aset tertimbang menurut risiko \nuntuk risiko kredit dengan menggunakan pendekatan standar bagi \nbank umum syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “total eksposur Bank” adalah penjumlahan \ndari eksposur pada neraca, eksposur pada rekening administratif, \ndan potential future exposure dari transaksi derivatif. \n \nYang dimaksud dengan “eksposur pada neraca” adalah total aset \nsetelah dikurangi pos antar kantor. \n \n \n\n\n \n \n \n \n \n \nYang dimaksud dengan “eksposur pada rekening administratif” \nadalah total kewajiban komitmen dan kontijensi. \n \nPerhitungan potential future exposure dari transaksi derivatif \nmengacu pada ketentuan yang mengatur mengenai perhitungan \naset tertimbang menurut risiko untuk risiko kredit dengan \nmenggunakan pendekatan standar. \n \nTransaksi derivatif di Bank Umum Syariah adalah transaksi \nlindung nilai syariah yang mengacu pada ketentuan yang \nmengatur mengenai perhitungan aset tertimbang menurut risiko \nuntuk risiko kredit dengan menggunakan pendekatan standar bagi \nbank umum syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \nBagi Bank Umum Syariah, yang dimaksud dengan “nilai \nnosional derivatif over the counter” adalah nilai nosional \nlindung nilai syariah over the counter yang mengacu pada \nketentuan \nyang \nmengatur \nmengenai \nperhitungan \naset \ntertimbang menurut risiko untuk risiko kredit dengan \nmenggunakan pendekatan standar bagi bank umum syariah. \n \n \nHuruf b \n \nCukup jelas. \n \n \nHuruf c \n \nYang dimaksud dengan indikator domestik yang bersifat \nspesifik antara lain terdiri atas: \n \n \n \n1. \nnilai outstanding bank garansi; \n \n \n \n2. \nnilai outstanding irrevocable Letter of Credit; \n \n \n \n3. \nnilai portofolio Surat Berharga Negara dan/atau Surat \nBerharga Syariah Negara yang dimiliki; \n \n \n \n4. \njumlah rekening dana pihak ketiga; \n \n \n \n5. \njumlah rekening kredit; dan \n \n \n \n6. \njumlah kantor cabang dalam dan luar negeri. \n \n \nHuruf d \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \nBagi Bank Umum Syariah, yang dimaksud dengan “nilai \nnosional derivatif over the counter” adalah nilai nosional \nlindung nilai syariah over the counter yang mengacu pada \nketentuan \nyang \nmengatur \nmengenai \nperhitungan \naset \ntertimbang menurut risiko untuk risiko kredit dengan \nmenggunakan pendekatan standar bagi bank umum syariah. \n \n \nHuruf b \n \nCukup jelas. \n \n \nHuruf c \n \nYang dimaksud dengan indikator domestik yang bersifat \nspesifik antara lain terdiri atas: \n \n \n \n1. \nnilai outstanding bank garansi; \n \n \n \n2. \nnilai outstanding irrevocable Letter of Credit; \n \n \n \n3. \nnilai portofolio Surat Berharga Negara dan/atau Surat \nBerharga Syariah Negara yang dimiliki; \n \n \n \n4. \njumlah rekening dana pihak ketiga; \n \n \n \n5. \njumlah rekening kredit; dan \n \n \n \n6. \njumlah kantor cabang dalam dan luar negeri. \n \n \nHuruf d \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nIndikator yang digunakan dalam metodologi penetapan SIB \nterdiri atas 3 (tiga) indikator sehingga setiap indikator \nmemiliki bobot (100/3)%. \n \n \nAyat (2) \nSebagai \ncontoh, \nindikator \nketerkaitan \ndengan \nsistem \nkeuangan (interconnectedness) terdiri atas 3 (tiga) sub-\nindikator sehingga setiap sub-indikator keterkaitan dengan \nsistem \nkeuangan \n(interconnectedness) \nmemiliki \nbobot \n(100/3)%.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nIndikator yang digunakan dalam metodologi penetapan SIB \nterdiri atas 3 (tiga) indikator sehingga setiap indikator \nmemiliki bobot (100/3)%. \n \n \nAyat (2) \nSebagai \ncontoh, \nindikator \nketerkaitan \ndengan \nsistem \nkeuangan (interconnectedness) terdiri atas 3 (tiga) sub-\nindikator sehingga setiap sub-indikator keterkaitan dengan \nsistem \nkeuangan \n(interconnectedness) \nmemiliki \nbobot \n(100/3)%."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Skor sistemik (systemic importance score) setiap Bank adalah nilai \nyang mencerminkan tingkat (level) sistemik dari setiap Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Skor sistemik (systemic importance score) setiap Bank adalah nilai \nyang mencerminkan tingkat (level) sistemik dari setiap Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Nilai Sub Indikator\nNilai Indikator\nSkor Sistemik\nMelakukan pembobotan\nterhadap sub-indikator.\nMelakukan pembobotan terhadap\nnilai indikator.\nMenghitung nilai skor sistemik\ndengan cara menjumlahkan\nnilai indikator yang telah\ndibobotkan.\nMenghitung nilai setiap indikator\ndengan cara menjumlahkan nilai\nsub-indikator yang telah\ndibobotkan.\nMenghitung proporsi nilai\nmasing-masing sub-indikator\nterhadap nilai agregat industri\nperbankan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Nilai Sub Indikator\nNilai Indikator\nSkor Sistemik\nMelakukan pembobotan\nterhadap sub-indikator.\nMelakukan pembobotan terhadap\nnilai indikator.\nMenghitung nilai skor sistemik\ndengan cara menjumlahkan\nnilai indikator yang telah\ndibobotkan.\nMenghitung nilai setiap indikator\ndengan cara menjumlahkan nilai\nsub-indikator yang telah\ndibobotkan.\nMenghitung proporsi nilai\nmasing-masing sub-indikator\nterhadap nilai agregat industri\nperbankan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \nCukup jelas. \n \n \nAyat (3) \nYang dimaksud dengan “komponen modal inti utama \n(Common Equity Tier 1)” adalah modal inti utama (Common \nEquity Tier 1) sebagaimana dimaksud dalam ketentuan \nOtoritas Jasa Keuangan yang mengatur mengenai kewajiban \npenyediaan modal minimum bagi bank umum konvensional \natau bagi bank umum syariah. \n \n\n\n \n \n \n \n \n \n \nAyat (4) \nPertimbangan untuk meninjau ulang dan menyesuaikan \npenetapan besaran serta waktu pemenuhan Capital Surcharge \nuntuk SIB didasarkan antara lain pada pertumbuhan \nekonomi, pertumbuhan kredit, dan/atau kinerja industri \nperbankan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \nCukup jelas. \n \n \nAyat (3) \nYang dimaksud dengan “komponen modal inti utama \n(Common Equity Tier 1)” adalah modal inti utama (Common \nEquity Tier 1) sebagaimana dimaksud dalam ketentuan \nOtoritas Jasa Keuangan yang mengatur mengenai kewajiban \npenyediaan modal minimum bagi bank umum konvensional \natau bagi bank umum syariah. \n \n\n\n \n \n \n \n \n \n \nAyat (4) \nPertimbangan untuk meninjau ulang dan menyesuaikan \npenetapan besaran serta waktu pemenuhan Capital Surcharge \nuntuk SIB didasarkan antara lain pada pertumbuhan \nekonomi, pertumbuhan kredit, dan/atau kinerja industri \nperbankan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kelompok (bucket) 5 Capital Surcharge untuk SIB tidak diisi atau \ndikosongkan karena kelompok (bucket) 5 merupakan kelompok \nbagi Bank yang memiliki skor sistemik (systemic importance score) \nyang sangat tinggi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kelompok (bucket) 5 Capital Surcharge untuk SIB tidak diisi atau \ndikosongkan karena kelompok (bucket) 5 merupakan kelompok \nbagi Bank yang memiliki skor sistemik (systemic importance score) \nyang sangat tinggi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCapital Surcharge pada kelompok (bucket) 5 dan seterusnya \nmerupakan disinsentif bagi Bank yang memiliki skor sistemik \n(systemic importance score) sangat tinggi sehingga mendorong \nBank menurunkan risiko sistemik. \nSebagai contoh, dalam hal terdapat Bank yang memiliki skor \nsistemik (systemic importance score) yang sangat tinggi \nsehingga digolongkan dalam kelompok (bucket) 5, Otoritas \nJasa Keuangan menetapkan: \na. \npenambahan \npengelompokan \nSIB \nyaitu \nkelompok \n(bucket) 6;  dan   \nb. \ntidak terdapat SIB yang digolongkan dalam kelompok \n(bucket) 6. \n \n \nAyat (2) \n \nSebagai contoh, besaran Capital Surcharge untuk kelompok \n(bucket) 5 sebesar 3,5 % (tiga koma lima persen) sehingga \nCapital Surcharge untuk kelompok (bucket) 6 ditetapkan \nsebesar 4,5% (empat koma lima persen) dari ATMR.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCapital Surcharge pada kelompok (bucket) 5 dan seterusnya \nmerupakan disinsentif bagi Bank yang memiliki skor sistemik \n(systemic importance score) sangat tinggi sehingga mendorong \nBank menurunkan risiko sistemik. \nSebagai contoh, dalam hal terdapat Bank yang memiliki skor \nsistemik (systemic importance score) yang sangat tinggi \nsehingga digolongkan dalam kelompok (bucket) 5, Otoritas \nJasa Keuangan menetapkan: \na. \npenambahan \npengelompokan \nSIB \nyaitu \nkelompok \n(bucket) 6;  dan   \nb. \ntidak terdapat SIB yang digolongkan dalam kelompok \n(bucket) 6. \n \n \nAyat (2) \n \nSebagai contoh, besaran Capital Surcharge untuk kelompok \n(bucket) 5 sebesar 3,5 % (tiga koma lima persen) sehingga \nCapital Surcharge untuk kelompok (bucket) 6 ditetapkan \nsebesar 4,5% (empat koma lima persen) dari ATMR."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5812",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5812"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 36,
+  "total_ayat": 44,
+  "total_karakter": 18808,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

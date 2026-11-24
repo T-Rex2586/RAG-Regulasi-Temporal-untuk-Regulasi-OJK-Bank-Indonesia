@@ -1,0 +1,25 @@
+index:
+  version: "v1"
+  embedding_model: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  embedding_dim: 384
+  parsed_dir: "data/parsed"
+  bm25_dir: "index/bm25"
+  batch_size: 256
+  qdrant:
+    host: "127.0.0.1"
+    port: 6334
+    prefer_grpc: true
+  strategies:
+    fixed:
+      chunk_size_chars: 600
+      overlap_chars: 100
+      collection_name: "reg_fixed_v1"
+      bm25_index_file: "index/bm25/fixed_v1.pkl"
+    heading_aware:
+      max_chunk_chars: 1500
+      collection_name: "reg_heading_aware_v1"
+      bm25_index_file: "index/bm25/heading_aware_v1.pkl"
+    hierarchical:
+      child_max_chars: 600
+      collection_name: "reg_hierarchical_v1"
+      bm25_index_file: "index/bm25/hierarchical_v1.pkl"

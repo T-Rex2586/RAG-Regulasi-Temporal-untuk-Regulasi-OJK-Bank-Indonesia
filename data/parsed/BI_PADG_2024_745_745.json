@@ -1,0 +1,1611 @@
+{
+  "doc_id": "BI_PADG_2024_745_745",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "745",
+  "tahun": "2024",
+  "judul": "PENYELESAIAN TRANSAKSI BILATERAL ANTARA INDONESIA DAN KOREA SELATAN MENGGUNAKAN RUPIAH WON",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "18 September 2024",
+  "tanggal_berlaku": "30 September 2024",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN WON"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KUOTASI HARGA"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KORESPONDENSI"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank yang melaksanakan kegiatan usaha \nsecara konvensional dan/atau berdasarkan prinsip \nsyariah yang dalam kegiatannya memberikan jasa dalam \nlalu lintas pembayaran, termasuk kantor cabang dari \nbank yang berkedudukan di luar negeri. \n2. \nPenyelesaian Transaksi Bilateral Menggunakan Rupiah \ndan Won yang selanjutnya disebut Transaksi Bilateral \nRupiah dan Won adalah penyelesaian transaksi yang \ndilakukan secara bilateral oleh pelaku usaha di Indonesia \ndan di Korea Selatan dengan menggunakan rupiah dan \nwon. \n3. \nBank yang Ditunjuk untuk Melaksanakan Transaksi Mata \nUang atau Appointed Cross Currency Dealer Bank yang \nselanjutnya disebut Bank ACCD adalah Bank yang \nditunjuk untuk melakukan penyelesaian kegiatan dan \ntransaksi \nkeuangan \ntertentu \nuntuk \nkepentingan \npelaksanaan Transaksi Bilateral Rupiah dan Won. \n4. \nBank ACCD Indonesia adalah Bank ACCD di Indonesia. \n5. \nBank ACCD Korea Selatan adalah Bank ACCD di Korea \nSelatan. \n6. \nUnderlying Transaksi adalah seluruh kegiatan ekonomi \nyang mendasari pelaksanaan Transaksi Bilateral Rupiah \ndan Won. \n7. \nNasabah Indonesia dalam Transaksi Bilateral Rupiah dan \nWon yang selanjutnya disebut Nasabah Indonesia adalah \npihak di Indonesia yang melakukan Underlying Transaksi \ndengan nasabah Korea Selatan. \n8. \nNasabah Korea Selatan dalam Transaksi Bilateral Rupiah \ndan Won yang selanjutnya disebut Nasabah Korea Selatan \nadalah pihak di Korea Selatan yang melakukan Underlying \nTransaksi dengan Nasabah Indonesia. \n9. \nPembiayaan adalah pembiayaan yang diberikan oleh Bank \nACCD Indonesia kepada Nasabah Indonesia atau oleh \nBank ACCD Korea Selatan kepada Nasabah Korea Selatan. \n \n \n  \n\n\n \n \n \n10. Rekening Special Purpose Non-Resident Account Rupiah \nyang selanjutnya disebut SNA Rupiah adalah rekening \nkhusus milik Bank ACCD Korea Selatan dalam mata uang \nrupiah yang dibuka pada Bank ACCD Indonesia untuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nWon. \n11. Rekening Sub-Special Purpose \nNon-Resident Account \nRupiah yang selanjutnya disebut Sub-SNA Rupiah adalah \nrekening khusus milik Nasabah Korea Selatan dalam mata \nuang rupiah yang dibuka pada Bank ACCD Korea Selatan \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Won. \n12. Rekening Special Purpose Non-Resident Account Won yang \nselanjutnya disebut SNA Won adalah rekening khusus \nmilik Bank ACCD Indonesia dalam mata uang won yang \ndibuka \npada \nBank \nACCD \nKorea \nSelatan \nuntuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nWon. \n13. Rekening Sub-Special Purpose Non-Resident Account Won \nyang selanjutnya disebut Sub-SNA Won adalah rekening \nkhusus milik Nasabah Indonesia dalam mata uang won \nyang \ndibuka \npada \nBank \nACCD \nIndonesia \nuntuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nWon. \n14. Aksi \nKorporasi \nadalah \npenggabungan, \npeleburan, \npemisahan, dan/atau integrasi. \n15. Hari adalah hari kerja.  \n \nBAB II \nKERANGKA PENGATURAN, PENGEMBANGAN, DAN \nPENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN WON",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nBank adalah bank yang melaksanakan kegiatan usaha \nsecara konvensional dan/atau berdasarkan prinsip \nsyariah yang dalam kegiatannya memberikan jasa dalam \nlalu lintas pembayaran, termasuk kantor cabang dari \nbank yang berkedudukan di luar negeri. \n2. \nPenyelesaian Transaksi Bilateral Menggunakan Rupiah \ndan Won yang selanjutnya disebut Transaksi Bilateral \nRupiah dan Won adalah penyelesaian transaksi yang \ndilakukan secara bilateral oleh pelaku usaha di Indonesia \ndan di Korea Selatan dengan menggunakan rupiah dan \nwon. \n3. \nBank yang Ditunjuk untuk Melaksanakan Transaksi Mata \nUang atau Appointed Cross Currency Dealer Bank yang \nselanjutnya disebut Bank ACCD adalah Bank yang \nditunjuk untuk melakukan penyelesaian kegiatan dan \ntransaksi \nkeuangan \ntertentu \nuntuk \nkepentingan \npelaksanaan Transaksi Bilateral Rupiah dan Won. \n4. \nBank ACCD Indonesia adalah Bank ACCD di Indonesia. \n5. \nBank ACCD Korea Selatan adalah Bank ACCD di Korea \nSelatan. \n6. \nUnderlying Transaksi adalah seluruh kegiatan ekonomi \nyang mendasari pelaksanaan Transaksi Bilateral Rupiah \ndan Won. \n7. \nNasabah Indonesia dalam Transaksi Bilateral Rupiah dan \nWon yang selanjutnya disebut Nasabah Indonesia adalah \npihak di Indonesia yang melakukan Underlying Transaksi \ndengan nasabah Korea Selatan. \n8. \nNasabah Korea Selatan dalam Transaksi Bilateral Rupiah \ndan Won yang selanjutnya disebut Nasabah Korea Selatan \nadalah pihak di Korea Selatan yang melakukan Underlying \nTransaksi dengan Nasabah Indonesia. \n9. \nPembiayaan adalah pembiayaan yang diberikan oleh Bank \nACCD Indonesia kepada Nasabah Indonesia atau oleh \nBank ACCD Korea Selatan kepada Nasabah Korea Selatan. \n \n \n  \n\n\n \n \n \n10. Rekening Special Purpose Non-Resident Account Rupiah \nyang selanjutnya disebut SNA Rupiah adalah rekening \nkhusus milik Bank ACCD Korea Selatan dalam mata uang \nrupiah yang dibuka pada Bank ACCD Indonesia untuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nWon. \n11. Rekening Sub-Special Purpose \nNon-Resident Account \nRupiah yang selanjutnya disebut Sub-SNA Rupiah adalah \nrekening khusus milik Nasabah Korea Selatan dalam mata \nuang rupiah yang dibuka pada Bank ACCD Korea Selatan \nuntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Won. \n12. Rekening Special Purpose Non-Resident Account Won yang \nselanjutnya disebut SNA Won adalah rekening khusus \nmilik Bank ACCD Indonesia dalam mata uang won yang \ndibuka \npada \nBank \nACCD \nKorea \nSelatan \nuntuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nWon. \n13. Rekening Sub-Special Purpose Non-Resident Account Won \nyang selanjutnya disebut Sub-SNA Won adalah rekening \nkhusus milik Nasabah Indonesia dalam mata uang won \nyang \ndibuka \npada \nBank \nACCD \nIndonesia \nuntuk \nkepentingan pelaksanaan Transaksi Bilateral Rupiah dan \nWon. \n14. Aksi \nKorporasi \nadalah \npenggabungan, \npeleburan, \npemisahan, dan/atau integrasi. \n15. Hari adalah hari kerja.  \n \nBAB II \nKERANGKA PENGATURAN, PENGEMBANGAN, DAN \nPENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN WON"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN WON",
+      "teks_lengkap": "Prinsip dalam pengaturan, pengembangan, dan pengawasan \natas Transaksi Bilateral Rupiah dan Won meliputi:  \na. \nmemperhatikan kebijakan Bank Indonesia dalam menjaga \nkestabilan \nnilai \ntukar \nrupiah \nmelalui \nkebijakan \npenggunaan rupiah pada kegiatan internasional (policy \ndriven); \nb. \nmempertimbangkan kesepakatan Bank Indonesia dengan \notoritas Korea Selatan; \nc. \nmempertimbangkan kebutuhan pasar (market driven) \nterhadap Transaksi Bilateral Rupiah dan Won; dan \nd. \nbersifat efektif, efisien, dan bertata kelola yang baik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Prinsip dalam pengaturan, pengembangan, dan pengawasan \natas Transaksi Bilateral Rupiah dan Won meliputi:  \na. \nmemperhatikan kebijakan Bank Indonesia dalam menjaga \nkestabilan \nnilai \ntukar \nrupiah \nmelalui \nkebijakan \npenggunaan rupiah pada kegiatan internasional (policy \ndriven); \nb. \nmempertimbangkan kesepakatan Bank Indonesia dengan \notoritas Korea Selatan; \nc. \nmempertimbangkan kebutuhan pasar (market driven) \nterhadap Transaksi Bilateral Rupiah dan Won; dan \nd. \nbersifat efektif, efisien, dan bertata kelola yang baik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI BILATERAL RUPIAH DAN WON",
+      "teks_lengkap": "Ruang lingkup pengaturan, pengembangan, dan pengawasan \nTransaksi Bilateral Rupiah dan Won meliputi:  \na. \npelaku Transaksi Bilateral Rupiah dan Won;  \nb. \nkegiatan keuangan dan transaksi keuangan dalam \nTransaksi Bilateral Rupiah dan Won; \nc. \nkuotasi harga; dan  \nd. \npelaporan Transaksi Bilateral Rupiah dan Won.  \n \n \n \n\n\n \n \n \n \n \n \n \nBAB III \nPELAKU TRANSAKSI \n \nBagian Kesatu \nBank ACCD Indonesia \n \nParagraf 1 \nKriteria Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup pengaturan, pengembangan, dan pengawasan \nTransaksi Bilateral Rupiah dan Won meliputi:  \na. \npelaku Transaksi Bilateral Rupiah dan Won;  \nb. \nkegiatan keuangan dan transaksi keuangan dalam \nTransaksi Bilateral Rupiah dan Won; \nc. \nkuotasi harga; dan  \nd. \npelaporan Transaksi Bilateral Rupiah dan Won.  \n \n \n \n\n\n \n \n \n \n \n \n \nBAB III \nPELAKU TRANSAKSI \n \nBagian Kesatu \nBank ACCD Indonesia \n \nParagraf 1 \nKriteria Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nPenunjukan Bank sebagai Bank ACCD Indonesia oleh \nBank Indonesia dilakukan dengan mempertimbangkan: \na. \nukuran (size);  \nb. \nketerkaitan (interconnectedness); dan  \nc. \nkompleksitas (complexity). \n(2) \nSelain \nmempertimbangkan \nkriteria \nsebagaimana \ndimaksud pada ayat (1) dalam penunjukan Bank ACCD \nIndonesia, Bank Indonesia juga mempertimbangkan: \na. \nperanan dalam mendukung pengembangan pasar \nuang dan pasar valuta asing dan/atau industri \nsistem pembayaran; \nb. \nrekomendasi dari otoritas Korea Selatan; dan/atau \nc. \npertimbangan lainnya yang ditetapkan oleh Bank \nIndonesia bersama Bank of Korea.   \n \nParagraf 2 \nMekanisme Penunjukan Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penunjukan Bank sebagai Bank ACCD Indonesia oleh \nBank Indonesia dilakukan dengan mempertimbangkan: \na. \nukuran (size);  \nb. \nketerkaitan (interconnectedness); dan  \nc. \nkompleksitas (complexity)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain \nmempertimbangkan \nkriteria \nsebagaimana \ndimaksud pada ayat (1) dalam penunjukan Bank ACCD \nIndonesia, Bank Indonesia juga mempertimbangkan: \na. \nperanan dalam mendukung pengembangan pasar \nuang dan pasar valuta asing dan/atau industri \nsistem pembayaran; \nb. \nrekomendasi dari otoritas Korea Selatan; dan/atau \nc. \npertimbangan lainnya yang ditetapkan oleh Bank \nIndonesia bersama Bank of Korea.   \n \nParagraf 2 \nMekanisme Penunjukan Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nMekanisme penunjukan Bank sebagai Bank ACCD \nIndonesia paling sedikit dilakukan sebagai berikut: \na. \ncalon Bank ACCD Indonesia menyampaikan surat \npermohonan kepada Bank Indonesia; \nb. \nBank Indonesia melakukan pemrosesan permohonan \ndari calon Bank ACCD Indonesia; dan  \nc. \nBank \nIndonesia \nmemberikan \npersetujuan \npenunjukan Bank sebagai Bank ACCD Indonesia.  \n(2) \nSurat permohonan dari calon Bank ACCD Indonesia \nkepada Bank Indonesia sebagaimana dimaksud pada ayat \n(1) huruf a paling sedikit memuat pernyataan minat dan \nkesiapan untuk menjadi Bank ACCD Indonesia. \n(3) \nContoh surat permohonan sebagaimana dimaksud pada \nayat (1) huruf a tercantum dalam Lampiran I yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \nParagraf 3 \nEvaluasi Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Mekanisme penunjukan Bank sebagai Bank ACCD \nIndonesia paling sedikit dilakukan sebagai berikut: \na. \ncalon Bank ACCD Indonesia menyampaikan surat \npermohonan kepada Bank Indonesia; \nb. \nBank Indonesia melakukan pemrosesan permohonan \ndari calon Bank ACCD Indonesia; dan  \nc. \nBank \nIndonesia \nmemberikan \npersetujuan \npenunjukan Bank sebagai Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Surat permohonan dari calon Bank ACCD Indonesia \nkepada Bank Indonesia sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf a paling sedikit memuat pernyataan minat dan \nkesiapan untuk menjadi Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Contoh surat permohonan sebagaimana dimaksud pada \nayat (1) huruf a tercantum dalam Lampiran I yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \nParagraf 3 \nEvaluasi Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat melakukan evaluasi terhadap Bank \nACCD Indonesia. \n\n\n \n \n \n(2) \nEvaluasi terhadap Bank ACCD Indonesia sebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank \nIndonesia berkoordinasi dengan:  \na. \notoritas di Korea Selatan; dan/atau \nb. \notoritas terkait lainnya di Indonesia. \n(3) \nEvaluasi sebagaimana dimaksud pada ayat (1) dilakukan \ndengan mempertimbangkan perkembangan bisnis Bank \nACCD \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Won serta kepatuhan \nBank ACCD Indonesia terhadap ketentuan Bank Indonesia \nmengenai penyelesaian transaksi bilateral menggunakan \nmata uang lokal melalui Bank. \n \nParagraf 4 \nPengakhiran Penunjukan Bank ACCD Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat melakukan evaluasi terhadap Bank \nACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi terhadap Bank ACCD Indonesia sebagaimana \ndimaksud pada ayat (1) dapat dilakukan oleh Bank \nIndonesia berkoordinasi dengan:  \na. \notoritas di Korea Selatan; dan/atau \nb. \notoritas terkait lainnya di Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan \ndengan mempertimbangkan perkembangan bisnis Bank \nACCD \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Won serta kepatuhan \nBank ACCD Indonesia terhadap ketentuan Bank Indonesia \nmengenai penyelesaian transaksi bilateral menggunakan \nmata uang lokal melalui Bank. \n \nParagraf 4 \nPengakhiran Penunjukan Bank ACCD Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat mengakhiri penunjukan Bank \nsebagai Bank ACCD Indonesia. \n(2) \nPengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia sebagaimana dimaksud pada ayat (1) dilakukan \ndengan pertimbangan: \na. \nberdasarkan hasil evaluasi terhadap Bank ACCD \nIndonesia yang dilakukan oleh Bank Indonesia \nberkoordinasi dengan otoritas di Korea Selatan \nsebagaimana dimaksud dalam Pasal 6 ayat (2); \nb. \ndalam hal Bank ACCD Indonesia melakukan Aksi \nKorporasi dan Bank ACCD Indonesia tersebut bukan \nmerupakan Bank hasil Aksi Korporasi; \nc. \ndalam hal Bank ACCD Indonesia dicabut izin \nusahanya oleh otoritas yang berwenang; atau \nd. \nberdasarkan permintaan Bank ACCD Indonesia \nsendiri. \n(3) \nBank ACCD Indonesia yang: \na. \nberencana melakukan Aksi Korporasi sebagaimana \ndimaksud pada ayat (2) huruf b; atau \nb. \nsedang \ndalam \nproses \npencabutan \nizin \nusaha \nsebagaimana dimaksud pada ayat (2) huruf c, \nwajib menyampaikan surat pemberitahuan kepada Bank \nIndonesia disertai dengan hasil rapat umum pemegang \nsaham terkait rencana Aksi Korporasi atau rencana \npencabutan izin usaha. \n(4) \nBank ACCD Indonesia menyampaikan surat keputusan \nterkait Aksi Korporasi atau pencabutan izin usaha kepada \nBank Indonesia dalam hal telah mendapatkan izin, \npersetujuan, atau rekomendasi dari otoritas terkait: \na. \nAksi Korporasi; \nb. \npencabutan izin usaha oleh otoritas yang berwenang; \natau \nc. \npencabutan izin usaha atas inisiatif sendiri (self- \nliquidation). \n \n \n \n \n\n\n \n \n \n(5) \nDalam hal Bank hasil Aksi Korporasi bukan merupakan \nBank ACCD Indonesia dan bermaksud menjadi Bank \nACCD Indonesia, Bank wajib memenuhi kriteria sebagai \nBank ACCD Indonesia sebagaimana dimaksud dalam \nPasal 4 dan mengajukan permohonan penunjukan sebagai \nBank ACCD Indonesia sebagaimana dimaksud dalam \nPasal 5 ayat (1) huruf a. \n(6) \nContoh \nsurat \npemberitahuan \ntertulis sebagaimana \ndimaksud pada ayat (3) tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat mengakhiri penunjukan Bank \nsebagai Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia sebagaimana dimaksud pada ayat (1) dilakukan \ndengan pertimbangan: \na. \nberdasarkan hasil evaluasi terhadap Bank ACCD \nIndonesia yang dilakukan oleh Bank Indonesia \nberkoordinasi dengan otoritas di Korea Selatan \nsebagaimana dimaksud dalam Pasal 6 ayat (2); \nb. \ndalam hal Bank ACCD Indonesia melakukan Aksi \nKorporasi dan Bank ACCD Indonesia tersebut bukan \nmerupakan Bank hasil Aksi Korporasi; \nc. \ndalam hal Bank ACCD Indonesia dicabut izin \nusahanya oleh otoritas yang berwenang; atau \nd. \nberdasarkan permintaan Bank ACCD Indonesia \nsendiri."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia yang: \na. \nberencana melakukan Aksi Korporasi sebagaimana \ndimaksud pada ayat (2) huruf b; atau \nb. \nsedang \ndalam \nproses \npencabutan \nizin \nusaha \nsebagaimana dimaksud pada ayat (2) huruf c, \nwajib menyampaikan surat pemberitahuan kepada Bank \nIndonesia disertai dengan hasil rapat umum pemegang \nsaham terkait rencana Aksi Korporasi atau rencana \npencabutan izin usaha."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia menyampaikan surat keputusan \nterkait Aksi Korporasi atau pencabutan izin usaha kepada \nBank Indonesia dalam hal telah mendapatkan izin, \npersetujuan, atau rekomendasi dari otoritas terkait: \na. \nAksi Korporasi; \nb. \npencabutan izin usaha oleh otoritas yang berwenang; \natau \nc. \npencabutan izin usaha atas inisiatif sendiri (self- \nliquidation)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank hasil Aksi Korporasi bukan merupakan \nBank ACCD Indonesia dan bermaksud menjadi Bank \nACCD Indonesia, Bank wajib memenuhi kriteria sebagai \nBank ACCD Indonesia sebagaimana dimaksud dalam \nPasal 4 dan mengajukan permohonan penunjukan sebagai \nBank ACCD Indonesia sebagaimana dimaksud dalam \nPasal 5 ayat (1) huruf a."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Contoh \nsurat \npemberitahuan \ntertulis sebagaimana \ndimaksud pada ayat (3) tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmemberitahukan \nsecara \ntertulis \npengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia kepada Bank ACCD Indonesia berdasarkan \npertimbangan sebagaimana dimaksud dalam Pasal 7 ayat \n(2). \n(2) \nBank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD tidak dapat melakukan kegiatan dan transaksi \nkeuangan untuk kepentingan pelaksanaan Transaksi \nBilateral Rupiah dan Won. \n(3) \nBank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD Indonesia harus segera memberitahukan kepada \nnasabahnya mengenai: \na. \npenghentian kegiatan Bank sebagai Bank ACCD \nIndonesia; dan \nb. \nmekanisme penyelesaian hak dan kewajiban nasabah \nterkait: \n1. \npenutupan SNA Rupiah, SNA Won, dan/atau \nSub-SNA Won; \n2. \npenyelesaian Pembiayaan; dan \n3. \nhal lain terkait transaksi Bank dengan Nasabah \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Won. \n \nBagian Kedua \nNasabah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmemberitahukan \nsecara \ntertulis \npengakhiran penunjukan Bank sebagai Bank ACCD \nIndonesia kepada Bank ACCD Indonesia berdasarkan \npertimbangan sebagaimana dimaksud dalam Pasal 7 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD tidak dapat melakukan kegiatan dan transaksi \nkeuangan untuk kepentingan pelaksanaan Transaksi \nBilateral Rupiah dan Won."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia yang telah menerima surat \npemberitahuan pengakhiran penunjukan sebagai Bank \nACCD Indonesia harus segera memberitahukan kepada \nnasabahnya mengenai: \na. \npenghentian kegiatan Bank sebagai Bank ACCD \nIndonesia; dan \nb. \nmekanisme penyelesaian hak dan kewajiban nasabah \nterkait: \n1. \npenutupan SNA Rupiah, SNA Won, dan/atau \nSub-SNA Won; \n2. \npenyelesaian Pembiayaan; dan \n3. \nhal lain terkait transaksi Bank dengan Nasabah \nIndonesia \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Won. \n \nBagian Kedua \nNasabah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PELAKU TRANSAKSI",
+      "teks_lengkap": "(1) \nNasabah Indonesia dapat berupa: \na. \nindividu; \nb. \nlembaga jasa keuangan; \nc. \nkorporasi; \nd. \npenyelenggara infrastruktur sistem pembayaran; \natau \ne. \npihak lainnya yang ditetapkan oleh Bank Indonesia. \n(2) \nPihak lainnya yang ditetapkan oleh Bank Indonesia \nsebagaimana dimaksud pada ayat (1) disampaikan melalui \nsurat dan/atau dipublikasikan dalam laman resmi Bank \nIndonesia. \n \n \n \n\n\n \n \n \n \nBAB IV \nKEGIATAN KEUANGAN  \nDAN TRANSAKSI KEUANGAN \n \nBagian Kesatu \nPembukaan atau Penunjukan SNA Rupiah dan SNA Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nasabah Indonesia dapat berupa: \na. \nindividu; \nb. \nlembaga jasa keuangan; \nc. \nkorporasi; \nd. \npenyelenggara infrastruktur sistem pembayaran; \natau \ne. \npihak lainnya yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak lainnya yang ditetapkan oleh Bank Indonesia \nsebagaimana dimaksud pada ayat (1) disampaikan melalui \nsurat dan/atau dipublikasikan dalam laman resmi Bank \nIndonesia. \n \n \n \n\n\n \n \n \n \nBAB IV \nKEGIATAN KEUANGAN  \nDAN TRANSAKSI KEUANGAN \n \nBagian Kesatu \nPembukaan atau Penunjukan SNA Rupiah dan SNA Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia menerima permintaan pembukaan \nSNA Rupiah dari Bank ACCD Korea Selatan. \n(2) \nPembukaan SNA Rupiah sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru SNA Rupiah di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Korea Selatan di Bank ACCD Indonesia. \n(3) \nBank ACCD Indonesia hanya dapat membukakan 1 (satu) \nSNA Rupiah dari masing-masing Bank ACCD Korea \nSelatan (one-to-many relationship). \n(4) \nBank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk SNA Rupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia menerima permintaan pembukaan \nSNA Rupiah dari Bank ACCD Korea Selatan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukaan SNA Rupiah sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru SNA Rupiah di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Korea Selatan di Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia hanya dapat membukakan 1 (satu) \nSNA Rupiah dari masing-masing Bank ACCD Korea \nSelatan (one-to-many relationship)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk SNA Rupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia membuka SNA Won pada Bank \nACCD Korea Selatan.  \n(2) \nPembukaan SNA Won sebagaimana dimaksud pada ayat \n(1) dilakukan dengan: \na. \npembukaan rekening baru SNA Won di Bank ACCD \nKorea Selatan; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Indonesia di Bank ACCD Korea Selatan. \n(3) \nBank ACCD Indonesia hanya dapat membuka 1 (satu) SNA \nWon pada masing-masing Bank ACCD Korea Selatan (one-\nto- many relationship).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia membuka SNA Won pada Bank \nACCD Korea Selatan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukaan SNA Won sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan dengan: \na. \npembukaan rekening baru SNA Won di Bank ACCD \nKorea Selatan; atau \nb. \npenunjukan rekening yang telah dimiliki oleh Bank \nACCD Indonesia di Bank ACCD Korea Selatan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia hanya dapat membuka 1 (satu) SNA \nWon pada masing-masing Bank ACCD Korea Selatan (one-\nto- many relationship)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nJumlah saldo SNA Rupiah dari suatu Bank ACCD Korea \nSelatan di seluruh Bank ACCD Indonesia dibatasi paling \nbanyak sebesar Rp400.000.000.000,00 \n(empat ratus \nmiliar rupiah) pada akhir Hari.  \n(2) \nBank ACCD Indonesia memonitor dan memastikan agar \nsaldo SNA Rupiah tidak melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari.  \n(3) \nSaldo SNA Rupiah dapat melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari \nsepanjang Bank ACCD Indonesia menerima dokumen dari \nBank ACCD Korea Selatan yang membuktikan bahwa \nkelebihan saldo SNA Rupiah tersebut digunakan untuk \nmembayar kewajiban:  \na. \nUnderlying Transaksi antara Indonesia dan Korea \nSelatan pada Hari berikutnya; atau  \nb. \ninvestasi pada instrumen keuangan dalam rupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Jumlah saldo SNA Rupiah dari suatu Bank ACCD Korea \nSelatan di seluruh Bank ACCD Indonesia dibatasi paling \nbanyak sebesar Rp400.000.000.000,00 \n(empat ratus \nmiliar rupiah) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia memonitor dan memastikan agar \nsaldo SNA Rupiah tidak melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Saldo SNA Rupiah dapat melebihi jumlah nominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari \nsepanjang Bank ACCD Indonesia menerima dokumen dari \nBank ACCD Korea Selatan yang membuktikan bahwa \nkelebihan saldo SNA Rupiah tersebut digunakan untuk \nmembayar kewajiban:  \na. \nUnderlying Transaksi antara Indonesia dan Korea \nSelatan pada Hari berikutnya; atau  \nb. \ninvestasi pada instrumen keuangan dalam rupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nJumlah saldo SNA Won dari suatu Bank ACCD Indonesia \ndi seluruh Bank ACCD Korea Selatan dibatasi paling \nbanyak sebesar KRW35.000.000.000,00 (tiga puluh lima \nmiliar won) pada akhir Hari.  \n(2) \nBank ACCD Indonesia memonitor dan memastikan agar \nsaldo \nSNA \nWon \ntidak \nmelebihi \njumlah \nnominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari.  \n(3) \nDalam hal saldo SNA Won pada akhir Hari melebihi jumlah \nnominal sebagaimana dimaksud pada ayat (1) maka \nterhadap kelebihan saldo SNA Won tersebut digunakan \nuntuk membayar kewajiban:  \na. \nUnderlying Transaksi antara Indonesia dan Korea \nSelatan pada Hari berikutnya; atau  \nb. \ninvestasi pada instrumen keuangan dalam won.  \n \nBagian Kedua \nPengelolaan SNA Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Jumlah saldo SNA Won dari suatu Bank ACCD Indonesia \ndi seluruh Bank ACCD Korea Selatan dibatasi paling \nbanyak sebesar KRW35.000.000.000,00 (tiga puluh lima \nmiliar won) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia memonitor dan memastikan agar \nsaldo \nSNA \nWon \ntidak \nmelebihi \njumlah \nnominal \nsebagaimana dimaksud pada ayat (1) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal saldo SNA Won pada akhir Hari melebihi jumlah \nnominal sebagaimana dimaksud pada ayat (1) maka \nterhadap kelebihan saldo SNA Won tersebut digunakan \nuntuk membayar kewajiban:  \na. \nUnderlying Transaksi antara Indonesia dan Korea \nSelatan pada Hari berikutnya; atau  \nb. \ninvestasi pada instrumen keuangan dalam won.  \n \nBagian Kedua \nPengelolaan SNA Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nUntuk kepentingan pengelolaan saldo SNA Won, Bank \nACCD \nIndonesia \ndapat melakukan \ntransaksi yang \nmeliputi: \na. \ninvestasi pada instrumen keuangan dalam won di \nKorea Selatan; \nb. \ntransaksi swap won terhadap rupiah atau valuta \nasing \ndengan \nBank \nACCD \nIndonesia \nlainnya \ndan/atau dengan Bank \nACCD Korea Selatan; \ndan/atau  \nc. \nkonversi dari won ke rupiah atau valuta asing \nlainnya. \n(2) \nInvestasi sebagaimana dimaksud pada ayat (1) huruf a, \ndilarang untuk ditempatkan di Korea Selatan dalam \nbentuk: \na. \nreal estate; \nb. \naset digital; \nc. \ndeposito;  \nd. \ntabungan;  \ne. \nsertifikat deposito; atau  \nf. \nbentuk lain yang dipersamakan.  \n(3) \nDalam hal Bank ACCD Indonesia melakukan investasi \npada instrumen keuangan dalam won di Korea Selatan, \npokok dan hasil dari investasi tersebut dapat ditransfer \nkembali ke SNA Won.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pengelolaan saldo SNA Won, Bank \nACCD \nIndonesia \ndapat melakukan \ntransaksi yang \nmeliputi: \na. \ninvestasi pada instrumen keuangan dalam won di \nKorea Selatan; \nb. \ntransaksi swap won terhadap rupiah atau valuta \nasing \ndengan \nBank \nACCD \nIndonesia \nlainnya \ndan/atau dengan Bank \nACCD Korea Selatan; \ndan/atau  \nc. \nkonversi dari won ke rupiah atau valuta asing \nlainnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Investasi sebagaimana dimaksud pada ayat (1) huruf a, \ndilarang untuk ditempatkan di Korea Selatan dalam \nbentuk: \na. \nreal estate; \nb. \naset digital; \nc. \ndeposito;  \nd. \ntabungan;  \ne. \nsertifikat deposito; atau  \nf. \nbentuk lain yang dipersamakan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank ACCD Indonesia melakukan investasi \npada instrumen keuangan dalam won di Korea Selatan, \npokok dan hasil dari investasi tersebut dapat ditransfer \nkembali ke SNA Won."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nDalam melakukan transaksi swap rupiah terhadap won \natau valuta asing dengan Bank ACCD Korea Selatan, Bank \nACCD Indonesia memastikan posisi transaksi tersebut \ntidak melebihi Rp400.000.000.000,00 (empat ratus miliar \nrupiah) pada akhir Hari.  \n(2) \nPosisi transaksi swap won terhadap rupiah atau valuta \nasing yang dilakukan antara Bank ACCD Indonesia \ndengan \nBank \nACCD \nlainnya \ndilarang \nmelebihi \nKRW35.000.000.000,00 (tiga puluh lima miliar won) pada \nakhir Hari. \n\n\n \n \n \n \nBagian Ketiga \nPembukaan atau Penunjukan Sub-SNA Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan transaksi swap rupiah terhadap won \natau valuta asing dengan Bank ACCD Korea Selatan, Bank \nACCD Indonesia memastikan posisi transaksi tersebut \ntidak melebihi Rp400.000.000.000,00 (empat ratus miliar \nrupiah) pada akhir Hari."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Posisi transaksi swap won terhadap rupiah atau valuta \nasing yang dilakukan antara Bank ACCD Indonesia \ndengan \nBank \nACCD \nlainnya \ndilarang \nmelebihi \nKRW35.000.000.000,00 (tiga puluh lima miliar won) pada \nakhir Hari. \n\n\n \n \n \n \nBagian Ketiga \nPembukaan atau Penunjukan Sub-SNA Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia menerima permintaan pembukaan \nSub-SNA Won bagi Nasabah Indonesia untuk kepentingan \npelaksanaan Transaksi Bilateral Rupiah dan Won.  \n(2) \nPembukaan Sub-SNA Won sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru Sub-SNA Won di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh \nNasabah Indonesia di Bank ACCD Indonesia untuk \nmenjadi Sub-SNA Won. \n(3) \nBank ACCD Indonesia tidak dapat menerima pembukaan \nSub-SNA Won bagi pihak lain selain Nasabah Indonesia.  \n(4) \nBank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk Sub-SNA Won.  \n \nBagian Keempat \nPengelolaan Saldo Sub-SNA Won dan Saldo Sub-SNA Rupiah \n \nParagraf 1 \nPengelolaan Saldo Sub-SNA Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia menerima permintaan pembukaan \nSub-SNA Won bagi Nasabah Indonesia untuk kepentingan \npelaksanaan Transaksi Bilateral Rupiah dan Won."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukaan Sub-SNA Won sebagaimana dimaksud pada \nayat (1) dilakukan dengan: \na. \npembukaan rekening baru Sub-SNA Won di Bank \nACCD Indonesia; atau \nb. \npenunjukan rekening yang telah dimiliki oleh \nNasabah Indonesia di Bank ACCD Indonesia untuk \nmenjadi Sub-SNA Won."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank ACCD Indonesia tidak dapat menerima pembukaan \nSub-SNA Won bagi pihak lain selain Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia dapat memberikan bunga atau bagi \nhasil untuk Sub-SNA Won.  \n \nBagian Keempat \nPengelolaan Saldo Sub-SNA Won dan Saldo Sub-SNA Rupiah \n \nParagraf 1 \nPengelolaan Saldo Sub-SNA Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nUntuk kepentingan pengelolaan saldo Sub-SNA Won, \nNasabah Indonesia dapat melakukan investasi pada \ninstrumen keuangan dalam won di Korea Selatan, kecuali \ndalam bentuk:  \na. \nreal estate; \nb. \naset digital; \nc. \ndeposito;  \nd. \ntabungan;  \ne. \nsertifikat deposito; atau  \nf. \nbentuk lain yang dipersamakan.  \n(2) \nInvestasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan oleh Bank ACCD Korea Selatan berdasarkan \nperintah dari Nasabah Indonesia melalui Bank ACCD \nIndonesia. \n(3) \nPokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Won milik \nNasabah Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pengelolaan saldo Sub-SNA Won, \nNasabah Indonesia dapat melakukan investasi pada \ninstrumen keuangan dalam won di Korea Selatan, kecuali \ndalam bentuk:  \na. \nreal estate; \nb. \naset digital; \nc. \ndeposito;  \nd. \ntabungan;  \ne. \nsertifikat deposito; atau  \nf. \nbentuk lain yang dipersamakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Investasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan oleh Bank ACCD Korea Selatan berdasarkan \nperintah dari Nasabah Indonesia melalui Bank ACCD \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Won milik \nNasabah Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nNasabah Indonesia tidak dapat melakukan penyetoran \ndan penarikan dalam won secara tunai pada Sub-SNA \nWon di Indonesia.  \n(2) \nBank ACCD Indonesia dilarang melaksanakan perintah \npenyetoran dan penarikan dalam won secara tunai pada \nSub-SNA Won sebagaimana dimaksud pada ayat (1).  \n \n \n \n \n\n\n \n \n \nParagraf 2 \nPenambahan Saldo Sub-SNA Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nasabah Indonesia tidak dapat melakukan penyetoran \ndan penarikan dalam won secara tunai pada Sub-SNA \nWon di Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia dilarang melaksanakan perintah \npenyetoran dan penarikan dalam won secara tunai pada \nSub-SNA Won sebagaimana dimaksud pada ayat (1).  \n \n \n \n \n\n\n \n \n \nParagraf 2 \nPenambahan Saldo Sub-SNA Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Penambahan saldo Sub-SNA Won milik Nasabah Indonesia \nhanya bersumber dari:  \na. \npenerimaan \ndari \nNasabah \nKorea \nSelatan \nuntuk \npenyelesaian Underlying Transaksi; \nb. \npembelian won terhadap rupiah atau valuta asing melalui \ntransaksi spot, forward, swap, dan/atau cross currency \nswap untuk penyelesaian Underlying Transaksi; \nc. \npenerimaan bunga atas saldo Sub-SNA Won; \nd. \npenerimaan atas pencairan dana dari Pembiayaan; \ndan/atau  \ne. \npenerimaan pokok dan hasil investasi pada instrumen \nkeuangan sebagaimana dimaksud dalam Pasal 17 ayat (1).  \n \n \nParagraf 3 \nPengurangan Saldo Sub-SNA Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penambahan saldo Sub-SNA Won milik Nasabah Indonesia \nhanya bersumber dari:  \na. \npenerimaan \ndari \nNasabah \nKorea \nSelatan \nuntuk \npenyelesaian Underlying Transaksi; \nb. \npembelian won terhadap rupiah atau valuta asing melalui \ntransaksi spot, forward, swap, dan/atau cross currency \nswap untuk penyelesaian Underlying Transaksi; \nc. \npenerimaan bunga atas saldo Sub-SNA Won; \nd. \npenerimaan atas pencairan dana dari Pembiayaan; \ndan/atau  \ne. \npenerimaan pokok dan hasil investasi pada instrumen \nkeuangan sebagaimana dimaksud dalam Pasal 17 ayat (1).  \n \n \nParagraf 3 \nPengurangan Saldo Sub-SNA Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Pengurangan saldo Sub-SNA Won milik Nasabah Indonesia \nhanya bersumber dari: \na. \npembayaran kepada Nasabah Korea Selatan untuk tujuan \npenyelesaian Underlying Transaksi; \nb. \npenjualan won terhadap rupiah atau valuta asing melalui \ntransaksi spot, forward, swap, dan/atau cross currency \nswap dari Underlying Transaksi; \nc. \npelunasan Pembiayaan, termasuk pembayaran pokok dan \nbunga atas Pembiayaan tersebut; dan/atau  \nd. \ntransfer won untuk kepentingan investasi Nasabah \nIndonesia pada instrumen keuangan dalam won di Korea \nSelatan.  \n \nParagraf 4 \nPengelolaan Saldo Sub-SNA Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengurangan saldo Sub-SNA Won milik Nasabah Indonesia \nhanya bersumber dari: \na. \npembayaran kepada Nasabah Korea Selatan untuk tujuan \npenyelesaian Underlying Transaksi; \nb. \npenjualan won terhadap rupiah atau valuta asing melalui \ntransaksi spot, forward, swap, dan/atau cross currency \nswap dari Underlying Transaksi; \nc. \npelunasan Pembiayaan, termasuk pembayaran pokok dan \nbunga atas Pembiayaan tersebut; dan/atau  \nd. \ntransfer won untuk kepentingan investasi Nasabah \nIndonesia pada instrumen keuangan dalam won di Korea \nSelatan.  \n \nParagraf 4 \nPengelolaan Saldo Sub-SNA Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nUntuk kepentingan pengelolaan saldo Sub-SNA Rupiah, \nNasabah Korea Selatan dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia, kecuali \ndalam bentuk:  \na. \nreal estate; \nb. \naset digital; \nc. \ndeposito;  \nd. \ntabungan;  \ne. \nsertifikat deposito; atau  \nf. \nbentuk lain yang dipersamakan.  \n(2) \nInvestasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan oleh Bank ACCD Indonesia berdasarkan \nperintah dari Nasabah Korea Selatan melalui Bank ACCD \nKorea Selatan.  \n\n\n \n \n \n(3) \nPokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Rupiah milik \nNasabah Korea Selatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pengelolaan saldo Sub-SNA Rupiah, \nNasabah Korea Selatan dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia, kecuali \ndalam bentuk:  \na. \nreal estate; \nb. \naset digital; \nc. \ndeposito;  \nd. \ntabungan;  \ne. \nsertifikat deposito; atau  \nf. \nbentuk lain yang dipersamakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Investasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan oleh Bank ACCD Indonesia berdasarkan \nperintah dari Nasabah Korea Selatan melalui Bank ACCD \nKorea Selatan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pokok dan hasil investasi sebagaimana dimaksud pada \nayat (1) dapat ditransfer kembali ke Sub-SNA Rupiah milik \nNasabah Korea Selatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Penyetoran dan penarikan rupiah secara tunai pada Sub-SNA \nRupiah tidak dapat dilakukan di Korea Selatan. \n \nBagian Kelima \nTransfer Rupiah dan Won",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyetoran dan penarikan rupiah secara tunai pada Sub-SNA \nRupiah tidak dapat dilakukan di Korea Selatan. \n \nBagian Kelima \nTransfer Rupiah dan Won"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia hanya dapat melakukan transfer \nrupiah untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Won. \n(2) \nTransfer rupiah sebagaimana dimaksud pada ayat (1) \ndapat dilakukan sebagai berikut:  \na. \nantar-SNA Rupiah;  \nb. \nantara SNA Rupiah dengan non-SNA Rupiah baik di \nBank ACCD maupun non-Bank ACCD; dan/atau \nc. \nantara rekening rupiah di non-Bank ACCD Indonesia \ndengan Sub-SNA Rupiah di Bank ACCD Korea \nSelatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia hanya dapat melakukan transfer \nrupiah untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Won."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transfer rupiah sebagaimana dimaksud pada ayat (1) \ndapat dilakukan sebagai berikut:  \na. \nantar-SNA Rupiah;  \nb. \nantara SNA Rupiah dengan non-SNA Rupiah baik di \nBank ACCD maupun non-Bank ACCD; dan/atau \nc. \nantara rekening rupiah di non-Bank ACCD Indonesia \ndengan Sub-SNA Rupiah di Bank ACCD Korea \nSelatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia hanya dapat melakukan transfer \nwon untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Won. \n(2) \nTransfer won sebagaimana dimaksud pada ayat (1) dapat \ndilakukan sebagai berikut:  \na. \nantar-SNA Won;  \nb. \nantara SNA Won dengan non-SNA Won baik di Bank \nACCD maupun non-Bank ACCD di Korea Selatan; \ndan/atau \nc. \nantara Sub-SNA Won di Bank ACCD Indonesia \ndengan rekening won di non-Bank ACCD Korea \nSelatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia hanya dapat melakukan transfer \nwon untuk keperluan penyelesaian transaksi dalam \nkerangka Transaksi Bilateral Rupiah dan Won."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transfer won sebagaimana dimaksud pada ayat (1) dapat \ndilakukan sebagai berikut:  \na. \nantar-SNA Won;  \nb. \nantara SNA Won dengan non-SNA Won baik di Bank \nACCD maupun non-Bank ACCD di Korea Selatan; \ndan/atau \nc. \nantara Sub-SNA Won di Bank ACCD Indonesia \ndengan rekening won di non-Bank ACCD Korea \nSelatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Bank ACCD Indonesia dilarang melakukan transfer antar-Sub-\nSNA Won yang dimiliki oleh Nasabah Indonesia yang berbeda.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank ACCD Indonesia dilarang melakukan transfer antar-Sub-\nSNA Won yang dimiliki oleh Nasabah Indonesia yang berbeda."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Bank ACCD Indonesia dan/atau Bank ACCD Korea Selatan \nyang melakukan transfer dana yang ditujukan pada rekening \nrupiah milik non-Bank ACCD Korea Selatan di Indonesia harus \nmemastikan transfer rupiah dilakukan sesuai tujuan transaksi \ndalam pelaksanaan Transaksi Bilateral Rupiah dan Won. \n \nBagian Keenam \nPembiayaan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank ACCD Indonesia dan/atau Bank ACCD Korea Selatan \nyang melakukan transfer dana yang ditujukan pada rekening \nrupiah milik non-Bank ACCD Korea Selatan di Indonesia harus \nmemastikan transfer rupiah dilakukan sesuai tujuan transaksi \ndalam pelaksanaan Transaksi Bilateral Rupiah dan Won. \n \nBagian Keenam \nPembiayaan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat memberikan Pembiayaan \ndalam won kepada Nasabah Indonesia. \n\n\n \n \n \n(2) \nPembiayaan sebagaimana dimaksud pada ayat (1) dapat \nberupa \npembiayaan \nkegiatan \nperdagangan \n(trade \nfinancing). \n(3) \nPembiayaan sebagaimana dimaksud \npada \nayat (2) \nmemiliki Underlying Transaksi perdagangan barang dan \njasa antara Nasabah Indonesia dan Nasabah Korea \nSelatan.  \n(4) \nPenyediaan \ndana \ndalam \nwon \nuntuk \nPembiayaan \nsebagaimana dimaksud pada ayat (1) dilakukan melalui:  \na. \npenggunaan dana dalam won yang telah dimiliki oleh \nBank ACCD Indonesia; \nb. \ntransaksi won terhadap rupiah atau valuta asing \nmelalui transaksi \nswap \ndengan \nBank \nACCD \nIndonesia lainnya dan/atau Bank ACCD Korea \nSelatan; dan/atau  \nc. \npinjaman langsung (direct borrowing) dalam won dari \nBank ACCD Indonesia lainnya dan/atau Bank ACCD \nKorea Selatan.  \n(5) \nBank ACCD Indonesia yang menerima pinjaman langsung \n(direct borrowing) sebagaimana dimaksud pada ayat (4) \nhuruf c wajib memiliki Underlying Transaksi yang \ndibuktikan dengan dokumen pemberian Pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat memberikan Pembiayaan \ndalam won kepada Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembiayaan sebagaimana dimaksud pada ayat (1) dapat \nberupa \npembiayaan \nkegiatan \nperdagangan \n(trade \nfinancing)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pembiayaan sebagaimana dimaksud \npada \nayat (2) \nmemiliki Underlying Transaksi perdagangan barang dan \njasa antara Nasabah Indonesia dan Nasabah Korea \nSelatan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyediaan \ndana \ndalam \nwon \nuntuk \nPembiayaan \nsebagaimana dimaksud pada ayat (1) dilakukan melalui:  \na. \npenggunaan dana dalam won yang telah dimiliki oleh \nBank ACCD Indonesia; \nb. \ntransaksi won terhadap rupiah atau valuta asing \nmelalui transaksi \nswap \ndengan \nBank \nACCD \nIndonesia lainnya dan/atau Bank ACCD Korea \nSelatan; dan/atau  \nc. \npinjaman langsung (direct borrowing) dalam won dari \nBank ACCD Indonesia lainnya dan/atau Bank ACCD \nKorea Selatan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank ACCD Indonesia yang menerima pinjaman langsung \n(direct borrowing) sebagaimana dimaksud pada ayat (4) \nhuruf c wajib memiliki Underlying Transaksi yang \ndibuktikan dengan dokumen pemberian Pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "(1) \nPembiayaan yang diberikan dalam won sebagaimana \ndimaksud dalam Pasal 27 dapat menggunakan dokumen \nUnderlying Transaksi dalam denominasi mata uang selain \nwon.  \n(2) \nPembiayaan yang menggunakan Underlying Transaksi \ndalam denominasi mata uang selain won sebagaimana \ndimaksud pada ayat (1) harus dinyatakan dalam ekuivalen \nwon dan dibayarkan dalam won.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembiayaan yang diberikan dalam won sebagaimana \ndimaksud dalam Pasal 27 dapat menggunakan dokumen \nUnderlying Transaksi dalam denominasi mata uang selain \nwon."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembiayaan yang menggunakan Underlying Transaksi \ndalam denominasi mata uang selain won sebagaimana \ndimaksud pada ayat (1) harus dinyatakan dalam ekuivalen \nwon dan dibayarkan dalam won."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Untuk kepentingan pemberian fasilitas Pembiayaan dalam \nrupiah oleh Bank ACCD Korea Selatan kepada Nasabah Korea \nSelatan, Bank ACCD Indonesia dapat melaksanakan:  \na. \ntransaksi won atau valuta asing lainnya terhadap rupiah \nmelalui transaksi swap dengan Bank ACCD Korea \nSelatan; dan/atau  \nb. \npenempatan dalam rupiah kepada Bank ACCD Korea \nSelatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk kepentingan pemberian fasilitas Pembiayaan dalam \nrupiah oleh Bank ACCD Korea Selatan kepada Nasabah Korea \nSelatan, Bank ACCD Indonesia dapat melaksanakan:  \na. \ntransaksi won atau valuta asing lainnya terhadap rupiah \nmelalui transaksi swap dengan Bank ACCD Korea \nSelatan; dan/atau  \nb. \npenempatan dalam rupiah kepada Bank ACCD Korea \nSelatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KEGIATAN KEUANGAN DAN TRANSAKSI KEUANGAN",
+      "teks_lengkap": "Pinjaman langsung (direct borrowing) sebagaimana dimaksud \ndalam Pasal 27 ayat (4) huruf c dan penempatan dalam rupiah \nsebagaimana dimaksud dalam Pasal 29 huruf b dilarang:  \na. \nmelebihi 1 (satu) tahun; \nb. \nmelebihi jangka waktu Underlying Transaksi; dan \nc. \nmelebihi jumlah nominal Underlying Transaksi.  \n \n \n \n \n \n \n\n\n \n \n \nBAB V \nTRANSAKSI KEUANGAN BANK ACCD INDONESIA \n \nBagian Kesatu \nTransaksi Domestic Non-Deliverable Forward",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pinjaman langsung (direct borrowing) sebagaimana dimaksud \ndalam Pasal 27 ayat (4) huruf c dan penempatan dalam rupiah \nsebagaimana dimaksud dalam Pasal 29 huruf b dilarang:  \na. \nmelebihi 1 (satu) tahun; \nb. \nmelebihi jangka waktu Underlying Transaksi; dan \nc. \nmelebihi jumlah nominal Underlying Transaksi.  \n \n \n \n \n \n \n\n\n \n \n \nBAB V \nTRANSAKSI KEUANGAN BANK ACCD INDONESIA \n \nBagian Kesatu \nTransaksi Domestic Non-Deliverable Forward"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "Transaksi Bilateral Rupiah dan Won dikecualikan dari larangan \nuntuk melakukan transaksi domestic non-deliverable forward di \nKorea Selatan dalam mata uang won terhadap rupiah. \n \nBagian Kedua \nTransaksi Won terhadap Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Transaksi Bilateral Rupiah dan Won dikecualikan dari larangan \nuntuk melakukan transaksi domestic non-deliverable forward di \nKorea Selatan dalam mata uang won terhadap rupiah. \n \nBagian Kedua \nTransaksi Won terhadap Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nUntuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Won, Bank ACCD Indonesia dapat melakukan \ntransaksi won terhadap rupiah berupa: \na. \ntransaksi spot; \nb. \ntransaksi forward; \nc. \ntransaksi swap; \nd. \ntransaksi cross currency swap; \ne. \ntransaksi domestic non-deliverable forward; dan/atau \nf. \ntransaksi \nlain \nyang \nditetapkan \nberdasarkan \nkesepakatan antara Bank Indonesia dan Bank of \nKorea.  \n(2) \nTransaksi won terhadap rupiah sebagaimana dimaksud \npada ayat (1) dapat dilakukan oleh Bank ACCD Indonesia \ndengan: \na. \nBank ACCD Indonesia lainnya; \nb. \nBank ACCD Korea Selatan; \nc. \nNasabah Indonesia;  \nd. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau  \ne. \nnon-Bank ACCD Korea Selatan untuk kepentingan \nsquaring position. \n \nParagraf 1 \nTransaksi Won terhadap Rupiah Antar-Bank ACCD",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Won, Bank ACCD Indonesia dapat melakukan \ntransaksi won terhadap rupiah berupa: \na. \ntransaksi spot; \nb. \ntransaksi forward; \nc. \ntransaksi swap; \nd. \ntransaksi cross currency swap; \ne. \ntransaksi domestic non-deliverable forward; dan/atau \nf. \ntransaksi \nlain \nyang \nditetapkan \nberdasarkan \nkesepakatan antara Bank Indonesia dan Bank of \nKorea."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi won terhadap rupiah sebagaimana dimaksud \npada ayat (1) dapat dilakukan oleh Bank ACCD Indonesia \ndengan: \na. \nBank ACCD Indonesia lainnya; \nb. \nBank ACCD Korea Selatan; \nc. \nNasabah Indonesia;  \nd. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau  \ne. \nnon-Bank ACCD Korea Selatan untuk kepentingan \nsquaring position. \n \nParagraf 1 \nTransaksi Won terhadap Rupiah Antar-Bank ACCD"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat melakukan transaksi won \nterhadap rupiah sebagaimana dimaksud dalam Pasal 32 \nayat (1) dengan: \na. \nBank ACCD Indonesia lainnya; dan/atau \nb. \nBank ACCD Korea Selatan,  \nuntuk kepentingan pelaksanaan manajemen likuiditas. \n(2) \nTransaksi won terhadap rupiah yang dilakukan untuk \nkepentingan kegiatan sebagaimana dimaksud \npada \nayat (1) dapat dilakukan tanpa Underlying Transaksi. \n \n \n \n \n \n \n\n\n \n \n \nParagraf 2 \nTransaksi Won terhadap Rupiah antara Bank ACCD Indonesia \ndan Nasabah Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat melakukan transaksi won \nterhadap rupiah sebagaimana dimaksud dalam Pasal 32 \nayat (1) dengan: \na. \nBank ACCD Indonesia lainnya; dan/atau \nb. \nBank ACCD Korea Selatan,  \nuntuk kepentingan pelaksanaan manajemen likuiditas."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi won terhadap rupiah yang dilakukan untuk \nkepentingan kegiatan sebagaimana dimaksud \npada \nayat (1) dapat dilakukan tanpa Underlying Transaksi. \n \n \n \n \n \n \n\n\n \n \n \nParagraf 2 \nTransaksi Won terhadap Rupiah antara Bank ACCD Indonesia \ndan Nasabah Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat melakukan transaksi won \nterhadap rupiah sebagaimana dimaksud dalam Pasal 32 \nayat (1) dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia. \n(2) \nTransaksi won terhadap rupiah sebagaimana dimaksud \npada ayat (1) dengan nominal di atas jumlah tertentu \n(threshold) \nper \ntransaksi wajib dibuktikan \ndengan \ndokumen Underlying Transaksi.  \n(3) \nJumlah tertentu (threshold) sebagaimana dimaksud pada \nayat (2) untuk: \na. \ntransaksi pembelian won terhadap rupiah sebesar \nekuivalen USD500.000,00 (lima ratus ribu dolar \nAmerika Serikat) per transaksi; dan \nb. \ntransaksi \npenjualan \nwon \nterhadap \nrupiah \ndilaksanakan \nsesuai \ndengan \nketentuan \nBank \nIndonesia mengenai transaksi pasar valuta asing. \n(4) \nNominal dan jangka waktu transaksi pembelian won \nterhadap rupiah sebagaimana dimaksud pada ayat (1) \ndilarang melebihi nominal dan jangka waktu Underlying \nTransaksi. \n(5) \nNasabah Indonesia dapat melakukan transaksi pembelian \nwon terhadap rupiah sebagaimana dimaksud pada ayat (1) \ndengan \nmenggunakan \nUnderlying \nTransaksi \ndalam \ndenominasi mata uang selain won. \n \nBagian Ketiga \nPenyesuaian Penyelesaian Transaksi Keuangan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat melakukan transaksi won \nterhadap rupiah sebagaimana dimaksud dalam Pasal 32 \nayat (1) dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi won terhadap rupiah sebagaimana dimaksud \npada ayat (1) dengan nominal di atas jumlah tertentu \n(threshold) \nper \ntransaksi wajib dibuktikan \ndengan \ndokumen Underlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jumlah tertentu (threshold) sebagaimana dimaksud pada \nayat (2) untuk: \na. \ntransaksi pembelian won terhadap rupiah sebesar \nekuivalen USD500.000,00 (lima ratus ribu dolar \nAmerika Serikat) per transaksi; dan \nb. \ntransaksi \npenjualan \nwon \nterhadap \nrupiah \ndilaksanakan \nsesuai \ndengan \nketentuan \nBank \nIndonesia mengenai transaksi pasar valuta asing."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Nominal dan jangka waktu transaksi pembelian won \nterhadap rupiah sebagaimana dimaksud pada ayat (1) \ndilarang melebihi nominal dan jangka waktu Underlying \nTransaksi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Nasabah Indonesia dapat melakukan transaksi pembelian \nwon terhadap rupiah sebagaimana dimaksud pada ayat (1) \ndengan \nmenggunakan \nUnderlying \nTransaksi \ndalam \ndenominasi mata uang selain won. \n \nBagian Ketiga \nPenyesuaian Penyelesaian Transaksi Keuangan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPenyesuaian penyelesaian transaksi won terhadap rupiah \nsebagaimana dimaksud dalam Pasal 32 ayat (1) dapat \ndilakukan melalui: \na. \nperpanjangan transaksi; \nb. \npercepatan penyelesaian transaksi; dan/atau \nc. \npengakhiran transaksi. \n(2) \nPenyesuaian \npenyelesaian \ntransaksi \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan secara netting.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyesuaian penyelesaian transaksi won terhadap rupiah \nsebagaimana dimaksud dalam Pasal 32 ayat (1) dapat \ndilakukan melalui: \na. \nperpanjangan transaksi; \nb. \npercepatan penyelesaian transaksi; dan/atau \nc. \npengakhiran transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyesuaian \npenyelesaian \ntransaksi \nsebagaimana \ndimaksud pada ayat (1) dapat dilakukan secara netting."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPenyesuaian penyelesaian transaksi won terhadap rupiah \nmelalui perpanjangan transaksi, percepatan penyelesaian \ntransaksi, dan/atau pengakhiran transaksi sebagaimana \ndimaksud dalam Pasal 35 ayat (1) dapat dilakukan tanpa \ndokumen Underlying Transaksi. \n(2) \nNominal transaksi untuk \npenyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndapat \ndilakukan \npaling \nbanyak \nsebesar \nnominal \nUnderlying Transaksi awal. \n\n\n \n \n \n(3) \nJangka waktu transaksi untuk penyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndilakukan paling lambat pada:  \na. \njangka waktu Underlying Transaksi awal berakhir; \natau  \nb. \ntanggal penyelesaian yang telah disesuaikan pada \ndokumen \nUnderlying \nTransaksi \nyang \ndapat \ndilengkapi dengan dokumen pendukung. \n(4) \nPenyesuaian \npenyelesaian \ntransaksi \nkeuangan \nsebagaimana dimaksud pada ayat (1) harus dilakukan \ndengan Bank ACCD Indonesia atau Bank ACCD Korea \nSelatan yang sama sesuai dengan kontrak transaksi awal. \n \nBagian Keempat \nPenyelesaian Transaksi Won terhadap Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyesuaian penyelesaian transaksi won terhadap rupiah \nmelalui perpanjangan transaksi, percepatan penyelesaian \ntransaksi, dan/atau pengakhiran transaksi sebagaimana \ndimaksud dalam Pasal 35 ayat (1) dapat dilakukan tanpa \ndokumen Underlying Transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Nominal transaksi untuk \npenyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndapat \ndilakukan \npaling \nbanyak \nsebesar \nnominal \nUnderlying Transaksi awal."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu transaksi untuk penyesuaian penyelesaian \ntransaksi keuangan sebagaimana dimaksud pada ayat (1) \ndilakukan paling lambat pada:  \na. \njangka waktu Underlying Transaksi awal berakhir; \natau  \nb. \ntanggal penyelesaian yang telah disesuaikan pada \ndokumen \nUnderlying \nTransaksi \nyang \ndapat \ndilengkapi dengan dokumen pendukung."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyesuaian \npenyelesaian \ntransaksi \nkeuangan \nsebagaimana dimaksud pada ayat (1) harus dilakukan \ndengan Bank ACCD Indonesia atau Bank ACCD Korea \nSelatan yang sama sesuai dengan kontrak transaksi awal. \n \nBagian Keempat \nPenyelesaian Transaksi Won terhadap Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPenyelesaian transaksi won \nterhadap rupiah \nyang \ndilakukan Bank ACCD Indonesia dengan: \na. \nBank \nACCD \nIndonesia \nlainnya \nsebagaimana \ndimaksud dalam Pasal 33 ayat (1) huruf a; dan \nb. \nNasabah Indonesia sebagaimana dimaksud dalam \nPasal 34 ayat (1) huruf a, \ndapat dilakukan dengan pemindahan dana pokok secara \npenuh (gross) atau secara netting. \n(2) \nPenyelesaian transaksi won \nterhadap rupiah \nyang \ndilakukan Bank ACCD Indonesia dengan non-Bank ACCD \nIndonesia sebagaimana dimaksud dalam Pasal 34 ayat (1) \nhuruf b dilakukan melalui pemindahan dana pokok secara \npenuh (gross). \n \nBagian Kelima \nSquaring Position",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelesaian transaksi won \nterhadap rupiah \nyang \ndilakukan Bank ACCD Indonesia dengan: \na. \nBank \nACCD \nIndonesia \nlainnya \nsebagaimana \ndimaksud dalam Pasal 33 ayat (1) huruf a; dan \nb. \nNasabah Indonesia sebagaimana dimaksud dalam \nPasal 34 ayat (1) huruf a, \ndapat dilakukan dengan pemindahan dana pokok secara \npenuh (gross) atau secara netting."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelesaian transaksi won \nterhadap rupiah \nyang \ndilakukan Bank ACCD Indonesia dengan non-Bank ACCD \nIndonesia sebagaimana dimaksud dalam Pasal 34 ayat (1) \nhuruf b dilakukan melalui pemindahan dana pokok secara \npenuh (gross). \n \nBagian Kelima \nSquaring Position"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia dapat melakukan transaksi won \nterhadap rupiah sebagaimana dimaksud dalam Pasal 32 \nayat (1) dengan: \na. \nBank ACCD Indonesia lainnya;  \nb. \nBank ACCD Korea Selatan; \nc. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau \nd. \nnon-Bank ACCD Korea Selatan atas dasar Underlying \nTransaksi yang dilakukan Nasabah Indonesia, \nuntuk kepentingan pelaksanaan squaring position. \n(2) \nBank ACCD Indonesia dapat melakukan squaring position \nsebagaimana dimaksud pada ayat (1) atas transaksi won \nterhadap rupiah secara: \na. \npenuh (gross) atau secara netting dengan: \n1. \nBank ACCD Indonesia lainnya; dan/atau  \n2. \nBank ACCD Korea Selatan,   \ntanpa dokumen Underlying Transaksi; atau  \n \n \n \n \n\n\n \n \n \nb. \npenuh (gross) dengan:  \n1. \nnon-Bank ACCD Indonesia lainnya; dan/atau  \n2. \nnon-Bank ACCD Korea Selatan,  \nyang wajib dibuktikan dengan dokumen Underlying \nTransaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia dapat melakukan transaksi won \nterhadap rupiah sebagaimana dimaksud dalam Pasal 32 \nayat (1) dengan: \na. \nBank ACCD Indonesia lainnya;  \nb. \nBank ACCD Korea Selatan; \nc. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia; dan/atau \nd. \nnon-Bank ACCD Korea Selatan atas dasar Underlying \nTransaksi yang dilakukan Nasabah Indonesia, \nuntuk kepentingan pelaksanaan squaring position."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia dapat melakukan squaring position \nsebagaimana dimaksud pada ayat (1) atas transaksi won \nterhadap rupiah secara: \na. \npenuh (gross) atau secara netting dengan: \n1. \nBank ACCD Indonesia lainnya; dan/atau  \n2. \nBank ACCD Korea Selatan,   \ntanpa dokumen Underlying Transaksi; atau  \n \n \n \n \n\n\n \n \n \nb. \npenuh (gross) dengan:  \n1. \nnon-Bank ACCD Indonesia lainnya; dan/atau  \n2. \nnon-Bank ACCD Korea Selatan,  \nyang wajib dibuktikan dengan dokumen Underlying \nTransaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nUntuk pelaksanaan squaring position dari Bank ACCD \nKorea Selatan, Bank ACCD Indonesia dapat melaksanakan \ntransaksi won terhadap rupiah sebagaimana dimaksud \ndalam Pasal 32 ayat (1). \n(2) \nBank ACCD Indonesia dapat melaksanakan transaksi \nuntuk pelaksanaan squaring position dari Bank ACCD \nKorea Selatan sebagaimana dimaksud pada ayat (1) \nsecara: \na. \npenuh (gross); atau \nb. \nnetting. \n(3) \nPelaksanaan squaring position sebagaimana dimaksud \npada ayat (1) dilakukan tanpa dokumen Underlying \nTransaksi. \n \nBagian Keenam \nUnderlying Transaksi \n \nParagraf 1 \nJenis Underlying Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk pelaksanaan squaring position dari Bank ACCD \nKorea Selatan, Bank ACCD Indonesia dapat melaksanakan \ntransaksi won terhadap rupiah sebagaimana dimaksud \ndalam Pasal 32 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia dapat melaksanakan transaksi \nuntuk pelaksanaan squaring position dari Bank ACCD \nKorea Selatan sebagaimana dimaksud pada ayat (1) \nsecara: \na. \npenuh (gross); atau \nb. \nnetting."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pelaksanaan squaring position sebagaimana dimaksud \npada ayat (1) dilakukan tanpa dokumen Underlying \nTransaksi. \n \nBagian Keenam \nUnderlying Transaksi \n \nParagraf 1 \nJenis Underlying Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "Underlying \nTransaksi \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Won meliputi: \na. \ntransaksi berjalan antara Nasabah Indonesia dan \nNasabah Korea Selatan berupa: \n1. \nkegiatan perdagangan barang dan jasa antara \nIndonesia dan Korea Selatan; \n2. \ntransaksi pendapatan primer yang meliputi: \na) \ntransaksi \npenerimaan \ndan \npembayaran \nkompensasi tenaga kerja; dan \nb) \npendapatan investasi dari: \n1) \ninvestasi langsung; \n2) \ninvestasi portofolio; dan/atau \n3) \ninvestasi lainnya; dan \n3. \ntransaksi pendapatan sekunder meliputi: \na) \npenerimaan dan pembayaran sektor pemerintah; \nb) \npenerimaan dan pembayaran sektor lainnya \ntermasuk remitansi; dan \nc) \ntransaksi pendapatan sekunder lainnya, \ntetapi tidak \ntermasuk \nhibah, hadiah, \ndonasi, \ndan/atau sejenisnya; \nb. \nPembiayaan dari Bank ACCD Indonesia kepada Nasabah \nIndonesia sebagaimana dimaksud dalam Pasal 27; dan \nc. \nUnderlying Transaksi lainnya. \n \n \n \n \n \n\n\n \n \n \nParagraf 2 \nDokumen Underlying Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Underlying \nTransaksi \nuntuk \nkepentingan \npelaksanaan \nTransaksi Bilateral Rupiah dan Won meliputi: \na. \ntransaksi berjalan antara Nasabah Indonesia dan \nNasabah Korea Selatan berupa: \n1. \nkegiatan perdagangan barang dan jasa antara \nIndonesia dan Korea Selatan; \n2. \ntransaksi pendapatan primer yang meliputi: \na) \ntransaksi \npenerimaan \ndan \npembayaran \nkompensasi tenaga kerja; dan \nb) \npendapatan investasi dari: \n1) \ninvestasi langsung; \n2) \ninvestasi portofolio; dan/atau \n3) \ninvestasi lainnya; dan \n3. \ntransaksi pendapatan sekunder meliputi: \na) \npenerimaan dan pembayaran sektor pemerintah; \nb) \npenerimaan dan pembayaran sektor lainnya \ntermasuk remitansi; dan \nc) \ntransaksi pendapatan sekunder lainnya, \ntetapi tidak \ntermasuk \nhibah, hadiah, \ndonasi, \ndan/atau sejenisnya; \nb. \nPembiayaan dari Bank ACCD Indonesia kepada Nasabah \nIndonesia sebagaimana dimaksud dalam Pasal 27; dan \nc. \nUnderlying Transaksi lainnya. \n \n \n \n \n \n\n\n \n \n \nParagraf 2 \nDokumen Underlying Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nDokumen Underlying Transaksi dapat berupa: \na. \ndokumen Underlying Transaksi yang bersifat final; \natau \nb. \ndokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan. \n(2) \nRincian dokumen Underlying Transaksi sebagaimana \ndimaksud pada ayat (1) tercantum dalam Lampiran III \nyang merupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dokumen Underlying Transaksi dapat berupa: \na. \ndokumen Underlying Transaksi yang bersifat final; \natau \nb. \ndokumen \nUnderlying \nTransaksi \nyang \nbersifat \nperkiraan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rincian dokumen Underlying Transaksi sebagaimana \ndimaksud pada ayat (1) tercantum dalam Lampiran III \nyang merupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nDokumen Underlying Transaksi yang bersifat perkiraan \nsebagaimana dimaksud dalam Pasal 41 ayat (1) huruf b \nhanya diperbolehkan untuk transaksi berjalan. \n(2) \nPerhitungan Underlying Transaksi yang bersifat perkiraan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan \nberdasarkan penerimaan atau pembayaran transaksi \nberjalan yang didukung oleh riwayat data realisasi \ntransaksi atau berdasarkan hasil asesmen Bank ACCD \njika riwayat data realisasi transaksi tidak tersedia. \n(3) \nJangka waktu transaksi dengan menggunakan dokumen \nUnderlying Transaksi yang bersifat perkiraan sebagaimana \ndimaksud pada ayat (1) tidak dapat melebihi jangka waktu \nperkiraan penerimaan atau kebutuhan pembayaran \ntransaksi berjalan. \n(4) \nNominal \ntransaksi dengan \nmenggunakan \ndokumen \nUnderlying Transaksi yang bersifat perkiraan sebagaimana \ndimaksud pada ayat (1) tidak dapat melebihi nominal \nperkiraan penerimaan atau kebutuhan pembayaran \ntransaksi berjalan. \n \n \nParagraf 3 \nUnderlying Transaksi melalui Cross Border Payment",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dokumen Underlying Transaksi yang bersifat perkiraan \nsebagaimana dimaksud dalam Pasal 41 ayat (1) huruf b \nhanya diperbolehkan untuk transaksi berjalan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perhitungan Underlying Transaksi yang bersifat perkiraan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \nberdasarkan penerimaan atau pembayaran transaksi \nberjalan yang didukung oleh riwayat data realisasi \ntransaksi atau berdasarkan hasil asesmen Bank ACCD \njika riwayat data realisasi transaksi tidak tersedia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu transaksi dengan menggunakan dokumen \nUnderlying Transaksi yang bersifat perkiraan sebagaimana \ndimaksud pada ayat (1) tidak dapat melebihi jangka waktu \nperkiraan penerimaan atau kebutuhan pembayaran \ntransaksi berjalan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Nominal \ntransaksi dengan \nmenggunakan \ndokumen \nUnderlying Transaksi yang bersifat perkiraan sebagaimana \ndimaksud pada ayat (1) tidak dapat melebihi nominal \nperkiraan penerimaan atau kebutuhan pembayaran \ntransaksi berjalan. \n \n \nParagraf 3 \nUnderlying Transaksi melalui Cross Border Payment"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nUnderlying transaksi sebagaimana dimaksud dalam Pasal \ntermasuk \nkegiatan \ntransaksi \nberjalan \nyang \npembayarannya dilakukan melalui cross border payment. \n(2) \nPenyelenggara infrastruktur sistem pembayaran yang \nmenyediakan fasilitas cross border payment sebagaimana \ndimaksud pada ayat (1) menggunakan Bank ACCD \nIndonesia untuk melakukan: \na. \npembukaan Sub-SNA Won; dan  \nb. \nmelakukan transaksi won terhadap rupiah. \n \n \n \n \n \n \n \n\n\n \n \n \nParagraf 4 \nDokumen Underlying Transaksi untuk Transaksi Won \nterhadap Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Underlying transaksi sebagaimana dimaksud dalam Pasal \ntermasuk \nkegiatan \ntransaksi \nberjalan \nyang \npembayarannya dilakukan melalui cross border payment."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggara infrastruktur sistem pembayaran yang \nmenyediakan fasilitas cross border payment sebagaimana \ndimaksud pada ayat (1) menggunakan Bank ACCD \nIndonesia untuk melakukan: \na. \npembukaan Sub-SNA Won; dan  \nb. \nmelakukan transaksi won terhadap rupiah. \n \n \n \n \n \n \n \n\n\n \n \n \nParagraf 4 \nDokumen Underlying Transaksi untuk Transaksi Won \nterhadap Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nTransaksi won terhadap rupiah berupa spot antara Bank \nACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \nsebagaimana dimaksud dalam Pasal 32, wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final. \n(2) \nTransaksi won terhadap rupiah berupa forward, swap, \ncross currency swap, dan/atau domestic non-deliverable \nforward, antara Bank ACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \nsebagaimana dimaksud dalam Pasal 32, wajib dibuktikan \noleh dokumen Underlying Transaksi yang bersifat final \natau dokumen \nUnderlying \nTransaksi yang bersifat \nperkiraan. \n(3) \nDokumen Underlying Transaksi sebagaimana dimaksud \npada ayat (1) dan ayat (2) wajib diterima oleh Bank ACCD \nIndonesia paling lambat pada tanggal penyelesaian \ntransaksi (settlement date). \n \nParagraf 5 \nDokumen Underlying Transaksi untuk Pembiayaan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi won terhadap rupiah berupa spot antara Bank \nACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \nsebagaimana dimaksud dalam Pasal 32, wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi won terhadap rupiah berupa forward, swap, \ncross currency swap, dan/atau domestic non-deliverable \nforward, antara Bank ACCD Indonesia dengan: \na. \nNasabah Indonesia; atau \nb. \nnon-Bank ACCD Indonesia yang bertindak untuk \nkepentingan Nasabah Indonesia, \nsebagaimana dimaksud dalam Pasal 32, wajib dibuktikan \noleh dokumen Underlying Transaksi yang bersifat final \natau dokumen \nUnderlying \nTransaksi yang bersifat \nperkiraan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dokumen Underlying Transaksi sebagaimana dimaksud \npada ayat (1) dan ayat (2) wajib diterima oleh Bank ACCD \nIndonesia paling lambat pada tanggal penyelesaian \ntransaksi (settlement date). \n \nParagraf 5 \nDokumen Underlying Transaksi untuk Pembiayaan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TRANSAKSI KEUANGAN BANK ACCD INDONESIA",
+      "teks_lengkap": "(1) \nPembiayaan yang diberikan oleh Bank ACCD Indonesia \nsebagaimana dimaksud dalam Pasal 27 wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final \ndari Nasabah Indonesia. \n(2) \nBank ACCD Indonesia harus memastikan bahwa dokumen \nUnderlying Transaksi yang bersifat final sebagaimana \ndimaksud pada ayat (1) telah sesuai dengan tujuan \nPembiayaan. \n \nBAB VI \nKUOTASI HARGA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembiayaan yang diberikan oleh Bank ACCD Indonesia \nsebagaimana dimaksud dalam Pasal 27 wajib dibuktikan \ndengan dokumen Underlying Transaksi yang bersifat final \ndari Nasabah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia harus memastikan bahwa dokumen \nUnderlying Transaksi yang bersifat final sebagaimana \ndimaksud pada ayat (1) telah sesuai dengan tujuan \nPembiayaan. \n \nBAB VI \nKUOTASI HARGA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KUOTASI HARGA",
+      "teks_lengkap": "(1) \nBank \nACCD \nIndonesia \nwajib \nmenerbitkan \ndan \nmenampilkan kuotasi harga won terhadap rupiah pada \nsarana penyedia informasi. \n(2) \nKuotasi harga won terhadap rupiah diterbitkan dan \nditampilkan pada sarana penyedia informasi paling sedikit \n1 (satu) kali setiap Hari. \n \n \n \n \n \n\n\n \n \n \n(3) \nPenetapan kuotasi harga sebagaimana dimaksud pada \nayat (1) harus: \na. \nmerefleksikan harga wajar yang terjadi di pasar \nvaluta asing; dan \nb. \ndapat ditransaksikan atau dieksekusi. \n(4) \nBank ACCD Indonesia menggunakan kuotasi harga \nsebagaimana dimaksud pada ayat (1) sebagai acuan dalam \nmelakukan transaksi won terhadap rupiah. \n \nBAB VII \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nACCD \nIndonesia \nwajib \nmenerbitkan \ndan \nmenampilkan kuotasi harga won terhadap rupiah pada \nsarana penyedia informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kuotasi harga won terhadap rupiah diterbitkan dan \nditampilkan pada sarana penyedia informasi paling sedikit \n1 (satu) kali setiap Hari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan kuotasi harga sebagaimana dimaksud pada \nayat (1) harus: \na. \nmerefleksikan harga wajar yang terjadi di pasar \nvaluta asing; dan \nb. \ndapat ditransaksikan atau dieksekusi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank ACCD Indonesia menggunakan kuotasi harga \nsebagaimana dimaksud pada ayat (1) sebagai acuan dalam \nmelakukan transaksi won terhadap rupiah. \n \nBAB VII \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank ACCD Indonesia wajib menyampaikan laporan \nmengenai pelaksanaan Transaksi Bilateral Rupiah dan \nWon kepada Bank Indonesia. \n(2) \nPenyampaian laporan sebagaimana dimaksud pada ayat \n(1) dipenuhi melalui:  \na. \nlaporan bank umum terintegrasi;  \nb. \nlaporan lalu lintas devisa; dan \nc. \nlaporan lain yang ditetapkan Bank Indonesia. \n(3) \nMekanisme penyampaian laporan sebagaimana dimaksud \npada ayat (2) dilakukan sesuai dengan ketentuan Bank \nIndonesia mengenai pelaporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank ACCD Indonesia wajib menyampaikan laporan \nmengenai pelaksanaan Transaksi Bilateral Rupiah dan \nWon kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dipenuhi melalui:  \na. \nlaporan bank umum terintegrasi;  \nb. \nlaporan lalu lintas devisa; dan \nc. \nlaporan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Mekanisme penyampaian laporan sebagaimana dimaksud \npada ayat (2) dilakukan sesuai dengan ketentuan Bank \nIndonesia mengenai pelaporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nDalam hal diperlukan, Bank Indonesia dapat meminta \nlaporan insidental mengenai pelaksanaan Transaksi \nBilateral Rupiah dan Won kepada Bank ACCD Indonesia.  \n(2) \nBank ACCD Indonesia wajib menyampaikan laporan \ninsidental sebagaimana dimaksud pada ayat (1).  \n(3) \nBank \nACCD \nIndonesia \nyang \nmelanggar ketentuan \nsebagaimana dimaksud pada ayat (32) dikenai sanksi \nadministratif berupa teguran tertulis.  \n \nBAB VIII \nTATA CARA PENGENAAN SANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal diperlukan, Bank Indonesia dapat meminta \nlaporan insidental mengenai pelaksanaan Transaksi \nBilateral Rupiah dan Won kepada Bank ACCD Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank ACCD Indonesia wajib menyampaikan laporan \ninsidental sebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nACCD \nIndonesia \nyang \nmelanggar ketentuan \nsebagaimana dimaksud pada ayat (32) dikenai sanksi \nadministratif berupa teguran tertulis.  \n \nBAB VIII \nTATA CARA PENGENAAN SANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nBank Indonesia mengenakan sanksi berupa teguran \ntertulis kepada Bank ACCD Indonesia yang melanggar \nketentuan dalam Peraturan Bank Indonesia mengenai \npenyelesaian transaksi bilateral menggunakan mata uang \nlokal melalui bank. \n(2) \nTeguran tertulis sebagaimana dimaksud pada ayat (1) \ndisampaikan melalui surat dengan tembusan kepada \notoritas terkait. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nBAB IX \nKORESPONDENSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengenakan sanksi berupa teguran \ntertulis kepada Bank ACCD Indonesia yang melanggar \nketentuan dalam Peraturan Bank Indonesia mengenai \npenyelesaian transaksi bilateral menggunakan mata uang \nlokal melalui bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Teguran tertulis sebagaimana dimaksud pada ayat (1) \ndisampaikan melalui surat dengan tembusan kepada \notoritas terkait. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nBAB IX \nKORESPONDENSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KORESPONDENSI",
+      "teks_lengkap": "(1) \nSurat-menyurat atau korespondensi terkait penunjukan \nBank ACCD Indonesia dan pengakhiran penunjukan Bank \nACCD Indonesia disampaikan kepada: \nDepartemen \nInternasional \ndan \nDepartemen \nPengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2  \nJakarta Pusat – 10350 \nSurat \nelektronik: \nDInt-HI3@bi.go.id \ndan                  \nDPPK-KPVA@bi.go.id.  \n(2) \nSurat-menyurat atau korespondensi terkait pelaporan \nmengikuti ketentuan Bank Indonesia mengenai pelaporan. \n(3) \nSurat-menyurat atau korespondensi terkait pelaksanaan \nTransaksi Bilateral Rupiah dan Won disampaikan melalui \nalamat \nsurat \nelektronik \nContact \nCenter \nBICARA: \nbicara@bi.go.id. \n(4) \nDalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1), (2), dan/atau ayat \n(3), Bank Indonesia menginformasikan perubahan alamat \ntersebut melalui surat dan/atau media lainnya. \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Surat-menyurat atau korespondensi terkait penunjukan \nBank ACCD Indonesia dan pengakhiran penunjukan Bank \nACCD Indonesia disampaikan kepada: \nDepartemen \nInternasional \ndan \nDepartemen \nPengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2  \nJakarta Pusat – 10350 \nSurat \nelektronik: \nDInt-HI3@bi.go.id \ndan                  \nDPPK-KPVA@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Surat-menyurat atau korespondensi terkait pelaporan \nmengikuti ketentuan Bank Indonesia mengenai pelaporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Surat-menyurat atau korespondensi terkait pelaksanaan \nTransaksi Bilateral Rupiah dan Won disampaikan melalui \nalamat \nsurat \nelektronik \nContact \nCenter \nBICARA: \nbicara@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1), (2), dan/atau ayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": ", Bank Indonesia menginformasikan perubahan alamat \ntersebut melalui surat dan/atau media lainnya. \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal 30 September 2024. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \n \n \nDitetapkan di Jakarta  \npada tanggal 18 September 2024 \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n  \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n\n\nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 10 TAHUN 2024 \nTENTANG \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA INDONESIA DAN KOREA \nSELATAN MENGGUNAKAN RUPIAH DAN WON \n \nI. \nUMUM \nStabilitas nilai tukar rupiah berperan penting untuk mencapai dan \nmenjaga stabilitas sistem keuangan. Untuk mencapai stabilitas nilai tukar \nrupiah tesebut, Bank Indonesia terus memperkuat kebijakan dalam \nmenjaga stabilitas nilai tukar rupiah dan meningkatkan penggunaan mata \nuang lokal dalam transaksi perdagangan internasional dan pendalaman \npasar keuangan, termasuk skema penyelesaian transaksi bilateral \nmenggunakan mata uang lokal.  \nSelanjutnya, Bank Indonesia dan Bank of Korea telah melakukan \nkesepakatan guna mendorong penggunaan rupiah dan won untuk \nmendorong Transaksi Bilateral Rupiah dan Won, sehingga diharapkan \npelaksanaan kerja sama antara Bank Indonesia dan Bank of Korea dapat \nberjalan baik dan terstruktur. \nGuna mendukung pelaksanaan kesepakatan tersebut, diperlukan \nperaturan mengenai pelaksanaan kegiatan dan transaksi keuangan melalui \nskema Transaksi Bilateral Rupiah dan Won.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Penyelesaian Transaksi \nBilateral antara Indonesia dan Korea Selatan menggunakan Rupiah dan \nWon. \n \n \n\n\n \n \n \nII.  PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal 30 September 2024. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \n \n \nDitetapkan di Jakarta  \npada tanggal 18 September 2024 \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n  \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n\n\nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 10 TAHUN 2024 \nTENTANG \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA INDONESIA DAN KOREA \nSELATAN MENGGUNAKAN RUPIAH DAN WON \n \nI. \nUMUM \nStabilitas nilai tukar rupiah berperan penting untuk mencapai dan \nmenjaga stabilitas sistem keuangan. Untuk mencapai stabilitas nilai tukar \nrupiah tesebut, Bank Indonesia terus memperkuat kebijakan dalam \nmenjaga stabilitas nilai tukar rupiah dan meningkatkan penggunaan mata \nuang lokal dalam transaksi perdagangan internasional dan pendalaman \npasar keuangan, termasuk skema penyelesaian transaksi bilateral \nmenggunakan mata uang lokal.  \nSelanjutnya, Bank Indonesia dan Bank of Korea telah melakukan \nkesepakatan guna mendorong penggunaan rupiah dan won untuk \nmendorong Transaksi Bilateral Rupiah dan Won, sehingga diharapkan \npelaksanaan kerja sama antara Bank Indonesia dan Bank of Korea dapat \nberjalan baik dan terstruktur. \nGuna mendukung pelaksanaan kesepakatan tersebut, diperlukan \nperaturan mengenai pelaksanaan kegiatan dan transaksi keuangan melalui \nskema Transaksi Bilateral Rupiah dan Won.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan Anggota Dewan Gubernur tentang Penyelesaian Transaksi \nBilateral antara Indonesia dan Korea Selatan menggunakan Rupiah dan \nWon. \n \n \n\n\n \n \n \nII.  PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKebutuhan pasar (market driven) terhadap Transaksi Bilateral \nRupiah dan Won antara lain dilaksanakan sejalan dengan prinsip \npengelolaan lalu lintas devisa. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKebutuhan pasar (market driven) terhadap Transaksi Bilateral \nRupiah dan Won antara lain dilaksanakan sejalan dengan prinsip \npengelolaan lalu lintas devisa. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKriteria umum berupa kompleksitas (complexity) mencakup \nkomponen kemungkinan tergantikan (substitutability). \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKriteria umum berupa kompleksitas (complexity) mencakup \nkomponen kemungkinan tergantikan (substitutability). \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nSurat permohonan dari calon Bank ACCD Indonesia dapat \ndisertai dengan informasi mengenai calon mitra Bank ACCD \nIndonesia di Korea Selatan. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nSurat permohonan dari calon Bank ACCD Indonesia dapat \ndisertai dengan informasi mengenai calon mitra Bank ACCD \nIndonesia di Korea Selatan. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPertimbangan mengenai perkembangan bisnis Bank ACCD \nIndonesia untuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Won serta kepatuhan Bank ACCD Indonesia terhadap \nketentuan Bank Indonesia mengenai penyelesaian transaksi \nbilateral menggunakan mata uang lokal melalui Bank, antara lain \ndiperoleh berdasarkan hasil pengawasan yang dilakukan oleh \nBank Indonesia dan/atau hasil koordinasi antara Bank Indonesia \ndan otoritas terkait lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPertimbangan mengenai perkembangan bisnis Bank ACCD \nIndonesia untuk kepentingan pelaksanaan Transaksi Bilateral \nRupiah dan Won serta kepatuhan Bank ACCD Indonesia terhadap \nketentuan Bank Indonesia mengenai penyelesaian transaksi \nbilateral menggunakan mata uang lokal melalui Bank, antara lain \ndiperoleh berdasarkan hasil pengawasan yang dilakukan oleh \nBank Indonesia dan/atau hasil koordinasi antara Bank Indonesia \ndan otoritas terkait lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat menerima \npembukaan masing-masing 1 (satu) SNA Rupiah dari Bank X dan \n1 (satu) SNA Rupiah dari Bank Y yang keduanya merupakan Bank \nACCD Korea Selatan. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat menerima \npembukaan masing-masing 1 (satu) SNA Rupiah dari Bank X dan \n1 (satu) SNA Rupiah dari Bank Y yang keduanya merupakan Bank \nACCD Korea Selatan. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat membuka \n1 (satu) SNA Won di Bank Y dan 1 (satu) SNA Won di Bank Z yang \nkeduanya merupakan Bank ACCD Korea Selatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia dapat membuka \n1 (satu) SNA Won di Bank Y dan 1 (satu) SNA Won di Bank Z yang \nkeduanya merupakan Bank ACCD Korea Selatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nBank X yang merupakan Bank ACCD Korea Selatan memiliki SNA \nRupiah di Bank A, Bank B, dan Bank C yang ketiganya \nmerupakan Bank ACCD Indonesia. Total saldo keseluruhan di \nBank A, Bank B, dan Bank C paling banyak sebesar \nRp400.000.000.000,00 (empat ratus miliar rupiah) pada akhir \nHari. \nAyat (2) \nCukup jelas. \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nAyat (3) \nContoh: \nBank X yang merupakan Bank ACCD Korea Selatan memiliki SNA \nRupiah di Bank A yang merupakan Bank ACCD Indonesia. Pada \nakhir Hari tanggal 1 Agustus 2025, total saldo SNA Rupiah Bank \nX di Bank A sebesar Rp600.000.000.000,00 (enam ratus miliar \nrupiah). \nSaldo \nSNA \nRupiah \ntersebut \ndapat \nmelebihi \nlimit \nRp400.000.000.000,00 (empat ratus miliar rupiah) sepanjang \nBank X menyampaikan dokumen pada yang menyatakan bahwa \nkelebihan saldo tersebut akan digunakan untuk membayar \nkewajiban impor kepada eksportir di Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nBank X yang merupakan Bank ACCD Korea Selatan memiliki SNA \nRupiah di Bank A, Bank B, dan Bank C yang ketiganya \nmerupakan Bank ACCD Indonesia. Total saldo keseluruhan di \nBank A, Bank B, dan Bank C paling banyak sebesar \nRp400.000.000.000,00 (empat ratus miliar rupiah) pada akhir \nHari. \nAyat (2) \nCukup jelas. \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nAyat (3) \nContoh: \nBank X yang merupakan Bank ACCD Korea Selatan memiliki SNA \nRupiah di Bank A yang merupakan Bank ACCD Indonesia. Pada \nakhir Hari tanggal 1 Agustus 2025, total saldo SNA Rupiah Bank \nX di Bank A sebesar Rp600.000.000.000,00 (enam ratus miliar \nrupiah). \nSaldo \nSNA \nRupiah \ntersebut \ndapat \nmelebihi \nlimit \nRp400.000.000.000,00 (empat ratus miliar rupiah) sepanjang \nBank X menyampaikan dokumen pada yang menyatakan bahwa \nkelebihan saldo tersebut akan digunakan untuk membayar \nkewajiban impor kepada eksportir di Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia memiliki SNA \nWon di Bank X, Bank Y, dan Bank Z yang ketiganya merupakan \nBank ACCD Korea Selatan. Total saldo keseluruhan di Bank X, \nBank \nY, \ndan \nBank \nZ \npaling \nbanyak \nsebesar \nKRW35.000.000.000,00 (tiga puluh lima miliar won) pada akhir \nHari. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia memiliki SNA \nWon di Bank X, Bank Y, dan Bank Z yang ketiganya merupakan \nBank ACCD Korea Selatan. Pada akhir Hari tanggal 31 Juli 2025, \ntotal saldo keseluruhan SNA Won Bank A di Bank X, Bank Y, dan \nBank Z sebesar KRW50.000.000.000,00 (lima puluh miliar won). \nSaldo \nSNA \nWon \ntersebut \ndapat \nmelebihi \nlimit \nKRW35.000.000.000,00 (tiga puluh lima miliar won) sepanjang \nBank A memiliki dokumen yang menyatakan bahwa kelebihan \nsaldo tersebut akan digunakan untuk membayar kewajiban impor \nkepada eksportir di Korea Selatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia memiliki SNA \nWon di Bank X, Bank Y, dan Bank Z yang ketiganya merupakan \nBank ACCD Korea Selatan. Total saldo keseluruhan di Bank X, \nBank \nY, \ndan \nBank \nZ \npaling \nbanyak \nsebesar \nKRW35.000.000.000,00 (tiga puluh lima miliar won) pada akhir \nHari. \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia memiliki SNA \nWon di Bank X, Bank Y, dan Bank Z yang ketiganya merupakan \nBank ACCD Korea Selatan. Pada akhir Hari tanggal 31 Juli 2025, \ntotal saldo keseluruhan SNA Won Bank A di Bank X, Bank Y, dan \nBank Z sebesar KRW50.000.000.000,00 (lima puluh miliar won). \nSaldo \nSNA \nWon \ntersebut \ndapat \nmelebihi \nlimit \nKRW35.000.000.000,00 (tiga puluh lima miliar won) sepanjang \nBank A memiliki dokumen yang menyatakan bahwa kelebihan \nsaldo tersebut akan digunakan untuk membayar kewajiban impor \nkepada eksportir di Korea Selatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia melakukan \ninvestasi pada surat berharga negara Korea Selatan sebesar \nKRW30.000.000,00 (tiga puluh juta won) dengan kupon 3% (tiga \npersen) per tahun. Berdasarkan investasi tersebut, pada saat \njatuh waktu pembayaran kupon, Bank A menerima kupon secara \ntriwulanan sebesar KRW225.000,00 (dua ratus dua puluh lima \nribu won). Penerimaan kupon tersebut dapat ditransfer ke SNA \nWon milik Bank A.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia melakukan \ninvestasi pada surat berharga negara Korea Selatan sebesar \nKRW30.000.000,00 (tiga puluh juta won) dengan kupon 3% (tiga \npersen) per tahun. Berdasarkan investasi tersebut, pada saat \njatuh waktu pembayaran kupon, Bank A menerima kupon secara \ntriwulanan sebesar KRW225.000,00 (dua ratus dua puluh lima \nribu won). Penerimaan kupon tersebut dapat ditransfer ke SNA \nWon milik Bank A."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Perhitungan posisi transaksi swap rupiah terhadap won atau valuta \nasing dapat dilakukan secara netting. \nYang dimaksud dengan “netting” adalah penyelesaian transaksi yang \ndilakukan tanpa pemindahan dana pokok secara penuh sehingga yang \nbergerak hanya sejumlah dana yang merupakan hasil perhitungan \nnominal transaksi (notional) dengan selisih kurs.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Perhitungan posisi transaksi swap rupiah terhadap won atau valuta \nasing dapat dilakukan secara netting. \nYang dimaksud dengan “netting” adalah penyelesaian transaksi yang \ndilakukan tanpa pemindahan dana pokok secara penuh sehingga yang \nbergerak hanya sejumlah dana yang merupakan hasil perhitungan \nnominal transaksi (notional) dengan selisih kurs."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nContoh: \nBank X yang merupakan Bank ACCD Korea Selatan, melakukan \nperintah Nasabah B yang merupakan Nasabah Indonesia melalui \nBank C yang merupakan Bank ACCD Indonesia, untuk \nmelakukan investasi berupa pembelian surat berharga negara di \nKorea Selatan sebesar KRW200.000.000,00 (dua ratus juta won) \nmenggunakan saldo Sub-SNA Won. \nAyat (3) \nContoh: \nNasabah A yang merupakan Nasabah Indonesia bermaksud \nuntuk menjual saham perusahaan Korea Selatan sebesar \nKRW10.000.000,00 (sepuluh juta won). Dana hasil penjualan \nsaham tersebut dapat ditransfer kembali ke Sub-SNA Won milik \nnasabah A pada Bank ACCD Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nContoh: \nBank X yang merupakan Bank ACCD Korea Selatan, melakukan \nperintah Nasabah B yang merupakan Nasabah Indonesia melalui \nBank C yang merupakan Bank ACCD Indonesia, untuk \nmelakukan investasi berupa pembelian surat berharga negara di \nKorea Selatan sebesar KRW200.000.000,00 (dua ratus juta won) \nmenggunakan saldo Sub-SNA Won. \nAyat (3) \nContoh: \nNasabah A yang merupakan Nasabah Indonesia bermaksud \nuntuk menjual saham perusahaan Korea Selatan sebesar \nKRW10.000.000,00 (sepuluh juta won). Dana hasil penjualan \nsaham tersebut dapat ditransfer kembali ke Sub-SNA Won milik \nnasabah A pada Bank ACCD Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia bertambah sebesar KRW10.000.000,00 (sepuluh juta \nwon) karena menerima hasil penjualan barang ekspor kepada \nimportir di Korea Selatan. \nHuruf b \nTransaksi spot termasuk transaksi today dan tomorrow. \nContoh: \nNasabah Indonesia melakukan transaksi spot beli KRW/IDR \nsebesar KRW10.000.000,00 (sepuluh juta won) dengan Bank \nACCD \nIndonesia untuk \npembayaran perdagangan kepada \nNasabah Korea Selatan. \nBerdasarkan transaksi tersebut, saldo Sub-SNA Won milik \nNasabah Indonesia bertambah \nsebesar \nKRW10.000.000,00  \n(sepuluh juta won). \nHuruf c \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia bertambah sebesar KRW10.000,00 (sepuluh ribu won) \nkarena memperoleh bunga dari rata-rata saldo Sub-SNA Won. \n \n\n\n \n \n \nHuruf d \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia bertambah sebesar KRW1.000.000,00 (satu juta won) \nkarena menerima pencairan dana dari fasilitas Pembiayaan. \nHuruf e \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia bertambah sebesar KRW10.000.000,00 (sepuluh juta \nwon) karena menerima hasil penjualan barang ekspor kepada \nimportir di Korea Selatan. \nHuruf b \nTransaksi spot termasuk transaksi today dan tomorrow. \nContoh: \nNasabah Indonesia melakukan transaksi spot beli KRW/IDR \nsebesar KRW10.000.000,00 (sepuluh juta won) dengan Bank \nACCD \nIndonesia untuk \npembayaran perdagangan kepada \nNasabah Korea Selatan. \nBerdasarkan transaksi tersebut, saldo Sub-SNA Won milik \nNasabah Indonesia bertambah \nsebesar \nKRW10.000.000,00  \n(sepuluh juta won). \nHuruf c \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia bertambah sebesar KRW10.000,00 (sepuluh ribu won) \nkarena memperoleh bunga dari rata-rata saldo Sub-SNA Won. \n \n\n\n \n \n \nHuruf d \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia bertambah sebesar KRW1.000.000,00 (satu juta won) \nkarena menerima pencairan dana dari fasilitas Pembiayaan. \nHuruf e \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia berkurang sebesar KRW10.000.000,00 (sepuluh juta \nwon) karena digunakan untuk membayar pembelian barang \nimpor kepada eksportir di Korea Selatan. \nHuruf b \nLihat penjelasan Pasal 19 huruf b. \nContoh: \nNasabah Indonesia melakukan transaksi spot jual KRW/IDR \nsebesar KRW10.000.000,00 (sepuluh juta won) dengan Bank \nACCD Indonesia untuk mengkonversi devisa hasil ekspor dalam \nwon. Berdasarkan transaksi tersebut, saldo Sub-SNA Won milik \nNasabah \nIndonesia \nberkurang \nsebesar \nKRW10.000.000,00 \n(sepuluh juta won). \nHuruf c \nContoh: \nSaldo Sub-SNA Won milik PT Y yang merupakan Nasabah \nIndonesia berkurang sebesar KRW1.000.000,00 (satu juta won) \nkarena digunakan untuk melunasi fasilitas Pembiayaan. \nHuruf d \nContoh: \nPT D yang merupakan Nasabah Indonesia melakukan pembelian \nsurat berharga atau obligasi pemerintah Korea Selatan sebesar \nKRW10.000.000,00 (sepuluh juta won). Berdasarkan transaksi \ntersebut, saldo Sub-SNA Won milik PT D berkurang sebesar \nKRW10.000.000,00 (sepuluh juta won).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nContoh: \nSaldo Sub-SNA Won milik PT A yang merupakan Nasabah \nIndonesia berkurang sebesar KRW10.000.000,00 (sepuluh juta \nwon) karena digunakan untuk membayar pembelian barang \nimpor kepada eksportir di Korea Selatan. \nHuruf b \nLihat penjelasan Pasal 19 huruf b. \nContoh: \nNasabah Indonesia melakukan transaksi spot jual KRW/IDR \nsebesar KRW10.000.000,00 (sepuluh juta won) dengan Bank \nACCD Indonesia untuk mengkonversi devisa hasil ekspor dalam \nwon. Berdasarkan transaksi tersebut, saldo Sub-SNA Won milik \nNasabah \nIndonesia \nberkurang \nsebesar \nKRW10.000.000,00 \n(sepuluh juta won). \nHuruf c \nContoh: \nSaldo Sub-SNA Won milik PT Y yang merupakan Nasabah \nIndonesia berkurang sebesar KRW1.000.000,00 (satu juta won) \nkarena digunakan untuk melunasi fasilitas Pembiayaan. \nHuruf d \nContoh: \nPT D yang merupakan Nasabah Indonesia melakukan pembelian \nsurat berharga atau obligasi pemerintah Korea Selatan sebesar \nKRW10.000.000,00 (sepuluh juta won). Berdasarkan transaksi \ntersebut, saldo Sub-SNA Won milik PT D berkurang sebesar \nKRW10.000.000,00 (sepuluh juta won)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nNasabah Korea Selatan yang dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia merupakan \nNasabah Korea Selatan yang memiliki saldo yang berasal dari \nkegiatan Underlying Transaksi. \nAyat (2) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia, melakukan \nperintah Nasabah X yang merupakan Nasabah Korea Selatan \nmelalui Bank Y yang merupakan Bank ACCD Korea Selatan, \nuntuk melakukan investasi berupa pembelian surat berharga \nnegara (SBN) di Indonesia sebesar Rp100.000.000.000,00 \n(seratus miliar rupiah) menggunakan saldo Sub-SNA Rupiah. \n \n \n \n \n \n\n\n \n \n \nAyat (3) \nContoh: \nEksportir X di Korea Selatan memiliki saldo Sub-SNA Rupiah \nsebesar Rp1.000.000.000,00 (satu miliar rupiah) yang dananya \nberasal dari devisa hasil ekspor. \nBerdasarkan saldo Sub-SNA Rupiah tersebut, eksportir X dapat \nmelakukan pembelian surat berharga negara (SBN) di Indonesia \nsebesar Rp500.000.000,00 (lima ratus juta rupiah). \nEnam bulan kemudian, eksportir X bermaksud untuk menjual  \nsurat berharga negara (SBN) tersebut. \nDana hasil penjualan surat berharga negara (SBN) tersebut dapat \nditransfer kembali ke Sub-SNA Rupiah eksportir X pada Bank \nACCD Korea Selatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nNasabah Korea Selatan yang dapat melakukan investasi pada \ninstrumen keuangan dalam rupiah di Indonesia merupakan \nNasabah Korea Selatan yang memiliki saldo yang berasal dari \nkegiatan Underlying Transaksi. \nAyat (2) \nContoh: \nBank A yang merupakan Bank ACCD Indonesia, melakukan \nperintah Nasabah X yang merupakan Nasabah Korea Selatan \nmelalui Bank Y yang merupakan Bank ACCD Korea Selatan, \nuntuk melakukan investasi berupa pembelian surat berharga \nnegara (SBN) di Indonesia sebesar Rp100.000.000.000,00 \n(seratus miliar rupiah) menggunakan saldo Sub-SNA Rupiah. \n \n \n \n \n \n\n\n \n \n \nAyat (3) \nContoh: \nEksportir X di Korea Selatan memiliki saldo Sub-SNA Rupiah \nsebesar Rp1.000.000.000,00 (satu miliar rupiah) yang dananya \nberasal dari devisa hasil ekspor. \nBerdasarkan saldo Sub-SNA Rupiah tersebut, eksportir X dapat \nmelakukan pembelian surat berharga negara (SBN) di Indonesia \nsebesar Rp500.000.000,00 (lima ratus juta rupiah). \nEnam bulan kemudian, eksportir X bermaksud untuk menjual  \nsurat berharga negara (SBN) tersebut. \nDana hasil penjualan surat berharga negara (SBN) tersebut dapat \nditransfer kembali ke Sub-SNA Rupiah eksportir X pada Bank \nACCD Korea Selatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenyelesaian transaksi dalam kerangka Transaksi Bilateral \nRupiah dan Won termasuk penyelesaian Underlying Transaksi \ndan penyelesaian investasi pada instrumen keuangan dalam \nrupiah di Indonesia. \nAyat (2) \nNon-SNA Rupiah mencakup rekening milik Bank atau milik \nNasabah Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenyelesaian transaksi dalam kerangka Transaksi Bilateral \nRupiah dan Won termasuk penyelesaian Underlying Transaksi \ndan penyelesaian investasi pada instrumen keuangan dalam \nrupiah di Indonesia. \nAyat (2) \nNon-SNA Rupiah mencakup rekening milik Bank atau milik \nNasabah Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “tujuan transaksi” adalah tujuan sebagaimana \ntercantum dalam Underlying Transaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “tujuan transaksi” adalah tujuan sebagaimana \ntercantum dalam Underlying Transaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nNasabah Indonesia melakukan pembelian barang dari Nasabah \nKorea Selatan sebesar USD100.000,00 (seratus ribu dolar \nAmerika Serikat). Nasabah Indonesia dan Nasabah Korea Selatan \nkemudian sepakat bahwa pembayaran juga dapat dilakukan \ndalam mata uang won. Nasabah Indonesia kemudian membuka \nletter of credit di Bank A yang merupakan Bank ACCD Indonesia \nuntuk pembayaran tagihan sebesar KRW135.000.000,00 (seratus \ntiga puluh lima juta won) yang ekuivalen USD100.000,00 (seratus \nribu dolar Amerika Serikat). \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nNasabah Indonesia melakukan pembelian barang dari Nasabah \nKorea Selatan sebesar USD100.000,00 (seratus ribu dolar \nAmerika Serikat). Nasabah Indonesia dan Nasabah Korea Selatan \nkemudian sepakat bahwa pembayaran juga dapat dilakukan \ndalam mata uang won. Nasabah Indonesia kemudian membuka \nletter of credit di Bank A yang merupakan Bank ACCD Indonesia \nuntuk pembayaran tagihan sebesar KRW135.000.000,00 (seratus \ntiga puluh lima juta won) yang ekuivalen USD100.000,00 (seratus \nribu dolar Amerika Serikat). \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nLihat penjelasan Pasal 19 huruf b.  \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nYang dimaksud dengan “squaring position” adalah transaksi \nyang \ndilakukan \noleh \nBank \nACCD \nIndonesia \nuntuk \nmenihilkan posisi terbuka yang timbul dari transaksi \nsebelumnya. \nContoh: \nBank B yang merupakan Bank ACCD Indonesia memiliki \nposisi short dalam mata uang won sebesar KRW1.000.000,00 \n(satu juta won), dapat melakukan squaring position dengan \nBank X yang merupakan non-Bank ACCD Korea Selatan \nberupa \ntransaksi \nforward \nbeli \nKRW/IDR \nsebesar \nKRW1.000.000,00 (satu juta won).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nLihat penjelasan Pasal 19 huruf b.  \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nYang dimaksud dengan “squaring position” adalah transaksi \nyang \ndilakukan \noleh \nBank \nACCD \nIndonesia \nuntuk \nmenihilkan posisi terbuka yang timbul dari transaksi \nsebelumnya. \nContoh: \nBank B yang merupakan Bank ACCD Indonesia memiliki \nposisi short dalam mata uang won sebesar KRW1.000.000,00 \n(satu juta won), dapat melakukan squaring position dengan \nBank X yang merupakan non-Bank ACCD Korea Selatan \nberupa \ntransaksi \nforward \nbeli \nKRW/IDR \nsebesar \nKRW1.000.000,00 (satu juta won)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTermasuk dalam manajemen likuiditas adalah pengelolaan saldo \nSNA Won. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk dalam manajemen likuiditas adalah pengelolaan saldo \nSNA Won. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nJumlah \ntertentu \n(threshold) \nsebesar \nekuivalen \nUSD500.000,00 (lima ratus ribu dolar Amerika Serikat) per \ntransaksi juga berlaku untuk transfer rupiah dan won. \nContoh: \nBank B yang merupakan non-Bank ACCD Indonesia, untuk \nkepentingan importir A yang merupakan Nasabah Indonesia \nyang akan melakukan pembayaran pembelian barang \nkepada eksportir di Korea Selatan, melakukan pembelian \nKRW/IDR melalui transaksi spot sebesar KRW500.000,00 \n(lima ratus ribu won) atau setara USD31.700,00 (tiga puluh \nsatu ribu tujuh ratus dolar Amerika Serikat) kepada Bank C \nyang \nmerupakan \nBank \nACCD \nIndonesia. \nPembelian \nKRW/IDR oleh Bank B tersebut tidak perlu dibuktikan \ndengan dokumen Underlying Transaksi dari importir A. \nHuruf b \nCukup jelas. \nAyat (4) \nContoh: \nImportir B yang merupakan Nasabah Indonesia sesuai kontrak \npenjualan (sales contract) memiliki kewajiban kepada eksportir di \nKorea Selatan yang akan jatuh waktu 1 (satu) bulan sebesar \nKRW740.000.000,00 (tujuh ratus empat puluh juta won) atau \nsetara USD550.000,00 (lima ratus lima puluh ribu dolar Amerika \nSerikat). Berdasarkan Underlying Transaksi tersebut maka \nimportir B dapat melakukan transaksi pembelian KRW/IDR \nmelalui \ntransaksi \nforward \npaling \nbanyak \nsebesar \nKRW740.000.000,00 (tujuh ratus empat puluh juta won) dengan \njangka waktu paling lama 1 (satu) bulan. \nAyat (5) \nContoh: \nImportir C yang merupakan Nasabah Indonesia bermaksud untuk \nmelunasi tagihan dari eksportir X yang merupakan Nasabah \nKorea Selatan sebesar USD1.000.000,00 (satu juta dolar Amerika \nSerikat) atau ekuivalen sebesar KRW1.350.000.000,00 (satu \nmiliar tiga ratus lima puluh juta won) dengan kurs USD/KRW \nsebesar 1.350. Berdasarkan tagihan tersebut, importir C dapat \nmelakukan pembelian KRW/IDR melalui transaksi spot sebesar \nKRW1.350.000.000,00 (satu miliar tiga ratus lima puluh juta \nwon).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas.  \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nJumlah \ntertentu \n(threshold) \nsebesar \nekuivalen \nUSD500.000,00 (lima ratus ribu dolar Amerika Serikat) per \ntransaksi juga berlaku untuk transfer rupiah dan won. \nContoh: \nBank B yang merupakan non-Bank ACCD Indonesia, untuk \nkepentingan importir A yang merupakan Nasabah Indonesia \nyang akan melakukan pembayaran pembelian barang \nkepada eksportir di Korea Selatan, melakukan pembelian \nKRW/IDR melalui transaksi spot sebesar KRW500.000,00 \n(lima ratus ribu won) atau setara USD31.700,00 (tiga puluh \nsatu ribu tujuh ratus dolar Amerika Serikat) kepada Bank C \nyang \nmerupakan \nBank \nACCD \nIndonesia. \nPembelian \nKRW/IDR oleh Bank B tersebut tidak perlu dibuktikan \ndengan dokumen Underlying Transaksi dari importir A. \nHuruf b \nCukup jelas. \nAyat (4) \nContoh: \nImportir B yang merupakan Nasabah Indonesia sesuai kontrak \npenjualan (sales contract) memiliki kewajiban kepada eksportir di \nKorea Selatan yang akan jatuh waktu 1 (satu) bulan sebesar \nKRW740.000.000,00 (tujuh ratus empat puluh juta won) atau \nsetara USD550.000,00 (lima ratus lima puluh ribu dolar Amerika \nSerikat). Berdasarkan Underlying Transaksi tersebut maka \nimportir B dapat melakukan transaksi pembelian KRW/IDR \nmelalui \ntransaksi \nforward \npaling \nbanyak \nsebesar \nKRW740.000.000,00 (tujuh ratus empat puluh juta won) dengan \njangka waktu paling lama 1 (satu) bulan. \nAyat (5) \nContoh: \nImportir C yang merupakan Nasabah Indonesia bermaksud untuk \nmelunasi tagihan dari eksportir X yang merupakan Nasabah \nKorea Selatan sebesar USD1.000.000,00 (satu juta dolar Amerika \nSerikat) atau ekuivalen sebesar KRW1.350.000.000,00 (satu \nmiliar tiga ratus lima puluh juta won) dengan kurs USD/KRW \nsebesar 1.350. Berdasarkan tagihan tersebut, importir C dapat \nmelakukan pembelian KRW/IDR melalui transaksi spot sebesar \nKRW1.350.000.000,00 (satu miliar tiga ratus lima puluh juta \nwon)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nContoh: \nPada tanggal 2 Desember 2025, nasabah A yang merupakan \nNasabah Indonesia melakukan transaksi forward beli \nKRW/IDR dengan Bank B yang merupakan Bank ACCD \nIndonesia dengan jangka waktu 3 (tiga) bulan sampai dengan \ntanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah A \nmendapat informasi bahwa pengapalan barang oleh penjual \ndi luar negeri mengalami keterlambatan selama 1 (satu) \nbulan \nsehingga \njatuh \nwaktu \nUnderlying \nTransaksi \npembayaran mundur menjadi tanggal 2 April 2026. Untuk \nmemperpanjang transaksi tersebut, pada \ntanggal 26 \nFebruari 2026 nasabah A dapat melakukan perpanjangan \ntransaksi (roll over) dengan Bank B dari yang sebelumnya \njatuh waktu pada tanggal 2 Maret 2026 menjadi tanggal 2 \nApril 2026.  \nHuruf b \nContoh: \nPada tanggal 2 Desember 2025, nasabah A yang merupakan \nNasabah Indonesia melakukan transaksi forward beli \nKRW/IDR dengan Bank B yang merupakan Bank ACCD \nIndonesia dengan jangka waktu 3 (tiga) bulan sampai dengan \ntanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah A \nmendapat informasi bahwa pengapalan barang oleh penjual \ndi luar negeri dapat dipercepat 1 (satu) bulan, sehingga jatuh \nwaktu pembayaran dimajukan menjadi pada tanggal 2 \nFebruari 2026. Untuk percepatan penyelesaian transaksi \ntersebut, pada tanggal 29 Januari 2026 nasabah A dapat \nmelakukan pengakhiran awal (early termination) dengan \nBank B dari yang sebelumnya jatuh waktu pada tanggal 2 \nMaret 2026 menjadi tanggal 2 Februari 2026. \nHuruf c \nContoh: \nPada tanggal 2 Desember 2025, nasabah A yang merupakan \nNasabah Indonesia melakukan transaksi forward beli \nKRW/IDR dengan Bank B yang merupakan Bank ACCD \nIndonesia dengan jangka waktu 3 (tiga) bulan sampai dengan \ntanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah A \nmendapat informasi bahwa terjadi force majeure sehingga \ntransaksi jual beli dibatalkan oleh penjual di luar negeri. \nBerdasarkan hal tersebut, nasabah A dapat melakukan \npengakhiran \ntransaksi \n(unwind) \ndengan \nmelakukan \ntransaksi forward jual dengan Bank B. \nAyat (2) \nLihat penjelasan Pasal 15.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nContoh: \nPada tanggal 2 Desember 2025, nasabah A yang merupakan \nNasabah Indonesia melakukan transaksi forward beli \nKRW/IDR dengan Bank B yang merupakan Bank ACCD \nIndonesia dengan jangka waktu 3 (tiga) bulan sampai dengan \ntanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah A \nmendapat informasi bahwa pengapalan barang oleh penjual \ndi luar negeri mengalami keterlambatan selama 1 (satu) \nbulan \nsehingga \njatuh \nwaktu \nUnderlying \nTransaksi \npembayaran mundur menjadi tanggal 2 April 2026. Untuk \nmemperpanjang transaksi tersebut, pada \ntanggal 26 \nFebruari 2026 nasabah A dapat melakukan perpanjangan \ntransaksi (roll over) dengan Bank B dari yang sebelumnya \njatuh waktu pada tanggal 2 Maret 2026 menjadi tanggal 2 \nApril 2026.  \nHuruf b \nContoh: \nPada tanggal 2 Desember 2025, nasabah A yang merupakan \nNasabah Indonesia melakukan transaksi forward beli \nKRW/IDR dengan Bank B yang merupakan Bank ACCD \nIndonesia dengan jangka waktu 3 (tiga) bulan sampai dengan \ntanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah A \nmendapat informasi bahwa pengapalan barang oleh penjual \ndi luar negeri dapat dipercepat 1 (satu) bulan, sehingga jatuh \nwaktu pembayaran dimajukan menjadi pada tanggal 2 \nFebruari 2026. Untuk percepatan penyelesaian transaksi \ntersebut, pada tanggal 29 Januari 2026 nasabah A dapat \nmelakukan pengakhiran awal (early termination) dengan \nBank B dari yang sebelumnya jatuh waktu pada tanggal 2 \nMaret 2026 menjadi tanggal 2 Februari 2026. \nHuruf c \nContoh: \nPada tanggal 2 Desember 2025, nasabah A yang merupakan \nNasabah Indonesia melakukan transaksi forward beli \nKRW/IDR dengan Bank B yang merupakan Bank ACCD \nIndonesia dengan jangka waktu 3 (tiga) bulan sampai dengan \ntanggal 2 Maret 2026. Sebelum jatuh waktu, nasabah A \nmendapat informasi bahwa terjadi force majeure sehingga \ntransaksi jual beli dibatalkan oleh penjual di luar negeri. \nBerdasarkan hal tersebut, nasabah A dapat melakukan \npengakhiran \ntransaksi \n(unwind) \ndengan \nmelakukan \ntransaksi forward jual dengan Bank B. \nAyat (2) \nLihat penjelasan Pasal 15."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 15. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 15. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 32 ayat (2) huruf e.  \nAyat (2) \nLihat penjelasan Pasal 32 ayat (2) huruf e.  \nHuruf a \nLihat penjelasan Pasal 15. \nContoh: \nImportir A yang merupakan Nasabah Indonesia melakukan \npembelian KRW/IDR kepada Bank B yang merupakan Bank \nACCD \nIndonesia \nmelalui \ntransaksi \nspot \nsebesar \nKRW1.500.000,00 \n(satu juta \nlima ratus \nribu \nwon). \nKemudian, eksportir C yang merupakan Nasabah Indonesia \nmelakukan penjualan KRW/IDR melalui transaksi spot \nsebesar KRW500.000,00 (lima ratus ribu won) kepada Bank \nB. Berdasarkan transaksi tersebut, Bank B dapat melakukan \nsquaring \nposition \nsecara \nnetting \ndengan \nmelakukan \npembelian KRW/IDR kepada Bank ACCD lainnya sebesar \nKRW1.000.000,00 (satu juta won) yang merupakan selisih \ndari KRW1.500.000,00 (satu juta lima ratus ribu won) dan \nKRW500.000,00 (lima ratus ribu won) \ntanpa \ndokumen \nUnderlying Transaksi. \n \nHuruf b \nContoh: \nImportir A yang merupakan Nasabah Indonesia melakukan \ntransaksi spot beli KRW/IDR kepada Bank C yang \nmerupakan Bank ACCD Indonesia melalui transaksi spot \nsebesar KRW1.500.000,00 (satu juta lima ratus ribu won). \nEksportir B yang merupakan Nasabah Indonesia juga \nmelakukan penjualan KRW/IDR melalui transaksi spot \nsebesar KRW500.000,00 (lima ratus ribu won) kepada               \nBank C. Berdasarkan transaksi tersebut, Bank C harus \nmelakukan squaring position secara penuh (gross) dengan \nmelakukan \ntransaksi \nspot \nbeli \nKRW/IDR \nsebesar \nKRW1.500.000,00 (satu juta lima ratus ribu won) dan \ntransaksi spot jual KRW/IDR sebesar KRW500.000,00 (lima \nratus ribu won) dengan non-Bank ACCD Korea Selatan \ndisertai dengan dokumen Underlying Transaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 32 ayat (2) huruf e.  \nAyat (2) \nLihat penjelasan Pasal 32 ayat (2) huruf e.  \nHuruf a \nLihat penjelasan Pasal 15. \nContoh: \nImportir A yang merupakan Nasabah Indonesia melakukan \npembelian KRW/IDR kepada Bank B yang merupakan Bank \nACCD \nIndonesia \nmelalui \ntransaksi \nspot \nsebesar \nKRW1.500.000,00 \n(satu juta \nlima ratus \nribu \nwon). \nKemudian, eksportir C yang merupakan Nasabah Indonesia \nmelakukan penjualan KRW/IDR melalui transaksi spot \nsebesar KRW500.000,00 (lima ratus ribu won) kepada Bank \nB. Berdasarkan transaksi tersebut, Bank B dapat melakukan \nsquaring \nposition \nsecara \nnetting \ndengan \nmelakukan \npembelian KRW/IDR kepada Bank ACCD lainnya sebesar \nKRW1.000.000,00 (satu juta won) yang merupakan selisih \ndari KRW1.500.000,00 (satu juta lima ratus ribu won) dan \nKRW500.000,00 (lima ratus ribu won) \ntanpa \ndokumen \nUnderlying Transaksi. \n \nHuruf b \nContoh: \nImportir A yang merupakan Nasabah Indonesia melakukan \ntransaksi spot beli KRW/IDR kepada Bank C yang \nmerupakan Bank ACCD Indonesia melalui transaksi spot \nsebesar KRW1.500.000,00 (satu juta lima ratus ribu won). \nEksportir B yang merupakan Nasabah Indonesia juga \nmelakukan penjualan KRW/IDR melalui transaksi spot \nsebesar KRW500.000,00 (lima ratus ribu won) kepada               \nBank C. Berdasarkan transaksi tersebut, Bank C harus \nmelakukan squaring position secara penuh (gross) dengan \nmelakukan \ntransaksi \nspot \nbeli \nKRW/IDR \nsebesar \nKRW1.500.000,00 (satu juta lima ratus ribu won) dan \ntransaksi spot jual KRW/IDR sebesar KRW500.000,00 (lima \nratus ribu won) dengan non-Bank ACCD Korea Selatan \ndisertai dengan dokumen Underlying Transaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 32 ayat (2) huruf e.  \nAyat (2) \nLihat penjelasan Pasal 32 ayat (2) huruf e. \nHuruf a \nCukup jelas. \n \n \n \n \n \n \n \n \n\n\n \n \n \nHuruf b \nLihat penjelasan Pasal 15. \nContoh: \nNasabah X yang merupakan Nasabah Korea Selatan \nmelakukan penjualan KRW/IDR kepada Bank M yang \nmerupakan Bank ACCD Korea Selatan melalui transaksi spot \nsebesar Rp1.000.000.000,00 (satu miliar rupiah). Kemudian, \nnasabah Y yang merupakan Nasabah Korea Selatan \nmelakukan pembelian KRW/IDR melalui transaksi spot \nsebesar Rp600.000.000,00 (enam ratus juta rupiah) kepada \nBank M. Berdasarkan transaksi tersebut, Bank M dapat \nmelakukan \nsquaring \nposition \nsecara \nnetting \ndengan \nmelakukan penjualan KRW/IDR kepada Bank \nACCD \nIndonesia melalui transaksi spot sebesar Rp400.000.000,00 \n(empat ratus juta rupiah) yang merupakan selisih dari \nRp1.000.000.000,00 \n(satu \nmiliar \nrupiah) \ndikurangi \nRp600.000.000,00 (enam ratus juta rupiah). \nAyat (3) \nLihat penjelasan Pasal 32 ayat (2) huruf e.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 32 ayat (2) huruf e.  \nAyat (2) \nLihat penjelasan Pasal 32 ayat (2) huruf e. \nHuruf a \nCukup jelas. \n \n \n \n \n \n \n \n \n\n\n \n \n \nHuruf b \nLihat penjelasan Pasal 15. \nContoh: \nNasabah X yang merupakan Nasabah Korea Selatan \nmelakukan penjualan KRW/IDR kepada Bank M yang \nmerupakan Bank ACCD Korea Selatan melalui transaksi spot \nsebesar Rp1.000.000.000,00 (satu miliar rupiah). Kemudian, \nnasabah Y yang merupakan Nasabah Korea Selatan \nmelakukan pembelian KRW/IDR melalui transaksi spot \nsebesar Rp600.000.000,00 (enam ratus juta rupiah) kepada \nBank M. Berdasarkan transaksi tersebut, Bank M dapat \nmelakukan \nsquaring \nposition \nsecara \nnetting \ndengan \nmelakukan penjualan KRW/IDR kepada Bank \nACCD \nIndonesia melalui transaksi spot sebesar Rp400.000.000,00 \n(empat ratus juta rupiah) yang merupakan selisih dari \nRp1.000.000.000,00 \n(satu \nmiliar \nrupiah) \ndikurangi \nRp600.000.000,00 (enam ratus juta rupiah). \nAyat (3) \nLihat penjelasan Pasal 32 ayat (2) huruf e."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas.  \nHuruf c \nTermasuk Underlying Transaksi lainnya yaitu sewa dan pajak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas.  \nHuruf c \nTermasuk Underlying Transaksi lainnya yaitu sewa dan pajak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat final” adalah dokumen yang mengikat secara hukum \n(legally binding) yang menunjukkan kewajiban untuk \nmembayar atau hak untuk menerima pembayaran dengan \njumlah nominal yang tidak berubah. \nHuruf b \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat perkiraan” adalah dokumen yang menunjukkan \nperkiraan \nbesarnya \nkebutuhan \npembayaran \natau \npenerimaan berdasarkan data historis. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat final” adalah dokumen yang mengikat secara hukum \n(legally binding) yang menunjukkan kewajiban untuk \nmembayar atau hak untuk menerima pembayaran dengan \njumlah nominal yang tidak berubah. \nHuruf b \nYang dimaksud dengan “dokumen Underlying Transaksi yang \nbersifat perkiraan” adalah dokumen yang menunjukkan \nperkiraan \nbesarnya \nkebutuhan \npembayaran \natau \npenerimaan berdasarkan data historis. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nJenis dokumen Underlying Transaksi yang bersifat perkiraan \nadalah dokumen terkait dengan rencana penerimaan atau \nkebutuhan pembayaran transaksi berjalan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nJenis dokumen Underlying Transaksi yang bersifat perkiraan \nadalah dokumen terkait dengan rencana penerimaan atau \nkebutuhan pembayaran transaksi berjalan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “cross border payment” adalah transaksi \npembayaran antara payor dan payee yang tunduk pada yurisdiksi \nnegara yang berbeda. \nCross border payment dapat berupa Quick Response Payment dan \nmetode cross border payment lainnya.  \nQuick \nResponse \nPayment \ndapat \nmendukung \nkegiatan \nperdagangan ritel dan transaksi pendapatan sekunder. \nAyat (2) \nYang dimaksud dengan “penyelenggara infrastruktur sistem \npembayaran” \nadalah \npihak \nyang \ntelah \nmendapatkan \nizin/penetapan \nuntuk \nmenyelenggarakan \nkegiatan \nsistem \npembayaran mengacu pada ketentuan Bank Indonesia mengenai \nsistem pembayaran.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “cross border payment” adalah transaksi \npembayaran antara payor dan payee yang tunduk pada yurisdiksi \nnegara yang berbeda. \nCross border payment dapat berupa Quick Response Payment dan \nmetode cross border payment lainnya.  \nQuick \nResponse \nPayment \ndapat \nmendukung \nkegiatan \nperdagangan ritel dan transaksi pendapatan sekunder. \nAyat (2) \nYang dimaksud dengan “penyelenggara infrastruktur sistem \npembayaran” \nadalah \npihak \nyang \ntelah \nmendapatkan \nizin/penetapan \nuntuk \nmenyelenggarakan \nkegiatan \nsistem \npembayaran mengacu pada ketentuan Bank Indonesia mengenai \nsistem pembayaran."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 19 huruf b. \nContoh: \nBank ACCD Indonesia melakukan transaksi spot KRW/IDR \ndengan Nasabah Indonesia atau non-Bank ACCD Indonesia. Non-\nBank ACCD Indonesia wajib menyampaikan dokumen Underlying \nTransaksi antara lain letter of credit atau invoice yang \nmenunjukkan transaksi perdagangan antara Indonesia dan Korea \nSelatan. \n \nAyat (2) \nContoh: \nBank ACCD Indonesia melakukan transaksi forward KRW/IDR \ndengan Nasabah Indonesia. Bank ACCD Indonesia wajib meminta \nNasabah Indonesia untuk menyampaikan dokumen Underlying \nTransaksi yang bersifat final atau bersifat perkiraan. Dokumen \nyang bersifat final antara lain letter of credit atau invoice. \nSedangkan dokumen yang bersifat perkiraan berupa laporan \nkeuangan proforma (cash flow projection) yang menunjukkan \nperkiraan penerimaan atau kebutuhan pembayaran. \nAyat (3) \nContoh: \nPada tanggal 1 Desember 2025, Bank ACCD Indonesia melakukan \ntransaksi forward KRW/IDR dengan Nasabah Indonesia dengan \ntenor 1 (satu) tahun untuk keperluan impor dari Korea Selatan. \nDengan demikian Nasabah Indonesia memiliki waktu paling \nlambat hingga tanggal penyelesaian transaksi (settlement date) \nyaitu tanggal 1 Desember 2026 untuk memberikan dokumen \nUnderlying Transaksi kepada Bank ACCD Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 19 huruf b. \nContoh: \nBank ACCD Indonesia melakukan transaksi spot KRW/IDR \ndengan Nasabah Indonesia atau non-Bank ACCD Indonesia. Non-\nBank ACCD Indonesia wajib menyampaikan dokumen Underlying \nTransaksi antara lain letter of credit atau invoice yang \nmenunjukkan transaksi perdagangan antara Indonesia dan Korea \nSelatan. \n \nAyat (2) \nContoh: \nBank ACCD Indonesia melakukan transaksi forward KRW/IDR \ndengan Nasabah Indonesia. Bank ACCD Indonesia wajib meminta \nNasabah Indonesia untuk menyampaikan dokumen Underlying \nTransaksi yang bersifat final atau bersifat perkiraan. Dokumen \nyang bersifat final antara lain letter of credit atau invoice. \nSedangkan dokumen yang bersifat perkiraan berupa laporan \nkeuangan proforma (cash flow projection) yang menunjukkan \nperkiraan penerimaan atau kebutuhan pembayaran. \nAyat (3) \nContoh: \nPada tanggal 1 Desember 2025, Bank ACCD Indonesia melakukan \ntransaksi forward KRW/IDR dengan Nasabah Indonesia dengan \ntenor 1 (satu) tahun untuk keperluan impor dari Korea Selatan. \nDengan demikian Nasabah Indonesia memiliki waktu paling \nlambat hingga tanggal penyelesaian transaksi (settlement date) \nyaitu tanggal 1 Desember 2026 untuk memberikan dokumen \nUnderlying Transaksi kepada Bank ACCD Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kuotasi harga won terhadap rupiah” \nadalah:  \na. \nkuotasi spot; dan  \nb. \nkuotasi forward, dalam hal dibutuhkan. \nYang dimaksud dengan “sarana penyedia informasi” antara lain \nsarana yang disediakan oleh Refinitiv, Bloomberg, dan/atau \nsarana lain yang dapat diakses oleh publik. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenetapan kuotasi harga dapat mempertimbangkan harga acuan \nyang dipublikasikan pada laman resmi Bank Indonesia dan/atau \nmedia lain yang ditetapkan oleh Bank Indonesia. \nHuruf a \nCukup jelas. \nHuruf b \nKuotasi \nyang \ndapat \nditransaksikan atau \ndieksekusi \ndilakukan dengan mengacu pada manajemen risiko Bank \nACCD Indonesia. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kuotasi harga won terhadap rupiah” \nadalah:  \na. \nkuotasi spot; dan  \nb. \nkuotasi forward, dalam hal dibutuhkan. \nYang dimaksud dengan “sarana penyedia informasi” antara lain \nsarana yang disediakan oleh Refinitiv, Bloomberg, dan/atau \nsarana lain yang dapat diakses oleh publik. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenetapan kuotasi harga dapat mempertimbangkan harga acuan \nyang dipublikasikan pada laman resmi Bank Indonesia dan/atau \nmedia lain yang ditetapkan oleh Bank Indonesia. \nHuruf a \nCukup jelas. \nHuruf b \nKuotasi \nyang \ndapat \nditransaksikan atau \ndieksekusi \ndilakukan dengan mengacu pada manajemen risiko Bank \nACCD Indonesia. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nKetentuan Bank Indonesia mengenai pelaporan antara lain \nketentuan Bank Indonesia mengenai laporan bank umum \nterintegrasi dan ketentuan Bank Indonesia mengenai laporan lalu \nlintas devisa.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nKetentuan Bank Indonesia mengenai pelaporan antara lain \nketentuan Bank Indonesia mengenai laporan bank umum \nterintegrasi dan ketentuan Bank Indonesia mengenai laporan lalu \nlintas devisa."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nData dan informasi dalam laporan insidental antara lain transaksi \nvaluta asing won terhadap rupiah, posisi saldo SNA Won, transfer \ndana, posisi saldo dan mutasi Sub-SNA Won, posisi Pembiayaan, \ndan saldo dan mutasi SNA Rupiah \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nData dan informasi dalam laporan insidental antara lain transaksi \nvaluta asing won terhadap rupiah, posisi saldo SNA Won, transfer \ndana, posisi saldo dan mutasi Sub-SNA Won, posisi Pembiayaan, \ndan saldo dan mutasi SNA Rupiah \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nKetentuan Bank Indonesia mengenai pelaporan antara lain \nketentuan Bank Indonesia mengenai laporan bank umum \nterintegrasi dan ketentuan Bank Indonesia mengenai laporan lalu \nlintas devisa. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nKetentuan Bank Indonesia mengenai pelaporan antara lain \nketentuan Bank Indonesia mengenai laporan bank umum \nterintegrasi dan ketentuan Bank Indonesia mengenai laporan lalu \nlintas devisa. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \n \n \n \n\n\nLAMPIRAN I \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 10 TAHUN 2024 \nTANGGAL 18 SEPTEMBER 2024 \nTENTANG    \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA \nINDONESIA DAN KOREA SELATAN MENGGUNAKAN \nRUPIAH DAN WON \n \nCONTOH SURAT PERMOHONAN UNTUK MENJADI BANK ACCD INDONESIA  \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Permohonan Sebagai Bank ACCD Indonesia \n \n \nDengan ini kami mengajukan permohonan menjadi Bank ACCD Indonesia \ndalam rangka pelaksanaan Transaksi Bilateral Rupiah dan Won untuk \nmemenuhi ketentuan dalam Peraturan Bank Indonesia Nomor 22/12/PBI/2020 \ntentang Penyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal \nmelalui Bank sebagaimana telah diubah dengan Peraturan Bank Indonesia \nNomor 23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia \nNomor \n22/12/PBI/2020 \ntentang \nPenyelesaian \nTransaksi \nBilateral \nMenggunakan \nMata \nUang \nLokal \nmelalui \nBank, \nbeserta \nperaturan \npelaksanaannya. Kami menyatakan berminat dan siap secara operasional untuk \nditunjuk sebagai Bank ACCD Indonesia.  \nSehubungan dengan hal tersebut, kami mengusulkan calon mitra Bank \nACCD Korea Selatan yaitu (... diisi dengan nama calon mitra di Korea Selatan). \nSurat permohonan ini kami buat dengan sebenar-benarnya dan apabila \ndi kemudian hari diketahui terdapat hal-hal yang tidak benar maka kami \nbersedia menerima segala tindakan yang diambil oleh Bank Indonesia. \nDemikian agar maklum dan atas perhatiannya kami ucapkan terima \nkasih. \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n\n\nLAMPIRAN II \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 10 TAHUN 2024 \nTANGGAL 18 SEPTEMBER 2024 \nTENTANG    \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA \nINDONESIA DAN KOREA SELATAN MENGGUNAKAN \nRUPIAH DAN WON \n \n \nCONTOH SURAT PEMBERITAHUAN RENCANA AKSI KORPORASI/PROSES \nPENCABUTAN IZIN USAHA *) BANK ACCD INDONESIA  \n \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Pemberitahuan Rencana Aksi Korporasi/Proses Pencabutan Izin \nUsaha*) Bank ACCD Indonesia \n \n \nSehubungan dengan penunjukan kami sebagai Bank ACCD Indonesia \ndan menunjuk Peraturan Bank Indonesia Nomor 22/12/PBI/2020 tentang \nPenyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal melalui Bank \nsebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor \n23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia Nomor \n22/12/PBI/2020 tentang Penyelesaian Transaksi Bilateral Menggunakan Mata \nUang Lokal melalui Bank beserta peraturan pelaksanaannya, bersama ini kami \nmemberitahukan \nbahwa \nBank \nkami \nberencana \nmelakukan \nAksi \nKorporasi/sedang dalam proses pencabutan izin usaha*). \nSehubungan dengan hal tersebut, bersama ini kami lampirkan dokumen \npendukung antara lain hasil rapat umum pemegang saham terkait rencana Aksi \nKorporasi/pencabutan izin usaha*). \nDemikian kami sampaikan dan atas perhatiannya kami mengucapkan \nterima kasih. \n \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n*) pilih salah satu \n\n\nLAMPIRAN III \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 10 TAHUN 2024  \nTANGGAL 18 SEPTEMBER 2024 \nTENTANG    \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA \nINDONESIA DAN KOREA SELATAN MENGGUNAKAN \nRUPIAH DAN WON \n \nDOKUMEN UNDERLYING TRANSAKSI  \n \nA. \nDokumen Underlying Transaksi yang bersifat final antara lain terdiri atas: \n1. \nLetter of Credit (L/C) dan perubahan L/C, standby L/C, Trust Receipt, \natau letter of guarantee;  \n2. \ndokumen yang bersifat tagihan atau yang menimbulkan kewajiban \npembayaran, antara lain: \na. invoice atau commercial invoice dengan masa berlaku sampai \ndengan tanggal jatuh waktu (due date) invoice atau commercial \ninvoice dimaksud.  \nDalam hal invoice tidak memiliki tanggal jatuh waktu maka invoice \ntersebut dapat digunakan maksimal 3 (tiga) bulan sejak tanggal \npenerbitan;  \nb. nota debit (debit note) yang informasi di dalamnya dapat \ndiverifikasi;  \nc. sales contract/kontrak penjualan yang memiliki masa berlaku dan \nnominal yang sesuai dengan yang tercantum dalam kontrak; dan \nd. list of invoices yang didukung oleh pernyataan nasabah yang berisi: \n1) validitas list dimaksud; \n2) tanggung jawab nasabah untuk mengadministrasikan invoices \ndimaksud; dan \n3) komitmen penyediaan invoices apabila dibutuhkan oleh Bank; \n3. \nfotokopi Pemberitahuan Impor Barang (PIB);  \n4. \nfotokopi Pemberitahuan Ekspor Barang (PEB); \n5. \nbukti dokumen yang menunjukkan adanya kebutuhan remitansi; \n6. \nfotokopi kontrak jasa konsultan; \n7. \nfotokopi surat perjanjian kerja atau dokumen pendukung lain antara \ntenaga kerja asing yang bersangkutan dengan badan usaha, termasuk \nbukti penerimaan dalam rupiah seperti slip gaji tenaga kerja asing; \n8. \nbukti penerimaan dalam rupiah atau won yang dimiliki oleh nasabah \nuntuk kebutuhan repatriasi, antara lain berupa slip gaji, dan hasil \nkegiatan perdagangan barang dan jasa; \n9. \nbukti penerimaan dan pembayaran imbal hasil surat berharga; \n10. bukti pembagian dividen dan bukti hasil investasi lainnya; \n11. risalah rapat umum pemegang saham dan tambahan dokumen lain \nyang menggambarkan besarnya nominal untuk pembayaran dividen \nke pemegang saham di Korea Selatan. \n12. \nFaktur pajak/tax invoice atas perdagangan barang dan jasa dan/atau \nkegiatan investasi.  \n13. Dokumen tagihan atau kewajiban pembayaran sewa. \n14. Dokumen pembiayaan yang ditujukan untuk mendukung pemenuhan \nkebutuhan dana dalam rangka Transaksi Bilateral Rupiah dan Won, \nberupa:  \na. surat perjanjian pembiayaan (loan agreement) atau dokumen \nterkait \nlainnya \nyang \nmenunjukkan \njadwal \ndan \njumlah \npembayaran; dan  \n\n\n \nb. bukti pencairan pembiayaan, antara lain mutasi rekening dari \nkreditur kepada debitur, perintah transfer dana, seperti MT 103 \ndan formulir permohonan pengiriman uang yang telah divalidasi.  \n \nB. \nDokumen Underlying Transaksi berupa perkiraan antara lain terdiri atas: \n1. \nproyeksi arus kas (cash flow) untuk kegiatan perdagangan barang dan \njasa (ekspor-impor), yang disusun oleh nasabah dan ditandatangani \noleh pejabat berwenang dari nasabah. Proyeksi tersebut paling sedikit \nberisi rincian secara bulanan mengenai penerimaan dan pengeluaran \nvaluta asing secara gross; \n2. \ndokumen pembelian antara lain berupa purchase order yang telah \ndikonfirmasi oleh penjual dan selanjutnya dilengkapi dengan bukti \npengiriman barang;  \n3. \nproforma invoice;  \n4. \npurchase agreement; \n5. \nperkiraan penerimaan dan pembayaran dividen, atau hasil investasi \nyang didasarkan pada data historis paling sedikit 1 (satu) tahun \nsebelumnya; dan \n6. \nperkiraan: \na. biaya sekolah dan biaya hidup di luar negeri;  \nb. biaya berobat dan akomodasi;  \nc. biaya perjalanan dan akomodasi; dan \nd. penerimaan dan pembayaran gaji yang akan dilakukan remitansi, \nyang ditandatangani oleh nasabah Transaksi Bilateral Rupiah dan \nWon di Indonesia. \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \n \nTTD \n \nDESTRY DAMAYANTI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \n \n \n \n\n\nLAMPIRAN I \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 10 TAHUN 2024 \nTANGGAL 18 SEPTEMBER 2024 \nTENTANG    \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA \nINDONESIA DAN KOREA SELATAN MENGGUNAKAN \nRUPIAH DAN WON \n \nCONTOH SURAT PERMOHONAN UNTUK MENJADI BANK ACCD INDONESIA  \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Permohonan Sebagai Bank ACCD Indonesia \n \n \nDengan ini kami mengajukan permohonan menjadi Bank ACCD Indonesia \ndalam rangka pelaksanaan Transaksi Bilateral Rupiah dan Won untuk \nmemenuhi ketentuan dalam Peraturan Bank Indonesia Nomor 22/12/PBI/2020 \ntentang Penyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal \nmelalui Bank sebagaimana telah diubah dengan Peraturan Bank Indonesia \nNomor 23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia \nNomor \n22/12/PBI/2020 \ntentang \nPenyelesaian \nTransaksi \nBilateral \nMenggunakan \nMata \nUang \nLokal \nmelalui \nBank, \nbeserta \nperaturan \npelaksanaannya. Kami menyatakan berminat dan siap secara operasional untuk \nditunjuk sebagai Bank ACCD Indonesia.  \nSehubungan dengan hal tersebut, kami mengusulkan calon mitra Bank \nACCD Korea Selatan yaitu (... diisi dengan nama calon mitra di Korea Selatan). \nSurat permohonan ini kami buat dengan sebenar-benarnya dan apabila \ndi kemudian hari diketahui terdapat hal-hal yang tidak benar maka kami \nbersedia menerima segala tindakan yang diambil oleh Bank Indonesia. \nDemikian agar maklum dan atas perhatiannya kami ucapkan terima \nkasih. \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n\n\nLAMPIRAN II \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 10 TAHUN 2024 \nTANGGAL 18 SEPTEMBER 2024 \nTENTANG    \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA \nINDONESIA DAN KOREA SELATAN MENGGUNAKAN \nRUPIAH DAN WON \n \n \nCONTOH SURAT PEMBERITAHUAN RENCANA AKSI KORPORASI/PROSES \nPENCABUTAN IZIN USAHA *) BANK ACCD INDONESIA  \n \n \nKepada \n1. Departemen Internasional \n2. Departemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat - 10350 \n \nPerihal :   Pemberitahuan Rencana Aksi Korporasi/Proses Pencabutan Izin \nUsaha*) Bank ACCD Indonesia \n \n \nSehubungan dengan penunjukan kami sebagai Bank ACCD Indonesia \ndan menunjuk Peraturan Bank Indonesia Nomor 22/12/PBI/2020 tentang \nPenyelesaian Transaksi Bilateral Menggunakan Mata Uang Lokal melalui Bank \nsebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor \n23/9/PBI/2021 tentang Perubahan atas Peraturan Bank Indonesia Nomor \n22/12/PBI/2020 tentang Penyelesaian Transaksi Bilateral Menggunakan Mata \nUang Lokal melalui Bank beserta peraturan pelaksanaannya, bersama ini kami \nmemberitahukan \nbahwa \nBank \nkami \nberencana \nmelakukan \nAksi \nKorporasi/sedang dalam proses pencabutan izin usaha*). \nSehubungan dengan hal tersebut, bersama ini kami lampirkan dokumen \npendukung antara lain hasil rapat umum pemegang saham terkait rencana Aksi \nKorporasi/pencabutan izin usaha*). \nDemikian kami sampaikan dan atas perhatiannya kami mengucapkan \nterima kasih. \n \n \nKota, Tanggal/Bulan/Tahun \nHormat Kami, \nTanda Tangan dan Cap Perusahaan \nNama Jelas \n(Direktur/Pejabat yang berwenang) \n \n \n \nANGGOTA DEWAN GUBERNUR, \n \n \nTTD \n \nDESTRY DAMAYANTI \n \n \n*) pilih salah satu \n\n\nLAMPIRAN III \nPERATURAN \nANGGOTA \nDEWAN \nGUBERNUR \nNOMOR 10 TAHUN 2024  \nTANGGAL 18 SEPTEMBER 2024 \nTENTANG    \nPENYELESAIAN TRANSAKSI BILATERAL ANTARA \nINDONESIA DAN KOREA SELATAN MENGGUNAKAN \nRUPIAH DAN WON \n \nDOKUMEN UNDERLYING TRANSAKSI  \n \nA. \nDokumen Underlying Transaksi yang bersifat final antara lain terdiri atas: \n1. \nLetter of Credit (L/C) dan perubahan L/C, standby L/C, Trust Receipt, \natau letter of guarantee;  \n2. \ndokumen yang bersifat tagihan atau yang menimbulkan kewajiban \npembayaran, antara lain: \na. invoice atau commercial invoice dengan masa berlaku sampai \ndengan tanggal jatuh waktu (due date) invoice atau commercial \ninvoice dimaksud.  \nDalam hal invoice tidak memiliki tanggal jatuh waktu maka invoice \ntersebut dapat digunakan maksimal 3 (tiga) bulan sejak tanggal \npenerbitan;  \nb. nota debit (debit note) yang informasi di dalamnya dapat \ndiverifikasi;  \nc. sales contract/kontrak penjualan yang memiliki masa berlaku dan \nnominal yang sesuai dengan yang tercantum dalam kontrak; dan \nd. list of invoices yang didukung oleh pernyataan nasabah yang berisi: \n1) validitas list dimaksud; \n2) tanggung jawab nasabah untuk mengadministrasikan invoices \ndimaksud; dan \n3) komitmen penyediaan invoices apabila dibutuhkan oleh Bank; \n3. \nfotokopi Pemberitahuan Impor Barang (PIB);  \n4. \nfotokopi Pemberitahuan Ekspor Barang (PEB); \n5. \nbukti dokumen yang menunjukkan adanya kebutuhan remitansi; \n6. \nfotokopi kontrak jasa konsultan; \n7. \nfotokopi surat perjanjian kerja atau dokumen pendukung lain antara \ntenaga kerja asing yang bersangkutan dengan badan usaha, termasuk \nbukti penerimaan dalam rupiah seperti slip gaji tenaga kerja asing; \n8. \nbukti penerimaan dalam rupiah atau won yang dimiliki oleh nasabah \nuntuk kebutuhan repatriasi, antara lain berupa slip gaji, dan hasil \nkegiatan perdagangan barang dan jasa; \n9. \nbukti penerimaan dan pembayaran imbal hasil surat berharga; \n10. bukti pembagian dividen dan bukti hasil investasi lainnya; \n11. risalah rapat umum pemegang saham dan tambahan dokumen lain \nyang menggambarkan besarnya nominal untuk pembayaran dividen \nke pemegang saham di Korea Selatan. \n12. \nFaktur pajak/tax invoice atas perdagangan barang dan jasa dan/atau \nkegiatan investasi.  \n13. Dokumen tagihan atau kewajiban pembayaran sewa. \n14. Dokumen pembiayaan yang ditujukan untuk mendukung pemenuhan \nkebutuhan dana dalam rangka Transaksi Bilateral Rupiah dan Won, \nberupa:  \na. surat perjanjian pembiayaan (loan agreement) atau dokumen \nterkait \nlainnya \nyang \nmenunjukkan \njadwal \ndan \njumlah \npembayaran; dan  \n\n\n \nb. bukti pencairan pembiayaan, antara lain mutasi rekening dari \nkreditur kepada debitur, perintah transfer dana, seperti MT 103 \ndan formulir permohonan pengiriman uang yang telah divalidasi.  \n \nB. \nDokumen Underlying Transaksi berupa perkiraan antara lain terdiri atas: \n1. \nproyeksi arus kas (cash flow) untuk kegiatan perdagangan barang dan \njasa (ekspor-impor), yang disusun oleh nasabah dan ditandatangani \noleh pejabat berwenang dari nasabah. Proyeksi tersebut paling sedikit \nberisi rincian secara bulanan mengenai penerimaan dan pengeluaran \nvaluta asing secara gross; \n2. \ndokumen pembelian antara lain berupa purchase order yang telah \ndikonfirmasi oleh penjual dan selanjutnya dilengkapi dengan bukti \npengiriman barang;  \n3. \nproforma invoice;  \n4. \npurchase agreement; \n5. \nperkiraan penerimaan dan pembayaran dividen, atau hasil investasi \nyang didasarkan pada data historis paling sedikit 1 (satu) tahun \nsebelumnya; dan \n6. \nperkiraan: \na. biaya sekolah dan biaya hidup di luar negeri;  \nb. biaya berobat dan akomodasi;  \nc. biaya perjalanan dan akomodasi; dan \nd. penerimaan dan pembayaran gaji yang akan dilakukan remitansi, \nyang ditandatangani oleh nasabah Transaksi Bilateral Rupiah dan \nWon di Indonesia. \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n \n \n \n \n \n \n \n \nTTD \n \nDESTRY DAMAYANTI"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 102,
+  "total_ayat": 183,
+  "total_karakter": 68833,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

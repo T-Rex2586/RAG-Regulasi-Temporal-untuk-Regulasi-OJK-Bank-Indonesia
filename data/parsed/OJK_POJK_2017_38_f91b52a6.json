@@ -1,0 +1,595 @@
+{
+  "doc_id": "OJK_POJK_2017_38_f91b52a6",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "38",
+  "tahun": "2017",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 38/POJK.03/2017 tentang Penerapan Manajemen Risiko secara Konsolidasi bagi Bank yang Melakukan Pengendalian Terhadap Perusahaan Anak",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "12 Juli 2017",
+  "tanggal_berlaku": "diundangkan (12 Juli 2017)",
+  "diundangkan_pada": "12 Juli 2017",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "SISTEM INFORMASI DAN PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN KUALITAS ASET"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERHITUNGAN BATAS MAKSIMUM PEMBERIAN KREDIT"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGELOLAAN PERUSAHAAN ANAK"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN DAN PROFIL RISIKO BANK"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENETAPAN STATUS DAN TINDAK LANJUT PENGAWASAN BANK"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, dan Bank Umum Syariah \nsebagaimana dimaksud dalam Undang-Undang Nomor 21 \nTahun 2008 tentang Perbankan Syariah. \n2. \nPengendalian \nadalah \norang \nperseorangan \natau \nperusahaan atau badan, baik secara sendiri maupun \nbersama-sama baik langsung maupun tidak langsung \nyang memiliki saham 50% (lima puluh persen), atau \nkurang dari 50% (lima puluh persen) yang memiliki hak \nsuara pada suatu perusahaan atau badan lain tetapi: \na. \nterdapat perjanjian dengan pemegang saham lain, \nsehingga memiliki hak suara lebih dari 50% (lima \npuluh persen); \nb. \nmempunyai kewenangan untuk mengatur kebijakan \nkeuangan dan operasional perusahaan atau badan \nlain berdasarkan anggaran dasar atau perjanjian; \nc. \nmempunyai kewenangan untuk menunjuk atau \nmengganti \nsebagian \nbesar \ndireksi \ndan \ndewan \nkomisaris \natau \norgan \nlain \nyang \nsetara \ndan \nmengendalikan perusahaan atau badan lain melalui \ndireksi dan dewan komisaris atau organ lain; \ndan/atau \nd. \nmampu menguasai suara mayoritas pada rapat \ndireksi dan dewan komisaris atau organ lain yang \nsetara dan mengendalikan perusahaan atau badan \nmelalui direksi dan dewan komisaris atau organ lain. \n\n\n \n3. \nPerusahaan Anak adalah badan hukum atau perusahaan \nyang dimiliki dan/atau dikendalikan oleh Bank secara \nlangsung maupun tidak langsung, baik di dalam maupun \ndi luar negeri, yang memenuhi kriteria sebagaimana \ndiatur dalam Peraturan Otoritas Jasa Keuangan ini. \n4. \nKewajiban Penyediaan Modal Minimum yang selanjutnya \ndisingkat KPMM adalah KPMM sebagaimana dimaksud \ndalam ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai kewajiban penyediaan  modal minimum bank \numum dan ketentuan Otoritas Jasa Keuangan yang \nmengatur \nmengenai \nkewajiban \npenyediaan \nmodal \nminimum bank umum syariah. \n5. \nBatas Maksimum Pemberian Kredit yang selanjutnya \ndisingkat BMPK adalah BMPK sebagaimana dimaksud \ndalam \nketentuan \nperaturan \nperundang-undangan \nmengenai batas maksimum pemberian kredit bank \numum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah Bank Umum sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, dan Bank Umum Syariah \nsebagaimana dimaksud dalam Undang-Undang Nomor 21 \nTahun 2008 tentang Perbankan Syariah. \n2. \nPengendalian \nadalah \norang \nperseorangan \natau \nperusahaan atau badan, baik secara sendiri maupun \nbersama-sama baik langsung maupun tidak langsung \nyang memiliki saham 50% (lima puluh persen), atau \nkurang dari 50% (lima puluh persen) yang memiliki hak \nsuara pada suatu perusahaan atau badan lain tetapi: \na. \nterdapat perjanjian dengan pemegang saham lain, \nsehingga memiliki hak suara lebih dari 50% (lima \npuluh persen); \nb. \nmempunyai kewenangan untuk mengatur kebijakan \nkeuangan dan operasional perusahaan atau badan \nlain berdasarkan anggaran dasar atau perjanjian; \nc. \nmempunyai kewenangan untuk menunjuk atau \nmengganti \nsebagian \nbesar \ndireksi \ndan \ndewan \nkomisaris \natau \norgan \nlain \nyang \nsetara \ndan \nmengendalikan perusahaan atau badan lain melalui \ndireksi dan dewan komisaris atau organ lain; \ndan/atau \nd. \nmampu menguasai suara mayoritas pada rapat \ndireksi dan dewan komisaris atau organ lain yang \nsetara dan mengendalikan perusahaan atau badan \nmelalui direksi dan dewan komisaris atau organ lain. \n\n\n \n3. \nPerusahaan Anak adalah badan hukum atau perusahaan \nyang dimiliki dan/atau dikendalikan oleh Bank secara \nlangsung maupun tidak langsung, baik di dalam maupun \ndi luar negeri, yang memenuhi kriteria sebagaimana \ndiatur dalam Peraturan Otoritas Jasa Keuangan ini. \n4. \nKewajiban Penyediaan Modal Minimum yang selanjutnya \ndisingkat KPMM adalah KPMM sebagaimana dimaksud \ndalam ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai kewajiban penyediaan  modal minimum bank \numum dan ketentuan Otoritas Jasa Keuangan yang \nmengatur \nmengenai \nkewajiban \npenyediaan \nmodal \nminimum bank umum syariah. \n5. \nBatas Maksimum Pemberian Kredit yang selanjutnya \ndisingkat BMPK adalah BMPK sebagaimana dimaksud \ndalam \nketentuan \nperaturan \nperundang-undangan \nmengenai batas maksimum pemberian kredit bank \numum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank yang memiliki dan/atau melakukan Pengendalian \nterhadap Perusahaan Anak wajib melakukan penerapan \nmanajemen risiko secara konsolidasi. \n(2) \nPenerapan \nmanajemen \nrisiko \nsecara \nkonsolidasi \nsebagaimana dimaksud pada ayat (1) tidak berlaku bagi \nPerusahaan Anak yang dimiliki dan/atau dikendalikan \noleh Bank karena adanya penyertaan modal sementara \ndalam rangka restrukturisasi kredit atau restrukturisasi \npembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang memiliki dan/atau melakukan Pengendalian \nterhadap Perusahaan Anak wajib melakukan penerapan \nmanajemen risiko secara konsolidasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan \nmanajemen \nrisiko \nsecara \nkonsolidasi \nsebagaimana dimaksud pada ayat (1) tidak berlaku bagi \nPerusahaan Anak yang dimiliki dan/atau dikendalikan \noleh Bank karena adanya penyertaan modal sementara \ndalam rangka restrukturisasi kredit atau restrukturisasi \npembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Perusahaan Anak sebagaimana dimaksud dalam Pasal 2    \nayat (1) adalah perusahaan yang melakukan kegiatan usaha \ndi bidang keuangan, yang terdiri atas:  \na. \nperusahaan \nsubsidiari \n(subsidiary \ncompany) \nyaitu \nPerusahaan Anak dengan kepemilikan Bank lebih dari \n50% (lima puluh persen); \n\n\n \nb. \nperusahaan partisipasi (participation company) adalah \nPerusahaan Anak dengan kepemilikan Bank 50% (lima \npuluh persen) atau kurang namun Bank memiliki \nPengendalian terhadap perusahaan; \nc. \nperusahaan dengan kepemilikan Bank lebih dari 20% \n(dua puluh persen) sampai dengan 50% (lima puluh \npersen) yang memenuhi persyaratan: \n1. \nkepemilikan Bank dan para pihak lain pada \nPerusahaan Anak masing-masing sama besar; dan \n2. \nmasing-masing pemilik melakukan Pengendalian \nsecara bersama terhadap Perusahaan Anak; dan \nd. \nentitas \nlain \nyang \nberdasarkan \nstandar \nakuntansi \nkeuangan diwajibkan untuk dikonsolidasikan. \n \nBAB II \nSISTEM INFORMASI DAN PELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Perusahaan Anak sebagaimana dimaksud dalam Pasal 2    \nayat (1) adalah perusahaan yang melakukan kegiatan usaha \ndi bidang keuangan, yang terdiri atas:  \na. \nperusahaan \nsubsidiari \n(subsidiary \ncompany) \nyaitu \nPerusahaan Anak dengan kepemilikan Bank lebih dari \n50% (lima puluh persen); \n\n\n \nb. \nperusahaan partisipasi (participation company) adalah \nPerusahaan Anak dengan kepemilikan Bank 50% (lima \npuluh persen) atau kurang namun Bank memiliki \nPengendalian terhadap perusahaan; \nc. \nperusahaan dengan kepemilikan Bank lebih dari 20% \n(dua puluh persen) sampai dengan 50% (lima puluh \npersen) yang memenuhi persyaratan: \n1. \nkepemilikan Bank dan para pihak lain pada \nPerusahaan Anak masing-masing sama besar; dan \n2. \nmasing-masing pemilik melakukan Pengendalian \nsecara bersama terhadap Perusahaan Anak; dan \nd. \nentitas \nlain \nyang \nberdasarkan \nstandar \nakuntansi \nkeuangan diwajibkan untuk dikonsolidasikan. \n \nBAB II \nSISTEM INFORMASI DAN PELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "SISTEM INFORMASI DAN PELAPORAN",
+      "teks_lengkap": "(1) \nBank wajib memiliki sistem yang dapat mengidentifikasi, \nmengukur, memantau, dan mengendalikan risiko usaha \ndari Bank dan Perusahaan Anak agar dapat menerapkan \nmanajemen risiko secara konsolidasi dengan efektif. \n (2) Sistem yang wajib dimiliki oleh Bank sebagaimana \ndimaksud pada ayat (1), paling sedikit meliputi: \na. \nsistem informasi akuntansi; dan \nb. \nsistem informasi manajemen risiko. \n \nBAB III \nPENILAIAN KUALITAS ASET",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki sistem yang dapat mengidentifikasi, \nmengukur, memantau, dan mengendalikan risiko usaha \ndari Bank dan Perusahaan Anak agar dapat menerapkan \nmanajemen risiko secara konsolidasi dengan efektif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sistem yang wajib dimiliki oleh Bank sebagaimana \ndimaksud pada ayat (1), paling sedikit meliputi: \na. \nsistem informasi akuntansi; dan \nb. \nsistem informasi manajemen risiko. \n \nBAB III \nPENILAIAN KUALITAS ASET"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN KUALITAS ASET",
+      "teks_lengkap": "Untuk \nkepentingan \npenyusunan \nlaporan \nkeuangan \nkonsolidasi dan perhitungan KPMM, Bank wajib melakukan \npenilaian \nkualitas \naset \ndan \nmembentuk \npenyisihan \npenghapusan aset untuk seluruh aset Perusahaan Anak \npaling sedikit sesuai dengan ketentuan peraturan perundang-\nundangan mengenai penilaian kualitas aset bank umum dan \n\n\n \nketentuan Otoritas Jasa Keuangan yang mengatur mengenai \npenilaian kualitas aset bank umum syariah dan unit usaha \nsyariah.  \n \nBAB IV \nPERHITUNGAN BATAS MAKSIMUM PEMBERIAN KREDIT",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk \nkepentingan \npenyusunan \nlaporan \nkeuangan \nkonsolidasi dan perhitungan KPMM, Bank wajib melakukan \npenilaian \nkualitas \naset \ndan \nmembentuk \npenyisihan \npenghapusan aset untuk seluruh aset Perusahaan Anak \npaling sedikit sesuai dengan ketentuan peraturan perundang-\nundangan mengenai penilaian kualitas aset bank umum dan \n\n\n \nketentuan Otoritas Jasa Keuangan yang mengatur mengenai \npenilaian kualitas aset bank umum syariah dan unit usaha \nsyariah.  \n \nBAB IV \nPERHITUNGAN BATAS MAKSIMUM PEMBERIAN KREDIT"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERHITUNGAN BATAS MAKSIMUM PEMBERIAN KREDIT",
+      "teks_lengkap": "(1) \nBank wajib memenuhi ketentuan peraturan perundang-\nundangan mengenai batas maksimum pemberian kredit \nbank umum baik untuk penyediaan dana Bank secara \nindividu maupun untuk penyediaan dana Bank dan \nPerusahaan Anak secara konsolidasi. \n(2) \nDalam perhitungan BMPK untuk penyediaan dana Bank \ndan Perusahaan Anak secara konsolidasi: \na. \npenyediaan dana dari Perusahaan Anak kepada \ndebitur Bank wajib diperhitungkan sebagai satu \nkesatuan dengan penyediaan dana Bank; dan \nb. \nkomponen \nmodal \nmenggunakan \nmodal \nsecara \nkonsolidasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memenuhi ketentuan peraturan perundang-\nundangan mengenai batas maksimum pemberian kredit \nbank umum baik untuk penyediaan dana Bank secara \nindividu maupun untuk penyediaan dana Bank dan \nPerusahaan Anak secara konsolidasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam perhitungan BMPK untuk penyediaan dana Bank \ndan Perusahaan Anak secara konsolidasi: \na. \npenyediaan dana dari Perusahaan Anak kepada \ndebitur Bank wajib diperhitungkan sebagai satu \nkesatuan dengan penyediaan dana Bank; dan \nb. \nkomponen \nmodal \nmenggunakan \nmodal \nsecara \nkonsolidasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERHITUNGAN BATAS MAKSIMUM PEMBERIAN KREDIT",
+      "teks_lengkap": "Penyertaan \npada \nPerusahaan \nAnak \noleh \nBank \nyang  \nmelakukan penerapan manajemen risiko secara konsolidasi, \ntidak \ndiperhitungkan \nsebagai \npenyediaan \ndana \ndalam \nperhitungan BMPK. \n \nBAB V \nPENGELOLAAN PERUSAHAAN ANAK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyertaan \npada \nPerusahaan \nAnak \noleh \nBank \nyang  \nmelakukan penerapan manajemen risiko secara konsolidasi, \ntidak \ndiperhitungkan \nsebagai \npenyediaan \ndana \ndalam \nperhitungan BMPK. \n \nBAB V \nPENGELOLAAN PERUSAHAAN ANAK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENGELOLAAN PERUSAHAAN ANAK",
+      "teks_lengkap": "(1) \nBank wajib memastikan pengurus yang mengelola \nPerusahaan Anak memiliki integritas yang baik. \n(2) \nKewajiban sebagaimana dimaksud pada ayat (1) tidak \nberlaku untuk pengurus yang mengelola Perusahaan \nAnak sebagaimana dimaksud dalam Pasal 3 huruf c. \n\n\n \n(3) \nDalam \nrangka \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (1), Bank wajib menyampaikan \ndaftar calon pengurus yang mengelola Perusahaan Anak \nyang diusulkan dalam Rapat Umum Pemegang Saham \n(RUPS) kepada Otoritas Jasa Keuangan. \n(4) \nLaporan sebagaimana dimaksud pada ayat (3) wajib \ndisampaikan paling lama 10 (sepuluh) hari kerja sebelum \npelaksanaan RUPS. \n \nBAB VI \nPENILAIAN TINGKAT KESEHATAN  \nDAN PROFIL RISIKO BANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memastikan pengurus yang mengelola \nPerusahaan Anak memiliki integritas yang baik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewajiban sebagaimana dimaksud pada ayat (1) tidak \nberlaku untuk pengurus yang mengelola Perusahaan \nAnak sebagaimana dimaksud dalam Pasal 3 huruf c."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nrangka \nmemenuhi \nketentuan \nsebagaimana \ndimaksud pada ayat (1), Bank wajib menyampaikan \ndaftar calon pengurus yang mengelola Perusahaan Anak \nyang diusulkan dalam Rapat Umum Pemegang Saham \n(RUPS) kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (3) wajib \ndisampaikan paling lama 10 (sepuluh) hari kerja sebelum \npelaksanaan RUPS. \n \nBAB VI \nPENILAIAN TINGKAT KESEHATAN  \nDAN PROFIL RISIKO BANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN DAN PROFIL RISIKO BANK",
+      "teks_lengkap": "(1) \nBank wajib melakukan penilaian tingkat kesehatan baik \nsecara individu maupun secara konsolidasi. \n(2) \nDalam hal terdapat perbedaan karakteristik usaha \nPerusahaan Anak dengan Bank, komponen tertentu \ndalam \npenilaian \ntingkat \nkesehatan \nBank \ndapat \ndisesuaikan untuk penilaian tingkat kesehatan secara \nkonsolidasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan penilaian tingkat kesehatan baik \nsecara individu maupun secara konsolidasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat perbedaan karakteristik usaha \nPerusahaan Anak dengan Bank, komponen tertentu \ndalam \npenilaian \ntingkat \nkesehatan \nBank \ndapat \ndisesuaikan untuk penilaian tingkat kesehatan secara \nkonsolidasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN DAN PROFIL RISIKO BANK",
+      "teks_lengkap": "(1) \nBank wajib menyusun dan menyampaikan laporan profil \nrisiko baik secara individu maupun secara konsolidasi. \n(2) \nDalam hal terdapat perbedaan karakteristik usaha \nPerusahaan Anak dengan Bank, parameter pengukuran \nrisiko tertentu dalam penyusunan profil risiko Bank \ndapat disesuaikan untuk penyusunan profil risiko secara \nkonsolidasi. \n \n \n \n \n \n \n \n\n\n \nBAB VII \nPENETAPAN STATUS DAN TINDAK LANJUT  \nPENGAWASAN BANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menyusun dan menyampaikan laporan profil \nrisiko baik secara individu maupun secara konsolidasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat perbedaan karakteristik usaha \nPerusahaan Anak dengan Bank, parameter pengukuran \nrisiko tertentu dalam penyusunan profil risiko Bank \ndapat disesuaikan untuk penyusunan profil risiko secara \nkonsolidasi. \n \n \n \n \n \n \n \n\n\n \nBAB VII \nPENETAPAN STATUS DAN TINDAK LANJUT  \nPENGAWASAN BANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENETAPAN STATUS DAN TINDAK LANJUT PENGAWASAN BANK",
+      "teks_lengkap": "Ketentuan Peraturan Otoritas Jasa Keuangan mengenai \npenetapan status dan tindak lanjut pengawasan bank umum \nditerapkan bagi Bank secara individu dan bagi Bank secara \nkonsolidasi. \n \nBAB VIII \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan Peraturan Otoritas Jasa Keuangan mengenai \npenetapan status dan tindak lanjut pengawasan bank umum \nditerapkan bagi Bank secara individu dan bagi Bank secara \nkonsolidasi. \n \nBAB VIII \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank \nwajib \nmenyampaikan \nlaporan \nkeuangan \nPerusahaan Anak secara daring (online) sesuai dengan \nformat dan ketentuan yang ditetapkan oleh Otoritas Jasa \nKeuangan \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan. \n(2) \nDalam \nhal \npenyampaian \nlaporan \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, Bank \nmenyampaikan laporan secara daring (online) melalui \nsistem Laporan Bulanan Bank Umum, Laporan Stabilitas \nMoneter dan Sistem Keuangan Bulanan Bank Umum \nSyariah dan Unit Usaha Syariah, Laporan Berkala Bank \nUmum, atau Laporan Berkala Bank Umum Syariah dan \nUnit Usaha Syariah dengan mengacu pada ketentuan \nperaturan perundang-undangan. \n(3) \nDalam hal penyampaian laporan secara daring (online) \nsebagaimana dimaksud pada ayat (1) dan ayat (2) belum \ndapat dilakukan, Bank wajib menyampaikan laporan \nsecara luring (offline) setiap triwulanan untuk periode \nbulan Maret, bulan Juni, bulan September, dan bulan \nDesember yang meliputi: \na. \nlaporan penilaian kualitas aset secara konsolidasi; \n\n\n \nb. \nlaporan perhitungan Batas Maksimum Penyaluran \nDana (BMPD) secara konsolidasi bagi bank umum \nsyariah; dan \nc. \nlaporan profil risiko secara konsolidasi sebagaimana \ndimaksud dalam Pasal 10. \n(4) \nLaporan penilaian kualitas aset secara konsolidasi dan \nlaporan perhitungan BMPD secara konsolidasi bagi Bank \nUmum Syariah sebagaimana dimaksud pada ayat (3) \nhuruf a dan huruf b disampaikan paling lambat pada \ntanggal 15 bulan kedua setelah berakhirnya bulan \nlaporan yang bersangkutan. \n(5) \nDalam hal tanggal 15 jatuh pada hari Sabtu, hari \nMinggu, atau hari libur, laporan disampaikan pada hari \nkerja sebelumnya. \n(6) \nLaporan profil risiko secara konsolidasi sebagaimana \ndimaksud pada ayat (3) huruf c disampaikan paling lama \n30 (tiga puluh) hari setelah akhir bulan laporan. \n(7) \nBatas \nwaktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud pada ayat (6) bagi bank umum syariah \nmengacu pada ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi \nbank umum syariah dan unit usaha syariah. \n(8) \nLaporan \nsebagaimana \ndimaksud \npada \nayat \n(3) \ndisampaikan oleh Bank kepada Otoritas Jasa Keuangan \ndengan alamat: \na. \nDepartemen \nPengawasan \nBank \nterkait \natau \nDepartemen Perbankan Syariah, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank yang \nberkedudukan di luar negeri yang berada di wilayah \nProvinsi Daerah Khusus Ibukota Jakarta; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat sesuai dengan \nwilayah tempat kedudukan kantor pusat Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmenyampaikan \nlaporan \nkeuangan \nPerusahaan Anak secara daring (online) sesuai dengan \nformat dan ketentuan yang ditetapkan oleh Otoritas Jasa \nKeuangan \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \npenyampaian \nlaporan \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, Bank \nmenyampaikan laporan secara daring (online) melalui \nsistem Laporan Bulanan Bank Umum, Laporan Stabilitas \nMoneter dan Sistem Keuangan Bulanan Bank Umum \nSyariah dan Unit Usaha Syariah, Laporan Berkala Bank \nUmum, atau Laporan Berkala Bank Umum Syariah dan \nUnit Usaha Syariah dengan mengacu pada ketentuan \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal penyampaian laporan secara daring (online) \nsebagaimana dimaksud pada ayat (1) dan ayat (2) belum \ndapat dilakukan, Bank wajib menyampaikan laporan \nsecara luring (offline) setiap triwulanan untuk periode \nbulan Maret, bulan Juni, bulan September, dan bulan \nDesember yang meliputi: \na. \nlaporan penilaian kualitas aset secara konsolidasi; \n\n\n \nb. \nlaporan perhitungan Batas Maksimum Penyaluran \nDana (BMPD) secara konsolidasi bagi bank umum \nsyariah; dan \nc. \nlaporan profil risiko secara konsolidasi sebagaimana \ndimaksud dalam Pasal 10."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan penilaian kualitas aset secara konsolidasi dan \nlaporan perhitungan BMPD secara konsolidasi bagi Bank \nUmum Syariah sebagaimana dimaksud pada ayat (3) \nhuruf a dan huruf b disampaikan paling lambat pada \ntanggal 15 bulan kedua setelah berakhirnya bulan \nlaporan yang bersangkutan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal tanggal 15 jatuh pada hari Sabtu, hari \nMinggu, atau hari libur, laporan disampaikan pada hari \nkerja sebelumnya."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Laporan profil risiko secara konsolidasi sebagaimana \ndimaksud pada ayat (3) huruf c disampaikan paling lama \n30 (tiga puluh) hari setelah akhir bulan laporan."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Batas \nwaktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud pada ayat (6) bagi bank umum syariah \nmengacu pada ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi \nbank umum syariah dan unit usaha syariah."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Laporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "disampaikan oleh Bank kepada Otoritas Jasa Keuangan \ndengan alamat: \na. \nDepartemen \nPengawasan \nBank \nterkait \natau \nDepartemen Perbankan Syariah, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank yang \nberkedudukan di luar negeri yang berada di wilayah \nProvinsi Daerah Khusus Ibukota Jakarta; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau Kantor \nOtoritas Jasa Keuangan setempat sesuai dengan \nwilayah tempat kedudukan kantor pusat Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nDalam hal Bank memiliki dan/atau mengendalikan \nPerusahaan Anak yang melakukan kegiatan usaha \nasuransi: \na. \npenerapan manajemen risiko secara konsolidasi \nsebagaimana dimaksud dalam Pasal 2 ayat (1) \ndilakukan \nmelalui \npenilaian \ndan \npenyampaian \nlaporan \npenerapan \nmanajemen \nrisiko \npada \nperusahaan asuransi secara tersendiri; dan \nb. \nketentuan sebagaimana dimaksud dalam Pasal 5, \nPasal 6, Pasal 7, Pasal 9, Pasal 10, dan Pasal 12, \ntidak diterapkan. \n(2)  Laporan penilaian terhadap penerapan manajemen risiko \npada perusahaan asuransi sebagaimana dimaksud pada \nayat (1) huruf a wajib disampaikan secara triwulanan \nuntuk \nperiode \nbulan \nMaret, \nbulan \nJuni, \nbulan \nSeptember, dan bulan Desember, paling lama 30 (tiga \npuluh) hari setelah akhir bulan laporan. \n(3)  Penyampaian laporan penilaian terhadap penerapan \nmanajemen \nrisiko \npada \nperusahaan \nasuransi \nsebagaimana dimaksud pada ayat (2) mengacu pada \nketentuan dalam Pasal 12 ayat (8). \n \nBAB IX \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank memiliki dan/atau mengendalikan \nPerusahaan Anak yang melakukan kegiatan usaha \nasuransi: \na. \npenerapan manajemen risiko secara konsolidasi \nsebagaimana dimaksud dalam Pasal 2 ayat (1) \ndilakukan \nmelalui \npenilaian \ndan \npenyampaian \nlaporan \npenerapan \nmanajemen \nrisiko \npada \nperusahaan asuransi secara tersendiri; dan \nb. \nketentuan sebagaimana dimaksud dalam Pasal 5, \nPasal 6, Pasal 7, Pasal 9, Pasal 10, dan Pasal 12, \ntidak diterapkan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan penilaian terhadap penerapan manajemen risiko \npada perusahaan asuransi sebagaimana dimaksud pada \nayat (1) huruf a wajib disampaikan secara triwulanan \nuntuk \nperiode \nbulan \nMaret, \nbulan \nJuni, \nbulan \nSeptember, dan bulan Desember, paling lama 30 (tiga \npuluh) hari setelah akhir bulan laporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyampaian laporan penilaian terhadap penerapan \nmanajemen \nrisiko \npada \nperusahaan \nasuransi \nsebagaimana dimaksud pada ayat (2) mengacu pada \nketentuan dalam Pasal 12 ayat (8). \n \nBAB IX \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nPeningkatan \npenyertaan \nkarena \nakumulasi \nlaba \nPerusahaan Anak oleh Bank yang melakukan penerapan \nmanajemen \nrisiko \nsecara \nkonsolidasi, \ntidak \ndiperhitungkan dalam batasan portofolio penyertaan \nBank. \n(2) \nKetentuan sebagaimana dimaksud pada ayat (1) tidak \nditerapkan \ndalam \nhal \nBank \nmemiliki \ndan/atau \nmengendalikan \nPerusahaan \nAnak \nyang \nmelakukan \nkegiatan usaha asuransi. \n \n\n\n \nBAB X \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peningkatan \npenyertaan \nkarena \nakumulasi \nlaba \nPerusahaan Anak oleh Bank yang melakukan penerapan \nmanajemen \nrisiko \nsecara \nkonsolidasi, \ntidak \ndiperhitungkan dalam batasan portofolio penyertaan \nBank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan sebagaimana dimaksud pada ayat (1) tidak \nditerapkan \ndalam \nhal \nBank \nmemiliki \ndan/atau \nmengendalikan \nPerusahaan \nAnak \nyang \nmelakukan \nkegiatan usaha asuransi. \n \n\n\n \nBAB X \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2 ayat (1), Pasal 4, Pasal 5,    \nPasal 6, Pasal 8 ayat (1), Pasal 8 ayat (3), Pasal 8 ayat (4), \nPasal 9 ayat (1), dan/atau Pasal 10 ayat (1) dikenakan \nsanksi sesuai dengan ketentuan peraturan perundang-\nundangan \nterkait \ndan \ndapat \ndikenakan \nsanksi \nadministratif, berupa: \na. \nteguran tertulis; \nb. \npembekuan kegiatan usaha tertentu; dan/atau \nc. \npencantuman \nanggota \ndireksi, \nanggota \ndewan \nkomisaris, dan/atau pemegang saham Bank dalam \ndaftar pihak yang mendapat predikat Tidak Lulus \ndalam uji kemampuan dan kepatutan sebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-\nundangan mengenai uji kemampuan dan kepatutan \n(fit and proper test).   \n(2) \nBank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 12 ayat (1), Pasal 12 ayat (3), dan \nPasal 13 ayat (2) setelah batas akhir waktu penyampaian \nsebagaimana dimaksud dalam Pasal 12 ayat (4), Pasal 12 \nayat (6), dan Pasal 13 ayat (2) sampai dengan 14 (empat \nbelas) hari kerja, dikenakan sanksi administratif berupa \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) per hari \nkerja keterlambatan untuk masing-masing laporan. \n(3) \nBank \nyang \nbelum \nmenyampaikan \nlaporan \natau \nmenyampaikan laporan setelah batas akhir waktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud \npada    \nayat (2), dikenakan sanksi administratif berupa denda \nsebesar Rp50.000.000,00 (lima puluh juta rupiah). \n(4) \nBank yang belum menyampaikan laporan setelah batas \nakhir \nwaktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud pada ayat (2), tetap diwajibkan menyampaikan \n\n\n \nlaporan sebagaimana dimaksud dalam Pasal 12 dan \nPasal 13 ayat (2). \n(5) \nDalam hal Bank dikenakan sanksi administratif berupa \ndenda karena dinyatakan belum menyampaikan laporan \natau menyampaikan laporan setelah batas akhir waktu \nsebagaimana \ndimaksud \npada \nayat \n(3), \nsanksi \nadministratif \nberupa \ndenda \nkarena \nterlambat \nmenyampaikan laporan sebagaimana dimaksud pada \nayat (2) tidak diberlakukan. \n \nBAB XI \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2 ayat (1), Pasal 4, Pasal 5,    \nPasal 6, Pasal 8 ayat (1), Pasal 8 ayat (3), Pasal 8 ayat (4), \nPasal 9 ayat (1), dan/atau Pasal 10 ayat (1) dikenakan \nsanksi sesuai dengan ketentuan peraturan perundang-\nundangan \nterkait \ndan \ndapat \ndikenakan \nsanksi \nadministratif, berupa: \na. \nteguran tertulis; \nb. \npembekuan kegiatan usaha tertentu; dan/atau \nc. \npencantuman \nanggota \ndireksi, \nanggota \ndewan \nkomisaris, dan/atau pemegang saham Bank dalam \ndaftar pihak yang mendapat predikat Tidak Lulus \ndalam uji kemampuan dan kepatutan sebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-\nundangan mengenai uji kemampuan dan kepatutan \n(fit and proper test)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nyang \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud dalam Pasal 12 ayat (1), Pasal 12 ayat (3), dan \nPasal 13 ayat (2) setelah batas akhir waktu penyampaian \nsebagaimana dimaksud dalam Pasal 12 ayat (4), Pasal 12 \nayat (6), dan Pasal 13 ayat (2) sampai dengan 14 (empat \nbelas) hari kerja, dikenakan sanksi administratif berupa \ndenda sebesar Rp1.000.000,00 (satu juta rupiah) per hari \nkerja keterlambatan untuk masing-masing laporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nyang \nbelum \nmenyampaikan \nlaporan \natau \nmenyampaikan laporan setelah batas akhir waktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud \npada    \nayat (2), dikenakan sanksi administratif berupa denda \nsebesar Rp50.000.000,00 (lima puluh juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank yang belum menyampaikan laporan setelah batas \nakhir \nwaktu \npenyampaian \nlaporan \nsebagaimana \ndimaksud pada ayat (2), tetap diwajibkan menyampaikan \n\n\n \nlaporan sebagaimana dimaksud dalam Pasal 12 dan \nPasal 13 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank dikenakan sanksi administratif berupa \ndenda karena dinyatakan belum menyampaikan laporan \natau menyampaikan laporan setelah batas akhir waktu \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": ", \nsanksi \nadministratif \nberupa \ndenda \nkarena \nterlambat \nmenyampaikan laporan sebagaimana dimaksud pada \nayat (2) tidak diberlakukan. \n \nBAB XI \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai prinsip kehati-hatian dan \nlaporan dalam rangka penerapan manajemen risiko secara \nkonsolidasi bagi Bank yang melakukan pengendalian terhadap \nperusahaan anak diatur dalam Surat Edaran Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai prinsip kehati-hatian dan \nlaporan dalam rangka penerapan manajemen risiko secara \nkonsolidasi bagi Bank yang melakukan pengendalian terhadap \nperusahaan anak diatur dalam Surat Edaran Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Peraturan Bank Indonesia Nomor 8/6/PBI/2006 \ntentang Penerapan Manajemen Risiko Secara Konsolidasi bagi \nBank yang Melakukan Pengendalian Terhadap Perusahaan \nAnak (Lembaran Negara Republik Indonesia Tahun 2006 \nNomor 8, Tambahan Lembaran Negara Republik Indonesia \nNomor 4602), dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Peraturan Bank Indonesia Nomor 8/6/PBI/2006 \ntentang Penerapan Manajemen Risiko Secara Konsolidasi bagi \nBank yang Melakukan Pengendalian Terhadap Perusahaan \nAnak (Lembaran Negara Republik Indonesia Tahun 2006 \nNomor 8, Tambahan Lembaran Negara Republik Indonesia \nNomor 4602), dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 12 Juli 2017       \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n \n \n \n \n \n \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 12 Juli 2017 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 144\n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 38 /POJK.03/2017 \nTENTANG \nPENERAPAN MANAJEMEN RISIKO SECARA KONSOLIDASI BAGI BANK YANG \nMELAKUKAN PENGENDALIAN TERHADAP PERUSAHAAN ANAK \n \nI. \nUMUM \nBank senantiasa dihadapkan pada risiko-risiko yang melekat dalam \nsetiap kegiatan usaha. Risiko-risiko yang melekat tersebut dapat berasal \ndari kegiatan usaha Bank itu sendiri maupun dari perusahaan yang \nterkait dengan Bank. \nSementara itu perkembangan transaksi keuangan dalam era \nglobalisasi menyebabkan semakin terintegrasinya produk dan jasa \nkeuangan yang dilakukan oleh Bank. Produk dan jasa keuangan yang \nsemakin terintegrasi menyebabkan eksposur risiko yang harus dihadapi \nBank menjadi semakin kompleks dan meningkat. \nMenghadapi kondisi tersebut, Bank perlu memperhatikan seluruh \nrisiko yang dapat mempengaruhi kelangsungan usaha Bank. Risiko yang \nharus diperhatikan mencakup seluruh risiko yang secara langsung \nmaupun tidak langsung dapat mempengaruhi kelangsungan usaha Bank, \nbaik yang berasal dari Perusahaan Anak maupun dari kelompok usaha. \nSebagai \nlangkah \nawal \nuntuk \nmengukur \nrisiko \nsecara \nlebih \nmenyeluruh, Bank diminta untuk menerapkan manajemen risiko secara \nkonsolidasi pada Perusahaan Anak yang dikendalikan. Penerapan \nmanajemen risiko pada Perusahaan Anak juga dimaksudkan untuk \nmeningkatkan daya saing perbankan Indonesia di dunia internasional,\n\n\n \nmengingat hal ini merupakan salah satu pemenuhan tingkat kepatuhan \nBank terhadap standar internasional. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 12 Juli 2017       \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n \n \n \n \n \n \n \nttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal 12 Juli 2017 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 144\n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 38 /POJK.03/2017 \nTENTANG \nPENERAPAN MANAJEMEN RISIKO SECARA KONSOLIDASI BAGI BANK YANG \nMELAKUKAN PENGENDALIAN TERHADAP PERUSAHAAN ANAK \n \nI. \nUMUM \nBank senantiasa dihadapkan pada risiko-risiko yang melekat dalam \nsetiap kegiatan usaha. Risiko-risiko yang melekat tersebut dapat berasal \ndari kegiatan usaha Bank itu sendiri maupun dari perusahaan yang \nterkait dengan Bank. \nSementara itu perkembangan transaksi keuangan dalam era \nglobalisasi menyebabkan semakin terintegrasinya produk dan jasa \nkeuangan yang dilakukan oleh Bank. Produk dan jasa keuangan yang \nsemakin terintegrasi menyebabkan eksposur risiko yang harus dihadapi \nBank menjadi semakin kompleks dan meningkat. \nMenghadapi kondisi tersebut, Bank perlu memperhatikan seluruh \nrisiko yang dapat mempengaruhi kelangsungan usaha Bank. Risiko yang \nharus diperhatikan mencakup seluruh risiko yang secara langsung \nmaupun tidak langsung dapat mempengaruhi kelangsungan usaha Bank, \nbaik yang berasal dari Perusahaan Anak maupun dari kelompok usaha. \nSebagai \nlangkah \nawal \nuntuk \nmengukur \nrisiko \nsecara \nlebih \nmenyeluruh, Bank diminta untuk menerapkan manajemen risiko secara \nkonsolidasi pada Perusahaan Anak yang dikendalikan. Penerapan \nmanajemen risiko pada Perusahaan Anak juga dimaksudkan untuk \nmeningkatkan daya saing perbankan Indonesia di dunia internasional,\n\n\n \nmengingat hal ini merupakan salah satu pemenuhan tingkat kepatuhan \nBank terhadap standar internasional. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenerapan manajemen risiko secara konsolidasi dilakukan \ndengan mengacu pada ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi bank \numum dan ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum \nsyariah dan unit usaha syariah, yang meliputi: \na. \npengawasan aktif direksi dan dewan komisaris; \nb. \nkecukupan kebijakan dan prosedur manajemen risiko serta \npenetapan limit risiko; \nc. \nkecukupan proses identifikasi, pengukuran, pemantauan, \ndan pengendalian risiko, serta sistem informasi manajemen \nrisiko; dan \nd. \nsistem pengendalian intern yang menyeluruh. \nPengawasan aktif direksi dan dewan komisaris sebagaimana \ndimaksud dalam huruf a, bagi bank umum syariah termasuk \npengawasan aktif dewan pengawas syariah. \n \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenerapan manajemen risiko secara konsolidasi dilakukan \ndengan mengacu pada ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi bank \numum dan ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum \nsyariah dan unit usaha syariah, yang meliputi: \na. \npengawasan aktif direksi dan dewan komisaris; \nb. \nkecukupan kebijakan dan prosedur manajemen risiko serta \npenetapan limit risiko; \nc. \nkecukupan proses identifikasi, pengukuran, pemantauan, \ndan pengendalian risiko, serta sistem informasi manajemen \nrisiko; dan \nd. \nsistem pengendalian intern yang menyeluruh. \nPengawasan aktif direksi dan dewan komisaris sebagaimana \ndimaksud dalam huruf a, bagi bank umum syariah termasuk \npengawasan aktif dewan pengawas syariah. \n \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Termasuk dalam kegiatan usaha di bidang keuangan antara lain jasa \nperbankan, sewa guna usaha, modal ventura, perusahaan efek, \nasuransi, \nperusahaan \npembiayaan, \nserta \nlembaga \nkliring \npenyelesaian dan penyimpanan. \nHuruf a \nCukup jelas. \n \n\n\n \nHuruf b \nCukup jelas. \nHuruf c \nangka 1 \nCukup jelas. \nangka 2 \nYang dimaksud dengan “Pengendalian secara bersama” \nadalah Pengendalian bersama oleh para pemilik atas \nPerusahaan \nAnak \nyang \ndidasarkan \npada \nperjanjian \nkontraktual.  \nPengendalian bersama harus dibuktikan dengan adanya \nkesepakatan atau komitmen secara tertulis dari para \npemilik untuk memberikan dukungan baik finansial \nmaupun non-finansial sesuai kepemilikan masing-masing. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Termasuk dalam kegiatan usaha di bidang keuangan antara lain jasa \nperbankan, sewa guna usaha, modal ventura, perusahaan efek, \nasuransi, \nperusahaan \npembiayaan, \nserta \nlembaga \nkliring \npenyelesaian dan penyimpanan. \nHuruf a \nCukup jelas. \n \n\n\n \nHuruf b \nCukup jelas. \nHuruf c \nangka 1 \nCukup jelas. \nangka 2 \nYang dimaksud dengan “Pengendalian secara bersama” \nadalah Pengendalian bersama oleh para pemilik atas \nPerusahaan \nAnak \nyang \ndidasarkan \npada \nperjanjian \nkontraktual.  \nPengendalian bersama harus dibuktikan dengan adanya \nkesepakatan atau komitmen secara tertulis dari para \npemilik untuk memberikan dukungan baik finansial \nmaupun non-finansial sesuai kepemilikan masing-masing. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nSistem informasi akuntansi antara lain meliputi sistem \nyang dapat menghasilkan laporan keuangan, perhitungan \nKPMM, \npenilaian \nkualitas \naset \ndan \npembentukan \npenyisihan penghapusan aset, perhitungan BMPK yang \nmenghitung \nseluruh \neksposur \nBank \ndan \neksposur \nPerusahaan Anak secara konsolidasi serta penilaian tingkat \nkesehatan secara konsolidasi. \nPenyusunan laporan keuangan konsolidasi mengacu pada \nstandar akuntansi keuangan. \nHuruf b \nSistem \ninformasi \nmanajemen \nrisiko \nmengacu \npada \nketentuan \nOtoritas \nJasa \nKeuangan \nyang \nmengatur \nmengenai penerapan manajemen risiko bagi bank umum \ndan ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum \nsyariah dan unit usaha syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nSistem informasi akuntansi antara lain meliputi sistem \nyang dapat menghasilkan laporan keuangan, perhitungan \nKPMM, \npenilaian \nkualitas \naset \ndan \npembentukan \npenyisihan penghapusan aset, perhitungan BMPK yang \nmenghitung \nseluruh \neksposur \nBank \ndan \neksposur \nPerusahaan Anak secara konsolidasi serta penilaian tingkat \nkesehatan secara konsolidasi. \nPenyusunan laporan keuangan konsolidasi mengacu pada \nstandar akuntansi keuangan. \nHuruf b \nSistem \ninformasi \nmanajemen \nrisiko \nmengacu \npada \nketentuan \nOtoritas \nJasa \nKeuangan \nyang \nmengatur \nmengenai penerapan manajemen risiko bagi bank umum \ndan ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum \nsyariah dan unit usaha syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan dalam ayat ini dimaksudkan agar laporan keuangan \nkonsolidasi dan perhitungan KPMM dapat dilakukan secara lebih \ntepat, sesuai dengan risiko yang telah dapat diperkirakan (expected \nrisk).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan dalam ayat ini dimaksudkan agar laporan keuangan \nkonsolidasi dan perhitungan KPMM dapat dilakukan secara lebih \ntepat, sesuai dengan risiko yang telah dapat diperkirakan (expected \nrisk)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPersentase BMPK untuk Bank secara individu sebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-undangan \nmengenai batas maksimum pemberian kredit bank umum, juga \ndiberlakukan secara konsolidasi. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPersentase BMPK untuk Bank secara individu sebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-undangan \nmengenai batas maksimum pemberian kredit bank umum, juga \ndiberlakukan secara konsolidasi. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nIntegritas yang baik antara lain dibuktikan dengan pengurus \nPerusahaan Anak tidak berasal dari pihak-pihak yang terdapat \ndalam Daftar Tidak Lulus Otoritas Jasa Keuangan dan/atau \nDaftar Kredit Macet. \nYang dimaksud dengan “pengurus yang mengelola Perusahaan \nAnak” adalah direksi dan dewan komisaris bagi badan hukum \nperseroan terbatas atau jabatan lain yang setara pada badan \nhukum lain. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nIntegritas yang baik antara lain dibuktikan dengan pengurus \nPerusahaan Anak tidak berasal dari pihak-pihak yang terdapat \ndalam Daftar Tidak Lulus Otoritas Jasa Keuangan dan/atau \nDaftar Kredit Macet. \nYang dimaksud dengan “pengurus yang mengelola Perusahaan \nAnak” adalah direksi dan dewan komisaris bagi badan hukum \nperseroan terbatas atau jabatan lain yang setara pada badan \nhukum lain. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenilaian tingkat kesehatan secara konsolidasi mengacu pada \nketentuan Otoritas Jasa Keuangan yang mengatur mengenai \npenilaian tingkat kesehatan bank umum dan ketentuan Otoritas \nJasa Keuangan yang mengatur mengenai penilaian tingkat \nkesehatan bank umum syariah dan unit usaha syariah. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenilaian tingkat kesehatan secara konsolidasi mengacu pada \nketentuan Otoritas Jasa Keuangan yang mengatur mengenai \npenilaian tingkat kesehatan bank umum dan ketentuan Otoritas \nJasa Keuangan yang mengatur mengenai penilaian tingkat \nkesehatan bank umum syariah dan unit usaha syariah. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenyusunan laporan profil risiko secara konsolidasi mengacu \npada ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum dan \nketentuan Otoritas Jasa Keuangan yang mengatur mengenai \npenerapan manajemen risiko bagi bank umum syariah dan unit \nusaha syariah. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenyusunan laporan profil risiko secara konsolidasi mengacu \npada ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum dan \nketentuan Otoritas Jasa Keuangan yang mengatur mengenai \npenerapan manajemen risiko bagi bank umum syariah dan unit \nusaha syariah. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kriteria yang digunakan dalam Peraturan Otoritas Jasa Keuangan \nmengenai penetapan status dan tindak lanjut pengawasan bank \numum antara lain rasio KPMM dan rasio kredit bermasalah atau \nrasio pembiayaan bermasalah yang dihitung secara konsolidasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kriteria yang digunakan dalam Peraturan Otoritas Jasa Keuangan \nmengenai penetapan status dan tindak lanjut pengawasan bank \numum antara lain rasio KPMM dan rasio kredit bermasalah atau \nrasio pembiayaan bermasalah yang dihitung secara konsolidasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nAsuransi memiliki karakteristik risiko yang sangat berbeda \ndengan Bank sehingga tidak diterapkan penilaian manajemen \nrisiko secara konsolidasi terutama untuk hal-hal yang bersifat \nkuantitatif. \n \n\n\n \nHuruf a \nPenilaian \npenerapan \nmanajemen \nrisiko \nperusahaan \nasuransi mengacu pada ketentuan Otoritas Jasa Keuangan \nyang mengatur mengenai penerapan manajemen risiko bagi \nlembaga jasa keuangan non-bank. \nHuruf b \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nAsuransi memiliki karakteristik risiko yang sangat berbeda \ndengan Bank sehingga tidak diterapkan penilaian manajemen \nrisiko secara konsolidasi terutama untuk hal-hal yang bersifat \nkuantitatif. \n \n\n\n \nHuruf a \nPenilaian \npenerapan \nmanajemen \nrisiko \nperusahaan \nasuransi mengacu pada ketentuan Otoritas Jasa Keuangan \nyang mengatur mengenai penerapan manajemen risiko bagi \nlembaga jasa keuangan non-bank. \nHuruf b \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nBatasan portofolio penyertaan Bank mengacu pada Peraturan \nOtoritas Jasa Keuangan mengenai prinsip kehati-hatian dalam \nkegiatan penyertaan modal. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nBatasan portofolio penyertaan Bank mengacu pada Peraturan \nOtoritas Jasa Keuangan mengenai prinsip kehati-hatian dalam \nkegiatan penyertaan modal. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6087",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6087"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 36,
+  "total_ayat": 60,
+  "total_karakter": 24366,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

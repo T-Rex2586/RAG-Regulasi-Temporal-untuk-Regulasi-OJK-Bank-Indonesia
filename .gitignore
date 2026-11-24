@@ -1,0 +1,45 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Large Model Weights & Embeddings (Downloadable / HuggingFace)
+models/
+*.safetensors
+*.bin
+
+# Local Vector Databases & Index Pickles (Reproducible via src/retrieval/run_index.py)
+index/
+*.pkl
+*.sqlite
+*.sqlite3
+
+# Raw Binary PDFs (Downloadable & Verified via data/source_register.csv)
+data/raw/
+
+# Logs & Temporary Files
+logs/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS & Editor Specific
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*

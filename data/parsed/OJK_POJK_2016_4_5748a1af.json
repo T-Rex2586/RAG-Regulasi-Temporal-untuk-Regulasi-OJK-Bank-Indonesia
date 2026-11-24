@@ -1,0 +1,631 @@
+{
+  "doc_id": "OJK_POJK_2016_4_5748a1af",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "4",
+  "tahun": "2016",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 4/POJK.03/2016 tentang Penilaian Tingkat Kesehatan Bank Umum",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "26 Januari 2016",
+  "tanggal_berlaku": "diundangkan (27 Januari 2016)",
+  "diundangkan_pada": "27 Januari 2016",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN BANK"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA INDIVIDU"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA KONSOLIDASI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "TINDAK LANJUT HASIL PENILAIAN TINGKAT KESEHATAN BANK"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah bank umum sebagaimana dimaksud dalam \nUndang-Undang Nomor 7 Tahun 1992 tentang Perbankan \nsebagaimana telah diubah dengan Undang-Undang Nomor \n10 Tahun 1998, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, yang melaksanakan kegiatan \nusaha secara konvensional. \n \n \n \n \n\n\n \n \n2. \nDireksi: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah Direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 23 \nTahun 2014 tentang Pemerintahan Daerah \nsebagaimana telah diubah terakhir dengan \nUndang-Undang Nomor 9 Tahun 2015; \n2) \nPerusahaan Daerah adalah direksi pada Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsesuai \nUndang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan Undang-Undang Nomor 9         Tahun \n2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi adalah \npengurus sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang dari \nbank yang berkedudukan di luar negeri adalah \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang. \n3. \nDewan Komisaris: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 Tahun \n2007 tentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum: \n1) \nPerusahaan Umum Daerah adalah Dewan \nPengawas \nsebagaimana \ndimaksud \ndalam \n\n\n \n \nUndang-Undang Nomor 23 Tahun 2014 tentang  \nPemerintahan \n \nDaerah \nsebagaimana \ntelah \ndiubah terakhir dengan Undang-Undang Nomor \n9 Tahun 2015; \n2) \nPerusahaan Perseroan Daerah adalah Komisaris \nsebagaimana dimaksud dalam Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan Undang-Undang Nomor 9 Tahun 2015; \n3) \nPerusahaan Daerah adalah pengawas pada Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsesuai \nUndang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan Undang-Undang Nomor 9         Tahun \n2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi adalah \nPengawas sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang dari \nbank yang berkedudukan di luar negeri adalah pihak \nyang \nditunjuk \nuntuk \nmelaksanakan \nfungsi \npengawasan. \n4. \nTingkat Kesehatan Bank adalah hasil penilaian kondisi \nBank yang dilakukan terhadap risiko dan kinerja Bank. \n5. \nPeringkat Komposit adalah peringkat akhir hasil penilaian \nTingkat Kesehatan Bank. \n6. \nPerusahaan Anak adalah perusahaan yang dimiliki \ndan/atau   dikendalikan  oleh Bank  secara   langsung \nmaupun tidak langsung, baik di dalam maupun di luar  \nnegeri,  yang  memenuhi  kriteria sebagaimana      \ndimaksud   dalam  ketentuan  yang   mengatur   mengenai   \npenerapan  manajemen   risiko   secara   konsolidasi  bagi  \n \n\n\n \n \nBank yang melakukan pengendalian terhadap perusahaan \nanak. \n7. \nPengendalian \nadalah \npengendalian \nsebagaimana \ndimaksud dalam ketentuan yang mengatur mengenai \npenerapan \nmanajemen \nrisiko \nterintegrasi \nbagi \nkonglomerasi keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini yang dimaksud \ndengan: \n1. \nBank adalah bank umum sebagaimana dimaksud dalam \nUndang-Undang Nomor 7 Tahun 1992 tentang Perbankan \nsebagaimana telah diubah dengan Undang-Undang Nomor \n10 Tahun 1998, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, yang melaksanakan kegiatan \nusaha secara konvensional. \n \n \n \n \n\n\n \n \n2. \nDireksi: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah Direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 23 \nTahun 2014 tentang Pemerintahan Daerah \nsebagaimana telah diubah terakhir dengan \nUndang-Undang Nomor 9 Tahun 2015; \n2) \nPerusahaan Daerah adalah direksi pada Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsesuai \nUndang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan Undang-Undang Nomor 9         Tahun \n2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi adalah \npengurus sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang dari \nbank yang berkedudukan di luar negeri adalah \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang. \n3. \nDewan Komisaris: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 Tahun \n2007 tentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum: \n1) \nPerusahaan Umum Daerah adalah Dewan \nPengawas \nsebagaimana \ndimaksud \ndalam \n\n\n \n \nUndang-Undang Nomor 23 Tahun 2014 tentang  \nPemerintahan \n \nDaerah \nsebagaimana \ntelah \ndiubah terakhir dengan Undang-Undang Nomor \n9 Tahun 2015; \n2) \nPerusahaan Perseroan Daerah adalah Komisaris \nsebagaimana dimaksud dalam Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan Undang-Undang Nomor 9 Tahun 2015; \n3) \nPerusahaan Daerah adalah pengawas pada Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsesuai \nUndang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan Undang-Undang Nomor 9         Tahun \n2015; \nc. \nbagi Bank berbentuk badan hukum Koperasi adalah \nPengawas sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang dari \nbank yang berkedudukan di luar negeri adalah pihak \nyang \nditunjuk \nuntuk \nmelaksanakan \nfungsi \npengawasan. \n4. \nTingkat Kesehatan Bank adalah hasil penilaian kondisi \nBank yang dilakukan terhadap risiko dan kinerja Bank. \n5. \nPeringkat Komposit adalah peringkat akhir hasil penilaian \nTingkat Kesehatan Bank. \n6. \nPerusahaan Anak adalah perusahaan yang dimiliki \ndan/atau   dikendalikan  oleh Bank  secara   langsung \nmaupun tidak langsung, baik di dalam maupun di luar  \nnegeri,  yang  memenuhi  kriteria sebagaimana      \ndimaksud   dalam  ketentuan  yang   mengatur   mengenai   \npenerapan  manajemen   risiko   secara   konsolidasi  bagi  \n \n\n\n \n \nBank yang melakukan pengendalian terhadap perusahaan \nanak. \n7. \nPengendalian \nadalah \npengendalian \nsebagaimana \ndimaksud dalam ketentuan yang mengatur mengenai \npenerapan \nmanajemen \nrisiko \nterintegrasi \nbagi \nkonglomerasi keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank wajib memelihara dan/atau meningkatkan Tingkat \nKesehatan Bank   dengan   menerapkan   prinsip kehati-\nhatian dan manajemen risiko dalam melaksanakan \nkegiatan usaha. \n(2) \nDalam rangka melaksanakan tanggung jawab atas \nkelangsungan usaha Bank, Direksi dan Dewan Komisaris \nbertanggung jawab untuk memelihara dan memantau \nTingkat Kesehatan Bank serta mengambil langkah-\nlangkah yang diperlukan untuk memelihara dan/atau \nmeningkatkan Tingkat Kesehatan Bank sebagaimana \ndimaksud pada  ayat (1). \n(3) \nBank wajib melakukan penilaian Tingkat Kesehatan Bank \ndengan menggunakan pendekatan risiko (Risk-based Bank \nRating) baik secara individu maupun secara konsolidasi. \n \nBAB II \nPENILAIAN TINGKAT KESEHATAN BANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memelihara dan/atau meningkatkan Tingkat \nKesehatan Bank   dengan   menerapkan   prinsip kehati-\nhatian dan manajemen risiko dalam melaksanakan \nkegiatan usaha."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam rangka melaksanakan tanggung jawab atas \nkelangsungan usaha Bank, Direksi dan Dewan Komisaris \nbertanggung jawab untuk memelihara dan memantau \nTingkat Kesehatan Bank serta mengambil langkah-\nlangkah yang diperlukan untuk memelihara dan/atau \nmeningkatkan Tingkat Kesehatan Bank sebagaimana \ndimaksud pada  ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib melakukan penilaian Tingkat Kesehatan Bank \ndengan menggunakan pendekatan risiko (Risk-based Bank \nRating) baik secara individu maupun secara konsolidasi. \n \nBAB II \nPENILAIAN TINGKAT KESEHATAN BANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN BANK",
+      "teks_lengkap": "(1) \nBank wajib melakukan penilaian sendiri (self-assessment) \natas Tingkat Kesehatan Bank sebagaimana diatur dalam \nPasal 2 ayat (3). \n(2) \nPenilaian sendiri (self-assessment) Tingkat Kesehatan \nBank sebagaimana dimaksud pada ayat (1) wajib \ndilakukan paling sedikit setiap semester untuk posisi \nakhir bulan Juni dan akhir bulan Desember. \n(3) \nBank wajib melakukan pengkinian penilaian sendiri  (self-\nassessment) Tingkat Kesehatan Bank sewaktu-waktu \napabila diperlukan. \n \n\n\n \n \n(4) \nHasil \npenilaian \nsendiri \n(self-assessment) \nTingkat \nKesehatan Bank sebagaimana dimaksud pada ayat (2) dan \nayat (3) yang telah mendapat persetujuan dari Direksi \nwajib disampaikan kepada Dewan Komisaris. \n(5) \nBank wajib menyampaikan hasil penilaian sendiri       (self-\nassessment) \nTingkat \nKesehatan \nBank \nsebagaimana \ndimaksud pada ayat (4) kepada Otoritas Jasa Keuangan \nyaitu: \na. \nuntuk penilaian Tingkat Kesehatan Bank secara \nindividu, paling lambat pada tanggal 31 Juli untuk \npenilaian Tingkat Kesehatan Bank posisi akhir bulan \nJuni dan tanggal 31 Januari untuk penilaian Tingkat \nKesehatan Bank posisi akhir bulan Desember; dan \nb. \nuntuk penilaian Tingkat Kesehatan Bank secara \nkonsolidasi, paling lambat pada tanggal               15 \nAgustus untuk penilaian Tingkat Kesehatan Bank \nposisi akhir bulan Juni dan tanggal          15 Februari \nuntuk penilaian Tingkat Kesehatan Bank posisi akhir \nbulan Desember. \n(6) \nApabila batas waktu penyampaian hasil penilaian sendiri \n(self-assessment) Tingkat Kesehatan Bank sebagaimana \ndimaksud pada ayat (5) jatuh pada hari Sabtu, hari \nMinggu, atau hari libur, hasil penilaian sendiri (self-\nassessment) Tingkat Kesehatan Bank disampaikan pada \nhari kerja berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan penilaian sendiri (self-assessment) \natas Tingkat Kesehatan Bank sebagaimana diatur dalam \nPasal 2 ayat (3)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penilaian sendiri (self-assessment) Tingkat Kesehatan \nBank sebagaimana dimaksud pada ayat (1) wajib \ndilakukan paling sedikit setiap semester untuk posisi \nakhir bulan Juni dan akhir bulan Desember."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib melakukan pengkinian penilaian sendiri  (self-\nassessment) Tingkat Kesehatan Bank sewaktu-waktu \napabila diperlukan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Hasil \npenilaian \nsendiri \n(self-assessment) \nTingkat \nKesehatan Bank sebagaimana dimaksud pada ayat (2) dan \nayat (3) yang telah mendapat persetujuan dari Direksi \nwajib disampaikan kepada Dewan Komisaris."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib menyampaikan hasil penilaian sendiri       (self-\nassessment) \nTingkat \nKesehatan \nBank \nsebagaimana \ndimaksud pada ayat (4) kepada Otoritas Jasa Keuangan \nyaitu: \na. \nuntuk penilaian Tingkat Kesehatan Bank secara \nindividu, paling lambat pada tanggal 31 Juli untuk \npenilaian Tingkat Kesehatan Bank posisi akhir bulan \nJuni dan tanggal 31 Januari untuk penilaian Tingkat \nKesehatan Bank posisi akhir bulan Desember; dan \nb. \nuntuk penilaian Tingkat Kesehatan Bank secara \nkonsolidasi, paling lambat pada tanggal               15 \nAgustus untuk penilaian Tingkat Kesehatan Bank \nposisi akhir bulan Juni dan tanggal          15 Februari \nuntuk penilaian Tingkat Kesehatan Bank posisi akhir \nbulan Desember."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Apabila batas waktu penyampaian hasil penilaian sendiri \n(self-assessment) Tingkat Kesehatan Bank sebagaimana \ndimaksud pada ayat (5) jatuh pada hari Sabtu, hari \nMinggu, atau hari libur, hasil penilaian sendiri (self-\nassessment) Tingkat Kesehatan Bank disampaikan pada \nhari kerja berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN BANK",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan melakukan penilaian Tingkat \nKesehatan Bank setiap semester untuk posisi akhir bulan \nJuni dan akhir bulan Desember. \n(2) \nOtoritas Jasa Keuangan melakukan pengkinian penilaian \nTingkat \nKesehatan \nBank \nsewaktu-waktu \napabila \ndiperlukan. \n(3) \nPenilaian \nTingkat \nKesehatan \nBank \nsebagaimana    \ndimaksud pada ayat (1) dan pengkinian penilaian      \nTingkat  Kesehatan  Bank   sebagaimana   dimaksud  pada  \n \n\n\n \n \nayat (2) dilakukan berdasarkan hasil pemeriksaan, \nlaporan berkala yang disampaikan Bank, dan/atau \ninformasi lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan melakukan penilaian Tingkat \nKesehatan Bank setiap semester untuk posisi akhir bulan \nJuni dan akhir bulan Desember."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan melakukan pengkinian penilaian \nTingkat \nKesehatan \nBank \nsewaktu-waktu \napabila \ndiperlukan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penilaian \nTingkat \nKesehatan \nBank \nsebagaimana    \ndimaksud pada ayat (1) dan pengkinian penilaian      \nTingkat  Kesehatan  Bank   sebagaimana   dimaksud  pada  \n \n\n\n \n \nayat (2) dilakukan berdasarkan hasil pemeriksaan, \nlaporan berkala yang disampaikan Bank, dan/atau \ninformasi lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PENILAIAN TINGKAT KESEHATAN BANK",
+      "teks_lengkap": "Dalam rangka pengawasan Bank, dalam hal terdapat \nperbedaan hasil penilaian Tingkat Kesehatan Bank yang \ndilakukan \noleh \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud dalam Pasal 4 dengan hasil penilaian sendiri     (self-\nassessment) Tingkat Kesehatan Bank sebagaimana dimaksud \ndalam Pasal 3, yang berlaku adalah hasil penilaian Tingkat \nKesehatan Bank yang dilakukan oleh Otoritas Jasa Keuangan. \n \nBAB III  \nMEKANISME PENILAIAN TINGKAT KESEHATAN BANK \nSECARA INDIVIDU",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam rangka pengawasan Bank, dalam hal terdapat \nperbedaan hasil penilaian Tingkat Kesehatan Bank yang \ndilakukan \noleh \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud dalam Pasal 4 dengan hasil penilaian sendiri     (self-\nassessment) Tingkat Kesehatan Bank sebagaimana dimaksud \ndalam Pasal 3, yang berlaku adalah hasil penilaian Tingkat \nKesehatan Bank yang dilakukan oleh Otoritas Jasa Keuangan. \n \nBAB III  \nMEKANISME PENILAIAN TINGKAT KESEHATAN BANK \nSECARA INDIVIDU"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA INDIVIDU",
+      "teks_lengkap": "Bank wajib melakukan penilaian Tingkat Kesehatan Bank \nsecara individu dengan menggunakan pendekatan risiko  (Risk-\nbased Bank Rating) sebagaimana dimaksud dalam Pasal 2 ayat \n(3), dengan cakupan penilaian terhadap faktor-faktor: \na. \nprofil risiko (risk profile); \nb. \nGood Corporate Governance (GCG); \nc. \nrentabilitas (earnings); dan \nd. \npermodalan (capital).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(3)",
+          "teks": ", dengan cakupan penilaian terhadap faktor-faktor: \na. \nprofil risiko (risk profile); \nb. \nGood Corporate Governance (GCG); \nc. \nrentabilitas (earnings); dan \nd. \npermodalan (capital)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA INDIVIDU",
+      "teks_lengkap": "(1) \nPenilaian terhadap faktor profil risiko sebagaimana \ndimaksud dalam Pasal 6 huruf a merupakan penilaian \nterhadap \nrisiko \ninheren \ndan \nkualitas \npenerapan \nmanajemen risiko dalam operasional Bank yang wajib \ndilakukan terhadap 8 (delapan) risiko, yaitu: \na. \nrisiko kredit; \nb. \nrisiko pasar; \n \n \n\n\n \n \nc. \nrisiko likuiditas; \nd. \nrisiko operasional; \ne. \nrisiko hukum; \nf. \nrisiko stratejik; \ng. \nrisiko kepatuhan; dan \nh. \nrisiko reputasi. \n(2) \nKewajiban penilaian terhadap faktor GCG sebagaimana \ndimaksud dalam Pasal 6 huruf b merupakan penilaian \nterhadap manajemen Bank atas pelaksanaan prinsip-\nprinsip GCG. \n(3) \nKewajiban penilaian terhadap faktor rentabilitas (earnings) \nsebagaimana dimaksud dalam Pasal 6  huruf c meliputi \npenilaian terhadap kinerja rentabilitas (earnings), sumber-\nsumber rentabilitas (earnings), dan kesinambungan \nrentabilitas (earnings’ sustainability) Bank. \n(4) \nPenilaian \nterhadap \nfaktor \npermodalan \n(capital) \nsebagaimana dimaksud dalam Pasal 6 huruf d meliputi \npenilaian terhadap tingkat kecukupan permodalan dan \npengelolaan permodalan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penilaian terhadap faktor profil risiko sebagaimana \ndimaksud dalam Pasal 6 huruf a merupakan penilaian \nterhadap \nrisiko \ninheren \ndan \nkualitas \npenerapan \nmanajemen risiko dalam operasional Bank yang wajib \ndilakukan terhadap 8 (delapan) risiko, yaitu: \na. \nrisiko kredit; \nb. \nrisiko pasar; \n \n \n\n\n \n \nc. \nrisiko likuiditas; \nd. \nrisiko operasional; \ne. \nrisiko hukum; \nf. \nrisiko stratejik; \ng. \nrisiko kepatuhan; dan \nh. \nrisiko reputasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewajiban penilaian terhadap faktor GCG sebagaimana \ndimaksud dalam Pasal 6 huruf b merupakan penilaian \nterhadap manajemen Bank atas pelaksanaan prinsip-\nprinsip GCG."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewajiban penilaian terhadap faktor rentabilitas (earnings) \nsebagaimana dimaksud dalam Pasal 6  huruf c meliputi \npenilaian terhadap kinerja rentabilitas (earnings), sumber-\nsumber rentabilitas (earnings), dan kesinambungan \nrentabilitas (earnings’ sustainability) Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penilaian \nterhadap \nfaktor \npermodalan \n(capital) \nsebagaimana dimaksud dalam Pasal 6 huruf d meliputi \npenilaian terhadap tingkat kecukupan permodalan dan \npengelolaan permodalan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA INDIVIDU",
+      "teks_lengkap": "(1) \nSetiap \nfaktor \npenilaian \nTingkat \nKesehatan \nBank \nsebagaimana \ndimaksud \ndalam \nPasal \nditetapkan \nperingkatnya \nberdasarkan \nkerangka \nanalisis \nyang \nkomprehensif dan terstruktur. \n(2) \nPenetapan peringkat faktor profil risiko dilakukan dengan \ntahapan: \na. \npenetapan tingkat risiko dari masing-masing risiko \nsebagaimana dimaksud dalam Pasal 7   ayat (1); \nb. \npenetapan tingkat risiko inheren secara komposit dan \nkualitas \npenerapan \nmanajemen \nrisiko \nsecara \nkomposit; dan \nc. \npenetapan \nperingkat \nfaktor \nprofil \nrisiko      \nberdasarkan \nanalisis \nsecara \nkomprehensif \ndan \nterstruktur \natas \nhasil \npenetapan \nsebagaimana \ndimaksud   pada   huruf   a   dan    huruf  b   dengan  \n \n\n\n \n \nmemperhatikan signifikansi masing-masing risiko \nterhadap profil risiko secara keseluruhan. \n(3) \nPenetapan peringkat faktor GCG dilakukan berdasarkan \nanalisis yang komprehensif dan terstruktur terhadap hasil \npenilaian pelaksanaan prinsip-prinsip GCG Bank dan \ninformasi lain yang terkait dengan GCG Bank. \n(4) \nPenetapan \nperingkat \nfaktor \nrentabilitas \n(earnings) \ndilakukan berdasarkan analisis secara komprehensif \nterhadap parameter atau indikator rentabilitas dengan \nmemperhatikan signifikansi masing-masing parameter \natau indikator serta mempertimbangkan permasalahan \nlain yang mempengaruhi rentabilitas (earnings) Bank. \n(5) \nPenetapan peringkat penilaian faktor permodalan Bank \ndilakukan berdasarkan analisis secara komprehensif \nterhadap parameter atau indikator permodalan dengan \nmemperhatikan signifikansi masing-masing parameter \natau indikator serta mempertimbangkan permasalahan \nlain yang mempengaruhi permodalan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Setiap \nfaktor \npenilaian \nTingkat \nKesehatan \nBank \nsebagaimana \ndimaksud \ndalam \nPasal \nditetapkan \nperingkatnya \nberdasarkan \nkerangka \nanalisis \nyang \nkomprehensif dan terstruktur."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan peringkat faktor profil risiko dilakukan dengan \ntahapan: \na. \npenetapan tingkat risiko dari masing-masing risiko \nsebagaimana dimaksud dalam Pasal 7   ayat (1); \nb. \npenetapan tingkat risiko inheren secara komposit dan \nkualitas \npenerapan \nmanajemen \nrisiko \nsecara \nkomposit; dan \nc. \npenetapan \nperingkat \nfaktor \nprofil \nrisiko      \nberdasarkan \nanalisis \nsecara \nkomprehensif \ndan \nterstruktur \natas \nhasil \npenetapan \nsebagaimana \ndimaksud   pada   huruf   a   dan    huruf  b   dengan  \n \n\n\n \n \nmemperhatikan signifikansi masing-masing risiko \nterhadap profil risiko secara keseluruhan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan peringkat faktor GCG dilakukan berdasarkan \nanalisis yang komprehensif dan terstruktur terhadap hasil \npenilaian pelaksanaan prinsip-prinsip GCG Bank dan \ninformasi lain yang terkait dengan GCG Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penetapan \nperingkat \nfaktor \nrentabilitas \n(earnings) \ndilakukan berdasarkan analisis secara komprehensif \nterhadap parameter atau indikator rentabilitas dengan \nmemperhatikan signifikansi masing-masing parameter \natau indikator serta mempertimbangkan permasalahan \nlain yang mempengaruhi rentabilitas (earnings) Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penetapan peringkat penilaian faktor permodalan Bank \ndilakukan berdasarkan analisis secara komprehensif \nterhadap parameter atau indikator permodalan dengan \nmemperhatikan signifikansi masing-masing parameter \natau indikator serta mempertimbangkan permasalahan \nlain yang mempengaruhi permodalan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA INDIVIDU",
+      "teks_lengkap": "(1) \nPeringkat Komposit Tingkat Kesehatan Bank ditetapkan \nberdasarkan analisis secara komprehensif dan terstruktur \nterhadap peringkat setiap faktor sebagaimana dimaksud \ndalam Pasal 8 ayat (2),       ayat (3), ayat (4), dan ayat (5) \ndengan memperhatikan materialitas dan signifikansi \nmasing-masing faktor. \n(2) \nPeringkat Komposit sebagaimana dimaksud pada    ayat \n(1) dikategorikan: \na. \nPeringkat Komposit 1 (PK-1); \nb. \nPeringkat Komposit 2 (PK-2); \nc. \nPeringkat Komposit 3 (PK-3); \nd. \nPeringkat Komposit 4 (PK-4); dan \ne. \nPeringkat Komposit 5 (PK-5). \n(3) \nPeringkat Komposit 1 (PK-1) sebagaimana dimaksud     \npada ayat (2) huruf a mencerminkan kondisi Bank yang \nsecara  umum   sangat   sehat   sehingga   dinilai    sangat \n \n\n\n \n \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya. \n(4) \nPeringkat Komposit 2 (PK-2) sebagaimana dimaksud pada \nayat (2) huruf b mencerminkan kondisi Bank yang secara \numum sehat sehingga dinilai mampu menghadapi \npengaruh negatif yang signifikan dari perubahan kondisi \nbisnis dan faktor eksternal lainnya. \n(5) \nPeringkat Komposit 3 (PK-3) sebagaimana dimaksud pada \nayat (2) huruf c mencerminkan kondisi Bank yang secara \numum cukup sehat sehingga dinilai cukup mampu \nmenghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya. \n(6) \nPeringkat Komposit 4 (PK-4) sebagaimana dimaksud pada \nayat (2) huruf d mencerminkan kondisi Bank yang secara \numum kurang sehat sehingga dinilai kurang mampu \nmenghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya. \n(7) \nPeringkat Komposit 5 (PK-5) sebagaimana dimaksud pada \nayat (2) huruf e mencerminkan kondisi Bank yang secara \numum tidak sehat sehingga dinilai tidak mampu \nmenghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peringkat Komposit Tingkat Kesehatan Bank ditetapkan \nberdasarkan analisis secara komprehensif dan terstruktur \nterhadap peringkat setiap faktor sebagaimana dimaksud \ndalam Pasal 8 ayat (2),       ayat (3), ayat (4), dan ayat (5) \ndengan memperhatikan materialitas dan signifikansi \nmasing-masing faktor."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peringkat Komposit sebagaimana dimaksud pada    ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dikategorikan: \na. \nPeringkat Komposit 1 (PK-1); \nb. \nPeringkat Komposit 2 (PK-2); \nc. \nPeringkat Komposit 3 (PK-3); \nd. \nPeringkat Komposit 4 (PK-4); dan \ne. \nPeringkat Komposit 5 (PK-5)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peringkat Komposit 1 (PK-1) sebagaimana dimaksud     \npada ayat (2) huruf a mencerminkan kondisi Bank yang \nsecara  umum   sangat   sehat   sehingga   dinilai    sangat \n \n\n\n \n \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Peringkat Komposit 2 (PK-2) sebagaimana dimaksud pada \nayat (2) huruf b mencerminkan kondisi Bank yang secara \numum sehat sehingga dinilai mampu menghadapi \npengaruh negatif yang signifikan dari perubahan kondisi \nbisnis dan faktor eksternal lainnya."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Peringkat Komposit 3 (PK-3) sebagaimana dimaksud pada \nayat (2) huruf c mencerminkan kondisi Bank yang secara \numum cukup sehat sehingga dinilai cukup mampu \nmenghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Peringkat Komposit 4 (PK-4) sebagaimana dimaksud pada \nayat (2) huruf d mencerminkan kondisi Bank yang secara \numum kurang sehat sehingga dinilai kurang mampu \nmenghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Peringkat Komposit 5 (PK-5) sebagaimana dimaksud pada \nayat (2) huruf e mencerminkan kondisi Bank yang secara \numum tidak sehat sehingga dinilai tidak mampu \nmenghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA INDIVIDU",
+      "teks_lengkap": "Dalam hal berdasarkan hasil identifikasi dan penilaian Otoritas \nJasa Keuangan ditemukan permasalahan atau pelanggaran \nyang \nsecara \nsignifikan \nmempengaruhi \natau \nakan \nmempengaruhi operasional dan/atau kelangsungan usaha \nBank, Otoritas Jasa Keuangan berwenang menurunkan \nPeringkat Komposit Tingkat Kesehatan Bank. \n \n \n \n \n \n \n \n\n\n \n \nBAB IV \nMEKANISME PENILAIAN TINGKAT KESEHATAN BANK \nSECARA KONSOLIDASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal berdasarkan hasil identifikasi dan penilaian Otoritas \nJasa Keuangan ditemukan permasalahan atau pelanggaran \nyang \nsecara \nsignifikan \nmempengaruhi \natau \nakan \nmempengaruhi operasional dan/atau kelangsungan usaha \nBank, Otoritas Jasa Keuangan berwenang menurunkan \nPeringkat Komposit Tingkat Kesehatan Bank. \n \n \n \n \n \n \n \n\n\n \n \nBAB IV \nMEKANISME PENILAIAN TINGKAT KESEHATAN BANK \nSECARA KONSOLIDASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA KONSOLIDASI",
+      "teks_lengkap": "(1) \nBank wajib melakukan penilaian Tingkat Kesehatan Bank \nsecara konsolidasi dengan menggunakan pendekatan \nrisiko (Risk-based Bank Rating) sebagaimana dimaksud \ndalam Pasal 2 ayat (3), dengan cakupan penilaian terhadap \nfaktor-faktor: \na. \nprofil risiko (risk profile); \nb. \nGood Corporate Governance (GCG); \nc. \nrentabilitas (earnings); dan \nd. \npermodalan (capital). \n(2) \nPenetapan peringkat faktor profil risiko Bank secara \nkonsolidasi dilakukan dengan memperhatikan: \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan Perusahaan Anak yang berpengaruh \nsecara signifikan terhadap profil risiko Bank secara \nkonsolidasi.  \n(3) \nPenetapan peringkat faktor GCG secara konsolidasi \ndilakukan dengan memperhatikan: \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan terkait dengan pelaksanaan prinsip-\nprinsip \nGCG \npada \nPerusahaan \nAnak \nyang \nberpengaruh secara signifikan terhadap pelaksanaan \nGCG secara konsolidasi. \n(4) \nPenetapan \nperingkat \nfaktor \nrentabilitas \nsecara    \nkonsolidasi \ndilakukan \nberdasarkan \nanalisis \nsecara \nkomprehensif dan terstruktur terhadap parameter atau \nindikator rentabilitas tertentu yang dihasilkan dari \nlaporan \nkeuangan \nBank \nsecara \nkonsolidasi \ndan     \ninformasi    keuangan   lainnya   dengan     memperhatikan: \n \n \n\n\n \n \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan rentabilitas pada Perusahaan Anak \nyang \nberpengaruh \nsecara \nsignifikan \nterhadap \nrentabilitas secara konsolidasi.  \n(5) \nPenetapan peringkat faktor permodalan secara konsolidasi \ndilakukan berdasarkan analisis secara komprehensif dan \nterstruktur \nterhadap \nparameter \natau \nindikator \npermodalan \ntertentu \nyang \ndihasilkan \ndari \nlaporan \nkeuangan \nBank \nsecara \nkonsolidasi \ndan \ninformasi \nkeuangan lainnya dengan memperhatikan: \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan permodalan pada Perusahaan Anak \nyang \nberpengaruh \nsecara \nsignifikan \nterhadap \npermodalan secara konsolidasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan penilaian Tingkat Kesehatan Bank \nsecara konsolidasi dengan menggunakan pendekatan \nrisiko (Risk-based Bank Rating) sebagaimana dimaksud \ndalam Pasal 2 ayat (3), dengan cakupan penilaian terhadap \nfaktor-faktor: \na. \nprofil risiko (risk profile); \nb. \nGood Corporate Governance (GCG); \nc. \nrentabilitas (earnings); dan \nd. \npermodalan (capital)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan peringkat faktor profil risiko Bank secara \nkonsolidasi dilakukan dengan memperhatikan: \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan Perusahaan Anak yang berpengaruh \nsecara signifikan terhadap profil risiko Bank secara \nkonsolidasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penetapan peringkat faktor GCG secara konsolidasi \ndilakukan dengan memperhatikan: \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan terkait dengan pelaksanaan prinsip-\nprinsip \nGCG \npada \nPerusahaan \nAnak \nyang \nberpengaruh secara signifikan terhadap pelaksanaan \nGCG secara konsolidasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penetapan \nperingkat \nfaktor \nrentabilitas \nsecara    \nkonsolidasi \ndilakukan \nberdasarkan \nanalisis \nsecara \nkomprehensif dan terstruktur terhadap parameter atau \nindikator rentabilitas tertentu yang dihasilkan dari \nlaporan \nkeuangan \nBank \nsecara \nkonsolidasi \ndan     \ninformasi    keuangan   lainnya   dengan     memperhatikan: \n \n \n\n\n \n \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan rentabilitas pada Perusahaan Anak \nyang \nberpengaruh \nsecara \nsignifikan \nterhadap \nrentabilitas secara konsolidasi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penetapan peringkat faktor permodalan secara konsolidasi \ndilakukan berdasarkan analisis secara komprehensif dan \nterstruktur \nterhadap \nparameter \natau \nindikator \npermodalan \ntertentu \nyang \ndihasilkan \ndari \nlaporan \nkeuangan \nBank \nsecara \nkonsolidasi \ndan \ninformasi \nkeuangan lainnya dengan memperhatikan: \na. \nsignifikansi atau materialitas pangsa Perusahaan \nAnak terhadap Bank secara konsolidasi; dan/atau \nb. \npermasalahan permodalan pada Perusahaan Anak \nyang \nberpengaruh \nsecara \nsignifikan \nterhadap \npermodalan secara konsolidasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "MEKANISME PENILAIAN TINGKAT KESEHATAN BANK SECARA KONSOLIDASI",
+      "teks_lengkap": "Bagi Bank yang melakukan penilaian Tingkat Kesehatan Bank \nsecara konsolidasi maka: \na. \nmekanisme penetapan peringkat setiap faktor penilaian \ndan penetapan Peringkat Komposit Tingkat Kesehatan \nBank secara konsolidasi; dan \nb. \npengkategorian peringkat setiap faktor penilaian dan \nPeringkat Komposit secara konsolidasi, \nwajib \nmengacu \npada \nmekanisme \npenetapan \ndan \npengkategorian peringkat Bank secara individu sebagaimana \ndiatur dalam Pasal 8, Pasal 9, dan Pasal 10. \n \n \n \n \n \n \n \n \n \n\n\n \n \nBAB V \nTINDAK LANJUT HASIL PENILAIAN TINGKAT KESEHATAN \nBANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi Bank yang melakukan penilaian Tingkat Kesehatan Bank \nsecara konsolidasi maka: \na. \nmekanisme penetapan peringkat setiap faktor penilaian \ndan penetapan Peringkat Komposit Tingkat Kesehatan \nBank secara konsolidasi; dan \nb. \npengkategorian peringkat setiap faktor penilaian dan \nPeringkat Komposit secara konsolidasi, \nwajib \nmengacu \npada \nmekanisme \npenetapan \ndan \npengkategorian peringkat Bank secara individu sebagaimana \ndiatur dalam Pasal 8, Pasal 9, dan Pasal 10. \n \n \n \n \n \n \n \n \n \n\n\n \n \nBAB V \nTINDAK LANJUT HASIL PENILAIAN TINGKAT KESEHATAN \nBANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TINDAK LANJUT HASIL PENILAIAN TINGKAT KESEHATAN BANK",
+      "teks_lengkap": "(1) \nDalam hal berdasarkan hasil penilaian Tingkat Kesehatan \nBank yang dilakukan oleh Otoritas Jasa Keuangan \ndan/atau hasil penilaian sendiri            (self-assessment) \noleh Bank terdapat:  \na. \nfaktor Tingkat Kesehatan Bank yang ditetapkan \ndengan peringkat 4 atau peringkat 5; \nb. \nPeringkat Komposit Tingkat Kesehatan Bank yang \nditetapkan dengan peringkat 4 atau peringkat 5; \ndan/atau \nc. \nPeringkat Komposit Tingkat Kesehatan Bank yang \nditetapkan dengan peringkat 3, namun terdapat \npermasalahan signifikan yang perlu diatasi agar tidak \nmengganggu kelangsungan usaha Bank, \nmaka Direksi, Dewan Komisaris, dan/atau pemegang \nsaham pengendali Bank wajib menyampaikan rencana \ntindak (action plan) kepada Otoritas Jasa Keuangan. \n(2) \nOtoritas Jasa Keuangan berwenang meminta Bank untuk \nmelakukan penyesuaian terhadap rencana tindak (action \nplan) sebagaimana dimaksud pada     ayat (1). \n(3) \nBank wajib menyampaikan rencana tindak (action plan): \na. \nsesuai batas waktu tertentu yang ditetapkan Otoritas \nJasa Keuangan, untuk rencana tindak (action plan) \nyang merupakan tindak lanjut dari hasil penilaian \nTingkat \nKesehatan \nBank \noleh \nOtoritas \nJasa \nKeuangan;  \nb. \npaling lambat pada tanggal 15 Agustus untuk \npenilaian Tingkat Kesehatan Bank pada posisi       \nakhir bulan Juni dan tanggal 15 Februari untuk \npenilaian Tingkat Kesehatan Bank pada posisi       \nakhir    bulan    Desember,   untuk     rencana   tindak \n \n \n\n\n \n \n(action plan) yang merupakan tindak lanjut dari hasil \npenilaian sendiri (self-assessment) Bank. \n(4) \nApabila batas waktu penyampaian rencana tindak (action \nplan) atas hasil penilaian sendiri                 (self-assessment) \nBank sebagaimana dimaksud pada ayat (3) huruf b jatuh \npada hari Sabtu, hari Minggu atau hari libur, hasil \npenilaian sendiri (self-assessment) Tingkat Kesehatan \nBank disampaikan pada hari kerja berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal berdasarkan hasil penilaian Tingkat Kesehatan \nBank yang dilakukan oleh Otoritas Jasa Keuangan \ndan/atau hasil penilaian sendiri            (self-assessment) \noleh Bank terdapat:  \na. \nfaktor Tingkat Kesehatan Bank yang ditetapkan \ndengan peringkat 4 atau peringkat 5; \nb. \nPeringkat Komposit Tingkat Kesehatan Bank yang \nditetapkan dengan peringkat 4 atau peringkat 5; \ndan/atau \nc. \nPeringkat Komposit Tingkat Kesehatan Bank yang \nditetapkan dengan peringkat 3, namun terdapat \npermasalahan signifikan yang perlu diatasi agar tidak \nmengganggu kelangsungan usaha Bank, \nmaka Direksi, Dewan Komisaris, dan/atau pemegang \nsaham pengendali Bank wajib menyampaikan rencana \ntindak (action plan) kepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan berwenang meminta Bank untuk \nmelakukan penyesuaian terhadap rencana tindak (action \nplan) sebagaimana dimaksud pada     ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib menyampaikan rencana tindak (action plan): \na. \nsesuai batas waktu tertentu yang ditetapkan Otoritas \nJasa Keuangan, untuk rencana tindak (action plan) \nyang merupakan tindak lanjut dari hasil penilaian \nTingkat \nKesehatan \nBank \noleh \nOtoritas \nJasa \nKeuangan;  \nb. \npaling lambat pada tanggal 15 Agustus untuk \npenilaian Tingkat Kesehatan Bank pada posisi       \nakhir bulan Juni dan tanggal 15 Februari untuk \npenilaian Tingkat Kesehatan Bank pada posisi       \nakhir    bulan    Desember,   untuk     rencana   tindak \n \n \n\n\n \n \n(action plan) yang merupakan tindak lanjut dari hasil \npenilaian sendiri (self-assessment) Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Apabila batas waktu penyampaian rencana tindak (action \nplan) atas hasil penilaian sendiri                 (self-assessment) \nBank sebagaimana dimaksud pada ayat (3) huruf b jatuh \npada hari Sabtu, hari Minggu atau hari libur, hasil \npenilaian sendiri (self-assessment) Tingkat Kesehatan \nBank disampaikan pada hari kerja berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TINDAK LANJUT HASIL PENILAIAN TINGKAT KESEHATAN BANK",
+      "teks_lengkap": "Bank wajib menyampaikan laporan pelaksanaan rencana \ntindak (action plan) sebagaimana dimaksud dalam Pasal 13 \npaling lambat: \na. \n10 (sepuluh) hari kerja setelah target waktu penyelesaian \nrencana tindak (action plan); dan/atau  \nb. \n10 (sepuluh) hari kerja setelah akhir bulan dan dilakukan \nsecara bulanan, dalam hal terdapat permasalahan yang \nsignifikan yang akan mengganggu penyelesaian rencana \ntindak (action plan) secara tepat waktu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib menyampaikan laporan pelaksanaan rencana \ntindak (action plan) sebagaimana dimaksud dalam Pasal 13 \npaling lambat: \na. \n10 (sepuluh) hari kerja setelah target waktu penyelesaian \nrencana tindak (action plan); dan/atau  \nb. \n10 (sepuluh) hari kerja setelah akhir bulan dan dilakukan \nsecara bulanan, dalam hal terdapat permasalahan yang \nsignifikan yang akan mengganggu penyelesaian rencana \ntindak (action plan) secara tepat waktu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "TINDAK LANJUT HASIL PENILAIAN TINGKAT KESEHATAN BANK",
+      "teks_lengkap": "Otoritas Jasa Keuangan berwenang melakukan pemeriksaan \nterhadap pelaksanaan rencana tindak (action plan) oleh Bank.  \n \nBAB VI \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan berwenang melakukan pemeriksaan \nterhadap pelaksanaan rencana tindak (action plan) oleh Bank.  \n \nBAB VI \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang melanggar ketentuan sebagaimana diatur dalam \nPasal 2 ayat (1), Pasal 2 ayat (3), Pasal 3, Pasal 6, Pasal 7, Pasal \n8, Pasal 9, Pasal 11 ayat (1), Pasal 12, Pasal 13     ayat (1), Pasal \n13 ayat (3) atau Pasal 14 dikenakan sanksi administratif, \nberupa:  \na. \nteguran tertulis; \n \n \n \n\n\n \n \nb. \npenurunan Tingkat Kesehatan Bank; \nc. \npembekuan kegiatan usaha tertentu; dan/atau \nd. \npencantuman pengurus dan/atau pemegang saham Bank \ndalam daftar pihak-pihak yang mendapatkan predikat \ntidak lulus dalam penilaian uji kemampuan dan kepatutan \n(fit and proper test). \n \nBAB VII  \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang melanggar ketentuan sebagaimana diatur dalam \nPasal 2 ayat (1), Pasal 2 ayat (3), Pasal 3, Pasal 6, Pasal 7, Pasal \n8, Pasal 9, Pasal 11 ayat (1), Pasal 12, Pasal 13     ayat (1), Pasal \n13 ayat (3) atau Pasal 14 dikenakan sanksi administratif, \nberupa:  \na. \nteguran tertulis; \n \n \n \n\n\n \n \nb. \npenurunan Tingkat Kesehatan Bank; \nc. \npembekuan kegiatan usaha tertentu; dan/atau \nd. \npencantuman pengurus dan/atau pemegang saham Bank \ndalam daftar pihak-pihak yang mendapatkan predikat \ntidak lulus dalam penilaian uji kemampuan dan kepatutan \n(fit and proper test). \n \nBAB VII  \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan pelaksanaan dari Peraturan Otoritas Jasa Keuangan \nini diatur lebih lanjut dalam Surat Edaran Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan pelaksanaan dari Peraturan Otoritas Jasa Keuangan \nini diatur lebih lanjut dalam Surat Edaran Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1)  Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia \nNomor \n13/1/PBI/2011 tanggal 5 Januari 2011  tentang Penilaian \nTingkat Kesehatan Bank Umum (Lembaran Negara \nRepublik Indonesia Tahun 2011 Nomor 1, Tambahan \nLembaran Negara Republik Indonesia Nomor 5184) \ndicabut dan dinyatakan tidak berlaku. \n(2) \nPeraturan pelaksanaan dari Peraturan Bank Indonesia \nNomor 13/1/PBI/2011 tanggal 5 Januari 2011 tentang \nPenilaian Tingkat Kesehatan Bank Umum dinyatakan \ntetap berlaku sepanjang tidak bertentangan dengan \nPeraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia \nNomor \n13/1/PBI/2011 tanggal 5 Januari 2011  tentang Penilaian \nTingkat Kesehatan Bank Umum (Lembaran Negara \nRepublik Indonesia Tahun 2011 Nomor 1, Tambahan \nLembaran Negara Republik Indonesia Nomor 5184) \ndicabut dan dinyatakan tidak berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peraturan pelaksanaan dari Peraturan Bank Indonesia \nNomor 13/1/PBI/2011 tanggal 5 Januari 2011 tentang \nPenilaian Tingkat Kesehatan Bank Umum dinyatakan \ntetap berlaku sepanjang tidak bertentangan dengan \nPeraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \nPada tanggal 26 Januari 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n       ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \nPada tanggal 27 Januari 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 16 \n \n \n \n \n \n \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum  \n \n \nttd \n \nYuliana \n\n\n \n \n PENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR    4 /POJK.03/2016 \nTENTANG \nPENILAIAN TINGKAT KESEHATAN BANK UMUM \n \nI. \nUMUM \nSesuai dengan Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-Undang     Nomor 10 \nTahun 1998, Bank wajib memelihara kesehatannya. Kesehatan Bank yang \nmerupakan cerminan kondisi dan kinerja Bank merupakan sarana bagi \notoritas pengawas dalam menetapkan strategi dan fokus pengawasan \nterhadap Bank. Selain itu, kesehatan Bank juga menjadi kepentingan \nsemua pihak terkait, baik pemilik, pengelola (manajemen), dan masyarakat \npengguna jasa Bank. \nPerkembangan industri perbankan, terutama produk dan jasa yang \nsemakin kompleks dan beragam dapat meningkatkan eksposur risiko dan \nprofil risiko Bank. Sejalan dengan itu pendekatan penilaian secara \ninternasional juga mengarah pada pendekatan pengawasan berdasarkan \nrisiko. Peningkatan eksposur risiko dan profil risiko serta penerapan \npendekatan pengawasan berdasarkan risiko tersebut selanjutnya akan \nmempengaruhi penilaian Tingkat Kesehatan Bank. \nSesuai dengan perkembangan usaha Bank yang senantiasa bersifat \ndinamis dan berpengaruh pada tingkat risiko yang dihadapi maka \nmetodologi \npenilaian \nTingkat \nKesehatan \nBank \nharus \ndapat      \nmencerminkan kondisi  Bank saat ini dan pada  waktu yang akan datang. \nHal tersebut diperlukan agar penilaian Tingkat  Kesehatan Bank dapat  \nlebih efektif  digunakan sebagai  alat  untuk  mengevaluasi  kinerja Bank  \ntermasuk      dalam     penerapan      manajemen    risiko    dengan    fokus\n \n\n\n \npada risiko yang signifikan, dan kepatuhan terhadap ketentuan yang \nberlaku serta penerapan prinsip kehati-hatian.  \nPenilaian Tingkat Kesehatan Bank dengan menggunakan pendekatan \nberdasarkan \nrisiko \nmerupakan \npenilaian \nyang \nkomprehensif \ndan \nterstruktur terhadap hasil integrasi profil risiko dan kinerja yang meliputi \npenerapan tata kelola yang baik, rentabilitas, dan permodalan. \nPendekatan tersebut memungkinkan Otoritas Jasa Keuangan sebagai \npengawas melakukan tindakan pengawasan yang sesuai dan tepat waktu \nkarena penilaian dilakukan secara komprehensif terhadap semua faktor \npenilaian dan difokuskan pada risiko yang signifikan serta dapat segera \ndikomunikasikan kepada Bank dalam rangka menetapkan tindak lanjut \npengawasan. \nSelain itu, sejalan dengan penerapan pengawasan berdasarkan risiko \nmaka pengawasan tidak cukup dilakukan hanya untuk Bank secara \nindividu tetapi juga harus dilakukan terhadap Bank secara konsolidasi \ntermasuk dalam penilaian tingkat kesehatan. Oleh karena itu, penilaian \nTingkat Kesehatan Bank juga harus mencakup penilaian Tingkat \nKesehatan Bank secara konsolidasi. \nSehubungan dengan itu, perlu menetapkan ketentuan mengenai \nTingkat Kesehatan Bank dalam suatu Peraturan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \nPada tanggal 26 Januari 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n       ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \nPada tanggal 27 Januari 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 16 \n \n \n \n \n \n \n \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum  \n \n \nttd \n \nYuliana \n\n\n \n \n PENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR    4 /POJK.03/2016 \nTENTANG \nPENILAIAN TINGKAT KESEHATAN BANK UMUM \n \nI. \nUMUM \nSesuai dengan Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-Undang     Nomor 10 \nTahun 1998, Bank wajib memelihara kesehatannya. Kesehatan Bank yang \nmerupakan cerminan kondisi dan kinerja Bank merupakan sarana bagi \notoritas pengawas dalam menetapkan strategi dan fokus pengawasan \nterhadap Bank. Selain itu, kesehatan Bank juga menjadi kepentingan \nsemua pihak terkait, baik pemilik, pengelola (manajemen), dan masyarakat \npengguna jasa Bank. \nPerkembangan industri perbankan, terutama produk dan jasa yang \nsemakin kompleks dan beragam dapat meningkatkan eksposur risiko dan \nprofil risiko Bank. Sejalan dengan itu pendekatan penilaian secara \ninternasional juga mengarah pada pendekatan pengawasan berdasarkan \nrisiko. Peningkatan eksposur risiko dan profil risiko serta penerapan \npendekatan pengawasan berdasarkan risiko tersebut selanjutnya akan \nmempengaruhi penilaian Tingkat Kesehatan Bank. \nSesuai dengan perkembangan usaha Bank yang senantiasa bersifat \ndinamis dan berpengaruh pada tingkat risiko yang dihadapi maka \nmetodologi \npenilaian \nTingkat \nKesehatan \nBank \nharus \ndapat      \nmencerminkan kondisi  Bank saat ini dan pada  waktu yang akan datang. \nHal tersebut diperlukan agar penilaian Tingkat  Kesehatan Bank dapat  \nlebih efektif  digunakan sebagai  alat  untuk  mengevaluasi  kinerja Bank  \ntermasuk      dalam     penerapan      manajemen    risiko    dengan    fokus\n \n\n\n \npada risiko yang signifikan, dan kepatuhan terhadap ketentuan yang \nberlaku serta penerapan prinsip kehati-hatian.  \nPenilaian Tingkat Kesehatan Bank dengan menggunakan pendekatan \nberdasarkan \nrisiko \nmerupakan \npenilaian \nyang \nkomprehensif \ndan \nterstruktur terhadap hasil integrasi profil risiko dan kinerja yang meliputi \npenerapan tata kelola yang baik, rentabilitas, dan permodalan. \nPendekatan tersebut memungkinkan Otoritas Jasa Keuangan sebagai \npengawas melakukan tindakan pengawasan yang sesuai dan tepat waktu \nkarena penilaian dilakukan secara komprehensif terhadap semua faktor \npenilaian dan difokuskan pada risiko yang signifikan serta dapat segera \ndikomunikasikan kepada Bank dalam rangka menetapkan tindak lanjut \npengawasan. \nSelain itu, sejalan dengan penerapan pengawasan berdasarkan risiko \nmaka pengawasan tidak cukup dilakukan hanya untuk Bank secara \nindividu tetapi juga harus dilakukan terhadap Bank secara konsolidasi \ntermasuk dalam penilaian tingkat kesehatan. Oleh karena itu, penilaian \nTingkat Kesehatan Bank juga harus mencakup penilaian Tingkat \nKesehatan Bank secara konsolidasi. \nSehubungan dengan itu, perlu menetapkan ketentuan mengenai \nTingkat Kesehatan Bank dalam suatu Peraturan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKesehatan Bank harus dipelihara dan/atau ditingkatkan agar \nkepercayaan masyarakat terhadap Bank dapat tetap terjaga. \nTingkat Kesehatan Bank digunakan sebagai salah satu sarana \ndalam \nmelakukan \nevaluasi \nterhadap \nkondisi \ndan        \npermasalahan yang dihadapi Bank serta menentukan tindak \nlanjut untuk mengatasi kelemahan atau permasalahan Bank, \nbaik berupa tindakan  perbaikan  (corrective action)   oleh   Bank \n \n \n\n\n \nmaupun tindakan pengawasan (supervisory action) oleh Otoritas \nJasa Keuangan. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenilaian Tingkat Kesehatan Bank secara konsolidasi diterapkan \nbagi Bank yang melakukan Pengendalian terhadap Perusahaan \nAnak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKesehatan Bank harus dipelihara dan/atau ditingkatkan agar \nkepercayaan masyarakat terhadap Bank dapat tetap terjaga. \nTingkat Kesehatan Bank digunakan sebagai salah satu sarana \ndalam \nmelakukan \nevaluasi \nterhadap \nkondisi \ndan        \npermasalahan yang dihadapi Bank serta menentukan tindak \nlanjut untuk mengatasi kelemahan atau permasalahan Bank, \nbaik berupa tindakan  perbaikan  (corrective action)   oleh   Bank \n \n \n\n\n \nmaupun tindakan pengawasan (supervisory action) oleh Otoritas \nJasa Keuangan. \nAyat (2) \nCukup jelas. \nAyat (3) \nPenilaian Tingkat Kesehatan Bank secara konsolidasi diterapkan \nbagi Bank yang melakukan Pengendalian terhadap Perusahaan \nAnak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPengkinian penilaian sendiri (self-assessment) Tingkat Kesehatan \nBank sewaktu-waktu dilakukan antara lain dalam hal: \na. \nkondisi keuangan Bank memburuk; \nb. \nBank menghadapi permasalahan antara lain risiko likuiditas \ndan permodalan; atau \nc. \nkondisi lainnya yang menurut Otoritas Jasa Keuangan perlu \ndilakukan pengkinian penilaian tingkat kesehatan. \nAyat (4) \nBagi kantor cabang dari bank yang berkedudukan di luar negeri, \nhasil penilaian sendiri (self-assessment) disampaikan kepada \npihak yang sesuai struktur organisasi internal Bank bertanggung \njawab untuk mengawasi secara langsung kegiatan dan kinerja \nkantor cabang dari bank yang berkedudukan di luar negeri \ntersebut di Indonesia. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nPengkinian penilaian sendiri (self-assessment) Tingkat Kesehatan \nBank sewaktu-waktu dilakukan antara lain dalam hal: \na. \nkondisi keuangan Bank memburuk; \nb. \nBank menghadapi permasalahan antara lain risiko likuiditas \ndan permodalan; atau \nc. \nkondisi lainnya yang menurut Otoritas Jasa Keuangan perlu \ndilakukan pengkinian penilaian tingkat kesehatan. \nAyat (4) \nBagi kantor cabang dari bank yang berkedudukan di luar negeri, \nhasil penilaian sendiri (self-assessment) disampaikan kepada \npihak yang sesuai struktur organisasi internal Bank bertanggung \njawab untuk mengawasi secara langsung kegiatan dan kinerja \nkantor cabang dari bank yang berkedudukan di luar negeri \ntersebut di Indonesia. \nAyat (5) \nCukup jelas. \nAyat (6) \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nInformasi lain dapat berupa: \na. \ninformasi hasil penilaian dari otoritas lain yang berwenang; \nb. \ninformasi yang diketahui secara umum seperti hasil \npenilaian dari lembaga pemeringkat dan informasi dari media \nmasa; dan/atau \nc. \ndata atau informasi terkait kantor cabang dari bank yang \nberkedudukan di luar negeri mengenai kondisi keuangan \ndan peringkat (rating) dari kantor pusatnya di luar negeri \nyang dihasilkan oleh otoritas yang berwenang atau lembaga \npemeringkat internasional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nInformasi lain dapat berupa: \na. \ninformasi hasil penilaian dari otoritas lain yang berwenang; \nb. \ninformasi yang diketahui secara umum seperti hasil \npenilaian dari lembaga pemeringkat dan informasi dari media \nmasa; dan/atau \nc. \ndata atau informasi terkait kantor cabang dari bank yang \nberkedudukan di luar negeri mengenai kondisi keuangan \ndan peringkat (rating) dari kantor pusatnya di luar negeri \nyang dihasilkan oleh otoritas yang berwenang atau lembaga \npemeringkat internasional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penilaian Tingkat Kesehatan Bank dengan menggunakan pendekatan \nrisiko (Risk-based Bank Rating) dilakukan berdasarkan analisis yang \nkomprehensif terhadap kinerja, profil risiko, permasalahan yang \ndihadapi, dan prospek perkembangan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian Tingkat Kesehatan Bank dengan menggunakan pendekatan \nrisiko (Risk-based Bank Rating) dilakukan berdasarkan analisis yang \nkomprehensif terhadap kinerja, profil risiko, permasalahan yang \ndihadapi, dan prospek perkembangan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenilaian risiko inheren merupakan penilaian atas risiko melekat \npada kegiatan   bisnis   Bank,   baik   yang   dapat \ndikuantifikasikan maupun yang tidak dapat dikuantifikasikan, \nyang berpotensi mempengaruhi posisi keuangan Bank. \nPenilaian kualitas penerapan manajemen risiko merupakan \npenilaian terhadap aspek:  \n \n \n \n\n\n \n \na. \ntata kelola risiko;  \nb. \nkerangka manajemen risiko;  \nc. \nproses manajemen risiko, kecukupan sumber daya manusia, \ndan kecukupan sistem informasi manajemen; serta  \nd. \nkecukupan \nsistem \npengendalian \nrisiko \ndengan \nmemperhatikan karakteristik dan kompleksitas usaha Bank. \nDefinisi dan cakupan terhadap masing-masing risiko mengacu \npada ketentuan yang mengatur mengenai penerapan manajemen \nrisiko bagi bank umum. \nAyat (2) \nPrinsip-prinsip GCG dan fokus penilaian terhadap pelaksanaan \nprinsip-prinsip GCG mengacu pada ketentuan yang mengatur \nmengenai good corporate governance bagi bank umum dengan \nmemperhatikan karakteristik dan kompleksitas usaha Bank. \nAyat (3) \nPenilaian terhadap kinerja rentabilitas (earnings), sumber-sumber \nrentabilitas (earnings), dan kesinambungan rentabilitas (earnings’ \nsustainability) Bank dilakukan dengan mempertimbangkan aspek \ntingkat, tren, struktur, dan stabilitas, dengan memperhatikan \nkinerja peer group serta manajemen rentabilitas Bank, baik \nmelalui analisis aspek kuantitatif maupun kualitatif. \nAnalisis aspek kuantitatif dilakukan dengan menggunakan \nindikator utama sebagai dasar penilaian. Selain itu, apabila \ndiperlukan dapat ditambahkan penggunaan indikator pendukung \nlainnya untuk mempertajam analisis, yang disesuaikan dengan \nskala bisnis, karakteristik, dan/atau kompleksitas usaha Bank. \nAnalisis \naspek \nkualitatif \ndilakukan \nantara \nlain \ndengan \nmempertimbangkan \nmanajemen \nrentabilitas, \nkontribusi \nrentabilitas (earnings) dalam meningkatkan modal, dan prospek \nrentabilitas (earnings). \n \n \n \n \n \n \n \n\n\n \n \nAyat (4) \nPenilaian \nterhadap \ntingkat \nkecukupan \npermodalan \ndan \npengelolaan \npermodalan \ndilakukan \nBank \ndengan \nmempertimbangkan tingkat, tren, struktur, dan stabilitas, dengan \nmemperhatikan kinerja peer group serta manajemen permodalan \nBank, baik melalui analisis aspek kuantitatif maupun kualitatif. \nAnalisis aspek kuantitatif dilakukan dengan menggunakan \nindikator \nutama. \nSelain \nitu \napabila \ndiperlukan \ndapat \nditambahkan penggunaan indikator pendukung lainnya untuk \nmempertajam analisis, yang disesuaikan dengan skala bisnis, \nkarakteristik, dan/atau kompleksitas usaha Bank. \nAnalisis \naspek \nkualitatif \ndilakukan \nantara \nlain \ndengan \nmempertimbangkan manajemen permodalan dan kemampuan \nakses permodalan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenilaian risiko inheren merupakan penilaian atas risiko melekat \npada kegiatan   bisnis   Bank,   baik   yang   dapat \ndikuantifikasikan maupun yang tidak dapat dikuantifikasikan, \nyang berpotensi mempengaruhi posisi keuangan Bank. \nPenilaian kualitas penerapan manajemen risiko merupakan \npenilaian terhadap aspek:  \n \n \n \n\n\n \n \na. \ntata kelola risiko;  \nb. \nkerangka manajemen risiko;  \nc. \nproses manajemen risiko, kecukupan sumber daya manusia, \ndan kecukupan sistem informasi manajemen; serta  \nd. \nkecukupan \nsistem \npengendalian \nrisiko \ndengan \nmemperhatikan karakteristik dan kompleksitas usaha Bank. \nDefinisi dan cakupan terhadap masing-masing risiko mengacu \npada ketentuan yang mengatur mengenai penerapan manajemen \nrisiko bagi bank umum. \nAyat (2) \nPrinsip-prinsip GCG dan fokus penilaian terhadap pelaksanaan \nprinsip-prinsip GCG mengacu pada ketentuan yang mengatur \nmengenai good corporate governance bagi bank umum dengan \nmemperhatikan karakteristik dan kompleksitas usaha Bank. \nAyat (3) \nPenilaian terhadap kinerja rentabilitas (earnings), sumber-sumber \nrentabilitas (earnings), dan kesinambungan rentabilitas (earnings’ \nsustainability) Bank dilakukan dengan mempertimbangkan aspek \ntingkat, tren, struktur, dan stabilitas, dengan memperhatikan \nkinerja peer group serta manajemen rentabilitas Bank, baik \nmelalui analisis aspek kuantitatif maupun kualitatif. \nAnalisis aspek kuantitatif dilakukan dengan menggunakan \nindikator utama sebagai dasar penilaian. Selain itu, apabila \ndiperlukan dapat ditambahkan penggunaan indikator pendukung \nlainnya untuk mempertajam analisis, yang disesuaikan dengan \nskala bisnis, karakteristik, dan/atau kompleksitas usaha Bank. \nAnalisis \naspek \nkualitatif \ndilakukan \nantara \nlain \ndengan \nmempertimbangkan \nmanajemen \nrentabilitas, \nkontribusi \nrentabilitas (earnings) dalam meningkatkan modal, dan prospek \nrentabilitas (earnings). \n \n \n \n \n \n \n \n\n\n \n \nAyat (4) \nPenilaian \nterhadap \ntingkat \nkecukupan \npermodalan \ndan \npengelolaan \npermodalan \ndilakukan \nBank \ndengan \nmempertimbangkan tingkat, tren, struktur, dan stabilitas, dengan \nmemperhatikan kinerja peer group serta manajemen permodalan \nBank, baik melalui analisis aspek kuantitatif maupun kualitatif. \nAnalisis aspek kuantitatif dilakukan dengan menggunakan \nindikator \nutama. \nSelain \nitu \napabila \ndiperlukan \ndapat \nditambahkan penggunaan indikator pendukung lainnya untuk \nmempertajam analisis, yang disesuaikan dengan skala bisnis, \nkarakteristik, dan/atau kompleksitas usaha Bank. \nAnalisis \naspek \nkualitatif \ndilakukan \nantara \nlain \ndengan \nmempertimbangkan manajemen permodalan dan kemampuan \nakses permodalan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPeringkat setiap faktor dikategorikan: \na. Peringkat 1; \nb. Peringkat 2; \nc. Peringkat 3; \nd. Peringkat 4; dan \ne. Peringkat 5. \nUrutan peringkat faktor yang lebih kecil mencerminkan kondisi \nBank yang lebih baik. \nAyat (2) \nHuruf a \nTingkat risiko ditetapkan berdasarkan tingkat risiko inheren \ndan kualitas penerapan manajemen risiko dari masing-\nmasing risiko. \nHuruf b \nPenetapan tingkat risiko inheren dan kualitas penerapan \nmanajemen \nrisiko \nsecara \nkomposit \ndilakukan       \nberdasarkan analisis secara  komprehensif dan terstruktur \nterhadap tingkat risiko inheren dan kualitas penerapan  \nmanajemen        risiko       dari        masing-masing      risiko  \n \n\n\n \n \ndengan memperhatikan signifikansi masing-masing risiko \nterhadap profil risiko secara keseluruhan. \nHuruf c \nCukup jelas. \nAyat (3) \nHasil \npenilaian \npelaksanaan \nprinsip-prinsip \nGCG \nBank \nsebagaimana diatur dalam ketentuan yang mengatur mengenai \nGCG bagi bank umum hanya merupakan salah satu sumber \npenilaian peringkat faktor GCG Bank dalam penilaian Tingkat \nKesehatan Bank. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPeringkat setiap faktor dikategorikan: \na. Peringkat 1; \nb. Peringkat 2; \nc. Peringkat 3; \nd. Peringkat 4; dan \ne. Peringkat 5. \nUrutan peringkat faktor yang lebih kecil mencerminkan kondisi \nBank yang lebih baik. \nAyat (2) \nHuruf a \nTingkat risiko ditetapkan berdasarkan tingkat risiko inheren \ndan kualitas penerapan manajemen risiko dari masing-\nmasing risiko. \nHuruf b \nPenetapan tingkat risiko inheren dan kualitas penerapan \nmanajemen \nrisiko \nsecara \nkomposit \ndilakukan       \nberdasarkan analisis secara  komprehensif dan terstruktur \nterhadap tingkat risiko inheren dan kualitas penerapan  \nmanajemen        risiko       dari        masing-masing      risiko  \n \n\n\n \n \ndengan memperhatikan signifikansi masing-masing risiko \nterhadap profil risiko secara keseluruhan. \nHuruf c \nCukup jelas. \nAyat (3) \nHasil \npenilaian \npelaksanaan \nprinsip-prinsip \nGCG \nBank \nsebagaimana diatur dalam ketentuan yang mengatur mengenai \nGCG bagi bank umum hanya merupakan salah satu sumber \npenilaian peringkat faktor GCG Bank dalam penilaian Tingkat \nKesehatan Bank. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nAnalisis \nsecara \nkomprehensif \ndilakukan \njuga \ndengan \nmempertimbangkan kemampuan Bank dalam menghadapi \nperubahan kondisi eksternal yang signifikan. \nAyat (2) \nUrutan Peringkat Komposit yang lebih kecil mencerminkan \nkondisi Bank yang lebih sehat. \nAyat (3) \nKondisi yang secara umum sangat sehat sehingga dinilai sangat \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum sangat baik. Apabila terdapat kelemahan maka \nsecara umum kelemahan tersebut tidak signifikan. \nAyat (4) \nKondisi yang secara umum sehat sehingga dinilai mampu \nmenghadapi pengaruh negatif yang signifikan dari perubahan \nkondisi bisnis dan faktor eksternal lainnya, tercermin dari \nperingkat    faktor-faktor   penilaian, antara    lain   profil   risiko, \n \n\n\n \n \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum baik. Apabila terdapat kelemahan maka secara \numum kelemahan tersebut kurang signifikan.  \nAyat (5) \nKondisi yang secara umum cukup sehat sehingga dinilai cukup \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya, tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum cukup baik. Apabila terdapat kelemahan maka \nsecara umum kelemahan tersebut cukup signifikan dan apabila \ntidak berhasil diatasi dengan baik oleh manajemen dapat \nmengganggu kelangsungan usaha Bank. \nAyat (6) \nKondisi yang secara umum kurang sehat sehingga dinilai kurang \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya, tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum kurang baik. Terdapat kelemahan yang secara \numum signifikan dan tidak dapat diatasi dengan baik oleh \nmanajemen serta mengganggu kelangsungan usaha Bank. \nAyat (7) \nKondisi yang secara umum tidak sehat sehingga dinilai tidak \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya, tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum tidak baik. Terdapat kelemahan yang secara umum \nsangat signifikan sehingga untuk mengatasinya dibutuhkan \ndukungan dana dari pemegang saham atau sumber dana dari \npihak lain untuk memperkuat kondisi keuangan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nAnalisis \nsecara \nkomprehensif \ndilakukan \njuga \ndengan \nmempertimbangkan kemampuan Bank dalam menghadapi \nperubahan kondisi eksternal yang signifikan. \nAyat (2) \nUrutan Peringkat Komposit yang lebih kecil mencerminkan \nkondisi Bank yang lebih sehat. \nAyat (3) \nKondisi yang secara umum sangat sehat sehingga dinilai sangat \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum sangat baik. Apabila terdapat kelemahan maka \nsecara umum kelemahan tersebut tidak signifikan. \nAyat (4) \nKondisi yang secara umum sehat sehingga dinilai mampu \nmenghadapi pengaruh negatif yang signifikan dari perubahan \nkondisi bisnis dan faktor eksternal lainnya, tercermin dari \nperingkat    faktor-faktor   penilaian, antara    lain   profil   risiko, \n \n\n\n \n \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum baik. Apabila terdapat kelemahan maka secara \numum kelemahan tersebut kurang signifikan.  \nAyat (5) \nKondisi yang secara umum cukup sehat sehingga dinilai cukup \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya, tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum cukup baik. Apabila terdapat kelemahan maka \nsecara umum kelemahan tersebut cukup signifikan dan apabila \ntidak berhasil diatasi dengan baik oleh manajemen dapat \nmengganggu kelangsungan usaha Bank. \nAyat (6) \nKondisi yang secara umum kurang sehat sehingga dinilai kurang \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya, tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum kurang baik. Terdapat kelemahan yang secara \numum signifikan dan tidak dapat diatasi dengan baik oleh \nmanajemen serta mengganggu kelangsungan usaha Bank. \nAyat (7) \nKondisi yang secara umum tidak sehat sehingga dinilai tidak \nmampu menghadapi pengaruh negatif yang signifikan dari \nperubahan kondisi bisnis dan faktor eksternal lainnya, tercermin \ndari peringkat faktor-faktor penilaian, antara lain profil risiko, \npenerapan GCG, rentabilitas (earnings), dan permodalan, yang \nsecara umum tidak baik. Terdapat kelemahan yang secara umum \nsangat signifikan sehingga untuk mengatasinya dibutuhkan \ndukungan dana dari pemegang saham atau sumber dana dari \npihak lain untuk memperkuat kondisi keuangan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Analisis signifikansi pengaruh suatu permasalahan dilakukan dengan \nmempertimbangkan antara lain: \na. \ndampak negatif permasalahan dan/atau pelanggaran ketentuan \nterhadap kelangsungan usaha atau kinerja Bank; \nb. \nterdapat indikasi kesengajaan dari pelanggaran ketentuan; \nc. \nterdapat indikasi kesengajaan tidak terpenuhinya komitmen; \ndan/atau \nd. \njumlah dan/atau frekuensi pelanggaran. \nContoh permasalahan atau pelanggaran yang berpengaruh signifikan \nantara lain adalah rekayasa termasuk window dressing dan \nperselisihan intern manajemen yang mempengaruhi operasional \ndan/atau kelangsungan usaha Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Analisis signifikansi pengaruh suatu permasalahan dilakukan dengan \nmempertimbangkan antara lain: \na. \ndampak negatif permasalahan dan/atau pelanggaran ketentuan \nterhadap kelangsungan usaha atau kinerja Bank; \nb. \nterdapat indikasi kesengajaan dari pelanggaran ketentuan; \nc. \nterdapat indikasi kesengajaan tidak terpenuhinya komitmen; \ndan/atau \nd. \njumlah dan/atau frekuensi pelanggaran. \nContoh permasalahan atau pelanggaran yang berpengaruh signifikan \nantara lain adalah rekayasa termasuk window dressing dan \nperselisihan intern manajemen yang mempengaruhi operasional \ndan/atau kelangsungan usaha Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenilaian Tingkat Kesehatan Bank dengan menggunakan \npendekatan risiko (risk-based bank rating) dilakukan berdasarkan \nanalisis yang komprehensif terhadap kinerja, profil risiko, \npermasalahan yang dihadapi, dan prospek perkembangan Bank. \nPenilaian terhadap masing-masing faktor dilakukan secara \nkonsolidasi antara Bank dengan Perusahaan Anak. \nAyat (2) \nRisiko Perusahaan Anak yang dinilai untuk pengukuran profil \nrisiko secara konsolidasi ditetapkan dengan memperhatikan \nkarakteristik usaha Perusahaan Anak dan pengaruhnya terhadap \nprofil risiko Bank secara konsolidasi. \nPengukuran tingkat risiko secara konsolidasi dilakukan dengan \nmenggunakan parameter-parameter pengukuran risiko yang \nsesuai dengan karakteristik usaha Perusahaan Anak. \nAyat (3) \nFaktor-faktor penilaian GCG Perusahaan Anak yang digunakan \nuntuk \npenilaian \npelaksanaan \nprinsip-prinsip \nGCG                   \nsecara      konsolidasi      ditetapkan    dengan      memperhatikan \n \n \n \n\n\n \n \nkarakteristik usaha Perusahaan Anak dan pengaruhnya terhadap \nGCG Bank secara konsolidasi. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenilaian Tingkat Kesehatan Bank dengan menggunakan \npendekatan risiko (risk-based bank rating) dilakukan berdasarkan \nanalisis yang komprehensif terhadap kinerja, profil risiko, \npermasalahan yang dihadapi, dan prospek perkembangan Bank. \nPenilaian terhadap masing-masing faktor dilakukan secara \nkonsolidasi antara Bank dengan Perusahaan Anak. \nAyat (2) \nRisiko Perusahaan Anak yang dinilai untuk pengukuran profil \nrisiko secara konsolidasi ditetapkan dengan memperhatikan \nkarakteristik usaha Perusahaan Anak dan pengaruhnya terhadap \nprofil risiko Bank secara konsolidasi. \nPengukuran tingkat risiko secara konsolidasi dilakukan dengan \nmenggunakan parameter-parameter pengukuran risiko yang \nsesuai dengan karakteristik usaha Perusahaan Anak. \nAyat (3) \nFaktor-faktor penilaian GCG Perusahaan Anak yang digunakan \nuntuk \npenilaian \npelaksanaan \nprinsip-prinsip \nGCG                   \nsecara      konsolidasi      ditetapkan    dengan      memperhatikan \n \n \n \n\n\n \n \nkarakteristik usaha Perusahaan Anak dan pengaruhnya terhadap \nGCG Bank secara konsolidasi. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nRencana tindak (action plan) memuat langkah-langkah perbaikan \nyang akan dilaksanakan oleh Bank dalam rangka mengatasi \npermasalahan signifikan yang dihadapi beserta target waktu \npenyelesaiannya. \nRencana tindak (action plan) yang disampaikan oleh Bank \nmerupakan komitmen Bank kepada Otoritas Jasa Keuangan. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nBatas waktu tertentu penyampaian rencana tindak (action \nplan) \nditetapkan \nOtoritas \nJasa \nKeuangan \ndengan \nmempertimbangkan tingkat kompleksitas dan signifikansi \npermasalahan Bank. \nHuruf b \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nRencana tindak (action plan) memuat langkah-langkah perbaikan \nyang akan dilaksanakan oleh Bank dalam rangka mengatasi \npermasalahan signifikan yang dihadapi beserta target waktu \npenyelesaiannya. \nRencana tindak (action plan) yang disampaikan oleh Bank \nmerupakan komitmen Bank kepada Otoritas Jasa Keuangan. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nBatas waktu tertentu penyampaian rencana tindak (action \nplan) \nditetapkan \nOtoritas \nJasa \nKeuangan \ndengan \nmempertimbangkan tingkat kompleksitas dan signifikansi \npermasalahan Bank. \nHuruf b \nCukup jelas. \nAyat (4) \nYang dimaksud dengan “hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nTarget waktu penyelesaian rencana tindak (action plan) meliputi \ntarget \nwaktu \npenyelesaian \nsetiap \ntahapan \nrencana                   \n\n\n \n \ntindak (action plan) maupun penyelesaian secara keseluruhan. \nLaporan \npelaksanaan \nrencana \ntindak \n(action \nplan) \nyang \ndisampaikan oleh Bank antara lain memuat penjelasan mengenai \nrealisasi pelaksanaan rencana tindak (action plan), disertai bukti \npelaksanaan dan/atau dokumen pendukung terkait. \nHuruf b \nLaporan \npelaksanaan \nrencana \ntindak \n(action \nplan) \nyang \ndisampaikan oleh Bank antara lain memuat penjelasan mengenai \nperkembangan \ndan \npermasalahan \nyang \ndihadapi \ndalam \npelaksanaan rencana tindak (action plan) disertai bukti dan/atau \ndokumen pendukung terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nTarget waktu penyelesaian rencana tindak (action plan) meliputi \ntarget \nwaktu \npenyelesaian \nsetiap \ntahapan \nrencana                   \n\n\n \n \ntindak (action plan) maupun penyelesaian secara keseluruhan. \nLaporan \npelaksanaan \nrencana \ntindak \n(action \nplan) \nyang \ndisampaikan oleh Bank antara lain memuat penjelasan mengenai \nrealisasi pelaksanaan rencana tindak (action plan), disertai bukti \npelaksanaan dan/atau dokumen pendukung terkait. \nHuruf b \nLaporan \npelaksanaan \nrencana \ntindak \n(action \nplan) \nyang \ndisampaikan oleh Bank antara lain memuat penjelasan mengenai \nperkembangan \ndan \npermasalahan \nyang \ndihadapi \ndalam \npelaksanaan rencana tindak (action plan) disertai bukti dan/atau \ndokumen pendukung terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5840",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5840"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 38,
+  "total_ayat": 69,
+  "total_karakter": 37371,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

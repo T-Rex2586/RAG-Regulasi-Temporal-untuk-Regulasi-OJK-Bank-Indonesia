@@ -1,0 +1,362 @@
+{
+  "doc_id": "BI_PADG_2024_667_667",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "667",
+  "tahun": "2024",
+  "judul": "Pelaksanaan Operasi Pasar Terbuka",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "17 April 2024",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [],
+  "pasal_list": [
+    {
+      "pasal_nomor": "76A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Transaksi Repo OPT Konvensional dengan mekanisme \nnonlelang \ndilakukan \nsecara \nbilateral \nantara \nBank \nIndonesia dengan Peserta OPT Konvensional secara \nlangsung atau melalui Lembaga Perantara.  \n \n3. \nDitambahkan 1 (satu) paragraf pada Bagian Keempat Bab \nII yakni Paragraf 4B sehingga berbunyi sebagai berikut: \n \nParagraf 4B \nPengumuman Rencana Transaksi Repo OPT \nKonvensional dengan Mekanisme Nonlelang \n \n4. \nDi antara Pasal 76A dan Pasal 77 disisipkan 1 (satu) pasal \nyakni Pasal 76B sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Transaksi Repo OPT Konvensional dengan mekanisme \nnonlelang \ndilakukan \nsecara \nbilateral \nantara \nBank \nIndonesia dengan Peserta OPT Konvensional secara \nlangsung atau melalui Lembaga Perantara.  \n \n3. \nDitambahkan 1 (satu) paragraf pada Bagian Keempat Bab \nII yakni Paragraf 4B sehingga berbunyi sebagai berikut: \n \nParagraf 4B \nPengumuman Rencana Transaksi Repo OPT \nKonvensional dengan Mekanisme Nonlelang \n \n4. \nDi antara Pasal 76A dan Pasal 77 disisipkan 1 (satu) pasal \nyakni Pasal 76B sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nBank Indonesia mengumumkan rencana Transaksi \nRepo OPT Konvensional dengan mekanisme nonlelang \ndan/atau perubahannya paling lambat sebelum \nwindow time Transaksi Repo OPT Konvensional \ndengan mekanisme nonlelang dibuka melalui Sistem \nBI-ETP, dan/atau sarana informasi lainnya yang \ndigunakan oleh Bank Indonesia. \n(2) \nPengumuman \nrencana \nTransaksi \nRepo \nOPT \nKonvensional \ndengan \nmekanisme \nnonlelang \nsebagaimana dimaksud pada ayat (1) memuat \ninformasi: \na. \nsarana transaksi; \nb. \npeserta transaksi; \nc. \nhari dan tanggal transaksi; \nd. \nwindow time; \ne. \njangka waktu; \nf. \ntanggal jatuh waktu; \ng. \nsuku bunga repo (repo rate); \nh. \njenis surat berharga yang dapat di-repo-kan; \ni. \nhaircut; \nj. \ntanggal dan waktu setelmen; dan/atau \nk. \ninformasi lainnya apabila diperlukan. \n \n5. \nDitambahkan 1 (satu) paragraf pada Bagian Keempat Bab \nII yakni Paragraf 4C sehingga berbunyi sebagai berikut: \n \nParagraf 4C \nPengajuan Transaksi Repo OPT Konvensional  \ndengan Mekanisme Nonlelang \n \n6. \nDi antara Pasal 76B dan Pasal 77 disisipkan 1 (satu) pasal \nyakni Pasal 76C sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengumumkan rencana Transaksi \nRepo OPT Konvensional dengan mekanisme nonlelang \ndan/atau perubahannya paling lambat sebelum \nwindow time Transaksi Repo OPT Konvensional \ndengan mekanisme nonlelang dibuka melalui Sistem \nBI-ETP, dan/atau sarana informasi lainnya yang \ndigunakan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengumuman \nrencana \nTransaksi \nRepo \nOPT \nKonvensional \ndengan \nmekanisme \nnonlelang \nsebagaimana dimaksud pada ayat (1) memuat \ninformasi: \na. \nsarana transaksi; \nb. \npeserta transaksi; \nc. \nhari dan tanggal transaksi; \nd. \nwindow time; \ne. \njangka waktu; \nf. \ntanggal jatuh waktu; \ng. \nsuku bunga repo (repo rate); \nh. \njenis surat berharga yang dapat di-repo-kan; \ni. \nhaircut; \nj. \ntanggal dan waktu setelmen; dan/atau \nk. \ninformasi lainnya apabila diperlukan. \n \n5. \nDitambahkan 1 (satu) paragraf pada Bagian Keempat Bab \nII yakni Paragraf 4C sehingga berbunyi sebagai berikut: \n \nParagraf 4C \nPengajuan Transaksi Repo OPT Konvensional  \ndengan Mekanisme Nonlelang \n \n6. \nDi antara Pasal 76B dan Pasal 77 disisipkan 1 (satu) pasal \nyakni Pasal 76C sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta OPT Konvensional secara langsung dan/atau \nmelalui Lembaga Perantara mengajukan Transaksi \nRepo OPT Konvensional dengan mekanisme nonlelang \nkepada Bank Indonesia melalui Sistem BI-ETP \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia.   \n(2) \nPengajuan \npenawaran \nTransaksi \nRepo \nOPT \nKonvensional \ndengan \nmekanisme \nnonlelang \nsebagaimana dimaksud pada ayat (1) meliputi \ninformasi nilai nominal, jenis, dan seri surat berharga \nuntuk masing-masing jangka waktu Transaksi Repo \nOPT Konvensional dengan mekanisme nonlelang. \n(3) \nPeserta \nOPT \nKonvensional \nmengajukan \nsetiap \npenawaran dengan nilai nominal paling sedikit \nsebesar Rp1.000.000.000,00 (satu miliar rupiah) dan \nselebihnya \ndengan \nkelipatan \nsebesar \nRp100.000.000,00 (seratus juta rupiah). \n \n7. \nDitambahkan 1 (satu) paragraf pada Bagian Keempat Bab \nII yakni Paragraf 4D sehingga berbunyi sebagai berikut: \n \nParagraf 4D \nPenetapan dan Pengumuman Hasil Transaksi Repo OPT \nKonvensional dengan Mekanisme Nonlelang \n \n8. \nDi antara Pasal 76C dan Pasal 77 disisipkan 2 (dua) pasal, \nyakni Pasal 76D dan Pasal 76E sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta OPT Konvensional secara langsung dan/atau \nmelalui Lembaga Perantara mengajukan Transaksi \nRepo OPT Konvensional dengan mekanisme nonlelang \nkepada Bank Indonesia melalui Sistem BI-ETP \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan \npenawaran \nTransaksi \nRepo \nOPT \nKonvensional \ndengan \nmekanisme \nnonlelang \nsebagaimana dimaksud pada ayat (1) meliputi \ninformasi nilai nominal, jenis, dan seri surat berharga \nuntuk masing-masing jangka waktu Transaksi Repo \nOPT Konvensional dengan mekanisme nonlelang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta \nOPT \nKonvensional \nmengajukan \nsetiap \npenawaran dengan nilai nominal paling sedikit \nsebesar Rp1.000.000.000,00 (satu miliar rupiah) dan \nselebihnya \ndengan \nkelipatan \nsebesar \nRp100.000.000,00 (seratus juta rupiah). \n \n7. \nDitambahkan 1 (satu) paragraf pada Bagian Keempat Bab \nII yakni Paragraf 4D sehingga berbunyi sebagai berikut: \n \nParagraf 4D \nPenetapan dan Pengumuman Hasil Transaksi Repo OPT \nKonvensional dengan Mekanisme Nonlelang \n \n8. \nDi antara Pasal 76C dan Pasal 77 disisipkan 2 (dua) pasal, \nyakni Pasal 76D dan Pasal 76E sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76D",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Bank Indonesia dapat menerima seluruh atau sebagian \npengajuan Transaksi Repo OPT Konvensional dengan \nmekanisme \nnonlelang \nyang \ndiajukan \nPeserta \nOPT \nKonvensional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dapat menerima seluruh atau sebagian \npengajuan Transaksi Repo OPT Konvensional dengan \nmekanisme \nnonlelang \nyang \ndiajukan \nPeserta \nOPT \nKonvensional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76E",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Bank Indonesia mengumumkan hasil Transaksi Repo OPT \nKonvensional dengan mekanisme nonlelang dengan \nketentuan sebagai berikut: \na. \nsecara individual kepada Peserta OPT Konvensional \nyang mengajukan Transaksi Repo OPT Konvensional \ndengan mekanisme nonlelang melalui Sistem BI-ETP \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia, berupa nilai nominal, nilai transaksi, repo \nrate, dan/atau informasi lainnya; dan \nb. \nsecara keseluruhan melalui Sistem BI-ETP dan/atau \nsarana lain yang ditetapkan oleh Bank Indonesia, \nberupa nilai nominal yang diterima, repo rate, \ndan/atau informasi lainnya. \n \n9. \nKetentuan ayat (1) Pasal 77 diubah sehingga berbunyi \nsebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia mengumumkan hasil Transaksi Repo OPT \nKonvensional dengan mekanisme nonlelang dengan \nketentuan sebagai berikut: \na. \nsecara individual kepada Peserta OPT Konvensional \nyang mengajukan Transaksi Repo OPT Konvensional \ndengan mekanisme nonlelang melalui Sistem BI-ETP \ndan/atau sarana lain yang ditetapkan oleh Bank \nIndonesia, berupa nilai nominal, nilai transaksi, repo \nrate, dan/atau informasi lainnya; dan \nb. \nsecara keseluruhan melalui Sistem BI-ETP dan/atau \nsarana lain yang ditetapkan oleh Bank Indonesia, \nberupa nilai nominal yang diterima, repo rate, \ndan/atau informasi lainnya. \n \n9. \nKetentuan ayat (1) Pasal 77 diubah sehingga berbunyi \nsebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "77",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nBank Indonesia melakukan setelmen first leg paling \nlambat 1 (satu) Hari Kerja setelah pengumuman hasil \nTransaksi \nRepo \nOPT \nKonvensional \ndengan \nmekanisme lelang atau nonlelang. \n(2) \nPeserta OPT Konvensional wajib memiliki Surat \nBerharga \ndi \nRekening \nSurat \nBerharga \nyang \nmencukupi untuk setelmen first leg. \n(3) \nSetelmen first leg dilakukan melalui Sistem BI-RTGS \ndan \nBI-SSSS \ndengan \nmekanisme \npenyelesaian \ntransaksi per transaksi (gross to gross) dan DVP \nsebagai berikut: \na. \nSetelmen Surat Berharga, dengan mendebit \nRekening Surat Berharga sebesar nilai nominal \nsurat berharga yang di-repo-kan; dan \nb. \nSetelmen Dana, dengan mengkredit Rekening \nGiro rupiah sebesar nilai setelmen first leg. \n \n10. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Belas \nBab II yakni Paragraf 8A sehingga berbunyi sebagai \nberikut: \n \nParagraf 8A \nPengumuman Rencana Transaksi DNDF secara Nonlelang \n \n11. Di antara Pasal 229 dan Pasal 230 disisipkan 1 (satu) pasal \nyakni Pasal 229A sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan setelmen first leg paling \nlambat 1 (satu) Hari Kerja setelah pengumuman hasil \nTransaksi \nRepo \nOPT \nKonvensional \ndengan \nmekanisme lelang atau nonlelang."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peserta OPT Konvensional wajib memiliki Surat \nBerharga \ndi \nRekening \nSurat \nBerharga \nyang \nmencukupi untuk setelmen first leg."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Setelmen first leg dilakukan melalui Sistem BI-RTGS \ndan \nBI-SSSS \ndengan \nmekanisme \npenyelesaian \ntransaksi per transaksi (gross to gross) dan DVP \nsebagai berikut: \na. \nSetelmen Surat Berharga, dengan mendebit \nRekening Surat Berharga sebesar nilai nominal \nsurat berharga yang di-repo-kan; dan \nb. \nSetelmen Dana, dengan mengkredit Rekening \nGiro rupiah sebesar nilai setelmen first leg. \n \n10. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Belas \nBab II yakni Paragraf 8A sehingga berbunyi sebagai \nberikut: \n \nParagraf 8A \nPengumuman Rencana Transaksi DNDF secara Nonlelang \n \n11. Di antara Pasal 229 dan Pasal 230 disisipkan 1 (satu) pasal \nyakni Pasal 229A sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nBank Indonesia mengumumkan rencana Transaksi \nDNDF secara nonlelang dan/atau perubahannya \npaling lambat sebelum window time Transaksi DNDF \nsecara nonlelang dibuka melalui sarana dealing \nsystem dan/atau sarana informasi lainnya yang \ndigunakan oleh Bank Indonesia. \n(2) \nPengumuman rencana Transaksi DNDF secara \nnonlelang sebagaimana dimaksud pada ayat (1) \nmemuat informasi: \na. \ntanggal transaksi; \nb. \npeserta transaksi; \nc. \nwindow time transaksi; \nd. \njenis valuta asing; \ne. \njangka waktu transaksi; \nf. \ntanggal spot; \ng. \ntanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date); \nh. \ntanggal penyelesaian transaksi (tanggal valuta); \ni. \nkurs DNDF; \nj. \nkurs acuan yang digunakan pada saat fixing date \nadalah kurs JISDOR; \nk. \nsarana transaksi; dan/atau \nl. \ninformasi lainnya apabila diperlukan. \n \n\n\n \n \n \n12. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Belas \nBab II yakni Paragraf 8B sehingga berbunyi sebagai \nberikut: \n \nParagraf 8B \nPengajuan Transaksi DNDF secara Nonlelang \n \n13. Di antara Pasal 229A dan Pasal 230 disisipkan 4 (empat) \npasal yakni Pasal 229B, Pasal 229C, Pasal 229D, dan Pasal \n229E, sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengumumkan rencana Transaksi \nDNDF secara nonlelang dan/atau perubahannya \npaling lambat sebelum window time Transaksi DNDF \nsecara nonlelang dibuka melalui sarana dealing \nsystem dan/atau sarana informasi lainnya yang \ndigunakan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengumuman rencana Transaksi DNDF secara \nnonlelang sebagaimana dimaksud pada ayat (1) \nmemuat informasi: \na. \ntanggal transaksi; \nb. \npeserta transaksi; \nc. \nwindow time transaksi; \nd. \njenis valuta asing; \ne. \njangka waktu transaksi; \nf. \ntanggal spot; \ng. \ntanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date); \nh. \ntanggal penyelesaian transaksi (tanggal valuta); \ni. \nkurs DNDF; \nj. \nkurs acuan yang digunakan pada saat fixing date \nadalah kurs JISDOR; \nk. \nsarana transaksi; dan/atau \nl. \ninformasi lainnya apabila diperlukan. \n \n\n\n \n \n \n12. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Belas \nBab II yakni Paragraf 8B sehingga berbunyi sebagai \nberikut: \n \nParagraf 8B \nPengajuan Transaksi DNDF secara Nonlelang \n \n13. Di antara Pasal 229A dan Pasal 230 disisipkan 4 (empat) \npasal yakni Pasal 229B, Pasal 229C, Pasal 229D, dan Pasal \n229E, sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta OPT Konvensional secara langsung dan/atau \nmelalui Lembaga Perantara mengajukan Transaksi \nDNDF secara nonlelang kepada Bank Indonesia \nmelalui sarana dealing system dan/atau sarana \ntransaksi \nlainnya \nyang \nditetapkan \noleh \nBank \nIndonesia.  \n(2) \nPengajuan \nTransaksi \nDNDF \nsecara \nnonlelang \nsebagaimana dimaksud pada ayat (1) memuat \ninformasi: \na. \nnama Peserta OPT Konvensional; \nb. \ntanggal transaksi; \nc. \njenis valuta asing; \nd. \njangka waktu transaksi; \ne. \nnilai nominal transaksi; \nf. \ntanggal spot; \ng. \ntanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date); \nh. \ntanggal penyelesaian transaksi; \ni. \nnomor \nrekening \ngiro \nrupiah \nPeserta \nOPT \nKonvensional di Bank Indonesia; dan/atau \nj. \ninformasi lainnya apabila diperlukan. \n(3) \nPeserta \nOPT \nKonvensional \nmengajukan \nsetiap \npenawaran nilai nominal paling sedikit sebesar \nUSD1,000,000.00 (satu juta dolar Amerika Serikat) \ndan selebihnya dengan kelipatan USD1,000,000.00 \n(satu juta dolar Amerika Serikat).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta OPT Konvensional secara langsung dan/atau \nmelalui Lembaga Perantara mengajukan Transaksi \nDNDF secara nonlelang kepada Bank Indonesia \nmelalui sarana dealing system dan/atau sarana \ntransaksi \nlainnya \nyang \nditetapkan \noleh \nBank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan \nTransaksi \nDNDF \nsecara \nnonlelang \nsebagaimana dimaksud pada ayat (1) memuat \ninformasi: \na. \nnama Peserta OPT Konvensional; \nb. \ntanggal transaksi; \nc. \njenis valuta asing; \nd. \njangka waktu transaksi; \ne. \nnilai nominal transaksi; \nf. \ntanggal spot; \ng. \ntanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date); \nh. \ntanggal penyelesaian transaksi; \ni. \nnomor \nrekening \ngiro \nrupiah \nPeserta \nOPT \nKonvensional di Bank Indonesia; dan/atau \nj. \ninformasi lainnya apabila diperlukan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta \nOPT \nKonvensional \nmengajukan \nsetiap \npenawaran nilai nominal paling sedikit sebesar \nUSD1,000,000.00 (satu juta dolar Amerika Serikat) \ndan selebihnya dengan kelipatan USD1,000,000.00 \n(satu juta dolar Amerika Serikat)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta OPT Konvensional dapat melakukan koreksi \natas informasi pengajuan Transaksi DNDF secara \nnonlelang sebagaimana dimaksud dalam Pasal 229B. \n(2) \nKoreksi sebagaimana dimaksud pada ayat (1) tidak \ndapat dilakukan terhadap informasi nama Peserta \nOPT Konvensional sebagaimana dimaksud dalam \nPasal 229B ayat (2) huruf a dan jangka waktu \ntransaksi sebagaimana dimaksud dalam Pasal 229B \nayat (2) huruf d. \n(3) \nPeserta OPT Konvensional hanya dapat mengajukan \n1 (satu) kali koreksi untuk setiap pengajuan \nTransaksi DNDF secara nonlelang. \n\n\n \n \n \n(4) \nKoreksi sebagaimana dimaksud pada ayat (1) hanya \ndapat diajukan selama window time Transaksi DNDF \nsecara nonlelang melalui sarana dealing system \ndan/atau sarana transaksi lainnya yang ditetapkan \noleh Bank Indonesia. \n(5) \nDalam hal dilakukan koreksi sebagaimana dimaksud \npada ayat (1) atas nilai nominal, nilai nominal \ntersebut harus memenuhi persyaratan penawaran \nnilai nominal sebagaimana dimaksud dalam Pasal \n229B ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta OPT Konvensional dapat melakukan koreksi \natas informasi pengajuan Transaksi DNDF secara \nnonlelang sebagaimana dimaksud dalam Pasal 229B."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koreksi sebagaimana dimaksud pada ayat (1) tidak \ndapat dilakukan terhadap informasi nama Peserta \nOPT Konvensional sebagaimana dimaksud dalam \nPasal 229B ayat (2) huruf a dan jangka waktu \ntransaksi sebagaimana dimaksud dalam Pasal 229B \nayat (2) huruf d."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta OPT Konvensional hanya dapat mengajukan \n1 (satu) kali koreksi untuk setiap pengajuan \nTransaksi DNDF secara nonlelang."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Koreksi sebagaimana dimaksud pada ayat (1) hanya \ndapat diajukan selama window time Transaksi DNDF \nsecara nonlelang melalui sarana dealing system \ndan/atau sarana transaksi lainnya yang ditetapkan \noleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal dilakukan koreksi sebagaimana dimaksud \npada ayat (1) atas nilai nominal, nilai nominal \ntersebut harus memenuhi persyaratan penawaran \nnilai nominal sebagaimana dimaksud dalam Pasal \n229B ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229D",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Dalam hal Peserta OPT Konvensional mengajukan \nTransaksi DNDF secara nonlelang yang tidak memenuhi \ntata cara pengajuan sebagaimana dimaksud dalam Pasal \n229B dan/atau melakukan koreksi yang tidak memenuhi \ntata cara sebagaimana dimaksud dalam Pasal 229C, Bank \nIndonesia tidak melanjutkan proses Transaksi DNDF \nsecara nonlelang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal Peserta OPT Konvensional mengajukan \nTransaksi DNDF secara nonlelang yang tidak memenuhi \ntata cara pengajuan sebagaimana dimaksud dalam Pasal \n229B dan/atau melakukan koreksi yang tidak memenuhi \ntata cara sebagaimana dimaksud dalam Pasal 229C, Bank \nIndonesia tidak melanjutkan proses Transaksi DNDF \nsecara nonlelang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229E",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Bank Indonesia dapat menolak pengajuan Transaksi \nDNDF \nsecara \nnonlelang \nberdasarkan \npertimbangan \ntertentu. \n \n14. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Belas \nBab II yakni Paragraf 8C sehingga berbunyi sebagai \nberikut: \n \nParagraf 8C \nKonfirmasi atas Pengajuan Transaksi DNDF secara \nNonlelang \n \n15. Di antara Pasal 229E dan Pasal 230 disisipkan 1 (satu) \npasal yakni Pasal 229F sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dapat menolak pengajuan Transaksi \nDNDF \nsecara \nnonlelang \nberdasarkan \npertimbangan \ntertentu. \n \n14. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Belas \nBab II yakni Paragraf 8C sehingga berbunyi sebagai \nberikut: \n \nParagraf 8C \nKonfirmasi atas Pengajuan Transaksi DNDF secara \nNonlelang \n \n15. Di antara Pasal 229E dan Pasal 230 disisipkan 1 (satu) \npasal yakni Pasal 229F sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229F",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta OPT Konvensional melakukan konfirmasi atas \npengajuan Transaksi DNDF secara nonlelang melalui \nsarana dealing system dan/atau sarana transaksi \nlainnya, berdasarkan konfirmasi Transaksi DNDF \ndari Bank Indonesia. \n(2) \nKonfirmasi \noleh \nPeserta \nOPT \nKonvensional \nsebagaimana dimaksud pada ayat (1) memuat \ninformasi: \na. \ntanggal transaksi; \nb. \ntanggal spot; \nc. \ntanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date); \nd. \ntanggal valuta; \ne. \njangka waktu transaksi; \nf. \nnilai nominal transaksi; \ng. \nkurs DNDF; dan/atau \n\n\n \n \n \nh. \nnomor \nrekening \ngiro \nrupiah \nPeserta \nOPT \nKonvensional di Bank Indonesia. \n \nPasal II  \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 17 April 2024 \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \nTTD \n \nDESTRY DAMAYANTI \n\n\n \n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2024  \nTENTANG \nPERUBAHAN KEEMPAT ATAS PERATURAN ANGGOTA DEWAN \nGUBERNUR NOMOR 22/23/PADG/2020 TENTANG PELAKSANAAN \nOPERASI PASAR TERBUKA \n \nI. \nUMUM \nBank Indonesia memiliki tujuan untuk mencapai stabilitas nilai \nrupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga \nstabilitas sistem keuangan dalam rangka mendukung pertumbuhan \nekonomi yang berkelanjutan. Dalam mencapai tujuan tersebut, salah satu \ntugas Bank Indonesia yaitu menetapkan dan melaksanaan kebijakan \nmoneter secara berkelanjutan, konsisten, dan transparan. Dalam \nmenjalankan tugas menetapkan dan melaksanakan kebijakan moneter, \nBank Indonesia melakukan pengendalian moneter yang salah satunya \ndilakukan melalui pelaksanaan Operasi Moneter yang terintegrasi dengan \npengembangan pasar uang dan pasar valuta asing.  \nUntuk \nmendukung \npenguatan \nstrategi Operasi Moneter \ndan \nmemperkuat \nintegrasi \npelaksanaan \nOperasi \nMoneter \ndengan \npengembangan pasar uang dan pasar valuta asing dan untuk mendukung \nefektivitas \npencapaian \nstabilitas \nmoneter, \nBank \nIndonesia \nmengimplementasikan Transaksi Repo OPT Konvensional dan Transaksi \nDNDF dengan mekanisme nonlelang.  \nBerdasarkan hal tersebut di atas, diperlukan panduan pelaksanaan \nTransaksi Repo OPT Konvensional dan Transaksi DNDF dengan mekanisme \nnonlelang sehingga perlu dilakukan perubahan keempat atas Peraturan \nAnggota Dewan Gubernur Nomor 22/23/PADG/2020 tentang Pelaksanaan \nOperasi Pasar Terbuka. \n \nII.  PASAL DEMI PASAL \n \nPasal I \n \nAngka 1 \n \nCukup jelas. \n \nAngka 2",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta OPT Konvensional melakukan konfirmasi atas \npengajuan Transaksi DNDF secara nonlelang melalui \nsarana dealing system dan/atau sarana transaksi \nlainnya, berdasarkan konfirmasi Transaksi DNDF \ndari Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Konfirmasi \noleh \nPeserta \nOPT \nKonvensional \nsebagaimana dimaksud pada ayat (1) memuat \ninformasi: \na. \ntanggal transaksi; \nb. \ntanggal spot; \nc. \ntanggal tertentu yang ditetapkan oleh Bank \nIndonesia (fixing date); \nd. \ntanggal valuta; \ne. \njangka waktu transaksi; \nf. \nnilai nominal transaksi; \ng. \nkurs DNDF; dan/atau \n\n\n \n \n \nh. \nnomor \nrekening \ngiro \nrupiah \nPeserta \nOPT \nKonvensional di Bank Indonesia. \n \nPasal II  \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 17 April 2024 \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \nTTD \n \nDESTRY DAMAYANTI \n\n\n \n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2024  \nTENTANG \nPERUBAHAN KEEMPAT ATAS PERATURAN ANGGOTA DEWAN \nGUBERNUR NOMOR 22/23/PADG/2020 TENTANG PELAKSANAAN \nOPERASI PASAR TERBUKA \n \nI. \nUMUM \nBank Indonesia memiliki tujuan untuk mencapai stabilitas nilai \nrupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga \nstabilitas sistem keuangan dalam rangka mendukung pertumbuhan \nekonomi yang berkelanjutan. Dalam mencapai tujuan tersebut, salah satu \ntugas Bank Indonesia yaitu menetapkan dan melaksanaan kebijakan \nmoneter secara berkelanjutan, konsisten, dan transparan. Dalam \nmenjalankan tugas menetapkan dan melaksanakan kebijakan moneter, \nBank Indonesia melakukan pengendalian moneter yang salah satunya \ndilakukan melalui pelaksanaan Operasi Moneter yang terintegrasi dengan \npengembangan pasar uang dan pasar valuta asing.  \nUntuk \nmendukung \npenguatan \nstrategi Operasi Moneter \ndan \nmemperkuat \nintegrasi \npelaksanaan \nOperasi \nMoneter \ndengan \npengembangan pasar uang dan pasar valuta asing dan untuk mendukung \nefektivitas \npencapaian \nstabilitas \nmoneter, \nBank \nIndonesia \nmengimplementasikan Transaksi Repo OPT Konvensional dan Transaksi \nDNDF dengan mekanisme nonlelang.  \nBerdasarkan hal tersebut di atas, diperlukan panduan pelaksanaan \nTransaksi Repo OPT Konvensional dan Transaksi DNDF dengan mekanisme \nnonlelang sehingga perlu dilakukan perubahan keempat atas Peraturan \nAnggota Dewan Gubernur Nomor 22/23/PADG/2020 tentang Pelaksanaan \nOperasi Pasar Terbuka. \n \nII.  PASAL DEMI PASAL \n \nPasal I \n \nAngka 1 \n \nCukup jelas. \n \nAngka 2"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \n \nAngka 3  \n \nCukup jelas.\n\n\n \nAngka 4",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nAngka 3  \n \nCukup jelas.\n\n\n \nAngka 4"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 5 \n \nCukup jelas. \n \nAngka 6",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 5 \n \nCukup jelas. \n \nAngka 6"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 7 \n \nCukup jelas. \n \nAngka 8",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 7 \n \nCukup jelas. \n \nAngka 8"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76D",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76E",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 9",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 9"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "77",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.  \n \nAngka 10 \n \nCukup jelas. \n \nAngka 11",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas.  \n \nAngka 10 \n \nCukup jelas. \n \nAngka 11"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \n \nAngka 12 \n \nCukup jelas. \n \nAngka 13",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nAngka 12 \n \nCukup jelas. \n \nAngka 13"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229D",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229E",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 14 \n \nCukup jelas. \n \nAngka 15",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 14 \n \nCukup jelas. \n \nAngka 15"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "229F",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nSarana transaksi lainnya merupakan sarana transaksi \nyang ditetapkan oleh Bank Indonesia. \n \nAyat (2) \n \n \nCukup jelas.  \n \n \n\n\n \n \nPasal II \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nSarana transaksi lainnya merupakan sarana transaksi \nyang ditetapkan oleh Bank Indonesia. \n \nAyat (2) \n \n \nCukup jelas.  \n \n \n\n\n \n \nPasal II \n \nCukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 24,
+  "total_ayat": 37,
+  "total_karakter": 16064,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

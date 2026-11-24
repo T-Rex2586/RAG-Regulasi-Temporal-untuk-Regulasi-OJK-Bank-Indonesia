@@ -1,0 +1,2595 @@
+{
+  "doc_id": "BI_PBI_2024_722_722",
+  "regulator": "BI",
+  "jenis": "PBI",
+  "nomor": "722",
+  "tahun": "2024",
+  "judul": "PENGENDALIAN MONETER",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "31 Desember 2024",
+  "tanggal_berlaku": "diundangkan (Д)",
+  "diundangkan_pada": "Д",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGENDALIAN MONETER"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN PENGENDALIAN MONETER"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:  \n1. \nKebijakan Moneter adalah kebijakan Bank Indonesia yang \nditetapkan dan dilaksanakan guna mencapai stabilitas \nnilai rupiah. \n2. \nPengendalian Moneter adalah langkah Bank Indonesia \ndalam menjalankan tugas menetapkan dan melaksanakan \nKebijakan Moneter melalui pengelolaan suku bunga, nilai \ntukar, dan likuiditas. \n3. \nBank adalah bank umum konvensional, bank umum \nsyariah, dan unit usaha syariah.  \n4. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah Bank umum yang melaksanakan kegiatan \nusaha secara konvensional, termasuk kantor cabang dari \nBank yang berkedudukan di luar negeri.  \n5. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah Bank umum yang menjalankan kegiatan usaha \nberdasarkan prinsip syariah.  \n6. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan \nkegiatan \nusaha \nberdasarkan \nprinsip \nsyariah, atau unit kerja di kantor cabang dari suatu Bank \nyang berkedudukan di luar negeri yang melaksanakan \nkegiatan usaha secara konvensional yang berfungsi \nsebagai kantor induk dari kantor cabang pembantu \nsyariah dan/atau unit syariah.   \n7. \nOperasi Moneter adalah pelaksanaan Kebijakan Moneter \noleh Bank Indonesia untuk Pengendalian Moneter. \n8. \nOperasi Pasar Terbuka yang selanjutnya disingkat OPT \nadalah kegiatan transaksi di pasar uang dan/atau pasar \nvaluta asing yang dilakukan oleh Bank Indonesia dengan \nBank dan/atau pihak lain untuk Operasi Moneter. \n9. \nStanding Facilities adalah kegiatan penyediaan dana \nrupiah dari Bank Indonesia kepada Bank dan penempatan \n\n\n \ndana rupiah oleh Bank di Bank Indonesia untuk Operasi \nMoneter. \n10. Dana Pihak Ketiga yang selanjutnya disingkat DPK adalah \nkewajiban Bank kepada penduduk dan bukan penduduk \ndalam rupiah dan/atau valuta asing. \n11. Rekening \nGiro \nadalah \nrekening \ngiro \nsebagaimana \ndimaksud dalam ketentuan Bank Indonesia mengenai \nrekening giro di Bank Indonesia. \n12. Rekening Giro dalam Rupiah yang selanjutnya disebut \nRekening Giro Rupiah adalah Rekening Giro dalam mata \nuang rupiah sebagaimana dimaksud dalam ketentuan \nBank Indonesia mengenai Rekening Giro di Bank \nIndonesia. \n13. Rekening Giro dalam Valuta Asing yang selanjutnya \ndisebut Rekening Giro Valas adalah Rekening Giro dalam \nvaluta asing sebagaimana dimaksud dalam ketentuan \nBank Indonesia mengenai Rekening Giro di Bank \nIndonesia. \n14. Sistem Bank Indonesia-Real Time Gross Settlement yang \nselanjutnya disebut Sistem BI-RTGS adalah infrastruktur \nyang digunakan sebagai sarana transfer dana elektronik \nyang setelmennya dilakukan seketika per transaksi secara \nindividual. \n15. Dana Bank Indonesia-Fast Payment yang selanjutnya \ndisebut Dana BI-FAST adalah dana BUK atau BUS dan \nUUS dalam mata uang rupiah yang terdapat pada Bank \nIndonesia-Fast Payment untuk melakukan setelmen dana. \n16. Giro Wajib Minimum yang selanjutnya disingkat GWM \nadalah jumlah dana minimum yang wajib dipelihara oleh \nBUK atau BUS dan UUS yang besarnya ditetapkan oleh \nBank Indonesia sebesar persentase tertentu dari DPK BUK \natau DPK BUS dan UUS. \n17. Peserta Operasi Moneter adalah pihak yang memenuhi \nketentuan Bank Indonesia untuk dapat mengikuti Operasi \nMoneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:  \n1. \nKebijakan Moneter adalah kebijakan Bank Indonesia yang \nditetapkan dan dilaksanakan guna mencapai stabilitas \nnilai rupiah. \n2. \nPengendalian Moneter adalah langkah Bank Indonesia \ndalam menjalankan tugas menetapkan dan melaksanakan \nKebijakan Moneter melalui pengelolaan suku bunga, nilai \ntukar, dan likuiditas. \n3. \nBank adalah bank umum konvensional, bank umum \nsyariah, dan unit usaha syariah.  \n4. \nBank Umum Konvensional yang selanjutnya disingkat \nBUK adalah Bank umum yang melaksanakan kegiatan \nusaha secara konvensional, termasuk kantor cabang dari \nBank yang berkedudukan di luar negeri.  \n5. \nBank Umum Syariah yang selanjutnya disingkat BUS \nadalah Bank umum yang menjalankan kegiatan usaha \nberdasarkan prinsip syariah.  \n6. \nUnit Usaha Syariah yang selanjutnya disingkat UUS \nadalah unit kerja dari kantor pusat BUK yang berfungsi \nsebagai kantor induk dari kantor atau unit yang \nmelaksanakan \nkegiatan \nusaha \nberdasarkan \nprinsip \nsyariah, atau unit kerja di kantor cabang dari suatu Bank \nyang berkedudukan di luar negeri yang melaksanakan \nkegiatan usaha secara konvensional yang berfungsi \nsebagai kantor induk dari kantor cabang pembantu \nsyariah dan/atau unit syariah.   \n7. \nOperasi Moneter adalah pelaksanaan Kebijakan Moneter \noleh Bank Indonesia untuk Pengendalian Moneter. \n8. \nOperasi Pasar Terbuka yang selanjutnya disingkat OPT \nadalah kegiatan transaksi di pasar uang dan/atau pasar \nvaluta asing yang dilakukan oleh Bank Indonesia dengan \nBank dan/atau pihak lain untuk Operasi Moneter. \n9. \nStanding Facilities adalah kegiatan penyediaan dana \nrupiah dari Bank Indonesia kepada Bank dan penempatan \n\n\n \ndana rupiah oleh Bank di Bank Indonesia untuk Operasi \nMoneter. \n10. Dana Pihak Ketiga yang selanjutnya disingkat DPK adalah \nkewajiban Bank kepada penduduk dan bukan penduduk \ndalam rupiah dan/atau valuta asing. \n11. Rekening \nGiro \nadalah \nrekening \ngiro \nsebagaimana \ndimaksud dalam ketentuan Bank Indonesia mengenai \nrekening giro di Bank Indonesia. \n12. Rekening Giro dalam Rupiah yang selanjutnya disebut \nRekening Giro Rupiah adalah Rekening Giro dalam mata \nuang rupiah sebagaimana dimaksud dalam ketentuan \nBank Indonesia mengenai Rekening Giro di Bank \nIndonesia. \n13. Rekening Giro dalam Valuta Asing yang selanjutnya \ndisebut Rekening Giro Valas adalah Rekening Giro dalam \nvaluta asing sebagaimana dimaksud dalam ketentuan \nBank Indonesia mengenai Rekening Giro di Bank \nIndonesia. \n14. Sistem Bank Indonesia-Real Time Gross Settlement yang \nselanjutnya disebut Sistem BI-RTGS adalah infrastruktur \nyang digunakan sebagai sarana transfer dana elektronik \nyang setelmennya dilakukan seketika per transaksi secara \nindividual. \n15. Dana Bank Indonesia-Fast Payment yang selanjutnya \ndisebut Dana BI-FAST adalah dana BUK atau BUS dan \nUUS dalam mata uang rupiah yang terdapat pada Bank \nIndonesia-Fast Payment untuk melakukan setelmen dana. \n16. Giro Wajib Minimum yang selanjutnya disingkat GWM \nadalah jumlah dana minimum yang wajib dipelihara oleh \nBUK atau BUS dan UUS yang besarnya ditetapkan oleh \nBank Indonesia sebesar persentase tertentu dari DPK BUK \natau DPK BUS dan UUS. \n17. Peserta Operasi Moneter adalah pihak yang memenuhi \nketentuan Bank Indonesia untuk dapat mengikuti Operasi \nMoneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Pengendalian Moneter didasarkan pada prinsip sistem tata \nkelola kebijakan Bank Indonesia yang baik, yang dilaksanakan \nmelalui elemen sistem tata kelola kebijakan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengendalian Moneter didasarkan pada prinsip sistem tata \nkelola kebijakan Bank Indonesia yang baik, yang dilaksanakan \nmelalui elemen sistem tata kelola kebijakan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Tujuan pengaturan Pengendalian Moneter dalam Peraturan \nBank Indonesia ini untuk:  \na. \nmemastikan perumusan dan pelaksanaan Pengendalian \nMoneter sejalan dengan tugas dan wewenang Bank \nIndonesia dalam pencapaian tujuan yang diamanatkan \nUndang-Undang; \nb. \nmenjadi acuan utama bagi pembentukan peraturan lebih \nlanjut terkait pelaksanaan Pengendalian Moneter; dan \nc. \nmenjadi acuan pihak eksternal terkait pelaksanaan \nPengendalian Moneter. \n \n \n \n \n\n\n \nBAB II \nPRINSIP DASAR PENGENDALIAN MONETER",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tujuan pengaturan Pengendalian Moneter dalam Peraturan \nBank Indonesia ini untuk:  \na. \nmemastikan perumusan dan pelaksanaan Pengendalian \nMoneter sejalan dengan tugas dan wewenang Bank \nIndonesia dalam pencapaian tujuan yang diamanatkan \nUndang-Undang; \nb. \nmenjadi acuan utama bagi pembentukan peraturan lebih \nlanjut terkait pelaksanaan Pengendalian Moneter; dan \nc. \nmenjadi acuan pihak eksternal terkait pelaksanaan \nPengendalian Moneter. \n \n \n \n \n\n\n \nBAB II \nPRINSIP DASAR PENGENDALIAN MONETER"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGENDALIAN MONETER",
+      "teks_lengkap": "Pengendalian Moneter sebagaimana dimaksud dalam Pasal 2 \nbertujuan untuk mendukung pencapaian sasaran Kebijakan \nMoneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengendalian Moneter sebagaimana dimaksud dalam Pasal 2 \nbertujuan untuk mendukung pencapaian sasaran Kebijakan \nMoneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGENDALIAN MONETER",
+      "teks_lengkap": "Pengendalian Moneter sebagaimana dimaksud dalam Pasal 2 \ndilaksanakan melalui:  \na. \nOperasi Moneter; dan  \nb. \npengaturan GWM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengendalian Moneter sebagaimana dimaksud dalam Pasal 2 \ndilaksanakan melalui:  \na. \nOperasi Moneter; dan  \nb. \npengaturan GWM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nPengendalian Moneter sebagaimana dimaksud dalam \nPasal 5 dapat dilaksanakan berdasarkan prinsip syariah.  \n(2) \nPemenuhan \nterhadap \nprinsip \nsyariah \nsebagaimana \ndimaksud pada ayat (1) dinyatakan dalam bentuk: \na. \npemberian fatwa; dan/atau \nb. \npemberian pernyataan kesesuaian syariah, \noleh otoritas yang berwenang mengeluarkan fatwa \ndan/atau pernyataan kesesuaian syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengendalian Moneter sebagaimana dimaksud dalam \nPasal 5 dapat dilaksanakan berdasarkan prinsip syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemenuhan \nterhadap \nprinsip \nsyariah \nsebagaimana \ndimaksud pada ayat (1) dinyatakan dalam bentuk: \na. \npemberian fatwa; dan/atau \nb. \npemberian pernyataan kesesuaian syariah, \noleh otoritas yang berwenang mengeluarkan fatwa \ndan/atau pernyataan kesesuaian syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGENDALIAN MONETER",
+      "teks_lengkap": "Operasi Moneter sebagaimana dimaksud dalam Pasal 5 huruf a \ndilaksanakan secara terintegrasi dengan pengembangan pasar \nuang dan pasar valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi Moneter sebagaimana dimaksud dalam Pasal 5 huruf a \ndilaksanakan secara terintegrasi dengan pengembangan pasar \nuang dan pasar valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGENDALIAN MONETER",
+      "teks_lengkap": "Pengendalian Moneter dilaksanakan dengan menerapkan \nprinsip: \na. \nakomodatif dan responsif; \nb. \nkehati-hatian; dan \nc. \ntransparansi. \n \nBAB III \nKERANGKA KERJA PENGENDALIAN MONETER \n \nBagian Kesatu \nSasaran Pengendalian Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengendalian Moneter dilaksanakan dengan menerapkan \nprinsip: \na. \nakomodatif dan responsif; \nb. \nkehati-hatian; dan \nc. \ntransparansi. \n \nBAB III \nKERANGKA KERJA PENGENDALIAN MONETER \n \nBagian Kesatu \nSasaran Pengendalian Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nBank Indonesia melaksanakan Pengendalian Moneter \nuntuk mencapai sasaran operasional suku bunga dan \nmengarahkan nilai tukar rupiah agar bergerak stabil. \n(2) \nSasaran operasional suku bunga sebagaimana dimaksud \npada ayat (1) terdiri atas suku bunga Pasar Uang Antar \nBank Overnight dan struktur suku bunga di pasar uang. \n(3) Suku \nbunga \nPasar \nUang \nAntar \nBank \nOvernight \nsebagaimana dimaksud pada ayat (2) dikendalikan agar \nbergerak di sekitar suku bunga kebijakan Bank Indonesia.  \n(4) Struktur suku bunga di pasar uang sebagaimana \ndimaksud pada ayat (2) diarahkan agar sejalan dengan \narah Kebijakan Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melaksanakan Pengendalian Moneter \nuntuk mencapai sasaran operasional suku bunga dan \nmengarahkan nilai tukar rupiah agar bergerak stabil."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sasaran operasional suku bunga sebagaimana dimaksud \npada ayat (1) terdiri atas suku bunga Pasar Uang Antar \nBank Overnight dan struktur suku bunga di pasar uang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Suku \nbunga \nPasar \nUang \nAntar \nBank \nOvernight \nsebagaimana dimaksud pada ayat (2) dikendalikan agar \nbergerak di sekitar suku bunga kebijakan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Struktur suku bunga di pasar uang sebagaimana \ndimaksud pada ayat (2) diarahkan agar sejalan dengan \narah Kebijakan Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "Pengendalian \nMoneter \nberdasarkan \nprinsip \nsyariah \ndilaksanakan untuk memengaruhi likuiditas di pasar uang dan \npasar valuta asing berdasarkan prinsip syariah. \n \nBagian Kedua \nInstrumen Pengendalian Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengendalian \nMoneter \nberdasarkan \nprinsip \nsyariah \ndilaksanakan untuk memengaruhi likuiditas di pasar uang dan \npasar valuta asing berdasarkan prinsip syariah. \n \nBagian Kedua \nInstrumen Pengendalian Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "Untuk mencapai sasaran sebagaimana dimaksud dalam Pasal \n9, Bank Indonesia menggunakan instrumen Pengendalian \nMoneter yang terdiri atas: \na. \nOperasi Moneter di pasar uang dan pasar valuta asing \nsecara terintegrasi; dan \nb. \npengaturan GWM dalam rupiah dan valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk mencapai sasaran sebagaimana dimaksud dalam Pasal \n9, Bank Indonesia menggunakan instrumen Pengendalian \nMoneter yang terdiri atas: \na. \nOperasi Moneter di pasar uang dan pasar valuta asing \nsecara terintegrasi; dan \nb. \npengaturan GWM dalam rupiah dan valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nOperasi Moneter sebagaimana dimaksud dalam Pasal 11 \nhuruf a terdiri atas: \na. \nOperasi Moneter rupiah; dan \nb. \nOperasi Moneter valuta asing. \n(2) \nOperasi Moneter sebagaimana dimaksud pada ayat (1) \ndilaksanakan dengan transaksi Operasi Moneter melalui \nBank Indonesia. \n(3) \nSelain \nOperasi \nMoneter \nmelalui \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (2), Operasi Moneter \ndapat dilaksanakan dengan transaksi Operasi Moneter \nmelalui market.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Operasi Moneter sebagaimana dimaksud dalam Pasal 11 \nhuruf a terdiri atas: \na. \nOperasi Moneter rupiah; dan \nb. \nOperasi Moneter valuta asing."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Operasi Moneter sebagaimana dimaksud pada ayat (1) \ndilaksanakan dengan transaksi Operasi Moneter melalui \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Selain \nOperasi \nMoneter \nmelalui \nBank \nIndonesia \nsebagaimana dimaksud pada ayat (2), Operasi Moneter \ndapat dilaksanakan dengan transaksi Operasi Moneter \nmelalui market."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia menetapkan instrumen transaksi Operasi \nMoneter melalui Bank Indonesia sebagaimana dimaksud dalam \nPasal 12 ayat (2) dan instrumen transaksi Operasi Moneter \nmelalui market sebagaimana dimaksud dalam Pasal 12 ayat (3). \n \nBagian Ketiga \nProses Pengambilan Keputusan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia menetapkan instrumen transaksi Operasi \nMoneter melalui Bank Indonesia sebagaimana dimaksud dalam \nPasal 12 ayat (2) dan instrumen transaksi Operasi Moneter \nmelalui market sebagaimana dimaksud dalam Pasal 12 ayat (3). \n \nBagian Ketiga \nProses Pengambilan Keputusan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nKebijakan prinsipil dan strategis dalam Pengendalian \nMoneter sebagaimana dimaksud dalam Pasal 5 ditetapkan \noleh Dewan Gubernur.  \n(2) \nPenetapan kebijakan prinsipil dan strategis sebagaimana \ndimaksud pada ayat (1) dilaksanakan dalam Rapat Dewan \nGubernur.  \n \nBagian Keempat \nRuang Lingkup",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan prinsipil dan strategis dalam Pengendalian \nMoneter sebagaimana dimaksud dalam Pasal 5 ditetapkan \noleh Dewan Gubernur."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan kebijakan prinsipil dan strategis sebagaimana \ndimaksud pada ayat (1) dilaksanakan dalam Rapat Dewan \nGubernur.  \n \nBagian Keempat \nRuang Lingkup"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA KERJA PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nProses Pengendalian Moneter meliputi: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan;  \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \n\n\n \n(2) \nPengendalian Moneter sebagaimana dimaksud pada ayat \n(1) dilaksanakan secara kontinu. \n \nBAB IV \nPERUMUSAN PENGENDALIAN MONETER \n \nBagian Kesatu \nProses Perumusan Pelaksanaan Operasi Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Proses Pengendalian Moneter meliputi: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan;  \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengendalian Moneter sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan secara kontinu. \n \nBAB IV \nPERUMUSAN PENGENDALIAN MONETER \n \nBagian Kesatu \nProses Perumusan Pelaksanaan Operasi Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan kebijakan yang bersifat \nprinsipil \ndan \nstrategis \nmengenai \nOperasi \nMoneter \nsebagaimana dimaksud dalam Pasal 5 huruf a sebagai \nbagian dari pelaksanaan Kebijakan Moneter. \n(2) \nKebijakan prinsipil dan strategis sebagaimana dimaksud \npada ayat (1) ditetapkan oleh Dewan Gubernur melalui \nRapat Dewan Gubernur bulanan. \n(3) \nBank Indonesia mengumumkan jadwal Rapat Dewan \nGubernur bulanan kepada publik. \n \nBagian Kedua \nProses Perumusan Pengaturan GWM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan kebijakan yang bersifat \nprinsipil \ndan \nstrategis \nmengenai \nOperasi \nMoneter \nsebagaimana dimaksud dalam Pasal 5 huruf a sebagai \nbagian dari pelaksanaan Kebijakan Moneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan prinsipil dan strategis sebagaimana dimaksud \npada ayat (1) ditetapkan oleh Dewan Gubernur melalui \nRapat Dewan Gubernur bulanan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia mengumumkan jadwal Rapat Dewan \nGubernur bulanan kepada publik. \n \nBagian Kedua \nProses Perumusan Pengaturan GWM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia melaksanakan pengaturan GWM sebagaimana \ndimaksud dalam Pasal 5 huruf b dengan menetapkan \nkewajiban pemenuhan GWM dalam rupiah dan valuta asing \nbagi BUK, BUS, dan UUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melaksanakan pengaturan GWM sebagaimana \ndimaksud dalam Pasal 5 huruf b dengan menetapkan \nkewajiban pemenuhan GWM dalam rupiah dan valuta asing \nbagi BUK, BUS, dan UUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia dapat menetapkan kebijakan pelonggaran atas \nkewajiban pemenuhan GWM dalam rupiah kepada BUK, BUS, \ndan/atau UUS sebagaimana dimaksud dalam Pasal 17 untuk \nmendukung pencapaian tujuan dan pelaksanaan tugas Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dapat menetapkan kebijakan pelonggaran atas \nkewajiban pemenuhan GWM dalam rupiah kepada BUK, BUS, \ndan/atau UUS sebagaimana dimaksud dalam Pasal 17 untuk \nmendukung pencapaian tujuan dan pelaksanaan tugas Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia dapat memberikan: \na. \nremunerasi GWM bagi BUK; dan \nb. \ninsentif GWM berupa pemberian (’athaya) berdasarkan \nprinsip syariah bagi BUS dan UUS, \nuntuk pemenuhan kewajiban GWM dalam rupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dapat memberikan: \na. \nremunerasi GWM bagi BUK; dan \nb. \ninsentif GWM berupa pemberian (’athaya) berdasarkan \nprinsip syariah bagi BUS dan UUS, \nuntuk pemenuhan kewajiban GWM dalam rupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank \nIndonesia \nmenetapkan \npengaturan \nsanksi \natas \npelanggaran kewajiban pemenuhan GWM oleh BUK, BUS, dan \nUUS.  \n \n \n \n \n \n \n \n \n \n\n\n \nBAB V \nPELAKSANAAN PENGENDALIAN MONETER \n \nBagian Kesatu \nOperasi Moneter Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank \nIndonesia \nmenetapkan \npengaturan \nsanksi \natas \npelanggaran kewajiban pemenuhan GWM oleh BUK, BUS, dan \nUUS.  \n \n \n \n \n \n \n \n \n \n\n\n \nBAB V \nPELAKSANAAN PENGENDALIAN MONETER \n \nBagian Kesatu \nOperasi Moneter Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Operasi Moneter rupiah sebagaimana dimaksud dalam Pasal 12 \nayat (1) huruf a terdiri atas: \na. \nOPT rupiah; dan \nb. \nStanding Facilities.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi Moneter rupiah sebagaimana dimaksud dalam Pasal 12 \nayat (1) huruf a terdiri atas: \na. \nOPT rupiah; dan \nb. \nStanding Facilities."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Pelaksanaan Operasi Moneter rupiah sebagaimana dimaksud \ndalam \nPasal \ndapat \nmenggunakan \nrupiah \ndigital \nsebagaimana diatur dalam Undang-Undang mengenai mata \nuang. \n \nParagraf 1 \nOPT Rupiah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelaksanaan Operasi Moneter rupiah sebagaimana dimaksud \ndalam \nPasal \ndapat \nmenggunakan \nrupiah \ndigital \nsebagaimana diatur dalam Undang-Undang mengenai mata \nuang. \n \nParagraf 1 \nOPT Rupiah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "OPT rupiah sebagaimana dimaksud dalam Pasal 21 huruf a \ndilaksanakan untuk mengelola likuiditas di pasar uang dalam \nmata uang rupiah dengan cara absorpsi likuiditas dan/atau \ninjeksi likuiditas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "OPT rupiah sebagaimana dimaksud dalam Pasal 21 huruf a \ndilaksanakan untuk mengelola likuiditas di pasar uang dalam \nmata uang rupiah dengan cara absorpsi likuiditas dan/atau \ninjeksi likuiditas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam melaksanakan OPT rupiah sebagaimana dimaksud \ndalam Pasal 23, Bank Indonesia menetapkan:  \na. \njenis dan karakteristik instrumen OPT rupiah; dan \nb. \nharga yang digunakan dalam OPT rupiah. \n(2) \nInstrumen OPT rupiah sebagaimana dimaksud pada ayat \n(1) huruf a terdiri atas: \na. \npenerbitan surat berharga Bank Indonesia; \nb. \npembelian dan penjualan surat berharga secara jual \nputus (outright) di pasar sekunder; \nc. \ntransaksi repo (repurchase agreement) dan/atau \nreverse repo surat berharga; \nd. \npenempatan berjangka (term deposit) di Bank \nIndonesia; dan \ne. \ntransaksi lain di pasar uang. \n(3) \nOPT rupiah dilaksanakan dengan jangka waktu paling \nsingkat 1 (satu) hari dan paling lama 12 (dua belas) bulan. \n(4) \nPenetapan harga sebagaimana dimaksud pada ayat (1) \nhuruf b dilaksanakan untuk: \na. \nmengendalikan suku bunga Pasar Uang Antar Bank \nOvernight agar bergerak di sekitar suku bunga \nkebijakan Bank Indonesia; dan \nb. \nmengarahkan struktur suku bunga di pasar uang \nagar sejalan dengan arah Kebijakan Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan OPT rupiah sebagaimana dimaksud \ndalam Pasal 23, Bank Indonesia menetapkan:  \na. \njenis dan karakteristik instrumen OPT rupiah; dan \nb. \nharga yang digunakan dalam OPT rupiah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Instrumen OPT rupiah sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf a terdiri atas: \na. \npenerbitan surat berharga Bank Indonesia; \nb. \npembelian dan penjualan surat berharga secara jual \nputus (outright) di pasar sekunder; \nc. \ntransaksi repo (repurchase agreement) dan/atau \nreverse repo surat berharga; \nd. \npenempatan berjangka (term deposit) di Bank \nIndonesia; dan \ne. \ntransaksi lain di pasar uang."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "OPT rupiah dilaksanakan dengan jangka waktu paling \nsingkat 1 (satu) hari dan paling lama 12 (dua belas) bulan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penetapan harga sebagaimana dimaksud pada ayat (1) \nhuruf b dilaksanakan untuk: \na. \nmengendalikan suku bunga Pasar Uang Antar Bank \nOvernight agar bergerak di sekitar suku bunga \nkebijakan Bank Indonesia; dan \nb. \nmengarahkan struktur suku bunga di pasar uang \nagar sejalan dengan arah Kebijakan Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Dalam melaksanakan OPT rupiah sebagaimana dimaksud \ndalam Pasal 23, Bank Indonesia dapat: \na. \nmenetapkan persyaratan transaksi OPT rupiah; \n\n\n \nb. \nmelakukan early redemption atau early termination atas \ninstrumen OPT rupiah; dan/atau \nc. \nmenggunakan surat berharga yang dimiliki oleh pihak lain \ndalam OPT rupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam melaksanakan OPT rupiah sebagaimana dimaksud \ndalam Pasal 23, Bank Indonesia dapat: \na. \nmenetapkan persyaratan transaksi OPT rupiah; \n\n\n \nb. \nmelakukan early redemption atau early termination atas \ninstrumen OPT rupiah; dan/atau \nc. \nmenggunakan surat berharga yang dimiliki oleh pihak lain \ndalam OPT rupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam melaksanakan transaksi OPT rupiah sebagaimana \ndimaksud dalam Pasal 23, Peserta Operasi Moneter \ndan/atau pihak lain yang ditetapkan oleh Bank Indonesia \nwajib memenuhi: \na. \npembatasan transaksi surat berharga Bank Indonesia \ndi pasar sekunder; dan/atau \nb. \nkewajiban lain yang ditetapkan oleh Bank Indonesia. \n(2) \nPelanggaran atas kewajiban sebagaimana dimaksud pada \nayat (1) dikenakan sanksi administratif berupa: \na. \nteguran tertulis; dan/atau \nb. \nkewajiban membayar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan transaksi OPT rupiah sebagaimana \ndimaksud dalam Pasal 23, Peserta Operasi Moneter \ndan/atau pihak lain yang ditetapkan oleh Bank Indonesia \nwajib memenuhi: \na. \npembatasan transaksi surat berharga Bank Indonesia \ndi pasar sekunder; dan/atau \nb. \nkewajiban lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelanggaran atas kewajiban sebagaimana dimaksud pada \nayat (1) dikenakan sanksi administratif berupa: \na. \nteguran tertulis; dan/atau \nb. \nkewajiban membayar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai OPT rupiah sebagaimana \ndimaksud dalam Pasal 23 sampai dengan Pasal 26 diatur dalam \nPeraturan Anggota Dewan Gubernur. \n \nParagraf 2 \nStanding Facilities",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai OPT rupiah sebagaimana \ndimaksud dalam Pasal 23 sampai dengan Pasal 26 diatur dalam \nPeraturan Anggota Dewan Gubernur. \n \nParagraf 2 \nStanding Facilities"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Standing Facilities sebagaimana dimaksud dalam Pasal 21 \nhuruf b dilaksanakan untuk menjaga kecukupan likuiditas \nPeserta Operasi Moneter pada akhir hari.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Standing Facilities sebagaimana dimaksud dalam Pasal 21 \nhuruf b dilaksanakan untuk menjaga kecukupan likuiditas \nPeserta Operasi Moneter pada akhir hari."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nStanding Facilities dilaksanakan dengan cara: \na. \npenyediaan dana dalam rupiah; dan  \nb. \npenempatan dana dalam rupiah.  \n(2) \nStanding Facilities sebagaimana dimaksud pada ayat (1) \ndilaksanakan pada setiap hari kerja. \n(3) \nStanding Facilities sebagaimana dimaksud pada ayat (1) \nmemiliki jangka waktu 1 (satu) hari kerja atau jangka \nwaktu lain yang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Standing Facilities dilaksanakan dengan cara: \na. \npenyediaan dana dalam rupiah; dan  \nb. \npenempatan dana dalam rupiah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Standing Facilities sebagaimana dimaksud pada ayat (1) \ndilaksanakan pada setiap hari kerja."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Standing Facilities sebagaimana dimaksud pada ayat (1) \nmemiliki jangka waktu 1 (satu) hari kerja atau jangka \nwaktu lain yang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Dalam \nmelaksanakan \nStanding \nFacilities \nsebagaimana \ndimaksud dalam Pasal 28, Bank Indonesia menetapkan:  \na. \njenis dan karakteristik instrumen Standing Facilities; dan \nb. \nharga yang digunakan dalam Standing Facilities, \nsebagai bagian dari Kebijakan Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmelaksanakan \nStanding \nFacilities \nsebagaimana \ndimaksud dalam Pasal 28, Bank Indonesia menetapkan:  \na. \njenis dan karakteristik instrumen Standing Facilities; dan \nb. \nharga yang digunakan dalam Standing Facilities, \nsebagai bagian dari Kebijakan Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan \nlebih \nlanjut \nmengenai \nStanding \nFacilities \nsebagaimana diatur dalam Pasal 28 sampai dengan Pasal 30 \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \n \n \n \n\n\n \nBagian Kedua \nOperasi Moneter Valuta Asing",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan \nlebih \nlanjut \nmengenai \nStanding \nFacilities \nsebagaimana diatur dalam Pasal 28 sampai dengan Pasal 30 \ndiatur dalam Peraturan Anggota Dewan Gubernur. \n \n \n \n \n\n\n \nBagian Kedua \nOperasi Moneter Valuta Asing"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nOperasi Moneter valuta asing sebagaimana dimaksud \ndalam Pasal 12 ayat (1) huruf b dilaksanakan untuk \nmengelola likuiditas dan menjaga stabilitas nilai tukar \nrupiah. \n(2) \nPelaksanaan Operasi Moneter valuta asing sebagaimana \ndimaksud pada ayat (1) dapat menggunakan rupiah digital \nsebagaimana diatur dalam Undang-Undang mengenai \nmata uang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Operasi Moneter valuta asing sebagaimana dimaksud \ndalam Pasal 12 ayat (1) huruf b dilaksanakan untuk \nmengelola likuiditas dan menjaga stabilitas nilai tukar \nrupiah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan Operasi Moneter valuta asing sebagaimana \ndimaksud pada ayat (1) dapat menggunakan rupiah digital \nsebagaimana diatur dalam Undang-Undang mengenai \nmata uang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam melaksanakan Operasi Moneter valuta asing \nsebagaimana dimaksud dalam Pasal 32, Bank Indonesia \nmenetapkan: \na. \njenis dan karakteristik instrumen Operasi Moneter \nvaluta asing; dan \nb. \nharga yang digunakan dalam Operasi Moneter valuta \nasing. \n(2) \nInstrumen Operasi Moneter valuta asing sebagaimana \ndimaksud pada ayat (1) huruf a terdiri atas: \na. \npenerbitan surat berharga Bank Indonesia; \nb. \ntransaksi repo (repurchase agreement) dan/atau \nreverse repo surat berharga; \nc.  \npenempatan berjangka (term deposit) di Bank \nIndonesia; \nd. \ntransaksi pembelian dan/atau penjualan valuta \nasing; dan/atau \ne. \ntransaksi lain di pasar uang dan pasar valuta asing. \n(3) \nOperasi Moneter valuta asing dilaksanakan dengan jangka \nwaktu paling singkat 1 (satu) hari dan paling lama 12 (dua \nbelas) bulan. \n(4) \nPenetapan harga sebagaimana dimaksud pada ayat (1) \nhuruf b dilaksanakan untuk mengarahkan nilai tukar \nrupiah agar bergerak stabil.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan Operasi Moneter valuta asing \nsebagaimana dimaksud dalam Pasal 32, Bank Indonesia \nmenetapkan: \na. \njenis dan karakteristik instrumen Operasi Moneter \nvaluta asing; dan \nb. \nharga yang digunakan dalam Operasi Moneter valuta \nasing."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Instrumen Operasi Moneter valuta asing sebagaimana \ndimaksud pada ayat (1) huruf a terdiri atas: \na. \npenerbitan surat berharga Bank Indonesia; \nb. \ntransaksi repo (repurchase agreement) dan/atau \nreverse repo surat berharga; \nc.  \npenempatan berjangka (term deposit) di Bank \nIndonesia; \nd. \ntransaksi pembelian dan/atau penjualan valuta \nasing; dan/atau \ne. \ntransaksi lain di pasar uang dan pasar valuta asing."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Operasi Moneter valuta asing dilaksanakan dengan jangka \nwaktu paling singkat 1 (satu) hari dan paling lama 12 (dua \nbelas) bulan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penetapan harga sebagaimana dimaksud pada ayat (1) \nhuruf b dilaksanakan untuk mengarahkan nilai tukar \nrupiah agar bergerak stabil."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Dalam \nmelaksanakan \nOperasi \nMoneter \nvaluta \nasing \nsebagaimana dimaksud dalam Pasal 32, Bank Indonesia dapat: \na. \nmenetapkan persyaratan transaksi Operasi Moneter \nvaluta asing; \nb. \nmelakukan early redemption atau early termination atas \ninstrumen Operasi Moneter valuta asing; \nc. \nmenggunakan surat berharga yang dimiliki oleh pihak lain \ndalam Operasi Moneter valuta asing; dan/atau \nd. \nmelaksanakan transaksi valuta asing terhadap rupiah \ndalam \nOperasi \nMoneter \nvaluta \nasing \nberdasarkan \nperjanjian kerja sama keuangan internasional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmelaksanakan \nOperasi \nMoneter \nvaluta \nasing \nsebagaimana dimaksud dalam Pasal 32, Bank Indonesia dapat: \na. \nmenetapkan persyaratan transaksi Operasi Moneter \nvaluta asing; \nb. \nmelakukan early redemption atau early termination atas \ninstrumen Operasi Moneter valuta asing; \nc. \nmenggunakan surat berharga yang dimiliki oleh pihak lain \ndalam Operasi Moneter valuta asing; dan/atau \nd. \nmelaksanakan transaksi valuta asing terhadap rupiah \ndalam \nOperasi \nMoneter \nvaluta \nasing \nberdasarkan \nperjanjian kerja sama keuangan internasional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam melaksanakan transaksi Operasi Moneter valuta \nasing sebagaimana dimaksud dalam Pasal 32, Peserta \nOperasi Moneter dan/atau pihak lain yang ditetapkan oleh \nBank Indonesia wajib memenuhi: \na. \nkewajiban penggunaan underlying dalam transaksi \nOperasi Moneter valuta asing tertentu; dan/atau \nb. \nkewajiban lain yang ditetapkan oleh Bank Indonesia. \n(2) \nPelanggaran atas kewajiban sebagaimana dimaksud pada \nayat (1) dikenakan sanksi administratif berupa: \na. \nteguran tertulis; dan/atau \nb. \nkewajiban membayar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan transaksi Operasi Moneter valuta \nasing sebagaimana dimaksud dalam Pasal 32, Peserta \nOperasi Moneter dan/atau pihak lain yang ditetapkan oleh \nBank Indonesia wajib memenuhi: \na. \nkewajiban penggunaan underlying dalam transaksi \nOperasi Moneter valuta asing tertentu; dan/atau \nb. \nkewajiban lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelanggaran atas kewajiban sebagaimana dimaksud pada \nayat (1) dikenakan sanksi administratif berupa: \na. \nteguran tertulis; dan/atau \nb. \nkewajiban membayar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Operasi Moneter valuta asing \nsebagaimana dimaksud dalam Pasal 32 sampai dengan Pasal \n35 diatur dalam Peraturan Anggota Dewan Gubernur.  \n \nBagian Ketiga \nOperasi Moneter Melalui Bank Indonesia dan  \nOperasi Moneter Melalui Market \n \nParagraf 1 \nOperasi Moneter Melalui Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Operasi Moneter valuta asing \nsebagaimana dimaksud dalam Pasal 32 sampai dengan Pasal \n35 diatur dalam Peraturan Anggota Dewan Gubernur.  \n \nBagian Ketiga \nOperasi Moneter Melalui Bank Indonesia dan  \nOperasi Moneter Melalui Market \n \nParagraf 1 \nOperasi Moneter Melalui Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Operasi \nMoneter \nmelalui \nBank \nIndonesia \nsebagaimana \ndimaksud dalam Pasal 12 ayat (2) merupakan transaksi yang \ndilaksanakan antara Bank Indonesia dengan Peserta Operasi \nMoneter. \n \nParagraf 2 \nOperasi Moneter Melalui Market",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi \nMoneter \nmelalui \nBank \nIndonesia \nsebagaimana \ndimaksud dalam Pasal 12 ayat (2) merupakan transaksi yang \ndilaksanakan antara Bank Indonesia dengan Peserta Operasi \nMoneter. \n \nParagraf 2 \nOperasi Moneter Melalui Market"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Operasi Moneter  melalui market sebagaimana dimaksud dalam \nPasal 12 ayat (3) merupakan transaksi yang dilaksanakan  \npihak yang ditetapkan dan/atau ditunjuk oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi Moneter  melalui market sebagaimana dimaksud dalam \nPasal 12 ayat (3) merupakan transaksi yang dilaksanakan  \npihak yang ditetapkan dan/atau ditunjuk oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Operasi Moneter melalui market sebagaimana dimaksud dalam \nPasal 38 dilaksanakan untuk: \na. \nmendorong pembentukan harga; \nb. \nmeningkatkan transaksi atau likuiditas; dan  \nc. \nmemperluas interkoneksi antarpelaku,  \ndi pasar uang dan pasar valuta asing guna mendukung \npencapaian sasaran Kebijakan Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Operasi Moneter melalui market sebagaimana dimaksud dalam \nPasal 38 dilaksanakan untuk: \na. \nmendorong pembentukan harga; \nb. \nmeningkatkan transaksi atau likuiditas; dan  \nc. \nmemperluas interkoneksi antarpelaku,  \ndi pasar uang dan pasar valuta asing guna mendukung \npencapaian sasaran Kebijakan Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Dalam \nmelaksanakan \nOperasi \nMoneter \nmelalui \nmarket \nsebagaimana dimaksud dalam Pasal 38, Bank Indonesia \nmenetapkan dan/atau menunjuk: \na. \nPeserta Operasi Moneter yang dapat mengikuti Operasi \nMoneter melalui market; dan \nb. \npihak lain untuk mendukung pelaksanaan Operasi \nMoneter melalui market.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmelaksanakan \nOperasi \nMoneter \nmelalui \nmarket \nsebagaimana dimaksud dalam Pasal 38, Bank Indonesia \nmenetapkan dan/atau menunjuk: \na. \nPeserta Operasi Moneter yang dapat mengikuti Operasi \nMoneter melalui market; dan \nb. \npihak lain untuk mendukung pelaksanaan Operasi \nMoneter melalui market."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Operasi Moneter melalui \nmarket sebagaimana dimaksud dalam Pasal 38 sampai dengan \nPasal 40 diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBagian Keempat \nKepesertaan dan Infrastruktur Operasi Moneter \n \nParagraf 1 \nPeserta Operasi Moneter dan Lembaga Perantara",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Operasi Moneter melalui \nmarket sebagaimana dimaksud dalam Pasal 38 sampai dengan \nPasal 40 diatur dalam Peraturan Anggota Dewan Gubernur. \n \nBagian Keempat \nKepesertaan dan Infrastruktur Operasi Moneter \n \nParagraf 1 \nPeserta Operasi Moneter dan Lembaga Perantara"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nOperasi Moneter melalui Bank Indonesia sebagaimana \ndimaksud dalam Pasal 37 dapat diikuti oleh: \na. \nBank; dan/atau \nb. \npihak lain,  \nyang telah disetujui oleh Bank Indonesia sebagai Peserta \nOperasi Moneter. \n(2) \nOperasi Moneter melalui market sebagaimana dimaksud \ndalam Pasal 38 dapat diikuti oleh Peserta Operasi Moneter \nyang berperan sebagai: \na. \ndealer utama; \nb. \nagent bank; \nc. \nBank appointed cross currency dealer; dan/atau  \nd. \npendukung \nlain \ndalam \npelaksanaan \ntransaksi \nOperasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Operasi Moneter melalui Bank Indonesia sebagaimana \ndimaksud dalam Pasal 37 dapat diikuti oleh: \na. \nBank; dan/atau \nb. \npihak lain,  \nyang telah disetujui oleh Bank Indonesia sebagai Peserta \nOperasi Moneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Operasi Moneter melalui market sebagaimana dimaksud \ndalam Pasal 38 dapat diikuti oleh Peserta Operasi Moneter \nyang berperan sebagai: \na. \ndealer utama; \nb. \nagent bank; \nc. \nBank appointed cross currency dealer; dan/atau  \nd. \npendukung \nlain \ndalam \npelaksanaan \ntransaksi \nOperasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia menetapkan kriteria Peserta Operasi Moneter \nyang dapat mengikuti Operasi Moneter melalui market \nsebagaimana dimaksud dalam Pasal 42 ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia menetapkan kriteria Peserta Operasi Moneter \nyang dapat mengikuti Operasi Moneter melalui market \nsebagaimana dimaksud dalam Pasal 42 ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nBank Indonesia dapat menetapkan instrumen Operasi \nMoneter yang dapat diikuti Peserta Operasi Moneter \nsebagaimana dimaksud dalam Pasal  42 secara langsung \ndan/atau tidak langsung melalui lembaga perantara. \n(2) \nLembaga perantara sebagaimana dimaksud pada ayat (1) \nhanya dapat mengajukan penawaran transaksi Operasi \nMoneter untuk dan atas nama Peserta Operasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat menetapkan instrumen Operasi \nMoneter yang dapat diikuti Peserta Operasi Moneter \nsebagaimana dimaksud dalam Pasal  42 secara langsung \ndan/atau tidak langsung melalui lembaga perantara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Lembaga perantara sebagaimana dimaksud pada ayat (1) \nhanya dapat mengajukan penawaran transaksi Operasi \nMoneter untuk dan atas nama Peserta Operasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Lembaga perantara sebagaimana dimaksud dalam Pasal 44 \nterdiri atas: \na. \nperusahaan pialang di pasar uang dan pasar valuta asing \nyang sudah memperoleh izin usaha dari Bank Indonesia; \ndan \nb. \npihak lain yang ditetapkan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Lembaga perantara sebagaimana dimaksud dalam Pasal 44 \nterdiri atas: \na. \nperusahaan pialang di pasar uang dan pasar valuta asing \nyang sudah memperoleh izin usaha dari Bank Indonesia; \ndan \nb. \npihak lain yang ditetapkan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai Peserta Operasi Moneter dan \nlembaga perantara sebagaimana dimaksud dalam Pasal 42 \nsampai dengan Pasal 45 diatur dalam Peraturan Anggota \nDewan Gubernur. \n \n \n\n\n \nParagraf 2 \nPersyaratan Mengikuti Transaksi Operasi Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai Peserta Operasi Moneter dan \nlembaga perantara sebagaimana dimaksud dalam Pasal 42 \nsampai dengan Pasal 45 diatur dalam Peraturan Anggota \nDewan Gubernur. \n \n \n\n\n \nParagraf 2 \nPersyaratan Mengikuti Transaksi Operasi Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan persyaratan bagi Peserta \nOperasi Moneter sebagaimana dimaksud dalam Pasal 42 \ndan lembaga perantara sebagaimana dimaksud dalam \nPasal 45 yang mengikuti transaksi Operasi Moneter.  \n(2) \nPersyaratan sebagaimana dimaksud pada ayat (1) terdiri \natas: \na. \nkesiapan infrastruktur; \nb. \nkesiapan sumber daya manusia; dan \nc. \npersyaratan \nlain \nyang \nditetapkan \noleh \nBank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan persyaratan bagi Peserta \nOperasi Moneter sebagaimana dimaksud dalam Pasal 42 \ndan lembaga perantara sebagaimana dimaksud dalam \nPasal 45 yang mengikuti transaksi Operasi Moneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan sebagaimana dimaksud pada ayat (1) terdiri \natas: \na. \nkesiapan infrastruktur; \nb. \nkesiapan sumber daya manusia; dan \nc. \npersyaratan \nlain \nyang \nditetapkan \noleh \nBank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam hal Peserta Operasi Moneter dan lembaga perantara \nmelakukan \nlangkah \nstrategis \ndan \nmendasar \nserta \nberdampak pada hubungan operasional dengan Bank \nIndonesia di bidang moneter, Peserta Operasi Moneter dan \nlembaga perantara harus tetap memenuhi persyaratan \nuntuk mengikuti transaksi Operasi Moneter sebagaimana \ndimaksud dalam Pasal 47 ayat (2). \n(2) \nBank Indonesia dapat melakukan pembatasan kepada \nPeserta Operasi Moneter dan lembaga perantara yang \nsedang dalam proses perubahan terkait langkah strategis \ndan mendasar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Peserta Operasi Moneter dan lembaga perantara \nmelakukan \nlangkah \nstrategis \ndan \nmendasar \nserta \nberdampak pada hubungan operasional dengan Bank \nIndonesia di bidang moneter, Peserta Operasi Moneter dan \nlembaga perantara harus tetap memenuhi persyaratan \nuntuk mengikuti transaksi Operasi Moneter sebagaimana \ndimaksud dalam Pasal 47 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat melakukan pembatasan kepada \nPeserta Operasi Moneter dan lembaga perantara yang \nsedang dalam proses perubahan terkait langkah strategis \ndan mendasar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nPeserta Operasi Moneter atau lembaga perantara wajib \nmenyampaikan laporan kepada Bank Indonesia dalam hal: \na. \nterdapat perubahan data dan/atau informasi terkait \npemenuhan persyaratan untuk mengikuti transaksi \nOperasi Moneter sebagaimana dimaksud dalam Pasal \n47; dan/atau \nb. \nterdapat perubahan data dan/atau informasi terkait \nlangkah \nstrategis \ndan \nmendasar \nsebagaimana \ndimaksud dalam Pasal 48.   \n(2) \nPenyampaian laporan sebagaimana dimaksud pada ayat \n(1) dilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai perizinan terpadu Bank Indonesia melalui front \noffice perizinan. \n(3) \nPeserta Operasi Moneter atau lembaga perantara yang \ntidak memenuhi kewajiban sebagaimana dimaksud pada \nayat (1), dikenai sanksi administratif berupa: \na. \nteguran tertulis; dan/atau \nb. \npembatasan keikutsertaan dalam transaksi Operasi \nMoneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta Operasi Moneter atau lembaga perantara wajib \nmenyampaikan laporan kepada Bank Indonesia dalam hal: \na. \nterdapat perubahan data dan/atau informasi terkait \npemenuhan persyaratan untuk mengikuti transaksi \nOperasi Moneter sebagaimana dimaksud dalam Pasal \n47; dan/atau \nb. \nterdapat perubahan data dan/atau informasi terkait \nlangkah \nstrategis \ndan \nmendasar \nsebagaimana \ndimaksud dalam Pasal 48."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai perizinan terpadu Bank Indonesia melalui front \noffice perizinan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta Operasi Moneter atau lembaga perantara yang \ntidak memenuhi kewajiban sebagaimana dimaksud pada \nayat (1), dikenai sanksi administratif berupa: \na. \nteguran tertulis; dan/atau \nb. \npembatasan keikutsertaan dalam transaksi Operasi \nMoneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam hal Peserta Operasi Moneter berupa Bank \nsebagaimana dimaksud dalam Pasal 42 ayat (1) huruf a \nmerupakan bank perantara, Bank Indonesia menetapkan \npersyaratan mengikuti transaksi Operasi Moneter. \n\n\n \n(2) \nPersyaratan bagi bank perantara sebagaimana dimaksud \npada ayat (1) harus tetap memperhatikan persyaratan \nsebagaimana dimaksud dalam Pasal 47 ayat (2). \n(3) \nBank perantara sebagaimana dimaksud pada ayat (1) \ndapat mengikuti transaksi Operasi Moneter setelah \nseluruh kewajiban terkait Operasi Moneter Bank asal \ndiselesaikan dan/atau dialihkan kepada bank perantara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Peserta Operasi Moneter berupa Bank \nsebagaimana dimaksud dalam Pasal 42 ayat (1) huruf a \nmerupakan bank perantara, Bank Indonesia menetapkan \npersyaratan mengikuti transaksi Operasi Moneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan bagi bank perantara sebagaimana dimaksud \npada ayat (1) harus tetap memperhatikan persyaratan \nsebagaimana dimaksud dalam Pasal 47 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank perantara sebagaimana dimaksud pada ayat (1) \ndapat mengikuti transaksi Operasi Moneter setelah \nseluruh kewajiban terkait Operasi Moneter Bank asal \ndiselesaikan dan/atau dialihkan kepada bank perantara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai persyaratan mengikuti \nOperasi Moneter sebagaimana dimaksud dalam Pasal 47 \nsampai dengan Pasal 50 diatur dalam Peraturan Anggota \nDewan Gubernur. \n \nParagraf 3 \nInfrastruktur Operasi Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai persyaratan mengikuti \nOperasi Moneter sebagaimana dimaksud dalam Pasal 47 \nsampai dengan Pasal 50 diatur dalam Peraturan Anggota \nDewan Gubernur. \n \nParagraf 3 \nInfrastruktur Operasi Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Dalam melaksanakan Operasi Moneter sebagaimana dimaksud \ndalam Pasal 12 ayat (1), Bank Indonesia menetapkan \ninfrastruktur Operasi Moneter yang digunakan oleh Peserta \nOperasi Moneter dan lembaga perantara berupa: \na. \nsarana yang digunakan dalam transaksi Operasi Moneter;  \nb. \nsarana penatausahaan surat berharga Bank Indonesia; \ndan \nc. \ninfrastruktur pendukung pelaksanaan transaksi Operasi \nMoneter, \nyang mengikuti perkembangan teknologi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam melaksanakan Operasi Moneter sebagaimana dimaksud \ndalam Pasal 12 ayat (1), Bank Indonesia menetapkan \ninfrastruktur Operasi Moneter yang digunakan oleh Peserta \nOperasi Moneter dan lembaga perantara berupa: \na. \nsarana yang digunakan dalam transaksi Operasi Moneter;  \nb. \nsarana penatausahaan surat berharga Bank Indonesia; \ndan \nc. \ninfrastruktur pendukung pelaksanaan transaksi Operasi \nMoneter, \nyang mengikuti perkembangan teknologi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nSarana yang digunakan dalam transaksi Operasi Moneter \nsebagaimana \ndimaksud \ndalam \nPasal \nhuruf \na \nmencakup: \na. \nsarana transaksi; \nb. \nsarana penyelesaian transaksi; dan \nc. \nsarana lain yang ditetapkan Bank Indonesia. \n(2) \nSarana transaksi sebagaimana dimaksud pada ayat (1) \nhuruf a dapat diselenggarakan oleh: \na. \nBank Indonesia; dan/atau \nb. \npihak lain yang ditetapkan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sarana yang digunakan dalam transaksi Operasi Moneter \nsebagaimana \ndimaksud \ndalam \nPasal \nhuruf \na \nmencakup: \na. \nsarana transaksi; \nb. \nsarana penyelesaian transaksi; dan \nc. \nsarana lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sarana transaksi sebagaimana dimaksud pada ayat (1) \nhuruf a dapat diselenggarakan oleh: \na. \nBank Indonesia; dan/atau \nb. \npihak lain yang ditetapkan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nSarana penatausahaan surat berharga Bank Indonesia \nsebagaimana dimaksud dalam Pasal 52 huruf b mencakup \nsistem \npencatatan \nkepemilikan \ndan \npenyelesaian \ntransaksi surat berharga Bank Indonesia.  \n(2) \nSarana penatausahaan surat berharga Bank Indonesia \nsebagaimana dimaksud pada ayat (1) berupa sistem \npenatausahaan secara elektronis di Bank Indonesia yang \ndilakukan tanpa warkat. \n(3) \nDalam mendukung pelaksanaan penatausahaan surat \nberharga Bank Indonesia sebagaimana dimaksud pada \nayat (1), Bank Indonesia dapat menunjuk pihak lain yang \nmemenuhi persyaratan.  \n\n\n \n(4) \nBank Indonesia dapat mencabut penunjukan pihak lain \nsebagaimana \ndimaksud \npada \nayat \n(3) \ndengan \npertimbangan tertentu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sarana penatausahaan surat berharga Bank Indonesia \nsebagaimana dimaksud dalam Pasal 52 huruf b mencakup \nsistem \npencatatan \nkepemilikan \ndan \npenyelesaian \ntransaksi surat berharga Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sarana penatausahaan surat berharga Bank Indonesia \nsebagaimana dimaksud pada ayat (1) berupa sistem \npenatausahaan secara elektronis di Bank Indonesia yang \ndilakukan tanpa warkat."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam mendukung pelaksanaan penatausahaan surat \nberharga Bank Indonesia sebagaimana dimaksud pada \nayat (1), Bank Indonesia dapat menunjuk pihak lain yang \nmemenuhi persyaratan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia dapat mencabut penunjukan pihak lain \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "dengan \npertimbangan tertentu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nInfrastruktur pendukung pelaksanaan transaksi Operasi \nMoneter sebagaimana dimaksud dalam Pasal 52  huruf c \nmencakup infrastruktur untuk monitoring data transaksi \ndi pasar uang dan pasar valuta asing yang dikelola Bank \nIndonesia dan/atau infrastruktur pendukung lain. \n(2) \nPeserta Operasi Moneter yang melakukan transaksi di \npasar uang dan pasar valuta asing wajib melakukan \nkoneksi infrastruktur yang digunakan dalam transaksi \ntersebut dengan sistem monitoring transaksi di pasar \nuang dan pasar valuta asing yang dikelola Bank Indonesia \nsebagaimana dimaksud pada ayat (1). \n(3) \nBank Indonesia menetapkan cakupan, jenis, dan nilai \ntransaksi yang dipantau secara langsung dan seketika \n(real time) melalui sistem monitoring transaksi di pasar \nuang dan pasar valuta asing yang dikelola Bank Indonesia \nsebagaimana dimaksud pada ayat (1). \n(4) \nPeserta Operasi Moneter yang melanggar kewajiban \nsebagaimana dimaksud pada ayat (2) dikenai sanksi \nadministratif berupa teguran tertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Infrastruktur pendukung pelaksanaan transaksi Operasi \nMoneter sebagaimana dimaksud dalam Pasal 52  huruf c \nmencakup infrastruktur untuk monitoring data transaksi \ndi pasar uang dan pasar valuta asing yang dikelola Bank \nIndonesia dan/atau infrastruktur pendukung lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peserta Operasi Moneter yang melakukan transaksi di \npasar uang dan pasar valuta asing wajib melakukan \nkoneksi infrastruktur yang digunakan dalam transaksi \ntersebut dengan sistem monitoring transaksi di pasar \nuang dan pasar valuta asing yang dikelola Bank Indonesia \nsebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia menetapkan cakupan, jenis, dan nilai \ntransaksi yang dipantau secara langsung dan seketika \n(real time) melalui sistem monitoring transaksi di pasar \nuang dan pasar valuta asing yang dikelola Bank Indonesia \nsebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Peserta Operasi Moneter yang melanggar kewajiban \nsebagaimana dimaksud pada ayat (2) dikenai sanksi \nadministratif berupa teguran tertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai infrastruktur Operasi Moneter \nsebagaimana dimaksud dalam Pasal 52 sampai dengan Pasal \n55 diatur dalam Peraturan Anggota Dewan Gubernur. \n \nParagraf 4 \nPenghentian Keikutsertaan dalam  \nOperasi Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai infrastruktur Operasi Moneter \nsebagaimana dimaksud dalam Pasal 52 sampai dengan Pasal \n55 diatur dalam Peraturan Anggota Dewan Gubernur. \n \nParagraf 4 \nPenghentian Keikutsertaan dalam  \nOperasi Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "57",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nPeserta Operasi Moneter sebagaimana dimaksud dalam \nPasal 42 atau lembaga perantara sebagaimana dimaksud \ndalam Pasal 45 dapat dihentikan keikutsertaannya dalam \nOperasi Moneter berdasarkan: \na. \ninisiatif sendiri; atau \nb. \npenetapan Bank Indonesia. \n(2) \nPenghentian \nkeikutsertaan \ndalam \nOperasi \nMoneter  \nberdasarkan inisiatif sendiri sebagaimana dimaksud pada \nayat (1) huruf a dilakukan melalui permohonan yang \ndiajukan oleh Peserta Operasi Moneter atau lembaga \nperantara kepada Bank Indonesia untuk memperoleh \npersetujuan. \n(3) \nPenghentian \nkeikutsertaan \ndalam \nOperasi \nMoneter \nberdasarkan penetapan Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf b dilakukan oleh Bank \nIndonesia dengan pertimbangan Peserta Operasi Moneter \natau lembaga perantara:  \na. \ntidak lagi memenuhi persyaratan untuk mengikuti \nOperasi Moneter; dan/atau  \nb. \ndicabut izin usahanya oleh otoritas terkait. \n\n\n \n(4) \nKetentuan lebih lanjut mengenai tata cara penghentian \nkeikutsertaan \ndalam \nOperasi \nMoneter \nsebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (3) diatur \ndalam Peraturan Anggota Dewan Gubernur. \n \nBagian Kelima \nMekanisme Operasi Moneter \n \nParagraf 1 \nPelaksanaan Transaksi Operasi Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta Operasi Moneter sebagaimana dimaksud dalam \nPasal 42 atau lembaga perantara sebagaimana dimaksud \ndalam Pasal 45 dapat dihentikan keikutsertaannya dalam \nOperasi Moneter berdasarkan: \na. \ninisiatif sendiri; atau \nb. \npenetapan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penghentian \nkeikutsertaan \ndalam \nOperasi \nMoneter  \nberdasarkan inisiatif sendiri sebagaimana dimaksud pada \nayat (1) huruf a dilakukan melalui permohonan yang \ndiajukan oleh Peserta Operasi Moneter atau lembaga \nperantara kepada Bank Indonesia untuk memperoleh \npersetujuan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penghentian \nkeikutsertaan \ndalam \nOperasi \nMoneter \nberdasarkan penetapan Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf b dilakukan oleh Bank \nIndonesia dengan pertimbangan Peserta Operasi Moneter \natau lembaga perantara:  \na. \ntidak lagi memenuhi persyaratan untuk mengikuti \nOperasi Moneter; dan/atau  \nb. \ndicabut izin usahanya oleh otoritas terkait."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan lebih lanjut mengenai tata cara penghentian \nkeikutsertaan \ndalam \nOperasi \nMoneter \nsebagaimana \ndimaksud pada ayat (1) sampai dengan ayat (3) diatur \ndalam Peraturan Anggota Dewan Gubernur. \n \nBagian Kelima \nMekanisme Operasi Moneter \n \nParagraf 1 \nPelaksanaan Transaksi Operasi Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "58",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Transaksi Operasi Moneter dilakukan pada hari kerja dan \ndalam window time transaksi Operasi Moneter yang ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Transaksi Operasi Moneter dilakukan pada hari kerja dan \ndalam window time transaksi Operasi Moneter yang ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nTransaksi Operasi Moneter sebagaimana dimaksud  dalam \nPasal 58 dilakukan melalui mekanisme lelang dan/atau \nnonlelang. \n(2) \nTransaksi Operasi Moneter sebagaimana dimaksud pada \nayat (1) dapat diikuti Peserta Operasi Moneter secara \nlangsung dan/atau tidak langsung melalui lembaga \nperantara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi Operasi Moneter sebagaimana dimaksud  dalam \nPasal 58 dilakukan melalui mekanisme lelang dan/atau \nnonlelang."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi Operasi Moneter sebagaimana dimaksud pada \nayat (1) dapat diikuti Peserta Operasi Moneter secara \nlangsung dan/atau tidak langsung melalui lembaga \nperantara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam \npelaksanaan \ntransaksi \nOperasi \nMoneter \nsebagaimana dimaksud dalam Pasal 59, Peserta Operasi \nMoneter dan lembaga perantara bertanggung jawab atas \nkebenaran data penawaran transaksi yang diajukan. \n(2) \nPeserta \nOperasi \nMoneter \ndan \nlembaga \nperantara \nsebagaimana \ndimaksud \npada \nayat \n(1) \nyang \ntelah \nmengajukan \npenawaran \ntransaksi \ntidak \ndapat \nmembatalkan penawarannya. \n(3) \nPeserta \nOperasi \nMoneter \ndan \nlembaga \nperantara \nsebagaimana dimaksud pada ayat (1) harus memenuhi \ntata cara dan persyaratan pengajuan penawaran transaksi \nOperasi Moneter yang ditetapkan oleh Bank Indonesia.  \n(4) \nDalam hal Peserta Operasi Moneter dan lembaga perantara \ntidak memenuhi tata cara dan persyaratan sebagaimana \ndimaksud pada ayat (3), penawaran transaksi yang telah \ndiajukan akan ditolak dan/atau tidak diproses oleh Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \npelaksanaan \ntransaksi \nOperasi \nMoneter \nsebagaimana dimaksud dalam Pasal 59, Peserta Operasi \nMoneter dan lembaga perantara bertanggung jawab atas \nkebenaran data penawaran transaksi yang diajukan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peserta \nOperasi \nMoneter \ndan \nlembaga \nperantara \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "yang \ntelah \nmengajukan \npenawaran \ntransaksi \ntidak \ndapat \nmembatalkan penawarannya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta \nOperasi \nMoneter \ndan \nlembaga \nperantara \nsebagaimana dimaksud pada ayat (1) harus memenuhi \ntata cara dan persyaratan pengajuan penawaran transaksi \nOperasi Moneter yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Peserta Operasi Moneter dan lembaga perantara \ntidak memenuhi tata cara dan persyaratan sebagaimana \ndimaksud pada ayat (3), penawaran transaksi yang telah \ndiajukan akan ditolak dan/atau tidak diproses oleh Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "61",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai pelaksanaan transaksi \nOperasi Moneter sebagaimana dimaksud dalam Pasal 58 \nsampai dengan Pasal 60 diatur dalam Peraturan Anggota \nDewan Gubernur. \n \n \n \n \n \n \n \n\n\n \nParagraf 2 \nPenyelesaian Transaksi Operasi Moneter",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai pelaksanaan transaksi \nOperasi Moneter sebagaimana dimaksud dalam Pasal 58 \nsampai dengan Pasal 60 diatur dalam Peraturan Anggota \nDewan Gubernur. \n \n \n \n \n \n \n \n\n\n \nParagraf 2 \nPenyelesaian Transaksi Operasi Moneter"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "62",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nUntuk \npenyelesaian \ntransaksi \nOperasi \nMoneter \nsebagaimana dimaksud dalam Pasal 59, Peserta Operasi \nMoneter wajib:  \na. \nmenyediakan dana yang cukup di Rekening Giro \nRupiah;  \nb. \nmenyediakan surat berharga yang cukup pada \nrekening surat berharga di Bank Indonesia atau \nlembaga kustodian yang ditetapkan Bank Indonesia; \nc. \nmenyediakan dana yang cukup di Rekening Giro \nValas; dan/atau \nd. \nmelakukan transfer dana dalam valuta asing yang \ncukup \nke \nrekening \nBank \nIndonesia \ndi \nBank \nkoresponden, \nguna memenuhi kewajiban penyelesaian transaksi Operasi \nMoneter. \n(2) \nDalam hal Peserta Operasi Moneter tidak memenuhi \nkewajiban penyelesaian transaksi sebagaimana dimaksud \npada ayat (1), transaksi Operasi Moneter dimaksud: \na. \ndinyatakan batal; atau  \nb. \ntetap harus diselesaikan,  \nsesuai dengan jenis instrumen Operasi Moneter. \n(3)  Peserta Operasi Moneter yang tidak memenuhi kewajiban \npenyelesaian transaksi Operasi Moneter sebagaimana \ndimaksud pada ayat (1) dapat dikenai sanksi administratif \nberupa: \na.  \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \npenghentian sementara untuk mengikuti transaksi \nOperasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk \npenyelesaian \ntransaksi \nOperasi \nMoneter \nsebagaimana dimaksud dalam Pasal 59, Peserta Operasi \nMoneter wajib:  \na. \nmenyediakan dana yang cukup di Rekening Giro \nRupiah;  \nb. \nmenyediakan surat berharga yang cukup pada \nrekening surat berharga di Bank Indonesia atau \nlembaga kustodian yang ditetapkan Bank Indonesia; \nc. \nmenyediakan dana yang cukup di Rekening Giro \nValas; dan/atau \nd. \nmelakukan transfer dana dalam valuta asing yang \ncukup \nke \nrekening \nBank \nIndonesia \ndi \nBank \nkoresponden, \nguna memenuhi kewajiban penyelesaian transaksi Operasi \nMoneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Peserta Operasi Moneter tidak memenuhi \nkewajiban penyelesaian transaksi sebagaimana dimaksud \npada ayat (1), transaksi Operasi Moneter dimaksud: \na. \ndinyatakan batal; atau  \nb. \ntetap harus diselesaikan,  \nsesuai dengan jenis instrumen Operasi Moneter."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta Operasi Moneter yang tidak memenuhi kewajiban \npenyelesaian transaksi Operasi Moneter sebagaimana \ndimaksud pada ayat (1) dapat dikenai sanksi administratif \nberupa: \na.  \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \npenghentian sementara untuk mengikuti transaksi \nOperasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Untuk penyelesaian transaksi Operasi Moneter sebagaimana \ndimaksud dalam Pasal 62 ayat (1), Bank Indonesia melakukan \npendebitan:  \na. \nRekening Giro di Bank Indonesia; dan/atau  \nb. \nrekening surat berharga di Bank Indonesia dan/atau \nlembaga kustodian,  \nmilik peserta Operasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk penyelesaian transaksi Operasi Moneter sebagaimana \ndimaksud dalam Pasal 62 ayat (1), Bank Indonesia melakukan \npendebitan:  \na. \nRekening Giro di Bank Indonesia; dan/atau  \nb. \nrekening surat berharga di Bank Indonesia dan/atau \nlembaga kustodian,  \nmilik peserta Operasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "64",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai penyelesaian transaksi \nOperasi Moneter sebagaimana dimaksud dalam Pasal 62 dan \nPasal 63 diatur dalam Peraturan Anggota Dewan Gubernur. \n \n \n \n \n \n \n \n \n \n\n\n \nBagian Keenam \nPengaturan GWM \n \nParagraf 1 \nKewajiban Pemenuhan GWM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai penyelesaian transaksi \nOperasi Moneter sebagaimana dimaksud dalam Pasal 62 dan \nPasal 63 diatur dalam Peraturan Anggota Dewan Gubernur. \n \n \n \n \n \n \n \n \n \n\n\n \nBagian Keenam \nPengaturan GWM \n \nParagraf 1 \nKewajiban Pemenuhan GWM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "65",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nBUK, BUS, dan UUS wajib memenuhi GWM dalam rupiah \nsebagaimana dimaksud dalam Pasal 11 huruf b secara: \na. \nharian; dan \nb. \nrata-rata. \n(2) \nDalam hal BUK, BUS, dan UUS melakukan kegiatan usaha \ndalam valuta asing, selain wajib memenuhi ketentuan \nsebagaimana dimaksud pada ayat (1), juga wajib \nmemenuhi GWM dalam valuta asing sebagaimana \ndimaksud dalam Pasal 11 huruf b secara: \na. \nharian bagi BUK, BUS dan UUS; dan \nb. \nrata-rata bagi BUK. \n(3) \nPemenuhan GWM oleh BUK, BUS, dan UUS sebagaimana \ndimaksud pada ayat (1) dan ayat (2) dilaksanakan  dengan \nketentuan: \na. \npemenuhan GWM dalam rupiah dilakukan melalui \npenempatan dana pada Rekening Giro Rupiah pada \nSistem BI-RTGS, Dana BI-FAST, dan/atau dana lain \nyang ditetapkan oleh Bank Indonesia; \nb. \npemenuhan GWM dalam valuta asing dilakukan \nmelalui penempatan dana pada Rekening Giro Valas \ndi sistem akunting Bank Indonesia; dan \nc. \npenempatan dana sebagaimana dimaksud dalam \nhuruf a dan huruf b oleh BUS dan UUS dilakukan \ndengan menggunakan akad wadi’ah yad amanah \nkhusus. \n(4) \nPemenuhan GWM sebagaimana dimaksud pada ayat (1) \ndan ayat (2) dilakukan setiap hari pada saat Bank \nIndonesia menyelenggarakan Sistem BI-RTGS. \n(5) \nBUK, \nBUS \ndan \nUUS \nyang \nmelanggar \nkewajiban \npemenuhan GWM sebagaimana dimaksud pada ayat (1) \ndan ayat (2) dikenai sanksi administratif berupa: \na. \nteguran tertulis; dan \nb. \nkewajiban membayar. \n(6) \nKetentuan lebih lanjut mengenai kewajiban pemenuhan \nGWM diatur dalam Peraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK, BUS, dan UUS wajib memenuhi GWM dalam rupiah \nsebagaimana dimaksud dalam Pasal 11 huruf b secara: \na. \nharian; dan \nb. \nrata-rata."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BUK, BUS, dan UUS melakukan kegiatan usaha \ndalam valuta asing, selain wajib memenuhi ketentuan \nsebagaimana dimaksud pada ayat (1), juga wajib \nmemenuhi GWM dalam valuta asing sebagaimana \ndimaksud dalam Pasal 11 huruf b secara: \na. \nharian bagi BUK, BUS dan UUS; dan \nb. \nrata-rata bagi BUK."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemenuhan GWM oleh BUK, BUS, dan UUS sebagaimana \ndimaksud pada ayat (1) dan ayat (2) dilaksanakan  dengan \nketentuan: \na. \npemenuhan GWM dalam rupiah dilakukan melalui \npenempatan dana pada Rekening Giro Rupiah pada \nSistem BI-RTGS, Dana BI-FAST, dan/atau dana lain \nyang ditetapkan oleh Bank Indonesia; \nb. \npemenuhan GWM dalam valuta asing dilakukan \nmelalui penempatan dana pada Rekening Giro Valas \ndi sistem akunting Bank Indonesia; dan \nc. \npenempatan dana sebagaimana dimaksud dalam \nhuruf a dan huruf b oleh BUS dan UUS dilakukan \ndengan menggunakan akad wadi’ah yad amanah \nkhusus."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemenuhan GWM sebagaimana dimaksud pada ayat (1) \ndan ayat (2) dilakukan setiap hari pada saat Bank \nIndonesia menyelenggarakan Sistem BI-RTGS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "BUK, \nBUS \ndan \nUUS \nyang \nmelanggar \nkewajiban \npemenuhan GWM sebagaimana dimaksud pada ayat (1) \ndan ayat (2) dikenai sanksi administratif berupa: \na. \nteguran tertulis; dan \nb. \nkewajiban membayar."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Ketentuan lebih lanjut mengenai kewajiban pemenuhan \nGWM diatur dalam Peraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "66",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nPemenuhan GWM dalam rupiah oleh BUK, BUS, dan UUS \ndapat diberikan pelonggaran yang ditetapkan Bank \nIndonesia berdasarkan kebijakan sebagaimana dimaksud \ndalam Pasal 18. \n(2) \nKetentuan pelonggaran atas kewajiban pemenuhan GWM \ndalam rupiah sebagaimana dimaksud pada ayat (1) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia. \n \n \n \n \n \n\n\n \nParagraf 2 \nBesaran Kewajiban dan Remunerasi GWM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemenuhan GWM dalam rupiah oleh BUK, BUS, dan UUS \ndapat diberikan pelonggaran yang ditetapkan Bank \nIndonesia berdasarkan kebijakan sebagaimana dimaksud \ndalam Pasal 18."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan pelonggaran atas kewajiban pemenuhan GWM \ndalam rupiah sebagaimana dimaksud pada ayat (1) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia. \n \n \n \n \n \n\n\n \nParagraf 2 \nBesaran Kewajiban dan Remunerasi GWM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "67",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nKewajiban pemenuhan GWM dalam rupiah bagi BUK, \nBUS, dan UUS sebagaimana dimaksud dalam Pasal 65  \nayat (1) ditetapkan sebesar persentase tertentu dari DPK \nBUK, BUS, dan UUS dalam rupiah selama periode laporan \ntertentu. \n(2) \nBesaran persentase GWM dalam rupiah sebagaimana \ndimaksud pada ayat (1) bagi BUK secara: \na. \nharian sebesar 0% (nol persen); dan \nb. \nrata-rata sebesar 9% (sembilan persen). \n(3) \nBesaran persentase GWM dalam rupiah sebagaimana \ndimaksud pada ayat (1) bagi BUS dan UUS secara: \na. \nharian sebesar 0% (nol persen); dan \nb. \nrata-rata sebesar 7,5% (tujuh koma lima persen). \n(4) \nKewajiban pemenuhan GWM dalam valuta asing bagi BUK, \nBUS, dan UUS sebagaimana dimaksud dalam Pasal 65  \nayat (2) ditetapkan sebesar persentase tertentu dari DPK \nBUK, BUS, dan UUS dalam valuta asing selama periode \nlaporan tertentu. \n(5) \nBesaran persentase GWM dalam valuta asing sebagaimana \ndimaksud pada ayat (4) bagi BUK secara: \na. \nharian sebesar 2% (dua persen); dan \nb. \nrata-rata sebesar 2% (dua persen). \n(6) \nBesaran persentase GWM dalam valuta asing sebagaimana \ndimaksud pada ayat (4) bagi BUS dan UUS secara harian \nsebesar 1% (satu persen). \n(7) \nPenyesuaian besaran persentase kewajiban pemenuhan \nGWM dalam rupiah sebagaimana dimaksud pada ayat (2) \ndan ayat (3), dan GWM dalam valuta asing sebagaimana \ndimaksud pada ayat (5) dan ayat (6) ditetapkan dalam \nPeraturan Anggota Dewan Gubernur. \n(8) \nKetentuan lebih lanjut mengenai cara penghitungan DPK \nBUK, BUS, dan UUS dalam rupiah sebagaimana dimaksud \npada ayat (1) dan DPK BUK, BUS, dan UUS dalam valuta \nasing sebagaimana dimaksud pada ayat (4) diatur dalam \nPeraturan Anggota Dewan Gubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kewajiban pemenuhan GWM dalam rupiah bagi BUK, \nBUS, dan UUS sebagaimana dimaksud dalam Pasal 65  \nayat (1) ditetapkan sebesar persentase tertentu dari DPK \nBUK, BUS, dan UUS dalam rupiah selama periode laporan \ntertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Besaran persentase GWM dalam rupiah sebagaimana \ndimaksud pada ayat (1) bagi BUK secara: \na. \nharian sebesar 0% (nol persen); dan \nb. \nrata-rata sebesar 9% (sembilan persen)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Besaran persentase GWM dalam rupiah sebagaimana \ndimaksud pada ayat (1) bagi BUS dan UUS secara: \na. \nharian sebesar 0% (nol persen); dan \nb. \nrata-rata sebesar 7,5% (tujuh koma lima persen)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kewajiban pemenuhan GWM dalam valuta asing bagi BUK, \nBUS, dan UUS sebagaimana dimaksud dalam Pasal 65  \nayat (2) ditetapkan sebesar persentase tertentu dari DPK \nBUK, BUS, dan UUS dalam valuta asing selama periode \nlaporan tertentu."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Besaran persentase GWM dalam valuta asing sebagaimana \ndimaksud pada ayat (4) bagi BUK secara: \na. \nharian sebesar 2% (dua persen); dan \nb. \nrata-rata sebesar 2% (dua persen)."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Besaran persentase GWM dalam valuta asing sebagaimana \ndimaksud pada ayat (4) bagi BUS dan UUS secara harian \nsebesar 1% (satu persen)."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Penyesuaian besaran persentase kewajiban pemenuhan \nGWM dalam rupiah sebagaimana dimaksud pada ayat (2) \ndan ayat (3), dan GWM dalam valuta asing sebagaimana \ndimaksud pada ayat (5) dan ayat (6) ditetapkan dalam \nPeraturan Anggota Dewan Gubernur."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Ketentuan lebih lanjut mengenai cara penghitungan DPK \nBUK, BUS, dan UUS dalam rupiah sebagaimana dimaksud \npada ayat (1) dan DPK BUK, BUS, dan UUS dalam valuta \nasing sebagaimana dimaksud pada ayat (4) diatur dalam \nPeraturan Anggota Dewan Gubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "68",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nBUK yang memenuhi kewajiban GWM dalam rupiah \nsebagaimana dimaksud dalam Pasal 65 ayat (1) dapat \ndiberikan remunerasi GWM sebagaimana dimaksud dalam \nPasal 19 huruf a terhadap bagian tertentu dari pemenuhan \nkewajiban GWM dalam rupiah.  \n(2) \nBUS dan UUS yang memenuhi kewajiban GWM dalam \nrupiah sebagaimana dimaksud dalam Pasal 65  ayat (1) \ndapat diberikan insentif GWM berupa pemberian (‘athaya) \nberdasarkan prinsip syariah sebagaimana dimaksud \ndalam Pasal 19 huruf b terhadap bagian tertentu dari \npemenuhan kewajiban GWM dalam rupiah. \n(3) \nRemunerasi GWM sebagaimana dimaksud pada ayat (1) \ndiberikan dengan tingkat bunga tertentu. \n\n\n \n(4) \nInsentif GWM berupa pemberian (‘athaya) berdasarkan \nprinsip syariah sebagaimana dimaksud pada ayat (2) \ndiberikan secara sukarela oleh Bank Indonesia. \n(5) \nKetentuan lebih lanjut mengenai pemberian remunerasi \nGWM dan insentif GWM berupa pemberian (‘athaya) \nberdasarkan prinsip syariah diatur dalam Peraturan \nAnggota Dewan Gubernur. \n \nParagraf 3 \nPemenuhan GWM dalam Kondisi Tertentu",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BUK yang memenuhi kewajiban GWM dalam rupiah \nsebagaimana dimaksud dalam Pasal 65 ayat (1) dapat \ndiberikan remunerasi GWM sebagaimana dimaksud dalam \nPasal 19 huruf a terhadap bagian tertentu dari pemenuhan \nkewajiban GWM dalam rupiah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BUS dan UUS yang memenuhi kewajiban GWM dalam \nrupiah sebagaimana dimaksud dalam Pasal 65  ayat (1) \ndapat diberikan insentif GWM berupa pemberian (‘athaya) \nberdasarkan prinsip syariah sebagaimana dimaksud \ndalam Pasal 19 huruf b terhadap bagian tertentu dari \npemenuhan kewajiban GWM dalam rupiah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Remunerasi GWM sebagaimana dimaksud pada ayat (1) \ndiberikan dengan tingkat bunga tertentu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Insentif GWM berupa pemberian (‘athaya) berdasarkan \nprinsip syariah sebagaimana dimaksud pada ayat (2) \ndiberikan secara sukarela oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai pemberian remunerasi \nGWM dan insentif GWM berupa pemberian (‘athaya) \nberdasarkan prinsip syariah diatur dalam Peraturan \nAnggota Dewan Gubernur. \n \nParagraf 3 \nPemenuhan GWM dalam Kondisi Tertentu"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "69",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nPemenuhan GWM sebagaimana dimaksud dalam Pasal 65  \nberlaku juga bagi Bank yang melakukan langkah strategis \ndan mendasar berupa: \na. \nmelakukan kegiatan usaha dalam valuta asing untuk \npertama kali; \nb. \npenggabungan atau peleburan; \nc. \npemisahan UUS dari BUK; \nd. \nperubahan kegiatan usaha; dan/atau \ne. \nlangkah strategis dan mendasar lain. \n(2) \nPemenuhan GWM kepada BUK dan BUS yang melakukan \npenggabungan atau peleburan sebagaimana dimaksud \npada ayat (1) huruf b dapat diberikan pelonggaran tertentu \nyang ditetapkan Bank Indonesia berdasarkan kebijakan \nsebagaimana dimaksud dalam Pasal 18. \n(3) \nKetentuan lebih lanjut mengenai pemenuhan GWM bagi \nBank yang melakukan langkah strategis dan mendasar \nsebagaimana dimaksud pada ayat (1) dan pelonggaran \natas pemenuhan kewajiban GWM sebagaimana dimaksud \npada ayat (2) diatur dalam Peraturan Anggota Dewan \nGubernur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemenuhan GWM sebagaimana dimaksud dalam Pasal 65  \nberlaku juga bagi Bank yang melakukan langkah strategis \ndan mendasar berupa: \na. \nmelakukan kegiatan usaha dalam valuta asing untuk \npertama kali; \nb. \npenggabungan atau peleburan; \nc. \npemisahan UUS dari BUK; \nd. \nperubahan kegiatan usaha; dan/atau \ne. \nlangkah strategis dan mendasar lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemenuhan GWM kepada BUK dan BUS yang melakukan \npenggabungan atau peleburan sebagaimana dimaksud \npada ayat (1) huruf b dapat diberikan pelonggaran tertentu \nyang ditetapkan Bank Indonesia berdasarkan kebijakan \nsebagaimana dimaksud dalam Pasal 18."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan lebih lanjut mengenai pemenuhan GWM bagi \nBank yang melakukan langkah strategis dan mendasar \nsebagaimana dimaksud pada ayat (1) dan pelonggaran \natas pemenuhan kewajiban GWM sebagaimana dimaksud \npada ayat (2) diatur dalam Peraturan Anggota Dewan \nGubernur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "70",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "(1) \nDalam hal BUK menerima pinjaman likuiditas jangka \npendek atau BUS menerima pembiayaan likuiditas jangka \npendek berdasarkan prinsip syariah:  \na. \nbesaran kewajiban GWM dalam rupiah secara harian \ndan rata-rata sebagaimana dimaksud dalam Pasal 67  \nayat (2) dan ayat (3); dan/atau  \nb. \nbesaran kewajiban GWM dalam valuta asing secara \nharian dan rata-rata sebagaimana dimaksud dalam \nPasal 67  ayat (5) dan ayat (6), \n \ndipenuhi seluruhnya secara harian. \n(2) \nKetentuan lebih lanjut mengenai pemenuhan kewajiban \nGWM oleh BUK yang menerima pinjaman likuiditas jangka \npendek dan BUS yang menerima pembiayaan likuiditas \njangka pendek berdasarkan prinsip syariah diatur dalam \nPeraturan Anggota Dewan Gubernur. \n \n \n \n \n \n \n \n\n\n \nBagian Ketujuh \nKebijakan Tertentu dan Pembebasan Tuntutan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal BUK menerima pinjaman likuiditas jangka \npendek atau BUS menerima pembiayaan likuiditas jangka \npendek berdasarkan prinsip syariah:  \na. \nbesaran kewajiban GWM dalam rupiah secara harian \ndan rata-rata sebagaimana dimaksud dalam Pasal 67  \nayat (2) dan ayat (3); dan/atau  \nb. \nbesaran kewajiban GWM dalam valuta asing secara \nharian dan rata-rata sebagaimana dimaksud dalam \nPasal 67  ayat (5) dan ayat (6), \n \ndipenuhi seluruhnya secara harian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan lebih lanjut mengenai pemenuhan kewajiban \nGWM oleh BUK yang menerima pinjaman likuiditas jangka \npendek dan BUS yang menerima pembiayaan likuiditas \njangka pendek berdasarkan prinsip syariah diatur dalam \nPeraturan Anggota Dewan Gubernur. \n \n \n \n \n \n \n \n\n\n \nBagian Ketujuh \nKebijakan Tertentu dan Pembebasan Tuntutan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "71",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia berdasarkan pertimbangan tertentu dapat \nmengambil \nkebijakan \ntertentu \nmengenai \npelaksanaan \nPengendalian Moneter dengan tetap memperhatikan ketentuan \nperaturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia berdasarkan pertimbangan tertentu dapat \nmengambil \nkebijakan \ntertentu \nmengenai \npelaksanaan \nPengendalian Moneter dengan tetap memperhatikan ketentuan \nperaturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "72",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN PENGENDALIAN MONETER",
+      "teks_lengkap": "Bank Indonesia dibebaskan dari segala tuntutan atas kerugian \nyang timbul dan/atau yang akan timbul akibat keadaan tidak \nnormal \ndan/atau \nkeadaan \nkahar \ndalam \npelaksanaan \nPengendalian Moneter. \n \nBAB VI \nPELAPORAN DAN PENGAWASAN \n \nBagian Kesatu \nData dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dibebaskan dari segala tuntutan atas kerugian \nyang timbul dan/atau yang akan timbul akibat keadaan tidak \nnormal \ndan/atau \nkeadaan \nkahar \ndalam \npelaksanaan \nPengendalian Moneter. \n \nBAB VI \nPELAPORAN DAN PENGAWASAN \n \nBagian Kesatu \nData dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "73",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nDalam \nmelaksanakan \nPengendalian \nMoneter, \nBank \nIndonesia memperoleh, memproses, dan mendiseminasi \ndata \ndan \ninformasi \nuntuk \nmemenuhi \nkebutuhan \nperumusan dan pelaksanaan Pengendalian Moneter, \nkomitmen nasional dan internasional, serta penyediaan \ndata dan informasi bagi publik.  \n(2) \nData dan informasi sebagaimana dimaksud pada ayat (1) \ndiperoleh melalui: \na. \npenyelenggaraan survei; \nb. \npemerolehan data, informasi, laporan, keterangan, \ndan penjelasan dari pihak terkait; dan/atau \nc. \npemerolehan data dan informasi dari dan/atau \nmelakukan pertukaran data dan informasi dengan \notoritas dan/atau kementerian dan lembaga terkait. \n(3) \nPemrosesan \ndan \ndiseminasi \ndata \ndan \ninformasi \nsebagaimana dimaksud pada ayat (1) dilakukan melalui \nsistem informasi digital dan/atau mekanisme lain sesuai \ndengan ketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelaksanakan \nPengendalian \nMoneter, \nBank \nIndonesia memperoleh, memproses, dan mendiseminasi \ndata \ndan \ninformasi \nuntuk \nmemenuhi \nkebutuhan \nperumusan dan pelaksanaan Pengendalian Moneter, \nkomitmen nasional dan internasional, serta penyediaan \ndata dan informasi bagi publik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Data dan informasi sebagaimana dimaksud pada ayat (1) \ndiperoleh melalui: \na. \npenyelenggaraan survei; \nb. \npemerolehan data, informasi, laporan, keterangan, \ndan penjelasan dari pihak terkait; dan/atau \nc. \npemerolehan data dan informasi dari dan/atau \nmelakukan pertukaran data dan informasi dengan \notoritas dan/atau kementerian dan lembaga terkait."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemrosesan \ndan \ndiseminasi \ndata \ndan \ninformasi \nsebagaimana dimaksud pada ayat (1) dilakukan melalui \nsistem informasi digital dan/atau mekanisme lain sesuai \ndengan ketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "74",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "Ketentuan mengenai perolehan, pemrosesan, dan diseminasi \ndata dan informasi sebagaimana dimaksud dalam Pasal 73 \ndilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai kebijakan data dan informasi Bank Indonesia. \n \nBagian Kedua \nPelaporan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai perolehan, pemrosesan, dan diseminasi \ndata dan informasi sebagaimana dimaksud dalam Pasal 73 \ndilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai kebijakan data dan informasi Bank Indonesia. \n \nBagian Kedua \nPelaporan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "75",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nDalam \npelaksanaan \nPengendalian \nMoneter, \nPeserta \nOperasi Moneter, lembaga perantara, Bank yang memiliki \nkewajiban GWM dan/atau pihak lain yang ditetapkan \nBank Indonesia wajib menyampaikan laporan kepada \nBank Indonesia.  \n\n\n \n(2) \nPeserta Operasi Moneter, lembaga perantara, Bank yang \nmemiliki kewajiban GWM dan/atau pihak lain yang \nditetapkan Bank Indonesia yang tidak melaksanakan \nkewajiban sebagaimana dimaksud pada ayat (1) dikenai \nsanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lainnya yang ditetapkan oleh \nBank Indonesia. \n(3) \nKetentuan mengenai tata cara pelaporan sebagaimana \ndimaksud pada ayat (1) dan tata cara pengenaan sanksi \nadministratif sebagaimana dimaksud pada ayat (2) \nditetapkan oleh Bank Indonesia. \n \nBagian Ketiga \nPengawasan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \npelaksanaan \nPengendalian \nMoneter, \nPeserta \nOperasi Moneter, lembaga perantara, Bank yang memiliki \nkewajiban GWM dan/atau pihak lain yang ditetapkan \nBank Indonesia wajib menyampaikan laporan kepada \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peserta Operasi Moneter, lembaga perantara, Bank yang \nmemiliki kewajiban GWM dan/atau pihak lain yang \nditetapkan Bank Indonesia yang tidak melaksanakan \nkewajiban sebagaimana dimaksud pada ayat (1) dikenai \nsanksi administratif berupa: \na. \nteguran tertulis; \nb. \nkewajiban membayar; dan/atau \nc. \nsanksi administratif lainnya yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai tata cara pelaporan sebagaimana \ndimaksud pada ayat (1) dan tata cara pengenaan sanksi \nadministratif sebagaimana dimaksud pada ayat (2) \nditetapkan oleh Bank Indonesia. \n \nBagian Ketiga \nPengawasan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1)  Dalam \npelaksanaan \nPengendalian \nMoneter, \nBank \nIndonesia melakukan pengawasan yang mencakup: \na. \npengawasan tidak langsung; dan \nb. \npemeriksaan. \n(2)  Pengawasan \nPengendalian \nMoneter \nsebagaimana \ndimaksud pada ayat (1) dilakukan dengan: \na. \nmemantau dan mengidentifikasi risiko; \nb. \nmemastikan \nkepatuhan \nterhadap \nketentuan; \ndan/atau \nc. \nmemantau \nhal \nlainnya \nterkait \npelaksanaan \nPengendalian Moneter. \n(3) \nPengawasan Pengendalian Moneter dalam pelaksanaan \nOperasi Moneter dilakukan terhadap pihak yang terdiri \natas: \na. \nPeserta Operasi Moneter;  \nb. \nlembaga perantara; dan/atau  \nc. \npihak lain yang ditetapkan atau ditunjuk Bank \nIndonesia untuk mendukung pelaksanaan Operasi \nMoneter. \n(4) \nPengawasan Pengendalian Moneter dalam pengaturan \nGWM dilakukan terhadap pihak yang terdiri atas BUK, \nBUS, dan UUS.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \npelaksanaan \nPengendalian \nMoneter, \nBank \nIndonesia melakukan pengawasan yang mencakup: \na. \npengawasan tidak langsung; dan \nb. \npemeriksaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan \nPengendalian \nMoneter \nsebagaimana \ndimaksud pada ayat (1) dilakukan dengan: \na. \nmemantau dan mengidentifikasi risiko; \nb. \nmemastikan \nkepatuhan \nterhadap \nketentuan; \ndan/atau \nc. \nmemantau \nhal \nlainnya \nterkait \npelaksanaan \nPengendalian Moneter."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengawasan Pengendalian Moneter dalam pelaksanaan \nOperasi Moneter dilakukan terhadap pihak yang terdiri \natas: \na. \nPeserta Operasi Moneter;  \nb. \nlembaga perantara; dan/atau  \nc. \npihak lain yang ditetapkan atau ditunjuk Bank \nIndonesia untuk mendukung pelaksanaan Operasi \nMoneter."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengawasan Pengendalian Moneter dalam pengaturan \nGWM dilakukan terhadap pihak yang terdiri atas BUK, \nBUS, dan UUS."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "77",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nDalam \npelaksanaan \npengawasan \ntidak \nlangsung \nsebagaimana dimaksud dalam Pasal 76  ayat (1) huruf a, \npihak sebagaimana dimaksud dalam Pasal 76 ayat (3) dan \nayat (4) wajib: \na. \nmenyediakan dan menyampaikan data, informasi, \ndan/atau keterangan yang diperlukan oleh Bank \nIndonesia; dan \nb. \nbertanggung jawab atas kebenaran data, informasi, \ndan/atau keterangan yang disampaikan kepada Bank \nIndonesia.  \n(2) \nData, \ninformasi \ndan/atau \nketerangan \nsebagaimana \ndimaksud pada ayat (1) disampaikan melalui pelaporan, \n\n\n \npertemuan langsung, dan/atau sarana komunikasi lain \nyang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \npelaksanaan \npengawasan \ntidak \nlangsung \nsebagaimana dimaksud dalam Pasal 76  ayat (1) huruf a, \npihak sebagaimana dimaksud dalam Pasal 76 ayat (3) dan \nayat (4) wajib: \na. \nmenyediakan dan menyampaikan data, informasi, \ndan/atau keterangan yang diperlukan oleh Bank \nIndonesia; dan \nb. \nbertanggung jawab atas kebenaran data, informasi, \ndan/atau keterangan yang disampaikan kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Data, \ninformasi \ndan/atau \nketerangan \nsebagaimana \ndimaksud pada ayat (1) disampaikan melalui pelaporan, \n\n\n \npertemuan langsung, dan/atau sarana komunikasi lain \nyang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "78",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "Dalam pelaksanaan pemeriksaan sebagaimana dimaksud \ndalam Pasal 76 ayat (1)  huruf b, pihak sebagaimana dimaksud \ndalam Pasal 76 ayat (3) dan ayat (4) wajib:  \na. \nmemberikan: \n1. \ndokumen dan/atau data yang diminta;  \n2. \ninformasi dan keterangan yang berkaitan dengan \nkegiatan yang diperiksa, baik lisan maupun tertulis;  \n3. \nakses terhadap sistem informasi; dan/atau  \n4. \nhal lain yang diperlukan dalam pemeriksaan; dan \nb. \nbertanggung jawab atas kebenaran data, informasi, \ndan/atau keterangan yang disampaikan kepada Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam pelaksanaan pemeriksaan sebagaimana dimaksud \ndalam Pasal 76 ayat (1)  huruf b, pihak sebagaimana dimaksud \ndalam Pasal 76 ayat (3) dan ayat (4) wajib:  \na. \nmemberikan: \n1. \ndokumen dan/atau data yang diminta;  \n2. \ninformasi dan keterangan yang berkaitan dengan \nkegiatan yang diperiksa, baik lisan maupun tertulis;  \n3. \nakses terhadap sistem informasi; dan/atau  \n4. \nhal lain yang diperlukan dalam pemeriksaan; dan \nb. \nbertanggung jawab atas kebenaran data, informasi, \ndan/atau keterangan yang disampaikan kepada Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "79",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nDalam pelaksanaan pemeriksaan sebagaimana dimaksud \ndalam Pasal 76 ayat (1) huruf b, Bank Indonesia dapat \nmenugaskan pihak lain untuk melakukan pemeriksaan. \n(2) \nPenugasan pihak lain sebagaimana dimaksud pada ayat \n(1) dilakukan untuk dan atas nama Bank Indonesia. \n(3) \nPihak \nlain \nyang \nditugaskan \nuntuk \nmelakukan \npemeriksaan wajib menjaga kerahasiaan data, informasi, \ndan/atau \nketerangan \nyang \ndiperoleh \ndari \nhasil \npemeriksaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam pelaksanaan pemeriksaan sebagaimana dimaksud \ndalam Pasal 76 ayat (1) huruf b, Bank Indonesia dapat \nmenugaskan pihak lain untuk melakukan pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penugasan pihak lain sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan untuk dan atas nama Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pihak \nlain \nyang \nditugaskan \nuntuk \nmelakukan \npemeriksaan wajib menjaga kerahasiaan data, informasi, \ndan/atau \nketerangan \nyang \ndiperoleh \ndari \nhasil \npemeriksaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "80",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nBerdasarkan hasil pengawasan Pengendalian Moneter \nterhadap pihak sebagaimana dimaksud dalam 76 ayat (3) \ndan ayat (4), Bank Indonesia dapat menetapkan tindak \nlanjut \nhasil \npengawasan \nterhadap \npelaksanaan \nPengendalian Moneter. \n(2) \nBank Indonesia dapat menyampaikan tembusan tindak \nlanjut hasil pengawasan sebagaimana dimaksud pada ayat \n(1) kepada otoritas terkait.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Berdasarkan hasil pengawasan Pengendalian Moneter \nterhadap pihak sebagaimana dimaksud dalam 76 ayat (3) \ndan ayat (4), Bank Indonesia dapat menetapkan tindak \nlanjut \nhasil \npengawasan \nterhadap \npelaksanaan \nPengendalian Moneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat menyampaikan tembusan tindak \nlanjut hasil pengawasan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "kepada otoritas terkait."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "81",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "Pelanggaran terhadap ketentuan sebagaimana dimaksud \ndalam Pasal 77 ayat (1), Pasal 78, dan Pasal 79 ayat (3) \ndikenakan sanksi administratif berupa teguran tertulis. \n \nBagian Keempat \nPengawasan Terintegrasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelanggaran terhadap ketentuan sebagaimana dimaksud \ndalam Pasal 77 ayat (1), Pasal 78, dan Pasal 79 ayat (3) \ndikenakan sanksi administratif berupa teguran tertulis. \n \nBagian Keempat \nPengawasan Terintegrasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "82",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nPengawasan atas Pengendalian Moneter sebagaimana \ndimaksud dalam Pasal 76 merupakan bagian dari \npelaksanaan pengawasan terintegrasi Bank Indonesia. \n(2) \nPengawasan terintegrasi sebagaimana dimaksud pada \nayat (1) \ndilakukan dengan mengintegrasikan hasil \npengawasan yang dilakukan oleh Bank Indonesia. \n \n \n \n\n\n \nBAB VII \nKOORDINASI DAN SINERGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengawasan atas Pengendalian Moneter sebagaimana \ndimaksud dalam Pasal 76 merupakan bagian dari \npelaksanaan pengawasan terintegrasi Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan terintegrasi sebagaimana dimaksud pada \nayat (1) \ndilakukan dengan mengintegrasikan hasil \npengawasan yang dilakukan oleh Bank Indonesia. \n \n \n \n\n\n \nBAB VII \nKOORDINASI DAN SINERGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "83",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "(1) \nDalam \nmelaksanakan \nPengendalian \nMoneter, \nBank \nIndonesia melakukan koordinasi dan sinergi dengan pihak \neksternal untuk meningkatkan efektivitas Pengendalian \nMoneter. \n(2) \nKoordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan \nmenerapkan \nprinsip \nindependensi \ndalam \ninterdependensi kebijakan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelaksanakan \nPengendalian \nMoneter, \nBank \nIndonesia melakukan koordinasi dan sinergi dengan pihak \neksternal untuk meningkatkan efektivitas Pengendalian \nMoneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan \nmenerapkan \nprinsip \nindependensi \ndalam \ninterdependensi kebijakan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "84",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "Koordinasi dan sinergi dengan pihak eksternal sebagaimana \ndimaksud dalam Pasal 83 dapat dilakukan melalui:  \na.  \nforum antarotoritas, forum internasional, dan forum lain; \ndan \nb. \nkerja sama domestik dan kerja sama internasional,  \nuntuk mendukung pencapaian tujuan Pengendalian Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Koordinasi dan sinergi dengan pihak eksternal sebagaimana \ndimaksud dalam Pasal 83 dapat dilakukan melalui:  \na.  \nforum antarotoritas, forum internasional, dan forum lain; \ndan \nb. \nkerja sama domestik dan kerja sama internasional,  \nuntuk mendukung pencapaian tujuan Pengendalian Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "85",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "(1) \nDalam \npelaksanaan \nkerja \nsama \ninternasional \nsebagaimana dimaksud dalam Pasal 84 huruf b, Bank \nIndonesia dapat melakukan kerja sama dengan bank \nsentral, otoritas terkait negara mitra, dan/atau lembaga \nkeuangan internasional. \n(2) \nPelaksanaan kerja sama internasional sebagaimana \ndimaksud pada ayat (1) dilaksanakan berdasarkan \nperjanjian kerja sama internasional. \n \nBAB VIII \nAKUNTABILITAS DAN TRANSPARANSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \npelaksanaan \nkerja \nsama \ninternasional \nsebagaimana dimaksud dalam Pasal 84 huruf b, Bank \nIndonesia dapat melakukan kerja sama dengan bank \nsentral, otoritas terkait negara mitra, dan/atau lembaga \nkeuangan internasional."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan kerja sama internasional sebagaimana \ndimaksud pada ayat (1) dilaksanakan berdasarkan \nperjanjian kerja sama internasional. \n \nBAB VIII \nAKUNTABILITAS DAN TRANSPARANSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI",
+      "teks_lengkap": "Dalam Pengendalian Moneter, Bank Indonesia menerapkan \ntransparansi pelaksanaan Pengendalian Moneter sebagai \nbentuk akuntabilitas kepada publik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Pengendalian Moneter, Bank Indonesia menerapkan \ntransparansi pelaksanaan Pengendalian Moneter sebagai \nbentuk akuntabilitas kepada publik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "87",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI",
+      "teks_lengkap": "(1) Dalam penerapan transparansi sebagaimana dimaksud \ndalam Pasal 86, Bank Indonesia melakukan komunikasi \nuntuk: \na. \nmeningkatkan \npemahaman \npublik \nterhadap \nPengendalian Moneter; dan/atau \nb. \nmengarahkan dan membentuk ekspektasi pelaku \npasar guna meningkatkan efektivitas pelaksanaan \nPengendalian Moneter. \n(2) Komunikasi sebagaimana dimaksud pada ayat (1) dapat \ndisampaikan melalui kanal komunikasi. \n \n \n \n \n \n \n\n\n \nBAB IX \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penerapan transparansi sebagaimana dimaksud \ndalam Pasal 86, Bank Indonesia melakukan komunikasi \nuntuk: \na. \nmeningkatkan \npemahaman \npublik \nterhadap \nPengendalian Moneter; dan/atau \nb. \nmengarahkan dan membentuk ekspektasi pelaku \npasar guna meningkatkan efektivitas pelaksanaan \nPengendalian Moneter."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komunikasi sebagaimana dimaksud pada ayat (1) dapat \ndisampaikan melalui kanal komunikasi. \n \n \n \n \n \n \n\n\n \nBAB IX \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "88",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nperizinan kepesertaan Operasi Moneter yang masih dalam \nproses penyelesaian tetap mengikuti Peraturan Bank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang \nOperasi \nMoneter (Lembaran Negara Republik Indonesia Tahun \n2020 Nomor 220, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6556) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n15 Tahun 2023 tentang Perubahan Ketiga atas Peraturan \nBank Indonesia Nomor 22/14/PBI/2020 tentang Operasi \nMoneter (Lembaran Negara Republik Indonesia Tahun \n2023 Nomor 38/BI, Tambahan Lembaran Negara Republik \nIndonesia \nNomor \n60/BI) \nbeserta \nketentuan \npelaksanaannya sampai dengan diterbitkannya ketentuan \npelaksanaan baru mengenai kepesertaan berdasarkan \nPeraturan Bank Indonesia ini; dan \nb. \nketentuan mengenai perizinan sebagaimana diatur dalam \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang Operasi Moneter (Lembaran Negara Republik \nIndonesia Tahun 2020 Nomor 220, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6556) sebagaimana \ntelah beberapa kali diubah terakhir dengan Peraturan \nBank Indonesia Nomor 15 Tahun 2023 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 tentang Operasi Moneter (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 38/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n60/BI) beserta ketentuan pelaksanaannya masih tetap \nberlaku sepanjang belum diubah dan/atau diganti dengan \nketentuan pelaksanaan baru berdasarkan Peraturan Bank \nIndonesia ini. \n \nBAB X \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nperizinan kepesertaan Operasi Moneter yang masih dalam \nproses penyelesaian tetap mengikuti Peraturan Bank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang \nOperasi \nMoneter (Lembaran Negara Republik Indonesia Tahun \n2020 Nomor 220, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6556) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n15 Tahun 2023 tentang Perubahan Ketiga atas Peraturan \nBank Indonesia Nomor 22/14/PBI/2020 tentang Operasi \nMoneter (Lembaran Negara Republik Indonesia Tahun \n2023 Nomor 38/BI, Tambahan Lembaran Negara Republik \nIndonesia \nNomor \n60/BI) \nbeserta \nketentuan \npelaksanaannya sampai dengan diterbitkannya ketentuan \npelaksanaan baru mengenai kepesertaan berdasarkan \nPeraturan Bank Indonesia ini; dan \nb. \nketentuan mengenai perizinan sebagaimana diatur dalam \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang Operasi Moneter (Lembaran Negara Republik \nIndonesia Tahun 2020 Nomor 220, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6556) sebagaimana \ntelah beberapa kali diubah terakhir dengan Peraturan \nBank Indonesia Nomor 15 Tahun 2023 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 tentang Operasi Moneter (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 38/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n60/BI) beserta ketentuan pelaksanaannya masih tetap \nberlaku sepanjang belum diubah dan/atau diganti dengan \nketentuan pelaksanaan baru berdasarkan Peraturan Bank \nIndonesia ini. \n \nBAB X \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "89",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, semua \nperaturan yang merupakan peraturan pelaksanaan dari: \na. \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2013 Nomor 237, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5480) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n23/4/PBI/2021 \ntentang \nPerubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2021 Nomor 85, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6674); \nb. \nPeraturan Bank Indonesia Nomor 20/3/PBI/2018 tentang \nGiro Wajib Minimum dalam Rupiah dan Valuta Asing bagi \n\n\n \nBank Umum Konvensional, Bank Umum Syariah, dan Unit \nUsaha Syariah (Lembaran Negara Republik Indonesia \nTahun 2018 Nomor 43, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6193) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 24/4/PBI/2022 tentang Perubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n20/3/PBI/2018 tentang Giro Wajib Minimum dalam \nRupiah dan Valuta Asing bagi Bank Umum Konvensional, \nBank Umum Syariah, dan Unit Usaha Syariah (Lembaran \nNegara Republik Indonesia Tahun 2022 Nomor 55, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6771); \nc. \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang Operasi Moneter (Lembaran Negara Republik \nIndonesia Tahun 2020 Nomor 220, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6556) sebagaimana \ntelah beberapa kali diubah terakhir dengan Peraturan \nBank Indonesia Nomor 15 Tahun 2023 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 tentang Operasi Moneter (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 38/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n60/BI); \nd.  Peraturan Bank Indonesia Nomor 23/5/PBI/2021 tentang \nSistem Monitoring Transaksi Valuta Asing terhadap \nRupiah (Lembaran Negara Republik Indonesia Tahun 2021 \nNomor 130); \n \ne. \nPeraturan \nBank \nIndonesia \nNomor \n23/18/PBI/2021 \ntentang Pengendalian Moneter (Lembaran Negara Republik \nIndonesia Tahun 2021 Nomor 282, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6748); \nf. \nPeraturan Bank Indonesia Nomor 24/2/PBI/2022 tentang \nTransaksi \nBank \ndengan \nBank \nIndonesia \nuntuk \nMendukung Penyelesaian Transaksi Menggunakan Mata \nUang Lokal Negara Mitra (Lembaran Negara Republik \nIndonesia Tahun 2022 Nomor 36, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6763); \ng. \nPeraturan \nBank \nIndonesia \nNomor \n24/20/PBI/2022 \ntentang Transaksi Swap Lindung Nilai Syariah kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 34/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 25/BI); dan \nh. \nPeraturan Bank Indonesia Nomor 2 Tahun 2023 tentang \nTransaksi Domestic Non Deliverable Forward Non Dolar \nAmerika Serikat Terhadap Rupiah Lindung Nilai kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 12/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 37/BI),  \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan \ndengan ketentuan dalam Peraturan Bank Indonesia ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku, semua \nperaturan yang merupakan peraturan pelaksanaan dari: \na. \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2013 Nomor 237, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5480) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n23/4/PBI/2021 \ntentang \nPerubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2021 Nomor 85, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6674); \nb. \nPeraturan Bank Indonesia Nomor 20/3/PBI/2018 tentang \nGiro Wajib Minimum dalam Rupiah dan Valuta Asing bagi \n\n\n \nBank Umum Konvensional, Bank Umum Syariah, dan Unit \nUsaha Syariah (Lembaran Negara Republik Indonesia \nTahun 2018 Nomor 43, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6193) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 24/4/PBI/2022 tentang Perubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n20/3/PBI/2018 tentang Giro Wajib Minimum dalam \nRupiah dan Valuta Asing bagi Bank Umum Konvensional, \nBank Umum Syariah, dan Unit Usaha Syariah (Lembaran \nNegara Republik Indonesia Tahun 2022 Nomor 55, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6771); \nc. \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang Operasi Moneter (Lembaran Negara Republik \nIndonesia Tahun 2020 Nomor 220, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6556) sebagaimana \ntelah beberapa kali diubah terakhir dengan Peraturan \nBank Indonesia Nomor 15 Tahun 2023 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 tentang Operasi Moneter (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 38/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n60/BI); \nd.  Peraturan Bank Indonesia Nomor 23/5/PBI/2021 tentang \nSistem Monitoring Transaksi Valuta Asing terhadap \nRupiah (Lembaran Negara Republik Indonesia Tahun 2021 \nNomor 130); \n \ne. \nPeraturan \nBank \nIndonesia \nNomor \n23/18/PBI/2021 \ntentang Pengendalian Moneter (Lembaran Negara Republik \nIndonesia Tahun 2021 Nomor 282, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6748); \nf. \nPeraturan Bank Indonesia Nomor 24/2/PBI/2022 tentang \nTransaksi \nBank \ndengan \nBank \nIndonesia \nuntuk \nMendukung Penyelesaian Transaksi Menggunakan Mata \nUang Lokal Negara Mitra (Lembaran Negara Republik \nIndonesia Tahun 2022 Nomor 36, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6763); \ng. \nPeraturan \nBank \nIndonesia \nNomor \n24/20/PBI/2022 \ntentang Transaksi Swap Lindung Nilai Syariah kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 34/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 25/BI); dan \nh. \nPeraturan Bank Indonesia Nomor 2 Tahun 2023 tentang \nTransaksi Domestic Non Deliverable Forward Non Dolar \nAmerika Serikat Terhadap Rupiah Lindung Nilai kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 12/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 37/BI),  \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan \ndengan ketentuan dalam Peraturan Bank Indonesia ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "90",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n10/34/PBI/2008 \ntentang Transaksi Pembelian Wesel Ekspor Berjangka oleh \n\n\n \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2008 Nomor 195, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4942) sebagaimana telah \ndiubah \ndengan \nPeraturan \nBank \nIndonesia \nNomor \n12/15/PBI/2010 tentang Perubahan atas Peraturan Bank \nIndonesia Nomor 10/34/PBI/2008 tentang Transaksi \nPembelian Wesel Ekspor Berjangka oleh Bank Indonesia \n(Lembaran Negara Republik Indonesia Tahun 2010 Nomor \n97); \nb. \nPeraturan Bank Indonesia Nomor 11/4/PBI/2009 tentang \nTransaksi USD Repurchase Agreement Bank kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2009 Nomor 30, Tambahan Lembaran Negara Republik \nIndonesia Nomor 4979); \nc. \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2013 Nomor 237, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5480) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n23/4/PBI/2021 \ntentang \nPerubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2021 Nomor 85, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6674); \nd. \nPeraturan Bank Indonesia Nomor 20/3/PBI/2018 tentang \nGiro Wajib Minimum dalam Rupiah dan Valuta Asing bagi \nBank Umum Konvensional, Bank Umum Syariah, dan Unit \nUsaha Syariah (Lembaran Negara Republik Indonesia \nTahun 2018 Nomor 43, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6193) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 24/4/PBI/2022 tentang Perubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n20/3/PBI/2018 tentang Giro Wajib Minimum dalam \nRupiah dan Valuta Asing bagi Bank Umum Konvensional, \nBank Umum Syariah, dan Unit Usaha Syariah (Lembaran \nNegara Republik Indonesia Tahun 2022 Nomor 55, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6771); \ne. \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang Operasi Moneter (Lembaran Negara Republik \nIndonesia Tahun 2020 Nomor 220, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6556) sebagaimana \ntelah beberapa kali diubah terakhir dengan Peraturan \nBank Indonesia Nomor 15 Tahun 2023 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 tentang Operasi Moneter (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 38/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n60/BI); \nf. \nPeraturan Bank Indonesia Nomor 23/5/PBI/2021 tentang \nSistem Monitoring Transaksi Valuta Asing terhadap \nRupiah (Lembaran Negara Republik Indonesia Tahun 2021 \nNomor 130); \n\n\n \ng. \nPeraturan \nBank \nIndonesia \nNomor \n23/18/PBI/2021 \ntentang Pengendalian Moneter (Lembaran Negara Republik \nIndonesia Tahun 2021 Nomor 282, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6748); \nh. \nPeraturan Bank Indonesia Nomor 24/2/PBI/2022 tentang \nTransaksi \nBank \ndengan \nBank \nIndonesia \nuntuk \nMendukung Penyelesaian Transaksi Menggunakan Mata \nUang Lokal Negara Mitra (Lembaran Negara Republik \nIndonesia Tahun 2022 Nomor 36, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6763); \ni. \nPeraturan \nBank \nIndonesia \nNomor \n24/20/PBI/2022 \ntentang Transaksi Swap Lindung Nilai Syariah kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 34/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 25/BI); dan \nj. \nPeraturan Bank Indonesia Nomor 2 Tahun 2023 tentang \nTransaksi Domestic Non Deliverable Forward Non Dolar \nAmerika Serikat terhadap Rupiah Lindung Nilai kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 12/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 37/BI), \n dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Bank Indonesia ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n10/34/PBI/2008 \ntentang Transaksi Pembelian Wesel Ekspor Berjangka oleh \n\n\n \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2008 Nomor 195, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 4942) sebagaimana telah \ndiubah \ndengan \nPeraturan \nBank \nIndonesia \nNomor \n12/15/PBI/2010 tentang Perubahan atas Peraturan Bank \nIndonesia Nomor 10/34/PBI/2008 tentang Transaksi \nPembelian Wesel Ekspor Berjangka oleh Bank Indonesia \n(Lembaran Negara Republik Indonesia Tahun 2010 Nomor \n97); \nb. \nPeraturan Bank Indonesia Nomor 11/4/PBI/2009 tentang \nTransaksi USD Repurchase Agreement Bank kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2009 Nomor 30, Tambahan Lembaran Negara Republik \nIndonesia Nomor 4979); \nc. \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2013 Nomor 237, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5480) sebagaimana telah beberapa kali \ndiubah terakhir dengan Peraturan Bank Indonesia Nomor \n23/4/PBI/2021 \ntentang \nPerubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n15/17/PBI/2013 \ntentang Transaksi Swap Lindung Nilai kepada Bank \nIndonesia (Lembaran Negara Republik Indonesia Tahun \n2021 Nomor 85, Tambahan Lembaran Negara Republik \nIndonesia Nomor 6674); \nd. \nPeraturan Bank Indonesia Nomor 20/3/PBI/2018 tentang \nGiro Wajib Minimum dalam Rupiah dan Valuta Asing bagi \nBank Umum Konvensional, Bank Umum Syariah, dan Unit \nUsaha Syariah (Lembaran Negara Republik Indonesia \nTahun 2018 Nomor 43, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 6193) sebagaimana telah \nbeberapa kali diubah terakhir dengan Peraturan Bank \nIndonesia Nomor 24/4/PBI/2022 tentang Perubahan \nKeempat \natas \nPeraturan \nBank \nIndonesia \nNomor \n20/3/PBI/2018 tentang Giro Wajib Minimum dalam \nRupiah dan Valuta Asing bagi Bank Umum Konvensional, \nBank Umum Syariah, dan Unit Usaha Syariah (Lembaran \nNegara Republik Indonesia Tahun 2022 Nomor 55, \nTambahan Lembaran Negara Republik Indonesia Nomor \n6771); \ne. \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 \ntentang Operasi Moneter (Lembaran Negara Republik \nIndonesia Tahun 2020 Nomor 220, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6556) sebagaimana \ntelah beberapa kali diubah terakhir dengan Peraturan \nBank Indonesia Nomor 15 Tahun 2023 tentang Perubahan \nKetiga \natas \nPeraturan \nBank \nIndonesia \nNomor \n22/14/PBI/2020 tentang Operasi Moneter (Lembaran \nNegara Republik Indonesia Tahun 2023 Nomor 38/BI, \nTambahan Lembaran Negara Republik Indonesia Nomor \n60/BI); \nf. \nPeraturan Bank Indonesia Nomor 23/5/PBI/2021 tentang \nSistem Monitoring Transaksi Valuta Asing terhadap \nRupiah (Lembaran Negara Republik Indonesia Tahun 2021 \nNomor 130); \n\n\n \ng. \nPeraturan \nBank \nIndonesia \nNomor \n23/18/PBI/2021 \ntentang Pengendalian Moneter (Lembaran Negara Republik \nIndonesia Tahun 2021 Nomor 282, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6748); \nh. \nPeraturan Bank Indonesia Nomor 24/2/PBI/2022 tentang \nTransaksi \nBank \ndengan \nBank \nIndonesia \nuntuk \nMendukung Penyelesaian Transaksi Menggunakan Mata \nUang Lokal Negara Mitra (Lembaran Negara Republik \nIndonesia Tahun 2022 Nomor 36, Tambahan Lembaran \nNegara Republik Indonesia Nomor 6763); \ni. \nPeraturan \nBank \nIndonesia \nNomor \n24/20/PBI/2022 \ntentang Transaksi Swap Lindung Nilai Syariah kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2022 Nomor 34/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 25/BI); dan \nj. \nPeraturan Bank Indonesia Nomor 2 Tahun 2023 tentang \nTransaksi Domestic Non Deliverable Forward Non Dolar \nAmerika Serikat terhadap Rupiah Lindung Nilai kepada \nBank Indonesia (Lembaran Negara Republik Indonesia \nTahun 2023 Nomor 12/BI, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 37/BI), \n dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "91",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Bank Indonesia mulai berlaku pada tanggal \ndiundangkan. \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 31 Desember 2024 \n  \nGUBERNUR BANK INDONESIA,     \n \n  \n \n   Œ \n \nPERRY WARJIYO \n \n \nDiundangkan di Jakarta \npada tanggal                Д \n \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \n                    Ѽ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR        Ж \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 11 TAHUN 2024 \nTENTANG \nPENGENDALIAN MONETER \n \nI. \nUMUM \nUndang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia \nsebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang \nNomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan mengatur bahwa Bank Indonesia memiliki tujuan untuk \nmencapai stabilitas nilai rupiah, memelihara stabilitas sistem pembayaran, \ndan turut menjaga stabilitas sistem keuangan dalam rangka mendukung \npertumbuhan ekonomi yang berkelanjutan. Untuk mencapai tujuan \ntersebut diwujudkan dengan pelaksanaan salah satu tugas Bank Indonesia \nyaitu \nmenetapkan \ndan \nmelaksanakan \nKebijakan \nMoneter \nsecara \nberkelanjutan, konsisten, dan transparan.  \nDalam menetapkan dan melaksanakan Kebijakan Moneter, Bank \nIndonesia memiliki  kewenangan antara lain mengelola suku bunga, nilai \ntukar, dan likuiditas. Guna memperkuat pelaksanaan Pengendalian \nMoneter, Pasal 10 ayat (9) Undang-Undang Nomor 23 Tahun 1999 tentang \nBank Indonesia sebagaimana telah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan \nPenguatan Sektor Keuangan mengamanatkan pengaturan mengenai \nPengendalian Moneter dengan cara Operasi Moneter dan pengaturan GWM \nyang juga dapat dilakukan berdasarkan prinsip syariah. \nSelanjutnya, dalam rangka mengelola suku bunga, nilai tukar, dan \nlikuiditas, Bank Indonesia melakukan Pengendalian Moneter melalui \nOperasi Moneter di pasar uang dan pasar valuta asing serta pengaturan \nGWM dalam rupiah dan valuta asing. Pengendalian Moneter dimaksud \ndilaksanakan secara terintegrasi dengan pengembangan pasar uang dan \npasar valuta asing untuk mendukung efektivitas pencapaian stabilitas nilai \nrupiah. \nMempertimbangkan semakin kompleksnya tantangan yang dihadapi \noleh Bank Indonesia, termasuk akibat perubahan lingkungan strategis baik \ninternal maupun eksternal, diperlukan dukungan pengaturan terkait \nPengendalian Moneter yang lebih akomodatif dan responsif terhadap \nperubahan arah Kebijakan Moneter, strategi Pengendalian Moneter, dan \nupaya harmonisasi antarperaturan di Bank Indonesia, dengan tetap \nmenerapkan tata kelola yang baik. Adapun pokok-pokok pengaturan \n \n\n\n \nPengendalian Moneter dalam Peraturan Bank Indonesia ini antara lain \nmemuat: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan;  \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \nSejalan dengan kewenangan yang dimilikinya, Bank Indonesia \nmenetapkan Peraturan Bank Indonesia tentang Pengendalian Moneter. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Bank Indonesia mulai berlaku pada tanggal \ndiundangkan. \n \n \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 31 Desember 2024 \n  \nGUBERNUR BANK INDONESIA,     \n \n  \n \n   Œ \n \nPERRY WARJIYO \n \n \nDiundangkan di Jakarta \npada tanggal                Д \n \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \n                    Ѽ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR        Ж \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 11 TAHUN 2024 \nTENTANG \nPENGENDALIAN MONETER \n \nI. \nUMUM \nUndang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia \nsebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang \nNomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan mengatur bahwa Bank Indonesia memiliki tujuan untuk \nmencapai stabilitas nilai rupiah, memelihara stabilitas sistem pembayaran, \ndan turut menjaga stabilitas sistem keuangan dalam rangka mendukung \npertumbuhan ekonomi yang berkelanjutan. Untuk mencapai tujuan \ntersebut diwujudkan dengan pelaksanaan salah satu tugas Bank Indonesia \nyaitu \nmenetapkan \ndan \nmelaksanakan \nKebijakan \nMoneter \nsecara \nberkelanjutan, konsisten, dan transparan.  \nDalam menetapkan dan melaksanakan Kebijakan Moneter, Bank \nIndonesia memiliki  kewenangan antara lain mengelola suku bunga, nilai \ntukar, dan likuiditas. Guna memperkuat pelaksanaan Pengendalian \nMoneter, Pasal 10 ayat (9) Undang-Undang Nomor 23 Tahun 1999 tentang \nBank Indonesia sebagaimana telah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan \nPenguatan Sektor Keuangan mengamanatkan pengaturan mengenai \nPengendalian Moneter dengan cara Operasi Moneter dan pengaturan GWM \nyang juga dapat dilakukan berdasarkan prinsip syariah. \nSelanjutnya, dalam rangka mengelola suku bunga, nilai tukar, dan \nlikuiditas, Bank Indonesia melakukan Pengendalian Moneter melalui \nOperasi Moneter di pasar uang dan pasar valuta asing serta pengaturan \nGWM dalam rupiah dan valuta asing. Pengendalian Moneter dimaksud \ndilaksanakan secara terintegrasi dengan pengembangan pasar uang dan \npasar valuta asing untuk mendukung efektivitas pencapaian stabilitas nilai \nrupiah. \nMempertimbangkan semakin kompleksnya tantangan yang dihadapi \noleh Bank Indonesia, termasuk akibat perubahan lingkungan strategis baik \ninternal maupun eksternal, diperlukan dukungan pengaturan terkait \nPengendalian Moneter yang lebih akomodatif dan responsif terhadap \nperubahan arah Kebijakan Moneter, strategi Pengendalian Moneter, dan \nupaya harmonisasi antarperaturan di Bank Indonesia, dengan tetap \nmenerapkan tata kelola yang baik. Adapun pokok-pokok pengaturan \n \n\n\n \nPengendalian Moneter dalam Peraturan Bank Indonesia ini antara lain \nmemuat: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan;  \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \nSejalan dengan kewenangan yang dimilikinya, Bank Indonesia \nmenetapkan Peraturan Bank Indonesia tentang Pengendalian Moneter. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “prinsip sistem tata kelola kebijakan Bank \nIndonesia” adalah prinsip yang melandasi penerapan dan penegakan \nsistem tata kelola kebijakan Bank Indonesia, yang meliputi \nindependensi, \nkonsistensi, \nkoordinasi, \nakuntabilitas, \ndan \ntransparansi, sesuai dengan kebijakan Bank Indonesia mengenai \nsistem tata kelola kebijakan dan kelembagaan Bank Indonesia. \nYang dimaksud dengan “elemen sistem tata kelola kebijakan Bank \nIndonesia” adalah aspek pokok dari sistem tata kelola kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola kebijakan Bank Indonesia, sesuai dengan kebijakan \nBank Indonesia mengenai sistem tata kelola kebijakan dan \nkelembagaan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “prinsip sistem tata kelola kebijakan Bank \nIndonesia” adalah prinsip yang melandasi penerapan dan penegakan \nsistem tata kelola kebijakan Bank Indonesia, yang meliputi \nindependensi, \nkonsistensi, \nkoordinasi, \nakuntabilitas, \ndan \ntransparansi, sesuai dengan kebijakan Bank Indonesia mengenai \nsistem tata kelola kebijakan dan kelembagaan Bank Indonesia. \nYang dimaksud dengan “elemen sistem tata kelola kebijakan Bank \nIndonesia” adalah aspek pokok dari sistem tata kelola kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola kebijakan Bank Indonesia, sesuai dengan kebijakan \nBank Indonesia mengenai sistem tata kelola kebijakan dan \nkelembagaan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “sasaran Kebijakan Moneter” adalah sasaran \nKebijakan Moneter sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai Kebijakan Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “sasaran Kebijakan Moneter” adalah sasaran \nKebijakan Moneter sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai Kebijakan Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPrinsip akomodatif dan responsif diterapkan terhadap: \n1. \narah Kebijakan Moneter yang telah ditetapkan termasuk \nperubahan arah Kebijakan Moneter; \n2. \nstrategi Pengendalian Moneter; dan  \n3. \nharmonisasi antarperaturan di Bank Indonesia. \nHuruf b \nPrinsip kehati-hatian diterapkan antara lain untuk memitigasi \nrisiko dalam pelaksanaan Pengendalian Moneter.  \n\n\n \nHuruf c \nPrinsip transparansi dalam pelaksanaan Pengendalian Moneter \nditerapkan untuk mendukung pencapaian sasaran Pengendalian \nMoneter, antara lain guna pembentukan ekspektasi pelaku pasar \nuang dan pasar valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPrinsip akomodatif dan responsif diterapkan terhadap: \n1. \narah Kebijakan Moneter yang telah ditetapkan termasuk \nperubahan arah Kebijakan Moneter; \n2. \nstrategi Pengendalian Moneter; dan  \n3. \nharmonisasi antarperaturan di Bank Indonesia. \nHuruf b \nPrinsip kehati-hatian diterapkan antara lain untuk memitigasi \nrisiko dalam pelaksanaan Pengendalian Moneter.  \n\n\n \nHuruf c \nPrinsip transparansi dalam pelaksanaan Pengendalian Moneter \nditerapkan untuk mendukung pencapaian sasaran Pengendalian \nMoneter, antara lain guna pembentukan ekspektasi pelaku pasar \nuang dan pasar valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nYang dimaksud dengan ”nilai tukar rupiah agar bergerak stabil” \nadalah nilai tukar yang sesuai dengan nilai tukar fundamental \nyakni konsisten dengan pencapaian sasaran inflasi, bergerak \nsesuai dengan mekanisme pasar, serta dengan volatilitas yang \nterjaga. \nAyat (2) \nYang dimaksud dengan “suku bunga Pasar Uang Antar Bank \nOvernight”  adalah suku bunga transaksi pinjam meminjam uang \ndalam mata uang rupiah antar-BUK yang berjangka waktu 1 \n(satu) hari (overnight).  \nPasar Uang Antar Bank Overnight dikenal dengan PUAB O/N.  \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nYang dimaksud dengan ”nilai tukar rupiah agar bergerak stabil” \nadalah nilai tukar yang sesuai dengan nilai tukar fundamental \nyakni konsisten dengan pencapaian sasaran inflasi, bergerak \nsesuai dengan mekanisme pasar, serta dengan volatilitas yang \nterjaga. \nAyat (2) \nYang dimaksud dengan “suku bunga Pasar Uang Antar Bank \nOvernight”  adalah suku bunga transaksi pinjam meminjam uang \ndalam mata uang rupiah antar-BUK yang berjangka waktu 1 \n(satu) hari (overnight).  \nPasar Uang Antar Bank Overnight dikenal dengan PUAB O/N.  \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pelonggaran atas kewajiban pemenuhan GWM dalam rupiah dapat \ndiberikan kepada BUK, BUS, dan/atau UUS antara lain atas \npemenuhan GWM dalam rupiah secara harian dan/atau secara rata-\nrata \nberdasarkan \npertimbangan \nkebijakan \nyang \nmendukung \npencapaian tujuan dan pelaksanaan tugas Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelonggaran atas kewajiban pemenuhan GWM dalam rupiah dapat \ndiberikan kepada BUK, BUS, dan/atau UUS antara lain atas \npemenuhan GWM dalam rupiah secara harian dan/atau secara rata-\nrata \nberdasarkan \npertimbangan \nkebijakan \nyang \nmendukung \npencapaian tujuan dan pelaksanaan tugas Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “rupiah digital” adalah rupiah dalam bentuk \ndigital yang dikeluarkan oleh Bank Indonesia dan merupakan \nkewajiban moneter Bank Indonesia. \nRupiah digital memiliki fungsi yang sama dengan rupiah kertas dan \nrupiah logam, yaitu sebagai alat pembayaran yang sah di wilayah \nNegara Kesatuan Republik Indonesia, alat tukar (medium of exchange), \ndan alat penyimpan nilai (store of value).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “rupiah digital” adalah rupiah dalam bentuk \ndigital yang dikeluarkan oleh Bank Indonesia dan merupakan \nkewajiban moneter Bank Indonesia. \nRupiah digital memiliki fungsi yang sama dengan rupiah kertas dan \nrupiah logam, yaitu sebagai alat pembayaran yang sah di wilayah \nNegara Kesatuan Republik Indonesia, alat tukar (medium of exchange), \ndan alat penyimpan nilai (store of value)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “absorpsi likuiditas” adalah pengurangan \nlikuiditas di pasar uang dalam mata uang rupiah melalui kegiatan \nOperasi Moneter.  \nYang dimaksud dengan “injeksi likuiditas” adalah penambahan \nlikuiditas di pasar uang dalam mata uang rupiah melalui kegiatan \nOperasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “absorpsi likuiditas” adalah pengurangan \nlikuiditas di pasar uang dalam mata uang rupiah melalui kegiatan \nOperasi Moneter.  \nYang dimaksud dengan “injeksi likuiditas” adalah penambahan \nlikuiditas di pasar uang dalam mata uang rupiah melalui kegiatan \nOperasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “surat berharga” adalah surat \nberharga negara dan surat berharga berkualitas tinggi \nlainnya.  \nHuruf c \nLihat penjelasan huruf b.  \nHuruf d \nPenempatan berjangka (term deposit) di Bank Indonesia \ndilakukan melalui penempatan dana milik Peserta Operasi \nMoneter secara berjangka di Bank Indonesia dalam rupiah. \nHuruf e \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nLihat penjelasan Pasal 9 ayat (2).  \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “surat berharga” adalah surat \nberharga negara dan surat berharga berkualitas tinggi \nlainnya.  \nHuruf c \nLihat penjelasan huruf b.  \nHuruf d \nPenempatan berjangka (term deposit) di Bank Indonesia \ndilakukan melalui penempatan dana milik Peserta Operasi \nMoneter secara berjangka di Bank Indonesia dalam rupiah. \nHuruf e \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nLihat penjelasan Pasal 9 ayat (2).  \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \n \n\n\n \nHuruf b \nEarly redemption atau early termination atas instrumen OPT \nrupiah dilaksanakan berdasarkan pertimbangan antara lain \nterkait strategi Operasi Moneter dan pembatalan transaksi pada \nsaat second leg transaksi Operasi Moneter yang menggunakan \nunderlying berupa surat berharga Bank Indonesia. \nHuruf c \nBank Indonesia menggunakan surat berharga yang dimiliki oleh \npihak lain dalam OPT rupiah berdasarkan perjanjian antara Bank \nIndonesia dan pihak yang memiliki surat berharga tersebut.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \n \n\n\n \nHuruf b \nEarly redemption atau early termination atas instrumen OPT \nrupiah dilaksanakan berdasarkan pertimbangan antara lain \nterkait strategi Operasi Moneter dan pembatalan transaksi pada \nsaat second leg transaksi Operasi Moneter yang menggunakan \nunderlying berupa surat berharga Bank Indonesia. \nHuruf c \nBank Indonesia menggunakan surat berharga yang dimiliki oleh \npihak lain dalam OPT rupiah berdasarkan perjanjian antara Bank \nIndonesia dan pihak yang memiliki surat berharga tersebut."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai OPT rupiah antara lain memuat jenis dan \nkarakteristik instrumen OPT rupiah, kewajiban dalam OPT rupiah, \nserta tata cara pengenaan sanksi administratif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai OPT rupiah antara lain memuat jenis dan \nkarakteristik instrumen OPT rupiah, kewajiban dalam OPT rupiah, \nserta tata cara pengenaan sanksi administratif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “hari kerja” adalah hari kerja Bank \nIndonesia, termasuk hari kerja operasional terbatas Bank \nIndonesia. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “hari kerja” adalah hari kerja Bank \nIndonesia, termasuk hari kerja operasional terbatas Bank \nIndonesia. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Standing Facilities antara lain memuat jenis dan \nkarakteristik instrumen Standing Facilities.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Standing Facilities antara lain memuat jenis dan \nkarakteristik instrumen Standing Facilities."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPengelolaan likuiditas dalam Operasi Moneter valuta asing \ndilakukan di pasar uang dalam mata uang valuta asing dan pasar \nvaluta asing. \nAyat (2) \nLihat Penjelasan Pasal 22.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPengelolaan likuiditas dalam Operasi Moneter valuta asing \ndilakukan di pasar uang dalam mata uang valuta asing dan pasar \nvaluta asing. \nAyat (2) \nLihat Penjelasan Pasal 22."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “surat berharga” adalah surat \nberharga berkualitas tinggi. \n\n\n \nHuruf c \nPenempatan berjangka (term deposit) di Bank Indonesia \ndilakukan melalui penempatan dana milik Peserta Operasi \nMoneter secara berjangka di Bank Indonesia dalam valuta \nasing. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nLihat penjelasan Pasal 9 ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “surat berharga” adalah surat \nberharga berkualitas tinggi. \n\n\n \nHuruf c \nPenempatan berjangka (term deposit) di Bank Indonesia \ndilakukan melalui penempatan dana milik Peserta Operasi \nMoneter secara berjangka di Bank Indonesia dalam valuta \nasing. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nLihat penjelasan Pasal 9 ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nEarly redemption atau early termination atas instrumen Operasi \nMoneter valuta asing dilaksanakan berdasarkan pertimbangan \nantara lain terkait strategi Operasi Moneter dan pembatalan \ntransaksi pada saat second leg transaksi Operasi Moneter yang \nmenggunakan underlying berupa surat berharga Bank Indonesia. \nHuruf c \nBank Indonesia menggunakan surat berharga yang dimiliki oleh \npihak lain dalam Operasi Moneter valuta asing berdasarkan \nperjanjian antara Bank Indonesia dan pihak yang memiliki surat \nberharga tersebut. \nHuruf d \nPerjanjian kerja sama keuangan internasional dilakukan antara \nlain dengan bank sentral, otoritas terkait negara mitra, dan/atau \nlembaga keuangan internasional.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nEarly redemption atau early termination atas instrumen Operasi \nMoneter valuta asing dilaksanakan berdasarkan pertimbangan \nantara lain terkait strategi Operasi Moneter dan pembatalan \ntransaksi pada saat second leg transaksi Operasi Moneter yang \nmenggunakan underlying berupa surat berharga Bank Indonesia. \nHuruf c \nBank Indonesia menggunakan surat berharga yang dimiliki oleh \npihak lain dalam Operasi Moneter valuta asing berdasarkan \nperjanjian antara Bank Indonesia dan pihak yang memiliki surat \nberharga tersebut. \nHuruf d \nPerjanjian kerja sama keuangan internasional dilakukan antara \nlain dengan bank sentral, otoritas terkait negara mitra, dan/atau \nlembaga keuangan internasional."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Operasi Moneter valuta asing antara lain \nmemuat jenis dan karakteristik instrumen Operasi Moneter valuta \nasing, kewajiban dalam Operasi Moneter valuta asing, serta tata cara \npengenaan sanksi administratif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Operasi Moneter valuta asing antara lain \nmemuat jenis dan karakteristik instrumen Operasi Moneter valuta \nasing, kewajiban dalam Operasi Moneter valuta asing, serta tata cara \npengenaan sanksi administratif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPeserta Operasi Moneter yang dapat mengikuti Operasi Moneter \nmelalui market antara lain dealer utama (primary dealer) dan \nagent bank. \n\n\n \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPeserta Operasi Moneter yang dapat mengikuti Operasi Moneter \nmelalui market antara lain dealer utama (primary dealer) dan \nagent bank. \n\n\n \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Operasi Moneter melalui market antara lain \nmemuat instrumen dan pelaksanaan transaksi Operasi Moneter \nmelalui market.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Operasi Moneter melalui market antara lain \nmemuat instrumen dan pelaksanaan transaksi Operasi Moneter \nmelalui market."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nYang dimaksud dengan “dealer utama” adalah dealer utama \nsebagaimana diatur dalam ketentuan Bank Indonesia \nmengenai pasar uang dan pasar valuta asing. \nDealer utama dikenal dengan primary dealer. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “Bank appointed cross currency \ndealer” adalah Bank yang ditunjuk untuk melakukan \nkegiatan tertentu sebagaimana diatur dalam ketentuan Bank \nIndonesia mengenai penyelesaian transaksi menggunakan \nmata uang lokal.   \nBank appointed cross currency dealer bank dikenal dengan \nBank ACCD. \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nYang dimaksud dengan “dealer utama” adalah dealer utama \nsebagaimana diatur dalam ketentuan Bank Indonesia \nmengenai pasar uang dan pasar valuta asing. \nDealer utama dikenal dengan primary dealer. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan “Bank appointed cross currency \ndealer” adalah Bank yang ditunjuk untuk melakukan \nkegiatan tertentu sebagaimana diatur dalam ketentuan Bank \nIndonesia mengenai penyelesaian transaksi menggunakan \nmata uang lokal.   \nBank appointed cross currency dealer bank dikenal dengan \nBank ACCD. \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \nCukup jelas. \nHuruf b \nPihak lain yang ditetapkan oleh Bank Indonesia antara lain \nperusahaan efek yang ditunjuk oleh Menteri Keuangan sebagai \ndealer utama. \nDealer utama yang ditunjuk oleh Menteri Keuangan merupakan \ndealer utama sebagaimana diatur dalam peraturan Menteri \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \nCukup jelas. \nHuruf b \nPihak lain yang ditetapkan oleh Bank Indonesia antara lain \nperusahaan efek yang ditunjuk oleh Menteri Keuangan sebagai \ndealer utama. \nDealer utama yang ditunjuk oleh Menteri Keuangan merupakan \ndealer utama sebagaimana diatur dalam peraturan Menteri \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai Peserta Operasi Moneter dan lembaga perantara \nantara lain memuat: \na. \nkriteria dan persyaratan untuk menjadi Peserta Operasi Moneter \nmelalui Bank Indonesia dan Operasi Moneter melalui market; dan \nb. \nkriteria dan persyaratan untuk menjadi lembaga perantara \nOperasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai Peserta Operasi Moneter dan lembaga perantara \nantara lain memuat: \na. \nkriteria dan persyaratan untuk menjadi Peserta Operasi Moneter \nmelalui Bank Indonesia dan Operasi Moneter melalui market; dan \nb. \nkriteria dan persyaratan untuk menjadi lembaga perantara \nOperasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nYang dimaksud dengan ”kesiapan infrastruktur” antara lain \ninfrastruktur yang akan digunakan dalam pelaksanaan dan \npenyelesaian transaksi Operasi Moneter. \nKesiapan infrastruktur bagi lembaga perantara antara lain \ninfrastruktur yang akan digunakan dalam pelaksanaan \ntransaksi Operasi Moneter. \nHuruf b \nYang dimaksud dengan ”kesiapan sumber daya manusia” \nantara lain daftar pegawai yang bertanggung jawab dan/atau \nmelaksanakan aktivitas tresuri dalam Operasi Moneter \nuntuk didaftarkan dalam sarana transaksi Operasi Moneter. \nYang dimaksud dengan ”aktivitas tresuri” adalah kegiatan \ntransaksi keuangan yang mencakup pelaksanaan transaksi \nyang dilakukan secara langsung oleh tresuri dealer di pasar \nuang dan pasar valuta asing. \nHuruf c \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nYang dimaksud dengan ”kesiapan infrastruktur” antara lain \ninfrastruktur yang akan digunakan dalam pelaksanaan dan \npenyelesaian transaksi Operasi Moneter. \nKesiapan infrastruktur bagi lembaga perantara antara lain \ninfrastruktur yang akan digunakan dalam pelaksanaan \ntransaksi Operasi Moneter. \nHuruf b \nYang dimaksud dengan ”kesiapan sumber daya manusia” \nantara lain daftar pegawai yang bertanggung jawab dan/atau \nmelaksanakan aktivitas tresuri dalam Operasi Moneter \nuntuk didaftarkan dalam sarana transaksi Operasi Moneter. \nYang dimaksud dengan ”aktivitas tresuri” adalah kegiatan \ntransaksi keuangan yang mencakup pelaksanaan transaksi \nyang dilakukan secara langsung oleh tresuri dealer di pasar \nuang dan pasar valuta asing. \nHuruf c \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan ”langkah strategis dan mendasar serta \nberdampak pada hubungan operasional dengan Bank Indonesia” \nantara \nlain \npenggabungan, \npeleburan, \npemisahan, \ndan \nperubahan status. \nPeserta Operasi Moneter berupa Bank yang melakukan langkah \nstrategis dan mendasar serta berdampak pada hubungan \noperasional dengan Bank Indonesia di bidang moneter mengikuti \nketentuan dalam Peraturan Bank Indonesia mengenai pelayanan \nperizinan terpadu terkait hubungan operasional bank umum \ndengan Bank Indonesia. \nAyat (2) \nYang dimaksud dengan ”pembatasan kepada Peserta Operasi \nMoneter dan lembaga perantara” antara lain terkait dengan \nkeikutsertaan dalam transaksi Operasi Moneter.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan ”langkah strategis dan mendasar serta \nberdampak pada hubungan operasional dengan Bank Indonesia” \nantara \nlain \npenggabungan, \npeleburan, \npemisahan, \ndan \nperubahan status. \nPeserta Operasi Moneter berupa Bank yang melakukan langkah \nstrategis dan mendasar serta berdampak pada hubungan \noperasional dengan Bank Indonesia di bidang moneter mengikuti \nketentuan dalam Peraturan Bank Indonesia mengenai pelayanan \nperizinan terpadu terkait hubungan operasional bank umum \ndengan Bank Indonesia. \nAyat (2) \nYang dimaksud dengan ”pembatasan kepada Peserta Operasi \nMoneter dan lembaga perantara” antara lain terkait dengan \nkeikutsertaan dalam transaksi Operasi Moneter."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “bank perantara” adalah bank perantara \nsebagaimana dimaksud dalam ketentuan Bank Indonesia mengenai \nhubungan operasional antara bank perantara dengan Bank Indonesia. \nMekanisme pendirian bank perantara dan keikutsertaan bank \nperantara dalam Operasi Moneter dilaksanakan sesuai dengan \nketentuan Bank Indonesia mengenai hubungan operasional bank \nperantara dengan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “bank perantara” adalah bank perantara \nsebagaimana dimaksud dalam ketentuan Bank Indonesia mengenai \nhubungan operasional antara bank perantara dengan Bank Indonesia. \nMekanisme pendirian bank perantara dan keikutsertaan bank \nperantara dalam Operasi Moneter dilaksanakan sesuai dengan \nketentuan Bank Indonesia mengenai hubungan operasional bank \nperantara dengan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai persyaratan mengikuti Operasi Moneter antara \nlain memuat persyaratan yang harus dipenuhi untuk dan selama \n\n\n \nmenjadi Peserta Operasi Moneter dan lembaga perantara, serta tata \ncara pengenaan sanksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai persyaratan mengikuti Operasi Moneter antara \nlain memuat persyaratan yang harus dipenuhi untuk dan selama \n\n\n \nmenjadi Peserta Operasi Moneter dan lembaga perantara, serta tata \ncara pengenaan sanksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nSarana penyelesaian transaksi mencakup sarana yang \ndigunakan untuk melakukan penyelesaian dana dan/atau \npenyelesaian surat berharga. \nHuruf c \nCukup jelas. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nSarana penyelesaian transaksi mencakup sarana yang \ndigunakan untuk melakukan penyelesaian dana dan/atau \npenyelesaian surat berharga. \nHuruf c \nCukup jelas. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nPenatausahaan secara elektronis di Bank Indonesia dilaksanakan \nsesuai \ndengan \nPeraturan \nBank \nIndonesia \nmengenai \npenyelenggaraan transaksi, penatausahaan surat berharga, dan \nsetelmen dana seketika. \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan ”pertimbangan tertentu” antara lain pihak \nlain yang ditunjuk Bank Indonesia tidak lagi memenuhi \npersyaratan penunjukan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nPenatausahaan secara elektronis di Bank Indonesia dilaksanakan \nsesuai \ndengan \nPeraturan \nBank \nIndonesia \nmengenai \npenyelenggaraan transaksi, penatausahaan surat berharga, dan \nsetelmen dana seketika. \nAyat (3) \nCukup jelas. \nAyat (4) \nYang dimaksud dengan ”pertimbangan tertentu” antara lain pihak \nlain yang ditunjuk Bank Indonesia tidak lagi memenuhi \npersyaratan penunjukan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan ”infrastruktur yang digunakan dalam \ntransaksi” antara lain sarana transaksi dan sistem pendukung \ntransaksi yang dimiliki atau disediakan oleh Peserta Operasi \nMoneter untuk melaksanakan transaksi di pasar uang dan pasar \nvaluta asing.  \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan ”infrastruktur yang digunakan dalam \ntransaksi” antara lain sarana transaksi dan sistem pendukung \ntransaksi yang dimiliki atau disediakan oleh Peserta Operasi \nMoneter untuk melaksanakan transaksi di pasar uang dan pasar \nvaluta asing.  \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai infrastruktur Operasi Moneter antara lain \nmemuat penerapan sistem monitoring transaksi di pasar uang dan \npasar valuta asing yang dikelola Bank Indonesia serta tata cara \npengenaan sanksi administratif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai infrastruktur Operasi Moneter antara lain \nmemuat penerapan sistem monitoring transaksi di pasar uang dan \npasar valuta asing yang dikelola Bank Indonesia serta tata cara \npengenaan sanksi administratif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "57",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "58",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nMekanisme lelang dilakukan dengan metode fixed rate tender atau \nvariable rate tender. \nMekanisme nonlelang dilakukan secara bilateral antara Bank \nIndonesia dengan Peserta Operasi Moneter.  \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nMekanisme lelang dilakukan dengan metode fixed rate tender atau \nvariable rate tender. \nMekanisme nonlelang dilakukan secara bilateral antara Bank \nIndonesia dengan Peserta Operasi Moneter.  \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "61",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "62",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas.  \nAyat (2) \nHuruf a \nTransaksi Operasi Moneter yang dinyatakan batal antara \nlain: \n1. \ntransaksi Operasi Moneter rupiah; dan \n2. \ntransaksi penempatan berjangka (term deposit) di Bank \nIndonesia dalam valuta asing dan penerbitan surat \nberharga Bank Indonesia dalam valuta asing. \nHuruf b \nTransaksi Operasi Moneter yang tetap harus diselesaikan \nsetelah tanggal penyelesaian transaksi antara lain transaksi \nOPT di pasar valuta asing selain transaksi penempatan \nberjangka (term deposit) di Bank Indonesia dalam valuta \nasing dan penerbitan surat berharga Bank Indonesia dalam \nvaluta asing. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas.  \nAyat (2) \nHuruf a \nTransaksi Operasi Moneter yang dinyatakan batal antara \nlain: \n1. \ntransaksi Operasi Moneter rupiah; dan \n2. \ntransaksi penempatan berjangka (term deposit) di Bank \nIndonesia dalam valuta asing dan penerbitan surat \nberharga Bank Indonesia dalam valuta asing. \nHuruf b \nTransaksi Operasi Moneter yang tetap harus diselesaikan \nsetelah tanggal penyelesaian transaksi antara lain transaksi \nOPT di pasar valuta asing selain transaksi penempatan \nberjangka (term deposit) di Bank Indonesia dalam valuta \nasing dan penerbitan surat berharga Bank Indonesia dalam \nvaluta asing. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "64",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengaturan mengenai penyelesaian transaksi Operasi Moneter antara \nlain memuat tata cara penyelesaian transaksi dan tata cara pengenaan \nsanksi administratif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengaturan mengenai penyelesaian transaksi Operasi Moneter antara \nlain memuat tata cara penyelesaian transaksi dan tata cara pengenaan \nsanksi administratif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "65",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPemenuhan kewajiban GWM secara rata-rata dilakukan setelah \npemenuhan kewajiban GWM secara harian. \nAyat (2) \nYang dimaksud dengan “BUK, BUS, dan UUS melakukan kegiatan \nusaha dalam valuta asing” adalah BUK, BUS, dan UUS yang \nmemperoleh persetujuan dari otoritas yang berwenang untuk \nmelakukan kegiatan usaha dalam valuta asing. \n\n\n \nLihat penjelasan ayat (1). \nAyat (3) \nHuruf a  \nCukup jelas.  \nHuruf b  \nCukup jelas. \nHuruf c  \nYang dimaksud dengan “akad wadi’ah yad amanah khusus” \nadalah titipan untuk tujuan tertentu dan tidak boleh \ndipergunakan oleh penerima titipan. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nPengaturan mengenai kewajiban pemenuhan GWM antara lain \nmemuat kewajiban pemenuhan GWM dalam rupiah dan valuta \nasing serta tata cara pengenaan sanksi administratif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPemenuhan kewajiban GWM secara rata-rata dilakukan setelah \npemenuhan kewajiban GWM secara harian. \nAyat (2) \nYang dimaksud dengan “BUK, BUS, dan UUS melakukan kegiatan \nusaha dalam valuta asing” adalah BUK, BUS, dan UUS yang \nmemperoleh persetujuan dari otoritas yang berwenang untuk \nmelakukan kegiatan usaha dalam valuta asing. \n\n\n \nLihat penjelasan ayat (1). \nAyat (3) \nHuruf a  \nCukup jelas.  \nHuruf b  \nCukup jelas. \nHuruf c  \nYang dimaksud dengan “akad wadi’ah yad amanah khusus” \nadalah titipan untuk tujuan tertentu dan tidak boleh \ndipergunakan oleh penerima titipan. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nPengaturan mengenai kewajiban pemenuhan GWM antara lain \nmemuat kewajiban pemenuhan GWM dalam rupiah dan valuta \nasing serta tata cara pengenaan sanksi administratif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "66",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPelonggaran atas kewajiban pemenuhan GWM dalam rupiah \ndapat diberikan kepada BUK, BUS, dan UUS atas pemenuhan \nGWM dalam rupiah secara harian dan/atau secara rata-rata. \nAyat (2) \nKetentuan Bank Indonesia antara lain ketentuan Bank Indonesia \nmengenai kebijakan insentif likuiditas makroprudensial.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPelonggaran atas kewajiban pemenuhan GWM dalam rupiah \ndapat diberikan kepada BUK, BUS, dan UUS atas pemenuhan \nGWM dalam rupiah secara harian dan/atau secara rata-rata. \nAyat (2) \nKetentuan Bank Indonesia antara lain ketentuan Bank Indonesia \nmengenai kebijakan insentif likuiditas makroprudensial."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "67",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "68",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan ”bagian tertentu dari pemenuhan \nkewajiban GWM dalam rupiah” yaitu persentase tertentu dari \npemenuhan GWM dalam rupiah setelah mempertimbangkan \nbesaran pelonggaran kewajiban GWM dalam rupiah yang \ndiberikan kepada BUK, BUS, dan UUS. \nAyat (2) \nLihat penjelasan ayat (1). \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan ”bagian tertentu dari pemenuhan \nkewajiban GWM dalam rupiah” yaitu persentase tertentu dari \npemenuhan GWM dalam rupiah setelah mempertimbangkan \nbesaran pelonggaran kewajiban GWM dalam rupiah yang \ndiberikan kepada BUK, BUS, dan UUS. \nAyat (2) \nLihat penjelasan ayat (1). \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "69",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "70",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “BUK menerima pinjaman likuiditas \njangka pendek” adalah BUK yang menerima pinjaman likuiditas \njangka pendek sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai pinjaman likuiditas jangka pendek. \n\n\n \nYang dimaksud dengan “BUS menerima pembiayaan likuiditas \njangka pendek berdasarkan prinsip syariah” adalah BUS yang \nmenerima pembiayaan likuiditas jangka pendek berdasarkan \nprinsip syariah sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai pembiayaan likuiditas jangka pendek \nberdasarkan prinsip syariah. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “BUK menerima pinjaman likuiditas \njangka pendek” adalah BUK yang menerima pinjaman likuiditas \njangka pendek sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai pinjaman likuiditas jangka pendek. \n\n\n \nYang dimaksud dengan “BUS menerima pembiayaan likuiditas \njangka pendek berdasarkan prinsip syariah” adalah BUS yang \nmenerima pembiayaan likuiditas jangka pendek berdasarkan \nprinsip syariah sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai pembiayaan likuiditas jangka pendek \nberdasarkan prinsip syariah. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "71",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pertimbangan tertentu antara lain perubahan Kebijakan Moneter, \nstrategi Pengendalian Moneter, dan perkembangan pasar uang dan \npasar valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pertimbangan tertentu antara lain perubahan Kebijakan Moneter, \nstrategi Pengendalian Moneter, dan perkembangan pasar uang dan \npasar valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "72",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "73",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nKetentuan peraturan perundang-undangan antara lain Undang-\nUndang mengenai pelindungan data pribadi dan Undang-Undang \nmengenai keterbukaan informasi publik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nKetentuan peraturan perundang-undangan antara lain Undang-\nUndang mengenai pelindungan data pribadi dan Undang-Undang \nmengenai keterbukaan informasi publik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "74",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "75",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "76",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan ”pihak lain” adalah lembaga \nkeuangan bukan Bank yang memberikan kontribusi dalam \ntransmisi Kebijakan Moneter dan pencapaian sasaran \nOperasi Moneter. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nYang dimaksud dengan ”pihak lain” adalah lembaga \nkeuangan bukan Bank yang memberikan kontribusi dalam \ntransmisi Kebijakan Moneter dan pencapaian sasaran \nOperasi Moneter. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "77",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nData, informasi, dan/atau keterangan digunakan Bank Indonesia \nuntuk menilai, mencegah, dan mengurangi risiko dalam \npelaksanaan Pengendalian Moneter. \n\n\n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nData, informasi, dan/atau keterangan digunakan Bank Indonesia \nuntuk menilai, mencegah, dan mengurangi risiko dalam \npelaksanaan Pengendalian Moneter. \n\n\n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "78",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nAngka 1  \nDokumen dan/atau data yang diminta oleh pemeriksa \ntermasuk \nkebijakan, \nperaturan, \ndan/atau \nStandard \nOperating Procedure (SOP), dalam bentuk hardcopy, softcopy, \natau bentuk lainnya. \nAngka 2  \nCukup jelas.  \nAngka 3 \nAkses terhadap sistem informasi antara lain mencakup \npemeriksaan terhadap aplikasi, sistem pelaporan, dan \njaringan yang terkait cakupan pemeriksaan. \nAngka 4 \nCukup jelas. \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nAngka 1  \nDokumen dan/atau data yang diminta oleh pemeriksa \ntermasuk \nkebijakan, \nperaturan, \ndan/atau \nStandard \nOperating Procedure (SOP), dalam bentuk hardcopy, softcopy, \natau bentuk lainnya. \nAngka 2  \nCukup jelas.  \nAngka 3 \nAkses terhadap sistem informasi antara lain mencakup \npemeriksaan terhadap aplikasi, sistem pelaporan, dan \njaringan yang terkait cakupan pemeriksaan. \nAngka 4 \nCukup jelas. \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "79",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan ”pihak lain yang ditugaskan oleh Bank \nIndonesia” antara lain akuntan publik dan penilai publik. \nAyat (2) \nCukup jelas. \nAyat (3) \nKewajiban merahasiakan data, informasi, dan keterangan yang \ndiperoleh dari pemeriksaan berlaku untuk seluruh komisaris, \ndireksi, manajer, tenaga ahli, staf pengawas, dan staf pendukung \nlainnya yang terkait dengan pemeriksaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan ”pihak lain yang ditugaskan oleh Bank \nIndonesia” antara lain akuntan publik dan penilai publik. \nAyat (2) \nCukup jelas. \nAyat (3) \nKewajiban merahasiakan data, informasi, dan keterangan yang \ndiperoleh dari pemeriksaan berlaku untuk seluruh komisaris, \ndireksi, manajer, tenaga ahli, staf pengawas, dan staf pendukung \nlainnya yang terkait dengan pemeriksaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "80",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Tindak lanjut hasil pengawasan antara lain pengenaan sanksi \nadministratif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tindak lanjut hasil pengawasan antara lain pengenaan sanksi \nadministratif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "81",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "82",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "83",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "84",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "85",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan ”perjanjian kerja sama internasional” \nantara lain bilateral currency swap arrangement dan local currency \nbilateral swap arrangement.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nYang dimaksud dengan ”perjanjian kerja sama internasional” \nantara lain bilateral currency swap arrangement dan local currency \nbilateral swap arrangement."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "87",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKomunikasi disampaikan antara lain kepada:  \na. \nmasyarakat; \nb. \npemerintah dan parlemen;  \nc. \npelaku pasar keuangan; dan/atau  \nd. \npengamat. \nAyat (2) \nKanal komunikasi antara lain laman resmi Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKomunikasi disampaikan antara lain kepada:  \na. \nmasyarakat; \nb. \npemerintah dan parlemen;  \nc. \npelaku pasar keuangan; dan/atau  \nd. \npengamat. \nAyat (2) \nKanal komunikasi antara lain laman resmi Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "88",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "89",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "90",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "91",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR     ⸙",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR     ⸙"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 182,
+  "total_ayat": 269,
+  "total_karakter": 75712,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

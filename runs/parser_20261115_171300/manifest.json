@@ -1,0 +1,23 @@
+{
+  "run_id": "parser_20261115_171300",
+  "timestamp_utc": "2026-11-15T17:13:00.066754+00:00",
+  "phase": 2,
+  "acceptance": {
+    "target_success_rate": 95.0,
+    "achieved_success_rate": 100.0,
+    "is_accepted": true
+  },
+  "stats": {
+    "total_documents": 320,
+    "successfully_parsed": 320,
+    "total_pasal": 27929,
+    "total_ayat": 55283,
+    "pasal_distribution": {
+      "0": 2,
+      "1-10": 47,
+      "11-50": 97,
+      "51-100": 90,
+      ">100": 84
+    }
+  }
+}

@@ -1,0 +1,634 @@
+query_id	doc_id	passage_id	relevance	versi_status	aturan_anotasi
+Q001	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q001	BI_PADG_2025_1290_1290	BI_PADG_2025_1290_1290_ha_p37_58	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q001	BI_PADG_2025_1290_1290	BI_PADG_2025_1290_1290_ha_p37_06	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q001	OJK_POJK_2019_37_cbbd1881	OJK_POJK_2019_37_cbbd1881_ha_p29_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q001	BI_PADG_2025_1290_1290	BI_PADG_2025_1290_1290_ha_p37_20	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q002	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q002	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q002	BI_PADG_2024_386_386	BI_PADG_2024_386_386_ha_p79_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q002	OJK_POJK_2019_12_18abe711	OJK_POJK_2019_12_18abe711_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q003	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q003	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q003	OJK_POJK_2019_11_236508bb	OJK_POJK_2019_11_236508bb_ha_p21_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q003	OJK_POJK_2016_66_30914fe4	OJK_POJK_2016_66_30914fe4_ha_p1_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q003	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p60_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q004	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q004	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q004	OJK_POJK_2019_42_3fc6a79f	OJK_POJK_2019_42_3fc6a79f_ha_p6_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q004	OJK_POJK_2021_12_590f9e71	OJK_POJK_2021_12_590f9e71_ha_p12_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q004	OJK_POJK_2019_42_3fc6a79f	OJK_POJK_2019_42_3fc6a79f_ha_p4_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q005	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p6_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q005	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q005	OJK_POJK_2015_26_7b8e76db	OJK_POJK_2015_26_7b8e76db_ha_p27_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q005	OJK_POJK_2015_26_7b8e76db	OJK_POJK_2015_26_7b8e76db_ha_p8_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q005	OJK_POJK_2022_16_dfe0b151	OJK_POJK_2022_16_dfe0b151_ha_p32_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q006	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q006	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q006	OJK_POJK_2026_17_af5c5646	OJK_POJK_2026_17_af5c5646_ha_pNaratif_11	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q006	OJK_POJK_2023_17_72c5f296	OJK_POJK_2023_17_72c5f296_ha_p141_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q006	BI_PBI_2024_1088_1088	BI_PBI_2024_1088_1088_ha_p40_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q007	OJK_POJK_2015_46_cb7d76c7	OJK_POJK_2015_46_cb7d76c7_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q007	OJK_POJK_2018_2_7a9902e7	OJK_POJK_2018_2_7a9902e7_ha_p17_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q007	OJK_POJK_2018_2_7a9902e7	OJK_POJK_2018_2_7a9902e7_ha_p10_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q007	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p9_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q007	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p11_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q008	OJK_POJK_2015_24_735fec09	OJK_POJK_2015_24_735fec09_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q008	OJK_POJK_2021_13_827aa927	OJK_POJK_2021_13_827aa927_ha_p35_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q008	OJK_POJK_2021_25_76b55578	OJK_POJK_2021_25_76b55578_ha_p25_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q008	OJK_POJK_2022_3_349c0b20	OJK_POJK_2022_3_349c0b20_ha_p24_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q008	OJK_POJK_2022_3_349c0b20	OJK_POJK_2022_3_349c0b20_ha_p25_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q009	OJK_POJK_2015_27_97931ea1	OJK_POJK_2015_27_97931ea1_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q009	OJK_POJK_2016_25_e64108ed	OJK_POJK_2016_25_e64108ed_ha_p20_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q009	BI_PADG_2023_4_12382	BI_PADG_2023_4_12382_ha_p37_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q010	OJK_POJK_2015_44_8f1f02a9	OJK_POJK_2015_44_8f1f02a9_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q010	OJK_POJK_2015_44_8f1f02a9	OJK_POJK_2015_44_8f1f02a9_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q010	OJK_POJK_2023_19_e128c35c	OJK_POJK_2023_19_e128c35c_ha_p13_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q010	OJK_POJK_2023_19_e128c35c	OJK_POJK_2023_19_e128c35c_ha_p12_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q011	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q011	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q011	OJK_POJK_2022_18_5a351c9a	OJK_POJK_2022_18_5a351c9a_ha_p3_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q011	BI_PADG_2024_386_386	BI_PADG_2024_386_386_ha_p79_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q012	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q012	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q012	BI_PADG_2023_4_12382	BI_PADG_2023_4_12382_ha_p36A_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q012	BI_PADG_2025_1095_1095	BI_PADG_2025_1095_1095_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q012	OJK_POJK_2015_6_906c6d21	OJK_POJK_2015_6_906c6d21_ha_p5_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q013	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q013	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q013	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q013	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q013	BI_PBI_2026_5_12380	BI_PBI_2026_5_12380_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q014	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q014	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p5_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q014	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q014	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p5_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q014	BI_PBI_2026_5_12380	BI_PBI_2026_5_12380_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q015	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q015	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q015	OJK_POJK_2016_12_3eff8be0	OJK_POJK_2016_12_3eff8be0_ha_p35_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q016	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q016	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q016	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q016	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q016	BI_PADG_2025_1290_1290	BI_PADG_2025_1290_1290_ha_p37_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q017	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q017	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q017	BI_PBI_2026_6_12391	BI_PBI_2026_6_12391_ha_p127_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q017	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p66_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q017	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p66_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q018	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q018	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q018	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p81_68	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q018	BI_PADG_2025_1285_1285	BI_PADG_2025_1285_1285_ha_p1_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q018	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q019	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q019	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q019	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q019	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q019	BI_PBI_2023_455_455	BI_PBI_2023_455_455_ha_p117_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q020	BI_PBI_2023_773_773	BI_PBI_2023_773_773_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q020	BI_PBI_2026_3_11909	BI_PBI_2026_3_11909_ha_p72_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q020	BI_PBI_2026_3_11909	BI_PBI_2026_3_11909_ha_p75_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q020	BI_PADG_2026_23_12395	BI_PADG_2026_23_12395_ha_p40_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q021	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q021	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q021	BI_PBI_2025_140_140	BI_PBI_2025_140_140_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q021	BI_PBI_2025_131_131	BI_PBI_2025_131_131_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q021	BI_PBI_2024_603_603	BI_PBI_2024_603_603_ha_p19_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q022	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q022	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q022	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q022	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q022	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q022	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_05	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q022	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_03	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q023	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q023	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q023	OJK_POJK_2021_13_827aa927	OJK_POJK_2021_13_827aa927_ha_p26_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q023	OJK_POJK_2014_19_08de33be	OJK_POJK_2014_19_08de33be_ha_p35_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q023	OJK_POJK_2015_10_9446b529	OJK_POJK_2015_10_9446b529_ha_p13_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q024	BI_PADG_2023_257_257	BI_PADG_2023_257_257_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q024	BI_PBI_2024_722_722	BI_PBI_2024_722_722_ha_p45_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q024	BI_PBI_2024_722_722	BI_PBI_2024_722_722_ha_p42_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q024	BI_PBI_2025_140_140	BI_PBI_2025_140_140_ha_p23_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q025	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q025	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q025	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q025	BI_PBI_2026_8_12402	BI_PBI_2026_8_12402_ha_p67A_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q025	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p24_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q026	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q026	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q026	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q026	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q026	OJK_POJK_2016_57_29a23a76	OJK_POJK_2016_57_29a23a76_ha_p8_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q027	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q027	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q027	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q027	OJK_POJK_2019_42_3fc6a79f	OJK_POJK_2019_42_3fc6a79f_ha_p48_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q027	OJK_POJK_2019_42_3fc6a79f	OJK_POJK_2019_42_3fc6a79f_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q028	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p5_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q028	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p6_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q028	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q028	OJK_POJK_2026_7_d5143c05	OJK_POJK_2026_7_d5143c05_ha_p15_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q028	OJK_POJK_2015_5_1b47a721	OJK_POJK_2015_5_1b47a721_ha_p27_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q029	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q029	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p4_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q029	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q029	OJK_POJK_2018_2_7a9902e7	OJK_POJK_2018_2_7a9902e7_ha_p5_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q029	OJK_POJK_2018_2_7a9902e7	OJK_POJK_2018_2_7a9902e7_ha_p9_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q030	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q030	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q030	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p5_01	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q030	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p5_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q030	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q030	OJK_POJK_2019_40_46f19483	OJK_POJK_2019_40_46f19483_ha_p7_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q031	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q031	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q031	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q031	OJK_POJK_2026_17_af5c5646	OJK_POJK_2026_17_af5c5646_ha_pNaratif_11	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q031	OJK_POJK_2023_17_72c5f296	OJK_POJK_2023_17_72c5f296_ha_p141_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q032	OJK_POJK_2015_46_cb7d76c7	OJK_POJK_2015_46_cb7d76c7_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q032	OJK_POJK_2015_46_cb7d76c7	OJK_POJK_2015_46_cb7d76c7_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q032	OJK_POJK_2015_46_cb7d76c7	OJK_POJK_2015_46_cb7d76c7_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q032	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p10_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q032	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p9_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q033	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q033	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q033	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q033	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q033	OJK_POJK_2016_32_1ece95db	OJK_POJK_2016_32_1ece95db_ha_p34A_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q034	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q034	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q034	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q034	OJK_POJK_2024_20_bc01f57b	OJK_POJK_2024_20_bc01f57b_ha_p16_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q034	OJK_POJK_2019_12_18abe711	OJK_POJK_2019_12_18abe711_ha_p29_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q035	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p2_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q035	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p8_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q035	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q035	OJK_POJK_2017_37_ce7273b7	OJK_POJK_2017_37_ce7273b7_ha_p23_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q035	OJK_POJK_2019_21_908a9850	OJK_POJK_2019_21_908a9850_ha_p45_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q036	OJK_POJK_2015_24_735fec09	OJK_POJK_2015_24_735fec09_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q036	OJK_POJK_2015_24_735fec09	OJK_POJK_2015_24_735fec09_ha_p7_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q036	OJK_POJK_2015_24_735fec09	OJK_POJK_2015_24_735fec09_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q036	OJK_POJK_2021_25_76b55578	OJK_POJK_2021_25_76b55578_ha_p28_05	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q036	OJK_POJK_2021_13_827aa927	OJK_POJK_2021_13_827aa927_ha_p27_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q037	OJK_POJK_2015_27_97931ea1	OJK_POJK_2015_27_97931ea1_ha_p4_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q037	OJK_POJK_2015_27_97931ea1	OJK_POJK_2015_27_97931ea1_ha_p8_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q037	OJK_POJK_2015_27_97931ea1	OJK_POJK_2015_27_97931ea1_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q037	BI_PADG_2023_4_12382	BI_PADG_2023_4_12382_ha_p34_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q038	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q038	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p2_01	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q038	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q038	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p5_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q038	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q038	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p4_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q039	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q039	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q039	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q039	BI_PADG_2026_3_11886	BI_PADG_2026_3_11886_ha_p103F_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q040	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q040	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q040	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q040	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q040	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q040	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q040	BI_PADG_2023_96_96	BI_PADG_2023_96_96_ha_p4_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q041	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q041	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p11_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q041	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q041	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p60_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q041	BI_PBI_2026_6_12391	BI_PBI_2026_6_12391_ha_p48_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q042	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p2_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q042	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q042	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q042	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q042	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q042	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q042	BI_PADG_2025_1285_1285	BI_PADG_2025_1285_1285_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_02	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p1_05	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p4_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q043	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p6_04	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q044	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p2_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q044	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p6_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q044	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p6_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q044	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q044	BI_PBI_2024_457_457	BI_PBI_2024_457_457_ha_p50_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q045	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q045	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p10_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q045	BI_PBI_2023_222_222	BI_PBI_2023_222_222_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q045	BI_PADG_2023_772_772	BI_PADG_2023_772_772_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q045	BI_PADG_2026_20_12393	BI_PADG_2026_20_12393_ha_p31_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q046	BI_PADG_2023_257_257	BI_PADG_2023_257_257_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q046	BI_PADG_2023_257_257	BI_PADG_2023_257_257_ha_p7_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q046	BI_PADG_2023_257_257	BI_PADG_2023_257_257_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q046	BI_PADG_2023_612_612	BI_PADG_2023_612_612_ha_p34A_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q046	BI_PADG_2023_612_612	BI_PADG_2023_612_612_ha_p29B_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q047	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q047	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q047	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q047	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q047	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p27_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q048	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q048	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p8_00	2	BERLAKU	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q048	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q048	BI_PBI_2024_738_738	BI_PBI_2024_738_738_ha_p17_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q048	BI_PADG_2024_466_466	BI_PADG_2024_466_466_ha_p12_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q049	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q049	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p8_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q049	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q049	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p8_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q049	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q049	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q049	BI_PADG_2024_792_792	BI_PADG_2024_792_792_ha_p120_08	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q050	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q050	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q050	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q050	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q050	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q050	OJK_POJK_2017_51_69edd9d5	OJK_POJK_2017_51_69edd9d5_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q050	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q050	OJK_POJK_2023_17_72c5f296	OJK_POJK_2023_17_72c5f296_ha_p141_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q051	OJK_POJK_2024_19_c4608276	OJK_POJK_2024_19_c4608276_ha_p12_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q051	OJK_POJK_2024_19_c4608276	OJK_POJK_2024_19_c4608276_ha_p12_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q051	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p12_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q051	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p12_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q051	OJK_POJK_2024_19_c4608276	OJK_POJK_2024_19_c4608276_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q051	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q051	OJK_POJK_2025_20_97b21075	OJK_POJK_2025_20_97b21075_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q052	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p15_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q052	OJK_POJK_2024_20_bc01f57b	OJK_POJK_2024_20_bc01f57b_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q052	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q052	OJK_POJK_2019_12_18abe711	OJK_POJK_2019_12_18abe711_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q052	OJK_POJK_2023_17_72c5f296	OJK_POJK_2023_17_72c5f296_ha_p141_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q053	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q053	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q053	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q053	OJK_POJK_2022_24_bc53eee7	OJK_POJK_2022_24_bc53eee7_ha_p23_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q054	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q054	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q054	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q054	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q054	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q054	OJK_POJK_2017_15_065baa09	OJK_POJK_2017_15_065baa09_ha_p44_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q055	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q055	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q055	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q055	OJK_POJK_2014_16_bd83da0f	OJK_POJK_2014_16_bd83da0f_ha_p50_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q055	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p5_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q056	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q056	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q056	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q056	OJK_POJK_2015_6_906c6d21	OJK_POJK_2015_6_906c6d21_ha_p34_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q057	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q057	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q057	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q057	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p5_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q057	OJK_POJK_2022_18_5a351c9a	OJK_POJK_2022_18_5a351c9a_ha_p15_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q058	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q058	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q058	OJK_POJK_2024_23_41e7fa1b	OJK_POJK_2024_23_41e7fa1b_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q058	BI_PADG_2024_386_386	BI_PADG_2024_386_386_ha_p59_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q058	BI_PADG_2023_467_467	BI_PADG_2023_467_467_ha_p60_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q059	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q059	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q059	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p4_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q059	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p4_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q059	OJK_POJK_2024_15_d6615279	OJK_POJK_2024_15_d6615279_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q059	BI_PADG_2026_7_11906	BI_PADG_2026_7_11906_ha_p51A_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q060	OJK_POJK_2015_44_8f1f02a9	OJK_POJK_2015_44_8f1f02a9_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q060	OJK_POJK_2015_44_8f1f02a9	OJK_POJK_2015_44_8f1f02a9_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q060	OJK_POJK_2015_44_8f1f02a9	OJK_POJK_2015_44_8f1f02a9_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q060	OJK_POJK_2023_19_e128c35c	OJK_POJK_2023_19_e128c35c_ha_p22_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q060	OJK_POJK_2023_19_e128c35c	OJK_POJK_2023_19_e128c35c_ha_p10_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q061	OJK_POJK_2015_27_97931ea1	OJK_POJK_2015_27_97931ea1_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q061	OJK_POJK_2015_27_97931ea1	OJK_POJK_2015_27_97931ea1_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q061	OJK_POJK_2016_25_e64108ed	OJK_POJK_2016_25_e64108ed_ha_p20_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q061	OJK_POJK_2021_13_827aa927	OJK_POJK_2021_13_827aa927_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q061	OJK_POJK_2021_13_827aa927	OJK_POJK_2021_13_827aa927_ha_p35_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q062	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p5_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q062	OJK_POJK_2022_5_f0d94542	OJK_POJK_2022_5_f0d94542_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q062	OJK_POJK_2019_42_3fc6a79f	OJK_POJK_2019_42_3fc6a79f_ha_p25_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q062	OJK_POJK_2020_12_b919cf45	OJK_POJK_2020_12_b919cf45_ha_pNaratif_04	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q062	OJK_POJK_2019_42_3fc6a79f	OJK_POJK_2019_42_3fc6a79f_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q063	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q063	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q063	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q063	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q064	BI_PBI_2023_234_234	BI_PBI_2023_234_234_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q064	BI_PBI_2023_234_234	BI_PBI_2023_234_234_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q064	BI_PBI_2024_722_722	BI_PBI_2024_722_722_ha_p88_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q064	BI_PBI_2025_140_140	BI_PBI_2025_140_140_ha_p22_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q064	BI_PBI_2024_1088_1088	BI_PBI_2024_1088_1088_ha_p192_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q065	BI_PBI_2023_1018_1018	BI_PBI_2023_1018_1018_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q065	BI_PBI_2023_1018_1018	BI_PBI_2023_1018_1018_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q065	BI_PBI_2023_1018_1018	BI_PBI_2023_1018_1018_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q065	BI_PBI_2023_1018_1018	BI_PBI_2023_1018_1018_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q065	BI_PBI_2023_1018_1018	BI_PBI_2023_1018_1018_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q065	BI_PBI_2024_722_722	BI_PBI_2024_722_722_ha_p88_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_05	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_06	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_07	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_08	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_09	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2023_1013_1013	BI_PADG_2023_1013_1013_ha_p1_10	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q066	BI_PADG_2026_27_12400	BI_PADG_2026_27_12400_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_05	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2023_1029_1029	BI_PADG_2023_1029_1029_ha_p1_06	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q067	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p34_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q068	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p225_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q068	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p225_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q068	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p203_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q068	BI_PADG_2024_803_803	BI_PADG_2024_803_803_ha_p62_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q068	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p1_08	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_05	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_06	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_07	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_3_3	BI_PADG_2023_3_3_ha_p1_08	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q069	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p60_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_05	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_06	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_07	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_08	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_09	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_10	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2023_434_434	BI_PADG_2023_434_434_ha_p1_11	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q070	BI_PADG_2024_5_5	BI_PADG_2024_5_5_ha_p86_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q071	BI_PADG_2025_444_444	BI_PADG_2025_444_444_ha_p9_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q071	BI_PADG_2026_27_12400	BI_PADG_2026_27_12400_ha_p54_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q071	BI_PADG_2026_31_12405	BI_PADG_2026_31_12405_ha_p110_53	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q071	OJK_POJK_2025_24_f6fe80c0	OJK_POJK_2025_24_f6fe80c0_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q071	OJK_POJK_2025_24_f6fe80c0	OJK_POJK_2025_24_f6fe80c0_ha_p4_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q072	BI_PADG_2023_539_539	BI_PADG_2023_539_539_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q072	BI_PADG_2023_539_539	BI_PADG_2023_539_539_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q072	BI_PADG_2023_539_539	BI_PADG_2023_539_539_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q072	BI_PADG_2023_539_539	BI_PADG_2023_539_539_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q072	BI_PADG_2023_539_539	BI_PADG_2023_539_539_ha_p1_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q072	BI_PADG_2023_728_728	BI_PADG_2023_728_728_ha_p52_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q073	BI_PADG_2026_3_11886	BI_PADG_2026_3_11886_ha_p40_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q073	BI_PADG_2025_1094_1094	BI_PADG_2025_1094_1094_ha_p136_02	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q073	BI_PADG_2025_1094_1094	BI_PADG_2025_1094_1094_ha_p40_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q073	BI_PADG_2025_1296_1296	BI_PADG_2025_1296_1296_ha_p169_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q073	BI_PADG_2025_1279_1279	BI_PADG_2025_1279_1279_ha_p16_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q074	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q074	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q074	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q074	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q074	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p101_08	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q075	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p11_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q075	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q075	BI_PBI_2024_1088_1088	BI_PBI_2024_1088_1088_ha_p178_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q075	BI_PBI_2026_6_12391	BI_PBI_2026_6_12391_ha_p74_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q075	BI_PBI_2023_455_455	BI_PBI_2023_455_455_ha_p106_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q076	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_00	2	BERLAKU_HISTORIS	Pasal rujukan utama untuk membuktikan status hukum per tanggal acuan
+Q076	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_01	2	BERLAKU_HISTORIS	Pasal rujukan utama untuk membuktikan status hukum per tanggal acuan
+Q076	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q076	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p43_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q076	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p21_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q077	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q077	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q077	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q077	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q077	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q077	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q077	BI_PADG_2024_766_766	BI_PADG_2024_766_766_ha_p43_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q078	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q078	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q078	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q078	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p3_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q078	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q078	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p81_68	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q079	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q079	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q079	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q079	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q079	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p3_04	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q079	BI_PBI_2023_733_733	BI_PBI_2023_733_733_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q079	BI_PADG_2025_1285_1285	BI_PADG_2025_1285_1285_ha_p79B_02	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q080	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q080	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q080	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q080	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q080	BI_PADG_2025_1290_1290	BI_PADG_2025_1290_1290_ha_p34_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q081	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q081	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q081	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q081	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p6_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q081	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p6_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q081	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q081	BI_PADG_2023_96_96	BI_PADG_2023_96_96_ha_p12_10	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q082	BI_PBI_2023_773_773	BI_PBI_2023_773_773_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q082	BI_PBI_2026_3_11909	BI_PBI_2026_3_11909_ha_p17_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q083	BI_PBI_2023_773_773	BI_PBI_2023_773_773_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q083	BI_PBI_2023_773_773	BI_PBI_2023_773_773_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q084	BI_PBI_2023_234_234	BI_PBI_2023_234_234_ha_p3_00	2	BERLAKU_HISTORIS	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q084	BI_PBI_2023_234_234	BI_PBI_2023_234_234_ha_p3_01	2	BERLAKU_HISTORIS	Adjudikasi menetapkan Skor 2: Pasal merupakan bukti langsung yang diperlukan untuk menjawab query.
+Q084	BI_PADG_2025_1280_1280	BI_PADG_2025_1280_1280_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q084	BI_PBI_2024_722_722	BI_PBI_2024_722_722_ha_p88_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q084	BI_PADG_2023_96_96	BI_PADG_2023_96_96_ha_p12_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q085	BI_PBI_2023_234_234	BI_PBI_2023_234_234_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q085	BI_PBI_2023_234_234	BI_PBI_2023_234_234_ha_p3_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q085	BI_PBI_2024_722_722	BI_PBI_2024_722_722_ha_p9_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q085	BI_PBI_2025_140_140	BI_PBI_2025_140_140_ha_p22_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q085	BI_PBI_2025_140_140	BI_PBI_2025_140_140_ha_p21_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q086	BI_PADG_2023_846_846	BI_PADG_2023_846_846_ha_p51_05	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q086	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p183_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q086	BI_PADG_2025_1281_1281	BI_PADG_2025_1281_1281_ha_p367_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q086	BI_PADG_2026_7_11906	BI_PADG_2026_7_11906_ha_p51A_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q087	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q087	BI_PBI_2023_206_206	BI_PBI_2023_206_206_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q087	BI_PBI_2026_6_12391	BI_PBI_2026_6_12391_ha_p126_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q087	BI_PBI_2026_6_12391	BI_PBI_2026_6_12391_ha_p125_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q087	BI_PBI_2026_6_12391	BI_PBI_2026_6_12391_ha_p127_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q088	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q088	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q088	BI_PBI_2024_1_1	BI_PBI_2024_1_1_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q088	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p29_23	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q088	BI_PADG_2024_540_540	BI_PADG_2024_540_540_ha_p16_40	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q089	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q090	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q090	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q090	OJK_POJK_2024_13_5c8f32b3	OJK_POJK_2024_13_5c8f32b3_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q091	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q091	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q091	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q091	OJK_POJK_2023_19_e128c35c	OJK_POJK_2023_19_e128c35c_ha_p13_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q091	BI_PADG_2024_895_895	BI_PADG_2024_895_895_ha_p12_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q092	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q092	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q092	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p4_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q092	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q092	OJK_POJK_2020_11_6cfe148f	OJK_POJK_2020_11_6cfe148f_ha_p5_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q093	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q093	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q093	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q093	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_03	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q093	OJK_POJK_2024_31_b406f277	OJK_POJK_2024_31_b406f277_ha_p20_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q094	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q094	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p3_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q094	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q094	OJK_POJK_2023_28_1508cfb7	OJK_POJK_2023_28_1508cfb7_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q094	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p29_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q095	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p12_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q095	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p12_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q095	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p1_00	1	BERLAKU	Adjudikasi menetapkan Skor 1: Pasal memberikan definisi/konteks penjelas dari regulasi yang sama.
+Q095	BI_PADG_2024_386_386	BI_PADG_2024_386_386_ha_p79_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q095	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p53_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q096	OJK_POJK_2024_19_c4608276	OJK_POJK_2024_19_c4608276_ha_p12_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q096	OJK_POJK_2024_19_c4608276	OJK_POJK_2024_19_c4608276_ha_p12_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q096	OJK_POJK_2024_19_c4608276	OJK_POJK_2024_19_c4608276_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q096	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p42_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q096	OJK_POJK_2015_42_65b1f8c6	OJK_POJK_2015_42_65b1f8c6_ha_p66_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q097	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p4_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q097	OJK_POJK_2017_50_c7cee55c	OJK_POJK_2017_50_c7cee55c_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q097	OJK_POJK_2024_20_bc01f57b	OJK_POJK_2024_20_bc01f57b_ha_p16_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q097	OJK_POJK_2025_20_97b21075	OJK_POJK_2025_20_97b21075_ha_p27_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q097	OJK_POJK_2022_16_dfe0b151	OJK_POJK_2022_16_dfe0b151_ha_p138_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q098	OJK_POJK_2024_20_bc01f57b	OJK_POJK_2024_20_bc01f57b_ha_p1_00	1	BERLAKU	Konteks definisi atau latar belakang dari dokumen yang sama
+Q098	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p29_24	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q098	BI_PADG_2023_96_96	BI_PADG_2023_96_96_ha_p12_33	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q098	BI_PADG_2024_267_267	BI_PADG_2024_267_267_ha_p62_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q099	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q099	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q099	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q099	OJK_POJK_2020_11_6cfe148f	OJK_POJK_2020_11_6cfe148f_ha_p2_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q099	OJK_POJK_2020_11_6cfe148f	OJK_POJK_2020_11_6cfe148f_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q100	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_00	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q100	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_01	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q100	OJK_POJK_2020_48_e8e0a63e	OJK_POJK_2020_48_e8e0a63e_ha_p2_02	2	BERLAKU	Pasal kunci yang secara langsung menjawab pertanyaan (Gold Evidence)
+Q100	OJK_POJK_2020_11_6cfe148f	OJK_POJK_2020_11_6cfe148f_ha_p10_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q100	OJK_POJK_2021_17_5134232a	OJK_POJK_2021_17_5134232a_ha_p10_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q101	BI_PADG_2026_4_12392	BI_PADG_2026_4_12392_ha_p37_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q101	OJK_POJK_2016_3_99effc00	OJK_POJK_2016_3_99effc00_ha_p73_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q101	OJK_POJK_2014_20_428831f2	OJK_POJK_2014_20_428831f2_ha_p77_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q101	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q102	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p116_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q102	BI_PADG_2024_127_127	BI_PADG_2024_127_127_ha_p129_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q102	BI_PADG_2024_127_127	BI_PADG_2024_127_127_ha_p129_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q102	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q103	BI_PBI_2023_543_543	BI_PBI_2023_543_543_ha_p67_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q103	BI_PADG_2023_182_182	BI_PADG_2023_182_182_ha_p95_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q103	OJK_POJK_2025_19_0fb156c5	OJK_POJK_2025_19_0fb156c5_ha_p12_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q103	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q104	OJK_POJK_2026_4_5da21323	OJK_POJK_2026_4_5da21323_ha_p8_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q104	OJK_POJK_2016_56_5a6de376	OJK_POJK_2016_56_5a6de376_ha_p24_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q104	OJK_POJK_2017_36_891c40f7	OJK_POJK_2017_36_891c40f7_ha_p1_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q104	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q105	OJK_POJK_2025_19_0fb156c5	OJK_POJK_2025_19_0fb156c5_ha_p13_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q105	BI_PBI_2025_140_140	BI_PBI_2025_140_140_ha_p31_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q105	BI_PADG_2025_1285_1285	BI_PADG_2025_1285_1285_ha_p28_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q105	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q106	BI_PADG_2023_4_12382	BI_PADG_2023_4_12382_ha_p92_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q106	OJK_POJK_2024_5_c1a9063a	OJK_POJK_2024_5_c1a9063a_ha_p10_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q106	BI_PADG_2025_1093_1093	BI_PADG_2025_1093_1093_ha_p39_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q106	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q107	BI_PADG_2024_275_275	BI_PADG_2024_275_275_ha_p19_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q107	BI_PADG_2025_273_273	BI_PADG_2025_273_273_ha_p19_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q107	OJK_POJK_2014_19_08de33be	OJK_POJK_2014_19_08de33be_ha_p13_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q107	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q108	BI_PADG_2025_316_316	BI_PADG_2025_316_316_ha_p95_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q108	BI_PADG_2026_16_12389	BI_PADG_2026_16_12389_ha_p98_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q108	BI_PBI_2024_340_340	BI_PBI_2024_340_340_ha_p25_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q108	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q109	OJK_POJK_2017_37_ce7273b7	OJK_POJK_2017_37_ce7273b7_ha_p1_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q109	OJK_POJK_2017_37_ce7273b7	OJK_POJK_2017_37_ce7273b7_ha_p10_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q109	OJK_POJK_2019_12_18abe711	OJK_POJK_2019_12_18abe711_ha_p34_111	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q109	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q110	BI_PADG_2023_4_12382	BI_PADG_2023_4_12382_ha_p23_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q110	OJK_POJK_2020_62_9c16b48b	OJK_POJK_2020_62_9c16b48b_ha_p154_29	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q110	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p29_25	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q110	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q111	OJK_POJK_2022_26_de2e5c86	OJK_POJK_2022_26_de2e5c86_ha_p156_24	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q111	OJK_POJK_2020_62_9c16b48b	OJK_POJK_2020_62_9c16b48b_ha_p154_18	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q111	OJK_POJK_2026_4_5da21323	OJK_POJK_2026_4_5da21323_ha_p8_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q111	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q112	BI_PADG_2023_523_523	BI_PADG_2023_523_523_ha_p36_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q112	BI_PBI_2023_477_477	BI_PBI_2023_477_477_ha_p26_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q112	BI_PADG_2025_1283_1283	BI_PADG_2025_1283_1283_ha_p323_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q112	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q113	OJK_POJK_2021_13_827aa927	OJK_POJK_2021_13_827aa927_ha_p26_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q113	OJK_POJK_2022_1_19e731b7	OJK_POJK_2022_1_19e731b7_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q113	OJK_POJK_2014_19_08de33be	OJK_POJK_2014_19_08de33be_ha_p35_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q113	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q114	OJK_POJK_2024_1_18916f7a	OJK_POJK_2024_1_18916f7a_ha_p20_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q114	OJK_POJK_2020_62_9c16b48b	OJK_POJK_2020_62_9c16b48b_ha_p154_79	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q114	OJK_POJK_2016_37_e8944864	OJK_POJK_2016_37_e8944864_ha_p27_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q114	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q115	BI_PBI_2026_3_11909	BI_PBI_2026_3_11909_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q115	BI_PADG_2026_23_12395	BI_PADG_2026_23_12395_ha_p27_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q115	BI_PADG_2025_456_456	BI_PADG_2025_456_456_ha_p26_31	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q115	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q116	BI_PADG_2023_643_643	BI_PADG_2023_643_643_ha_p39_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q116	BI_PADG_2026_24_12397	BI_PADG_2026_24_12397_ha_p49_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q116	BI_PADG_2026_3_11886	BI_PADG_2026_3_11886_ha_p39_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q116	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q117	OJK_POJK_2024_9_3d152224	OJK_POJK_2024_9_3d152224_ha_p7_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q117	OJK_POJK_2024_9_3d152224	OJK_POJK_2024_9_3d152224_ha_p7_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q117	OJK_POJK_2021_2_b5437c06	OJK_POJK_2021_2_b5437c06_ha_p7B_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q117	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q118	BI_PADG_2026_31_12405	BI_PADG_2026_31_12405_ha_p110_05	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q118	BI_PADG_2026_31_12405	BI_PADG_2026_31_12405_ha_p63_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q118	BI_PADG_2025_1296_1296	BI_PADG_2025_1296_1296_ha_p20_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q118	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q119	OJK_POJK_2020_62_9c16b48b	OJK_POJK_2020_62_9c16b48b_ha_p151_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q119	OJK_POJK_2022_26_de2e5c86	OJK_POJK_2022_26_de2e5c86_ha_p89_00	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q119	OJK_POJK_2016_12_3eff8be0	OJK_POJK_2016_12_3eff8be0_ha_p31_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q119	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q120	BI_PBI_2023_455_455	BI_PBI_2023_455_455_ha_p17_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q120	BI_PADG_2026_4_12392	BI_PADG_2026_4_12392_ha_p101B_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q120	BI_PADG_2023_4_12382	BI_PADG_2023_4_12382_ha_p45A_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q120	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q121	BI_PADG_2024_540_540	BI_PADG_2024_540_540_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q121	BI_PADG_2023_306_306	BI_PADG_2023_306_306_ha_p6_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q121	BI_PADG_2023_96_96	BI_PADG_2023_96_96_ha_p1_04	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q121	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q122	BI_PADG_2025_316_316	BI_PADG_2025_316_316_ha_p95_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q122	BI_PADG_2026_16_12389	BI_PADG_2026_16_12389_ha_p98_01	0	TIDAK_RELEVAN	Adjudikasi menetapkan Skor 0: Dokumen rujukan tidak memiliki relevansi hukum terhadap pertanyaan.
+Q122	BI_PADG_2026_33_12408	BI_PADG_2026_33_12408_ha_p98A_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q122	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q123	OJK_POJK_2023_17_72c5f296	OJK_POJK_2023_17_72c5f296_ha_p33_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q123	OJK_POJK_2023_17_72c5f296	OJK_POJK_2023_17_72c5f296_ha_p58_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q123	OJK_POJK_2016_55_1f3a931b	OJK_POJK_2016_55_1f3a931b_ha_p22_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q123	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q124	BI_PBI_2026_3_11909	BI_PBI_2026_3_11909_ha_p13_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q124	OJK_POJK_2019_31_13b85d68	OJK_POJK_2019_31_13b85d68_ha_p4_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q124	OJK_POJK_2018_32_00c602ca	OJK_POJK_2018_32_00c602ca_ha_p40_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q124	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q125	BI_PADG_2026_19_12390	BI_PADG_2026_19_12390_ha_p11_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q125	BI_PADG_2024_991_991	BI_PADG_2024_991_991_ha_p11_00	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q125	BI_PBI_2024_586_586	BI_PBI_2024_586_586_ha_p69_01	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus
+Q125	NONE	NONE	0	TIDAK_RELEVAN	Tidak relevan dengan substansi pertanyaan atau di luar cakupan korpus

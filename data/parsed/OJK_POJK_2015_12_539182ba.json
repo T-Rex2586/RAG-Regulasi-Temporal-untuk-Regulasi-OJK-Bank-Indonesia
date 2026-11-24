@@ -1,0 +1,519 @@
+{
+  "doc_id": "OJK_POJK_2015_12_539182ba",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "12",
+  "tahun": "2015",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 12/POJK.03/2015 tentang Ketentuan Kehati-hatian Dalam Rangka Stimulus Perekonomian Nasional Bagi Bank Umum Syariah dan Unit Usaha Syariah",
+  "status": "Tidak Berlaku",
+  "tanggal_ditetapkan": "21 Agustus 2015",
+  "tanggal_berlaku": "diundangkan (24  Agustus 2015)",
+  "diundangkan_pada": "24  Agustus 2015",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO KREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR BAGI BANK UMUM SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN DAN PENETAPAN KUALITAS ASET BAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYERTAAN MODAL BAGI BANK UMUM SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud dengan: \n1. Bank adalah Bank Umum Syariah dan Unit Usaha Syariah. \n2. Bank Umum Syariah adalah Bank Umum Syariah sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah. \n3. Unit Usaha Syariah adalah Unit Usaha Syariah sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah. \n4. Pembiayaan adalah penyediaan dana atau tagihan yang dipersamakan \ndengan itu berupa transaksi bagi hasil, transaksi sewa-menyewa termasuk \nsewa menyewa jasa, transaksi jual beli, dan transaksi pinjam meminjam \nberdasarkan persetujuan atau kesepakatan antara Bank dan pihak lain yang \nmewajibkan pihak yang dibiayai dan/atau diberi fasilitas dana untuk \nmengembalikan dana tersebut setelah jangka waktu tertentu dengan imbalan \nujrah, tanpa imbalan, bagi hasil, atau margin. \n \n5. Risiko... \n\n\n \n \n5. Risiko Kredit adalah risiko akibat kegagalan nasabah atau pihak lain dalam \nmemenuhi kewajiban kepada Bank sesuai dengan perjanjian yang disepakati. \n6. Restrukturisasi Pembiayaan adalah upaya yang dilakukan Bank dalam \nrangka membantu nasabah agar dapat menyelesaikan kewajibannya. \n7. Penyertaan Modal adalah penanaman dana Bank Umum Syariah dalam \nbentuk saham pada bank syariah dan perusahaan di bidang keuangan \nlainnya yang melakukan kegiatan usaha berdasarkan prinsip syariah \nsebagaimana diatur dalam peraturan perundang-undangan, termasuk \npenanaman dalam bentuk surat utang konversi wajib (mandatory convertible \nbonds) atau jenis transaksi tertentu yang berakibat Bank Umum Syariah \nmemiliki atau akan memiliki saham pada perusahaan yang bergerak di \nbidang keuangan yang melakukan kegiatan usaha berdasarkan prinsip \nsyariah. \n8. Usaha Mikro, Kecil, dan Menengah yang selanjutnya disebut UMKM adalah \nUMKM sebagaimana diatur dalam Undang-Undang mengenai usaha mikro, \nkecil, dan menengah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud dengan: \n1. Bank adalah Bank Umum Syariah dan Unit Usaha Syariah. \n2. Bank Umum Syariah adalah Bank Umum Syariah sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah. \n3. Unit Usaha Syariah adalah Unit Usaha Syariah sebagaimana dimaksud \ndalam Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah. \n4. Pembiayaan adalah penyediaan dana atau tagihan yang dipersamakan \ndengan itu berupa transaksi bagi hasil, transaksi sewa-menyewa termasuk \nsewa menyewa jasa, transaksi jual beli, dan transaksi pinjam meminjam \nberdasarkan persetujuan atau kesepakatan antara Bank dan pihak lain yang \nmewajibkan pihak yang dibiayai dan/atau diberi fasilitas dana untuk \nmengembalikan dana tersebut setelah jangka waktu tertentu dengan imbalan \nujrah, tanpa imbalan, bagi hasil, atau margin. \n \n5. Risiko... \n\n\n \n \n5. Risiko Kredit adalah risiko akibat kegagalan nasabah atau pihak lain dalam \nmemenuhi kewajiban kepada Bank sesuai dengan perjanjian yang disepakati. \n6. Restrukturisasi Pembiayaan adalah upaya yang dilakukan Bank dalam \nrangka membantu nasabah agar dapat menyelesaikan kewajibannya. \n7. Penyertaan Modal adalah penanaman dana Bank Umum Syariah dalam \nbentuk saham pada bank syariah dan perusahaan di bidang keuangan \nlainnya yang melakukan kegiatan usaha berdasarkan prinsip syariah \nsebagaimana diatur dalam peraturan perundang-undangan, termasuk \npenanaman dalam bentuk surat utang konversi wajib (mandatory convertible \nbonds) atau jenis transaksi tertentu yang berakibat Bank Umum Syariah \nmemiliki atau akan memiliki saham pada perusahaan yang bergerak di \nbidang keuangan yang melakukan kegiatan usaha berdasarkan prinsip \nsyariah. \n8. Usaha Mikro, Kecil, dan Menengah yang selanjutnya disebut UMKM adalah \nUMKM sebagaimana diatur dalam Undang-Undang mengenai usaha mikro, \nkecil, dan menengah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) Dalam menerapkan kebijakan yang mendukung stimulus pertumbuhan \nekonomi, Bank tetap menerapkan prinsip kehati-hatian dan prinsip syariah. \n(2) Kebijakan sebagaimana dimaksud pada ayat (1) untuk Bank Umum Syariah \ndilakukan terhadap: \na. perhitungan Aset Tertimbang Menurut Risiko (ATMR) untuk Risiko Kredit \ndengan menggunakan pendekatan standar bagi:  \n1. Pembiayaan beragun rumah tinggal; dan \n2. Pembiayaan kepada UMKM yang dijamin oleh lembaga penjaminan \natau asuransi Pembiayaan berstatus Badan Usaha Milik Daerah \n(BUMD); \nb. penilaian dan penetapan kualitas aset bagi: \n1. Pembiayaan dan penyediaan dana lainnya dalam jumlah kecil; dan \n2. Pembiayaan yang direstrukturisasi; \nc. Penyertaan Modal. \n(3) Kebijakan sebagaimana dimaksud pada ayat (1) untuk Unit Usaha Syariah \ndilakukan terhadap penilaian dan penetapan kualitas aset bagi: \na. Pembiayaan dan penyediaan dana lainnya dalam jumlah kecil; dan \nb. Pembiayaan yang direstrukturisasi. \nBAB II... \n\n\n \n \nBAB II \nPERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO \nKREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR \nBAGI BANK UMUM SYARIAH \nBagian Kesatu \nBobot Risiko Pembiayaan Beragun Rumah Tinggal",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam menerapkan kebijakan yang mendukung stimulus pertumbuhan \nekonomi, Bank tetap menerapkan prinsip kehati-hatian dan prinsip syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan sebagaimana dimaksud pada ayat (1) untuk Bank Umum Syariah \ndilakukan terhadap: \na. perhitungan Aset Tertimbang Menurut Risiko (ATMR) untuk Risiko Kredit \ndengan menggunakan pendekatan standar bagi:  \n1. Pembiayaan beragun rumah tinggal; dan \n2. Pembiayaan kepada UMKM yang dijamin oleh lembaga penjaminan \natau asuransi Pembiayaan berstatus Badan Usaha Milik Daerah \n(BUMD); \nb. penilaian dan penetapan kualitas aset bagi: \n1. Pembiayaan dan penyediaan dana lainnya dalam jumlah kecil; dan \n2. Pembiayaan yang direstrukturisasi; \nc. Penyertaan Modal."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kebijakan sebagaimana dimaksud pada ayat (1) untuk Unit Usaha Syariah \ndilakukan terhadap penilaian dan penetapan kualitas aset bagi: \na. Pembiayaan dan penyediaan dana lainnya dalam jumlah kecil; dan \nb. Pembiayaan yang direstrukturisasi. \nBAB II... \n\n\n \n \nBAB II \nPERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO \nKREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR \nBAGI BANK UMUM SYARIAH \nBagian Kesatu \nBobot Risiko Pembiayaan Beragun Rumah Tinggal"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO KREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR BAGI BANK UMUM SYARIAH",
+      "teks_lengkap": "Bobot risiko Pembiayaan beragun rumah tinggal ditetapkan sebagai berikut: \na. paling rendah 35% (tiga puluh lima perseratus) untuk Pembiayaan konsumsi \ndalam rangka kepemilikan rumah tinggal atau apartemen atau Pembiayaan \nkonsumsi yang dijamin dengan agunan berupa rumah tinggal atau apartemen \nyang memenuhi seluruh kriteria sebagai berikut: \n1. diberikan kepada nasabah perorangan; \n2. agunan diikat dengan hak tanggungan atau fidusia sehingga memberikan \nkedudukan yang diutamakan (hak preferensi) kepada Bank Umum Syariah; \ndan \n3. Bank Umum Syariah memiliki sistem dan prosedur yang memadai untuk \nmenilai dan memantau nilai agunan secara berkala; \nb. paling rendah 20% (dua puluh perseratus) untuk Pembiayaan konsumsi \ndalam rangka kepemilikan rumah tinggal yang merupakan program \nPemerintah Indonesia yang memenuhi seluruh kriteria sebagai berikut: \n1. dilakukan sesuai peraturan perundang-undangan yang berlaku; dan \n2. dijamin 100% (seratus perseratus) oleh lembaga penjaminan atau asuransi \nPembiayaan berstatus Badan Usaha Milik Negara (BUMN) yang memenuhi \npersyaratan pengakuan garansi dalam teknik mitigasi Risiko Kredit.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bobot risiko Pembiayaan beragun rumah tinggal ditetapkan sebagai berikut: \na. paling rendah 35% (tiga puluh lima perseratus) untuk Pembiayaan konsumsi \ndalam rangka kepemilikan rumah tinggal atau apartemen atau Pembiayaan \nkonsumsi yang dijamin dengan agunan berupa rumah tinggal atau apartemen \nyang memenuhi seluruh kriteria sebagai berikut: \n1. diberikan kepada nasabah perorangan; \n2. agunan diikat dengan hak tanggungan atau fidusia sehingga memberikan \nkedudukan yang diutamakan (hak preferensi) kepada Bank Umum Syariah; \ndan \n3. Bank Umum Syariah memiliki sistem dan prosedur yang memadai untuk \nmenilai dan memantau nilai agunan secara berkala; \nb. paling rendah 20% (dua puluh perseratus) untuk Pembiayaan konsumsi \ndalam rangka kepemilikan rumah tinggal yang merupakan program \nPemerintah Indonesia yang memenuhi seluruh kriteria sebagai berikut: \n1. dilakukan sesuai peraturan perundang-undangan yang berlaku; dan \n2. dijamin 100% (seratus perseratus) oleh lembaga penjaminan atau asuransi \nPembiayaan berstatus Badan Usaha Milik Negara (BUMN) yang memenuhi \npersyaratan pengakuan garansi dalam teknik mitigasi Risiko Kredit."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO KREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR BAGI BANK UMUM SYARIAH",
+      "teks_lengkap": "Persyaratan pengakuan garansi dalam teknik mitigasi Risiko Kredit sebagaimana \ndimaksud dalam Pasal 3 huruf b angka 2 adalah sebagai berikut: \na. Bank Umum Syariah memiliki hak tagih langsung kepada pihak pemberi \njaminan tanpa harus melakukan tindakan hukum terlebih dahulu terhadap \nnasabah dalam hal terjadi cedera janji (wanprestasi); \nb. Tagihan atau transaksi rekening administratif yang diberikan garansi \ndinyatakan secara spesifik dan jelas dalam perjanjian garansi; \n \nc. Perjanjian... \n\n\n \n \nc. Perjanjian garansi bersifat tanpa syarat (unconditional) dan tidak dapat \ndibatalkan (irrevocable); \nd. Garansi dicairkan dalam jangka waktu paling lama 90 (sembilan puluh) hari \nsejak eksposur telah jatuh tempo lebih dari 90 (sembilan puluh) hari, baik \natas pembayaran pokok dan/atau pembayaran margin/bagi hasil/ujrah; dan  \ne. Garansi yang diterbitkan oleh pihak pemberi jaminan telah diakui sebagai \nkewajiban dalam pembukuan pihak pemberi jaminan. \n \nBagian Kedua \nBobot Risiko Pembiayaan kepada UMKM yang Dijamin oleh Lembaga Penjaminan \natau Asuransi Pembiayaan Berstatus BUMD",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Persyaratan pengakuan garansi dalam teknik mitigasi Risiko Kredit sebagaimana \ndimaksud dalam Pasal 3 huruf b angka 2 adalah sebagai berikut: \na. Bank Umum Syariah memiliki hak tagih langsung kepada pihak pemberi \njaminan tanpa harus melakukan tindakan hukum terlebih dahulu terhadap \nnasabah dalam hal terjadi cedera janji (wanprestasi); \nb. Tagihan atau transaksi rekening administratif yang diberikan garansi \ndinyatakan secara spesifik dan jelas dalam perjanjian garansi; \n \nc. Perjanjian... \n\n\n \n \nc. Perjanjian garansi bersifat tanpa syarat (unconditional) dan tidak dapat \ndibatalkan (irrevocable); \nd. Garansi dicairkan dalam jangka waktu paling lama 90 (sembilan puluh) hari \nsejak eksposur telah jatuh tempo lebih dari 90 (sembilan puluh) hari, baik \natas pembayaran pokok dan/atau pembayaran margin/bagi hasil/ujrah; dan  \ne. Garansi yang diterbitkan oleh pihak pemberi jaminan telah diakui sebagai \nkewajiban dalam pembukuan pihak pemberi jaminan. \n \nBagian Kedua \nBobot Risiko Pembiayaan kepada UMKM yang Dijamin oleh Lembaga Penjaminan \natau Asuransi Pembiayaan Berstatus BUMD"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO KREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR BAGI BANK UMUM SYARIAH",
+      "teks_lengkap": "(1) Bobot risiko Pembiayaan kepada UMKM yang dijamin oleh lembaga \npenjaminan atau asuransi Pembiayaan berstatus BUMD ditetapkan sebesar \n50% (lima puluh perseratus) sepanjang memenuhi persyaratan yang \nditetapkan. \n(2) Persyaratan lembaga penjaminan atau asuransi Pembiayaan berstatus BUMD \nsebagaimana dimaksud pada ayat (1) ditetapkan sebagai berikut: \na. memiliki peringkat dari lembaga pemeringkat yang diakui oleh Otoritas \nJasa Keuangan setara BBB-; atau \nb. mendapatkan rekomendasi dalam bentuk tertulis dari Otoritas Jasa \nKeuangan untuk melakukan program penjaminan. \n(3) Selain memenuhi persyaratan sebagaimana dimaksud pada ayat (2) \npengakuan penjaminan atau asuransi Pembiayaan, skema penjaminan atau \nasuransi Pembiayaan, dan lembaga penjaminan atau asuransi Pembiayaan \nberstatus BUMD, tetap memenuhi persyaratan: \na. pengakuan garansi dalam teknik mitigasi Risiko Kredit sebagaimana \ndimaksud dalam Pasal 4; \nb. skema penjaminan atau asuransi Pembiayaan; dan \nc. lembaga penjaminan atau asuransi Pembiayaan berstatus bukan BUMN.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bobot risiko Pembiayaan kepada UMKM yang dijamin oleh lembaga \npenjaminan atau asuransi Pembiayaan berstatus BUMD ditetapkan sebesar \n50% (lima puluh perseratus) sepanjang memenuhi persyaratan yang \nditetapkan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan lembaga penjaminan atau asuransi Pembiayaan berstatus BUMD \nsebagaimana dimaksud pada ayat (1) ditetapkan sebagai berikut: \na. memiliki peringkat dari lembaga pemeringkat yang diakui oleh Otoritas \nJasa Keuangan setara BBB-; atau \nb. mendapatkan rekomendasi dalam bentuk tertulis dari Otoritas Jasa \nKeuangan untuk melakukan program penjaminan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Selain memenuhi persyaratan sebagaimana dimaksud pada ayat (2) \npengakuan penjaminan atau asuransi Pembiayaan, skema penjaminan atau \nasuransi Pembiayaan, dan lembaga penjaminan atau asuransi Pembiayaan \nberstatus BUMD, tetap memenuhi persyaratan: \na. pengakuan garansi dalam teknik mitigasi Risiko Kredit sebagaimana \ndimaksud dalam Pasal 4; \nb. skema penjaminan atau asuransi Pembiayaan; dan \nc. lembaga penjaminan atau asuransi Pembiayaan berstatus bukan BUMN."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO KREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR BAGI BANK UMUM SYARIAH",
+      "teks_lengkap": "(1) Persyaratan skema penjaminan atau asuransi Pembiayaan sebagaimana \ndimaksud dalam Pasal 5 ayat (3) huruf b sebagai berikut: \n \n \na. pangsa... \n\n\n \n \na. pangsa penjaminan Pembiayaan oleh lembaga penjaminan atau asuransi \nPembiayaan paling kurang sebesar 70% (tujuh puluh  perseratus) dari \nPembiayaan yang diberikan oleh Bank Umum Syariah; \nb. Bank Umum Syariah mengajukan klaim kepada lembaga penjaminan atau \nasuransi Pembiayaan paling lama 1 (satu) bulan sejak terjadi tunggakan \npokok, \nmargin/bagi \nhasil/ujrah, \ndan/atau \ntagihan \nlainnya \nyang \nmenjadikan kualitas Pembiayaan paling baik dinilai “Diragukan” sesuai \nketentuan Otoritas Jasa Keuangan yang berlaku walaupun Pembiayaan \nbelum jatuh tempo;  \nc. pembayaran penjaminan atau asuransi Pembiayaan paling lama 15 (lima \nbelas) hari kerja setelah klaim diajukan oleh Bank Umum Syariah dan \ndokumen diterima secara lengkap oleh lembaga penjaminan atau asuransi \nPembiayaan; \nd. jangka waktu penjaminan atau asuransi Pembiayaan paling kurang sama \ndengan jangka waktu Pembiayaan; dan \ne. penjaminan \natau \nasuransi \nPembiayaan \nbersifat \ntanpa \nsyarat \n(unconditional) dan tidak dapat dibatalkan (irrevocable). \n(2) Persyaratan lembaga penjaminan atau asuransi Pembiayaan berstatus bukan \nBUMN sebagaimana dimaksud dalam Pasal 5 ayat (3) huruf c sebagai berikut: \na. pendirian lembaga penjaminan atau asuransi Pembiayaan sesuai \nperaturan yang berlaku mengenai lembaga penjaminan atau asuransi \nPembiayaan; \nb. didukung oleh dana penjaminan (modal) dengan gearing ratio  mengacu \npada ketentuan yang berlaku, paling tinggi 10 (sepuluh) kali; \nc. mematuhi ketentuan mengenai lembaga penjaminan atau asuransi \nPembiayaan yang diatur oleh Otoritas Jasa Keuangan; dan \nd. bukan merupakan pihak terkait Bank Umum Syariah kecuali keterkaitan \ntersebut karena hubungan kepemilikan dengan pemerintah daerah. \n(3) Persyaratan skema penjaminan atau asuransi Pembiayaan sebagaimana \ndimaksud pada ayat (1) dicantumkan dalam perjanjian antara Bank Umum \nSyariah dengan lembaga penjaminan atau asuransi Pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Persyaratan skema penjaminan atau asuransi Pembiayaan sebagaimana \ndimaksud dalam Pasal 5 ayat (3) huruf b sebagai berikut: \n \n \na. pangsa... \n\n\n \n \na. pangsa penjaminan Pembiayaan oleh lembaga penjaminan atau asuransi \nPembiayaan paling kurang sebesar 70% (tujuh puluh  perseratus) dari \nPembiayaan yang diberikan oleh Bank Umum Syariah; \nb. Bank Umum Syariah mengajukan klaim kepada lembaga penjaminan atau \nasuransi Pembiayaan paling lama 1 (satu) bulan sejak terjadi tunggakan \npokok, \nmargin/bagi \nhasil/ujrah, \ndan/atau \ntagihan \nlainnya \nyang \nmenjadikan kualitas Pembiayaan paling baik dinilai “Diragukan” sesuai \nketentuan Otoritas Jasa Keuangan yang berlaku walaupun Pembiayaan \nbelum jatuh tempo;  \nc. pembayaran penjaminan atau asuransi Pembiayaan paling lama 15 (lima \nbelas) hari kerja setelah klaim diajukan oleh Bank Umum Syariah dan \ndokumen diterima secara lengkap oleh lembaga penjaminan atau asuransi \nPembiayaan; \nd. jangka waktu penjaminan atau asuransi Pembiayaan paling kurang sama \ndengan jangka waktu Pembiayaan; dan \ne. penjaminan \natau \nasuransi \nPembiayaan \nbersifat \ntanpa \nsyarat \n(unconditional) dan tidak dapat dibatalkan (irrevocable)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan lembaga penjaminan atau asuransi Pembiayaan berstatus bukan \nBUMN sebagaimana dimaksud dalam Pasal 5 ayat (3) huruf c sebagai berikut: \na. pendirian lembaga penjaminan atau asuransi Pembiayaan sesuai \nperaturan yang berlaku mengenai lembaga penjaminan atau asuransi \nPembiayaan; \nb. didukung oleh dana penjaminan (modal) dengan gearing ratio  mengacu \npada ketentuan yang berlaku, paling tinggi 10 (sepuluh) kali; \nc. mematuhi ketentuan mengenai lembaga penjaminan atau asuransi \nPembiayaan yang diatur oleh Otoritas Jasa Keuangan; dan \nd. bukan merupakan pihak terkait Bank Umum Syariah kecuali keterkaitan \ntersebut karena hubungan kepemilikan dengan pemerintah daerah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persyaratan skema penjaminan atau asuransi Pembiayaan sebagaimana \ndimaksud pada ayat (1) dicantumkan dalam perjanjian antara Bank Umum \nSyariah dengan lembaga penjaminan atau asuransi Pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PERHITUNGAN ASET TERTIMBANG MENURUT RISIKO (ATMR) UNTUK RISIKO KREDIT DENGAN MENGGUNAKAN PENDEKATAN STANDAR BAGI BANK UMUM SYARIAH",
+      "teks_lengkap": "(1) Bobot risiko Pembiayaan kepada UMKM yang dijamin oleh lembaga \npenjaminan atau asuransi Pembiayaan berstatus BUMD yang: \na. memiliki... \n\n\n \n \na. memiliki peringkat lebih tinggi dari BBB-; dan  \nb. pengakuan penjaminan atau asuransi Pembiayaan, skema penjaminan \natau asuransi Pembiayaan, dan lembaga penjaminan atau asuransi \nPembiayaan berstatus BUMD memenuhi persyaratan sebagaimana \ndimaksud dalam Pasal 5 ayat (3), \ndidasarkan pada peringkat lembaga penjaminan atau asuransi Pembiayaan \nberstatus BUMD sesuai kategori portofolio tagihan kepada entitas sektor \npublik.  \n(2) Bobot risiko tagihan kepada entitas sektor publik sebagaimana dimaksud \npada ayat (1) sebagai berikut: \na. sebesar 50% (lima puluh perseratus) untuk peringkat yang setara BBB+ \nsampai dengan BBB-; \nb. sebesar 50% (lima puluh perseratus) untuk peringkat yang setara A+ \nsampai dengan A-; atau \nc. sebesar 20% (dua puluh perseratus) untuk peringkat yang setara AAA \nsampai dengan AA-. \n(3) Ilustrasi peringkat sebagaimana dimaksud pada ayat (2) menggunakan notasi \nperingkat yang dikeluarkan lembaga pemeringkat Standard and Poor’s. \n \nBAB III \nPENILAIAN DAN PENETAPAN KUALITAS ASET \nBAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH \nBagian Kesatu \nPembiayaan dan Penyediaan Dana Lainnya dalam Jumlah Kecil",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bobot risiko Pembiayaan kepada UMKM yang dijamin oleh lembaga \npenjaminan atau asuransi Pembiayaan berstatus BUMD yang: \na. memiliki... \n\n\n \n \na. memiliki peringkat lebih tinggi dari BBB-; dan  \nb. pengakuan penjaminan atau asuransi Pembiayaan, skema penjaminan \natau asuransi Pembiayaan, dan lembaga penjaminan atau asuransi \nPembiayaan berstatus BUMD memenuhi persyaratan sebagaimana \ndimaksud dalam Pasal 5 ayat (3), \ndidasarkan pada peringkat lembaga penjaminan atau asuransi Pembiayaan \nberstatus BUMD sesuai kategori portofolio tagihan kepada entitas sektor \npublik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bobot risiko tagihan kepada entitas sektor publik sebagaimana dimaksud \npada ayat (1) sebagai berikut: \na. sebesar 50% (lima puluh perseratus) untuk peringkat yang setara BBB+ \nsampai dengan BBB-; \nb. sebesar 50% (lima puluh perseratus) untuk peringkat yang setara A+ \nsampai dengan A-; atau \nc. sebesar 20% (dua puluh perseratus) untuk peringkat yang setara AAA \nsampai dengan AA-."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ilustrasi peringkat sebagaimana dimaksud pada ayat (2) menggunakan notasi \nperingkat yang dikeluarkan lembaga pemeringkat Standard and Poor’s. \n \nBAB III \nPENILAIAN DAN PENETAPAN KUALITAS ASET \nBAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH \nBagian Kesatu \nPembiayaan dan Penyediaan Dana Lainnya dalam Jumlah Kecil"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN DAN PENETAPAN KUALITAS ASET BAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH",
+      "teks_lengkap": "(1) Penetapan kualitas Pembiayaan dan penyediaan dana lainnya dapat hanya \ndidasarkan atas ketepatan pembayaran pokok dan/atau margin/bagi \nhasil/ujrah, untuk: \na. Pembiayaan dan penyediaan dana lainnya yang diberikan oleh setiap \nBank kepada 1 (satu) nasabah atau 1 (satu) proyek dengan jumlah kurang \ndari atau sama dengan Rp5.000.000.000,00 (lima miliar rupiah); \nb. Pembiayaan dan penyediaan dana lainnya yang diberikan oleh setiap \nBank kepada nasabah UMKM dengan jumlah: \n \n1. Lebih... \n\n\n \n \n \n1. Lebih dari Rp5.000.000.000,00 (lima miliar rupiah) sampai dengan \nRp20.000.000.000,00 (dua puluh miliar rupiah) bagi Bank yang \nmemenuhi kriteria sebagai berikut: \na) memiliki \npredikat \npenilaian \nkecukupan \nKualitas \nPenerapan \nManajemen Risiko (KPMR) untuk Risiko Kredit sangat memadai; \nb) memiliki rasio Kewajiban Penyediaan Modal Minimum (KPMM) \npaling rendah sesuai ketentuan yang berlaku; dan \nc) memiliki Peringkat Komposit tingkat kesehatan Bank paling rendah \n3 (PK-3). \n2. Lebih dari Rp5.000.000.000,00 (lima miliar rupiah) sampai dengan \nRp10.000.000.000,00 \n(sepuluh \nmiliar \nrupiah) \nbagi \nBank \nyang \nmemenuhi kriteria sebagai berikut: \na) memiliki predikat penilaian kecukupan KPMR untuk Risiko Kredit \nmemadai; \nb) memiliki rasio KPMM paling rendah sesuai ketentuan yang berlaku; \ndan \nc) memiliki Peringkat Komposit tingkat kesehatan Bank paling rendah \n3 (PK-3). \n(2) Penetapan kualitas Pembiayaan dan penyediaan dana lainnya sebagaimana \ndimaksud pada ayat (1) huruf b bagi Unit Usaha Syariah berlaku ketentuan \nsebagai berikut: \na. predikat penilaian KPMR untuk Risiko Kredit mengacu pada predikat \npenilaian kecukupan KPMR Unit Usaha Syariah; dan \nb. Peringkat Komposit tingkat kesehatan dan rasio KPMM mengacu pada \nPeringkat Komposit tingkat kesehatan dan rasio KPMM bank induknya. \n(3) Ketentuan sebagaimana dimaksud pada ayat (1) huruf b tidak  diberlakukan \nuntuk Pembiayaan dan penyediaan  dana  lainnya  yang diberikan kepada 1 \n(satu) nasabah UMKM dengan jumlah lebih dari Rp5.000.000.000,00 (lima \nmiliar rupiah) yang merupakan:  \na. Pembiayaan yang direstrukturisasi; dan/atau \nb. Penyediaan dana kepada 50 (lima puluh) nasabah terbesar Bank. \n \n \n \n \nBagian... \n\n\n \n \nBagian Kedua \nPenetapan Kualitas Pembiayaan yang Direstrukturisasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penetapan kualitas Pembiayaan dan penyediaan dana lainnya dapat hanya \ndidasarkan atas ketepatan pembayaran pokok dan/atau margin/bagi \nhasil/ujrah, untuk: \na. Pembiayaan dan penyediaan dana lainnya yang diberikan oleh setiap \nBank kepada 1 (satu) nasabah atau 1 (satu) proyek dengan jumlah kurang \ndari atau sama dengan Rp5.000.000.000,00 (lima miliar rupiah); \nb. Pembiayaan dan penyediaan dana lainnya yang diberikan oleh setiap \nBank kepada nasabah UMKM dengan jumlah: \n \n1. Lebih... \n\n\n \n \n \n1. Lebih dari Rp5.000.000.000,00 (lima miliar rupiah) sampai dengan \nRp20.000.000.000,00 (dua puluh miliar rupiah) bagi Bank yang \nmemenuhi kriteria sebagai berikut: \na) memiliki \npredikat \npenilaian \nkecukupan \nKualitas \nPenerapan \nManajemen Risiko (KPMR) untuk Risiko Kredit sangat memadai; \nb) memiliki rasio Kewajiban Penyediaan Modal Minimum (KPMM) \npaling rendah sesuai ketentuan yang berlaku; dan \nc) memiliki Peringkat Komposit tingkat kesehatan Bank paling rendah \n3 (PK-3). \n2. Lebih dari Rp5.000.000.000,00 (lima miliar rupiah) sampai dengan \nRp10.000.000.000,00 \n(sepuluh \nmiliar \nrupiah) \nbagi \nBank \nyang \nmemenuhi kriteria sebagai berikut: \na) memiliki predikat penilaian kecukupan KPMR untuk Risiko Kredit \nmemadai; \nb) memiliki rasio KPMM paling rendah sesuai ketentuan yang berlaku; \ndan \nc) memiliki Peringkat Komposit tingkat kesehatan Bank paling rendah \n3 (PK-3)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan kualitas Pembiayaan dan penyediaan dana lainnya sebagaimana \ndimaksud pada ayat (1) huruf b bagi Unit Usaha Syariah berlaku ketentuan \nsebagai berikut: \na. predikat penilaian KPMR untuk Risiko Kredit mengacu pada predikat \npenilaian kecukupan KPMR Unit Usaha Syariah; dan \nb. Peringkat Komposit tingkat kesehatan dan rasio KPMM mengacu pada \nPeringkat Komposit tingkat kesehatan dan rasio KPMM bank induknya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan sebagaimana dimaksud pada ayat (1) huruf b tidak  diberlakukan \nuntuk Pembiayaan dan penyediaan  dana  lainnya  yang diberikan kepada 1 \n(satu) nasabah UMKM dengan jumlah lebih dari Rp5.000.000.000,00 (lima \nmiliar rupiah) yang merupakan:  \na. Pembiayaan yang direstrukturisasi; dan/atau \nb. Penyediaan dana kepada 50 (lima puluh) nasabah terbesar Bank. \n \n \n \n \nBagian... \n\n\n \n \nBagian Kedua \nPenetapan Kualitas Pembiayaan yang Direstrukturisasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN DAN PENETAPAN KUALITAS ASET BAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH",
+      "teks_lengkap": "(1) Kualitas Pembiayaan setelah dilakukan restrukturisasi ditetapkan sebagai \nberikut: \na. paling tinggi Kurang Lancar untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Diragukan atau Macet; \nb. tetap atau tidak berubah untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Lancar, Dalam Perhatian Khusus atau Kurang \nLancar. \n(2) Kualitas \nPembiayaan \nsetelah \ndilakukan \nrestrukturisasi \nsebagaimana \ndimaksud pada ayat (1) dapat menjadi Lancar, apabila tidak terdapat \ntunggakan selama 3 (tiga) kali periode pembayaran angsuran pokok dan/atau \nmargin/bagi hasil/ujrah secara berturut-turut sesuai dengan perjanjian \nRestrukturisasi Pembiayaan.  \n(3) Dalam hal nasabah tidak memenuhi kriteria dan/atau persyaratan dalam \nperjanjian Restrukturisasi Pembiayaan, penilaian kualitas Pembiayaan \nditetapkan sesuai ketentuan yang berlaku yang didasarkan atas: \na. ketepatan pembayaran pokok dan/atau margin/bagi hasil/ujrah untuk \nPembiayaan \n \nyang \ndirestrukturisasi \nsampai \ndengan \njumlah \nRp5.000.000.000,00 (lima miliar rupiah); atau \nb. prospek \nusaha, \nkinerja \n(performance) \nnasabah, \ndan \nkemampuan \nmembayar untuk Pembiayaan yang direstrukturisasi dengan jumlah lebih \ndari Rp5.000.000.000,00 (lima miliar rupiah). \n(4) Dalam hal periode pembayaran angsuran pokok dan/atau margin/bagi \nhasil/ujrah kurang dari 1 (satu) bulan, peningkatan kualitas menjadi Lancar \nsebagaimana dimaksud pada ayat (2) dapat dilakukan paling singkat 3 (tiga) \nbulan sejak dilakukan Restrukturisasi Pembiayaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kualitas Pembiayaan setelah dilakukan restrukturisasi ditetapkan sebagai \nberikut: \na. paling tinggi Kurang Lancar untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Diragukan atau Macet; \nb. tetap atau tidak berubah untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Lancar, Dalam Perhatian Khusus atau Kurang \nLancar."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kualitas \nPembiayaan \nsetelah \ndilakukan \nrestrukturisasi \nsebagaimana \ndimaksud pada ayat (1) dapat menjadi Lancar, apabila tidak terdapat \ntunggakan selama 3 (tiga) kali periode pembayaran angsuran pokok dan/atau \nmargin/bagi hasil/ujrah secara berturut-turut sesuai dengan perjanjian \nRestrukturisasi Pembiayaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal nasabah tidak memenuhi kriteria dan/atau persyaratan dalam \nperjanjian Restrukturisasi Pembiayaan, penilaian kualitas Pembiayaan \nditetapkan sesuai ketentuan yang berlaku yang didasarkan atas: \na. ketepatan pembayaran pokok dan/atau margin/bagi hasil/ujrah untuk \nPembiayaan \n \nyang \ndirestrukturisasi \nsampai \ndengan \njumlah \nRp5.000.000.000,00 (lima miliar rupiah); atau \nb. prospek \nusaha, \nkinerja \n(performance) \nnasabah, \ndan \nkemampuan \nmembayar untuk Pembiayaan yang direstrukturisasi dengan jumlah lebih \ndari Rp5.000.000.000,00 (lima miliar rupiah)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal periode pembayaran angsuran pokok dan/atau margin/bagi \nhasil/ujrah kurang dari 1 (satu) bulan, peningkatan kualitas menjadi Lancar \nsebagaimana dimaksud pada ayat (2) dapat dilakukan paling singkat 3 (tiga) \nbulan sejak dilakukan Restrukturisasi Pembiayaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN DAN PENETAPAN KUALITAS ASET BAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH",
+      "teks_lengkap": "Kualitas Pembiayaan yang direstrukturisasi sebagaimana dimaksud dalam Pasal \n8 ayat (3) huruf a ditetapkan sesuai ketentuan sebagaimana dimaksud dalam \nPasal 9. \n \n \n \nPasal...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kualitas Pembiayaan yang direstrukturisasi sebagaimana dimaksud dalam Pasal \n8 ayat (3) huruf a ditetapkan sesuai ketentuan sebagaimana dimaksud dalam \nPasal 9. \n \n \n \nPasal..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PENILAIAN DAN PENETAPAN KUALITAS ASET BAGI BANK UMUM SYARIAH DAN UNIT USAHA SYARIAH",
+      "teks_lengkap": "(1) Pembiayaan yang direstrukturisasi dengan pemberian tenggang waktu \npembayaran pokok, ditetapkan memiliki kualitas sebagai berikut: \na. paling tinggi Kurang Lancar untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Diragukan atau Macet; \nb. tetap atau tidak berubah untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Lancar, Dalam Perhatian Khusus atau Kurang \nLancar; \n(2) Kualitas Pembiayaan selama masa pemberian tenggang waktu pembayaran \npokok sebagaimana dimaksud pada ayat (1) dapat: \na. menjadi \nLancar, \napabila \ntidak \nterdapat \ntunggakan \npembayaran \nmargin/bagi hasil/ujrah selama 3 (tiga) kali periode pembayaran berturut-\nturut sesuai perjanjian Restrukturisasi Pembiayaan; atau \nb. sesuai kualitas Pembiayaan yang lebih buruk antara kualitas Pembiayaan \nsebagaimana dimaksud pada ayat (1) atau kualitas Pembiayaan yang \nsebenarnya, \napabila \nterdapat \ntunggakan \npembayaran \nmargin/bagi \nhasil/ujrah atau tidak memenuhi kriteria dan/atau persyaratan dalam \nperjanjian Restrukturisasi Pembiayaan.  \n(3) Kualitas Pembiayaan setelah masa pemberian tenggang waktu pembayaran \npokok didasarkan atas: \na. ketepatan pembayaran pokok dan/atau margin/bagi hasil/ujrah untuk \nPembiayaan \n \nyang \ndirestrukturisasi \nsampai \ndengan \njumlah \nRp5.000.000.000,00 (lima miliar rupiah); atau \nb. prospek \nusaha, \nkinerja \n(performance) \nnasabah, \ndan \nkemampuan \nmembayar untuk Pembiayaan yang direstrukturisasi dengan jumlah lebih \ndari Rp5.000.000.000,00 (lima miliar rupiah). \n \nBAB IV \nPENYERTAAN MODAL BAGI BANK UMUM SYARIAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembiayaan yang direstrukturisasi dengan pemberian tenggang waktu \npembayaran pokok, ditetapkan memiliki kualitas sebagai berikut: \na. paling tinggi Kurang Lancar untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Diragukan atau Macet; \nb. tetap atau tidak berubah untuk Pembiayaan yang sebelum dilakukan \nrestrukturisasi tergolong Lancar, Dalam Perhatian Khusus atau Kurang \nLancar;"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kualitas Pembiayaan selama masa pemberian tenggang waktu pembayaran \npokok sebagaimana dimaksud pada ayat (1) dapat: \na. menjadi \nLancar, \napabila \ntidak \nterdapat \ntunggakan \npembayaran \nmargin/bagi hasil/ujrah selama 3 (tiga) kali periode pembayaran berturut-\nturut sesuai perjanjian Restrukturisasi Pembiayaan; atau \nb. sesuai kualitas Pembiayaan yang lebih buruk antara kualitas Pembiayaan \nsebagaimana dimaksud pada ayat (1) atau kualitas Pembiayaan yang \nsebenarnya, \napabila \nterdapat \ntunggakan \npembayaran \nmargin/bagi \nhasil/ujrah atau tidak memenuhi kriteria dan/atau persyaratan dalam \nperjanjian Restrukturisasi Pembiayaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kualitas Pembiayaan setelah masa pemberian tenggang waktu pembayaran \npokok didasarkan atas: \na. ketepatan pembayaran pokok dan/atau margin/bagi hasil/ujrah untuk \nPembiayaan \n \nyang \ndirestrukturisasi \nsampai \ndengan \njumlah \nRp5.000.000.000,00 (lima miliar rupiah); atau \nb. prospek \nusaha, \nkinerja \n(performance) \nnasabah, \ndan \nkemampuan \nmembayar untuk Pembiayaan yang direstrukturisasi dengan jumlah lebih \ndari Rp5.000.000.000,00 (lima miliar rupiah). \n \nBAB IV \nPENYERTAAN MODAL BAGI BANK UMUM SYARIAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENYERTAAN MODAL BAGI BANK UMUM SYARIAH",
+      "teks_lengkap": "(1) Penyertaan Modal dalam rangka: \na. pendirian perusahaan yang akan mengambil alih aset Pembiayaan \nbermasalah dari Bank Umum Syariah yang melakukan penyertaan \ndengan kepemilikan Bank Umum Syariah paling tinggi 20% (dua puluh \nperseratus) dari modal perusahaan dan Bank Umum Syariah tidak \nmenjadi pengendali; atau \nb. tambahan... \n\n\n \n \nb. tambahan penyertaan untuk penyelamatan perusahaan anak berupa \nbank yang melakukan kegiatan usaha berdasarkan prinsip syariah, \ndapat dilakukan apabila Bank Umum Syariah memiliki Peringkat Komposit \ntingkat kesehatan Bank Umum Syariah terakhir sebelum melakukan \npenyertaan paling rendah 3 (PK-3) dan mempunyai prospek peningkatan \nPeringkat Komposit menjadi lebih baik. \n(2) Persyaratan lain dalam rangka Penyertaan Modal sebagaimana dimaksud \npada ayat (1), mengacu pada ketentuan yang berlaku mengenai prinsip \nkehati-hatian dalam kegiatan Penyertaan Modal. \n \nBAB V \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyertaan Modal dalam rangka: \na. pendirian perusahaan yang akan mengambil alih aset Pembiayaan \nbermasalah dari Bank Umum Syariah yang melakukan penyertaan \ndengan kepemilikan Bank Umum Syariah paling tinggi 20% (dua puluh \nperseratus) dari modal perusahaan dan Bank Umum Syariah tidak \nmenjadi pengendali; atau \nb. tambahan... \n\n\n \n \nb. tambahan penyertaan untuk penyelamatan perusahaan anak berupa \nbank yang melakukan kegiatan usaha berdasarkan prinsip syariah, \ndapat dilakukan apabila Bank Umum Syariah memiliki Peringkat Komposit \ntingkat kesehatan Bank Umum Syariah terakhir sebelum melakukan \npenyertaan paling rendah 3 (PK-3) dan mempunyai prospek peningkatan \nPeringkat Komposit menjadi lebih baik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Persyaratan lain dalam rangka Penyertaan Modal sebagaimana dimaksud \npada ayat (1), mengacu pada ketentuan yang berlaku mengenai prinsip \nkehati-hatian dalam kegiatan Penyertaan Modal. \n \nBAB V \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Permohonan persetujuan Penyertaan Modal sebagaimana dimaksud dalam Pasal \n12 yang diajukan kepada Otoritas Jasa Keuangan sebelum ketentuan ini berlaku, \ndisesuaikan dengan Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Permohonan persetujuan Penyertaan Modal sebagaimana dimaksud dalam Pasal \n12 yang diajukan kepada Otoritas Jasa Keuangan sebelum ketentuan ini berlaku, \ndisesuaikan dengan Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini berlaku: \na. \nKualitas Pembiayaan yang direstrukturisasi dan masih dalam periode 3 (tiga) \nkali kewajiban pembayaran pokok dan/atau margin/bagi hasil/ujrah setelah \npenandatanganan perjanjian Restrukturisasi Pembiayaan; atau  \nb. \nKualitas Pembiayaan yang direstrukturisasi dan masih dalam masa \npemberian tenggang waktu pembayaran pokok setelah penandatanganan \nperjanjian Restrukturisasi Pembiayaan,  \nditetapkan sesuai Peraturan Otoritas Jasa Keuangan ini. \n \n \n \n \n \n \n \n \n \n \n BAB... \n\n\n \n \nBAB VI \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini berlaku: \na. \nKualitas Pembiayaan yang direstrukturisasi dan masih dalam periode 3 (tiga) \nkali kewajiban pembayaran pokok dan/atau margin/bagi hasil/ujrah setelah \npenandatanganan perjanjian Restrukturisasi Pembiayaan; atau  \nb. \nKualitas Pembiayaan yang direstrukturisasi dan masih dalam masa \npemberian tenggang waktu pembayaran pokok setelah penandatanganan \nperjanjian Restrukturisasi Pembiayaan,  \nditetapkan sesuai Peraturan Otoritas Jasa Keuangan ini. \n \n \n \n \n \n \n \n \n \n \n BAB... \n\n\n \n \nBAB VI \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, ketentuan dalam: \na. Peraturan Bank Indonesia Nomor 15/11/PBI/2013 tentang Prinsip Kehati-\nHatian dalam Kegiatan Penyertaan Modal (Lembaran Negara Republik \nIndonesia Tahun 2013 Nomor 187, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5466); \nb. Peraturan Otoritas Jasa Keuangan Nomor 16/POJK.03/2014 tentang \nPenilaian Kualitas Aset Bank Umum Syariah dan Unit Usaha Syariah \n(Lembaran Negara Republik Indonesia Tahun 2014 Nomor 347, Tambahan \nLembaran Negara Republik Indonesia Nomor 5625); \nc. Surat Edaran Bank Indonesia Nomor 7/53/DPbS tanggal 22 November 2005 \nperihal Kewajiban Penyediaan Modal Minimum Bagi Bank Umum Yang \nMelaksanakan Kegiatan Usaha Berdasarkan Prinsip Syariah sebagaimana \ntelah diubah dengan Surat Edaran Bank Indonesia Nomor 8/10/DPbS tanggal \n7 Maret 2006,  \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, ketentuan dalam: \na. Peraturan Bank Indonesia Nomor 15/11/PBI/2013 tentang Prinsip Kehati-\nHatian dalam Kegiatan Penyertaan Modal (Lembaran Negara Republik \nIndonesia Tahun 2013 Nomor 187, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5466); \nb. Peraturan Otoritas Jasa Keuangan Nomor 16/POJK.03/2014 tentang \nPenilaian Kualitas Aset Bank Umum Syariah dan Unit Usaha Syariah \n(Lembaran Negara Republik Indonesia Tahun 2014 Nomor 347, Tambahan \nLembaran Negara Republik Indonesia Nomor 5625); \nc. Surat Edaran Bank Indonesia Nomor 7/53/DPbS tanggal 22 November 2005 \nperihal Kewajiban Penyediaan Modal Minimum Bagi Bank Umum Yang \nMelaksanakan Kegiatan Usaha Berdasarkan Prinsip Syariah sebagaimana \ntelah diubah dengan Surat Edaran Bank Indonesia Nomor 8/10/DPbS tanggal \n7 Maret 2006,  \ndinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini berlaku sampai dengan 2 (dua) tahun sejak \ntanggal diundangkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini berlaku sampai dengan 2 (dua) tahun sejak \ntanggal diundangkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal  diundangkan. \n \n \n \n \n \n \n \n \n \nAgar... \n\n\n \n \nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan \nOtoritas Jasa Keuangan ini dengan penempatannya dalam Lembaran Negara \nRepublik Indonesia. \n \nDitetapkan di Jakarta \nPada tanggal   21 Agustus 2015 \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n                                                                 ttd \n \nMULIAMAN D. HADAD \nDiundangkan di Jakarta \nPada tanggal    24  Agustus 2015 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \n                                      ttd \n \nYASONNA H. LAOLY \n \n \n \n \n \n \n \n \n \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 198\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \n \nSudarmaji \n\n\nPENJELASAN  \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   12/POJK.03/2015 \nTENTANG \nKETENTUAN KEHATI-HATIAN DALAM RANGKA STIMULUS PEREKONOMIAN \nNASIONAL BAGI BANK UMUM SYARIAH \nDAN UNIT USAHA SYARIAH \n \nI. \nUMUM \nDalam rangka menstimulus pertumbuhan perekonomian nasional, \ndiperlukan \nupaya \nuntuk \nmendorong \nfungsi \nintermediasi \nperbankan \ntermasuk perbankan syariah melalui kebijakan-kebijakan yang bersifat \ncountercyclical antara lain terkait dengan ketentuan mengenai perhitungan \nAset Tertimbang Menurut Risiko untuk Risiko Kredit dengan menggunakan \npendekatan standar, penilaian kualitas aset, dan prinsip kehati-hatian \ndalam melakukan Penyertaan Modal.  \nKebijakan \ncountercyclical \ndimaksud \nditujukan \nuntuk \nmenjaga \nstabilitas sistem keuangan, mendorong fungsi intermediasi dalam rangka \nmeningkatkan potensi ekspansi Pembiayaan Bank yang dilakukan secara \nterukur dengan tetap memperhatikan prinsip kehati-hatian dan prinsip \nsyariah serta mencegah terjadinya moral hazard.  \nKebijakan countercyclical ini bersifat sementara (temporary policy) \nsehingga seiring dengan membaiknya kinerja dan kondisi keuangan Bank \ndan pertumbuhan ekonomi, kebijakan dimaksud perlu disesuaikan kembali.  \nKebijakan \ncountercyclical \nini \ndifokuskan \nuntuk \nmendorong \npertumbuhan Pembiayaan kepada UMKM dan Pembiayaan beragun rumah \ntinggal serta meningkatkan kinerja dan kondisi Bank. Selain itu, kebijakan \nini sejalan dengan program pemerintah dalam rangka meningkatkan \nkesejahteraan dan pertumbuhan ekonomi khususnya dalam program \nPembiayaan \nrumah \nbagi \nmasyarakat \nberpenghasilan \nrendah \nserta \npenyaluran Pembiayaan kepada UMKM. \nSehubungan dengan pertimbangan di atas, diperlukan kebijakan \nberupa Ketentuan Kehati-Hatian Dalam Rangka Stimulus Perekonomian \nNasional Bagi Bank Umum Syariah dan Unit Usaha Syariah dalam suatu \nPeraturan Otoritas Jasa Keuangan. \nII. PASAL... \n\n\n \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada tanggal  diundangkan. \n \n \n \n \n \n \n \n \n \nAgar... \n\n\n \n \nAgar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan \nOtoritas Jasa Keuangan ini dengan penempatannya dalam Lembaran Negara \nRepublik Indonesia. \n \nDitetapkan di Jakarta \nPada tanggal   21 Agustus 2015 \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n                                                                 ttd \n \nMULIAMAN D. HADAD \nDiundangkan di Jakarta \nPada tanggal    24  Agustus 2015 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \n                                      ttd \n \nYASONNA H. LAOLY \n \n \n \n \n \n \n \n \n \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 198\nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \n \nSudarmaji \n\n\nPENJELASAN  \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   12/POJK.03/2015 \nTENTANG \nKETENTUAN KEHATI-HATIAN DALAM RANGKA STIMULUS PEREKONOMIAN \nNASIONAL BAGI BANK UMUM SYARIAH \nDAN UNIT USAHA SYARIAH \n \nI. \nUMUM \nDalam rangka menstimulus pertumbuhan perekonomian nasional, \ndiperlukan \nupaya \nuntuk \nmendorong \nfungsi \nintermediasi \nperbankan \ntermasuk perbankan syariah melalui kebijakan-kebijakan yang bersifat \ncountercyclical antara lain terkait dengan ketentuan mengenai perhitungan \nAset Tertimbang Menurut Risiko untuk Risiko Kredit dengan menggunakan \npendekatan standar, penilaian kualitas aset, dan prinsip kehati-hatian \ndalam melakukan Penyertaan Modal.  \nKebijakan \ncountercyclical \ndimaksud \nditujukan \nuntuk \nmenjaga \nstabilitas sistem keuangan, mendorong fungsi intermediasi dalam rangka \nmeningkatkan potensi ekspansi Pembiayaan Bank yang dilakukan secara \nterukur dengan tetap memperhatikan prinsip kehati-hatian dan prinsip \nsyariah serta mencegah terjadinya moral hazard.  \nKebijakan countercyclical ini bersifat sementara (temporary policy) \nsehingga seiring dengan membaiknya kinerja dan kondisi keuangan Bank \ndan pertumbuhan ekonomi, kebijakan dimaksud perlu disesuaikan kembali.  \nKebijakan \ncountercyclical \nini \ndifokuskan \nuntuk \nmendorong \npertumbuhan Pembiayaan kepada UMKM dan Pembiayaan beragun rumah \ntinggal serta meningkatkan kinerja dan kondisi Bank. Selain itu, kebijakan \nini sejalan dengan program pemerintah dalam rangka meningkatkan \nkesejahteraan dan pertumbuhan ekonomi khususnya dalam program \nPembiayaan \nrumah \nbagi \nmasyarakat \nberpenghasilan \nrendah \nserta \npenyaluran Pembiayaan kepada UMKM. \nSehubungan dengan pertimbangan di atas, diperlukan kebijakan \nberupa Ketentuan Kehati-Hatian Dalam Rangka Stimulus Perekonomian \nNasional Bagi Bank Umum Syariah dan Unit Usaha Syariah dalam suatu \nPeraturan Otoritas Jasa Keuangan. \nII. PASAL... \n\n\n \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud rumah tinggal atau apartemen adalah rumah tapak \natau rumah susun namun tidak termasuk rumah toko dan rumah \nkantor.  \n \nHuruf b \nYang dimaksud Pemerintah Indonesia adalah Pemerintah Pusat \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nyang \nmengatur \nmengenai pemerintahan daerah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud rumah tinggal atau apartemen adalah rumah tapak \natau rumah susun namun tidak termasuk rumah toko dan rumah \nkantor.  \n \nHuruf b \nYang dimaksud Pemerintah Indonesia adalah Pemerintah Pusat \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nyang \nmengatur \nmengenai pemerintahan daerah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \n \nYang dimaksud dengan cedera janji (wanprestasi) adalah kegagalan \natau kelalaian nasabah untuk membayar kewajiban keuangan dan \nmemenuhi kewajiban lainnya kepada Bank Umum Syariah; misalnya, \nkegagalan nasabah membayar pokok dan margin/bagi hasil/ujrah pada \nsaat yang ditentukan (default). \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \nHuruf d \n \n \nCukup jelas. \n \nHuruf e \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \n \nYang dimaksud dengan cedera janji (wanprestasi) adalah kegagalan \natau kelalaian nasabah untuk membayar kewajiban keuangan dan \nmemenuhi kewajiban lainnya kepada Bank Umum Syariah; misalnya, \nkegagalan nasabah membayar pokok dan margin/bagi hasil/ujrah pada \nsaat yang ditentukan (default). \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \nHuruf d \n \n \nCukup jelas. \n \nHuruf e \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \nAyat... \n\n\n \n \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nKriteria lembaga penjaminan atau asuransi Pembiayaan yang \nberstatus BUMD yang mendapatkan rekomendasi dari Otoritas \nJasa Keuangan antara lain memiliki kinerja keuangan yang baik. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \nAyat... \n\n\n \n \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nKriteria lembaga penjaminan atau asuransi Pembiayaan yang \nberstatus BUMD yang mendapatkan rekomendasi dari Otoritas \nJasa Keuangan antara lain memiliki kinerja keuangan yang baik. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \nPenentuan pihak terkait Bank Umum Syariah didasarkan pada \nhubungan kepemilikan, hubungan kepengurusan, dan hubungan \nkeuangan sebagaimana diatur dalam ketentuan yang berlaku \nmengenai batas maksimum pemberian kredit. \nAyat (2) \n \nCukup jelas. \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \nPenentuan pihak terkait Bank Umum Syariah didasarkan pada \nhubungan kepemilikan, hubungan kepengurusan, dan hubungan \nkeuangan sebagaimana diatur dalam ketentuan yang berlaku \nmengenai batas maksimum pemberian kredit. \nAyat (2) \n \nCukup jelas. \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud entitas sektor publik adalah Badan Usaha Milik Negara, \npemerintah daerah (provinsi, kota, dan kabupaten) di Indonesia dan \nbadan-badan atau lembaga-lembaga Pemerintah Republik Indonesia \nyang tidak memenuhi kriteria sebagai Pemerintah Indonesia. \nPemerintah Indonesia adalah Pemerintah Pusat Republik Indonesia, \nBank Indonesia, dan badan-badan dan lembaga-lembaga pemerintah \nlainnya... \n\n\n \n \nlainnya yang seluruh pendanaan operasionalnya berasal dari Anggaran \nPendapatan dan Belanja Negara (APBN) Pemerintah Republik Indonesia. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud entitas sektor publik adalah Badan Usaha Milik Negara, \npemerintah daerah (provinsi, kota, dan kabupaten) di Indonesia dan \nbadan-badan atau lembaga-lembaga Pemerintah Republik Indonesia \nyang tidak memenuhi kriteria sebagai Pemerintah Indonesia. \nPemerintah Indonesia adalah Pemerintah Pusat Republik Indonesia, \nBank Indonesia, dan badan-badan dan lembaga-lembaga pemerintah \nlainnya... \n\n\n \n \nlainnya yang seluruh pendanaan operasionalnya berasal dari Anggaran \nPendapatan dan Belanja Negara (APBN) Pemerintah Republik Indonesia. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “penyediaan dana lainnya” adalah penerbitan \njaminan dan/atau pembukaan letter of credit. \nTermasuk sebagai “Pembiayaan dan penyediaan dana lainnya” adalah \nsemua jenis Pembiayaan atau penyediaan dana lainnya yang diberikan \nkepada semua golongan nasabah. \n \nAyat (2) \nCukup jelas. \nAyat (3) \n \n \nHuruf a \n \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan 50 (lima puluh) nasabah terbesar adalah \n50 (lima puluh) nasabah terbesar Bank Umum Syariah secara \nindividu.  \nYang dimaksud dengan 50 (lima puluh) nasabah terbesar Unit \nUsaha Syariah adalah 50 (lima puluh) nasabah terbesar dari Unit \nUsaha Syariah, tidak termasuk dari bank induknya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “penyediaan dana lainnya” adalah penerbitan \njaminan dan/atau pembukaan letter of credit. \nTermasuk sebagai “Pembiayaan dan penyediaan dana lainnya” adalah \nsemua jenis Pembiayaan atau penyediaan dana lainnya yang diberikan \nkepada semua golongan nasabah. \n \nAyat (2) \nCukup jelas. \nAyat (3) \n \n \nHuruf a \n \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan 50 (lima puluh) nasabah terbesar adalah \n50 (lima puluh) nasabah terbesar Bank Umum Syariah secara \nindividu.  \nYang dimaksud dengan 50 (lima puluh) nasabah terbesar Unit \nUsaha Syariah adalah 50 (lima puluh) nasabah terbesar dari Unit \nUsaha Syariah, tidak termasuk dari bank induknya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf... \n\n\n \n \n \n \nHuruf b \nFaktor penilaian prospek usaha, kinerja (performance) nasabah, \ndan kemampuan membayar mengacu pada ketentuan mengenai \npenilaian kualitas aset Bank Umum Syariah dan Unit Usaha \nSyariah. \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf... \n\n\n \n \n \n \nHuruf b \nFaktor penilaian prospek usaha, kinerja (performance) nasabah, \ndan kemampuan membayar mengacu pada ketentuan mengenai \npenilaian kualitas aset Bank Umum Syariah dan Unit Usaha \nSyariah. \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan “kualitas Pembiayaan yang sebenarnya” \nadalah penilaian kualitas Pembiayaan yang didasarkan atas: \na. Ketepatan pembayaran pokok dan/atau margin/bagi hasil/ujrah \nuntuk Pembiayaan yang direstrukturisasi sampai dengan jumlah \nRp5.000.000.000,00 (lima miliar rupiah); atau \nb. Prospek usaha, kinerja (performance) nasabah, dan kemampuan \nmembayar untuk Pembiayaan yang direstrukturisasi dengan \njumlah lebih dari Rp5.000.000.000,00 (lima miliar rupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan “kualitas Pembiayaan yang sebenarnya” \nadalah penilaian kualitas Pembiayaan yang didasarkan atas: \na. Ketepatan pembayaran pokok dan/atau margin/bagi hasil/ujrah \nuntuk Pembiayaan yang direstrukturisasi sampai dengan jumlah \nRp5.000.000.000,00 (lima miliar rupiah); atau \nb. Prospek usaha, kinerja (performance) nasabah, dan kemampuan \nmembayar untuk Pembiayaan yang direstrukturisasi dengan \njumlah lebih dari Rp5.000.000.000,00 (lima miliar rupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \nPasal ...",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nPasal ..."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5735",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5735"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 34,
+  "total_ayat": 50,
+  "total_karakter": 27211,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

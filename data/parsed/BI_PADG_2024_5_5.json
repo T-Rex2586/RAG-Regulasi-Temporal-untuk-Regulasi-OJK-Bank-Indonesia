@@ -1,0 +1,756 @@
+{
+  "doc_id": "BI_PADG_2024_5_5",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "5",
+  "tahun": "2024",
+  "judul": "PERUBAHAN ATAS PERATURAN ANGGOTA DEWAN GUBERNUR NOMOR 21/12/PADG/2O19 TENTANG PENYELENGGARAAN TRANSFER DANA DAN KLIRING BERJADWAL OLEH BANK INDONESIA",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "27 Juni 2024",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [
+    "Peraturan Anggota Dewan Gubernur Nomor 21/12/PADG/2019 tentang"
+  ],
+  "bab_list": [],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang \ndimaksud dengan: \n1. \nPenyelenggaraan Transfer Dana dan Kliring Berjadwal \nadalah \nkegiatan \ndalam \nrangka \nmemproses \nperhitungan hak dan kewajiban antar peserta sistem \nkliring nasional Bank Indonesia yang setelmennya \ndilakukan pada waktu tertentu. \n2. \nSistem Kliring Nasional Bank \nIndonesia yang \nselanjutnya disingkat SKNBI adalah infrastruktur \nyang \ndigunakan \noleh \nBank \nIndonesia \ndalam \nPenyelenggaraan Transfer Dana dan Kliring Berjadwal \nuntuk memproses data keuangan elektronik pada \nlayanan transfer dana, layanan kliring warkat debit, \nlayanan pembayaran reguler, dan layanan penagihan \nreguler. \n3. \nPenyelenggara SKNBI yang selanjutnya disebut \nPenyelenggara adalah Bank Indonesia. \n \n\n\n \n4. \nPeserta SKNBI yang selanjutnya disebut Peserta \nadalah pihak yang telah memenuhi persyaratan dan \ntelah memperoleh persetujuan dari Penyelenggara \nsebagai Peserta. \n5. \nLayanan Transfer Dana adalah layanan dalam SKNBI \nyang memproses pemindahan sejumlah dana antar-\nPeserta dari 1 (satu) pengirim kepada 1 (satu) \npenerima. \n6. \nLayanan Kliring Warkat Debit adalah layanan dalam \nSKNBI yang memproses penagihan sejumlah dana \nyang dilakukan antar-Peserta dari 1 (satu) pengirim \ntagihan kepada 1 (satu) penerima tagihan, disertai \ndengan fisik warkat debit. \n7. \nLayanan Pembayaran Reguler adalah layanan dalam \nSKNBI yang memproses pemindahan sejumlah dana \nantar-Peserta dari 1 (satu) atau beberapa pengirim \nkepada 1 (satu) atau beberapa penerima. \n8. \nLayanan Penagihan Reguler adalah layanan dalam \nSKNBI yang memproses penagihan sejumlah dana \nantar-Peserta dari 1 (satu) pengirim tagihan kepada \nbeberapa penerima tagihan. \n9. \nData Keuangan Elektronik yang selanjutnya disingkat \nDKE adalah data keuangan dalam format elektronik \nyang digunakan sebagai dasar perhitungan dalam \npenyelenggaraan SKNBI. \n10. DKE Transfer Dana adalah DKE yang dibuat \nberdasarkan perintah transfer dana dan digunakan \nsebagai dasar perhitungan dalam Layanan Transfer \nDana. \n11. DKE Warkat \nDebit adalah DKE \nyang dibuat \nberdasarkan perintah transfer debit dan digunakan \nsebagai dasar perhitungan dalam Layanan Kliring \nWarkat Debit. \n12. DKE \nPembayaran \nadalah \nDKE \nyang \ndibuat \nberdasarkan perintah transfer dana dan digunakan \nsebagai \ndasar \nperhitungan \ndalam \nLayanan \nPembayaran Reguler. \n13. DKE Penagihan adalah DKE yang dibuat berdasarkan \nperintah transfer debit dan digunakan sebagai dasar \nperhitungan dalam Layanan Penagihan Reguler. \n14. Warkat Debit adalah alat pembayaran nontunai yang \ndiperhitungkan atas beban nasabah atau bank \nmelalui Layanan Kliring Warkat Debit. \n15. Kliring \nPenyerahan \nadalah \nkegiatan \nuntuk \nmemperhitungkan \nDKE \nWarkat \nDebit \nyang \ndisampaikan oleh Peserta pengirim kepada Peserta \npenerima melalui Penyelenggara. \n16. Kliring \nPengembalian \nadalah \nkegiatan \nuntuk \nmemperhitungkan \nDKE \nWarkat \nDebit \nyang \ndiperhitungkan dalam Kliring Penyerahan namun \nditolak oleh Peserta penerima berdasarkan alasan \nyang ditetapkan oleh Penyelenggara. \n \n \n\n\n \n17. Penyerahan \nTagihan \nadalah \nkegiatan \nuntuk \nmemperhitungkan DKE Penagihan yang disampaikan \noleh Peserta pengirim kepada Peserta penerima \nmelalui Penyelenggara. \n18. Pengembalian \nTagihan \nadalah \nkegiatan \nuntuk \nmemperhitungkan \nDKE \nPenagihan \nyang \ndiperhitungkan dalam Penyerahan Tagihan namun \nditolak oleh Peserta penerima berdasarkan alasan \nyang ditetapkan oleh Penyelenggara. \n19. Peserta Langsung Utama yang selanjutnya disingkat \nPLU adalah Peserta yang mengirimkan DKE ke \nPenyelenggara secara langsung dengan menggunakan \ninfrastruktur SKNBI dan setelmen dana dilakukan ke \nrekening setelmen dana Peserta yang bersangkutan. \n20. Peserta Langsung Afiliasi yang selanjutnya disingkat \nPLA adalah Peserta yang mengirimkan DKE ke \nPenyelenggara secara langsung dengan menggunakan \ninfrastruktur SKNBI Peserta yang bersangkutan dan \nsetelmen dana dilakukan ke rekening setelmen dana \nbank pembayar. \n21. Peserta Tidak Langsung yang selanjutnya disingkat \nPTL adalah Peserta yang mengirimkan DKE ke \nPenyelenggara secara tidak langsung melalui bank \npenerus dan setelmen dana dilakukan ke rekening \nsetelmen dana bank penerus. \n22. Bank Pembayar adalah PLU yang ditunjuk oleh PLA \nuntuk setelmen dana, penyediaan prefund, dan/atau \npembayaran \nkewajiban \nlainnya \ndalam \npenyelenggaraan SKNBI. \n23. Bank \nPenerus \nadalah \nPLU \nyang \nmemenuhi \npersyaratan dan telah memperoleh persetujuan dari \nPenyelenggara untuk \nmelaksanakan pengiriman \nDKE, penyediaan prefund, setelmen dana, dan/atau \npembayaran kewajiban lainnya untuk kepentingan \nPTL. \n24. Setelmen Dana adalah kegiatan pendebitan dan \npengkreditan rekening setelmen dana melalui Sistem \nBI-RTGS yang dilakukan berdasarkan perhitungan \nhak dan kewajiban masing-masing Peserta yang \ntimbul dalam penyelenggaraan SKNBI. \n25. Rekening Setelmen Dana adalah rekening Peserta \ndalam mata uang Rupiah yang ditatausahakan di \nBank Indonesia. \n26. Prefund adalah dana yang disediakan oleh Peserta \nuntuk memenuhi kewajiban dalam penyelenggaraan \nSKNBI. \n27. Prefund Kredit adalah Prefund yang disediakan untuk \nLayanan Transfer Dana dan Layanan Pembayaran \nReguler. \n28. Prefund Debit adalah Prefund yang disediakan untuk \nLayanan \nKliring \nWarkat \nDebit \ndan \nLayanan \nPenagihan Reguler. \n \n \n\n\n \n29. Bank adalah bank umum sebagaimana dimaksud \ndalam Undang-Undang yang mengatur mengenai \nperbankan termasuk kantor cabang dari bank di luar \nnegeri dan bank umum syariah termasuk unit usaha \nsyariah sebagaimana dimaksud dalam Undang-\nUndang yang mengatur mengenai perbankan syariah. \n30. Sistem Sentral Kliring yang selanjutnya disingkat SSK \nadalah infrastruktur SKNBI di Penyelenggara yang \ndigunakan dalam penyelenggaraan SKNBI. \n31. Sistem Peserta Kliring yang selanjutnya disingkat SPK \nadalah \ninfrastruktur \nSKNBI \ndi \nPeserta \nyang \nterhubung dengan SSK yang digunakan oleh Peserta \ndalam penyelenggaraan SKNBI. \n32. Sistem Bank Indonesia-Real Time Gross Settlement \nyang selanjutnya disebut Sistem BI-RTGS adalah \ninfrastruktur yang digunakan sebagai sarana transfer \ndana elektronik yang setelmennya dilakukan seketika \nper transaksi secara individual. \n33. Keadaan Tidak Normal adalah situasi atau kondisi \nyang terjadi sebagai akibat adanya gangguan atau \nkerusakan pada perangkat keras, perangkat lunak, \njaringan komunikasi, aplikasi, maupun sarana \npendukung \nyang \nmemengaruhi \nkelancaran \npenyelenggaraan SKNBI. \n34. Keadaan Darurat adalah suatu keadaan yang terjadi \ndi luar kekuasaan Penyelenggara dan/atau Peserta \nyang menyebabkan kegiatan operasional SKNBI tidak \ndapat diselenggarakan yang diakibatkan oleh, tetapi \ntidak terbatas pada kebakaran, kerusuhan massa, \nsabotase, dan bencana alam seperti gempa bumi dan \nbanjir yang dinyatakan oleh pihak penguasa atau \npejabat setempat yang berwenang, termasuk Bank \nIndonesia. \n35. Fasilitas Kontingensi adalah fasilitas yang disediakan \noleh Penyelenggara di lokasi Penyelenggara dan \nkantor perwakilan Bank Indonesia dalam negeri yang \ndapat digunakan oleh Peserta apabila terjadi Keadaan \nTidak Normal atau Keadaan Darurat di lokasi kantor \nPeserta. \n36. Kantor Perwakilan Bank Indonesia Dalam Negeri yang \nselanjutnya disingkat KPwDN adalah kantor Bank \nIndonesia selain kantor pusat Bank Indonesia yang \nmelaksanakan fungsi sistem pembayaran. \n37. Pertukaran Warkat Debit adalah pertukaran fisik \nWarkat Debit antar-Peserta di wilayah kliring yang \ndidasarkan pada DKE Warkat Debit yang telah \ndikirimkan oleh Peserta.   \n38. Wilayah Kliring adalah suatu wilayah yang telah \ndisetujui oleh Penyelenggara untuk melaksanakan \nkegiatan Pertukaran Warkat Debit. \n39. Wilayah Kliring Otomasi adalah Wilayah Kliring yang \nmelaksanakan kegiatan Pertukaran Warkat Debit \nsecara otomasi. \n\n\n \n40. Wilayah Kliring Manual adalah Wilayah Kliring yang \nmelaksanakan kegiatan Pertukaran Warkat Debit \nsecara manual. \n41. Koordinator \nPertukaran \nWarkat \nDebit \nyang \nselanjutnya \ndisebut \nKoordinator \nPWD \nadalah \nkoordinator Pertukaran Warkat Debit Bank Indonesia \ndan koordinator Pertukaran Warkat Debit selain \nBank Indonesia yang melaksanakan Pertukaran \nWarkat Debit di suatu Wilayah Kliring. \n42. Perwakilan Peserta adalah kantor Peserta di suatu \nWilayah Kliring yang ditunjuk sebagai wakil Peserta \nuntuk melaksanakan Pertukaran Warkat Debit yang \ndikliringkan di Wilayah Kliring tersebut. \n43. Bukti Penyerahan Warkat Debit yang selanjutnya \ndisingkat BPWD adalah dokumen kliring yang \ndigunakan di Wilayah Kliring Otomasi yang berfungsi \nsebagai alat kontrol dalam pelaksanaan kegiatan \nPertukaran Warkat Debit. \n44. Rincian Warkat Debit yang selanjutnya disingkat \nRWD adalah dokumen kliring yang digunakan di \nWilayah Kliring Manual yang berfungsi sebagai alat \nkontrol dalam pelaksanaan kegiatan Pertukaran \nWarkat Debit. \n45. Tanda Pengenal Petugas Kliring yang selanjutnya \ndisingkat \nTPPK \nadalah \ntanda \npengenal \nyang \ndigunakan oleh petugas kliring dalam kegiatan \nPertukaran Warkat Debit. \n46. Pigeon \nHole \nadalah sarana rak khusus \nyang \ndigunakan untuk menampung Warkat Debit yang \ndipertukarkan Peserta pada Wilayah Kliring Manual. \n47. Aplikasi \nPertukaran \nWarkat \nDebit \natau \nyang \nselanjutnya disebut Aplikasi PWD adalah sistem yang \nmemberikan \ninformasi \nrekapitulasi \npertukaran \nWarkat Debit pada Wilayah Kliring Manual. \n \n2. \nKetentuan huruf b Pasal 10 diubah sehingga berbunyi \nsebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang \ndimaksud dengan: \n1. \nPenyelenggaraan Transfer Dana dan Kliring Berjadwal \nadalah \nkegiatan \ndalam \nrangka \nmemproses \nperhitungan hak dan kewajiban antar peserta sistem \nkliring nasional Bank Indonesia yang setelmennya \ndilakukan pada waktu tertentu. \n2. \nSistem Kliring Nasional Bank \nIndonesia yang \nselanjutnya disingkat SKNBI adalah infrastruktur \nyang \ndigunakan \noleh \nBank \nIndonesia \ndalam \nPenyelenggaraan Transfer Dana dan Kliring Berjadwal \nuntuk memproses data keuangan elektronik pada \nlayanan transfer dana, layanan kliring warkat debit, \nlayanan pembayaran reguler, dan layanan penagihan \nreguler. \n3. \nPenyelenggara SKNBI yang selanjutnya disebut \nPenyelenggara adalah Bank Indonesia. \n \n\n\n \n4. \nPeserta SKNBI yang selanjutnya disebut Peserta \nadalah pihak yang telah memenuhi persyaratan dan \ntelah memperoleh persetujuan dari Penyelenggara \nsebagai Peserta. \n5. \nLayanan Transfer Dana adalah layanan dalam SKNBI \nyang memproses pemindahan sejumlah dana antar-\nPeserta dari 1 (satu) pengirim kepada 1 (satu) \npenerima. \n6. \nLayanan Kliring Warkat Debit adalah layanan dalam \nSKNBI yang memproses penagihan sejumlah dana \nyang dilakukan antar-Peserta dari 1 (satu) pengirim \ntagihan kepada 1 (satu) penerima tagihan, disertai \ndengan fisik warkat debit. \n7. \nLayanan Pembayaran Reguler adalah layanan dalam \nSKNBI yang memproses pemindahan sejumlah dana \nantar-Peserta dari 1 (satu) atau beberapa pengirim \nkepada 1 (satu) atau beberapa penerima. \n8. \nLayanan Penagihan Reguler adalah layanan dalam \nSKNBI yang memproses penagihan sejumlah dana \nantar-Peserta dari 1 (satu) pengirim tagihan kepada \nbeberapa penerima tagihan. \n9. \nData Keuangan Elektronik yang selanjutnya disingkat \nDKE adalah data keuangan dalam format elektronik \nyang digunakan sebagai dasar perhitungan dalam \npenyelenggaraan SKNBI. \n10. DKE Transfer Dana adalah DKE yang dibuat \nberdasarkan perintah transfer dana dan digunakan \nsebagai dasar perhitungan dalam Layanan Transfer \nDana. \n11. DKE Warkat \nDebit adalah DKE \nyang dibuat \nberdasarkan perintah transfer debit dan digunakan \nsebagai dasar perhitungan dalam Layanan Kliring \nWarkat Debit. \n12. DKE \nPembayaran \nadalah \nDKE \nyang \ndibuat \nberdasarkan perintah transfer dana dan digunakan \nsebagai \ndasar \nperhitungan \ndalam \nLayanan \nPembayaran Reguler. \n13. DKE Penagihan adalah DKE yang dibuat berdasarkan \nperintah transfer debit dan digunakan sebagai dasar \nperhitungan dalam Layanan Penagihan Reguler. \n14. Warkat Debit adalah alat pembayaran nontunai yang \ndiperhitungkan atas beban nasabah atau bank \nmelalui Layanan Kliring Warkat Debit. \n15. Kliring \nPenyerahan \nadalah \nkegiatan \nuntuk \nmemperhitungkan \nDKE \nWarkat \nDebit \nyang \ndisampaikan oleh Peserta pengirim kepada Peserta \npenerima melalui Penyelenggara. \n16. Kliring \nPengembalian \nadalah \nkegiatan \nuntuk \nmemperhitungkan \nDKE \nWarkat \nDebit \nyang \ndiperhitungkan dalam Kliring Penyerahan namun \nditolak oleh Peserta penerima berdasarkan alasan \nyang ditetapkan oleh Penyelenggara. \n \n \n\n\n \n17. Penyerahan \nTagihan \nadalah \nkegiatan \nuntuk \nmemperhitungkan DKE Penagihan yang disampaikan \noleh Peserta pengirim kepada Peserta penerima \nmelalui Penyelenggara. \n18. Pengembalian \nTagihan \nadalah \nkegiatan \nuntuk \nmemperhitungkan \nDKE \nPenagihan \nyang \ndiperhitungkan dalam Penyerahan Tagihan namun \nditolak oleh Peserta penerima berdasarkan alasan \nyang ditetapkan oleh Penyelenggara. \n19. Peserta Langsung Utama yang selanjutnya disingkat \nPLU adalah Peserta yang mengirimkan DKE ke \nPenyelenggara secara langsung dengan menggunakan \ninfrastruktur SKNBI dan setelmen dana dilakukan ke \nrekening setelmen dana Peserta yang bersangkutan. \n20. Peserta Langsung Afiliasi yang selanjutnya disingkat \nPLA adalah Peserta yang mengirimkan DKE ke \nPenyelenggara secara langsung dengan menggunakan \ninfrastruktur SKNBI Peserta yang bersangkutan dan \nsetelmen dana dilakukan ke rekening setelmen dana \nbank pembayar. \n21. Peserta Tidak Langsung yang selanjutnya disingkat \nPTL adalah Peserta yang mengirimkan DKE ke \nPenyelenggara secara tidak langsung melalui bank \npenerus dan setelmen dana dilakukan ke rekening \nsetelmen dana bank penerus. \n22. Bank Pembayar adalah PLU yang ditunjuk oleh PLA \nuntuk setelmen dana, penyediaan prefund, dan/atau \npembayaran \nkewajiban \nlainnya \ndalam \npenyelenggaraan SKNBI. \n23. Bank \nPenerus \nadalah \nPLU \nyang \nmemenuhi \npersyaratan dan telah memperoleh persetujuan dari \nPenyelenggara untuk \nmelaksanakan pengiriman \nDKE, penyediaan prefund, setelmen dana, dan/atau \npembayaran kewajiban lainnya untuk kepentingan \nPTL. \n24. Setelmen Dana adalah kegiatan pendebitan dan \npengkreditan rekening setelmen dana melalui Sistem \nBI-RTGS yang dilakukan berdasarkan perhitungan \nhak dan kewajiban masing-masing Peserta yang \ntimbul dalam penyelenggaraan SKNBI. \n25. Rekening Setelmen Dana adalah rekening Peserta \ndalam mata uang Rupiah yang ditatausahakan di \nBank Indonesia. \n26. Prefund adalah dana yang disediakan oleh Peserta \nuntuk memenuhi kewajiban dalam penyelenggaraan \nSKNBI. \n27. Prefund Kredit adalah Prefund yang disediakan untuk \nLayanan Transfer Dana dan Layanan Pembayaran \nReguler. \n28. Prefund Debit adalah Prefund yang disediakan untuk \nLayanan \nKliring \nWarkat \nDebit \ndan \nLayanan \nPenagihan Reguler. \n \n \n\n\n \n29. Bank adalah bank umum sebagaimana dimaksud \ndalam Undang-Undang yang mengatur mengenai \nperbankan termasuk kantor cabang dari bank di luar \nnegeri dan bank umum syariah termasuk unit usaha \nsyariah sebagaimana dimaksud dalam Undang-\nUndang yang mengatur mengenai perbankan syariah. \n30. Sistem Sentral Kliring yang selanjutnya disingkat SSK \nadalah infrastruktur SKNBI di Penyelenggara yang \ndigunakan dalam penyelenggaraan SKNBI. \n31. Sistem Peserta Kliring yang selanjutnya disingkat SPK \nadalah \ninfrastruktur \nSKNBI \ndi \nPeserta \nyang \nterhubung dengan SSK yang digunakan oleh Peserta \ndalam penyelenggaraan SKNBI. \n32. Sistem Bank Indonesia-Real Time Gross Settlement \nyang selanjutnya disebut Sistem BI-RTGS adalah \ninfrastruktur yang digunakan sebagai sarana transfer \ndana elektronik yang setelmennya dilakukan seketika \nper transaksi secara individual. \n33. Keadaan Tidak Normal adalah situasi atau kondisi \nyang terjadi sebagai akibat adanya gangguan atau \nkerusakan pada perangkat keras, perangkat lunak, \njaringan komunikasi, aplikasi, maupun sarana \npendukung \nyang \nmemengaruhi \nkelancaran \npenyelenggaraan SKNBI. \n34. Keadaan Darurat adalah suatu keadaan yang terjadi \ndi luar kekuasaan Penyelenggara dan/atau Peserta \nyang menyebabkan kegiatan operasional SKNBI tidak \ndapat diselenggarakan yang diakibatkan oleh, tetapi \ntidak terbatas pada kebakaran, kerusuhan massa, \nsabotase, dan bencana alam seperti gempa bumi dan \nbanjir yang dinyatakan oleh pihak penguasa atau \npejabat setempat yang berwenang, termasuk Bank \nIndonesia. \n35. Fasilitas Kontingensi adalah fasilitas yang disediakan \noleh Penyelenggara di lokasi Penyelenggara dan \nkantor perwakilan Bank Indonesia dalam negeri yang \ndapat digunakan oleh Peserta apabila terjadi Keadaan \nTidak Normal atau Keadaan Darurat di lokasi kantor \nPeserta. \n36. Kantor Perwakilan Bank Indonesia Dalam Negeri yang \nselanjutnya disingkat KPwDN adalah kantor Bank \nIndonesia selain kantor pusat Bank Indonesia yang \nmelaksanakan fungsi sistem pembayaran. \n37. Pertukaran Warkat Debit adalah pertukaran fisik \nWarkat Debit antar-Peserta di wilayah kliring yang \ndidasarkan pada DKE Warkat Debit yang telah \ndikirimkan oleh Peserta.   \n38. Wilayah Kliring adalah suatu wilayah yang telah \ndisetujui oleh Penyelenggara untuk melaksanakan \nkegiatan Pertukaran Warkat Debit. \n39. Wilayah Kliring Otomasi adalah Wilayah Kliring yang \nmelaksanakan kegiatan Pertukaran Warkat Debit \nsecara otomasi. \n\n\n \n40. Wilayah Kliring Manual adalah Wilayah Kliring yang \nmelaksanakan kegiatan Pertukaran Warkat Debit \nsecara manual. \n41. Koordinator \nPertukaran \nWarkat \nDebit \nyang \nselanjutnya \ndisebut \nKoordinator \nPWD \nadalah \nkoordinator Pertukaran Warkat Debit Bank Indonesia \ndan koordinator Pertukaran Warkat Debit selain \nBank Indonesia yang melaksanakan Pertukaran \nWarkat Debit di suatu Wilayah Kliring. \n42. Perwakilan Peserta adalah kantor Peserta di suatu \nWilayah Kliring yang ditunjuk sebagai wakil Peserta \nuntuk melaksanakan Pertukaran Warkat Debit yang \ndikliringkan di Wilayah Kliring tersebut. \n43. Bukti Penyerahan Warkat Debit yang selanjutnya \ndisingkat BPWD adalah dokumen kliring yang \ndigunakan di Wilayah Kliring Otomasi yang berfungsi \nsebagai alat kontrol dalam pelaksanaan kegiatan \nPertukaran Warkat Debit. \n44. Rincian Warkat Debit yang selanjutnya disingkat \nRWD adalah dokumen kliring yang digunakan di \nWilayah Kliring Manual yang berfungsi sebagai alat \nkontrol dalam pelaksanaan kegiatan Pertukaran \nWarkat Debit. \n45. Tanda Pengenal Petugas Kliring yang selanjutnya \ndisingkat \nTPPK \nadalah \ntanda \npengenal \nyang \ndigunakan oleh petugas kliring dalam kegiatan \nPertukaran Warkat Debit. \n46. Pigeon \nHole \nadalah sarana rak khusus \nyang \ndigunakan untuk menampung Warkat Debit yang \ndipertukarkan Peserta pada Wilayah Kliring Manual. \n47. Aplikasi \nPertukaran \nWarkat \nDebit \natau \nyang \nselanjutnya disebut Aplikasi PWD adalah sistem yang \nmemberikan \ninformasi \nrekapitulasi \npertukaran \nWarkat Debit pada Wilayah Kliring Manual. \n \n2. \nKetentuan huruf b Pasal 10 diubah sehingga berbunyi \nsebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Security audit sebagaimana dimaksud dalam Pasal 7 huruf \nc dilakukan dengan ketentuan sebagai berikut: \na. \ndilakukan oleh satuan kerja audit internal Peserta \ndan/atau auditor eksternal; \nb. \ndilakukan paling sedikit setiap 1 (satu) tahun sekali \nterhitung sejak menjadi Peserta atau jika terjadi \nperubahan dalam sistem teknologi informasi internal \nPeserta yang terkait dengan SKNBI, security audit \ndilakukan paling lama 6 (enam) bulan setelah terjadi \nperubahan; dan \nc. \ncakupan security audit paling sedikit mencakup \nruang lingkup sebagaimana tercantum dalam huruf \nB Lampiran I. \n \n \n\n\n \n3. \nKetentuan Pasal 11 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Security audit sebagaimana dimaksud dalam Pasal 7 huruf \nc dilakukan dengan ketentuan sebagai berikut: \na. \ndilakukan oleh satuan kerja audit internal Peserta \ndan/atau auditor eksternal; \nb. \ndilakukan paling sedikit setiap 1 (satu) tahun sekali \nterhitung sejak menjadi Peserta atau jika terjadi \nperubahan dalam sistem teknologi informasi internal \nPeserta yang terkait dengan SKNBI, security audit \ndilakukan paling lama 6 (enam) bulan setelah terjadi \nperubahan; dan \nc. \ncakupan security audit paling sedikit mencakup \nruang lingkup sebagaimana tercantum dalam huruf \nB Lampiran I. \n \n \n\n\n \n3. \nKetentuan Pasal 11 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPenyusunan kebijakan teknologi informasi terkait \ndengan SKNBI sebagaimana dimaksud dalam Pasal 7 \nhuruf d mencakup aspek manusia, proses, dan \nteknologi paling sedikit terdiri atas: \na. \npengamanan \ndata, \nsistem \naplikasi, \ndan \ninfrastruktur teknologi informasi;  \nb. \npengamanan pihak ketiga; dan \nc. \npelindungan konsumen dan manajemen fraud. \n(2) \nDalam hal terdapat perubahan kebijakan dan/atau \nprosedur penggunaan teknologi informasi, dilakukan \npenginian kebijakan teknologi informasi.  \n(3) \nPenginian kebijakan teknologi informasi sebagaimana \ndimaksud pada ayat (2) dilakukan paling lama               \n6 (enam) bulan sejak perubahan kebijakan dan/atau \nprosedur penggunaan teknologi informasi. \n(4) \nPenyusunan dan penginian kebijakan teknologi \ninformasi dilaksanakan sesuai dengan ketentuan \nperaturan \nperundang-undangan \nmengenai \nmanajemen risiko dalam penggunaan teknologi \ninformasi serta keamanan sistem informasi dan \nketahanan siber. \n \n4. \nKetentuan huruf d Pasal 13 diubah sehingga berbunyi \nsebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyusunan kebijakan teknologi informasi terkait \ndengan SKNBI sebagaimana dimaksud dalam Pasal 7 \nhuruf d mencakup aspek manusia, proses, dan \nteknologi paling sedikit terdiri atas: \na. \npengamanan \ndata, \nsistem \naplikasi, \ndan \ninfrastruktur teknologi informasi;  \nb. \npengamanan pihak ketiga; dan \nc. \npelindungan konsumen dan manajemen fraud."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat perubahan kebijakan dan/atau \nprosedur penggunaan teknologi informasi, dilakukan \npenginian kebijakan teknologi informasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penginian kebijakan teknologi informasi sebagaimana \ndimaksud pada ayat (2) dilakukan paling lama               \n6 (enam) bulan sejak perubahan kebijakan dan/atau \nprosedur penggunaan teknologi informasi."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyusunan dan penginian kebijakan teknologi \ninformasi dilaksanakan sesuai dengan ketentuan \nperaturan \nperundang-undangan \nmengenai \nmanajemen risiko dalam penggunaan teknologi \ninformasi serta keamanan sistem informasi dan \nketahanan siber. \n \n4. \nKetentuan huruf d Pasal 13 diubah sehingga berbunyi \nsebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Pemeliharaan data sebagaimana dimaksud dalam Pasal 7 \nhuruf h dilakukan dengan ketentuan sebagai berikut: \na. \npemeliharaan data dilakukan terhadap data yang \ntersimpan dalam media elektronik dan/atau dalam \nbentuk hasil olahan komputer SKNBI; \nb. \ndata sebagaimana dimaksud dalam huruf a harus \nmendapat pengamanan yang memadai serta terjaga \nkerahasiaannya; \nc. \nmelakukan \npencadangan \ndata \nsebagaimana \ndimaksud dalam huruf a dalam media elektronik yang \nberbeda dengan media elektronik sebagaimana \ndimaksud dalam huruf a; \nd. \nmemastikan data sebagaimana dimaksud dalam \nhuruf a dan cadangannya sebagaimana dimaksud \ndalam huruf c dapat dipergunakan sebagaimana \nmestinya; dan \ne. \nmenyimpan seluruh data sebagaimana dimaksud \ndalam huruf a dan cadangannya sebagaimana \ndimaksud dalam huruf c sesuai dengan ketentuan \npengarsipan yang berlaku di internal Peserta dan \nmasa retensi sesuai ketentuan peraturan perundang-\nundangan \nyang \nmengatur \nmengenai \ndokumen \nperusahaan. \n \n\n\n \n5. \nKetentuan ayat (1) Pasal 18 diubah sehingga berbunyi \nsebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pemeliharaan data sebagaimana dimaksud dalam Pasal 7 \nhuruf h dilakukan dengan ketentuan sebagai berikut: \na. \npemeliharaan data dilakukan terhadap data yang \ntersimpan dalam media elektronik dan/atau dalam \nbentuk hasil olahan komputer SKNBI; \nb. \ndata sebagaimana dimaksud dalam huruf a harus \nmendapat pengamanan yang memadai serta terjaga \nkerahasiaannya; \nc. \nmelakukan \npencadangan \ndata \nsebagaimana \ndimaksud dalam huruf a dalam media elektronik yang \nberbeda dengan media elektronik sebagaimana \ndimaksud dalam huruf a; \nd. \nmemastikan data sebagaimana dimaksud dalam \nhuruf a dan cadangannya sebagaimana dimaksud \ndalam huruf c dapat dipergunakan sebagaimana \nmestinya; dan \ne. \nmenyimpan seluruh data sebagaimana dimaksud \ndalam huruf a dan cadangannya sebagaimana \ndimaksud dalam huruf c sesuai dengan ketentuan \npengarsipan yang berlaku di internal Peserta dan \nmasa retensi sesuai ketentuan peraturan perundang-\nundangan \nyang \nmengatur \nmengenai \ndokumen \nperusahaan. \n \n\n\n \n5. \nKetentuan ayat (1) Pasal 18 diubah sehingga berbunyi \nsebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nUji coba koneksi sistem cadangan secara berkala  \nsebagaimana dimaksud dalam Pasal 17 huruf b \ndilakukan dengan ketentuan sebagai berikut: \na. \nuji coba koneksi dilakukan terhadap:  \n1. SPK cadangan; \n2. jaringan komunikasi data cadangan; dan \n3. data cadangan,  \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun; \nb. \nuji coba koneksi sebagaimana dimaksud dalam \nhuruf a dapat dilakukan dengan menggunakan \ninfrastruktur utama \nPenyelenggara \ndengan \njadwal yang ditetapkan oleh Penyelenggara \nsetelah seluruh layanan SKNBI di Penyelenggara \nberakhir;  \nc. \npenggunaan infrastruktur utama Penyelenggara \ndilakukan paling lama 1 (satu) jam; dan \nd. \ndalam hal peserta telah menggunakan jaringan \nkomunikasi data berbasis software defined wide \narea \nnetwork, \nuji \ncoba \nkoneksi \njaringan \nkomunikasi \ndata \ncadangan \nsebagaimana \ndimaksud dalam huruf a angka 2 tidak perlu \ndilakukan. \n(2) \nUji coba koneksi sistem cadangan secara berkala \nsebagaimana dimaksud pada ayat (1) dilakukan \ndengan prosedur sebagai berikut: \na. \nPeserta menyampaikan permohonan uji coba \nkoneksi sistem cadangan melalui administrative \nmessage kepada Penyelenggara paling lambat 1 \n(satu) hari kerja sebelum pelaksanaan uji coba \nkoneksi sistem cadangan; \nb. \nPenyelenggara memberitahukan persetujuan uji \ncoba koneksi sistem cadangan kepada Peserta \nmelalui administrative message; dan \nc. \nPeserta menyampaikan laporan tertulis hasil \npelaksanaan uji coba koneksi sistem cadangan \nkepada Penyelenggara paling lambat 1 (satu) hari \nkerja setelah pelaksanaan uji coba selesai \ndilakukan. \n \n6. \nDi antara Paragraf 2 dan Paragraf 3 pada Bagian Kesatu \nBab IV disisipkan 1 (satu) paragraf yakni Paragraf 2A \nsehingga berbunyi sebagai berikut: \n \nParagraf 2A \nPerubahan Jam Kegiatan Pertukaran Warkat Debit \n \n \n \n \n \n\n\n \n7. \nDi antara Pasal 26 dan Pasal 27 disisipkan 1 (satu) pasal \nyakni Pasal 26A sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Uji coba koneksi sistem cadangan secara berkala  \nsebagaimana dimaksud dalam Pasal 17 huruf b \ndilakukan dengan ketentuan sebagai berikut: \na. \nuji coba koneksi dilakukan terhadap:  \n1. SPK cadangan; \n2. jaringan komunikasi data cadangan; dan \n3. data cadangan,  \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun; \nb. \nuji coba koneksi sebagaimana dimaksud dalam \nhuruf a dapat dilakukan dengan menggunakan \ninfrastruktur utama \nPenyelenggara \ndengan \njadwal yang ditetapkan oleh Penyelenggara \nsetelah seluruh layanan SKNBI di Penyelenggara \nberakhir;  \nc. \npenggunaan infrastruktur utama Penyelenggara \ndilakukan paling lama 1 (satu) jam; dan \nd. \ndalam hal peserta telah menggunakan jaringan \nkomunikasi data berbasis software defined wide \narea \nnetwork, \nuji \ncoba \nkoneksi \njaringan \nkomunikasi \ndata \ncadangan \nsebagaimana \ndimaksud dalam huruf a angka 2 tidak perlu \ndilakukan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Uji coba koneksi sistem cadangan secara berkala \nsebagaimana dimaksud pada ayat (1) dilakukan \ndengan prosedur sebagai berikut: \na. \nPeserta menyampaikan permohonan uji coba \nkoneksi sistem cadangan melalui administrative \nmessage kepada Penyelenggara paling lambat 1 \n(satu) hari kerja sebelum pelaksanaan uji coba \nkoneksi sistem cadangan; \nb. \nPenyelenggara memberitahukan persetujuan uji \ncoba koneksi sistem cadangan kepada Peserta \nmelalui administrative message; dan \nc. \nPeserta menyampaikan laporan tertulis hasil \npelaksanaan uji coba koneksi sistem cadangan \nkepada Penyelenggara paling lambat 1 (satu) hari \nkerja setelah pelaksanaan uji coba selesai \ndilakukan. \n \n6. \nDi antara Paragraf 2 dan Paragraf 3 pada Bagian Kesatu \nBab IV disisipkan 1 (satu) paragraf yakni Paragraf 2A \nsehingga berbunyi sebagai berikut: \n \nParagraf 2A \nPerubahan Jam Kegiatan Pertukaran Warkat Debit \n \n \n \n \n \n\n\n \n7. \nDi antara Pasal 26 dan Pasal 27 disisipkan 1 (satu) pasal \nyakni Pasal 26A sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPerwakilan  Peserta di Wilayah Kliring melakukan \nkegiatan Pertukaran Warkat Debit sesuai dengan jam \nLayanan Kliring Warkat Debit dan periode kegiatan \nberdasarkan zona sebagaimana tercantum dalam \nhuruf B Lampiran II. \n(2) \nDalam melakukan kegiatan Pertukaran Warkat Debit \nsebagaimana dimaksud pada ayat (1) Perwakilan \nPeserta di Wilayah Kliring  dapat mengajukan \npermohonan perubahan zona melalui Koordinator \nPWD. \n(3) \nPermohonan perubahan zona sebagaimana dimaksud \npada ayat (2) diajukan dengan mempertimbangkan: \na. \njumlah rata-rata harian DKE Warkat Debit yang \ndipertukarkan di wilayah tersebut; \nb. \nkebutuhan waktu dalam melakukan verifikasi \nnasabah; \nc. \nkebutuhan \nwaktu \ndalam \nmemproses \ncek \ndan/atau bilyet giro; \nd. \nkebutuhan waktu pemrosesan Layanan Kliring \nWarkat Debit;  \ne. \nkondisi geografis; dan/atau \nf. \npertimbangan lainnya. \n(4) \nKoordinator \nPWD \nmenyampaikan \npermohonan \nsebagaimana dimaksud pada ayat (2) kepada: \na. \nPenyelenggara, untuk Wilayah Kliring yang \nberada di wilayah kerja kantor pusat Bank \nIndonesia; atau \nb. \nKPwDN, untuk Wilayah Kliring yang berada di \nluar wilayah kerja kantor pusat Bank Indonesia.  \n(5) \nPenyelenggara atau KPwDN memberikan  persetujuan \natau penolakan terhadap permohonan yang diajukan \noleh Koordinator PWD sebagaimana dimaksud pada \nayat (4). \n(6) \nDalam kondisi tertentu, penetapan zona dalam \nWilayah Kliring dapat dilakukan oleh Penyelenggara. \n(7) \nTata cara pengajuan permohonan perubahan zona \nLayanan Kliring Warkat Debit sebagaimana dimaksud \npada ayat (2) mengacu pada butir E.3 Lampiran II.  \n \n8. \nKetentuan Pasal 59 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perwakilan  Peserta di Wilayah Kliring melakukan \nkegiatan Pertukaran Warkat Debit sesuai dengan jam \nLayanan Kliring Warkat Debit dan periode kegiatan \nberdasarkan zona sebagaimana tercantum dalam \nhuruf B Lampiran II."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam melakukan kegiatan Pertukaran Warkat Debit \nsebagaimana dimaksud pada ayat (1) Perwakilan \nPeserta di Wilayah Kliring  dapat mengajukan \npermohonan perubahan zona melalui Koordinator \nPWD."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Permohonan perubahan zona sebagaimana dimaksud \npada ayat (2) diajukan dengan mempertimbangkan: \na. \njumlah rata-rata harian DKE Warkat Debit yang \ndipertukarkan di wilayah tersebut; \nb. \nkebutuhan waktu dalam melakukan verifikasi \nnasabah; \nc. \nkebutuhan \nwaktu \ndalam \nmemproses \ncek \ndan/atau bilyet giro; \nd. \nkebutuhan waktu pemrosesan Layanan Kliring \nWarkat Debit;  \ne. \nkondisi geografis; dan/atau \nf. \npertimbangan lainnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Koordinator \nPWD \nmenyampaikan \npermohonan \nsebagaimana dimaksud pada ayat (2) kepada: \na. \nPenyelenggara, untuk Wilayah Kliring yang \nberada di wilayah kerja kantor pusat Bank \nIndonesia; atau \nb. \nKPwDN, untuk Wilayah Kliring yang berada di \nluar wilayah kerja kantor pusat Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penyelenggara atau KPwDN memberikan  persetujuan \natau penolakan terhadap permohonan yang diajukan \noleh Koordinator PWD sebagaimana dimaksud pada \nayat (4)."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam kondisi tertentu, penetapan zona dalam \nWilayah Kliring dapat dilakukan oleh Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Tata cara pengajuan permohonan perubahan zona \nLayanan Kliring Warkat Debit sebagaimana dimaksud \npada ayat (2) mengacu pada butir E.3 Lampiran II.  \n \n8. \nKetentuan Pasal 59 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPertukaran Warkat Debit dalam suatu Wilayah Kliring \ndapat diselenggarakan secara terpusat atau bilateral \noleh Koordinator PWD. \n(2) \nKegiatan \nPertukaran \nWarkat \nDebit \nyang \ndiselenggarakan \nsecara \nterpusat \nsebagaimana \ndimaksud pada ayat (1) dilakukan secara otomasi \natau secara manual. \n\n\n \n(3) \nKegiatan Pertukaran Warkat Debit yang dilakukan \nsecara bilateral sebagaimana dimaksud pada ayat (1) \ndilakukan secara manual.  \n(4) \nKegiatan Pertukaran Warkat Debit yang dilakukan \nsecara manual sebagaimana dimaksud pada ayat (2) \ndan ayat (3) dapat didukung dengan Aplikasi PWD. \n(5) \nKegiatan Pertukaran Warkat Debit secara bilateral \nsebagaimana dimaksud pada ayat (3) hanya dapat \ndilakukan berdasarkan permohonan oleh Koordinator \nPWD yang disetujui oleh: \na. \nPenyelenggara, untuk Wilayah Kliring yang \nberada di wilayah kerja kantor pusat Bank \nIndonesia; atau \nb. \nKPwDN, untuk Wilayah Kliring yang berada di \nluar wilayah kerja kantor pusat Bank Indonesia. \n(6) \nPermohonan sebagaimana dimaksud pada ayat (5) \nharus \nmempertimbangkan \nadanya \ntambahan \nefisiensi dalam pelaksanaan Pertukaran Warkat Debit \nsecara bilateral. \n(7) \nTata cara pengajuan permohonan sebagaimana \ndimaksud pada ayat (5) tercantum dalam Lampiran \nVII. \n \n9. \nKetentuan huruf b Pasal 60 diubah, serta  penjelasan \nhuruf b Pasal 60 diubah sebagaimana tercantum dalam \npenjelasan, sehingga Pasal 60 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pertukaran Warkat Debit dalam suatu Wilayah Kliring \ndapat diselenggarakan secara terpusat atau bilateral \noleh Koordinator PWD."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kegiatan \nPertukaran \nWarkat \nDebit \nyang \ndiselenggarakan \nsecara \nterpusat \nsebagaimana \ndimaksud pada ayat (1) dilakukan secara otomasi \natau secara manual."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kegiatan Pertukaran Warkat Debit yang dilakukan \nsecara bilateral sebagaimana dimaksud pada ayat (1) \ndilakukan secara manual."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kegiatan Pertukaran Warkat Debit yang dilakukan \nsecara manual sebagaimana dimaksud pada ayat (2) \ndan ayat (3) dapat didukung dengan Aplikasi PWD."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kegiatan Pertukaran Warkat Debit secara bilateral \nsebagaimana dimaksud pada ayat (3) hanya dapat \ndilakukan berdasarkan permohonan oleh Koordinator \nPWD yang disetujui oleh: \na. \nPenyelenggara, untuk Wilayah Kliring yang \nberada di wilayah kerja kantor pusat Bank \nIndonesia; atau \nb. \nKPwDN, untuk Wilayah Kliring yang berada di \nluar wilayah kerja kantor pusat Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Permohonan sebagaimana dimaksud pada ayat (5) \nharus \nmempertimbangkan \nadanya \ntambahan \nefisiensi dalam pelaksanaan Pertukaran Warkat Debit \nsecara bilateral."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Tata cara pengajuan permohonan sebagaimana \ndimaksud pada ayat (5) tercantum dalam Lampiran \nVII. \n \n9. \nKetentuan huruf b Pasal 60 diubah, serta  penjelasan \nhuruf b Pasal 60 diubah sebagaimana tercantum dalam \npenjelasan, sehingga Pasal 60 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Dalam menyelenggarakan Pertukaran Warkat Debit \nsebagaimana dimaksud dalam Pasal 59, Koordinator PWD \nbertanggungjawab: \na. \nmenyusun kebijakan dan prosedur tertulis mengenai \npelaksanaan Pertukaran Warkat Debit; \nb. \nmenyediakan \nsarana \ndan \nprasarana \ndalam \nPertukaran Warkat Debit untuk Pertukaran Warkat \nDebit secara terpusat sebagaimana dimaksud dalam \nPasal 59 ayat (2); \nc. \nmenjaga kelancaran pelaksanaan Pertukaran Warkat \nDebit; \nd. \nmengelola \nadministrasi kepesertaan \nPertukaran \nWarkat Debit;  \ne. \nmenyediakan fasilitas penyelesaian permasalahan \ndalam proses Pertukaran Warkat Debit; dan \nf. \nmenyediakan sarana kontingensi Pertukaran Warkat \nDebit pada saat terjadi Keadaan Tidak Normal \ndan/atau Keadaan Darurat. \n \n \n \n \n \n \n \n \n \n\n\n \n10. Ketentuan Pasal 63 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam menyelenggarakan Pertukaran Warkat Debit \nsebagaimana dimaksud dalam Pasal 59, Koordinator PWD \nbertanggungjawab: \na. \nmenyusun kebijakan dan prosedur tertulis mengenai \npelaksanaan Pertukaran Warkat Debit; \nb. \nmenyediakan \nsarana \ndan \nprasarana \ndalam \nPertukaran Warkat Debit untuk Pertukaran Warkat \nDebit secara terpusat sebagaimana dimaksud dalam \nPasal 59 ayat (2); \nc. \nmenjaga kelancaran pelaksanaan Pertukaran Warkat \nDebit; \nd. \nmengelola \nadministrasi kepesertaan \nPertukaran \nWarkat Debit;  \ne. \nmenyediakan fasilitas penyelesaian permasalahan \ndalam proses Pertukaran Warkat Debit; dan \nf. \nmenyediakan sarana kontingensi Pertukaran Warkat \nDebit pada saat terjadi Keadaan Tidak Normal \ndan/atau Keadaan Darurat. \n \n \n \n \n \n \n \n \n \n\n\n \n10. Ketentuan Pasal 63 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nDalam menjaga kelancaran Pertukaran Warkat Debit \nsebagaimana dimaksud dalam Pasal 60 huruf c, \nKoordinator PWD di Wilayah Kliring Manual paling \nsedikit: \na. \nmenetapkan jadwal Pertukaran Warkat Debit; \nb. \nmenyelenggarakan Pertukaran Warkat Debit \nsesuai dengan jadwal sebagaimana dimaksud \ndalam huruf a; \nc. \nmemantau pelaksanaan Pertukaran Warkat \nDebit; dan  \nd. \nmenetapkan langkah yang harus dilakukan \napabila terjadi Keadaan Tidak Normal dan/atau \nKeadaan Darurat. \n(2) Dalam hal Pertukaran Warkat Debit di Wilayah \nKliring Manual didukung dengan Aplikasi PWD, \nKoordinator PWD mengelola user Perwakilan Peserta \ndalam Aplikasi PWD. \n \n11. Ketentuan ayat (1) huruf d Pasal 68 diubah dan Pasal 68 \nditambahkan 1 (satu) ayat yakni ayat (4), sehingga Pasal \n68 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam menjaga kelancaran Pertukaran Warkat Debit \nsebagaimana dimaksud dalam Pasal 60 huruf c, \nKoordinator PWD di Wilayah Kliring Manual paling \nsedikit: \na. \nmenetapkan jadwal Pertukaran Warkat Debit; \nb. \nmenyelenggarakan Pertukaran Warkat Debit \nsesuai dengan jadwal sebagaimana dimaksud \ndalam huruf a; \nc. \nmemantau pelaksanaan Pertukaran Warkat \nDebit; dan  \nd. \nmenetapkan langkah yang harus dilakukan \napabila terjadi Keadaan Tidak Normal dan/atau \nKeadaan Darurat."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Pertukaran Warkat Debit di Wilayah \nKliring Manual didukung dengan Aplikasi PWD, \nKoordinator PWD mengelola user Perwakilan Peserta \ndalam Aplikasi PWD. \n \n11. Ketentuan ayat (1) huruf d Pasal 68 diubah dan Pasal 68 \nditambahkan 1 (satu) ayat yakni ayat (4), sehingga Pasal \n68 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "68",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPembukaan Wilayah Kliring yang tidak terdapat \nKPwDN \nharus \nmemenuhi \npersyaratan sebagai \nberikut: \na. \npaling kurang terdapat 4 (empat) kantor dari \nPeserta yang berbeda; \nb. \nrata-rata harian jumlah Warkat Debit yang \nberedar dalam periode 6 (enam) bulan terakhir \nberjumlah paling kurang 30 (tiga puluh) Warkat \nDebit; \nc. \nterdapat kantor Peserta yang ditunjuk sebagai \nKoordinator PWD selain Bank Indonesia; dan \nd. \nkesepakatan tertulis mengenai: \n1. \npembukaan Wilayah Kliring;  \n2. \nusulan \nkantor \nPeserta yang \nditunjuk \nsebagai Koordinator PWD selain Bank \nIndonesia, dari seluruh kantor Peserta yang \nmendukung pembukaan Wilayah Kliring; \ndan \n3. \nzona Layanan Kliring Warkat Debit. \n(2) \nKoordinator PWD selain Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf c harus memenuhi \npersyaratan sebagai berikut: \na. \nmampu menyediakan sarana dan prasarana \ndalam Pertukaran Warkat Debit; dan \nb. \nmemperoleh persetujuan dari kantor pusat \nPeserta yang bersangkutan untuk ditunjuk \nsebagai Koordinator PWD selain Bank Indonesia. \n \n\n\n \n(3) \nKesepakatan tertulis sebagaimana dimaksud pada \nayat (1) huruf d ditandatangani oleh seluruh \npemimpin \nkantor \nPeserta \nyang \nmendukung \npembukaan Wilayah Kliring tersebut. \n(4) \nPermohonan penetapan zona Layanan Kliring Warkat \nDebit sebagaimana dimaksud pada ayat (1) huruf d \nangka 3 diajukan dengan mempertimbangkan: \na. \njumlah rata-rata harian DKE Warkat Debit yang \ndipertukarkan di wilayah tersebut; \nb. \nkebutuhan waktu dalam melakukan verifikasi \nnasabah; \nc. \nkebutuhan \nwaktu \ndalam \nmemproses \ncek \ndan/atau bilyet giro; \nd. \nkebutuhan waktu pemrosesan Layanan Kliring \nWarkat Debit;  \ne. \nkondisi geografis; dan/atau \nf. \npertimbangan lainnya. \n \n12. Ketentuan ayat (4) Pasal 71 diubah sehingga berbunyi \nsebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pembukaan Wilayah Kliring yang tidak terdapat \nKPwDN \nharus \nmemenuhi \npersyaratan sebagai \nberikut: \na. \npaling kurang terdapat 4 (empat) kantor dari \nPeserta yang berbeda; \nb. \nrata-rata harian jumlah Warkat Debit yang \nberedar dalam periode 6 (enam) bulan terakhir \nberjumlah paling kurang 30 (tiga puluh) Warkat \nDebit; \nc. \nterdapat kantor Peserta yang ditunjuk sebagai \nKoordinator PWD selain Bank Indonesia; dan \nd. \nkesepakatan tertulis mengenai: \n1. \npembukaan Wilayah Kliring;  \n2. \nusulan \nkantor \nPeserta yang \nditunjuk \nsebagai Koordinator PWD selain Bank \nIndonesia, dari seluruh kantor Peserta yang \nmendukung pembukaan Wilayah Kliring; \ndan \n3. \nzona Layanan Kliring Warkat Debit."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinator PWD selain Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf c harus memenuhi \npersyaratan sebagai berikut: \na. \nmampu menyediakan sarana dan prasarana \ndalam Pertukaran Warkat Debit; dan \nb. \nmemperoleh persetujuan dari kantor pusat \nPeserta yang bersangkutan untuk ditunjuk \nsebagai Koordinator PWD selain Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kesepakatan tertulis sebagaimana dimaksud pada \nayat (1) huruf d ditandatangani oleh seluruh \npemimpin \nkantor \nPeserta \nyang \nmendukung \npembukaan Wilayah Kliring tersebut."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Permohonan penetapan zona Layanan Kliring Warkat \nDebit sebagaimana dimaksud pada ayat (1) huruf d \nangka 3 diajukan dengan mempertimbangkan: \na. \njumlah rata-rata harian DKE Warkat Debit yang \ndipertukarkan di wilayah tersebut; \nb. \nkebutuhan waktu dalam melakukan verifikasi \nnasabah; \nc. \nkebutuhan \nwaktu \ndalam \nmemproses \ncek \ndan/atau bilyet giro; \nd. \nkebutuhan waktu pemrosesan Layanan Kliring \nWarkat Debit;  \ne. \nkondisi geografis; dan/atau \nf. \npertimbangan lainnya. \n \n12. Ketentuan ayat (4) Pasal 71 diubah sehingga berbunyi \nsebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "71",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPenutupan Wilayah Kliring yang tidak terdapat \nKPwDN dapat dilakukan berdasarkan: \na. \nkebijakan Penyelenggara atau KPwDN; atau \nb. \nkesepakatan tertulis dari seluruh kantor Peserta \ndi Wilayah Kliring tersebut. \n(2) \nPenutupan Wilayah Kliring sebagaimana dimaksud \npada ayat (1) huruf b dilakukan berdasarkan \npermohonan Koordinator PWD selain Bank Indonesia. \n(3) \nPermohonan sebagaimana dimaksud pada ayat (2) \ndisampaikan secara tertulis kepada: \na. \nPenyelenggara, \nuntuk \npenutupan \nWilayah \nKliring yang berada di wilayah kerja kantor pusat \nBank Indonesia; atau \nb. \nKPwDN, untuk penutupan Wilayah Kliring yang \nberada di luar wilayah kerja kantor pusat Bank \nIndonesia. \n(4) \nPenyelenggara atau KPwDN memberikan persetujuan \natau penolakan atas permohonan sebagaimana \ndimaksud pada ayat (2) paling lama 14 (empat belas) \nhari kerja terhitung sejak dokumen permohonan \nditerima secara lengkap dan benar. \n(5) \nTata cara penutupan Wilayah Kliring sebagaimana \ndimaksud pada ayat (1) mengacu dalam butir E.3 \nLampiran VII. \n \n \n \n \n \n \n\n\n \n13. Ketentuan ayat (1) Pasal 83 diubah dan Pasal 83 \nditambahkan 1 (satu) ayat yakni ayat (3), sehingga Pasal \n83 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penutupan Wilayah Kliring yang tidak terdapat \nKPwDN dapat dilakukan berdasarkan: \na. \nkebijakan Penyelenggara atau KPwDN; atau \nb. \nkesepakatan tertulis dari seluruh kantor Peserta \ndi Wilayah Kliring tersebut."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penutupan Wilayah Kliring sebagaimana dimaksud \npada ayat (1) huruf b dilakukan berdasarkan \npermohonan Koordinator PWD selain Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Permohonan sebagaimana dimaksud pada ayat (2) \ndisampaikan secara tertulis kepada: \na. \nPenyelenggara, \nuntuk \npenutupan \nWilayah \nKliring yang berada di wilayah kerja kantor pusat \nBank Indonesia; atau \nb. \nKPwDN, untuk penutupan Wilayah Kliring yang \nberada di luar wilayah kerja kantor pusat Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyelenggara atau KPwDN memberikan persetujuan \natau penolakan atas permohonan sebagaimana \ndimaksud pada ayat (2) paling lama 14 (empat belas) \nhari kerja terhitung sejak dokumen permohonan \nditerima secara lengkap dan benar."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Tata cara penutupan Wilayah Kliring sebagaimana \ndimaksud pada ayat (1) mengacu dalam butir E.3 \nLampiran VII. \n \n \n \n \n \n \n\n\n \n13. Ketentuan ayat (1) Pasal 83 diubah dan Pasal 83 \nditambahkan 1 (satu) ayat yakni ayat (3), sehingga Pasal \n83 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "83",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nDalam kegiatan Pertukaran Warkat Debit, petugas di \nPerwakilan Peserta melakukan kegiatan sebagai \nberikut: \na. \nmemilah Warkat Debit berdasarkan Peserta \npenerima dan membubuhkan stempel kliring \npada setiap Warkat Debit dengan tata cara \nsebagaimana dimaksud dalam huruf K Lampiran \nVII; dan \nb. \nmenyiapkan RWD Kliring Penyerahan dan/atau \nRWD \nKliring \nPengembalian \ndengan \nmembubuhkan stempel kliring, tanda tangan, \ndan nama jelas pada lembar pertama dan lembar \nkedua RWD Kliring Penyerahan dan/atau RWD \nKliring Pengembalian.  \n(2) \nFormat stempel kliring sebagaimana dimaksud pada \nayat (1) huruf b mengacu pada huruf L Lampiran VII. \n(3) \nKegiatan Pertukaran Warkat Debit sebagaimana \ndimaksud pada ayat (1) dapat didukung dengan \nAplikasi PWD. \n \n14. Judul Paragraf 2 pada Bagian Kedua Bab VII diubah \nsehingga berbunyi sebagai berikut: \n \nParagraf 2 \nKegiatan Pertukaran Warkat Debit secara Terpusat di \nKantor Koordinator PWD \n \n15. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit, petugas di \nPerwakilan Peserta melakukan kegiatan sebagai \nberikut: \na. \nmemilah Warkat Debit berdasarkan Peserta \npenerima dan membubuhkan stempel kliring \npada setiap Warkat Debit dengan tata cara \nsebagaimana dimaksud dalam huruf K Lampiran \nVII; dan \nb. \nmenyiapkan RWD Kliring Penyerahan dan/atau \nRWD \nKliring \nPengembalian \ndengan \nmembubuhkan stempel kliring, tanda tangan, \ndan nama jelas pada lembar pertama dan lembar \nkedua RWD Kliring Penyerahan dan/atau RWD \nKliring Pengembalian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Format stempel kliring sebagaimana dimaksud pada \nayat (1) huruf b mengacu pada huruf L Lampiran VII."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kegiatan Pertukaran Warkat Debit sebagaimana \ndimaksud pada ayat (1) dapat didukung dengan \nAplikasi PWD. \n \n14. Judul Paragraf 2 pada Bagian Kedua Bab VII diubah \nsehingga berbunyi sebagai berikut: \n \nParagraf 2 \nKegiatan Pertukaran Warkat Debit secara Terpusat di \nKantor Koordinator PWD \n \n15. Ketentuan Pasal 84 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "84",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nDalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npengirim \nmelakukan kegiatan sebagai berikut: \na. \nmencantumkan waktu penyerahan pada RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian; \nb. \nmenyerahkan kepada petugas kliring penerima: \n1. \nWarkat Debit; dan \n2. \nlembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian \nsebagaimana \ndimaksud \ndalam huruf a; \n(2) \nDalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npenerima \nmelakukan kegiatan sebagai berikut: \na. \nmenerima dari petugas kliring pengirim: \n1. \nWarkat Debit; dan \n2. \nlembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \n\n\n \nPengembalian sebagaimana dimaksud pada \nayat (1) huruf b angka 2;  \nb. \nmencantumkan tanda tangan dan nama jelas \npada lembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian jika Warkat Debit yang diterima \ntelah sesuai dengan RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian; dan  \nc. \nmengembalikan lembar kedua RWD Kliring \nPenyerahan \ndan/atau \nRWD \nKliring \nPengembalian kepada petugas kliring pengirim. \n(3) \nDalam hal kegiatan Pertukaran Warkat Debit di \nkantor Koordinator PWD didukung dengan Aplikasi \nPWD, petugas kliring pengirim dan petugas kliring \npenerima \nmelakukan \nkegiatan \nsebagaimana \ndimaksud pada ayat (1) dan  ayat (2) disertai dengan \nkegiatan: \na. \nmemastikan \njumlah \nWarkat \nDebit \nyang \ndisampaikan \nsesuai \ndengan \ndata \nlaporan \nAplikasi PWD; dan \nb. \nmelakukan \nkonfirmasi \ndata \nlaporan \npada \nAplikasi PWD. \n \n16. Ketentuan Pasal 86 ditambahkan 1 (satu) ayat yakni ayat \n(5) sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npengirim \nmelakukan kegiatan sebagai berikut: \na. \nmencantumkan waktu penyerahan pada RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian; \nb. \nmenyerahkan kepada petugas kliring penerima: \n1. \nWarkat Debit; dan \n2. \nlembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian \nsebagaimana \ndimaksud \ndalam huruf a;"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npenerima \nmelakukan kegiatan sebagai berikut: \na. \nmenerima dari petugas kliring pengirim: \n1. \nWarkat Debit; dan \n2. \nlembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \n\n\n \nPengembalian sebagaimana dimaksud pada \nayat (1) huruf b angka 2;  \nb. \nmencantumkan tanda tangan dan nama jelas \npada lembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian jika Warkat Debit yang diterima \ntelah sesuai dengan RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian; dan  \nc. \nmengembalikan lembar kedua RWD Kliring \nPenyerahan \ndan/atau \nRWD \nKliring \nPengembalian kepada petugas kliring pengirim."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal kegiatan Pertukaran Warkat Debit di \nkantor Koordinator PWD didukung dengan Aplikasi \nPWD, petugas kliring pengirim dan petugas kliring \npenerima \nmelakukan \nkegiatan \nsebagaimana \ndimaksud pada ayat (1) dan  ayat (2) disertai dengan \nkegiatan: \na. \nmemastikan \njumlah \nWarkat \nDebit \nyang \ndisampaikan \nsesuai \ndengan \ndata \nlaporan \nAplikasi PWD; dan \nb. \nmelakukan \nkonfirmasi \ndata \nlaporan \npada \nAplikasi PWD. \n \n16. Ketentuan Pasal 86 ditambahkan 1 (satu) ayat yakni ayat"
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPetugas kliring harus hadir pada Kliring Penyerahan \ndan \nKliring \nPengembalian \nsesuai jadwal \nyang \nditetapkan oleh Koordinator PWD. \n(2) \nDalam hal petugas kliring hadir setelah jadwal yang \nditetapkan oleh Koordinator PWD namun tidak \nmelewati batas waktu 30 (tiga puluh) menit dari \njadwal yang telah ditetapkan maka Pertukaran \nWarkat Debit dilakukan sesuai kebijakan Koordinator \nPWD. \n(3) \nPetugas kliring dinyatakan tidak hadir apabila \npetugas kliring tidak hadir sampai dengan 30 (tiga \npuluh) menit dari jadwal yang telah ditetapkan oleh \nKoordinator PWD. \n(4) \nDalam hal petugas kliring dinyatakan tidak hadir \nsebagaimana \ndimaksud \npada \nayat \n(3) maka \npenyelesaian Pertukaran Warkat Debit dilakukan di \nluar mekanisme Pertukaran Warkat Debit. \n(5) \nDalam hal kegiatan Pertukaran Warkat Debit di \nkantor Koordinator PWD didukung dengan Aplikasi \nPWD, petugas kliring dapat tidak hadir selama tidak \nterdapat Warkat Debit yang diserahkan dan/atau \nditerima. \n \n \n \n \n \n\n\n \n17. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Bab VII \nyakni Paragraf 3 sehingga berbunyi sebagai berikut:  \n \nParagraf 3 \nKegiatan Pertukaran Warkat Debit secara Bilateral  \n \n18. Di antara Pasal 86 dan Pasal 87 disisipkan 1 (satu) pasal \nyakni Pasal 86A sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Petugas kliring harus hadir pada Kliring Penyerahan \ndan \nKliring \nPengembalian \nsesuai jadwal \nyang \nditetapkan oleh Koordinator PWD."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal petugas kliring hadir setelah jadwal yang \nditetapkan oleh Koordinator PWD namun tidak \nmelewati batas waktu 30 (tiga puluh) menit dari \njadwal yang telah ditetapkan maka Pertukaran \nWarkat Debit dilakukan sesuai kebijakan Koordinator \nPWD."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Petugas kliring dinyatakan tidak hadir apabila \npetugas kliring tidak hadir sampai dengan 30 (tiga \npuluh) menit dari jadwal yang telah ditetapkan oleh \nKoordinator PWD."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal petugas kliring dinyatakan tidak hadir \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "maka \npenyelesaian Pertukaran Warkat Debit dilakukan di \nluar mekanisme Pertukaran Warkat Debit."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal kegiatan Pertukaran Warkat Debit di \nkantor Koordinator PWD didukung dengan Aplikasi \nPWD, petugas kliring dapat tidak hadir selama tidak \nterdapat Warkat Debit yang diserahkan dan/atau \nditerima. \n \n \n \n \n \n\n\n \n17. Ditambahkan 1 (satu) paragraf pada Bagian Kedua Bab VII \nyakni Paragraf 3 sehingga berbunyi sebagai berikut:  \n \nParagraf 3 \nKegiatan Pertukaran Warkat Debit secara Bilateral  \n \n18. Di antara Pasal 86 dan Pasal 87 disisipkan 1 (satu) pasal \nyakni Pasal 86A sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nKetentuan mengenai kegiatan Pertukaran Warkat \nDebit secara terpusat sebagaimana dimaksud dalam \nPasal 84, Pasal 85, dan Pasal 86 berlaku secara \nmutatis mutandis terhadap kegiatan Pertukaran \nWarkat Debit secara bilateral. \n(2) \nKegiatan Pertukaran Warkat Debit secara bilateral \nsebagaimana dimaksud pada ayat (1) diatur dalam \nprosedur pelaksanaan kegiatan Pertukaran Warkat \nDebit secara bilateral.  \n(3) \nProsedur pelaksanaan kegiatan Pertukaran Warkat \nDebit secara bilateral sebagaimana dimaksud pada \nayat (2) disusun oleh Koordinator PWD sebagai \npersyaratan \npermohonan \nkegiatan \nPertukaran \nWarkat Debit secara bilateral. \n \n19. Di antara Bagian Kedua dan Bagian Ketiga Bab VI \ndisisipkan 1 (satu) Bagian yakni Bagian Kedua A sehingga \nberbunyi sebagai berikut: \n \nBagian Kedua A \nTata Cara Pertukaran Warkat Debit di Wilayah Kliring \nManual dengan Sarana Pigeon Hole \n \n20. Ditambahkan 1 (satu) paragraf pada Bagian Kedua A Bab \nVI yakni Paragraf 1 sehingga berbunyi sebagai berikut: \n \nParagraf 1 \nKegiatan di Perwakilan Peserta \n \n21. Di antara Pasal 86 dan Pasal 87 disisipkan 1 (satu) pasal \nyakni Pasal 86B sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Ketentuan mengenai kegiatan Pertukaran Warkat \nDebit secara terpusat sebagaimana dimaksud dalam \nPasal 84, Pasal 85, dan Pasal 86 berlaku secara \nmutatis mutandis terhadap kegiatan Pertukaran \nWarkat Debit secara bilateral."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kegiatan Pertukaran Warkat Debit secara bilateral \nsebagaimana dimaksud pada ayat (1) diatur dalam \nprosedur pelaksanaan kegiatan Pertukaran Warkat \nDebit secara bilateral."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Prosedur pelaksanaan kegiatan Pertukaran Warkat \nDebit secara bilateral sebagaimana dimaksud pada \nayat (2) disusun oleh Koordinator PWD sebagai \npersyaratan \npermohonan \nkegiatan \nPertukaran \nWarkat Debit secara bilateral. \n \n19. Di antara Bagian Kedua dan Bagian Ketiga Bab VI \ndisisipkan 1 (satu) Bagian yakni Bagian Kedua A sehingga \nberbunyi sebagai berikut: \n \nBagian Kedua A \nTata Cara Pertukaran Warkat Debit di Wilayah Kliring \nManual dengan Sarana Pigeon Hole \n \n20. Ditambahkan 1 (satu) paragraf pada Bagian Kedua A Bab \nVI yakni Paragraf 1 sehingga berbunyi sebagai berikut: \n \nParagraf 1 \nKegiatan di Perwakilan Peserta \n \n21. Di antara Pasal 86 dan Pasal 87 disisipkan 1 (satu) pasal \nyakni Pasal 86B sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Dalam kegiatan Pertukaran Warkat Debit, petugas di \nPerwakilan Peserta melakukan kegiatan sebagaimana \ndiatur dalam Pasal 83. \n \n22. Ditambahkan 1 (satu) paragraf pada Bagian Kedua A Bab \nVI yakni Paragraf 2 sehingga berbunyi sebagai berikut: \n \nParagraf 2 \nKegiatan di Kantor Koordinator PWD \n \n\n\n \n23. Di antara Pasal 86B dan Pasal 87 disisipkan 2 (dua) pasal \nyakni Pasal 86C dan Pasal 86D sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit, petugas di \nPerwakilan Peserta melakukan kegiatan sebagaimana \ndiatur dalam Pasal 83. \n \n22. Ditambahkan 1 (satu) paragraf pada Bagian Kedua A Bab \nVI yakni Paragraf 2 sehingga berbunyi sebagai berikut: \n \nParagraf 2 \nKegiatan di Kantor Koordinator PWD \n \n\n\n \n23. Di antara Pasal 86B dan Pasal 87 disisipkan 2 (dua) pasal \nyakni Pasal 86C dan Pasal 86D sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nDalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npengirim \nmelakukan kegiatan sebagai berikut: \na. \nmencantumkan waktu penyerahan pada RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian; dan \nb. \nmeletakkan Warkat Debit serta lembar pertama \ndan lembar kedua RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian pada \nmasing-masing Pigeon \nHole sesuai dengan \nPeserta penerima. \n(2) \nDalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npenerima \nmelakukan kegiatan sebagai berikut: \na. \nmengambil Warkat Debit serta lembar pertama \ndan lembar kedua RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian yang \ndiletakkan oleh petugas kliring pengirim pada \nPigeon Hole Pertukaran Warkat Debit; \nb. \nmencantumkan tanda tangan dan nama jelas \npada lembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian jika Warkat Debit yang diterima \ntelah sesuai dengan RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian; dan \nc. \nmeletakkan \nlembar \nkedua \nRWD \nKliring \nPenyerahan \ndan/atau \nRWD \nKliring \nPengembalian pada masing-masing Pigeon Hole \nsesuai dengan Peserta pengirim. \n(3) \nDalam hal kegiatan Pertukaran Warkat Debit di \nkantor Koordinator PWD didukung dengan Aplikasi \nPWD, petugas kliring pengirim dan petugas kliring \npenerima \nmelakukan \nkegiatan \nsebagaimana \ndimaksud pada ayat (1) dan ayat (2) disertai dengan \nkegiatan: \na. \nmemastikan \njumlah \nWarkat \nDebit \nyang \ndisampaikan \nsesuai \ndengan \ndata \nlaporan \nAplikasi PWD; dan \nb. \nmelakukan \nkonfirmasi \ndata \nlaporan \npada \nAplikasi PWD.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npengirim \nmelakukan kegiatan sebagai berikut: \na. \nmencantumkan waktu penyerahan pada RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian; dan \nb. \nmeletakkan Warkat Debit serta lembar pertama \ndan lembar kedua RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian pada \nmasing-masing Pigeon \nHole sesuai dengan \nPeserta penerima."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator \nPWD, \npetugas \nkliring \npenerima \nmelakukan kegiatan sebagai berikut: \na. \nmengambil Warkat Debit serta lembar pertama \ndan lembar kedua RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian yang \ndiletakkan oleh petugas kliring pengirim pada \nPigeon Hole Pertukaran Warkat Debit; \nb. \nmencantumkan tanda tangan dan nama jelas \npada lembar pertama dan lembar kedua RWD \nKliring Penyerahan dan/atau RWD Kliring \nPengembalian jika Warkat Debit yang diterima \ntelah sesuai dengan RWD Kliring Penyerahan \ndan/atau RWD Kliring Pengembalian; dan \nc. \nmeletakkan \nlembar \nkedua \nRWD \nKliring \nPenyerahan \ndan/atau \nRWD \nKliring \nPengembalian pada masing-masing Pigeon Hole \nsesuai dengan Peserta pengirim."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal kegiatan Pertukaran Warkat Debit di \nkantor Koordinator PWD didukung dengan Aplikasi \nPWD, petugas kliring pengirim dan petugas kliring \npenerima \nmelakukan \nkegiatan \nsebagaimana \ndimaksud pada ayat (1) dan ayat (2) disertai dengan \nkegiatan: \na. \nmemastikan \njumlah \nWarkat \nDebit \nyang \ndisampaikan \nsesuai \ndengan \ndata \nlaporan \nAplikasi PWD; dan \nb. \nmelakukan \nkonfirmasi \ndata \nlaporan \npada \nAplikasi PWD."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86D",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Dalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator PWD, petugas Koordinator PWD melakukan \nkegiatan sebagaimana diatur dalam Pasal 85. \n \n \n \n \n\n\n \n24. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam kegiatan Pertukaran Warkat Debit di kantor \nKoordinator PWD, petugas Koordinator PWD melakukan \nkegiatan sebagaimana diatur dalam Pasal 85. \n \n \n \n \n\n\n \n24. Ketentuan Pasal 92 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "92",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPenyelenggara menetapkan biaya penggunaan SKNBI \nkepada Peserta dalam penyelenggaraan SKNBI. \n(2) \nBesarnya biaya penggunaan SKNBI sebagaimana \ndimaksud pada ayat (1) tidak termasuk pajak \npertambahan nilai (PPN). \n(3) \nPenyelenggara menetapkan batas maksimum biaya \ntransaksi melalui SKNBI yang dapat dikenakan oleh \nPeserta kepada nasabah. \n(4) \nBiaya \npenggunaan \nSKNBI \nkepada \nPeserta \nsebagaimana dimaksud pada ayat (2) tercantum \ndalam Lampiran VIII yang merupakan bagian tidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur \nini. \n \n25. Ketentuan ayat (1) dan ayat (2) Pasal 95 diubah, sehingga \nPasal 95 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara menetapkan biaya penggunaan SKNBI \nkepada Peserta dalam penyelenggaraan SKNBI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Besarnya biaya penggunaan SKNBI sebagaimana \ndimaksud pada ayat (1) tidak termasuk pajak \npertambahan nilai (PPN)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara menetapkan batas maksimum biaya \ntransaksi melalui SKNBI yang dapat dikenakan oleh \nPeserta kepada nasabah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Biaya \npenggunaan \nSKNBI \nkepada \nPeserta \nsebagaimana dimaksud pada ayat (2) tercantum \ndalam Lampiran VIII yang merupakan bagian tidak \nterpisahkan dari Peraturan Anggota Dewan Gubernur \nini. \n \n25. Ketentuan ayat (1) dan ayat (2) Pasal 95 diubah, sehingga \nPasal 95 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "95",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta dapat mengenakan biaya transaksi dengan \nbatas maksimum kepada nasabah yang ditetapkan \nPenyelenggara sebagaimana dimaksud dalam Pasal \n92 ayat (3) yaitu: \na. \nRp2.900,00 (dua ribu sembilan ratus rupiah) per \nDKE Transfer Dana, untuk Layanan Transfer \nDana; \nb. \nRp5.000,00 (lima ribu rupiah) per DKE Warkat \nDebit, untuk Layanan Kliring Warkat Debit; \nc. \nRp5.000,00 (lima ribu rupiah) per rincian DKE \nPembayaran, \nuntuk \nLayanan \nPembayaran \nReguler; dan \nd. \nRp5.000,00 (lima ribu rupiah) per rincian DKE \nPenagihan yang dibebankan kepada nasabah \ntertagih, untuk Layanan Penagihan Reguler. \n(2) \nPeserta wajib mengumumkan: \na. \nbesarnya \nbiaya \npenggunaan \nSKNBI \nyang \nditetapkan \nPenyelenggara \nkepada \nPeserta \nsebagaimana dimaksud dalam Pasal 92 ayat (1); \ndan \nb. \nbesarnya biaya transaksi melalui SKNBI yang \nditetapkan dan dikenakan oleh Peserta kepada \nnasabah. \n(3) \nPengumuman sebagaimana dimaksud pada ayat (2) \nharus diletakkan di setiap kantor Peserta pada \ntempat yang mudah dilihat oleh nasabah. \n(4) \nDalam \nrangka \npengumuman \nbiaya \ntransaksi \nsebagaimana dimaksud pada ayat (2) huruf b, Peserta \nharus menyampaikan laporan kepada Penyelenggara \nmengenai besarnya biaya transaksi melalui SKNBI \nyang dibebankan kepada nasabah. \n \n\n\n \n(5) \nDalam hal terdapat perubahan biaya sebagaimana \ndimaksud pada ayat (2) huruf b, Peserta harus \nmenyampaikan \nperubahan \nbiaya \nkepada \nPenyelenggara paling lama 7 (tujuh) hari kerja sejak \npenyesuaian biaya transaksi. \n \n26. Di antara Pasal 95 dan Pasal 96 disisipkan 1 (satu) pasal \nyakni Pasal 95A sehingga berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta dapat mengenakan biaya transaksi dengan \nbatas maksimum kepada nasabah yang ditetapkan \nPenyelenggara sebagaimana dimaksud dalam Pasal \n92 ayat (3) yaitu: \na. \nRp2.900,00 (dua ribu sembilan ratus rupiah) per \nDKE Transfer Dana, untuk Layanan Transfer \nDana; \nb. \nRp5.000,00 (lima ribu rupiah) per DKE Warkat \nDebit, untuk Layanan Kliring Warkat Debit; \nc. \nRp5.000,00 (lima ribu rupiah) per rincian DKE \nPembayaran, \nuntuk \nLayanan \nPembayaran \nReguler; dan \nd. \nRp5.000,00 (lima ribu rupiah) per rincian DKE \nPenagihan yang dibebankan kepada nasabah \ntertagih, untuk Layanan Penagihan Reguler."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peserta wajib mengumumkan: \na. \nbesarnya \nbiaya \npenggunaan \nSKNBI \nyang \nditetapkan \nPenyelenggara \nkepada \nPeserta \nsebagaimana dimaksud dalam Pasal 92 ayat (1); \ndan \nb. \nbesarnya biaya transaksi melalui SKNBI yang \nditetapkan dan dikenakan oleh Peserta kepada \nnasabah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengumuman sebagaimana dimaksud pada ayat (2) \nharus diletakkan di setiap kantor Peserta pada \ntempat yang mudah dilihat oleh nasabah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nrangka \npengumuman \nbiaya \ntransaksi \nsebagaimana dimaksud pada ayat (2) huruf b, Peserta \nharus menyampaikan laporan kepada Penyelenggara \nmengenai besarnya biaya transaksi melalui SKNBI \nyang dibebankan kepada nasabah."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat perubahan biaya sebagaimana \ndimaksud pada ayat (2) huruf b, Peserta harus \nmenyampaikan \nperubahan \nbiaya \nkepada \nPenyelenggara paling lama 7 (tujuh) hari kerja sejak \npenyesuaian biaya transaksi. \n \n26. Di antara Pasal 95 dan Pasal 96 disisipkan 1 (satu) pasal \nyakni Pasal 95A sehingga berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "95A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1)  Penyelenggara dapat melakukan evaluasi atas biaya \nkepada \nPeserta dalam \npenyelenggaraan SKNBI \nsebagaimana dimaksud dalam Pasal 92 ayat (1) \ndan/atau batas maksimum biaya \nyang dapat \ndikenakan oleh Peserta kepada nasabah sebagaimana \ndimaksud dalam Pasal 95 ayat (1).  \n(2)  Dalam hal terdapat perubahan biaya kepada Peserta \ndan/atau batas maksimum biaya \nyang dapat \ndikenakan oleh Peserta kepada nasabah berdasarkan \nevaluasi sebagaimana dimaksud pada ayat (1), \nperubahan tersebut ditetapkan melalui keputusan \nAnggota Dewan Gubernur Bank Indonesia.  \n \n27. Ketentuan ayat (1) dan ayat (2) Pasal 114 diubah, sehingga \nPasal 114 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara dapat melakukan evaluasi atas biaya \nkepada \nPeserta dalam \npenyelenggaraan SKNBI \nsebagaimana dimaksud dalam Pasal 92 ayat (1) \ndan/atau batas maksimum biaya \nyang dapat \ndikenakan oleh Peserta kepada nasabah sebagaimana \ndimaksud dalam Pasal 95 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat perubahan biaya kepada Peserta \ndan/atau batas maksimum biaya \nyang dapat \ndikenakan oleh Peserta kepada nasabah berdasarkan \nevaluasi sebagaimana dimaksud pada ayat (1), \nperubahan tersebut ditetapkan melalui keputusan \nAnggota Dewan Gubernur Bank Indonesia.  \n \n27. Ketentuan ayat (1) dan ayat (2) Pasal 114 diubah, sehingga \nPasal 114 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "114",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nKegiatan korespondensi terkait penyelenggaraan \nSKNBI disampaikan kepada satuan kerja yang \nmelaksanakan \nfungsi \npenyelenggaraan \nsistem \npembayaran ditujukan ke alamat: \nDepartemen Penyelenggaraan Sistem Pembayaran \nDivisi Operasional Sistem Pembayaran Ritel \nGedung D Lantai 3 \nJalan M. H. Thamrin No. 2 \nJakarta 10350. \n(2) \nKegiatan \nkorespondensi \nterkait \npemantauan \nkepatuhan Peserta disampaikan kepada satuan kerja \nyang melaksanakan fungsi penyelenggaraan sistem \npembayaran ditujukan ke alamat: \nDepartemen Penyelenggaraan Sistem Pembayaran \nDivisi Kepatuhan, Informasi, dan Manajemen Intern \nGedung D Lantai 3 \nJalan M. H. Thamrin No. 2 \nJakarta 10350 \n(3) \nDalam hal terjadi perubahan alamat sebagaimana \ndimaksud \npada ayat (1) dan ayat (2) maka \nPenyelenggara memberitahukan perubahan tersebut \nmelalui surat yang dapat didahului dengan sarana \nfaksimili, dan/atau sarana elektronik lainnya. \n \n28. Ketentuan huruf A angka 2.b.2) diubah sehingga menjadi \nsebagaimana \ntercantum \ndalam \nLampiran \nI \nyang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n\n\n \n29. Ketentuan huruf B angka 3 sampai dengan angka 6 \ndihapus, dan huruf E ditambahkan angka 3 sehingga \nmenjadi sebagaimana tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \n30. Ketentuan huruf A angka 3, huruf D angka 1, huruf E, \nhuruf H, dan huruf K diubah, serta ditambah ketentuan \nhuruf N, sehingga menjadi sebagaimana tercantum dalam \nLampiran VII yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini. \n \n31. Ketentuan huruf A angka 1 dan huruf C angka 1 diubah \nsehingga \nmenjadi \nsebagaimana \ntercantum \ndalam \nLampiran VIII yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini. \n \n32. Ketentuan huruf C angka 4 diubah sehingga menjadi \nsebagaimana tercantum dalam \nLampiran \nIX \nyang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \nPasal II \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Juni 2024          \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n     FILIANINGSIH HENDARTA \n \n \nTTD \n\n\n \n \n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 5 TAHUN 2024 \nTENTANG  \nPERUBAHAN ATAS PERATURAN ANGGOTA DEWAN GUBERNUR  \nNOMOR 21/12/PADG/2019 TENTANG PENYELENGGARAAN TRANSFER DANA \nDAN KLIRING BERJADWAL OLEH BANK INDONESIA \n \nI. \nUMUM \nBank Indonesia selalu berupaya untuk mendukung kebutuhan \nmasyarakat \nterhadap \npeningkatan \nefisiensi \ndan \nmitigasi \nrisiko \npenyelenggaraan jasa sistem pembayaran. Sehubungan dengan hal \ntersebut, maka dilakukan pengembangan sarana pendukung, serta \npenyesuaian kriteria penetapan zona wilayah kliring, dan mekanisme dalam \nkegiatan pertukaran warkat debit dalam penyelenggaraan transfer dana \ndan kliring berjadwal oleh Bank Indonesia serta pengaturan kegiatan \npertukaran warkat secara terpusat atau bilateral. \nSelanjutnya sebagai bagian dari upaya percepatan digitalisasi sistem \npembayaran untuk meningkatkan efisiensi transaksi dan perluasan \nekosistem ekonomi keuangan digital, diperlukan juga penyesuaian \nkebijakan biaya transaksi. Penyesuaian kebijakan biaya transaksi meliputi \nbiaya kepada Peserta dalam penyelenggaraan SKNBI dan batas maksimum \nbiaya yang dapat dikenakan oleh Peserta kepada nasabah.  \nBerdasarkan hal tersebut di atas, perlu dilakukan perubahan atas \nPeraturan Anggota Dewan Gubernur Nomor 21/12/PADG/2019 tentang \nPenyelenggaraan Transfer Dana dan Kliring Berjadwal oleh Bank Indonesia.\n \nII.  PASAL DEMI PASAL  \n \nPasal I \nAngka 1",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kegiatan korespondensi terkait penyelenggaraan \nSKNBI disampaikan kepada satuan kerja yang \nmelaksanakan \nfungsi \npenyelenggaraan \nsistem \npembayaran ditujukan ke alamat: \nDepartemen Penyelenggaraan Sistem Pembayaran \nDivisi Operasional Sistem Pembayaran Ritel \nGedung D Lantai 3 \nJalan M. H. Thamrin No. 2 \nJakarta 10350."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kegiatan \nkorespondensi \nterkait \npemantauan \nkepatuhan Peserta disampaikan kepada satuan kerja \nyang melaksanakan fungsi penyelenggaraan sistem \npembayaran ditujukan ke alamat: \nDepartemen Penyelenggaraan Sistem Pembayaran \nDivisi Kepatuhan, Informasi, dan Manajemen Intern \nGedung D Lantai 3 \nJalan M. H. Thamrin No. 2 \nJakarta 10350"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terjadi perubahan alamat sebagaimana \ndimaksud \npada ayat (1) dan ayat (2) maka \nPenyelenggara memberitahukan perubahan tersebut \nmelalui surat yang dapat didahului dengan sarana \nfaksimili, dan/atau sarana elektronik lainnya. \n \n28. Ketentuan huruf A angka 2.b.2) diubah sehingga menjadi \nsebagaimana \ntercantum \ndalam \nLampiran \nI \nyang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n\n\n \n29. Ketentuan huruf B angka 3 sampai dengan angka 6 \ndihapus, dan huruf E ditambahkan angka 3 sehingga \nmenjadi sebagaimana tercantum dalam Lampiran II yang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \n30. Ketentuan huruf A angka 3, huruf D angka 1, huruf E, \nhuruf H, dan huruf K diubah, serta ditambah ketentuan \nhuruf N, sehingga menjadi sebagaimana tercantum dalam \nLampiran VII yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini. \n \n31. Ketentuan huruf A angka 1 dan huruf C angka 1 diubah \nsehingga \nmenjadi \nsebagaimana \ntercantum \ndalam \nLampiran VIII yang merupakan bagian tidak terpisahkan \ndari Peraturan Anggota Dewan Gubernur ini. \n \n32. Ketentuan huruf C angka 4 diubah sehingga menjadi \nsebagaimana tercantum dalam \nLampiran \nIX \nyang \nmerupakan bagian tidak terpisahkan dari Peraturan \nAnggota Dewan Gubernur ini. \n \nPasal II \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Juni 2024          \n \nANGGOTA DEWAN GUBERNUR, \n \n \n \n     FILIANINGSIH HENDARTA \n \n \nTTD \n\n\n \n \n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 5 TAHUN 2024 \nTENTANG  \nPERUBAHAN ATAS PERATURAN ANGGOTA DEWAN GUBERNUR  \nNOMOR 21/12/PADG/2019 TENTANG PENYELENGGARAAN TRANSFER DANA \nDAN KLIRING BERJADWAL OLEH BANK INDONESIA \n \nI. \nUMUM \nBank Indonesia selalu berupaya untuk mendukung kebutuhan \nmasyarakat \nterhadap \npeningkatan \nefisiensi \ndan \nmitigasi \nrisiko \npenyelenggaraan jasa sistem pembayaran. Sehubungan dengan hal \ntersebut, maka dilakukan pengembangan sarana pendukung, serta \npenyesuaian kriteria penetapan zona wilayah kliring, dan mekanisme dalam \nkegiatan pertukaran warkat debit dalam penyelenggaraan transfer dana \ndan kliring berjadwal oleh Bank Indonesia serta pengaturan kegiatan \npertukaran warkat secara terpusat atau bilateral. \nSelanjutnya sebagai bagian dari upaya percepatan digitalisasi sistem \npembayaran untuk meningkatkan efisiensi transaksi dan perluasan \nekosistem ekonomi keuangan digital, diperlukan juga penyesuaian \nkebijakan biaya transaksi. Penyesuaian kebijakan biaya transaksi meliputi \nbiaya kepada Peserta dalam penyelenggaraan SKNBI dan batas maksimum \nbiaya yang dapat dikenakan oleh Peserta kepada nasabah.  \nBerdasarkan hal tersebut di atas, perlu dilakukan perubahan atas \nPeraturan Anggota Dewan Gubernur Nomor 21/12/PADG/2019 tentang \nPenyelenggaraan Transfer Dana dan Kliring Berjadwal oleh Bank Indonesia.\n \nII.  PASAL DEMI PASAL  \n \nPasal I \nAngka 1"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 2",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 2"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Huruf a \nDalam hal security audit dilakukan oleh auditor internal \nmaka dilengkapi dengan surat pernyataan pimpinan \nPeserta yang menyatakan bahwa pelaksanaan security \naudit dilakukan secara independen. \nHuruf b \nCukup jelas. \n\n\n \n \n \nHuruf c \nCukup jelas. \n \nAngka 3",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nDalam hal security audit dilakukan oleh auditor internal \nmaka dilengkapi dengan surat pernyataan pimpinan \nPeserta yang menyatakan bahwa pelaksanaan security \naudit dilakukan secara independen. \nHuruf b \nCukup jelas. \n\n\n \n \n \nHuruf c \nCukup jelas. \n \nAngka 3"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 4",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 4"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Huruf a \nData yang dipelihara antara lain: \n1. \ndata transaksi; \n2. \ndata \ndalam \naplikasi \nyang \ndiberikan \noleh \nPenyelenggara; dan \n3. \nketentuan dan prosedur yang diberikan oleh \nPenyelenggara. \nHuruf b \nPengamanan data antara lain berupa perlindungan dari \nakses pihak yang tidak berwenang. \nHuruf c \nCukup jelas. \nHuruf d \nKegiatan untuk \nmemastikan data \ndalam \nmedia \nelektronik dapat dipergunakan sebagaimana mestinya \nantara lain dengan cara melakukan pemeliharaan \nsecara berkala. \nHuruf e \nCukup jelas. \n \nAngka 5",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nData yang dipelihara antara lain: \n1. \ndata transaksi; \n2. \ndata \ndalam \naplikasi \nyang \ndiberikan \noleh \nPenyelenggara; dan \n3. \nketentuan dan prosedur yang diberikan oleh \nPenyelenggara. \nHuruf b \nPengamanan data antara lain berupa perlindungan dari \nakses pihak yang tidak berwenang. \nHuruf c \nCukup jelas. \nHuruf d \nKegiatan untuk \nmemastikan data \ndalam \nmedia \nelektronik dapat dipergunakan sebagaimana mestinya \nantara lain dengan cara melakukan pemeliharaan \nsecara berkala. \nHuruf e \nCukup jelas. \n \nAngka 5"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 6 \nCukup jelas. \n \nAngka 7",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 6 \nCukup jelas. \n \nAngka 7"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 8",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 8"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nPertukaran \nWarkat \nDebit \nsecara \nterpusat \nyang \ndilakukan secara manual dapat didukung dengan \nsarana berupa: \na. \nmeja dan kursi; dan/atau \nb. \nPigeon Hole; \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n\n\n \n \n \nAyat (5) \nCukup jelas. \nAyat (6) \nEfisiensi pelaksanaan Pertukaran Warkat Debit antara \nlain dipengaruhi oleh penurunan rata-rata harian \njumlah Warkat Debit atau lokasi Pertukaran Warkat \nDebit. \nAyat (7) \nCukup jelas. \n \nAngka 9",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nPertukaran \nWarkat \nDebit \nsecara \nterpusat \nyang \ndilakukan secara manual dapat didukung dengan \nsarana berupa: \na. \nmeja dan kursi; dan/atau \nb. \nPigeon Hole; \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n\n\n \n \n \nAyat (5) \nCukup jelas. \nAyat (6) \nEfisiensi pelaksanaan Pertukaran Warkat Debit antara \nlain dipengaruhi oleh penurunan rata-rata harian \njumlah Warkat Debit atau lokasi Pertukaran Warkat \nDebit. \nAyat (7) \nCukup jelas. \n \nAngka 9"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": ""
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Huruf b \nKetentuan m engenai keg iatan Pert ukaran Warkat \nDebit secara terpusat sebagaimana dimaksud dalam \nPasal 84, Pasal 85, dan Pasal 86 berlaku secara \nmut\natis mutandis\n \nter\nhada\np kegiatan Pertuka ran\n \nWar\nkat Debit secara bilateral\n.\n \na) \nmeja dan kursi; dan/atau \nKeg\niatan Pertukaran Warkat Debit secara bilateral\n \nseb\nagaimana dimaksud pada ayat (1)\n \ndiatur dalam \nCukup jelas. \n \nCukup jelas. \nProsedur\nCukup jelas. \n \nKoordinator PWD menyediakan sarana kontingensi \nPertukaran Warkat Debit agar kegiatan Pertukaran \nWarkat Debit tetap dapat dilaksanakan, antara lain \nlokasi cadangan Pertukaran Warkat Debit dan prosedur \nPertukaran Warkat Debit dalam Keadaan Tidak Normal \ndan/atau Keadaan Darurat. \n \n\n\n \n \n \nAngka 10",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf b \nKetentuan m engenai keg iatan Pert ukaran Warkat \nDebit secara terpusat sebagaimana dimaksud dalam \nPasal 84, Pasal 85, dan Pasal 86 berlaku secara \nmut\natis mutandis\n \nter\nhada\np kegiatan Pertuka ran\n \nWar\nkat Debit secara bilateral\n.\n \na) \nmeja dan kursi; dan/atau \nKeg\niatan Pertukaran Warkat Debit secara bilateral\n \nseb\nagaimana dimaksud pada ayat (1)\n \ndiatur dalam \nCukup jelas. \n \nCukup jelas. \nProsedur\nCukup jelas. \n \nKoordinator PWD menyediakan sarana kontingensi \nPertukaran Warkat Debit agar kegiatan Pertukaran \nWarkat Debit tetap dapat dilaksanakan, antara lain \nlokasi cadangan Pertukaran Warkat Debit dan prosedur \nPertukaran Warkat Debit dalam Keadaan Tidak Normal \ndan/atau Keadaan Darurat. \n \n\n\n \n \n \nAngka 10"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nHuruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nPemantauan \npelaksanaan Pertukaran \nWarkat \nDebit dilakukan antara lain melalui pencatatan jika \nterdapat selisih Warkat Debit dengan DKE Warkat \nDebit dan membantu penyelesaian permasalahan \nPWD antar Peserta. \nHuruf d \nCukup jelas. \nAyat (2) \n Cukup jelas. \n \nAngka 11",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a  \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nPemantauan \npelaksanaan Pertukaran \nWarkat \nDebit dilakukan antara lain melalui pencatatan jika \nterdapat selisih Warkat Debit dengan DKE Warkat \nDebit dan membantu penyelesaian permasalahan \nPWD antar Peserta. \nHuruf d \nCukup jelas. \nAyat (2) \n Cukup jelas. \n \nAngka 11"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "68",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 12",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 12"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "71",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nPenyelenggara atau KPwDN menyampaikan persetujuan \natau penolakan atas permohonan penutupan Wilayah \nKliring melalui surat kepada Koordinator PWD. Dalam \nhal permohonan penutupan Wilayah Kliring yang tidak \nterdapat KPwDN ditolak, Penyelenggara atau KPwDN \nmenyampaikan surat pemberitahuan penolakan disertai \ndengan keterangan alasan penolakan. \nAyat (5) \nCukup jelas. \n \nAngka 13",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nPenyelenggara atau KPwDN menyampaikan persetujuan \natau penolakan atas permohonan penutupan Wilayah \nKliring melalui surat kepada Koordinator PWD. Dalam \nhal permohonan penutupan Wilayah Kliring yang tidak \nterdapat KPwDN ditolak, Penyelenggara atau KPwDN \nmenyampaikan surat pemberitahuan penolakan disertai \ndengan keterangan alasan penolakan. \nAyat (5) \nCukup jelas. \n \nAngka 13"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "83",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 14 \nCukup jelas. \n \nAngka 15",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 14 \nCukup jelas. \n \nAngka 15"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "84",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 16",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 16"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nKebijakan Koordinator PWD antara lain berupa: \na. \ntetap mengizinkan petugas kliring melakukan \nPertukaran Warkat Debit di kantor Koordinator \nPWD; atau \nb. \nmeminta \npetugas \nkliring \nmenyelesaikan \nPertukaran Warkat Debit secara bilateral antar \nPeserta. \nAyat (3) \nCukup jelas. \nAyat (4) \nRisiko dan dampak akibat ketidakhadiran petugas \nkliring menjadi tanggung jawab Perwakilan Peserta yang \nbersangkutan sepenuhnya. \nAyat (5) \nCukup jelas. \n \nAngka 17 \nCukup jelas. \n \nAngka 18",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \nKebijakan Koordinator PWD antara lain berupa: \na. \ntetap mengizinkan petugas kliring melakukan \nPertukaran Warkat Debit di kantor Koordinator \nPWD; atau \nb. \nmeminta \npetugas \nkliring \nmenyelesaikan \nPertukaran Warkat Debit secara bilateral antar \nPeserta. \nAyat (3) \nCukup jelas. \nAyat (4) \nRisiko dan dampak akibat ketidakhadiran petugas \nkliring menjadi tanggung jawab Perwakilan Peserta yang \nbersangkutan sepenuhnya. \nAyat (5) \nCukup jelas. \n \nAngka 17 \nCukup jelas. \n \nAngka 18"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 19 \nCukup jelas. \n \nAngka 20 \nCukup jelas. \n \nAngka 21",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 19 \nCukup jelas. \n \nAngka 20 \nCukup jelas. \n \nAngka 21"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 22 \nCukup jelas \n \nAngka 23",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 22 \nCukup jelas \n \nAngka 23"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "86D",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 24",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 24"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "92",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 25",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 25"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "95",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \n \n\n\n \n \n \nAngka 26",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n\n\n \n \n \nAngka 26"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "95A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nAngka 27",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nAngka 27"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "114",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas.  \n \nAngka 28 \nCukup jelas. \n \nAngka 29 \n \nCukup jelas. \n \nAngka 30 \n \nCukup jelas. \n \nAngka 31 \n \nCukup jelas. \n \nAngka 32 \n \nCukup jelas. \n \nPasal II \n \nCukup jelas. \n \n\n\nLAMPIRAN XII \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 6 TAHUN 2024 \nTANGGAL 22 JULI 2024 \nTENTANG \nPERUBAHAN ATAS PERATURAN ANGGOTA \nDEWAN GUBERNUR NOMOR 4 TAHUN 2023 \nTENTANG DEVISA HASIL EKSPOR DAN \nDEVISA PEMBAYARAN IMPOR \n \n \nSURAT PERNYATAAN EKSPORTIR ATAS PEMANFAATAN PENGALIHAN \nTRANSAKSI TERM DEPOSIT OPERASI PASAR TERBUKA KONVENSIONAL \nDALAM VALUTA ASING DI BANK INDONESIA MENJADI TRANSAKSI SWAP \nBANK KE BANK INDONESIA \n(ditandatangani oleh Pejabat yang berwenang untuk mewakili Eksportir) \n \nMenunjuk Peraturan Bank Indonesia Nomor 7 Tahun 2023 tentang Devisa Hasil \nEkspor dan Devisa Pembayaran Impor, yang bertanda tangan di bawah ini:  \n \nNama  \n \n \n \n \n: …………(Contoh: PT. XYZ)  \nNPWP  \n \n \n \n \n: …………(Contoh: 4848 48484)  \nAlamat \n \n \n \n \n: …………(Contoh: Gambir Jakpus) \n \ndengan ini menyatakan bahwa instrumen penempatan DHE SDA sebagai \nberikut: \n1. No. Referensi Transaksi Term Deposit Operasi Pasar Terbuka Konvensional \ndalam Valuta Asing  \n \n:…………(Contoh: 123456789) \n2. No. Rekening Produk Bank  \n     kepada Nasabah  \n \n:…………(Contoh: 34567890)  \n3. Nama Bank  \n \n \n:…………(Contoh: Bank ABC)  \n4. Nominal Penempatan \n \n:…………(Contoh: USD 10.000.000) \n5. Tanggal Penempatan \n \n:…………(Contoh: 01/08/2023), \nditujukan untuk memenuhi kewajiban penempatan DHE SDA sebagaimana \ndiatur dalam Peraturan Pemerintah tentang Devisa Hasil Ekspor dari Kegiatan \nPengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam dan tidak \nsedang digunakan sebagai underlying transaksi lainnya.  \n \nSelanjutnya, instrumen penempatan DHE SDA dimaksud akan dialihkan \nmenjadi transaksi swap Bank ke Bank Indonesia guna dimanfaatkan untuk \nkegiatan ekonomi di Indonesia dengan rincian sebagai berikut: \n1. Tujuan Pemanfaatan \n \n  :…………(Contoh: Pembayaran Jasa) \n2. Jenis Pemanfaatan \n \n  : \nPengalihan transaksi term \ndeposit \noperasi pasar terbuka konvensional dalam valuta asing di Bank Indonesia \nmenjadi transaksi swap Bank ke Bank Indonesia   \n3. Nominal Pemanfaatan (Valas)   :…………(Contoh: USD 3.000.000) \n4. Nominal Pemanfaatan (Rp) \n  :…………(Contoh: Rp 45.000.000.000) \n5. Tanggal Awal Pemanfaatan \n  :…………(Contoh: 01/09/2023) \n6. Tanggal Akhir Pemanfaatan \n  :…………(Contoh: 01/11/2023) \n7. Nomor Rekening Pengkreditan  :…………(Contoh: 987654321)  \n \nInformasi yang disampaikan dalam surat pernyataan telah sesuai dengan \nkondisi sebenarnya dan dokumen pendukung. Dalam hal di kemudian hari \nditemukan hal-hal yang tidak sesuai, segala akibat hukum yang timbul menjadi \ntanggung jawab kami sepenuhnya.  \n \n\n\n \n \n \nDemikian pernyataan ini dibuat dalam keadaan sadar dan tidak ada paksaan \ndari pihak manapun untuk dipergunakan sebagaimana mestinya.  \n \n[Kota], [Tanggal, Bulan, Tahun]  \nYang Membuat Pernyataan  \n \nMeterai Rp10.000  \n \n[Nama Lengkap]  \n  \n  \nANGGOTA DEWAN GUBERNUR,  \n  \n  \n \n \n \n \n \n \n \n \nTTD \n  \n    FILIANINGSIH HENDARTA  \n \n\n\n \nLAMPIRAN XIII \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 6 TAHUN 2024 \nTANGGAL 22 JULI 2024 \nTENTANG \nPERUBAHAN ATAS PERATURAN ANGGOTA \nDEWAN GUBERNUR NOMOR 4 TAHUN  2023 \nTENTANG DEVISA HASIL EKSPOR DAN \nDEVISA PEMBAYARAN IMPOR \n \n \nSURAT PERNYATAAN SUKARELA \nNomor …… \n(Nomor surat diisi dengan format YYYY/MM/DD/NPWP 16 digit) \n(ditandatangani oleh Pejabat yang berwenang untuk mewakili Eksportir) \n \n \n \nSaya yang bertanda tangan di bawah ini: \nNama  \n \n \n: \nJabatan \n \n \n: \n \nDalam hal ini bertindak dan atas nama: \n \nNama Perusahaan \n: \nNPWP  (16 digit) \n \n: \n \nmenyatakan bahwa telah memahami ketentuan terkait pemasukan dan \npenempatan DHE SDA dan secara sukarela memasukkan DHE SDA dengan nilai \nekspor kurang dari USD250,000.00 (dua ratus lima puluh ribu dolar Amerika \nSerikat) atau ekuivalennya ke dalam Rekening Khusus DHE SDA, sehingga \nberlaku kewajiban pemasukan dan penempatan DHE SDA sesuai dengan \nketentuan yang berlaku. \n \nSurat Pernyataan ini adalah benar dan saya bertanggung jawab sepenuhnya atas \npernyataan tersebut. \n \nDemikian surat pernyataan ini saya buat untuk digunakan sebagaimana \nmestinya.  \n \n \n[Kota],  [tanggal, bulan tahun] \n[Nama Perusahaan] \n \n \n \n \n(  \nNama Jelas  \n) \nJabatan \n \nANGGOTA DEWAN GUBERNUR,  \n  \n  \n \n \n \n \n \n \n \n \nTTD \n  \n    FILIANINGSIH HENDARTA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas.  \n \nAngka 28 \nCukup jelas. \n \nAngka 29 \n \nCukup jelas. \n \nAngka 30 \n \nCukup jelas. \n \nAngka 31 \n \nCukup jelas. \n \nAngka 32 \n \nCukup jelas. \n \nPasal II \n \nCukup jelas. \n \n\n\nLAMPIRAN XII \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 6 TAHUN 2024 \nTANGGAL 22 JULI 2024 \nTENTANG \nPERUBAHAN ATAS PERATURAN ANGGOTA \nDEWAN GUBERNUR NOMOR 4 TAHUN 2023 \nTENTANG DEVISA HASIL EKSPOR DAN \nDEVISA PEMBAYARAN IMPOR \n \n \nSURAT PERNYATAAN EKSPORTIR ATAS PEMANFAATAN PENGALIHAN \nTRANSAKSI TERM DEPOSIT OPERASI PASAR TERBUKA KONVENSIONAL \nDALAM VALUTA ASING DI BANK INDONESIA MENJADI TRANSAKSI SWAP \nBANK KE BANK INDONESIA \n(ditandatangani oleh Pejabat yang berwenang untuk mewakili Eksportir) \n \nMenunjuk Peraturan Bank Indonesia Nomor 7 Tahun 2023 tentang Devisa Hasil \nEkspor dan Devisa Pembayaran Impor, yang bertanda tangan di bawah ini:  \n \nNama  \n \n \n \n \n: …………(Contoh: PT. XYZ)  \nNPWP  \n \n \n \n \n: …………(Contoh: 4848 48484)  \nAlamat \n \n \n \n \n: …………(Contoh: Gambir Jakpus) \n \ndengan ini menyatakan bahwa instrumen penempatan DHE SDA sebagai \nberikut: \n1. No. Referensi Transaksi Term Deposit Operasi Pasar Terbuka Konvensional \ndalam Valuta Asing  \n \n:…………(Contoh: 123456789) \n2. No. Rekening Produk Bank  \n     kepada Nasabah  \n \n:…………(Contoh: 34567890)  \n3. Nama Bank  \n \n \n:…………(Contoh: Bank ABC)  \n4. Nominal Penempatan \n \n:…………(Contoh: USD 10.000.000) \n5. Tanggal Penempatan \n \n:…………(Contoh: 01/08/2023), \nditujukan untuk memenuhi kewajiban penempatan DHE SDA sebagaimana \ndiatur dalam Peraturan Pemerintah tentang Devisa Hasil Ekspor dari Kegiatan \nPengusahaan, Pengelolaan, dan/atau Pengolahan Sumber Daya Alam dan tidak \nsedang digunakan sebagai underlying transaksi lainnya.  \n \nSelanjutnya, instrumen penempatan DHE SDA dimaksud akan dialihkan \nmenjadi transaksi swap Bank ke Bank Indonesia guna dimanfaatkan untuk \nkegiatan ekonomi di Indonesia dengan rincian sebagai berikut: \n1. Tujuan Pemanfaatan \n \n  :…………(Contoh: Pembayaran Jasa) \n2. Jenis Pemanfaatan \n \n  : \nPengalihan transaksi term \ndeposit \noperasi pasar terbuka konvensional dalam valuta asing di Bank Indonesia \nmenjadi transaksi swap Bank ke Bank Indonesia   \n3. Nominal Pemanfaatan (Valas)   :…………(Contoh: USD 3.000.000) \n4. Nominal Pemanfaatan (Rp) \n  :…………(Contoh: Rp 45.000.000.000) \n5. Tanggal Awal Pemanfaatan \n  :…………(Contoh: 01/09/2023) \n6. Tanggal Akhir Pemanfaatan \n  :…………(Contoh: 01/11/2023) \n7. Nomor Rekening Pengkreditan  :…………(Contoh: 987654321)  \n \nInformasi yang disampaikan dalam surat pernyataan telah sesuai dengan \nkondisi sebenarnya dan dokumen pendukung. Dalam hal di kemudian hari \nditemukan hal-hal yang tidak sesuai, segala akibat hukum yang timbul menjadi \ntanggung jawab kami sepenuhnya.  \n \n\n\n \n \n \nDemikian pernyataan ini dibuat dalam keadaan sadar dan tidak ada paksaan \ndari pihak manapun untuk dipergunakan sebagaimana mestinya.  \n \n[Kota], [Tanggal, Bulan, Tahun]  \nYang Membuat Pernyataan  \n \nMeterai Rp10.000  \n \n[Nama Lengkap]  \n  \n  \nANGGOTA DEWAN GUBERNUR,  \n  \n  \n \n \n \n \n \n \n \n \nTTD \n  \n    FILIANINGSIH HENDARTA  \n \n\n\n \nLAMPIRAN XIII \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 6 TAHUN 2024 \nTANGGAL 22 JULI 2024 \nTENTANG \nPERUBAHAN ATAS PERATURAN ANGGOTA \nDEWAN GUBERNUR NOMOR 4 TAHUN  2023 \nTENTANG DEVISA HASIL EKSPOR DAN \nDEVISA PEMBAYARAN IMPOR \n \n \nSURAT PERNYATAAN SUKARELA \nNomor …… \n(Nomor surat diisi dengan format YYYY/MM/DD/NPWP 16 digit) \n(ditandatangani oleh Pejabat yang berwenang untuk mewakili Eksportir) \n \n \n \nSaya yang bertanda tangan di bawah ini: \nNama  \n \n \n: \nJabatan \n \n \n: \n \nDalam hal ini bertindak dan atas nama: \n \nNama Perusahaan \n: \nNPWP  (16 digit) \n \n: \n \nmenyatakan bahwa telah memahami ketentuan terkait pemasukan dan \npenempatan DHE SDA dan secara sukarela memasukkan DHE SDA dengan nilai \nekspor kurang dari USD250,000.00 (dua ratus lima puluh ribu dolar Amerika \nSerikat) atau ekuivalennya ke dalam Rekening Khusus DHE SDA, sehingga \nberlaku kewajiban pemasukan dan penempatan DHE SDA sesuai dengan \nketentuan yang berlaku. \n \nSurat Pernyataan ini adalah benar dan saya bertanggung jawab sepenuhnya atas \npernyataan tersebut. \n \nDemikian surat pernyataan ini saya buat untuk digunakan sebagaimana \nmestinya.  \n \n \n[Kota],  [tanggal, bulan tahun] \n[Nama Perusahaan] \n \n \n \n \n(  \nNama Jelas  \n) \nJabatan \n \nANGGOTA DEWAN GUBERNUR,  \n  \n  \n \n \n \n \n \n \n \n \nTTD \n  \n    FILIANINGSIH HENDARTA"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 45,
+  "total_ayat": 93,
+  "total_karakter": 47992,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

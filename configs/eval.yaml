@@ -1,0 +1,19 @@
+eval:
+  version: "v1"
+  qrels_file: "benchmark/qrels.tsv"
+  splits_dir: "benchmark/splits"
+  default_split: "dev"
+  retrieval:
+    top_k_values: [5, 10]
+    mrr_k: 10
+    ndcg_k: 10
+    relevance_threshold: 1
+  generation:
+    correctness_threshold: 0.5
+    min_claim_evidence_overlap: 0.2
+  slices:
+    - "easy"
+    - "multi_hop"
+    - "konflik_versi"
+    - "temporal_point_in_time"
+    - "unanswerable"

@@ -1,0 +1,1239 @@
+{
+  "doc_id": "OJK_POJK_2016_7_b95542a8",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "7",
+  "tahun": "2016",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 7/POJK.03/2016 tentang Prinsip Kehati-Hatian Dalam Melaksanakan Kegiatan Structured Product Bagi Bank Umum",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "26 Januari 2016",
+  "tanggal_berlaku": "diundangkan (27 Januari 2016)",
+  "diundangkan_pada": "27 Januari 2016",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KLASIFIKASI NASABAH"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TRANSPARANSI INFORMASI PRODUK"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMASARAN DAN PENAWARAN STRUCTURED PRODUCT"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "MASA JEDA (COOLING OFF PERIOD)"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERNYATAAN NASABAH"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PERJANJIAN STRUCTURED PRODUCT"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TATA CARA PENGAJUAN PERSETUJUAN PRINSIP DAN PERNYATAAN EFEKTIF"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "LAPORAN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam   Peraturan    Otoritas    Jasa   Keuangan   ini   yang \ndimaksud dengan: \n1. \nBank adalah bank umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, termasuk kantor \ncabang dari bank yang berkedudukan di luar negeri, \nyang \nmelaksanakan \nkegiatan \nusaha \nsecara \nkonvensional.  \n2. \nStructured \nProduct \nadalah \nproduk \nBank \nyang \nmerupakan penggabungan antara 2 (dua) atau lebih \ninstrumen keuangan berupa instrumen keuangan non \nderivatif \ndengan \nderivatif \natau \nderivatif \ndengan \nderivatif, dan paling sedikit memiliki karakteristik: \na. \nnilai atau arus kas yang timbul dari produk \ndikaitkan dengan satu atau kombinasi variabel \ndasar seperti suku bunga, nilai tukar, komoditi, \ndan/atau ekuitas; dan  \nb. \npola perubahan atas nilai atau arus kas produk \nbersifat \ntidak \nreguler \napabila \ndibandingkan \ndengan \npola \nperubahan \nvariabel \ndasar \nsebagaimana dimaksud pada huruf a, sehingga \nmengakibatkan perubahan nilai atau arus kas \ntidak mencerminkan keseluruhan perubahan pola \ndari variabel dasar secara linear (asymmetric \npayoff), \nyang \nantara \nlain \nditandai \ndengan \nkeberadaan: \n1) \noptionality, seperti fitur caps, floors, collars, \nstep up/step down, call/put; \n2) \nleverage; \n3) \nbarriers, seperti knock in/knock out; dan/atau \n4) \nbinary atau digital ranges. \n \n\n\n \n \n \n \nPengertian derivatif dalam pengaturan ini mencakup \nderivatif melekat (embedded derivatives). \n3. \nNasabah adalah: \na. \nperseorangan atau badan yang menggunakan \natau menerima fasilitas Bank baik dalam bentuk \nproduk dan/atau jasa; \nb. \nperseorangan \natau \nbadan \nyang \nakan \nmenggunakan atau diberikan fasilitas oleh Bank \nbaik dalam bentuk produk dan/atau jasa. \n4. \nKegiatan Structured Product adalah aktivitas dan/atau \nproses \nyang \ndilakukan \nsehubungan \ndengan \nperencanaan, pengembangan, penerbitan, pemasaran, \npenawaran, \npenjualan, \npelaksanaan \noperasional, \ndan/atau penghentian aktivitas terkait Structured \nProduct. \n5. \nDireksi: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas;  \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \ndiubah \nterakhir dengan \nUndang-Undang \nNomor 9 Tahun 2015; \n2) \nPerusahaan Daerah adalah direksi bagi Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \n \n\n\n \n \n \n \n \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pemimpin kantor cabang dan pejabat satu \ntingkat di bawah pemimpin kantor cabang. \n6. \nDewan Komisaris: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n2) \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n3) \nPerusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \n \n \n\n\n \n \n \n \n \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengawas  sebagaimana  dimaksud  dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pihak yang ditunjuk untuk melaksanakan \nfungsi pengawasan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam   Peraturan    Otoritas    Jasa   Keuangan   ini   yang \ndimaksud dengan: \n1. \nBank adalah bank umum sebagaimana dimaksud \ndalam Undang-Undang Nomor 7 Tahun 1992 tentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998, termasuk kantor \ncabang dari bank yang berkedudukan di luar negeri, \nyang \nmelaksanakan \nkegiatan \nusaha \nsecara \nkonvensional.  \n2. \nStructured \nProduct \nadalah \nproduk \nBank \nyang \nmerupakan penggabungan antara 2 (dua) atau lebih \ninstrumen keuangan berupa instrumen keuangan non \nderivatif \ndengan \nderivatif \natau \nderivatif \ndengan \nderivatif, dan paling sedikit memiliki karakteristik: \na. \nnilai atau arus kas yang timbul dari produk \ndikaitkan dengan satu atau kombinasi variabel \ndasar seperti suku bunga, nilai tukar, komoditi, \ndan/atau ekuitas; dan  \nb. \npola perubahan atas nilai atau arus kas produk \nbersifat \ntidak \nreguler \napabila \ndibandingkan \ndengan \npola \nperubahan \nvariabel \ndasar \nsebagaimana dimaksud pada huruf a, sehingga \nmengakibatkan perubahan nilai atau arus kas \ntidak mencerminkan keseluruhan perubahan pola \ndari variabel dasar secara linear (asymmetric \npayoff), \nyang \nantara \nlain \nditandai \ndengan \nkeberadaan: \n1) \noptionality, seperti fitur caps, floors, collars, \nstep up/step down, call/put; \n2) \nleverage; \n3) \nbarriers, seperti knock in/knock out; dan/atau \n4) \nbinary atau digital ranges. \n \n\n\n \n \n \n \nPengertian derivatif dalam pengaturan ini mencakup \nderivatif melekat (embedded derivatives). \n3. \nNasabah adalah: \na. \nperseorangan atau badan yang menggunakan \natau menerima fasilitas Bank baik dalam bentuk \nproduk dan/atau jasa; \nb. \nperseorangan \natau \nbadan \nyang \nakan \nmenggunakan atau diberikan fasilitas oleh Bank \nbaik dalam bentuk produk dan/atau jasa. \n4. \nKegiatan Structured Product adalah aktivitas dan/atau \nproses \nyang \ndilakukan \nsehubungan \ndengan \nperencanaan, pengembangan, penerbitan, pemasaran, \npenawaran, \npenjualan, \npelaksanaan \noperasional, \ndan/atau penghentian aktivitas terkait Structured \nProduct. \n5. \nDireksi: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas;  \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nadalah \ndireksi \nsebagaimana \ndimaksud \ndalam \nUndang-\nUndang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah sebagaimana telah \ndiubah \nterakhir dengan \nUndang-Undang \nNomor 9 Tahun 2015; \n2) \nPerusahaan Daerah adalah direksi bagi Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \n \n\n\n \n \n \n \n \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengurus sebagaimana dimaksud dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pemimpin kantor cabang dan pejabat satu \ntingkat di bawah pemimpin kantor cabang. \n6. \nDewan Komisaris: \na. \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang Nomor 40 \nTahun 2007 tentang Perseroan Terbatas; \nb. \nbagi Bank berbentuk badan hukum:  \n1) \nPerusahaan Umum Daerah adalah dewan \npengawas sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n2) \nPerusahaan \nPerseroan \nDaerah \nadalah \nkomisaris sebagaimana dimaksud dalam \nUndang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah \ndiubah \nterakhir \ndengan \nUndang-\nUndang Nomor 9 Tahun 2015; \n3) \nPerusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah sesuai Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah diubah terakhir \ndengan \nUndang-Undang \nNomor \nTahun 2015; \n \n \n\n\n \n \n \n \n \nc. \nbagi Bank berbentuk badan hukum Koperasi \nadalah pengawas  sebagaimana  dimaksud  dalam \nUndang-Undang Nomor 25 Tahun 1992 tentang \nPerkoperasian; \nd. \nbagi Bank yang berstatus sebagai kantor cabang \ndari bank yang berkedudukan di luar negeri \nadalah pihak yang ditunjuk untuk melaksanakan \nfungsi pengawasan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Bank hanya dapat melakukan Kegiatan Structured Product \nsetelah memperoleh: \na. \npersetujuan \nprinsip \nuntuk \nmelakukan \nKegiatan \nStructured Product; dan  \nb. \npernyataan efektif untuk penerbitan setiap jenis \nStructured Product,  \ndari Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank hanya dapat melakukan Kegiatan Structured Product \nsetelah memperoleh: \na. \npersetujuan \nprinsip \nuntuk \nmelakukan \nKegiatan \nStructured Product; dan  \nb. \npernyataan efektif untuk penerbitan setiap jenis \nStructured Product,  \ndari Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Pelaksanaan Kegiatan Structured Product sebagaimana \ndimaksud dalam Pasal 2 wajib berpedoman pada ketentuan \nyang ditetapkan dalam Peraturan Otoritas Jasa Keuangan \nini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelaksanaan Kegiatan Structured Product sebagaimana \ndimaksud dalam Pasal 2 wajib berpedoman pada ketentuan \nyang ditetapkan dalam Peraturan Otoritas Jasa Keuangan \nini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank yang melakukan kegiatan usaha dalam valuta \nasing hanya dapat melakukan transaksi Structured \nProduct yang dikaitkan dengan variabel dasar berupa \nnilai tukar dan/atau suku bunga. \n(2) \nBank yang tidak melakukan kegiatan usaha dalam \nvaluta asing \nhanya dapat melakukan transaksi \nStructured Product yang dikaitkan dengan variabel \ndasar berupa suku bunga.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang melakukan kegiatan usaha dalam valuta \nasing hanya dapat melakukan transaksi Structured \nProduct yang dikaitkan dengan variabel dasar berupa \nnilai tukar dan/atau suku bunga."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak melakukan kegiatan usaha dalam \nvaluta asing \nhanya dapat melakukan transaksi \nStructured Product yang dikaitkan dengan variabel \ndasar berupa suku bunga."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank \nwajib \nmencantumkan \nrencana \nKegiatan \nStructured Product dalam rencana bisnis Bank. \n(2) \nRencana Kegiatan Structured Product sebagaimana \ndimaksud pada ayat (1) meliputi: \na. \npenjelasan mengenai pengelompokan Structured \nProduct; \nb. \npenjelasan mengenai kelompok Nasabah yang \nmenjadi target Structured Product; dan \nc. \nestimasi volume penerbitan Structured Product.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmencantumkan \nrencana \nKegiatan \nStructured Product dalam rencana bisnis Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rencana Kegiatan Structured Product sebagaimana \ndimaksud pada ayat (1) meliputi: \na. \npenjelasan mengenai pengelompokan Structured \nProduct; \nb. \npenjelasan mengenai kelompok Nasabah yang \nmenjadi target Structured Product; dan \nc. \nestimasi volume penerbitan Structured Product."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank yang melakukan transaksi Structured Product \ndengan Nasabah dalam bentuk kombinasi instrumen \nderivatif dengan derivatif wajib meminta kepada \nNasabah untuk memberikan agunan berupa kas \ndengan jumlah paling sedikit 10% (sepuluh persen) \ndari nilai nosional transaksi pada saat transaksi. \n(2) \nPelaksanaan lebih lanjut terkait agunan berupa kas \npaling sedikit 10% (sepuluh persen) dari nilai nosional \ntransaksi sebagaimana dimaksud pada ayat (1) wajib \ndituangkan dalam perjanjian antara Bank dengan \nNasabah. \n(3) \nKetentuan mengenai kewajiban pemberian agunan \nberupa kas dengan jumlah paling sedikit 10% (sepuluh \npersen) \nsebagaimana \ndimaksud \npada \nayat \n(1), \ndikecualikan untuk Nasabah berupa: \na. bank; \nb. Pemerintah Republik Indonesia; \nc. Bank Indonesia atau bank sentral negara lain; dan \nd. bank atau lembaga pembangunan multilateral.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank yang melakukan transaksi Structured Product \ndengan Nasabah dalam bentuk kombinasi instrumen \nderivatif dengan derivatif wajib meminta kepada \nNasabah untuk memberikan agunan berupa kas \ndengan jumlah paling sedikit 10% (sepuluh persen) \ndari nilai nosional transaksi pada saat transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan lebih lanjut terkait agunan berupa kas \npaling sedikit 10% (sepuluh persen) dari nilai nosional \ntransaksi sebagaimana dimaksud pada ayat (1) wajib \ndituangkan dalam perjanjian antara Bank dengan \nNasabah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai kewajiban pemberian agunan \nberupa kas dengan jumlah paling sedikit 10% (sepuluh \npersen) \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \ndikecualikan untuk Nasabah berupa: \na. bank; \nb. Pemerintah Republik Indonesia; \nc. Bank Indonesia atau bank sentral negara lain; dan \nd. bank atau lembaga pembangunan multilateral."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Bank dilarang menggunakan kata “deposit”, “deposito”, \n“terproteksi”, “giro”, “tabungan”, dan/atau kata lain yang \ndapat memberikan persepsi kepada Nasabah bahwa Bank \nmemberikan \nproteksi \npengembalian \npokok \nStructured \nProduct secara penuh, dalam hal Structured Product yang \nditerbitkan oleh Bank tidak disertai dengan proteksi penuh \natas pokok dalam mata uang asal pada saat jatuh tempo. \n \nBAB II \nMANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank dilarang menggunakan kata “deposit”, “deposito”, \n“terproteksi”, “giro”, “tabungan”, dan/atau kata lain yang \ndapat memberikan persepsi kepada Nasabah bahwa Bank \nmemberikan \nproteksi \npengembalian \npokok \nStructured \nProduct secara penuh, dalam hal Structured Product yang \nditerbitkan oleh Bank tidak disertai dengan proteksi penuh \natas pokok dalam mata uang asal pada saat jatuh tempo. \n \nBAB II \nMANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib menerapkan manajemen risiko secara \nefektif dalam melakukan Kegiatan Structured Product. \n(2) \nPenerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi dan Dewan Komisaris; \nb. \nkecukupan kebijakan dan prosedur; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, \ndan \npengendalian \nrisiko \nserta \nsistem informasi manajemen risiko; dan \nd. \nsistem pengendalian intern. \n \nBagian Kesatu \nPengawasan Aktif Direksi dan Dewan Komisaris",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan manajemen risiko secara \nefektif dalam melakukan Kegiatan Structured Product."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan manajemen risiko sebagaimana dimaksud \npada ayat (1) paling sedikit mencakup: \na. \npengawasan aktif Direksi dan Dewan Komisaris; \nb. \nkecukupan kebijakan dan prosedur; \nc. \nkecukupan \nproses \nidentifikasi, \npengukuran, \npemantauan, \ndan \npengendalian \nrisiko \nserta \nsistem informasi manajemen risiko; dan \nd. \nsistem pengendalian intern. \n \nBagian Kesatu \nPengawasan Aktif Direksi dan Dewan Komisaris"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "Pengawasan aktif Direksi paling sedikit mencakup: \na. \nmenetapkan rencana Bank untuk Kegiatan Structured \nProduct; \nb. \nmenetapkan kebijakan dan prosedur Bank untuk \nKegiatan Structured Product; dan \nc. \nmemantau dan mengevaluasi Kegiatan Structured \nProduct.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan aktif Direksi paling sedikit mencakup: \na. \nmenetapkan rencana Bank untuk Kegiatan Structured \nProduct; \nb. \nmenetapkan kebijakan dan prosedur Bank untuk \nKegiatan Structured Product; dan \nc. \nmemantau dan mengevaluasi Kegiatan Structured \nProduct."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "Pengawasan \naktif \nDewan \nKomisaris \npaling \nsedikit \nmencakup:  \na. \npersetujuan Dewan Komisaris atas rencana Bank \nuntuk Kegiatan Structured Product; dan \nb. \nevaluasi pelaksanaan rencana Bank terkait Kegiatan \nStructured Product. \n \nBagian Kedua \nKecukupan Kebijakan dan Prosedur",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengawasan \naktif \nDewan \nKomisaris \npaling \nsedikit \nmencakup:  \na. \npersetujuan Dewan Komisaris atas rencana Bank \nuntuk Kegiatan Structured Product; dan \nb. \nevaluasi pelaksanaan rencana Bank terkait Kegiatan \nStructured Product. \n \nBagian Kedua \nKecukupan Kebijakan dan Prosedur"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank \nwajib \nmemiliki \ndan \nmengimplementasikan \nkebijakan dan prosedur yang komprehensif dan efektif \nuntuk Kegiatan Structured Product. \n(2) \nKebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) paling sedikit mencakup: \na. \nkebijakan penilaian tingkat risiko Structured \nProduct (Structured Product risk level assessment); \nb. \nkebijakan penilaian profil risiko Nasabah; \nc. \nkebijakan kesesuaian tingkat risiko Structured \nProduct (Structured Product risk level assessment) \ndengan profil risiko Nasabah; \nd. \nkebijakan sumber daya manusia untuk Kegiatan \nStructured Product; \ne. \nkebijakan \nstruktur \ninsentif \npegawai \nuntuk \nKegiatan Structured Product; \nf. prosedur pelaksanaan Kegiatan Structured Product \nyang mencakup: \n1. pengembangan Structured Product \n yang \nmencakup: \na) \nstudi kelayakan; \nb) \npengembangan fitur produk; \nc) \nanalisis risiko; \nd) \nanalisis aspek hukum; \ne) \nmetode penilaian (valuation); \nf) \nmetode pencatatan; dan \n\n\n \n \n \n \ng) \nmetode uji coba; \n2. \npemasaran \ndan \npenawaran \nStructured \nProduct; dan \n3. \npelaksanaan transaksi Structured Product \nyang mencakup: \na) \ninisiasi transaksi; \nb) \neksekusi transaksi; \nc) \npenyelesaian \ntransaksi \n(transaction \nsettlement); dan \nd) \npenghentian \ntransaksi \nStructured \nProduct sebelum jatuh tempo (early \ntermination); \ng. \nprosedur penyelesaian sengketa dari Kegiatan \nStructured Product; dan \nh. \nprosedur \nuntuk \nmelakukan \nidentifikasi, \npengukuran, pemantauan, pengendalian risiko, \ndan sistem informasi untuk Kegiatan Structured \nProduct.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmemiliki \ndan \nmengimplementasikan \nkebijakan dan prosedur yang komprehensif dan efektif \nuntuk Kegiatan Structured Product."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan dan prosedur sebagaimana dimaksud pada \nayat (1) paling sedikit mencakup: \na. \nkebijakan penilaian tingkat risiko Structured \nProduct (Structured Product risk level assessment); \nb. \nkebijakan penilaian profil risiko Nasabah; \nc. \nkebijakan kesesuaian tingkat risiko Structured \nProduct (Structured Product risk level assessment) \ndengan profil risiko Nasabah; \nd. \nkebijakan sumber daya manusia untuk Kegiatan \nStructured Product; \ne. \nkebijakan \nstruktur \ninsentif \npegawai \nuntuk \nKegiatan Structured Product; \nf. prosedur pelaksanaan Kegiatan Structured Product \nyang mencakup: \n1. pengembangan Structured Product \n yang \nmencakup: \na) \nstudi kelayakan; \nb) \npengembangan fitur produk; \nc) \nanalisis risiko; \nd) \nanalisis aspek hukum; \ne) \nmetode penilaian (valuation); \nf) \nmetode pencatatan; dan \n\n\n \n \n \n \ng) \nmetode uji coba; \n2. \npemasaran \ndan \npenawaran \nStructured \nProduct; dan \n3. \npelaksanaan transaksi Structured Product \nyang mencakup: \na) \ninisiasi transaksi; \nb) \neksekusi transaksi; \nc) \npenyelesaian \ntransaksi \n(transaction \nsettlement); dan \nd) \npenghentian \ntransaksi \nStructured \nProduct sebelum jatuh tempo (early \ntermination); \ng. \nprosedur penyelesaian sengketa dari Kegiatan \nStructured Product; dan \nh. \nprosedur \nuntuk \nmelakukan \nidentifikasi, \npengukuran, pemantauan, pengendalian risiko, \ndan sistem informasi untuk Kegiatan Structured \nProduct."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "Dalam \nmenetapkan \npenilaian \nprofil \nrisiko \nNasabah \nsebagaimana dimaksud dalam Pasal 11 ayat (2) huruf b, \nBank wajib melakukan penilaian paling sedikit terhadap: \na. \ntujuan Nasabah; \nb. \nprofil keuangan Nasabah, yang meliputi: \n1. \nkarakteristik usaha; \n2. \nsumber dana (source of funds) dan karakteristik \ndari sumber dana yang dimiliki; \n3. \naset atau kekayaan yang dimiliki; \n4. \nmodal yang dimiliki; dan \n5. \nkomitmen atau kewajiban keuangan Nasabah \nbaik kepada Bank maupun kepada pihak selain \nBank; \nc. \npemahaman \ndan \npengalaman \nNasabah \ndalam \nmelakukan kegiatan Structured Product, yang meliputi: \n1. pengetahuan Nasabah mengenai Structured Product; \n \n\n\n \n \n \n \n \n2. \njenis Structured Product yang pernah atau sedang \ndigunakan Nasabah; \n3. \nkarakteristik Structured Product yang pernah atau \nsedang \ndigunakan \nNasabah \nsebagaimana \ndimaksud pada angka 2; \n4. \nvolume dari Structured Product yang pernah atau \nsedang \ndigunakan \nNasabah \nsebagaimana \ndimaksud pada angka 2; \n5. \nfrekuensi penggunaan Structured Product oleh \nNasabah; dan \n6. \njangka waktu dari Structured Product yang pernah \natau sedang digunakan Nasabah sebagaimana \ndimaksud pada angka 2. \n \nBagian Ketiga \nProses Identifikasi, Pengukuran, Pemantauan, \nPengendalian, dan Sistem Informasi Manajemen Risiko",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmenetapkan \npenilaian \nprofil \nrisiko \nNasabah \nsebagaimana dimaksud dalam Pasal 11 ayat (2) huruf b, \nBank wajib melakukan penilaian paling sedikit terhadap: \na. \ntujuan Nasabah; \nb. \nprofil keuangan Nasabah, yang meliputi: \n1. \nkarakteristik usaha; \n2. \nsumber dana (source of funds) dan karakteristik \ndari sumber dana yang dimiliki; \n3. \naset atau kekayaan yang dimiliki; \n4. \nmodal yang dimiliki; dan \n5. \nkomitmen atau kewajiban keuangan Nasabah \nbaik kepada Bank maupun kepada pihak selain \nBank; \nc. \npemahaman \ndan \npengalaman \nNasabah \ndalam \nmelakukan kegiatan Structured Product, yang meliputi: \n1. pengetahuan Nasabah mengenai Structured Product; \n \n\n\n \n \n \n \n \n2. \njenis Structured Product yang pernah atau sedang \ndigunakan Nasabah; \n3. \nkarakteristik Structured Product yang pernah atau \nsedang \ndigunakan \nNasabah \nsebagaimana \ndimaksud pada angka 2; \n4. \nvolume dari Structured Product yang pernah atau \nsedang \ndigunakan \nNasabah \nsebagaimana \ndimaksud pada angka 2; \n5. \nfrekuensi penggunaan Structured Product oleh \nNasabah; dan \n6. \njangka waktu dari Structured Product yang pernah \natau sedang digunakan Nasabah sebagaimana \ndimaksud pada angka 2. \n \nBagian Ketiga \nProses Identifikasi, Pengukuran, Pemantauan, \nPengendalian, dan Sistem Informasi Manajemen Risiko"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank \nwajib \nmelakukan \nproses \nidentifikasi, \npengukuran, pemantauan, dan pengendalian atas \nrisiko untuk Kegiatan Structured Product. \n(2) \nPelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh sistem \ninformasi manajemen yang tepat waktu, informatif, \ndan akurat. \n \nBagian Keempat \nSistem Pengendalian Intern",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmelakukan \nproses \nidentifikasi, \npengukuran, pemantauan, dan pengendalian atas \nrisiko untuk Kegiatan Structured Product."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan \nproses \nidentifikasi, \npengukuran, \npemantauan, dan pengendalian risiko sebagaimana \ndimaksud pada ayat (1) wajib didukung oleh sistem \ninformasi manajemen yang tepat waktu, informatif, \ndan akurat. \n \nBagian Keempat \nSistem Pengendalian Intern"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB II",
+      "bab_judul": "MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nBank wajib memiliki sistem pengendalian intern yang \nefektif. \n(2) \nPelaksanaan sistem pengendalian intern yang efektif \nsebagaimana dimaksud pada ayat (1) antara lain \n\n\n \n \n \n \ndibuktikan dengan: \na. \nadanya batasan wewenang dan tanggung jawab \nsatuan kerja untuk Kegiatan Structured Product; \ndan  \nb. \ndilakukannya pemeriksaan oleh satuan kerja \naudit intern. \n \nBAB III \nKLASIFIKASI NASABAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki sistem pengendalian intern yang \nefektif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan sistem pengendalian intern yang efektif \nsebagaimana dimaksud pada ayat (1) antara lain \n\n\n \n \n \n \ndibuktikan dengan: \na. \nadanya batasan wewenang dan tanggung jawab \nsatuan kerja untuk Kegiatan Structured Product; \ndan  \nb. \ndilakukannya pemeriksaan oleh satuan kerja \naudit intern. \n \nBAB III \nKLASIFIKASI NASABAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KLASIFIKASI NASABAH",
+      "teks_lengkap": "(1) \nDalam melakukan Kegiatan Structured Product, Bank \nwajib menetapkan klasifikasi Nasabah. \n(2) \nKlasifikasi Nasabah sebagaimana dimaksud pada    \nayat (1) terdiri atas: \na. \nNasabah profesional; \nb. \nNasabah eligible; dan  \nc. \nNasabah retail. \n(3) \nNasabah digolongkan sebagai Nasabah profesional \nsebagaimana dimaksud pada ayat (2) huruf a jika \nNasabah memiliki pemahaman terhadap karakteristik, \nfitur, dan risiko dari Structured Product, yang terdiri \natas: \na. \nperusahaan yang bergerak di bidang keuangan, \nyang terdiri atas: \n1. bank; \n2. perusahaan efek; \n3. perusahaan pembiayaan; atau \n4. pedagang kontrak berjangka, \nsepanjang tidak bertentangan dengan peraturan \nperundang-undangan di bidang perbankan, pasar \nmodal, lembaga pembiayaan, dan perdagangan \nberjangka komoditi; \nb. \nperusahaan \nselain \nperusahaan \nsebagaimana \ndimaksud \npada \nhuruf \na \nyang \nmemenuhi \npersyaratan: \n1. \nmemiliki \nmodal \nlebih \nbesar \ndari \n\n\n \n \n \n \nRp20.000.000.000,00 \n(dua \npuluh \nmiliar \nrupiah) atau ekuivalennya dalam valuta \nasing; dan \n2. \ntelah melakukan kegiatan usaha paling \nsedikit 36 (tiga puluh enam) bulan berturut-\nturut; \nc. \nPemerintah Republik Indonesia atau pemerintah \nnegara lain; \nd. \nBank Indonesia atau bank sentral negara lain; \ndan \ne. \nbank atau lembaga pembangunan multilateral. \n(4) \nNasabah \ndigolongkan \nsebagai \nNasabah \neligible \nsebagaimana dimaksud pada ayat (2) huruf b jika \nNasabah memiliki pemahaman terhadap karakteristik, \nfitur, dan risiko dari Structured Product, yang terdiri \natas: \na. \nperusahaan yang bergerak di bidang keuangan \nberupa: \n1. \ndana pensiun; atau \n2. \nperusahaan perasuransian, \nsepanjang tidak bertentangan dengan peraturan \nperundang-undangan di bidang dana pensiun \ndan usaha perasuransian; \nb. \nperusahaan \nselain \nperusahaan \nsebagaimana \ndimaksud \npada \nhuruf \na \nyang \nmemenuhi \npersyaratan: \n1. \nmemiliki \nmodal \npaling \nsedikit \nRp5.000.000.000,00 (lima miliar rupiah) atau \nekuivalennya dalam valuta asing; dan \n2. \ntelah melakukan kegiatan usaha paling \nsedikit 12 (dua belas) bulan berturut-turut; \ndan \nc. \nNasabah perseorangan yang memiliki portofolio \naset berupa kas, giro, tabungan, dan/atau \ndeposito paling sedikit Rp5.000.000.000,00 (lima \nmiliar rupiah) atau ekuivalennya dalam valuta \nasing. \n\n\n \n \n \n \n \n \n \n(5) \nNasabah \ndigolongkan \nsebagai \nNasabah \nretail \nsebagaimana dimaksud pada ayat (2) huruf c jika \nNasabah tidak memenuhi kriteria sebagai Nasabah \nprofesional dan Nasabah eligible.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan Kegiatan Structured Product, Bank \nwajib menetapkan klasifikasi Nasabah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Klasifikasi Nasabah sebagaimana dimaksud pada    \nayat (1) terdiri atas: \na. \nNasabah profesional; \nb. \nNasabah eligible; dan  \nc. \nNasabah retail."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Nasabah digolongkan sebagai Nasabah profesional \nsebagaimana dimaksud pada ayat (2) huruf a jika \nNasabah memiliki pemahaman terhadap karakteristik, \nfitur, dan risiko dari Structured Product, yang terdiri \natas: \na. \nperusahaan yang bergerak di bidang keuangan, \nyang terdiri atas: \n1. bank; \n2. perusahaan efek; \n3. perusahaan pembiayaan; atau \n4. pedagang kontrak berjangka, \nsepanjang tidak bertentangan dengan peraturan \nperundang-undangan di bidang perbankan, pasar \nmodal, lembaga pembiayaan, dan perdagangan \nberjangka komoditi; \nb. \nperusahaan \nselain \nperusahaan \nsebagaimana \ndimaksud \npada \nhuruf \na \nyang \nmemenuhi \npersyaratan: \n1. \nmemiliki \nmodal \nlebih \nbesar \ndari \n\n\n \n \n \n \nRp20.000.000.000,00 \n(dua \npuluh \nmiliar \nrupiah) atau ekuivalennya dalam valuta \nasing; dan \n2. \ntelah melakukan kegiatan usaha paling \nsedikit 36 (tiga puluh enam) bulan berturut-\nturut; \nc. \nPemerintah Republik Indonesia atau pemerintah \nnegara lain; \nd. \nBank Indonesia atau bank sentral negara lain; \ndan \ne. \nbank atau lembaga pembangunan multilateral."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Nasabah \ndigolongkan \nsebagai \nNasabah \neligible \nsebagaimana dimaksud pada ayat (2) huruf b jika \nNasabah memiliki pemahaman terhadap karakteristik, \nfitur, dan risiko dari Structured Product, yang terdiri \natas: \na. \nperusahaan yang bergerak di bidang keuangan \nberupa: \n1. \ndana pensiun; atau \n2. \nperusahaan perasuransian, \nsepanjang tidak bertentangan dengan peraturan \nperundang-undangan di bidang dana pensiun \ndan usaha perasuransian; \nb. \nperusahaan \nselain \nperusahaan \nsebagaimana \ndimaksud \npada \nhuruf \na \nyang \nmemenuhi \npersyaratan: \n1. \nmemiliki \nmodal \npaling \nsedikit \nRp5.000.000.000,00 (lima miliar rupiah) atau \nekuivalennya dalam valuta asing; dan \n2. \ntelah melakukan kegiatan usaha paling \nsedikit 12 (dua belas) bulan berturut-turut; \ndan \nc. \nNasabah perseorangan yang memiliki portofolio \naset berupa kas, giro, tabungan, dan/atau \ndeposito paling sedikit Rp5.000.000.000,00 (lima \nmiliar rupiah) atau ekuivalennya dalam valuta \nasing."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Nasabah \ndigolongkan \nsebagai \nNasabah \nretail \nsebagaimana dimaksud pada ayat (2) huruf c jika \nNasabah tidak memenuhi kriteria sebagai Nasabah \nprofesional dan Nasabah eligible."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KLASIFIKASI NASABAH",
+      "teks_lengkap": "Bank wajib melakukan pengkinian terhadap klasifikasi \nNasabah sebagaimana dimaksud dalam Pasal 15 jika \nterdapat hal-hal yang dapat mengakibatkan perubahan \nklasifikasi yang telah ditetapkan terhadap Nasabah.  \n \nBAB IV \nTRANSPARANSI INFORMASI PRODUK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib melakukan pengkinian terhadap klasifikasi \nNasabah sebagaimana dimaksud dalam Pasal 15 jika \nterdapat hal-hal yang dapat mengakibatkan perubahan \nklasifikasi yang telah ditetapkan terhadap Nasabah.  \n \nBAB IV \nTRANSPARANSI INFORMASI PRODUK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TRANSPARANSI INFORMASI PRODUK",
+      "teks_lengkap": "(1) \nBank wajib menerapkan transparansi informasi dalam \nmelakukan pemasaran, penawaran, dan pelaksanaan \ntransaksi Structured Product. \n(2) \nDalam \nmenerapkan \ntransparansi \ninformasi \nsebagaimana dimaksud pada ayat (1) Bank wajib: \na. \nmengungkapkan informasi yang lengkap, benar, \ndan tidak menyesatkan kepada Nasabah; \nb. \nmemastikan pemberian informasi yang berimbang \nantara potensi manfaat yang mungkin diperoleh \ndengan risiko yang mungkin timbul bagi Nasabah \ndari transaksi Structured Product; dan \nc. \nmemastikan informasi yang disampaikan tidak \nmenyamarkan, mengurangi, atau menutupi hal-\nhal yang penting terkait risiko yang mungkin \ntimbul dari transaksi Structured Product.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan transparansi informasi dalam \nmelakukan pemasaran, penawaran, dan pelaksanaan \ntransaksi Structured Product."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmenerapkan \ntransparansi \ninformasi \nsebagaimana dimaksud pada ayat (1) Bank wajib: \na. \nmengungkapkan informasi yang lengkap, benar, \ndan tidak menyesatkan kepada Nasabah; \nb. \nmemastikan pemberian informasi yang berimbang \nantara potensi manfaat yang mungkin diperoleh \ndengan risiko yang mungkin timbul bagi Nasabah \ndari transaksi Structured Product; dan \nc. \nmemastikan informasi yang disampaikan tidak \nmenyamarkan, mengurangi, atau menutupi hal-\nhal yang penting terkait risiko yang mungkin \ntimbul dari transaksi Structured Product."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TRANSPARANSI INFORMASI PRODUK",
+      "teks_lengkap": "Dalam mengungkapkan informasi sebagaimana dimaksud \ndalam Pasal 17 ayat (2), Bank wajib mengungkapkan \n\n\n \n \n \n \ninformasi mengenai Structured Product yang paling sedikit \nmeliputi:   \n \na. \nnama Structured Product dan penerbit Structured \nProduct; \nb. \nkarakteristik dan fitur dari Structured Product; \nc. \nilustrasi perhitungan bunga atau pendapatan atau \nmargin keuntungan yang dapat diperoleh Nasabah \ndari Structured Product; \nd. \nilustrasi \nperhitungan \nrisiko \ndan \nkerugian \nyang \nmungkin ditanggung Nasabah dari Structured Product; \ne. \nbiaya yang melekat dari Structured Product; \nf. \nsyarat dan kondisi Structured Product yang meliputi \nantara lain: \n1. \njangka waktu; \n2. \ntanggal efektif; \n3. \npenyelesaian transaksi (transaction settlement); \n4. \npenghentian transaksi sebelum jatuh tempo (early \ntermination) yang meliputi paling sedikit: \na) \nkondisi \nyang \ndapat \nmenyebabkan \npenghentian sebelum jatuh tempo; \nb) \nprosedur \nuntuk \nmelakukan \npenghentian \nsebelum jatuh tempo; dan \nc) \nmekanisme penyelesaian transaksi, yang \nmeliputi perhitungan dan pembebanan biaya \ndan kerugian; dan \n5. \npenyelesaian sengketa; \ng. \npernyataan \nbahwa \nStructured \nProduct \ntidak \nbertentangan dengan ketentuan dan perundang-\nundangan; \nh. \ninformasi \nmengenai \nkejelasan \ncakupan \nprogram \npenjaminan \natas \nStructured \nProduct \ndalam \nhal \nStructured Product terkait kegiatan penghimpunan \ndana; dan  \ni. \ninformasi lain yang diperlukan Nasabah untuk menilai \ndan mengambil keputusan terkait Structured Product.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam mengungkapkan informasi sebagaimana dimaksud \ndalam Pasal 17 ayat (2), Bank wajib mengungkapkan \n\n\n \n \n \n \ninformasi mengenai Structured Product yang paling sedikit \nmeliputi:   \n \na. \nnama Structured Product dan penerbit Structured \nProduct; \nb. \nkarakteristik dan fitur dari Structured Product; \nc. \nilustrasi perhitungan bunga atau pendapatan atau \nmargin keuntungan yang dapat diperoleh Nasabah \ndari Structured Product; \nd. \nilustrasi \nperhitungan \nrisiko \ndan \nkerugian \nyang \nmungkin ditanggung Nasabah dari Structured Product; \ne. \nbiaya yang melekat dari Structured Product; \nf. \nsyarat dan kondisi Structured Product yang meliputi \nantara lain: \n1. \njangka waktu; \n2. \ntanggal efektif; \n3. \npenyelesaian transaksi (transaction settlement); \n4. \npenghentian transaksi sebelum jatuh tempo (early \ntermination) yang meliputi paling sedikit: \na) \nkondisi \nyang \ndapat \nmenyebabkan \npenghentian sebelum jatuh tempo; \nb) \nprosedur \nuntuk \nmelakukan \npenghentian \nsebelum jatuh tempo; dan \nc) \nmekanisme penyelesaian transaksi, yang \nmeliputi perhitungan dan pembebanan biaya \ndan kerugian; dan \n5. \npenyelesaian sengketa; \ng. \npernyataan \nbahwa \nStructured \nProduct \ntidak \nbertentangan dengan ketentuan dan perundang-\nundangan; \nh. \ninformasi \nmengenai \nkejelasan \ncakupan \nprogram \npenjaminan \natas \nStructured \nProduct \ndalam \nhal \nStructured Product terkait kegiatan penghimpunan \ndana; dan  \ni. \ninformasi lain yang diperlukan Nasabah untuk menilai \ndan mengambil keputusan terkait Structured Product."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TRANSPARANSI INFORMASI PRODUK",
+      "teks_lengkap": "Dalam hal Bank menggunakan variabel-variabel ekonomi, \nseperti inflasi, suku bunga, dan/atau nilai tukar, dalam \nmemberikan ilustrasi terkait pengungkapan informasi \nsebagaimana dimaksud dalam Pasal 18, Bank wajib: \na. \nmemastikan ilustrasi didasarkan pada asumsi yang \ndidukung \noleh \ndata \nyang \ndapat \ndipertanggungjawabkan; dan \nb. \nmemastikan \ndata \npendukung \nsebagaimana \nyang \ndimaksud pada huruf a disajikan paling sedikit \nberdasarkan data historis 3 (tiga) tahun berturut-turut \nsecara bulanan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal Bank menggunakan variabel-variabel ekonomi, \nseperti inflasi, suku bunga, dan/atau nilai tukar, dalam \nmemberikan ilustrasi terkait pengungkapan informasi \nsebagaimana dimaksud dalam Pasal 18, Bank wajib: \na. \nmemastikan ilustrasi didasarkan pada asumsi yang \ndidukung \noleh \ndata \nyang \ndapat \ndipertanggungjawabkan; dan \nb. \nmemastikan \ndata \npendukung \nsebagaimana \nyang \ndimaksud pada huruf a disajikan paling sedikit \nberdasarkan data historis 3 (tiga) tahun berturut-turut \nsecara bulanan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "TRANSPARANSI INFORMASI PRODUK",
+      "teks_lengkap": "Bank wajib memberikan laporan tertulis secara berkala \nkepada Nasabah mengenai informasi perkembangan dan \nkinerja Structured Product maupun informasi material \nlainnya yang berpengaruh terhadap kinerja Structured \nProduct. \n \nBAB V \nPEMASARAN DAN PENAWARAN STRUCTURED PRODUCT  \n \n \nBagian Kesatu \nPemasaran Structured Product",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank wajib memberikan laporan tertulis secara berkala \nkepada Nasabah mengenai informasi perkembangan dan \nkinerja Structured Product maupun informasi material \nlainnya yang berpengaruh terhadap kinerja Structured \nProduct. \n \nBAB V \nPEMASARAN DAN PENAWARAN STRUCTURED PRODUCT  \n \n \nBagian Kesatu \nPemasaran Structured Product"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMASARAN DAN PENAWARAN STRUCTURED PRODUCT",
+      "teks_lengkap": "(1) \nBank dapat menggunakan media pemasaran dalam \npemasaran Structured Product. \n(2) \nDalam memasarkan Structured Product sebagaimana \ndimaksud pada ayat (1), Bank wajib memastikan \nbahwa informasi yang disampaikan melalui media \npemasaran \ntelah \nmemenuhi \nprinsip-prinsip \ntransparansi informasi sebagaimana dimaksud dalam \nPasal 17 ayat (2), Pasal 18, dan Pasal 19. \n(3) \nPenyajian informasi yang disampaikan oleh Bank \n\n\n \n \n \n \nsebagaimana \ndimaksud \npada \nayat \n(2) \ndapat \ndisesuaikan dengan media pemasaran yang digunakan \ntanpa mengurangi substansi informasi yang disajikan. \n \n(4) \nInformasi yang disampaikan oleh Bank sebagaimana \ndimaksud pada ayat (3) wajib disajikan dalam bahasa \nIndonesia.  \n \nBagian Kedua \nPenawaran",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat menggunakan media pemasaran dalam \npemasaran Structured Product."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam memasarkan Structured Product sebagaimana \ndimaksud pada ayat (1), Bank wajib memastikan \nbahwa informasi yang disampaikan melalui media \npemasaran \ntelah \nmemenuhi \nprinsip-prinsip \ntransparansi informasi sebagaimana dimaksud dalam \nPasal 17 ayat (2), Pasal 18, dan Pasal 19."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyajian informasi yang disampaikan oleh Bank \n\n\n \n \n \n \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dapat \ndisesuaikan dengan media pemasaran yang digunakan \ntanpa mengurangi substansi informasi yang disajikan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Informasi yang disampaikan oleh Bank sebagaimana \ndimaksud pada ayat (3) wajib disajikan dalam bahasa \nIndonesia.  \n \nBagian Kedua \nPenawaran"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMASARAN DAN PENAWARAN STRUCTURED PRODUCT",
+      "teks_lengkap": "(1) \nBank wajib memperhatikan kesesuaian antara tingkat \nrisiko Structured Product (Structured Product risk level \nassessment) dengan profil risiko Nasabah dalam \nmenawarkan dan melakukan transaksi Structured \nProduct dengan Nasabah. \n(2) \nBank dilarang menawarkan dan melakukan transaksi \nStructured \nProduct \ndengan \nNasabah \nyang \ndiklasifikasikan sebagai Nasabah retail sebagaimana \ndimaksud dalam Pasal 15 ayat (5). \n(3) \nLarangan menawarkan dan melakukan transaksi \nStructured \nProduct \ndengan \nNasabah \nyang \ndiklasifikasikan sebagai Nasabah retail sebagaimana \ndimaksud pada ayat (2) dikecualikan untuk Structured \nProduct yang diterbitkan oleh Bank disertai dengan \nproteksi penuh atas pokok dalam mata uang asal pada \nsaat jatuh tempo. \n(4) \nBank dilarang menawarkan dan melakukan transaksi \nStructured \nProduct \ndengan \nNasabah \nyang \ndiklasifikasikan sebagai Nasabah eligible sebagaimana \ndimaksud dalam Pasal 15 ayat (4) dalam hal \nStructured Product memenuhi paling sedikit 1 (satu) \ndari persyaratan: \na. \ndapat menimbulkan potensi kerugian melebihi \npokok yang ditanamkan Nasabah; dan/atau \nb. \nStructured \nProduct \nyang \nmerupakan \npenggabungan antara derivatif dengan derivatif. \n\n\n \n \n \n \n(5) \nBank \ndilarang \nmenggunakan \nBank \nlain \nuntuk \nbertindak sebagai agen penjual Structured Product \nyang diterbitkan oleh Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memperhatikan kesesuaian antara tingkat \nrisiko Structured Product (Structured Product risk level \nassessment) dengan profil risiko Nasabah dalam \nmenawarkan dan melakukan transaksi Structured \nProduct dengan Nasabah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dilarang menawarkan dan melakukan transaksi \nStructured \nProduct \ndengan \nNasabah \nyang \ndiklasifikasikan sebagai Nasabah retail sebagaimana \ndimaksud dalam Pasal 15 ayat (5)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Larangan menawarkan dan melakukan transaksi \nStructured \nProduct \ndengan \nNasabah \nyang \ndiklasifikasikan sebagai Nasabah retail sebagaimana \ndimaksud pada ayat (2) dikecualikan untuk Structured \nProduct yang diterbitkan oleh Bank disertai dengan \nproteksi penuh atas pokok dalam mata uang asal pada \nsaat jatuh tempo."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank dilarang menawarkan dan melakukan transaksi \nStructured \nProduct \ndengan \nNasabah \nyang \ndiklasifikasikan sebagai Nasabah eligible sebagaimana \ndimaksud dalam Pasal 15 ayat (4) dalam hal \nStructured Product memenuhi paling sedikit 1 (satu) \ndari persyaratan: \na. \ndapat menimbulkan potensi kerugian melebihi \npokok yang ditanamkan Nasabah; dan/atau \nb. \nStructured \nProduct \nyang \nmerupakan \npenggabungan antara derivatif dengan derivatif."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank \ndilarang \nmenggunakan \nBank \nlain \nuntuk \nbertindak sebagai agen penjual Structured Product \nyang diterbitkan oleh Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMASARAN DAN PENAWARAN STRUCTURED PRODUCT",
+      "teks_lengkap": "(1) \nBank wajib melakukan pertemuan langsung dengan \nNasabah dalam melakukan penawaran Structured \nProduct. \n(2) \nBank wajib menetapkan secara khusus pegawai yang \ndapat bertindak untuk dan atas nama Bank dalam \nmelakukan hubungan dan/atau komunikasi dengan \nNasabah \ndalam \nmelakukan \nkegiatan \npenawaran \nStructured \nProduct \nsebagaimana \ndimaksud \npada     \nayat (1).  \n(3) \nPegawai sebagaimana dimaksud pada ayat (2) wajib \nmemenuhi persyaratan: \na. \nmerupakan pegawai tetap Bank; dan \nb. \ntelah \ndiberikan \npelatihan \nyang \nmemadai \nmengenai Structured Product.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib melakukan pertemuan langsung dengan \nNasabah dalam melakukan penawaran Structured \nProduct."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank wajib menetapkan secara khusus pegawai yang \ndapat bertindak untuk dan atas nama Bank dalam \nmelakukan hubungan dan/atau komunikasi dengan \nNasabah \ndalam \nmelakukan \nkegiatan \npenawaran \nStructured \nProduct \nsebagaimana \ndimaksud \npada     \nayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pegawai sebagaimana dimaksud pada ayat (2) wajib \nmemenuhi persyaratan: \na. \nmerupakan pegawai tetap Bank; dan \nb. \ntelah \ndiberikan \npelatihan \nyang \nmemadai \nmengenai Structured Product."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PEMASARAN DAN PENAWARAN STRUCTURED PRODUCT",
+      "teks_lengkap": "(1) \nDalam melakukan penawaran Structured Product \nsebagaimana dimaksud dalam Pasal 23, Bank wajib \nmemastikan bahwa informasi yang disampaikan dalam \npenawaran \ntelah \nmemenuhi \nprinsip-prinsip \ntransparansi informasi sebagaimana dimaksud dalam \nPasal 17 ayat (2), Pasal 18, dan Pasal 19. \n(2) \nDalam melakukan penawaran Structured Product, \nBank wajib menyampaikan kepada Nasabah dokumen \ntertulis yang paling sedikit mencakup: \na. \nprospektus atau term sheet; dan \nb. \nproduct highlight sheet, \ndari Structured Product yang ditawarkan. \n(3) \nKewajiban penyampaian dokumen berupa product \nhighlight sheet sebagaimana dimaksud pada ayat (2) \nhuruf b, dikecualikan untuk Nasabah berupa Bank. \n(4) \nDokumen sebagaimana dimaksud pada ayat (2) wajib \ndisajikan dalam bahasa Indonesia. \n\n\n \n \n \n \n(5) \nBank wajib mendokumentasikan penjelasan lisan yang \ndisampaikan Bank kepada Nasabah dalam melakukan \npenawaran Structured Product beserta tanggapan yang \ndiberikan Nasabah. \n \n \nBAB VI \nMASA JEDA (COOLING OFF PERIOD)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan penawaran Structured Product \nsebagaimana dimaksud dalam Pasal 23, Bank wajib \nmemastikan bahwa informasi yang disampaikan dalam \npenawaran \ntelah \nmemenuhi \nprinsip-prinsip \ntransparansi informasi sebagaimana dimaksud dalam \nPasal 17 ayat (2), Pasal 18, dan Pasal 19."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam melakukan penawaran Structured Product, \nBank wajib menyampaikan kepada Nasabah dokumen \ntertulis yang paling sedikit mencakup: \na. \nprospektus atau term sheet; dan \nb. \nproduct highlight sheet, \ndari Structured Product yang ditawarkan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kewajiban penyampaian dokumen berupa product \nhighlight sheet sebagaimana dimaksud pada ayat (2) \nhuruf b, dikecualikan untuk Nasabah berupa Bank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dokumen sebagaimana dimaksud pada ayat (2) wajib \ndisajikan dalam bahasa Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank wajib mendokumentasikan penjelasan lisan yang \ndisampaikan Bank kepada Nasabah dalam melakukan \npenawaran Structured Product beserta tanggapan yang \ndiberikan Nasabah. \n \n \nBAB VI \nMASA JEDA (COOLING OFF PERIOD)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "MASA JEDA (COOLING OFF PERIOD)",
+      "teks_lengkap": "(1) \nBank wajib memberikan waktu kepada Nasabah untuk \nmempelajari \npenawaran \ndan \ndokumen \nyang \ndisampaikan Bank kepada Nasabah sebagaimana \ndimaksud dalam Pasal 24. \n(2) \nPemberian waktu sebagaimana dimaksud pada ayat (1) \ndilakukan dengan pemberian masa jeda (cooling off \nperiod) antara waktu disampaikannya penawaran oleh \nBank \ndengan \nwaktu \nNasabah \nmengajukan \npermohonan \nuntuk \nmenerima \natau \nmenolak \nmelakukan transaksi Structured Product Bank. \n(3) \nJangka waktu masa jeda (cooling off period) yang \ndiberikan sebagaimana dimaksud pada ayat (2) paling \nsedikit: \na. \n3 (tiga) hari kerja setelah Nasabah perseorangan \nmenerima \ndokumen \npenawaran \nsebagaimana \ndimaksud dalam Pasal 24 ayat (2); atau \nb. \n2 (dua) hari kerja setelah Nasabah perusahaan \nmenerima \ndokumen \npenawaran \nsebagaimana \ndimaksud dalam Pasal 24 ayat (2). \n(4) \nKetentuan mengenai kewajiban masa jeda (cooling off \nperiod) \nsebagaimana \ndimaksud \npada \nayat \n(3) \ndikecualikan untuk: \na. \npenawaran Structured Product yang diterbitkan \noleh Bank disertai dengan proteksi penuh atas \npokok dalam mata uang asal pada saat jatuh \ntempo; dan/atau \nb. \npenawaran Structured Product kepada Nasabah \n\n\n \n \n \n \nberupa bank. \n \nBAB VII \nPERNYATAAN NASABAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memberikan waktu kepada Nasabah untuk \nmempelajari \npenawaran \ndan \ndokumen \nyang \ndisampaikan Bank kepada Nasabah sebagaimana \ndimaksud dalam Pasal 24."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemberian waktu sebagaimana dimaksud pada ayat (1) \ndilakukan dengan pemberian masa jeda (cooling off \nperiod) antara waktu disampaikannya penawaran oleh \nBank \ndengan \nwaktu \nNasabah \nmengajukan \npermohonan \nuntuk \nmenerima \natau \nmenolak \nmelakukan transaksi Structured Product Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Jangka waktu masa jeda (cooling off period) yang \ndiberikan sebagaimana dimaksud pada ayat (2) paling \nsedikit: \na. \n3 (tiga) hari kerja setelah Nasabah perseorangan \nmenerima \ndokumen \npenawaran \nsebagaimana \ndimaksud dalam Pasal 24 ayat (2); atau \nb. \n2 (dua) hari kerja setelah Nasabah perusahaan \nmenerima \ndokumen \npenawaran \nsebagaimana \ndimaksud dalam Pasal 24 ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai kewajiban masa jeda (cooling off \nperiod) \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "dikecualikan untuk: \na. \npenawaran Structured Product yang diterbitkan \noleh Bank disertai dengan proteksi penuh atas \npokok dalam mata uang asal pada saat jatuh \ntempo; dan/atau \nb. \npenawaran Structured Product kepada Nasabah \n\n\n \n \n \n \nberupa bank. \n \nBAB VII \nPERNYATAAN NASABAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERNYATAAN NASABAH",
+      "teks_lengkap": "(1) \nDalam hal Nasabah mengajukan permohonan untuk \nmelakukan transaksi Structured Product, Bank wajib \nmemastikan bahwa Nasabah telah menerima dan \nmemahami informasi yang tercantum dalam dokumen \npenawaran sebagaimana dimaksud dalam Pasal 24     \nayat (2). \n(2) \nPemahaman Nasabah sebagaimana dimaksud pada \nayat (1) wajib dituangkan dalam dokumen tertulis \nyang terpisah, disajikan dalam bahasa Indonesia, dan \nditandatangani oleh Nasabah dengan menggunakan \ntanda tangan basah. \n(3) \nBank \nwajib \nmemastikan \nbahwa \npihak \nyang \nmenandatangani \ndokumen \ntertulis \nsebagaimana \ndimaksud pada ayat (2) merupakan pihak yang \nmempunyai kewenangan secara hukum.  \nBAB VIII \nPERJANJIAN STRUCTURED PRODUCT",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Nasabah mengajukan permohonan untuk \nmelakukan transaksi Structured Product, Bank wajib \nmemastikan bahwa Nasabah telah menerima dan \nmemahami informasi yang tercantum dalam dokumen \npenawaran sebagaimana dimaksud dalam Pasal 24     \nayat (2)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemahaman Nasabah sebagaimana dimaksud pada \nayat (1) wajib dituangkan dalam dokumen tertulis \nyang terpisah, disajikan dalam bahasa Indonesia, dan \nditandatangani oleh Nasabah dengan menggunakan \ntanda tangan basah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nwajib \nmemastikan \nbahwa \npihak \nyang \nmenandatangani \ndokumen \ntertulis \nsebagaimana \ndimaksud pada ayat (2) merupakan pihak yang \nmempunyai kewenangan secara hukum.  \nBAB VIII \nPERJANJIAN STRUCTURED PRODUCT"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PERJANJIAN STRUCTURED PRODUCT",
+      "teks_lengkap": "(1) \nKesepakatan antara Bank dengan Nasabah dalam \nmelakukan \ntransaksi \nStructured \nProduct \nwajib \ndituangkan dalam perjanjian tertulis. \n(2) \nDalam hal Bank dan Nasabah sepakat mengenai \nkemungkinan \npenghentian \ntransaksi \nStructured \nProduct sebelum jatuh tempo (early termination), \nklausula penghentian transaksi Structured Product \nsebelum \njatuh \ntempo \n(early \ntermination) \nwajib \ndicantumkan dalam perjanjian Structured Product. \n(3) \nPerjanjian \ntertulis \nsebagaimana \ndimaksud \npada       \nayat (1) wajib disajikan dalam bahasa Indonesia dan \nditandatangani oleh para pihak dengan menggunakan \ntanda tangan basah. \n\n\n \n \n \n \n(4) \nBank \nwajib \nmemastikan \nbahwa \npihak \nyang \nmenandatangani \nperjanjian \ntertulis \nsebagaimana \ndimaksud pada ayat (3) merupakan pihak yang \nmempunyai kewenangan secara hukum. \n(5) \nDokumen sebagaimana dimaksud dalam Pasal 24  \nayat (2) dan Pasal 26 ayat (2) merupakan bagian yang \ntidak terpisahkan dari perjanjian tertulis sebagaimana \ndimaksud pada ayat (1). \n \nBAB IX \nTATA CARA PENGAJUAN  \nPERSETUJUAN PRINSIP DAN PERNYATAAN EFEKTIF",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kesepakatan antara Bank dengan Nasabah dalam \nmelakukan \ntransaksi \nStructured \nProduct \nwajib \ndituangkan dalam perjanjian tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank dan Nasabah sepakat mengenai \nkemungkinan \npenghentian \ntransaksi \nStructured \nProduct sebelum jatuh tempo (early termination), \nklausula penghentian transaksi Structured Product \nsebelum \njatuh \ntempo \n(early \ntermination) \nwajib \ndicantumkan dalam perjanjian Structured Product."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perjanjian \ntertulis \nsebagaimana \ndimaksud \npada       \nayat (1) wajib disajikan dalam bahasa Indonesia dan \nditandatangani oleh para pihak dengan menggunakan \ntanda tangan basah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \nwajib \nmemastikan \nbahwa \npihak \nyang \nmenandatangani \nperjanjian \ntertulis \nsebagaimana \ndimaksud pada ayat (3) merupakan pihak yang \nmempunyai kewenangan secara hukum."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dokumen sebagaimana dimaksud dalam Pasal 24  \nayat (2) dan Pasal 26 ayat (2) merupakan bagian yang \ntidak terpisahkan dari perjanjian tertulis sebagaimana \ndimaksud pada ayat (1). \n \nBAB IX \nTATA CARA PENGAJUAN  \nPERSETUJUAN PRINSIP DAN PERNYATAAN EFEKTIF"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TATA CARA PENGAJUAN PERSETUJUAN PRINSIP DAN PERNYATAAN EFEKTIF",
+      "teks_lengkap": "(1) \nUntuk memperoleh persetujuan prinsip sebagaimana \ndimaksud dalam Pasal 2 huruf a, Bank wajib \nmengajukan \npermohonan \nkepada \nOtoritas \nJasa \nKeuangan. \n(2) \nPengajuan \npermohonan \npersetujuan \nprinsip \nsebagaimana \ndimaksud \npada \nayat \n(1) \nwajib \ndisampaikan secara tertulis kepada Otoritas Jasa \nKeuangan dan dilampiri dokumen pendukung berupa: \na. \ndokumen kebijakan dan prosedur sebagaimana \ndimaksud dalam Pasal 11; dan \nb. \ndokumen persyaratan sumber daya manusia \nsebagaimana dimaksud dalam Pasal 23 ayat (2) \ndan ayat (3).  \n(3) \nPersetujuan atau penolakan permohonan persetujuan \nprinsip \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndisampaikan secara tertulis kepada Bank paling \nlambat 60 (enam puluh) hari kerja setelah dokumen \npermohonan \npersetujuan \nprinsip \nsebagaimana \ndimaksud pada ayat (2) diterima secara lengkap oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk memperoleh persetujuan prinsip sebagaimana \ndimaksud dalam Pasal 2 huruf a, Bank wajib \nmengajukan \npermohonan \nkepada \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengajuan \npermohonan \npersetujuan \nprinsip \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "wajib \ndisampaikan secara tertulis kepada Otoritas Jasa \nKeuangan dan dilampiri dokumen pendukung berupa: \na. \ndokumen kebijakan dan prosedur sebagaimana \ndimaksud dalam Pasal 11; dan \nb. \ndokumen persyaratan sumber daya manusia \nsebagaimana dimaksud dalam Pasal 23 ayat (2) \ndan ayat (3)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Persetujuan atau penolakan permohonan persetujuan \nprinsip \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan secara tertulis kepada Bank paling \nlambat 60 (enam puluh) hari kerja setelah dokumen \npermohonan \npersetujuan \nprinsip \nsebagaimana \ndimaksud pada ayat (2) diterima secara lengkap oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TATA CARA PENGAJUAN PERSETUJUAN PRINSIP DAN PERNYATAAN EFEKTIF",
+      "teks_lengkap": "(1) \nUntuk memperoleh pernyataan efektif sebagaimana \ndimaksud dalam Pasal 2 huruf b, Bank wajib \nmengajukan \npermohonan \nkepada \nOtoritas \nJasa \nKeuangan. \n(2) \nPermohonan \npernyataan \nefektif \nsebagaimana \ndimaksud pada ayat (1) hanya dapat diajukan jika \nBank telah memperoleh persetujuan prinsip dari \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 2 huruf a. \n(3) \nPengajuan \npermohonan \npernyataan \nefektif \nsebagaimana \ndimaksud \npada \nayat \n(1) \nwajib \ndisampaikan secara tertulis kepada Otoritas Jasa \nKeuangan dan dilampiri dokumen pendukung berupa: \na. \ndokumen \npemasaran \nsebagaimana \ndimaksud \ndalam Pasal 21, jika ada; \nb. \ndokumen penawaran berupa prospektus atau \nterm \nsheet \ndan \nproduct \nhighlight \nsheet \nsebagaimana dimaksud dalam Pasal 24 ayat (2); \nc. \ndokumen terkait hasil kajian unit kerja terkait \nsebagai pelaksanaan dari kebijakan dan prosedur \nsebagaimana dimaksud dalam Pasal 11 ayat (2) \nhuruf a, huruf b, huruf c, dan huruf f, berupa: \n1. \npenilaian tingkat risiko Structured Product \n(Structured Product risk level assessment); \n2. \nprofil risiko Nasabah; \n3. \nkesesuaian tingkat risiko Structured Product \n(Structured Product risk level assessment) \ndengan profil risiko Nasabah; dan \n4. \npelaksanaan Kegiatan Structured Product; \nd. \ndokumen yang menyatakan bahwa Bank telah \nmemperoleh persetujuan atau izin dari otoritas \nyang berwenang dalam hal 1 (satu) atau lebih dari \ninstrument yang mendasari Structured Product \nmerupakan \ninstrumen \nyang \nmemerlukan \npersetujuan \natau \nizin \ndari \notoritas \nyang \n\n\n \n \n \n \nberwenang. \n(4) \nPernyataan \nefektif \nsebagaimana \ndimaksud \npada     \nayat (1) disampaikan secara tertulis kepada Bank \npaling lambat 60 (enam puluh) hari kerja setelah \ndokumen permohonan pernyataan efektif sebagaimana \ndimaksud pada ayat (3) diterima secara lengkap oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk memperoleh pernyataan efektif sebagaimana \ndimaksud dalam Pasal 2 huruf b, Bank wajib \nmengajukan \npermohonan \nkepada \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan \npernyataan \nefektif \nsebagaimana \ndimaksud pada ayat (1) hanya dapat diajukan jika \nBank telah memperoleh persetujuan prinsip dari \nOtoritas Jasa Keuangan sebagaimana dimaksud dalam \nPasal 2 huruf a."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengajuan \npermohonan \npernyataan \nefektif \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "wajib \ndisampaikan secara tertulis kepada Otoritas Jasa \nKeuangan dan dilampiri dokumen pendukung berupa: \na. \ndokumen \npemasaran \nsebagaimana \ndimaksud \ndalam Pasal 21, jika ada; \nb. \ndokumen penawaran berupa prospektus atau \nterm \nsheet \ndan \nproduct \nhighlight \nsheet \nsebagaimana dimaksud dalam Pasal 24 ayat (2); \nc. \ndokumen terkait hasil kajian unit kerja terkait \nsebagai pelaksanaan dari kebijakan dan prosedur \nsebagaimana dimaksud dalam Pasal 11 ayat (2) \nhuruf a, huruf b, huruf c, dan huruf f, berupa: \n1. \npenilaian tingkat risiko Structured Product \n(Structured Product risk level assessment); \n2. \nprofil risiko Nasabah; \n3. \nkesesuaian tingkat risiko Structured Product \n(Structured Product risk level assessment) \ndengan profil risiko Nasabah; dan \n4. \npelaksanaan Kegiatan Structured Product; \nd. \ndokumen yang menyatakan bahwa Bank telah \nmemperoleh persetujuan atau izin dari otoritas \nyang berwenang dalam hal 1 (satu) atau lebih dari \ninstrument yang mendasari Structured Product \nmerupakan \ninstrumen \nyang \nmemerlukan \npersetujuan \natau \nizin \ndari \notoritas \nyang \n\n\n \n \n \n \nberwenang."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pernyataan \nefektif \nsebagaimana \ndimaksud \npada     \nayat (1) disampaikan secara tertulis kepada Bank \npaling lambat 60 (enam puluh) hari kerja setelah \ndokumen permohonan pernyataan efektif sebagaimana \ndimaksud pada ayat (3) diterima secara lengkap oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "TATA CARA PENGAJUAN PERSETUJUAN PRINSIP DAN PERNYATAAN EFEKTIF",
+      "teks_lengkap": "(1) \nKetentuan mengenai kewajiban pernyataan efektif \nsebagaimana dimaksud dalam Pasal 2 huruf b dan   \nPasal 29 dikecualikan untuk Structured Product yang \nditerbitkan oleh Bank yang disertai dengan proteksi \npenuh atas pokok dalam mata uang asal pada saat \njatuh tempo. \n(2) \nPenerbitan Structured Product oleh Bank yang disertai \ndengan proteksi penuh atas pokok dalam mata uang \nasal pada saat jatuh tempo sebagaimana dimaksud \npada   ayat (1), berpedoman pada tata cara pelaporan \nuntuk produk dan aktivitas baru sebagaimana diatur \ndalam ketentuan mengenai penerapan manajemen \nrisiko bagi Bank. \n \nBAB X \nLAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Ketentuan mengenai kewajiban pernyataan efektif \nsebagaimana dimaksud dalam Pasal 2 huruf b dan   \nPasal 29 dikecualikan untuk Structured Product yang \nditerbitkan oleh Bank yang disertai dengan proteksi \npenuh atas pokok dalam mata uang asal pada saat \njatuh tempo."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerbitan Structured Product oleh Bank yang disertai \ndengan proteksi penuh atas pokok dalam mata uang \nasal pada saat jatuh tempo sebagaimana dimaksud \npada   ayat (1), berpedoman pada tata cara pelaporan \nuntuk produk dan aktivitas baru sebagaimana diatur \ndalam ketentuan mengenai penerapan manajemen \nrisiko bagi Bank. \n \nBAB X \nLAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB X",
+      "bab_judul": "LAPORAN",
+      "teks_lengkap": "(1) \nBank menyampaikan laporan mengenai transaksi \nStructured Product setiap bulan secara online melalui \nsistem pelaporan Otoritas Jasa Keuangan. \n(2) \nDalam \nhal \npenyampaian \nlaporan \nsebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, Bank \nmenyampaikan laporan rutin setiap bulan secara \nonline melalui sistem Laporan Kantor Pusat Bank \nUmum (LKPBU). \n(3) \nPenyampaian laporan rutin setiap bulan secara online \nmelalui  sistem  LKPBU  sebagaimana  dimaksud  pada \n\n\n \n \n \n \n \nayat (2) dilakukan sesuai tata cara, format, dan jangka \nwaktu dalam ketentuan mengenai LKPBU. \n \nBAB XI \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank menyampaikan laporan mengenai transaksi \nStructured Product setiap bulan secara online melalui \nsistem pelaporan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \npenyampaian \nlaporan \nsebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, Bank \nmenyampaikan laporan rutin setiap bulan secara \nonline melalui sistem Laporan Kantor Pusat Bank \nUmum (LKPBU)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyampaian laporan rutin setiap bulan secara online \nmelalui  sistem  LKPBU  sebagaimana  dimaksud  pada \n\n\n \n \n \n \n \nayat (2) dilakukan sesuai tata cara, format, dan jangka \nwaktu dalam ketentuan mengenai LKPBU. \n \nBAB XI \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2, Pasal 3, Pasal 4, Pasal 5, Pasal 6 \nayat (1), Pasal 6 ayat (2), Pasal 7, Pasal 8, Pasal 9, Pasal 10, \nPasal 11, Pasal 12, Pasal 13, Pasal 14, Pasal 15, Pasal 16, \nPasal 17, Pasal 18, Pasal 19, Pasal 20, Pasal 21 ayat (2), \nPasal 21 ayat (3), Pasal 21 ayat (4), Pasal 22 ayat (1),    \nPasal 22 ayat (2), Pasal 22 ayat (4), Pasal 22 ayat (5), Pasal \n23, Pasal 24 ayat (1), Pasal 24 ayat (2), Pasal 24 ayat (4), \nPasal 24 ayat (5), Pasal 25 ayat (1), Pasal 25 ayat (2),    \nPasal 25 ayat (3), Pasal 26 atau Pasal 27, dikenakan sanksi \nadministratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan Bank; \nc. \npembekuan \ndan \npencabutan \npersetujuan \nuntuk \nkegiatan usaha tertentu, baik untuk kantor cabang \ntertentu maupun untuk Bank secara keseluruhan; \nd. \npemberhentian \npengurus \nBank \ndan \nselanjutnya \nmenunjuk dan mengangkat pengganti sementara \nsampai Rapat Umum Pemegang Saham atau Rapat \nAnggota Koperasi mengangkat pengganti tetap dengan \npersetujuan Otoritas Jasa Keuangan; dan/atau \ne. \npencantuman \npemegang \nsaham, \npengurus \natau \npejabat eksekutif dalam daftar tidak lulus di bidang \nperbankan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2, Pasal 3, Pasal 4, Pasal 5, Pasal 6 \nayat (1), Pasal 6 ayat (2), Pasal 7, Pasal 8, Pasal 9, Pasal 10, \nPasal 11, Pasal 12, Pasal 13, Pasal 14, Pasal 15, Pasal 16, \nPasal 17, Pasal 18, Pasal 19, Pasal 20, Pasal 21 ayat (2), \nPasal 21 ayat (3), Pasal 21 ayat (4), Pasal 22 ayat (1),    \nPasal 22 ayat (2), Pasal 22 ayat (4), Pasal 22 ayat (5), Pasal \n23, Pasal 24 ayat (1), Pasal 24 ayat (2), Pasal 24 ayat (4), \nPasal 24 ayat (5), Pasal 25 ayat (1), Pasal 25 ayat (2),    \nPasal 25 ayat (3), Pasal 26 atau Pasal 27, dikenakan sanksi \nadministratif berupa: \na. \nteguran tertulis; \nb. \npenurunan tingkat kesehatan Bank; \nc. \npembekuan \ndan \npencabutan \npersetujuan \nuntuk \nkegiatan usaha tertentu, baik untuk kantor cabang \ntertentu maupun untuk Bank secara keseluruhan; \nd. \npemberhentian \npengurus \nBank \ndan \nselanjutnya \nmenunjuk dan mengangkat pengganti sementara \nsampai Rapat Umum Pemegang Saham atau Rapat \nAnggota Koperasi mengangkat pengganti tetap dengan \npersetujuan Otoritas Jasa Keuangan; dan/atau \ne. \npencantuman \npemegang \nsaham, \npengurus \natau \npejabat eksekutif dalam daftar tidak lulus di bidang \nperbankan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 30 ayat (2) dikenakan sanksi \nsebagaimana diatur dalam ketentuan mengenai penerapan \n\n\n \n \n \n \nmanajemen risiko bagi Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 30 ayat (2) dikenakan sanksi \nsebagaimana diatur dalam ketentuan mengenai penerapan \n\n\n \n \n \n \nmanajemen risiko bagi Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Selain sanksi sebagaimana dimaksud dalam Pasal 32, \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2 dikenakan sanksi administratif \nberupa denda sebesar 1% (satu persen) dari nilai transaksi \nStuctured Product yang dilakukan dan paling banyak \nsebesar Rp27.000.000.000,00 (dua puluh tujuh miliar \nrupiah).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Selain sanksi sebagaimana dimaksud dalam Pasal 32, \nBank yang tidak memenuhi ketentuan sebagaimana \ndimaksud dalam Pasal 2 dikenakan sanksi administratif \nberupa denda sebesar 1% (satu persen) dari nilai transaksi \nStuctured Product yang dilakukan dan paling banyak \nsebesar Rp27.000.000.000,00 (dua puluh tujuh miliar \nrupiah)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Selain disebabkan oleh pelanggaran terhadap Peraturan \nOtoritas Jasa Keuangan ini sebagaimana dimaksud dalam \nPasal 32, Otoritas Jasa Keuangan dapat mencabut \npersetujuan prinsip dan/atau pernyataan efektif yang telah \ndiberikan sebagaimana dimaksud dalam Pasal 28 ayat (3) \ndan Pasal 29 ayat (4), dalam hal menurut penilaian \nOtoritas Jasa Keuangan: \na. \npenerapan prinsip manajemen risiko untuk Kegiatan \nStructured \nProduct \nyang \ndilakukan \nBank \ntidak \nmemadai; dan/atau \nb. \nrisiko yang timbul dari Kegiatan Structured Product \nyang \ndilakukan \nBank \ndapat \nmembahayakan \nkelangsungan usaha Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Selain disebabkan oleh pelanggaran terhadap Peraturan \nOtoritas Jasa Keuangan ini sebagaimana dimaksud dalam \nPasal 32, Otoritas Jasa Keuangan dapat mencabut \npersetujuan prinsip dan/atau pernyataan efektif yang telah \ndiberikan sebagaimana dimaksud dalam Pasal 28 ayat (3) \ndan Pasal 29 ayat (4), dalam hal menurut penilaian \nOtoritas Jasa Keuangan: \na. \npenerapan prinsip manajemen risiko untuk Kegiatan \nStructured \nProduct \nyang \ndilakukan \nBank \ntidak \nmemadai; dan/atau \nb. \nrisiko yang timbul dari Kegiatan Structured Product \nyang \ndilakukan \nBank \ndapat \nmembahayakan \nkelangsungan usaha Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Tata cara penyetoran pengenaan sanksi administratif \nberupa denda sebagaimana dimaksud dalam Pasal 34 \ndilakukan dengan mengacu pada Peraturan Otoritas Jasa \nKeuangan \nmengenai \ntata \ncara \npenagihan \nsanksi \nadministratif berupa denda di sektor jasa keuangan. \n \n \n \n \n \n \n\n\n \n \n \n \n \n \nBAB XII \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tata cara penyetoran pengenaan sanksi administratif \nberupa denda sebagaimana dimaksud dalam Pasal 34 \ndilakukan dengan mengacu pada Peraturan Otoritas Jasa \nKeuangan \nmengenai \ntata \ncara \npenagihan \nsanksi \nadministratif berupa denda di sektor jasa keuangan. \n \n \n \n \n \n \n\n\n \n \n \n \n \n \nBAB XII \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Selain mengacu kepada ketentuan sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan ini, pengaturan \nmengenai transaksi Structured Product yang di dalamnya \nmengandung unsur transaksi atau potensi transaksi valuta \nasing terhadap rupiah mengacu pula pada ketentuan yang \nmengatur mengenai transaksi valuta asing terhadap \nrupiah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Selain mengacu kepada ketentuan sebagaimana diatur \ndalam Peraturan Otoritas Jasa Keuangan ini, pengaturan \nmengenai transaksi Structured Product yang di dalamnya \nmengandung unsur transaksi atau potensi transaksi valuta \nasing terhadap rupiah mengacu pula pada ketentuan yang \nmengatur mengenai transaksi valuta asing terhadap \nrupiah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nPermohonan \npersetujuan \nprinsip \nsebagaimana \ndimaksud dalam Pasal 28 ayat (2) dan permohonan \npernyataan efektif sebagaimana dimaksud dalam   \nPasal 29 ayat (3) disampaikan kepada: \na. \nDepartemen \nPengawasan \nBank \nterkait \natau \nKantor \nRegional \nI \nJabodetabek, \nBanten, \nLampung, dan Kalimantan, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank \nyang berkedudukan di luar negeri yang berada di \nwilayah Jakarta, Bogor, Depok, Tangerang, dan \nBekasi (Jabodetabek), serta Provinsi Banten; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau \nKantor Otoritas Jasa Keuangan setempat, bagi \nBank yang berkantor pusat di luar wilayah kerja \nJakarta, Bogor, Depok, Tangerang, dan Bekasi \n(Jabodetabek), serta Provinsi Banten. \n(2) \nSelain disampaikan kepada Departemen Pengawasan \nBank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan setempat sebagaimana \ndimaksud pada ayat (1), permohonan pernyataan \nefektif sebagaimana dimaksud dalam Pasal 29 ayat (3) \nditembuskan \nkepada \nDepartemen \nPenelitian \ndan \n\n\n \n \n \n \nPengaturan Perbankan. \n \nBAB XIII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan \npersetujuan \nprinsip \nsebagaimana \ndimaksud dalam Pasal 28 ayat (2) dan permohonan \npernyataan efektif sebagaimana dimaksud dalam   \nPasal 29 ayat (3) disampaikan kepada: \na. \nDepartemen \nPengawasan \nBank \nterkait \natau \nKantor \nRegional \nI \nJabodetabek, \nBanten, \nLampung, dan Kalimantan, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank \nyang berkedudukan di luar negeri yang berada di \nwilayah Jakarta, Bogor, Depok, Tangerang, dan \nBekasi (Jabodetabek), serta Provinsi Banten; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau \nKantor Otoritas Jasa Keuangan setempat, bagi \nBank yang berkantor pusat di luar wilayah kerja \nJakarta, Bogor, Depok, Tangerang, dan Bekasi \n(Jabodetabek), serta Provinsi Banten."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain disampaikan kepada Departemen Pengawasan \nBank, Kantor Regional Otoritas Jasa Keuangan, atau \nKantor Otoritas Jasa Keuangan setempat sebagaimana \ndimaksud pada ayat (1), permohonan pernyataan \nefektif sebagaimana dimaksud dalam Pasal 29 ayat (3) \nditembuskan \nkepada \nDepartemen \nPenelitian \ndan \n\n\n \n \n \n \nPengaturan Perbankan. \n \nBAB XIII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "(1)  Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia \nNomor \n11/26/PBI/2009 tanggal 1 Juli 2009 tentang Prinsip \nKehati-hatian \nDalam \nMelaksanakan \nKegiatan \nStructrured Product Bagi Bank Umum (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 104, \nTambahan Lembaran Negara Republik Indonesia \nNomor 5030) dicabut dan dinyatakan tidak berlaku. \n(2) \nPeraturan pelaksanaan dari Peraturan Bank Indonesia \nNomor 11/26/PBI/2009 tanggal 1 Juli 2009 tentang \nPrinsip Kehati-hatian Dalam Melaksanakan Kegiatan \nStructrured Product Bagi Bank Umum dinyatakan tetap \nberlaku \nsepanjang \ntidak \nbertentangan \ndengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan \nini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nBank \nIndonesia \nNomor \n11/26/PBI/2009 tanggal 1 Juli 2009 tentang Prinsip \nKehati-hatian \nDalam \nMelaksanakan \nKegiatan \nStructrured Product Bagi Bank Umum (Lembaran \nNegara Republik Indonesia Tahun 2009 Nomor 104, \nTambahan Lembaran Negara Republik Indonesia \nNomor 5030) dicabut dan dinyatakan tidak berlaku."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Peraturan pelaksanaan dari Peraturan Bank Indonesia \nNomor 11/26/PBI/2009 tanggal 1 Juli 2009 tentang \nPrinsip Kehati-hatian Dalam Melaksanakan Kegiatan \nStructrured Product Bagi Bank Umum dinyatakan tetap \nberlaku \nsepanjang \ntidak \nbertentangan \ndengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan \nini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 26 Januari 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n       ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal  27 Januari 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 19 \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nYuliana \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   7 /POJK.03/2016 \nTENTANG \nPRINSIP KEHATI-HATIAN DALAM MELAKSANAKAN  \nKEGIATAN STRUCTURED PRODUCT BAGI BANK UMUM \n \nI. \nUMUM \nSemakin terintegrasinya sistem keuangan global yang diiringi \ndengan pesatnya inovasi instrumen keuangan telah memfasilitasi \nsemakin bertumbuhnya berbagai bentuk maupun struktur instrumen \nkeuangan yang memiliki kompleksitas yang beragam mulai dari yang \nsederhana sampai dengan yang memiliki kompleksitas tinggi. \nDiantara instrumen keuangan yang mengalami perkembangan \nyang cukup pesat adalah instrumen keuangan yang bersifat terstruktur \natau lebih dikenal dengan Structured Product. Structured Product \nmerupakan produk keuangan non-konvensional yang distruktur \nsedemikian rupa berdasarkan kebutuhan dan objektif dari nasabah \natau \ngolongan \nnasabah \ntertentu. \nDengan \ndemikian, \ndalam \npenstrukturannya diperlukan keahlian dari pihak-pihak di berbagai \nbidang, baik dari aspek keuangan maupun bidang lainnya seperti \nbidang hukum dan perpajakan.   \nKompleksitas yang timbul dari penstrukturan Structured Product \nakan berakibat  pada  semakin  kompleks  pula  risiko  yang  dihadapi  \nBank, sehingga mengharuskan pula dilakukan penyesuaian yang \nmemadai terkait penerapan prinsip kehati-hatian dan manajemen \nrisiko, terutama yang terkait pengelolaan dan pengendalian risiko yang \nmungkin timbul dari Structured Product tersebut bagi Bank. \n \n \n \n\n\n \nDari sisi masyarakat, kompleksitas yang timbul dari kegiatan \nStructured Product harus diimbangi pula dengan peningkatan kualitas \ntransparansi. \nDengan \ndemikian, \nmasyarakat \ndapat \nmelakukan \npenilaian secara objyektif terkait kesesuaian antara risiko yang \nmungkin timbul dan manfaat serta kesesuaian dari produk yang \ndistruktur dengan risk appetite maupun kebutuhan masyarakat. \nPeningkatan \nkualitas \ntransparansi \ntersebut \nbertujuan \nagar \nkepercayaan masyarakat terhadap sistem keuangan, terutama sistem \nperbankan, \ntetap \nterjaga. \nSebagai \nlembaga \nintermediasi, \nBank \nmemegang peranan penting dalam peningkatan kualitas transparansi \ndan menjaga kepercayaan masyarakat. \nPenguatan penerapan prinsip kehati-hatian dan manajemen risiko \nyang diiringi dengan kepercayaan masyarakat diharapkan dapat \nmenjaga integritas sistem perbankan secara khusus dan sistem \nkeuangan secara menyeluruh. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 26 Januari 2016 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \n       ttd \n \nMULIAMAN D. HADAD \n \nDiundangkan di Jakarta \npada tanggal  27 Januari 2016 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2016 NOMOR 19 \nSalinan sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \n \nttd \n \nYuliana \n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR   7 /POJK.03/2016 \nTENTANG \nPRINSIP KEHATI-HATIAN DALAM MELAKSANAKAN  \nKEGIATAN STRUCTURED PRODUCT BAGI BANK UMUM \n \nI. \nUMUM \nSemakin terintegrasinya sistem keuangan global yang diiringi \ndengan pesatnya inovasi instrumen keuangan telah memfasilitasi \nsemakin bertumbuhnya berbagai bentuk maupun struktur instrumen \nkeuangan yang memiliki kompleksitas yang beragam mulai dari yang \nsederhana sampai dengan yang memiliki kompleksitas tinggi. \nDiantara instrumen keuangan yang mengalami perkembangan \nyang cukup pesat adalah instrumen keuangan yang bersifat terstruktur \natau lebih dikenal dengan Structured Product. Structured Product \nmerupakan produk keuangan non-konvensional yang distruktur \nsedemikian rupa berdasarkan kebutuhan dan objektif dari nasabah \natau \ngolongan \nnasabah \ntertentu. \nDengan \ndemikian, \ndalam \npenstrukturannya diperlukan keahlian dari pihak-pihak di berbagai \nbidang, baik dari aspek keuangan maupun bidang lainnya seperti \nbidang hukum dan perpajakan.   \nKompleksitas yang timbul dari penstrukturan Structured Product \nakan berakibat  pada  semakin  kompleks  pula  risiko  yang  dihadapi  \nBank, sehingga mengharuskan pula dilakukan penyesuaian yang \nmemadai terkait penerapan prinsip kehati-hatian dan manajemen \nrisiko, terutama yang terkait pengelolaan dan pengendalian risiko yang \nmungkin timbul dari Structured Product tersebut bagi Bank. \n \n \n \n\n\n \nDari sisi masyarakat, kompleksitas yang timbul dari kegiatan \nStructured Product harus diimbangi pula dengan peningkatan kualitas \ntransparansi. \nDengan \ndemikian, \nmasyarakat \ndapat \nmelakukan \npenilaian secara objyektif terkait kesesuaian antara risiko yang \nmungkin timbul dan manfaat serta kesesuaian dari produk yang \ndistruktur dengan risk appetite maupun kebutuhan masyarakat. \nPeningkatan \nkualitas \ntransparansi \ntersebut \nbertujuan \nagar \nkepercayaan masyarakat terhadap sistem keuangan, terutama sistem \nperbankan, \ntetap \nterjaga. \nSebagai \nlembaga \nintermediasi, \nBank \nmemegang peranan penting dalam peningkatan kualitas transparansi \ndan menjaga kepercayaan masyarakat. \nPenguatan penerapan prinsip kehati-hatian dan manajemen risiko \nyang diiringi dengan kepercayaan masyarakat diharapkan dapat \nmenjaga integritas sistem perbankan secara khusus dan sistem \nkeuangan secara menyeluruh. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPersetujuan prinsip sebagaimana dimaksud pada ayat ini \nbertujuan untuk menilai kesiapan Bank dalam melakukan \nKegiatan Structured Product secara menyeluruh dan bukan \npersetujuan terhadap penerbitan setiap jenis Structured \nProduct. \nOleh \nkarena \nitu, \npermohonan \npersetujuan \nsebagaimana dimaksud pada ayat ini diajukan 1 (satu) kali \nsebelum Bank melakukan Kegiatan Structured Product. \n \nHuruf b  \nPernyataan \nefektif \nyang \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan bersifat administratif yang didasarkan pada data, \ninformasi, dan dokumen yang disampaikan oleh Bank \nsehingga bukan merupakan jaminan dalam bentuk apapun \natas kesesuaian, manfaat, risiko, dan kerugian yang mungkin \ntimbul diantara para pihak yang melakukan transaksi. \n\n\n \n \n \n \n \nPada \ndasarnya \npihak \nyang \nperlu \nuntuk \nmemastikan \nkesesuaian, manfaat, dan risiko yang mungkin timbul dari \nStructured Product adalah pihak-pihak yang melakukan \ntransaksi, yaitu Bank dan Nasabah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPersetujuan prinsip sebagaimana dimaksud pada ayat ini \nbertujuan untuk menilai kesiapan Bank dalam melakukan \nKegiatan Structured Product secara menyeluruh dan bukan \npersetujuan terhadap penerbitan setiap jenis Structured \nProduct. \nOleh \nkarena \nitu, \npermohonan \npersetujuan \nsebagaimana dimaksud pada ayat ini diajukan 1 (satu) kali \nsebelum Bank melakukan Kegiatan Structured Product. \n \nHuruf b  \nPernyataan \nefektif \nyang \ndiberikan \noleh \nOtoritas \nJasa \nKeuangan bersifat administratif yang didasarkan pada data, \ninformasi, dan dokumen yang disampaikan oleh Bank \nsehingga bukan merupakan jaminan dalam bentuk apapun \natas kesesuaian, manfaat, risiko, dan kerugian yang mungkin \ntimbul diantara para pihak yang melakukan transaksi. \n\n\n \n \n \n \n \nPada \ndasarnya \npihak \nyang \nperlu \nuntuk \nmemastikan \nkesesuaian, manfaat, dan risiko yang mungkin timbul dari \nStructured Product adalah pihak-pihak yang melakukan \ntransaksi, yaitu Bank dan Nasabah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan rencana bisnis Bank adalah dokumen \ntertulis yang menggambarkan rencana kegiatan usaha Bank \nsebagaimana \ndiatur \ndalam \nketentuan \nyang \nmengatur \nmengenai rencana bisnis Bank. \n \nAyat (2) \n \nHuruf a \n \nYang dimaksud dengan pengelompokan terdiri dari: \n1. \npenghimpunan \ndana, \njika \nStructured \nProduct \nditerbitkan \ndalam \nkaitannya \ndengan \nkegiatan \npenghimpunan dana; \n2. \npenyediaan dana, jika Structured Product diterbitkan \nsebagai bagian dari fasilitas penyediaan dana yang \ndiberikan Bank kepada Nasabah.  \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan rencana bisnis Bank adalah dokumen \ntertulis yang menggambarkan rencana kegiatan usaha Bank \nsebagaimana \ndiatur \ndalam \nketentuan \nyang \nmengatur \nmengenai rencana bisnis Bank. \n \nAyat (2) \n \nHuruf a \n \nYang dimaksud dengan pengelompokan terdiri dari: \n1. \npenghimpunan \ndana, \njika \nStructured \nProduct \nditerbitkan \ndalam \nkaitannya \ndengan \nkegiatan \npenghimpunan dana; \n2. \npenyediaan dana, jika Structured Product diterbitkan \nsebagai bagian dari fasilitas penyediaan dana yang \ndiberikan Bank kepada Nasabah.  \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “perhitungan nilai nosional” adalah \nnilai nosional awal yang ditetapkan sampai dengan jatuh \ntempo. Dalam hal terdapat lebih dari 1 (satu) nilai nosional \n\n\n \n \n \n \nyang ditetapkan, nilai nosional yang digunakan sebagai dasar \npengukuran untuk penentuan jumlah agunan adalah nilai \nnosional terbesar. \nAgunan yang diberikan sebagaimana dimaksud pada ayat ini \nbukan merupakan substitusi atas penilaian risiko yang \ndilakukan oleh Bank terhadap Nasabah.  \n \nAyat (2) \n \nCukup jelas. \n \nAyat (3) \n \nHuruf a \nYang dimaksud dengan bank dalam pengaturan ini \nadalah Bank sebagaimana dimaksud dalam Pasal 1 dan \nbank yang berkedudukan di luar negeri. \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \n \nCukup jelas. \n \nHuruf d \nYang \ndimaksud \ndengan \n“bank \natau \nlembaga \npembangunan multilateral” adalah badan yang didirikan \noleh sekelompok negara yang menyediakan fasilitas \npendanaan maupun fungsi advising untuk tujuan \npembangunan, seperti World Bank, African Development \nBank, Asian Development Bank, European Bank For \nReconstruction \nand \nDevelopment, \nInter-American \nDevelopment Bank, International Finance Corporation, \nIslamic Development Bank, Council of Europe Social \nDevelopment Fund (Council of Europe Resettlement Fund), \nCorporación \nAndina \nde \nFomento \n(CAF), \nCaribbean \nDevelopment Bank (CDB), Central American Bank for \nEconomic Integration (CABEI), East African Development \nBank (EADB), West African Development Bank (BOAD), \ndan Black Sea Trade and Development Bank (BSTDB).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “perhitungan nilai nosional” adalah \nnilai nosional awal yang ditetapkan sampai dengan jatuh \ntempo. Dalam hal terdapat lebih dari 1 (satu) nilai nosional \n\n\n \n \n \n \nyang ditetapkan, nilai nosional yang digunakan sebagai dasar \npengukuran untuk penentuan jumlah agunan adalah nilai \nnosional terbesar. \nAgunan yang diberikan sebagaimana dimaksud pada ayat ini \nbukan merupakan substitusi atas penilaian risiko yang \ndilakukan oleh Bank terhadap Nasabah.  \n \nAyat (2) \n \nCukup jelas. \n \nAyat (3) \n \nHuruf a \nYang dimaksud dengan bank dalam pengaturan ini \nadalah Bank sebagaimana dimaksud dalam Pasal 1 dan \nbank yang berkedudukan di luar negeri. \n \nHuruf b \n \nCukup jelas. \n \nHuruf c \n \nCukup jelas. \n \nHuruf d \nYang \ndimaksud \ndengan \n“bank \natau \nlembaga \npembangunan multilateral” adalah badan yang didirikan \noleh sekelompok negara yang menyediakan fasilitas \npendanaan maupun fungsi advising untuk tujuan \npembangunan, seperti World Bank, African Development \nBank, Asian Development Bank, European Bank For \nReconstruction \nand \nDevelopment, \nInter-American \nDevelopment Bank, International Finance Corporation, \nIslamic Development Bank, Council of Europe Social \nDevelopment Fund (Council of Europe Resettlement Fund), \nCorporación \nAndina \nde \nFomento \n(CAF), \nCaribbean \nDevelopment Bank (CDB), Central American Bank for \nEconomic Integration (CABEI), East African Development \nBank (EADB), West African Development Bank (BOAD), \ndan Black Sea Trade and Development Bank (BSTDB)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Berkenaan dengan larangan dimaksud, Structured Product yang \nditerbitkan oleh Bank dan tidak disertai dengan proteksi penuh \n\n\n \n \n \n \natas pokok dalam mata uang asal pada saat jatuh tempo, tidak \ndiperkenankan untuk dicatat dalam akun “giro”, “tabungan”, dan \n“simpanan berjangka” dalam pelaporan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berkenaan dengan larangan dimaksud, Structured Product yang \nditerbitkan oleh Bank dan tidak disertai dengan proteksi penuh \n\n\n \n \n \n \natas pokok dalam mata uang asal pada saat jatuh tempo, tidak \ndiperkenankan untuk dicatat dalam akun “giro”, “tabungan”, dan \n“simpanan berjangka” dalam pelaporan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPrinsip-prinsip penerapan manajemen risiko berpedoman \npada \nketentuan \nyang \nmengatur \nmengenai \npenerapan \nmanajemen risiko bagi bank umum. \n \nAyat (2) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPrinsip-prinsip penerapan manajemen risiko berpedoman \npada \nketentuan \nyang \nmengatur \nmengenai \npenerapan \nmanajemen risiko bagi bank umum. \n \nAyat (2) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nRencana Bank dimaksud dituangkan dalam rencana bisnis \nBank. \n \nHuruf b \n  \nCukup jelas.   \n \nHuruf c \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nRencana Bank dimaksud dituangkan dalam rencana bisnis \nBank. \n \nHuruf b \n  \nCukup jelas.   \n \nHuruf c \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPersetujuan rencana Bank terkait Kegiatan Structured Product \ndianggap telah dilakukan apabila dalam rencana bisnis Bank \nyang telah ditandatangani Komisaris mencakup rencana Bank \nterkait Kegiatan Structured Product. \n \nHuruf b \nEvaluasi atas pelaksanaan rencana Bank terkait Kegiatan \nStructured Product dapat dituangkan dalam risalah rapat \nDewan Komisaris atau laporan pengawasan rencana bisnis \nsebagaimana diatur dalam ketentuan mengenai rencana \nbisnis Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPersetujuan rencana Bank terkait Kegiatan Structured Product \ndianggap telah dilakukan apabila dalam rencana bisnis Bank \nyang telah ditandatangani Komisaris mencakup rencana Bank \nterkait Kegiatan Structured Product. \n \nHuruf b \nEvaluasi atas pelaksanaan rencana Bank terkait Kegiatan \nStructured Product dapat dituangkan dalam risalah rapat \nDewan Komisaris atau laporan pengawasan rencana bisnis \nsebagaimana diatur dalam ketentuan mengenai rencana \nbisnis Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \n\n\n \n \n \n \n \nAyat (2) \n \nHuruf a \nTingkat risiko adalah tinggi, sedang, dan rendah, yang \npenetapannya diserahkan pada masing-masing Bank. \n \nHuruf b \nProfil risiko Nasabah meliputi risk appetite Nasabah yang \nterdiri dari risk averse, risk neutral, dan risk taker, yang \npenetapannya diserahkan pada masing-masing Bank. \n \nHuruf c \n \nCukup jelas. \n \nHuruf d \nTermasuk dalam kebijakan sumber daya manusia adalah \npersyaratan dan kualifikasi sumber daya manusia untuk \nKegiatan Structured Product. \n \nHuruf e \nDalam menetapkan kebijakan struktur insentif, Bank \nwajib memastikan bahwa struktur insentif yang disusun \ndapat \nmenciptakan \nkeselarasan \n(alignment) \nantara \nkepentingan \npegawai, \nkepentingan \nNasabah, \ndan \nkepentingan Bank. Untuk mencapai tujuan tersebut, \nBank harus menghindari penetapan kebijakan struktur \ninsentif yang semata-mata didasarkan oleh volume \npenjualan tanpa diiringi oleh mekansime kontrol lainnya. \n \nHuruf f \nProsedur \npelaksanaan \nKegiatan \nStructured \nProduct \nmemberikan \nkerangka \nformal \ndalam \npelaksanaan \nKegiatan Structured Product yang mencakup penetapan \nproses pelaksanaan kegiatan, penetapan wewenang dan \ntanggung jawab, serta keterkaitan antar unit kerja, mulai \ndari tahap pengembangan sampai dengan komersialisasi. \n \nHuruf g \n \nCukup jelas. \n \nHuruf h \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \n\n\n \n \n \n \n \nAyat (2) \n \nHuruf a \nTingkat risiko adalah tinggi, sedang, dan rendah, yang \npenetapannya diserahkan pada masing-masing Bank. \n \nHuruf b \nProfil risiko Nasabah meliputi risk appetite Nasabah yang \nterdiri dari risk averse, risk neutral, dan risk taker, yang \npenetapannya diserahkan pada masing-masing Bank. \n \nHuruf c \n \nCukup jelas. \n \nHuruf d \nTermasuk dalam kebijakan sumber daya manusia adalah \npersyaratan dan kualifikasi sumber daya manusia untuk \nKegiatan Structured Product. \n \nHuruf e \nDalam menetapkan kebijakan struktur insentif, Bank \nwajib memastikan bahwa struktur insentif yang disusun \ndapat \nmenciptakan \nkeselarasan \n(alignment) \nantara \nkepentingan \npegawai, \nkepentingan \nNasabah, \ndan \nkepentingan Bank. Untuk mencapai tujuan tersebut, \nBank harus menghindari penetapan kebijakan struktur \ninsentif yang semata-mata didasarkan oleh volume \npenjualan tanpa diiringi oleh mekansime kontrol lainnya. \n \nHuruf f \nProsedur \npelaksanaan \nKegiatan \nStructured \nProduct \nmemberikan \nkerangka \nformal \ndalam \npelaksanaan \nKegiatan Structured Product yang mencakup penetapan \nproses pelaksanaan kegiatan, penetapan wewenang dan \ntanggung jawab, serta keterkaitan antar unit kerja, mulai \ndari tahap pengembangan sampai dengan komersialisasi. \n \nHuruf g \n \nCukup jelas. \n \nHuruf h \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \nYang dimaksud dengan tujuan Nasabah antara lain untuk: \n1. \nmendapatkan \ntambahan \npendapatan \n(yield \nenhancement) dalam melakukan transaksi Structured \nProduct; \n2. \ntetap menjaga keutuhan pokok dalam melakukan \ntransaksi Structured Product; \n3. \ntujuan jangka pendek, jangka menengah atau \njangka panjang; dan \n4. \nmemiliki alat investasi likuid dalam melakukan \ninvestasi. \n \nHuruf b \n \nAngka 1 \nPenilaian \nterhadap \nkarakteristik \nusaha \nmencakup \npenilaian terhadap jenis kegiatan usaha, industri usaha, \npasar beserta pangsa pasar yang dimiliki, dan siklus \nusaha. \n  \nAngka 2 \nYang dimaksud dengan karakteristik dari sumber dana \n(source \nof \nfunds) \nmencakup \nkesinambungan \n(sustainability) dan jangka waktu sumber dana. \n  \nAngka 3 \nTermasuk dalam pengertian aset atau kekayaan adalah \nkas, surat berharga, efek, dan aset tetap yang dimiliki. \n  \nAngka 4 \nCukup jelas. \n  \nAngka 5 \n \nCukup jelas. \n \nHuruf c \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \nYang dimaksud dengan tujuan Nasabah antara lain untuk: \n1. \nmendapatkan \ntambahan \npendapatan \n(yield \nenhancement) dalam melakukan transaksi Structured \nProduct; \n2. \ntetap menjaga keutuhan pokok dalam melakukan \ntransaksi Structured Product; \n3. \ntujuan jangka pendek, jangka menengah atau \njangka panjang; dan \n4. \nmemiliki alat investasi likuid dalam melakukan \ninvestasi. \n \nHuruf b \n \nAngka 1 \nPenilaian \nterhadap \nkarakteristik \nusaha \nmencakup \npenilaian terhadap jenis kegiatan usaha, industri usaha, \npasar beserta pangsa pasar yang dimiliki, dan siklus \nusaha. \n  \nAngka 2 \nYang dimaksud dengan karakteristik dari sumber dana \n(source \nof \nfunds) \nmencakup \nkesinambungan \n(sustainability) dan jangka waktu sumber dana. \n  \nAngka 3 \nTermasuk dalam pengertian aset atau kekayaan adalah \nkas, surat berharga, efek, dan aset tetap yang dimiliki. \n  \nAngka 4 \nCukup jelas. \n  \nAngka 5 \n \nCukup jelas. \n \nHuruf c \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \n\n\n \n \n \n \n \n \nAyat (2) \n \nHuruf a  \nPenetapan batasan wewenang dan tanggung jawab \nsatuan \nkerja \nterkait \nKegiatan \nStructured \nProduct \ndituangkan dalam pedoman kebijakan dan prosedur. \n \nHuruf b \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \n\n\n \n \n \n \n \n \nAyat (2) \n \nHuruf a  \nPenetapan batasan wewenang dan tanggung jawab \nsatuan \nkerja \nterkait \nKegiatan \nStructured \nProduct \ndituangkan dalam pedoman kebijakan dan prosedur. \n \nHuruf b \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nCukup jelas. \n \nAyat (2) \n \nCukup jelas. \n \nAyat (3) \nUntuk \nmengetahui \ntingkat \npemahaman \nNasabah \natas \nkarakteristik, fitur, dan risiko Structured Product dapat \ndilakukan melalui: \na. \nwawancara yang hasilnya dituangkan dalam bentuk \ntertulis; dan/atau \nb. \nkuesioner yang formatnya dapat ditentukan oleh masing-\nmasing Bank, \nyang dilakukan dalam rangka pelaksanaan penilaian profil \nrisiko Nasabah sebagaimana dimaksud dalam Pasal 11. \n \nHuruf a \n \nAngka 1 \nCukup jelas. \n \nAngka 2 \nYang dimaksud dengan “perusahaan efek” adalah \nperusahaan efek sebagaimana dimaksud dalam \nUndang-Undang Nomor 8 Tahun 1995 tentang \nPasar Modal.  \n \nAngka 3 \nYang dimaksud dengan “perusahaan pembiayaan” \nadalah \nperusahaan \npembiayaan \nsebagaimana \ndimaksud \ndalam \nketentuan \nyang \nmengatur \nmengenai lembaga pembiayaan. \n\n\n \n \n \n \n \n \nAngka 4 \nYang \ndimaksud \ndengan \n“pedagang \nkontrak \nberjangka” adalah pedagang kontrak berjangka \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerdagangan \nBerjangka Komoditi sebagaimana telah diubah \ndengan Undang-Undang Nomor 10 Tahun 2011. \n \n \n \nHuruf b \n \nAngka 1 \nYang dimaksud dengan “modal” adalah ekuitas \nsebagaimana dimaksud dalam standar akuntansi \nkeuangan.  \n \nAngka 2 \nCukup jelas. \n \nHuruf c \n \nCukup jelas. \n \nHuruf d \n \nCukup jelas. \n \nHuruf e \nYang \ndimaksud \ndengan \n“bank \natau \nlembaga \npembangunan multilateral” adalah badan yang didirikan \noleh sekelompok negara yang menyediakan fasilitas \npendanaan maupun fungsi advising untuk tujuan \npembangunan, seperti World Bank, African Development  \nBank,  Asian  Development  Bank, European Bank For \nReconstruction \nand \nDevelopment, \nInter-American \nDevelopment Bank, International Finance Corporation, \nIslamic Development Bank, Council of Europe Social \nDevelopment Fund (Council of Europe Resettlement Fund), \nCorporación \nAndina \nde \nFomento \n(CAF), \nCaribbean \nDevelopment Bank (CDB), Central American Bank for \nEconomic Integration (CABEI), East African Development \nBank (EADB), West African Development Bank (BOAD), \ndan Black Sea Trade and Development Bank (BSTDB). \n \n \n\n\n \n \n \n \n \n \nAyat (4)  \nUntuk \nmengetahui \ntingkat \npemahaman \nnasabah \natas \nkarakteristik, fitur, dan risiko Structured Product dapat \ndilakukan melalui: \na. \nwawancara yang hasilnya dituangkan dalam bentuk \ntertulis; dan/atau \nb. \nkuesioner yang formatnya dapat ditentukan oleh masing- \nmasing Bank, \nyang dilakukan dalam rangka pelaksanaan penilaian profil \nrisiko Nasabah sebagaimana dimaksud dalam Pasal 11. \n \n \nHuruf a \n \nAngka 1 \nYang dimaksud dengan “dana pensiun” adalah dana \npensiun sebagaimana dimaksud dalam Undang-\nUndang Nomor 11 Tahun 1992 tentang Dana \nPensiun. \n \nAngka 2 \nYang dimaksud dengan “perusahaan perasuransian” \nadalah perusahaan perasuransian sebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 2014 tentang Usaha Perasuransian. \n \n \nHuruf b \n \nAngka 1  \n \nYang dimaksud dengan “modal” adalah ekuitas \nsebagaimana dimaksud dalam standar akuntansi \nkeuangan. \n \nAngka 2 \nCukup jelas. \n \n \nHuruf c \n \nCukup jelas. \n \nAyat (5)  \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nCukup jelas. \n \nAyat (2) \n \nCukup jelas. \n \nAyat (3) \nUntuk \nmengetahui \ntingkat \npemahaman \nNasabah \natas \nkarakteristik, fitur, dan risiko Structured Product dapat \ndilakukan melalui: \na. \nwawancara yang hasilnya dituangkan dalam bentuk \ntertulis; dan/atau \nb. \nkuesioner yang formatnya dapat ditentukan oleh masing-\nmasing Bank, \nyang dilakukan dalam rangka pelaksanaan penilaian profil \nrisiko Nasabah sebagaimana dimaksud dalam Pasal 11. \n \nHuruf a \n \nAngka 1 \nCukup jelas. \n \nAngka 2 \nYang dimaksud dengan “perusahaan efek” adalah \nperusahaan efek sebagaimana dimaksud dalam \nUndang-Undang Nomor 8 Tahun 1995 tentang \nPasar Modal.  \n \nAngka 3 \nYang dimaksud dengan “perusahaan pembiayaan” \nadalah \nperusahaan \npembiayaan \nsebagaimana \ndimaksud \ndalam \nketentuan \nyang \nmengatur \nmengenai lembaga pembiayaan. \n\n\n \n \n \n \n \n \nAngka 4 \nYang \ndimaksud \ndengan \n“pedagang \nkontrak \nberjangka” adalah pedagang kontrak berjangka \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerdagangan \nBerjangka Komoditi sebagaimana telah diubah \ndengan Undang-Undang Nomor 10 Tahun 2011. \n \n \n \nHuruf b \n \nAngka 1 \nYang dimaksud dengan “modal” adalah ekuitas \nsebagaimana dimaksud dalam standar akuntansi \nkeuangan.  \n \nAngka 2 \nCukup jelas. \n \nHuruf c \n \nCukup jelas. \n \nHuruf d \n \nCukup jelas. \n \nHuruf e \nYang \ndimaksud \ndengan \n“bank \natau \nlembaga \npembangunan multilateral” adalah badan yang didirikan \noleh sekelompok negara yang menyediakan fasilitas \npendanaan maupun fungsi advising untuk tujuan \npembangunan, seperti World Bank, African Development  \nBank,  Asian  Development  Bank, European Bank For \nReconstruction \nand \nDevelopment, \nInter-American \nDevelopment Bank, International Finance Corporation, \nIslamic Development Bank, Council of Europe Social \nDevelopment Fund (Council of Europe Resettlement Fund), \nCorporación \nAndina \nde \nFomento \n(CAF), \nCaribbean \nDevelopment Bank (CDB), Central American Bank for \nEconomic Integration (CABEI), East African Development \nBank (EADB), West African Development Bank (BOAD), \ndan Black Sea Trade and Development Bank (BSTDB). \n \n \n\n\n \n \n \n \n \n \nAyat (4)  \nUntuk \nmengetahui \ntingkat \npemahaman \nnasabah \natas \nkarakteristik, fitur, dan risiko Structured Product dapat \ndilakukan melalui: \na. \nwawancara yang hasilnya dituangkan dalam bentuk \ntertulis; dan/atau \nb. \nkuesioner yang formatnya dapat ditentukan oleh masing- \nmasing Bank, \nyang dilakukan dalam rangka pelaksanaan penilaian profil \nrisiko Nasabah sebagaimana dimaksud dalam Pasal 11. \n \n \nHuruf a \n \nAngka 1 \nYang dimaksud dengan “dana pensiun” adalah dana \npensiun sebagaimana dimaksud dalam Undang-\nUndang Nomor 11 Tahun 1992 tentang Dana \nPensiun. \n \nAngka 2 \nYang dimaksud dengan “perusahaan perasuransian” \nadalah perusahaan perasuransian sebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 2014 tentang Usaha Perasuransian. \n \n \nHuruf b \n \nAngka 1  \n \nYang dimaksud dengan “modal” adalah ekuitas \nsebagaimana dimaksud dalam standar akuntansi \nkeuangan. \n \nAngka 2 \nCukup jelas. \n \n \nHuruf c \n \nCukup jelas. \n \nAyat (5)  \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nTransparansi informasi bertujuan agar Nasabah dapat \nmemperoleh informasi yang memadai mengenai produk \nsebelum mengambil keputusan. \n \nAyat (2)  \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nTransparansi informasi bertujuan agar Nasabah dapat \nmemperoleh informasi yang memadai mengenai produk \nsebelum mengambil keputusan. \n \nAyat (2)  \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a  \n \nCukup jelas. \n \nHuruf b  \n1. \nUntuk Structured Product yang merupakan kombinasi \ninstrumen \nkeuangan \nnon \nderivatif \ndan \nderivatif, \npengungkapan informasi mengenai karakteristik dan \nfitur Structured Product meliputi: \na) \njenis instrumen non derivatif; \nb) \njenis derivatif; dan \nc) \nvariabel seperti nilai tukar atau suku bunga, yang \ndijadikan \ndasar \n(underlying \nvariable) \nuntuk \nStructured Product. \n2. \nUntuk Structured Product yang merupakan kombinasi \ndari derivatif dan derivatif, pengungkapan informasi \nmengenai karakteristik dan fitur Structured Product \nmeliputi: \na) \njenis-jenis derivatif; dan \nb) \nvariabel seperti nilai tukar atau suku bunga, yang \ndijadikan \ndasar \n(underlying \nvariable) \nuntuk \nStructured Product. \n \nHuruf c \nDalam memberikan informasi mengenai ilustrasi perhitungan \nbunga atau pendapatan atau margin keuntungan yang dapat \ndiperoleh, Bank paling sedikit mengungkapkan: \n1. \nmetode perhitungan bunga atau pendapatan atau margin \nkeuntungan; \n2. \nasumsi-asumsi yang digunakan; dan \n\n\n \n \n \n \n \n3. \nilustrasi perhitungan bunga atau pendapatan atau \nmargin keuntungan Structured Product dalam beberapa \nskenario. \n \nHuruf d \nDalam memberikan informasi mengenai ilustrasi perhitungan \nrisiko dan kerugian yang mungkin ditanggung, Bank paling \nsedikit mengungkapkan: \n1. \nrisiko yang mungkin dihadapi; \n2. \nmetode perhitungan kerugian yang mungkin terjadi; \n3. \nkomponen leverage; \n4. \nasumsi-asumsi yang digunakan; dan \n5. \nilustrasi perhitungan kerugian dalam beberapa skenario \nyang \nmencakup \nskenario \nkerugian \nterbesar \nyang \nmungkin terjadi.  \n \nHuruf e  \nBiaya yang melekat dari Structured Product antara lain biaya \nadministrasi, premi, provisi, komisi, dan/atau penalti. \nDalam memberikan informasi mengenai biaya yang melekat, \nBank harus mengungkapkan metode penentuan perhitungan \nbiaya. \n \nHuruf f \n \n \nCukup jelas. \n \nHuruf g \n \nCukup jelas. \n \nHuruf h \n \nCukup jelas. \n \nHuruf i \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a  \n \nCukup jelas. \n \nHuruf b  \n1. \nUntuk Structured Product yang merupakan kombinasi \ninstrumen \nkeuangan \nnon \nderivatif \ndan \nderivatif, \npengungkapan informasi mengenai karakteristik dan \nfitur Structured Product meliputi: \na) \njenis instrumen non derivatif; \nb) \njenis derivatif; dan \nc) \nvariabel seperti nilai tukar atau suku bunga, yang \ndijadikan \ndasar \n(underlying \nvariable) \nuntuk \nStructured Product. \n2. \nUntuk Structured Product yang merupakan kombinasi \ndari derivatif dan derivatif, pengungkapan informasi \nmengenai karakteristik dan fitur Structured Product \nmeliputi: \na) \njenis-jenis derivatif; dan \nb) \nvariabel seperti nilai tukar atau suku bunga, yang \ndijadikan \ndasar \n(underlying \nvariable) \nuntuk \nStructured Product. \n \nHuruf c \nDalam memberikan informasi mengenai ilustrasi perhitungan \nbunga atau pendapatan atau margin keuntungan yang dapat \ndiperoleh, Bank paling sedikit mengungkapkan: \n1. \nmetode perhitungan bunga atau pendapatan atau margin \nkeuntungan; \n2. \nasumsi-asumsi yang digunakan; dan \n\n\n \n \n \n \n \n3. \nilustrasi perhitungan bunga atau pendapatan atau \nmargin keuntungan Structured Product dalam beberapa \nskenario. \n \nHuruf d \nDalam memberikan informasi mengenai ilustrasi perhitungan \nrisiko dan kerugian yang mungkin ditanggung, Bank paling \nsedikit mengungkapkan: \n1. \nrisiko yang mungkin dihadapi; \n2. \nmetode perhitungan kerugian yang mungkin terjadi; \n3. \nkomponen leverage; \n4. \nasumsi-asumsi yang digunakan; dan \n5. \nilustrasi perhitungan kerugian dalam beberapa skenario \nyang \nmencakup \nskenario \nkerugian \nterbesar \nyang \nmungkin terjadi.  \n \nHuruf e  \nBiaya yang melekat dari Structured Product antara lain biaya \nadministrasi, premi, provisi, komisi, dan/atau penalti. \nDalam memberikan informasi mengenai biaya yang melekat, \nBank harus mengungkapkan metode penentuan perhitungan \nbiaya. \n \nHuruf f \n \n \nCukup jelas. \n \nHuruf g \n \nCukup jelas. \n \nHuruf h \n \nCukup jelas. \n \nHuruf i \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Frekuensi laporan tertulis secara berkala yang disampaikan Bank \ndisesuaikan dengan jenis dan kompleksitas Structured Product \nyang ditawarkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Frekuensi laporan tertulis secara berkala yang disampaikan Bank \ndisesuaikan dengan jenis dan kompleksitas Structured Product \nyang ditawarkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nYang dimaksud dengan media pemasaran antara lain berupa \niklan, brosur, leaflet atau media pemasaran elektronis. \nYang \ndimaksud \ndengan \n“pemasaran” \nadalah \nbentuk \nkomunikasi yang bertujuan untuk menyampaikan informasi \nkepada publik yang tidak selalu diikuti dengan kegiatan \npenawaran. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nCukup jelas. \n \nAyat (4)  \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nYang dimaksud dengan media pemasaran antara lain berupa \niklan, brosur, leaflet atau media pemasaran elektronis. \nYang \ndimaksud \ndengan \n“pemasaran” \nadalah \nbentuk \nkomunikasi yang bertujuan untuk menyampaikan informasi \nkepada publik yang tidak selalu diikuti dengan kegiatan \npenawaran. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nCukup jelas. \n \nAyat (4)  \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nPelaksanaan pengaturan dalam ayat ini merupakan bagian \ndari pelaksanaan kebijakan sebagaimana dimaksud dalam \nPasal 11. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nCukup jelas. \n \nAyat (4)  \n \nHuruf a \nKondisi dimana potensi kerugian dapat melebihi nilai \npokok yang ditanamkan, umumnya terjadi dalam hal \nStructured Product mengandung unsur leverage.  \n \nHuruf b \n \nCukup jelas. \n \nAyat (5)  \nTermasuk dalam pengertian bertindak sebagai agen penjual \nmencakup: \na. \nmewakili \nBank \nuntuk \nmenindaklanjuti \npermintaan \nNasabah untuk Structured Product; dan/atau \nb. \nmenjadi referral agent.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nPelaksanaan pengaturan dalam ayat ini merupakan bagian \ndari pelaksanaan kebijakan sebagaimana dimaksud dalam \nPasal 11. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nCukup jelas. \n \nAyat (4)  \n \nHuruf a \nKondisi dimana potensi kerugian dapat melebihi nilai \npokok yang ditanamkan, umumnya terjadi dalam hal \nStructured Product mengandung unsur leverage.  \n \nHuruf b \n \nCukup jelas. \n \nAyat (5)  \nTermasuk dalam pengertian bertindak sebagai agen penjual \nmencakup: \na. \nmewakili \nBank \nuntuk \nmenindaklanjuti \npermintaan \nNasabah untuk Structured Product; dan/atau \nb. \nmenjadi referral agent."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nHuruf a \n \nCukup jelas. \n \nHuruf b \nTujuan pemberian pelatihan mengenai Structured Product \nadalah \nagar \npegawai \nmemiliki \npemahaman \nyang \nmemadai dan mampu menjelaskan kepada Nasabah \ndengan baik mengenai karakteristik, fitur, dan risiko \natas \nStructured \nProduct \nyang \nditawarkan. \nDengan \ndemikian, Bank bertanggung jawab untuk memastikan \npelaksanaan, frekuensi, dan materi yang diberikan \ndalam pelatihan dapat mencapai tujuan pelatihan \ntersebut di atas, antara lain dengan mempertimbangkan \nkompleksitas produk yang ditawarkan dan kompetensi \npegawai.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nHuruf a \n \nCukup jelas. \n \nHuruf b \nTujuan pemberian pelatihan mengenai Structured Product \nadalah \nagar \npegawai \nmemiliki \npemahaman \nyang \nmemadai dan mampu menjelaskan kepada Nasabah \ndengan baik mengenai karakteristik, fitur, dan risiko \natas \nStructured \nProduct \nyang \nditawarkan. \nDengan \ndemikian, Bank bertanggung jawab untuk memastikan \npelaksanaan, frekuensi, dan materi yang diberikan \ndalam pelatihan dapat mencapai tujuan pelatihan \ntersebut di atas, antara lain dengan mempertimbangkan \nkompleksitas produk yang ditawarkan dan kompetensi \npegawai."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nHuruf a \nYang dimaksud dengan “prospektus atau term sheet” \nadalah dokumen resmi yang memberikan seluruh \ninformasi material yang diperlukan Nasabah untuk \nmenilai dan mengambil keputusan terkait Structured \nProduct yang ditawarkan. \n \nHuruf b \nYang dimaksud dengan “product highlight sheet” adalah \ndokumen yang bertujuan membantu Nasabah untuk \nmemahami informasi utama mengenai Structured Product \nyang tercantum dalam prospektus atau term sheet. \n\n\n \n \n \n \nproduct highlight sheet disajikan dalam bentuk yang \njelas, singkat, dan menggunakan bahasa yang mudah \ndimengerti oleh Nasabah. \nOleh karena itu, product highlight sheet dapat disusun \ndalam bentuk ”tanya-jawab” dan paling sedikit dapat \nmenjawab pertanyaan tentang Structured Product: \n1. \nproduk yang akan dibeli atau diinvestasikan oleh \nNasabah; \n2. \nmanfaat \ndari \nproduk \nyang \nakan \ndibeli \natau \ndiinvestasikan oleh Nasabah; \n3. \npihak lawan dengan Nasabah yang akan membeli \natau berinvestasi; \n4. \nperbedaan \nproduk \nyang \nakan \ndibeli \natau \ndiinvestasikan oleh Nasabah dengan giro, simpanan, \ndan deposito konvensional; \n5. \nrisiko utama yang berpengaruh terhadap produk; \n6. \nkeuntungan atau kerugian yang diperoleh atau \ndibebankan \nkepada \nNasabah, \ndalam \nberbagai \nskenario termasuk kerugian terburuk; \n7. \nkesesuaian produk dimaksud sesuai untuk: \na) \nNasabah yang tidak ingin mengalami kerugian \npokok; \nb) \nNasabah yang mungkin memerlukan likuiditas \ndalam jangka pendek;  \nc) \nNasabah yang tidak memiliki pengetahuan atau \npengalaman \ndalam \nmelakukan \ntransaksi \nderivatif; \n8. \nbiaya yang harus dibayar Nasabah dalam membeli \nproduk; \n9. \nfrekuensi penilaian terhadap produk dilakukan dan \ndinformasikan kepada Nasabah; \n10. tata cara Nasabah untuk dapat keluar atau \nmenghentikan transaksi dan risiko dan/atau biaya \nyang \nharus \ndiketahui \noleh \nNasabah \nterkait \npenghentian transaksi; \n11. pihak yang dapat ditanya oleh Nasabah di Bank \nuntuk \nmemperoleh \ninformasi, \ndan/atau \n\n\n \n \n \n \nmengadukan \npermasalahan, \nkomplain \natau \nperselisihan; dan \n12. kepastian \nproduk \ntermasuk \ndalam \ncakupan \npenjaminan Lembaga Penjamin Simpanan. \nProduct highlight sheet disajikan dengan ukuran huruf \n(font) paling sedikit 10 (sepuluh) serta tidak melebihi 4 \n(empat) halaman. \n \nAyat (3)  \nYang dimaksud dengan “bank” pada ayat ini adalah Bank \nsebagaimana dimaksud dalam Pasal 1 dan bank yang \nberkedudukan di luar negeri. \n \nAyat (4)  \n \nCukup jelas. \n \nAyat (5)  \nDokumentasi yang dilakukan oleh Bank antara lain dalam \nbentuk rekaman suara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nHuruf a \nYang dimaksud dengan “prospektus atau term sheet” \nadalah dokumen resmi yang memberikan seluruh \ninformasi material yang diperlukan Nasabah untuk \nmenilai dan mengambil keputusan terkait Structured \nProduct yang ditawarkan. \n \nHuruf b \nYang dimaksud dengan “product highlight sheet” adalah \ndokumen yang bertujuan membantu Nasabah untuk \nmemahami informasi utama mengenai Structured Product \nyang tercantum dalam prospektus atau term sheet. \n\n\n \n \n \n \nproduct highlight sheet disajikan dalam bentuk yang \njelas, singkat, dan menggunakan bahasa yang mudah \ndimengerti oleh Nasabah. \nOleh karena itu, product highlight sheet dapat disusun \ndalam bentuk ”tanya-jawab” dan paling sedikit dapat \nmenjawab pertanyaan tentang Structured Product: \n1. \nproduk yang akan dibeli atau diinvestasikan oleh \nNasabah; \n2. \nmanfaat \ndari \nproduk \nyang \nakan \ndibeli \natau \ndiinvestasikan oleh Nasabah; \n3. \npihak lawan dengan Nasabah yang akan membeli \natau berinvestasi; \n4. \nperbedaan \nproduk \nyang \nakan \ndibeli \natau \ndiinvestasikan oleh Nasabah dengan giro, simpanan, \ndan deposito konvensional; \n5. \nrisiko utama yang berpengaruh terhadap produk; \n6. \nkeuntungan atau kerugian yang diperoleh atau \ndibebankan \nkepada \nNasabah, \ndalam \nberbagai \nskenario termasuk kerugian terburuk; \n7. \nkesesuaian produk dimaksud sesuai untuk: \na) \nNasabah yang tidak ingin mengalami kerugian \npokok; \nb) \nNasabah yang mungkin memerlukan likuiditas \ndalam jangka pendek;  \nc) \nNasabah yang tidak memiliki pengetahuan atau \npengalaman \ndalam \nmelakukan \ntransaksi \nderivatif; \n8. \nbiaya yang harus dibayar Nasabah dalam membeli \nproduk; \n9. \nfrekuensi penilaian terhadap produk dilakukan dan \ndinformasikan kepada Nasabah; \n10. tata cara Nasabah untuk dapat keluar atau \nmenghentikan transaksi dan risiko dan/atau biaya \nyang \nharus \ndiketahui \noleh \nNasabah \nterkait \npenghentian transaksi; \n11. pihak yang dapat ditanya oleh Nasabah di Bank \nuntuk \nmemperoleh \ninformasi, \ndan/atau \n\n\n \n \n \n \nmengadukan \npermasalahan, \nkomplain \natau \nperselisihan; dan \n12. kepastian \nproduk \ntermasuk \ndalam \ncakupan \npenjaminan Lembaga Penjamin Simpanan. \nProduct highlight sheet disajikan dengan ukuran huruf \n(font) paling sedikit 10 (sepuluh) serta tidak melebihi 4 \n(empat) halaman. \n \nAyat (3)  \nYang dimaksud dengan “bank” pada ayat ini adalah Bank \nsebagaimana dimaksud dalam Pasal 1 dan bank yang \nberkedudukan di luar negeri. \n \nAyat (4)  \n \nCukup jelas. \n \nAyat (5)  \nDokumentasi yang dilakukan oleh Bank antara lain dalam \nbentuk rekaman suara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nPemberian waktu bertujuan agar Nasabah dapat melakukan \npenilaian terhadap kesesuaian Structured Product yang \nditawarkan Bank dengan kebutuhan Nasabah. \n \nAyat (2)  \nPemberian waktu diberikan untuk penawaran atas setiap \njenis produk. \n \nAyat (3)  \n \nHuruf a \nJangka waktu 3 (tiga) hari kerja dihitung sejak tanggal \nditerimanya dokumen penawaran oleh Nasabah yang \ndibuktikan dengan tanda terima. \n \nHuruf b \nJangka waktu 2 (dua) hari kerja dihitung sejak tanggal \nditerimanya dokumen penawaran oleh Nasabah yang \ndibuktikan dengan tanda terima. \n \nAyat (4)  \n \nHuruf a \n \nCukup jelas. \n\n\n \n \n \n \n \nHuruf b \nYang dimaksud dengan “bank” pada ayat ini adalah \nBank sebagaimana dimaksud dalam Pasal 1 dan bank \nyang berkedudukan di luar negeri.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nPemberian waktu bertujuan agar Nasabah dapat melakukan \npenilaian terhadap kesesuaian Structured Product yang \nditawarkan Bank dengan kebutuhan Nasabah. \n \nAyat (2)  \nPemberian waktu diberikan untuk penawaran atas setiap \njenis produk. \n \nAyat (3)  \n \nHuruf a \nJangka waktu 3 (tiga) hari kerja dihitung sejak tanggal \nditerimanya dokumen penawaran oleh Nasabah yang \ndibuktikan dengan tanda terima. \n \nHuruf b \nJangka waktu 2 (dua) hari kerja dihitung sejak tanggal \nditerimanya dokumen penawaran oleh Nasabah yang \ndibuktikan dengan tanda terima. \n \nAyat (4)  \n \nHuruf a \n \nCukup jelas. \n\n\n \n \n \n \n \nHuruf b \nYang dimaksud dengan “bank” pada ayat ini adalah \nBank sebagaimana dimaksud dalam Pasal 1 dan bank \nyang berkedudukan di luar negeri."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \nYang dimaksud dengan “pihak yang mempunyai kewenangan \nsecara hukum antara lain bagi individu” adalah pihak yang \ncakap secara hukum, bagi badan hukum adalah pejabat yang \nmempunyai kewenangan sesuai dengan anggaran dasar atau \nketentuan internal badan hukum yang bersangkutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \nYang dimaksud dengan “pihak yang mempunyai kewenangan \nsecara hukum antara lain bagi individu” adalah pihak yang \ncakap secara hukum, bagi badan hukum adalah pejabat yang \nmempunyai kewenangan sesuai dengan anggaran dasar atau \nketentuan internal badan hukum yang bersangkutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nCukup jelas. \n \nAyat (4)  \nYang dimaksud dengan “pihak yang mempunyai kewenangan \nsecara hukum antara lain bagi individu” adalah pihak yang \ncakap secara hukum, bagi badan hukum adalah pejabat yang \nmempunyai kewenangan sesuai dengan anggaran dasar atau \nketentuan internal badan hukum yang bersangkutan. \n \nAyat (5)  \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nCukup jelas. \n \nAyat (2)  \n \nCukup jelas. \n \nAyat (3)  \n \nCukup jelas. \n \nAyat (4)  \nYang dimaksud dengan “pihak yang mempunyai kewenangan \nsecara hukum antara lain bagi individu” adalah pihak yang \ncakap secara hukum, bagi badan hukum adalah pejabat yang \nmempunyai kewenangan sesuai dengan anggaran dasar atau \nketentuan internal badan hukum yang bersangkutan. \n \nAyat (5)  \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5843",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5843"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 80,
+  "total_ayat": 131,
+  "total_karakter": 57822,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

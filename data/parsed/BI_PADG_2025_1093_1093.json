@@ -1,0 +1,1431 @@
+{
+  "doc_id": "BI_PADG_2025_1093_1093",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "1093",
+  "tahun": "2025",
+  "judul": "PENERAPAN ANTI PENCUCIAN UANG, PENCEGAHAN PENDANAAN TERORISME, DAN PENCEGAHAN PENDANAAN PROLIFERASI SENJATA PEMUSNAH MASSAL BAGI PIHAK YANG DIATUR DAN DIAWASI OLEH BANK INDONESIA",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "30 Juni 2025",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PROSES MANAJEMEN RISIKO"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nPencucian Uang adalah pencucian uang sebagaimana \ndimaksud dalam Undang-Undang mengenai pencegahan \ndan pemberantasan tindak pidana pencucian uang. \n2. \nPendanaan \nTerorisme \nadalah \npendanaan \nterorisme \nsebagaimana dimaksud dalam Undang-Undang mengenai \npencegahan dan pemberantasan tindak pidana pendanaan \nterorisme. \n3. \nTindak Pidana Pencucian Uang yang selanjutnya disingkat \nTPPU \nadalah \nTPPU \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pencucian uang. \n4. \nTindak Pidana Pendanaan Terorisme yang selanjutnya \ndisingkat TPPT adalah TPPT sebagaimana dimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme. \n5. \nPendanaan Proliferasi Senjata Pemusnah Massal yang \nselanjutnya \ndisingkat \nPPSPM \nadalah \npendanaan \nproliferasi \nsenjata \npemusnah \nmassal \nsebagaimana \ndimaksud \ndalam \nperaturan \nmengenai \npendanaan \nproliferasi senjata pemusnah massal. \n6. \nAnti Pencucian Uang, Pencegahan Pendanaan Terorisme, \ndan Pencegahan Pendanaan Proliferasi Senjata Pemusnah \nMassal yang selanjutnya disingkat APU, PPT, dan PPPSPM \nadalah upaya pencegahan dan pemberantasan Pencucian \nUang, Pendanaan Terorisme, dan PPSPM. \n7. \nDaftar Terduga Teroris dan Organisasi Teroris yang \nselanjutnya disingkat DTTOT adalah daftar nama terduga \nteroris dan organisasi teroris sebagaimana dimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme. \n8. \nDaftar Pendanaan Proliferasi Senjata Pemusnah Massal \nyang selanjutnya disingkat DPPSPM adalah daftar nama \nterduga pelaku PPSPM sebagaimana dimaksud dalam \nperaturan mengenai pencegahan PPSPM. \n9. \nSistem \nPembayaran \nadalah \nsistem \npembayaran \nsebagaimana dimaksud dalam ketentuan Bank Indonesia \nmengenai sistem pembayaran. \n10. Kegiatan Usaha Penukaran Valuta Asing yang selanjutnya \ndisingkat KUPVA adalah kegiatan usaha penukaran valuta \nasing sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai kegiatan usaha penukaran valuta \nasing bukan bank. \n\n\n \n \n \n11. Penyelenggara adalah pelaku usaha sektor keuangan yang \ndiatur, mendapat izin, persetujuan, dan/atau penetapan, \nserta diawasi oleh Bank Indonesia. \n12. Transaksi adalah seluruh kegiatan yang menimbulkan \nhak dan/atau kewajiban atau menyebabkan timbulnya \nhubungan hukum antara dua pihak atau lebih yang \ndilakukan dalam wilayah Negara Kesatuan Republik \nIndonesia maupun lintas negara. \n13. Pengguna Jasa adalah pihak yang menggunakan jasa \nPenyelenggara, melakukan hubungan usaha dengan \nPenyelenggara, dan/atau melakukan Transaksi melalui \nPenyelenggara. \n14. Pemilik Manfaat (Beneficial Owner) yang selanjutnya \ndisebut \nBeneficial \nOwner \nadalah \nsetiap \norang \nperseorangan, baik sendiri atau bersama-sama, secara \nlangsung atau tidak langsung, yang:  \na. \nmerupakan pemilik sebenarnya dari dana;  \nb. \nmengendalikan Transaksi Pengguna Jasa;  \nc. \nmengendalikan korporasi atau perikatan lainnya \n(legal arrangement); dan/atau  \nd. \nmemberikan kuasa untuk melakukan Transaksi. \n15. Korporasi adalah kumpulan orang dan/atau kelompok \nyang terorganisasi, baik yang merupakan badan hukum \nmaupun bukan badan hukum, termasuk perusahaan, \nyayasan, koperasi, perkumpulan keagamaan, partai \npolitik, lembaga swadaya masyarakat atau organisasi non-\nprofit, dan organisasi kemasyarakatan. \n16. Politically Exposed Person yang selanjutnya disingkat PEP \nmeliputi: \na. \nPEP asing yaitu orang yang diberi kewenangan untuk \nmelakukan fungsi penting (prominent function) oleh \nnegara lain; \nb. \nPEP domestik yaitu orang yang diberi kewenangan \nuntuk melakukan fungsi penting (prominent function) \noleh negara; dan \nc. \norang yang diberi kewenangan untuk melakukan \nfungsi penting (prominent function) oleh organisasi \ninternasional,  \nyang tidak dimaksudkan untuk tingkatan menengah \n(middle ranking) dan/atau tingkatan lebih rendah (junior \nindividuals).  \n17. Transfer \nDana \nadalah \ntransfer \ndana \nsebagaimana \ndimaksud dalam Undang-Undang mengenai transfer dana. \n18. Penyelenggara Pengirim adalah penyelenggara pengirim \nasal dan/atau penyelenggara penerus yang mengirimkan \nperintah Transfer Dana sebagaimana diatur dalam \nUndang-Undang mengenai transfer dana. \n19. Penyelenggara Penerima adalah Penyelenggara Pengirim \nasal, penyelenggara penerus, dan/atau penyelenggara \npenerima akhir yang menerima perintah Transfer Dana \nsebagaimana diatur dalam Undang-Undang mengenai \ntransfer dana. \n20. Penyelenggara Penerus adalah Penyelenggara Penerima \nselain Penyelenggara Pengirim asal dan Penyelenggara \nPenerima akhir sebagaimana diatur dalam Undang-\nUndang mengenai transfer dana. \n\n\n \n \n \n21. Pemblokiran adalah tindakan mencegah pentransferan, \npengubahan \nbentuk, \npenukaran, \npenempatan, \npembagian, perpindahan, atau pergerakan dana untuk \njangka waktu tertentu sebagaimana dimaksud dalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme. \n22. Transaksi Keuangan Mencurigakan adalah Transaksi \nkeuangan mencurigakan sebagaimana dimaksud dalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pencucian uang, transaksi \nkeuangan mencurigakan sebagaimana dimaksud dalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme, \ndan/atau transaksi keuangan mencurigakan sebagaimana \ndimaksud \ndalam \nperaturan \nmengenai \npendanaan \nproliferasi senjata pemusnah massal. \n23. Pusat Pelaporan dan Analisis Transaksi Keuangan yang \nselanjutnya disingkat PPATK adalah Pusat Pelaporan dan \nAnalisis Transaksi Keuangan sebagaimana dimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pencucian uang. \n24. The Financial Action Task Force yang selanjutnya disingkat \nFATF adalah lembaga internasional yang independen \nuntuk menetapkan standar internasional dan mendukung \nimplementasi yang efektif dalam pencegahan TPPU, TPPT, \ndan/atau PPSPM serta ancaman terkait lain yang \nmengancam integritas sistem keuangan internasional. \n25. Kelompok \nUsaha \nadalah \ngrup \natau \nsekelompok \nperusahaan \nyang \nmemiliki \nketerkaitan \nkepemilikan \ndan/atau pengendalian dengan Penyelenggara. \n26. Direksi adalah direksi sebagaimana dimaksud dalam \nUndang-Undang mengenai perseroan terbatas. \n27. Pejabat Eksekutif adalah pejabat yang bertanggung jawab \nlangsung kepada anggota Direksi atau mempunyai \npengaruh yang signifikan terhadap kebijakan dan/atau \noperasional Penyelenggara. \n28. Manajemen Senior adalah anggota Direksi atau Pejabat \nEksekutif \nyang \ndapat \nmengambil \nkebijakan \natau \nkeputusan dalam operasional Penyelenggara. \n29. Dewan Komisaris adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang mengenai perseroan \nterbatas. \n \nBAB II \nRUANG LINGKUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nPencucian Uang adalah pencucian uang sebagaimana \ndimaksud dalam Undang-Undang mengenai pencegahan \ndan pemberantasan tindak pidana pencucian uang. \n2. \nPendanaan \nTerorisme \nadalah \npendanaan \nterorisme \nsebagaimana dimaksud dalam Undang-Undang mengenai \npencegahan dan pemberantasan tindak pidana pendanaan \nterorisme. \n3. \nTindak Pidana Pencucian Uang yang selanjutnya disingkat \nTPPU \nadalah \nTPPU \nsebagaimana \ndimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pencucian uang. \n4. \nTindak Pidana Pendanaan Terorisme yang selanjutnya \ndisingkat TPPT adalah TPPT sebagaimana dimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme. \n5. \nPendanaan Proliferasi Senjata Pemusnah Massal yang \nselanjutnya \ndisingkat \nPPSPM \nadalah \npendanaan \nproliferasi \nsenjata \npemusnah \nmassal \nsebagaimana \ndimaksud \ndalam \nperaturan \nmengenai \npendanaan \nproliferasi senjata pemusnah massal. \n6. \nAnti Pencucian Uang, Pencegahan Pendanaan Terorisme, \ndan Pencegahan Pendanaan Proliferasi Senjata Pemusnah \nMassal yang selanjutnya disingkat APU, PPT, dan PPPSPM \nadalah upaya pencegahan dan pemberantasan Pencucian \nUang, Pendanaan Terorisme, dan PPSPM. \n7. \nDaftar Terduga Teroris dan Organisasi Teroris yang \nselanjutnya disingkat DTTOT adalah daftar nama terduga \nteroris dan organisasi teroris sebagaimana dimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme. \n8. \nDaftar Pendanaan Proliferasi Senjata Pemusnah Massal \nyang selanjutnya disingkat DPPSPM adalah daftar nama \nterduga pelaku PPSPM sebagaimana dimaksud dalam \nperaturan mengenai pencegahan PPSPM. \n9. \nSistem \nPembayaran \nadalah \nsistem \npembayaran \nsebagaimana dimaksud dalam ketentuan Bank Indonesia \nmengenai sistem pembayaran. \n10. Kegiatan Usaha Penukaran Valuta Asing yang selanjutnya \ndisingkat KUPVA adalah kegiatan usaha penukaran valuta \nasing sebagaimana dimaksud dalam ketentuan Bank \nIndonesia mengenai kegiatan usaha penukaran valuta \nasing bukan bank. \n\n\n \n \n \n11. Penyelenggara adalah pelaku usaha sektor keuangan yang \ndiatur, mendapat izin, persetujuan, dan/atau penetapan, \nserta diawasi oleh Bank Indonesia. \n12. Transaksi adalah seluruh kegiatan yang menimbulkan \nhak dan/atau kewajiban atau menyebabkan timbulnya \nhubungan hukum antara dua pihak atau lebih yang \ndilakukan dalam wilayah Negara Kesatuan Republik \nIndonesia maupun lintas negara. \n13. Pengguna Jasa adalah pihak yang menggunakan jasa \nPenyelenggara, melakukan hubungan usaha dengan \nPenyelenggara, dan/atau melakukan Transaksi melalui \nPenyelenggara. \n14. Pemilik Manfaat (Beneficial Owner) yang selanjutnya \ndisebut \nBeneficial \nOwner \nadalah \nsetiap \norang \nperseorangan, baik sendiri atau bersama-sama, secara \nlangsung atau tidak langsung, yang:  \na. \nmerupakan pemilik sebenarnya dari dana;  \nb. \nmengendalikan Transaksi Pengguna Jasa;  \nc. \nmengendalikan korporasi atau perikatan lainnya \n(legal arrangement); dan/atau  \nd. \nmemberikan kuasa untuk melakukan Transaksi. \n15. Korporasi adalah kumpulan orang dan/atau kelompok \nyang terorganisasi, baik yang merupakan badan hukum \nmaupun bukan badan hukum, termasuk perusahaan, \nyayasan, koperasi, perkumpulan keagamaan, partai \npolitik, lembaga swadaya masyarakat atau organisasi non-\nprofit, dan organisasi kemasyarakatan. \n16. Politically Exposed Person yang selanjutnya disingkat PEP \nmeliputi: \na. \nPEP asing yaitu orang yang diberi kewenangan untuk \nmelakukan fungsi penting (prominent function) oleh \nnegara lain; \nb. \nPEP domestik yaitu orang yang diberi kewenangan \nuntuk melakukan fungsi penting (prominent function) \noleh negara; dan \nc. \norang yang diberi kewenangan untuk melakukan \nfungsi penting (prominent function) oleh organisasi \ninternasional,  \nyang tidak dimaksudkan untuk tingkatan menengah \n(middle ranking) dan/atau tingkatan lebih rendah (junior \nindividuals).  \n17. Transfer \nDana \nadalah \ntransfer \ndana \nsebagaimana \ndimaksud dalam Undang-Undang mengenai transfer dana. \n18. Penyelenggara Pengirim adalah penyelenggara pengirim \nasal dan/atau penyelenggara penerus yang mengirimkan \nperintah Transfer Dana sebagaimana diatur dalam \nUndang-Undang mengenai transfer dana. \n19. Penyelenggara Penerima adalah Penyelenggara Pengirim \nasal, penyelenggara penerus, dan/atau penyelenggara \npenerima akhir yang menerima perintah Transfer Dana \nsebagaimana diatur dalam Undang-Undang mengenai \ntransfer dana. \n20. Penyelenggara Penerus adalah Penyelenggara Penerima \nselain Penyelenggara Pengirim asal dan Penyelenggara \nPenerima akhir sebagaimana diatur dalam Undang-\nUndang mengenai transfer dana. \n\n\n \n \n \n21. Pemblokiran adalah tindakan mencegah pentransferan, \npengubahan \nbentuk, \npenukaran, \npenempatan, \npembagian, perpindahan, atau pergerakan dana untuk \njangka waktu tertentu sebagaimana dimaksud dalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme. \n22. Transaksi Keuangan Mencurigakan adalah Transaksi \nkeuangan mencurigakan sebagaimana dimaksud dalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pencucian uang, transaksi \nkeuangan mencurigakan sebagaimana dimaksud dalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pendanaan terorisme, \ndan/atau transaksi keuangan mencurigakan sebagaimana \ndimaksud \ndalam \nperaturan \nmengenai \npendanaan \nproliferasi senjata pemusnah massal. \n23. Pusat Pelaporan dan Analisis Transaksi Keuangan yang \nselanjutnya disingkat PPATK adalah Pusat Pelaporan dan \nAnalisis Transaksi Keuangan sebagaimana dimaksud \ndalam \nUndang-Undang \nmengenai \npencegahan \ndan \npemberantasan tindak pidana pencucian uang. \n24. The Financial Action Task Force yang selanjutnya disingkat \nFATF adalah lembaga internasional yang independen \nuntuk menetapkan standar internasional dan mendukung \nimplementasi yang efektif dalam pencegahan TPPU, TPPT, \ndan/atau PPSPM serta ancaman terkait lain yang \nmengancam integritas sistem keuangan internasional. \n25. Kelompok \nUsaha \nadalah \ngrup \natau \nsekelompok \nperusahaan \nyang \nmemiliki \nketerkaitan \nkepemilikan \ndan/atau pengendalian dengan Penyelenggara. \n26. Direksi adalah direksi sebagaimana dimaksud dalam \nUndang-Undang mengenai perseroan terbatas. \n27. Pejabat Eksekutif adalah pejabat yang bertanggung jawab \nlangsung kepada anggota Direksi atau mempunyai \npengaruh yang signifikan terhadap kebijakan dan/atau \noperasional Penyelenggara. \n28. Manajemen Senior adalah anggota Direksi atau Pejabat \nEksekutif \nyang \ndapat \nmengambil \nkebijakan \natau \nkeputusan dalam operasional Penyelenggara. \n29. Dewan Komisaris adalah dewan komisaris sebagaimana \ndimaksud dalam Undang-Undang mengenai perseroan \nterbatas. \n \nBAB II \nRUANG LINGKUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP",
+      "teks_lengkap": "(1) \nKetentuan dalam Peraturan Anggota Dewan Gubernur ini \nberlaku bagi:  \na. \nPenyelenggara jasa Sistem Pembayaran selain bank;  \nb. \nPenyelenggara KUPVA bukan bank; dan  \nc. \npihak \nlain \nselain \nbank \nyang \ndiberikan \nizin, \npersetujuan, \ndan/atau \npenetapan \ndari \nBank \nIndonesia. \n \n\n\n \n \n \n(2) \nPemberlakuan Peraturan Anggota Dewan Gubernur ini \nbagi Penyelenggara jasa Sistem Pembayaran selain bank \nsebagaimana dimaksud pada ayat (1) huruf a meliputi \naktivitas:  \na. \npenatausahaan sumber dana;  \nb. \npenerusan Transaksi; dan  \nc. \nlayanan remitansi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Ketentuan dalam Peraturan Anggota Dewan Gubernur ini \nberlaku bagi:  \na. \nPenyelenggara jasa Sistem Pembayaran selain bank;  \nb. \nPenyelenggara KUPVA bukan bank; dan  \nc. \npihak \nlain \nselain \nbank \nyang \ndiberikan \nizin, \npersetujuan, \ndan/atau \npenetapan \ndari \nBank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemberlakuan Peraturan Anggota Dewan Gubernur ini \nbagi Penyelenggara jasa Sistem Pembayaran selain bank \nsebagaimana dimaksud pada ayat (1) huruf a meliputi \naktivitas:  \na. \npenatausahaan sumber dana;  \nb. \npenerusan Transaksi; dan  \nc. \nlayanan remitansi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "RUANG LINGKUP",
+      "teks_lengkap": "Ruang lingkup Peraturan Anggota Dewan Gubernur ini meliputi \npengaturan mengenai: \na. \nkebijakan dan prosedur tertulis; \nb. \nproses manajemen risiko; \nc. \ncustomer due diligence; dan \nd. \ntata cara pengawasan, pelaporan, dan pengenaan sanksi \nadministratif. \n \nBAB III \nKEBIJAKAN DAN PROSEDUR TERTULIS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup Peraturan Anggota Dewan Gubernur ini meliputi \npengaturan mengenai: \na. \nkebijakan dan prosedur tertulis; \nb. \nproses manajemen risiko; \nc. \ncustomer due diligence; dan \nd. \ntata cara pengawasan, pelaporan, dan pengenaan sanksi \nadministratif. \n \nBAB III \nKEBIJAKAN DAN PROSEDUR TERTULIS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS",
+      "teks_lengkap": "(1) \nPenyelenggara wajib menerapkan APU, PPT, dan PPPSPM \ndengan \ncara \nmemiliki, \nmelaksanakan, \ndan \nmengembangkan kebijakan dan prosedur tertulis untuk \nmengelola risiko TPPU, TPPT, dan PPSPM. \n(2) \nKebijakan dan prosedur tertulis sebagaimana dimaksud \npada ayat (1) paling sedikit mengenai:  \na. \ncustomer due diligence;  \nb. \npengelolaan data, informasi, dan dokumen; dan \nc. \npelaporan Transaksi Keuangan Mencurigakan dan \npelaporan lainnya. \n(3) \nSelain \nmuatan \nkebijakan \ndan \nprosedur \ntertulis \nsebagaimana dimaksud pada ayat (2), kebijakan dan \nprosedur tertulis juga memuat mengenai manajemen \nsumber daya manusia dan sistem pengendalian internal.  \n(4) \nKebijakan dan prosedur tertulis mengenai customer due \ndiligence sebagaimana dimaksud pada ayat (2) huruf a \npaling sedikit mencakup: \na. \npembukaan hubungan usaha dengan calon Pengguna \nJasa, Pengguna Jasa, dan/atau Beneficial Owner; \nb. \nidentifikasi dan verifikasi identitas calon Pengguna \nJasa, Pengguna Jasa, pihak yang bertindak untuk \ndan atas nama Pengguna Jasa, dan/atau Beneficial \nOwner dari Transaksi Pengguna Jasa; \nc. \npenentuan profil risiko serta pengelompokan calon \nPengguna Jasa dan Pengguna Jasa ke tingkat risiko \nrendah, sedang, atau tinggi;  \nd. \npemantauan secara berkesinambungan terhadap \nhubungan usaha dan/atau Transaksi (on going due \ndiligence) \nterhadap \nPengguna \nJasa \ndengan \nmemperhatikan profil Pengguna Jasa; dan \ne. \npenolakan melakukan hubungan usaha, penolakan \nTransaksi, \npelaksanaan \nTransaksi, \npembatalan \nTransaksi, dan/atau penutupan hubungan usaha. \n\n\n \n \n \n(5) \nKebijakan dan prosedur tertulis mengenai pengelolaan \ndata, informasi, dan dokumen sebagaimana dimaksud \npada ayat (2) huruf b paling sedikit mencakup: \na. \npenginian data, informasi, dan dokumen Pengguna \nJasa dan/atau Beneficial Owner dari Transaksi \nPengguna Jasa; dan \nb. \npenyediaan data, informasi, dan dokumen untuk \nkepentingan internal dan permintaan otoritas terkait. \n(6) \nKebijakan dan prosedur tertulis mengenai pelaporan \nTransaksi Keuangan Mencurigakan dan pelaporan lainnya \nsebagaimana dimaksud pada ayat (2) huruf c paling sedikit \nmencakup: \na. \nidentifikasi, analisis, investigasi, dan pelaporan \nTransaksi Keuangan Mencurigakan; \nb. \npelaporan \nlainnya \nsesuai \ndengan \nketentuan \nperundang-undangan; dan \nc. \npengamanan data dan kerahasiaan laporan (anti \ntipping-off). \n(7) \nBagi Penyelenggara yang menyelenggarakan kegiatan \nTransfer Dana, selain memenuhi ketentuan sebagaimana \ndimaksud pada ayat (2) juga wajib memiliki kebijakan dan \nprosedur tertulis paling sedikit mengenai: \na. \npenerimaan dan/atau penerusan Transfer Dana; \nb. \npenelitian kelengkapan informasi dalam Transfer \nDana dan tindak lanjutnya; dan \nc. \npenyerahan \ndana \nkepada \npenerima \nbagi \nPenyelenggara Penerima.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara wajib menerapkan APU, PPT, dan PPPSPM \ndengan \ncara \nmemiliki, \nmelaksanakan, \ndan \nmengembangkan kebijakan dan prosedur tertulis untuk \nmengelola risiko TPPU, TPPT, dan PPSPM."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan dan prosedur tertulis sebagaimana dimaksud \npada ayat (1) paling sedikit mengenai:  \na. \ncustomer due diligence;  \nb. \npengelolaan data, informasi, dan dokumen; dan \nc. \npelaporan Transaksi Keuangan Mencurigakan dan \npelaporan lainnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Selain \nmuatan \nkebijakan \ndan \nprosedur \ntertulis \nsebagaimana dimaksud pada ayat (2), kebijakan dan \nprosedur tertulis juga memuat mengenai manajemen \nsumber daya manusia dan sistem pengendalian internal."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kebijakan dan prosedur tertulis mengenai customer due \ndiligence sebagaimana dimaksud pada ayat (2) huruf a \npaling sedikit mencakup: \na. \npembukaan hubungan usaha dengan calon Pengguna \nJasa, Pengguna Jasa, dan/atau Beneficial Owner; \nb. \nidentifikasi dan verifikasi identitas calon Pengguna \nJasa, Pengguna Jasa, pihak yang bertindak untuk \ndan atas nama Pengguna Jasa, dan/atau Beneficial \nOwner dari Transaksi Pengguna Jasa; \nc. \npenentuan profil risiko serta pengelompokan calon \nPengguna Jasa dan Pengguna Jasa ke tingkat risiko \nrendah, sedang, atau tinggi;  \nd. \npemantauan secara berkesinambungan terhadap \nhubungan usaha dan/atau Transaksi (on going due \ndiligence) \nterhadap \nPengguna \nJasa \ndengan \nmemperhatikan profil Pengguna Jasa; dan \ne. \npenolakan melakukan hubungan usaha, penolakan \nTransaksi, \npelaksanaan \nTransaksi, \npembatalan \nTransaksi, dan/atau penutupan hubungan usaha."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kebijakan dan prosedur tertulis mengenai pengelolaan \ndata, informasi, dan dokumen sebagaimana dimaksud \npada ayat (2) huruf b paling sedikit mencakup: \na. \npenginian data, informasi, dan dokumen Pengguna \nJasa dan/atau Beneficial Owner dari Transaksi \nPengguna Jasa; dan \nb. \npenyediaan data, informasi, dan dokumen untuk \nkepentingan internal dan permintaan otoritas terkait."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Kebijakan dan prosedur tertulis mengenai pelaporan \nTransaksi Keuangan Mencurigakan dan pelaporan lainnya \nsebagaimana dimaksud pada ayat (2) huruf c paling sedikit \nmencakup: \na. \nidentifikasi, analisis, investigasi, dan pelaporan \nTransaksi Keuangan Mencurigakan; \nb. \npelaporan \nlainnya \nsesuai \ndengan \nketentuan \nperundang-undangan; dan \nc. \npengamanan data dan kerahasiaan laporan (anti \ntipping-off)."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Bagi Penyelenggara yang menyelenggarakan kegiatan \nTransfer Dana, selain memenuhi ketentuan sebagaimana \ndimaksud pada ayat (2) juga wajib memiliki kebijakan dan \nprosedur tertulis paling sedikit mengenai: \na. \npenerimaan dan/atau penerusan Transfer Dana; \nb. \npenelitian kelengkapan informasi dalam Transfer \nDana dan tindak lanjutnya; dan \nc. \npenyerahan \ndana \nkepada \npenerima \nbagi \nPenyelenggara Penerima."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS",
+      "teks_lengkap": "(1) \nDalam \nmelaksanakan \nAPU, \nPPT, \ndan \nPPPSPM, \nPenyelenggara melakukan penetapan, penerapan, serta \npenginian kebijakan dan prosedur tertulis.  \n(2) \nPenetapan kebijakan dan prosedur tertulis sebagaimana \ndimaksud pada ayat (1) dilakukan Penyelenggara melalui: \na. \npenyusunan kebijakan dan prosedur tertulis yang \ndiinisiasi oleh satuan atau unit kerja; \nb. \nreviu kebijakan dan prosedur tertulis oleh Direksi; \ndan \nc. \npersetujuan kebijakan dan prosedur tertulis oleh \nDewan Komisaris. \n(3) \nPenerapan serta penginian kebijakan dan prosedur tertulis \noleh Penyelenggara sebagaimana dimaksud pada ayat (1) \ndisertai dengan:  \na. \npemantauan dan peningkatan efektivitas penerapan \nkebijakan dan prosedur tertulis oleh satuan atau unit \nkerja terkait, Direksi, dan Dewan Komisaris; dan \nb. \nevaluasi terhadap substansi kebijakan dan prosedur \ntertulis oleh satuan atau unit kerja terkait, Direksi, \ndan Dewan Komisaris. \n(4) \nPelaksana penetapan sebagaimana dimaksud pada ayat \n(2) serta penerapan dan penginian sebagaimana dimaksud \npada ayat (3) dapat disesuaikan dengan skala bisnis \nPenyelenggara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelaksanakan \nAPU, \nPPT, \ndan \nPPPSPM, \nPenyelenggara melakukan penetapan, penerapan, serta \npenginian kebijakan dan prosedur tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan kebijakan dan prosedur tertulis sebagaimana \ndimaksud pada ayat (1) dilakukan Penyelenggara melalui: \na. \npenyusunan kebijakan dan prosedur tertulis yang \ndiinisiasi oleh satuan atau unit kerja; \nb. \nreviu kebijakan dan prosedur tertulis oleh Direksi; \ndan \nc. \npersetujuan kebijakan dan prosedur tertulis oleh \nDewan Komisaris."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penerapan serta penginian kebijakan dan prosedur tertulis \noleh Penyelenggara sebagaimana dimaksud pada ayat (1) \ndisertai dengan:  \na. \npemantauan dan peningkatan efektivitas penerapan \nkebijakan dan prosedur tertulis oleh satuan atau unit \nkerja terkait, Direksi, dan Dewan Komisaris; dan \nb. \nevaluasi terhadap substansi kebijakan dan prosedur \ntertulis oleh satuan atau unit kerja terkait, Direksi, \ndan Dewan Komisaris."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pelaksana penetapan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "serta penerapan dan penginian sebagaimana dimaksud \npada ayat (3) dapat disesuaikan dengan skala bisnis \nPenyelenggara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS",
+      "teks_lengkap": "Penyelenggara dapat menyesuaikan muatan dari kebijakan dan \nprosedur tertulis sebagaimana dimaksud dalam Pasal 4 ayat (2) \ndalam hal: \na. \nPenyelenggara \nhanya \nmemberikan \njasa \nkepada \nPenyelenggara lain dan tidak berhubungan langsung \ndengan Pengguna Jasa; atau \nb. \nPenyelenggara tidak melakukan kegiatan Transfer Dana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyelenggara dapat menyesuaikan muatan dari kebijakan dan \nprosedur tertulis sebagaimana dimaksud dalam Pasal 4 ayat (2) \ndalam hal: \na. \nPenyelenggara \nhanya \nmemberikan \njasa \nkepada \nPenyelenggara lain dan tidak berhubungan langsung \ndengan Pengguna Jasa; atau \nb. \nPenyelenggara tidak melakukan kegiatan Transfer Dana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS",
+      "teks_lengkap": "Penyelenggara yang merupakan Kelompok Usaha wajib \nmemiliki kebijakan dan prosedur tertulis yang memuat: \na. \npertukaran \ninformasi \nantar \nperusahaan \ninduk, \nperusahaan anak, dan/atau kantor cabang; \nb. \nperolehan data dan informasi dari perusahaan anak \ndan/atau kantor cabang bagi fungsi audit internal \ndan/atau unit kerja APU, PPT, dan PPPSPM;  \nc. \npengamanan kerahasiaan data dan informasi; dan \nd. \npenerapan langkah terbaik dalam rangka pengendalian \nrisiko untuk penerapan APU, PPT, dan PPPSPM dalam hal \nterdapat perbedaan standar penerapan APU, PPT, dan \nPPPSPM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyelenggara yang merupakan Kelompok Usaha wajib \nmemiliki kebijakan dan prosedur tertulis yang memuat: \na. \npertukaran \ninformasi \nantar \nperusahaan \ninduk, \nperusahaan anak, dan/atau kantor cabang; \nb. \nperolehan data dan informasi dari perusahaan anak \ndan/atau kantor cabang bagi fungsi audit internal \ndan/atau unit kerja APU, PPT, dan PPPSPM;  \nc. \npengamanan kerahasiaan data dan informasi; dan \nd. \npenerapan langkah terbaik dalam rangka pengendalian \nrisiko untuk penerapan APU, PPT, dan PPPSPM dalam hal \nterdapat perbedaan standar penerapan APU, PPT, dan \nPPPSPM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS",
+      "teks_lengkap": "(1) \nPenyelenggara menerapkan APU, PPT, dan PPPSPM \nmengenai manajemen sumber daya manusia sesuai \ndengan kebijakan dan prosedur tertulis Penyelenggara. \n(2) \nPenyelenggara wajib menerapkan manajemen sumber \ndaya manusia paling sedikit berupa: \na. \npenyaringan \nuntuk \npenerimaan \npegawai \n(pre-\nemployee screening);  \nb. \npemantauan profil pegawai; dan  \nc. \nprogram pelatihan dan peningkatan pemahaman \n(awareness) pegawai secara berkesinambungan. \n(3) \nPegawai sebagaimana yang dimaksud pada ayat (2) adalah \npegawai yang terkait penerapan APU, PPT, dan PPPSPM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara menerapkan APU, PPT, dan PPPSPM \nmengenai manajemen sumber daya manusia sesuai \ndengan kebijakan dan prosedur tertulis Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggara wajib menerapkan manajemen sumber \ndaya manusia paling sedikit berupa: \na. \npenyaringan \nuntuk \npenerimaan \npegawai \n(pre-\nemployee screening);  \nb. \npemantauan profil pegawai; dan  \nc. \nprogram pelatihan dan peningkatan pemahaman \n(awareness) pegawai secara berkesinambungan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pegawai sebagaimana yang dimaksud pada ayat (2) adalah \npegawai yang terkait penerapan APU, PPT, dan PPPSPM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KEBIJAKAN DAN PROSEDUR TERTULIS",
+      "teks_lengkap": "(1) \nPenyelenggara wajib menerapkan APU, PPT, dan PPPSPM \nmengenai sistem pengendalian internal paling sedikit \nberupa: \na. \npembentukan unit kerja, penetapan fungsi, dan/atau \npenunjukkan Manajemen Senior yang bertanggung \njawab khusus untuk penerapan APU, PPT, dan \nPPPSPM; \nb. \npemisahan wewenang dan tanggung jawab antara \npihak yang melaksanakan fungsi audit dengan unit \nbisnis Penyelenggara; dan \nc. \npelaksanaan audit independen secara berkala untuk \nmenguji kepatuhan dan efektivitas penerapan APU, \nPPT, dan PPPSPM. \n(2) \nPelaksanaan sistem pengendalian internal sebagaimana \ndimaksud pada ayat (1) dilakukan sesuai dengan \nkebijakan dan prosedur tertulis Penyelenggara. \n \n \n\n\n \n \n \nBAB IV \nPROSES MANAJEMEN RISIKO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara wajib menerapkan APU, PPT, dan PPPSPM \nmengenai sistem pengendalian internal paling sedikit \nberupa: \na. \npembentukan unit kerja, penetapan fungsi, dan/atau \npenunjukkan Manajemen Senior yang bertanggung \njawab khusus untuk penerapan APU, PPT, dan \nPPPSPM; \nb. \npemisahan wewenang dan tanggung jawab antara \npihak yang melaksanakan fungsi audit dengan unit \nbisnis Penyelenggara; dan \nc. \npelaksanaan audit independen secara berkala untuk \nmenguji kepatuhan dan efektivitas penerapan APU, \nPPT, dan PPPSPM."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan sistem pengendalian internal sebagaimana \ndimaksud pada ayat (1) dilakukan sesuai dengan \nkebijakan dan prosedur tertulis Penyelenggara. \n \n \n\n\n \n \n \nBAB IV \nPROSES MANAJEMEN RISIKO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PROSES MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nPenyelenggara melaksanakan proses manajemen risiko \nyang meliputi: \na. \nidentifikasi risiko; \nb. \npenilaian risiko; \nc. \npemahaman risiko; \nd. \npengendalian risiko; dan \ne. \nmitigasi risiko. \n(2) \nIdentifikasi risiko sebagaimana dimaksud pada ayat (1) \nhuruf a, meliputi: \na. \nrisiko calon Pengguna Jasa dan Pengguna Jasa; \nb. \nrisiko negara atau area geografis; \nc. \nrisiko produk atau jasa dan Transaksi; dan/atau \nd. \nrisiko jaringan distribusi. \n(3) \nPenilaian risiko sebagaimana dimaksud pada ayat (1) \nhuruf b dilakukan untuk menentukan tingkat dan potensi \ndampak risiko. \n(4) \nPemahaman risiko sebagaimana  dimaksud pada ayat (1) \nhuruf c dipetakan dalam asesmen atau penilaian risiko, \ntermasuk potensi pelanggaran dan penghindaran targeted \nfinancial sanction. \n(5) \nPengendalian risiko sebagaimana dimaksud pada ayat (1) \nhuruf d ditujukan untuk memastikan kepatuhan terhadap \nketentuan yang berlaku. \n(6) \nMitigasi risiko sebagaimana  dimaksud pada ayat (1) huruf \ne ditujukan untuk meminimalkan potensi risiko TPPU, \nTPPT, dan PPSPM.  \n(7) \nDalam hal Penyelenggara menilai risiko yang dihadapi \ndalam \nkegiatan \nusahanya \nsemakin \nmeningkat, \nPenyelenggara \nwajib \nmelakukan \npeningkatan \npengendalian dan mitigasi risiko TPPU, TPPT, dan PPSPM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara melaksanakan proses manajemen risiko \nyang meliputi: \na. \nidentifikasi risiko; \nb. \npenilaian risiko; \nc. \npemahaman risiko; \nd. \npengendalian risiko; dan \ne. \nmitigasi risiko."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Identifikasi risiko sebagaimana dimaksud pada ayat (1) \nhuruf a, meliputi: \na. \nrisiko calon Pengguna Jasa dan Pengguna Jasa; \nb. \nrisiko negara atau area geografis; \nc. \nrisiko produk atau jasa dan Transaksi; dan/atau \nd. \nrisiko jaringan distribusi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penilaian risiko sebagaimana dimaksud pada ayat (1) \nhuruf b dilakukan untuk menentukan tingkat dan potensi \ndampak risiko."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemahaman risiko sebagaimana  dimaksud pada ayat (1) \nhuruf c dipetakan dalam asesmen atau penilaian risiko, \ntermasuk potensi pelanggaran dan penghindaran targeted \nfinancial sanction."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengendalian risiko sebagaimana dimaksud pada ayat (1) \nhuruf d ditujukan untuk memastikan kepatuhan terhadap \nketentuan yang berlaku."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Mitigasi risiko sebagaimana  dimaksud pada ayat (1) huruf \ne ditujukan untuk meminimalkan potensi risiko TPPU, \nTPPT, dan PPSPM."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal Penyelenggara menilai risiko yang dihadapi \ndalam \nkegiatan \nusahanya \nsemakin \nmeningkat, \nPenyelenggara \nwajib \nmelakukan \npeningkatan \npengendalian dan mitigasi risiko TPPU, TPPT, dan PPSPM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PROSES MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nPenyelenggara mendokumentasikan hasil identifikasi dan \npenilaian risiko sebagaimana dimaksud dalam Pasal 10 \nayat (2) dan ayat (3). \n(2) \nHasil identifikasi dan penilaian risiko sebagaimana \ndimaksud pada ayat (1) dilaporkan kepada Bank Indonesia \n1 (satu) kali dalam 1 (satu) tahun dengan mengacu pada \nformat kertas kerja yang merupakan bagian dari pedoman \npenerapan APU, PPT, dan PPPSPM berbasis risiko. \n(3) \nBank Indonesia dapat menetapkan penilaian risiko yang \nberbeda dari hasil penilaian risiko oleh Penyelenggara. \n(4) \nBank Indonesia dapat meminta Penyelenggara untuk \nmelakukan \nperbaikan \ndalam \nrangka \nmeningkatkan \nkualitas penerapan APU, PPT, dan PPPSPM dengan \nmempertimbangkan hasil penilaian risiko yang ditetapkan \noleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara mendokumentasikan hasil identifikasi dan \npenilaian risiko sebagaimana dimaksud dalam Pasal 10 \nayat (2) dan ayat (3)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Hasil identifikasi dan penilaian risiko sebagaimana \ndimaksud pada ayat (1) dilaporkan kepada Bank Indonesia \n1 (satu) kali dalam 1 (satu) tahun dengan mengacu pada \nformat kertas kerja yang merupakan bagian dari pedoman \npenerapan APU, PPT, dan PPPSPM berbasis risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia dapat menetapkan penilaian risiko yang \nberbeda dari hasil penilaian risiko oleh Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia dapat meminta Penyelenggara untuk \nmelakukan \nperbaikan \ndalam \nrangka \nmeningkatkan \nkualitas penerapan APU, PPT, dan PPPSPM dengan \nmempertimbangkan hasil penilaian risiko yang ditetapkan \noleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PROSES MANAJEMEN RISIKO",
+      "teks_lengkap": "(1) \nPelaksanaan proses manajemen risiko oleh Penyelenggara \nsebagaimana dimaksud dalam Pasal 10 ayat (1) wajib \nberpedoman pada pedoman penerapan APU, PPT, dan \n\n\n \n \n \nPPPSPM berbasis risiko, National Risk Assessment, dan \nSectoral Risk Assessment.  \n(2) \nDalam menyelenggarakan manajemen risiko sebagaimana \ndimaksud pada ayat (1), Penyelenggara menatausahakan \nprofil risiko dari:  \na. \ncalon Pengguna Jasa dan Pengguna Jasa; \nb. \nnegara atau area geografis; \nc. \nproduk atau jasa dan Transaksi; dan/atau \nd. \njaringan distribusi.  \n(3) \nPenyelenggara \nmelakukan \npenginian \nprofil \nrisiko \nsebagaimana dimaksud pada ayat (2) secara berkala \ndan/atau sewaktu-waktu.  \n(4) \nPedoman penerapan APU, PPT, dan PPPSPM berbasis \nrisiko dan Sectoral Risk Assessment serta penginiannya \nakan dipublikasikan melalui laman Bank Indonesia atau \nmedia lain yang ditetapkan oleh Bank Indonesia. \n(5) \nDalam hal terdapat perubahan pedoman penerapan APU, \nPPT, \ndan \nPPPSPM \nberbasis \nrisiko, \nNational \nRisk \nAssessment, dan Sectoral Risk Assessment sebagaimana \ndimaksud pada ayat (1), Penyelenggara melakukan \npenyesuaian terhadap kebijakan dan prosedur tertulis \npaling lambat 3 (tiga) bulan sejak diterbitkannya \nperubahan pedoman penerapan APU, PPT, dan PPPSPM  \nberbasis risiko, National Risk Assessment, dan Sectoral \nRisk Assessment \natau sesuai \njangka waktu yang \nditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan proses manajemen risiko oleh Penyelenggara \nsebagaimana dimaksud dalam Pasal 10 ayat (1) wajib \nberpedoman pada pedoman penerapan APU, PPT, dan \n\n\n \n \n \nPPPSPM berbasis risiko, National Risk Assessment, dan \nSectoral Risk Assessment."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menyelenggarakan manajemen risiko sebagaimana \ndimaksud pada ayat (1), Penyelenggara menatausahakan \nprofil risiko dari:  \na. \ncalon Pengguna Jasa dan Pengguna Jasa; \nb. \nnegara atau area geografis; \nc. \nproduk atau jasa dan Transaksi; dan/atau \nd. \njaringan distribusi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara \nmelakukan \npenginian \nprofil \nrisiko \nsebagaimana dimaksud pada ayat (2) secara berkala \ndan/atau sewaktu-waktu."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pedoman penerapan APU, PPT, dan PPPSPM berbasis \nrisiko dan Sectoral Risk Assessment serta penginiannya \nakan dipublikasikan melalui laman Bank Indonesia atau \nmedia lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat perubahan pedoman penerapan APU, \nPPT, \ndan \nPPPSPM \nberbasis \nrisiko, \nNational \nRisk \nAssessment, dan Sectoral Risk Assessment sebagaimana \ndimaksud pada ayat (1), Penyelenggara melakukan \npenyesuaian terhadap kebijakan dan prosedur tertulis \npaling lambat 3 (tiga) bulan sejak diterbitkannya \nperubahan pedoman penerapan APU, PPT, dan PPPSPM  \nberbasis risiko, National Risk Assessment, dan Sectoral \nRisk Assessment \natau sesuai \njangka waktu yang \nditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PROSES MANAJEMEN RISIKO",
+      "teks_lengkap": "Terhadap hasil penerapan manajemen risiko sebagaimana \ndimaksud dalam Pasal 10, Pasal 11, dan Pasal 12, \nPenyelenggara \nmemastikan \nketersediaan \nmekanisme \npenyediaan informasi yang memadai bagi otoritas yang \nberwenang. \n \nBAB V \nCUSTOMER DUE DILIGENCE",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Terhadap hasil penerapan manajemen risiko sebagaimana \ndimaksud dalam Pasal 10, Pasal 11, dan Pasal 12, \nPenyelenggara \nmemastikan \nketersediaan \nmekanisme \npenyediaan informasi yang memadai bagi otoritas yang \nberwenang. \n \nBAB V \nCUSTOMER DUE DILIGENCE"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "Penyelenggara wajib melakukan customer due diligence yang \ndidasarkan pada risiko TPPU, TPPT, dan PPSPM yang telah \ndiidentifikasi sesuai hasil penilaian risiko untuk memastikan \nefektivitas penerapan APU, PPT, dan PPPSPM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyelenggara wajib melakukan customer due diligence yang \ndidasarkan pada risiko TPPU, TPPT, dan PPSPM yang telah \ndiidentifikasi sesuai hasil penilaian risiko untuk memastikan \nefektivitas penerapan APU, PPT, dan PPPSPM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nPenyelenggara melakukan kegiatan identifikasi terhadap \ncalon Pengguna Jasa, Pengguna Jasa, pihak yang \nbertindak untuk dan atas nama Pengguna Jasa, dan/atau \nBeneficial Owner dari Transaksi calon Pengguna Jasa atau \nPengguna Jasa.  \n(2) \nIdentifikasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan dengan penyampaian data dan informasi oleh \noleh calon Pengguna Jasa, Pengguna Jasa, pihak yang \nbertindak untuk dan atas nama Pengguna Jasa, dan/atau \nBeneficial Owner dari Transaksi calon Pengguna Jasa atau \nPengguna Jasa dengan cara: \na. \npenyampaian langsung; dan/atau \n\n\n \n \n \nb. \nmenggunakan sarana teknologi dan/atau elektronik \nyang memadai dan dapat dipertanggungjawabkan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara melakukan kegiatan identifikasi terhadap \ncalon Pengguna Jasa, Pengguna Jasa, pihak yang \nbertindak untuk dan atas nama Pengguna Jasa, dan/atau \nBeneficial Owner dari Transaksi calon Pengguna Jasa atau \nPengguna Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Identifikasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan dengan penyampaian data dan informasi oleh \noleh calon Pengguna Jasa, Pengguna Jasa, pihak yang \nbertindak untuk dan atas nama Pengguna Jasa, dan/atau \nBeneficial Owner dari Transaksi calon Pengguna Jasa atau \nPengguna Jasa dengan cara: \na. \npenyampaian langsung; dan/atau \n\n\n \n \n \nb. \nmenggunakan sarana teknologi dan/atau elektronik \nyang memadai dan dapat dipertanggungjawabkan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nPenyelenggara melakukan kegiatan verifikasi identitas \nterhadap calon Pengguna Jasa, Pengguna Jasa, pihak \nyang bertindak untuk dan atas nama Pengguna Jasa, \ndan/atau Beneficial Owner dari Transaksi calon Pengguna \nJasa atau Pengguna Jasa. \n(2) \nVerifikasi sebagaimana dimaksud pada ayat (1) dilakukan \nberdasarkan data, informasi, dan/atau dokumen dari \nsumber yang independen dan terpercaya meliputi: \na. \ndata kependudukan dari otoritas yang berwenang \nterkait kependudukan dan pencatatan sipil; \nb. \nsistem informasi otoritas yang berwenang terkait \nadministrasi badan hukum dan izin usaha; dan/atau  \nc. \nbasis data lainnya yang relevan dan sah digunakan. \n(3) \nDalam hal Penyelenggara tidak dapat mengakses langsung \ndata kependudukan yang disediakan oleh otoritas yang \nberwenang, Penyelenggara dapat bekerja sama dengan \npihak ketiga yang telah memperoleh hak akses dan/atau \nyang memfasilitasi hak akses untuk terhubung dengan \nsistem elektronik terkait akses data kependudukan yang \ndimiliki oleh otoritas yang berwenang. \n(4) \nKerja sama dengan pihak ketiga sebagaimana dimaksud \npada ayat (3) dituangkan dalam perjanjian.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara melakukan kegiatan verifikasi identitas \nterhadap calon Pengguna Jasa, Pengguna Jasa, pihak \nyang bertindak untuk dan atas nama Pengguna Jasa, \ndan/atau Beneficial Owner dari Transaksi calon Pengguna \nJasa atau Pengguna Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Verifikasi sebagaimana dimaksud pada ayat (1) dilakukan \nberdasarkan data, informasi, dan/atau dokumen dari \nsumber yang independen dan terpercaya meliputi: \na. \ndata kependudukan dari otoritas yang berwenang \nterkait kependudukan dan pencatatan sipil; \nb. \nsistem informasi otoritas yang berwenang terkait \nadministrasi badan hukum dan izin usaha; dan/atau  \nc. \nbasis data lainnya yang relevan dan sah digunakan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Penyelenggara tidak dapat mengakses langsung \ndata kependudukan yang disediakan oleh otoritas yang \nberwenang, Penyelenggara dapat bekerja sama dengan \npihak ketiga yang telah memperoleh hak akses dan/atau \nyang memfasilitasi hak akses untuk terhubung dengan \nsistem elektronik terkait akses data kependudukan yang \ndimiliki oleh otoritas yang berwenang."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kerja sama dengan pihak ketiga sebagaimana dimaksud \npada ayat (3) dituangkan dalam perjanjian."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nKegiatan memahami maksud dan tujuan hubungan usaha \ndan/atau \nTransaksi \nserta \nsumber \ndana \nyang \ndipergunakan dilaksanakan terhadap calon Pengguna \nJasa, Pengguna Jasa, dan/atau Beneficial Owner. \n(2) \nPemahaman atas maksud dan tujuan hubungan usaha \ndan/atau Transaksi sebagaimana dimaksud pada ayat (1) \ndilakukan dengan mengumpulkan informasi paling sedikit \nmengenai: \na. \ntujuan penggunaan produk, layanan, atau fasilitas \nyang disediakan oleh Penyelenggara; \nb. \njenis aktivitas atau kegiatan usaha yang mendasari \nhubungan usaha atau Transaksi; \nc. \npihak-pihak yang terlibat dalam Transaksi, termasuk \nhubungan antara calon Pengguna Jasa, Pengguna \nJasa, Beneficial Owner, pihak penerima atau pengirim \ndana; dan \nd. \nfrekuensi, \nvolume, \ndan \njenis \nTransaksi \nyang \ndiperkirakan akan dilakukan. \n(3) \nPemahaman atas sumber dana sebagaimana dimaksud \npada ayat (1) dilakukan untuk memastikan bahwa dana \nyang digunakan dalam hubungan usaha dan/atau \nTransaksi berasal dari sumber dana yang sah dan tidak \nterkait dengan TPPU, TPPT, dan/atau PPSPM.  \n(4) \nKegiatan memahami maksud dan tujuan hubungan usaha \ndan/atau \nTransaksi \nserta \nsumber \ndana \nyang \ndipergunakan sebagaimana dimaksud pada ayat (1), dapat \ndilakukan dengan menggunakan teknologi tertentu untuk \nmeningkatkan efektivitas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kegiatan memahami maksud dan tujuan hubungan usaha \ndan/atau \nTransaksi \nserta \nsumber \ndana \nyang \ndipergunakan dilaksanakan terhadap calon Pengguna \nJasa, Pengguna Jasa, dan/atau Beneficial Owner."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemahaman atas maksud dan tujuan hubungan usaha \ndan/atau Transaksi sebagaimana dimaksud pada ayat (1) \ndilakukan dengan mengumpulkan informasi paling sedikit \nmengenai: \na. \ntujuan penggunaan produk, layanan, atau fasilitas \nyang disediakan oleh Penyelenggara; \nb. \njenis aktivitas atau kegiatan usaha yang mendasari \nhubungan usaha atau Transaksi; \nc. \npihak-pihak yang terlibat dalam Transaksi, termasuk \nhubungan antara calon Pengguna Jasa, Pengguna \nJasa, Beneficial Owner, pihak penerima atau pengirim \ndana; dan \nd. \nfrekuensi, \nvolume, \ndan \njenis \nTransaksi \nyang \ndiperkirakan akan dilakukan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemahaman atas sumber dana sebagaimana dimaksud \npada ayat (1) dilakukan untuk memastikan bahwa dana \nyang digunakan dalam hubungan usaha dan/atau \nTransaksi berasal dari sumber dana yang sah dan tidak \nterkait dengan TPPU, TPPT, dan/atau PPSPM."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kegiatan memahami maksud dan tujuan hubungan usaha \ndan/atau \nTransaksi \nserta \nsumber \ndana \nyang \ndipergunakan sebagaimana dimaksud pada ayat (1), dapat \ndilakukan dengan menggunakan teknologi tertentu untuk \nmeningkatkan efektivitas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nPedoman \npenerapan \ncustomer \ndue \ndiligence \nserta \npenginiannya akan dipublikasikan melalui laman Bank \nIndonesia atau media lain yang ditetapkan oleh Bank \nIndonesia. \n(2) \nPenyelenggara \nmenggunakan \npedoman \npenerapan \ncustomer due diligence sebagaimana diatur pada ayat (1) \nsebagai acuan dalam menyusun kebijakan dan prosedur \ntertulis serta pelaksanaan customer due diligence. \n(3) \nDalam hal terdapat perubahan pedoman penerapan \ncustomer due diligence sebagaimana dimaksud pada ayat \n(1), Penyelenggara melakukan penyesuaian terhadap \nkebijakan dan prosedur tertulis paling lambat 3 (tiga) \nbulan \nsejak \nditerbitkannya \nperubahan \npedoman \npenerapan customer due diligence atau sesuai jangka \nwaktu yang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pedoman \npenerapan \ncustomer \ndue \ndiligence \nserta \npenginiannya akan dipublikasikan melalui laman Bank \nIndonesia atau media lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggara \nmenggunakan \npedoman \npenerapan \ncustomer due diligence sebagaimana diatur pada ayat (1) \nsebagai acuan dalam menyusun kebijakan dan prosedur \ntertulis serta pelaksanaan customer due diligence."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat perubahan pedoman penerapan \ncustomer due diligence sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", Penyelenggara melakukan penyesuaian terhadap \nkebijakan dan prosedur tertulis paling lambat 3 (tiga) \nbulan \nsejak \nditerbitkannya \nperubahan \npedoman \npenerapan customer due diligence atau sesuai jangka \nwaktu yang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nDalam pelaksanaan customer due diligence, Penyelenggara \nmemperhatikan \npenanganan \nDTTOT \ndan \nDPPSPM \nterhadap calon Pengguna Jasa dan/atau Pengguna Jasa. \n(2) \nPenyelenggara memastikan kebijakan dan prosedur \ntertulis mampu mengidentifikasi calon Pengguna Jasa \ndan/atau Pengguna Jasa dengan identitas orang atau \nKorporasi yang tercantum dalam DTTOT dan DPPSPM \nsecara tepat waktu dan berkesinambungan. \n(3) \nKetentuan mengenai penanganan DTTOT dan DPPSPM \nsebagaimana dimaksud pada ayat (1) berlaku secara \nmutatis mutandis terhadap pelaksanaan customer due \ndiligence kepada Beneficial Owner.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam pelaksanaan customer due diligence, Penyelenggara \nmemperhatikan \npenanganan \nDTTOT \ndan \nDPPSPM \nterhadap calon Pengguna Jasa dan/atau Pengguna Jasa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggara memastikan kebijakan dan prosedur \ntertulis mampu mengidentifikasi calon Pengguna Jasa \ndan/atau Pengguna Jasa dengan identitas orang atau \nKorporasi yang tercantum dalam DTTOT dan DPPSPM \nsecara tepat waktu dan berkesinambungan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai penanganan DTTOT dan DPPSPM \nsebagaimana dimaksud pada ayat (1) berlaku secara \nmutatis mutandis terhadap pelaksanaan customer due \ndiligence kepada Beneficial Owner."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nDalam \nhal \nPenyelenggara \nmendapatkan \nkesesuaian  \nidentitas calon Pengguna Jasa, Pengguna Jasa, dan/atau \nBeneficial Owner dengan identitas orang atau Korporasi \nyang tercantum dalam DTTOT dan/atau DPPSPM, \nPenyelenggara melakukan: \na. \nPemblokiran secara serta merta terhadap seluruh \ndana yang dimiliki atau dikuasai baik secara \nlangsung maupun tidak langsung; dan/atau \nb. \npenolakan Transaksi, \npihak yang tercantum dalam DTTOT dan/atau DPPSPM. \n(2) \nDalam Pemblokiran secara serta merta sebagaimana \ndimaksud pada ayat (1) huruf a dan/atau penolakan \nTransaksi sebagaimana dimaksud pada ayat (1) huruf b \nuntuk \npihak \nyang \n \ntercantum \ndalam \nDTTOT, \nPenyelenggara melakukan: \na. \npembuatan berita acara Pemblokiran secara serta \nmerta sebagaimana dimaksud pada ayat (1) huruf a \ndan/atau \npenolakan \nTransaksi \nsebagaimana \ndimaksud pada ayat (1) huruf b; dan  \nb. \npenyampaian berita acara Pemblokiran sebagaimana \ndimaksud pada huruf a kepada Kepolisian Negara \nRepublik Indonesia dengan tembusan kepada Bank \nIndonesia. \n \n\n\n \n \n \n(3) \nDalam Pemblokiran secara serta merta sebagaimana \ndimaksud pada ayat (1) huruf a dan/atau penolakan \nTransaksi sebagaimana dimaksud pada ayat (1) huruf b \nuntuk \npihak \nyang \ntercantum \ndalam \nDPPSPM, \nPenyelenggara melakukan: \na. \npembuatan berita acara Pemblokiran secara serta \nmerta sebagaimana dimaksud pada ayat (1) huruf a \ndan/atau \npenolakan \nTransaksi \nsebagaimana \ndimaksud pada ayat (1) huruf b; dan  \nb. \npenyampaian berita acara Pemblokiran sebagaimana \ndimaksud pada huruf a kepada PPATK dengan \ntembusan kepada Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nhal \nPenyelenggara \nmendapatkan \nkesesuaian  \nidentitas calon Pengguna Jasa, Pengguna Jasa, dan/atau \nBeneficial Owner dengan identitas orang atau Korporasi \nyang tercantum dalam DTTOT dan/atau DPPSPM, \nPenyelenggara melakukan: \na. \nPemblokiran secara serta merta terhadap seluruh \ndana yang dimiliki atau dikuasai baik secara \nlangsung maupun tidak langsung; dan/atau \nb. \npenolakan Transaksi, \npihak yang tercantum dalam DTTOT dan/atau DPPSPM."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam Pemblokiran secara serta merta sebagaimana \ndimaksud pada ayat (1) huruf a dan/atau penolakan \nTransaksi sebagaimana dimaksud pada ayat (1) huruf b \nuntuk \npihak \nyang \n \ntercantum \ndalam \nDTTOT, \nPenyelenggara melakukan: \na. \npembuatan berita acara Pemblokiran secara serta \nmerta sebagaimana dimaksud pada ayat (1) huruf a \ndan/atau \npenolakan \nTransaksi \nsebagaimana \ndimaksud pada ayat (1) huruf b; dan  \nb. \npenyampaian berita acara Pemblokiran sebagaimana \ndimaksud pada huruf a kepada Kepolisian Negara \nRepublik Indonesia dengan tembusan kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam Pemblokiran secara serta merta sebagaimana \ndimaksud pada ayat (1) huruf a dan/atau penolakan \nTransaksi sebagaimana dimaksud pada ayat (1) huruf b \nuntuk \npihak \nyang \ntercantum \ndalam \nDPPSPM, \nPenyelenggara melakukan: \na. \npembuatan berita acara Pemblokiran secara serta \nmerta sebagaimana dimaksud pada ayat (1) huruf a \ndan/atau \npenolakan \nTransaksi \nsebagaimana \ndimaksud pada ayat (1) huruf b; dan  \nb. \npenyampaian berita acara Pemblokiran sebagaimana \ndimaksud pada huruf a kepada PPATK dengan \ntembusan kepada Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nDalam hal tidak terdapat adanya kesesuaian identitas \norang atau Korporasi yang terdapat dalam data yang \ndikelola oleh Penyelenggara dengan identitas orang atau \nKorporasi yang tercantum dalam DTTOT, Penyelenggara \nmenindaklanjuti dengan menyampaikan laporan nihil ke \nKepolisian Negara Republik Indonesia. \n(2) \nDalam hal tidak terdapat adanya kesesuaian  identitas \norang atau Korporasi yang terdapat dalam data yang \ndikelola oleh Penyelenggara dengan identitas orang atau \nKorporasi yang tercantum dalam DPPSPM, Penyelenggara \nmenindaklanjuti dengan menyampaikan laporan nihil ke \nPPATK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal tidak terdapat adanya kesesuaian identitas \norang atau Korporasi yang terdapat dalam data yang \ndikelola oleh Penyelenggara dengan identitas orang atau \nKorporasi yang tercantum dalam DTTOT, Penyelenggara \nmenindaklanjuti dengan menyampaikan laporan nihil ke \nKepolisian Negara Republik Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal tidak terdapat adanya kesesuaian  identitas \norang atau Korporasi yang terdapat dalam data yang \ndikelola oleh Penyelenggara dengan identitas orang atau \nKorporasi yang tercantum dalam DPPSPM, Penyelenggara \nmenindaklanjuti dengan menyampaikan laporan nihil ke \nPPATK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB V",
+      "bab_judul": "CUSTOMER DUE DILIGENCE",
+      "teks_lengkap": "(1) \nPedoman pelaksanaan Pemblokiran secara serta merta \natas dana milik orang atau Korporasi yang identitasnya \ntercantum dalam DTTOT dan pedoman pelaksanaan \nPemblokiran secara serta merta atas dana milik orang atau \nKorporasi yang identitasnya tercantum dalam DPPSPM \nserta penginiannya akan dipublikasikan melalui laman \nBank Indonesia atau media lain yang ditetapkan oleh Bank \nIndonesia. \n(2) \nDalam hal terdapat perubahan pedoman pelaksanaan \nPemblokiran secara serta merta atas dana milik orang atau \nKorporasi yang identitasnya tercantum dalam DTTOT dan \npedoman pelaksanaan Pemblokiran secara serta merta \natas dana milik orang atau Korporasi yang identitasnya \ntercantum dalam DPPSPM sebagaimana dimaksud pada \nayat (1), Penyelenggara melakukan penyesuaian terhadap \nkebijakan dan prosedur tertulis paling lambat 3 (tiga) \nbulan \nsejak \nditerbitkannya \nperubahan \npedoman \nsebagaimana dimaksud pada ayat (1) atau sesuai jangka \nwaktu yang ditetapkan Bank Indonesia. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nBAB VI \nTATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN \nSANKSI ADMINISTRATIF",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pedoman pelaksanaan Pemblokiran secara serta merta \natas dana milik orang atau Korporasi yang identitasnya \ntercantum dalam DTTOT dan pedoman pelaksanaan \nPemblokiran secara serta merta atas dana milik orang atau \nKorporasi yang identitasnya tercantum dalam DPPSPM \nserta penginiannya akan dipublikasikan melalui laman \nBank Indonesia atau media lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat perubahan pedoman pelaksanaan \nPemblokiran secara serta merta atas dana milik orang atau \nKorporasi yang identitasnya tercantum dalam DTTOT dan \npedoman pelaksanaan Pemblokiran secara serta merta \natas dana milik orang atau Korporasi yang identitasnya \ntercantum dalam DPPSPM sebagaimana dimaksud pada \nayat (1), Penyelenggara melakukan penyesuaian terhadap \nkebijakan dan prosedur tertulis paling lambat 3 (tiga) \nbulan \nsejak \nditerbitkannya \nperubahan \npedoman \nsebagaimana dimaksud pada ayat (1) atau sesuai jangka \nwaktu yang ditetapkan Bank Indonesia. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nBAB VI \nTATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN \nSANKSI ADMINISTRATIF"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBank Indonesia melakukan pengawasan berbasis risiko \nterhadap penerapan APU, PPT, dan PPPSPM oleh \nPenyelenggara. \n(2) \nPengawasan berbasis risiko sebagaimana dimaksud pada \nayat (1) dilakukan melalui: \na. \npengawasan langsung; dan  \nb. \npengawasan tidak langsung,  \nbaik secara berkala dan/atau sewaktu-waktu. \n(3) \nPengawasan berbasis risiko oleh Bank Indonesia dapat \ndilakukan dengan memperhatikan paling sedikit penilaian \nrisiko TPPU, TPPT, dan PPSPM oleh otoritas yang \nberwenang \ndan \npenilaian \nrisiko \npada \ntingkat \nPenyelenggara.  \n(4) \nPengawasan \nberbasis \nrisiko \ndilakukan \nmelalui \npemahaman risiko dan pengalokasian sumber daya dalam \npelaksanaan pengawasan untuk memastikan penerapan \nAPU, PPT, dan PPPSPM oleh Penyelenggara.  \n(5) \nPengawasan berbasis risiko meliputi: \na. \npemantauan risiko; \nb. \nidentifikasi risiko; dan \nc. \npenilaian risiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan pengawasan berbasis risiko \nterhadap penerapan APU, PPT, dan PPPSPM oleh \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan berbasis risiko sebagaimana dimaksud pada \nayat (1) dilakukan melalui: \na. \npengawasan langsung; dan  \nb. \npengawasan tidak langsung,  \nbaik secara berkala dan/atau sewaktu-waktu."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengawasan berbasis risiko oleh Bank Indonesia dapat \ndilakukan dengan memperhatikan paling sedikit penilaian \nrisiko TPPU, TPPT, dan PPSPM oleh otoritas yang \nberwenang \ndan \npenilaian \nrisiko \npada \ntingkat \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengawasan \nberbasis \nrisiko \ndilakukan \nmelalui \npemahaman risiko dan pengalokasian sumber daya dalam \npelaksanaan pengawasan untuk memastikan penerapan \nAPU, PPT, dan PPPSPM oleh Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengawasan berbasis risiko meliputi: \na. \npemantauan risiko; \nb. \nidentifikasi risiko; dan \nc. \npenilaian risiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBank Indonesia dapat menerapkan pengawasan dengan \nmemanfaatkan teknologi inovatif untuk meningkatkan \nefektivitas pengawasan.  \n(2) \nBank Indonesia dapat mendorong Penyelenggara untuk \nmemanfaatkan \nteknologi \ninovatif \ndalam \nrangka \nmemastikan \nkepatuhan \nPenyelenggara \nterhadap \nketentuan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat menerapkan pengawasan dengan \nmemanfaatkan teknologi inovatif untuk meningkatkan \nefektivitas pengawasan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat mendorong Penyelenggara untuk \nmemanfaatkan \nteknologi \ninovatif \ndalam \nrangka \nmemastikan \nkepatuhan \nPenyelenggara \nterhadap \nketentuan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nDalam pelaksanaan pengawasan berbasis risiko, Bank \nIndonesia dapat sewaktu-waktu meminta Penyelenggara \nmelaksanakan asesmen mandiri (self-assessment). \n(2) \nDalam pelaksanaan asesmen mandiri (self-assessment) \noleh Penyelenggara, Bank Indonesia dapat meminta \nPenyelenggara untuk menyampaikan data dan/atau \ninformasi secara berkala atau sewaktu-waktu kepada \nBank Indonesia. \n(3) \nPenyusunan \nasesmen \nmandiri \n(self-assessment)) \ndilakukan dengan mengacu pada pedoman penerapan \nAPU, PPT, dan PPPSPM berbasis risiko. \n(4) \nBank Indonesia dapat menetapkan penilaian risiko yang \nberbeda dari hasil asesmen mandiri (self-assessment) \nPenyelenggara sebagaimana dimaksud pada ayat (1).  \n(5) \nBank Indonesia dapat meminta Penyelenggara untuk \nmelakukan \nperbaikan \ndalam \nrangka \nmeningkatkan \nefektivitas \nrisk \nbased \napproach \ndengan \nmempertimbangkan hasil penilaian risiko yang ditetapkan \nBank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam pelaksanaan pengawasan berbasis risiko, Bank \nIndonesia dapat sewaktu-waktu meminta Penyelenggara \nmelaksanakan asesmen mandiri (self-assessment)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam pelaksanaan asesmen mandiri (self-assessment) \noleh Penyelenggara, Bank Indonesia dapat meminta \nPenyelenggara untuk menyampaikan data dan/atau \ninformasi secara berkala atau sewaktu-waktu kepada \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyusunan \nasesmen \nmandiri \n(self-assessment)) \ndilakukan dengan mengacu pada pedoman penerapan \nAPU, PPT, dan PPPSPM berbasis risiko."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank Indonesia dapat menetapkan penilaian risiko yang \nberbeda dari hasil asesmen mandiri (self-assessment) \nPenyelenggara sebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank Indonesia dapat meminta Penyelenggara untuk \nmelakukan \nperbaikan \ndalam \nrangka \nmeningkatkan \nefektivitas \nrisk \nbased \napproach \ndengan \nmempertimbangkan hasil penilaian risiko yang ditetapkan \nBank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "Bank Indonesia dapat menerapkan prinsip tertentu dalam \npengawasan berbasis risiko.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia dapat menerapkan prinsip tertentu dalam \npengawasan berbasis risiko."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nDalam rangka melakukan pengawasan, Bank Indonesia \ndapat berkoordinasi dengan otoritas lain. \n(2) \nCakupan pengawasan sebagaimana dimaksud pada ayat \n(1) meliputi: \na. \neksposur risiko, termasuk kepatuhan terhadap \nketentuan peraturan perundang-undangan; \nb. \npenerapan APU, PPT, dan PPPSPM; dan \nc. \naspek lainnya yang ditetapkan oleh Bank Indonesia. \n(3) \nBank Indonesia dapat menyampaikan informasi dan/atau \nrekomendasi hasil pengawasan sebagaimana dimaksud \npada ayat (1) kepada otoritas lain, dalam hal terdapat hasil \npengawasan yang terkait kewenangan otoritas lain.  \n(4) \nBank \nIndonesia \ndapat \nmelakukan \ntindak \nlanjut \npengawasan dengan memperhatikan informasi dan/atau \nrekomendasi hasil pengawasan otoritas lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam rangka melakukan pengawasan, Bank Indonesia \ndapat berkoordinasi dengan otoritas lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Cakupan pengawasan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "meliputi: \na. \neksposur risiko, termasuk kepatuhan terhadap \nketentuan peraturan perundang-undangan; \nb. \npenerapan APU, PPT, dan PPPSPM; dan \nc. \naspek lainnya yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia dapat menyampaikan informasi dan/atau \nrekomendasi hasil pengawasan sebagaimana dimaksud \npada ayat (1) kepada otoritas lain, dalam hal terdapat hasil \npengawasan yang terkait kewenangan otoritas lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank \nIndonesia \ndapat \nmelakukan \ntindak \nlanjut \npengawasan dengan memperhatikan informasi dan/atau \nrekomendasi hasil pengawasan otoritas lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBank Indonesia dapat menugaskan pihak lain untuk dan \natas \nnama \nBank \nIndonesia \ndalam \nmelaksanakan \npengawasan langsung.   \n(2) \nPihak lain sebagaimana dimaksud pada ayat (1) wajib \nmemenuhi ketentuan Bank Indonesia. \n(3) \nPenyelenggara harus memberikan kepada Bank Indonesia \natau pihak lain yang ditugaskan oleh Bank Indonesia \nberupa:  \na. \ndokumen, data, informasi, dan/atau laporan;  \nb. \nketerangan dan/atau penjelasan baik lisan maupun \ntertulis; dan/atau  \nc. \nakses \nterhadap \ninfrastruktur \ndan/atau \nsistem \ninformasi, yang diperlukan dalam pengawasan.  \n(4) \nPihak lain sebagaimana dimaksud pada ayat (1) yang \nmelanggar  ketentuan  sebagaimana dimaksud pada ayat \n(2) dapat dikenai sanksi administratif sesuai dengan \nketentuan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat menugaskan pihak lain untuk dan \natas \nnama \nBank \nIndonesia \ndalam \nmelaksanakan \npengawasan langsung."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak lain sebagaimana dimaksud pada ayat (1) wajib \nmemenuhi ketentuan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara harus memberikan kepada Bank Indonesia \natau pihak lain yang ditugaskan oleh Bank Indonesia \nberupa:  \na. \ndokumen, data, informasi, dan/atau laporan;  \nb. \nketerangan dan/atau penjelasan baik lisan maupun \ntertulis; dan/atau  \nc. \nakses \nterhadap \ninfrastruktur \ndan/atau \nsistem \ninformasi, yang diperlukan dalam pengawasan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pihak lain sebagaimana dimaksud pada ayat (1) yang \nmelanggar  ketentuan  sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dapat dikenai sanksi administratif sesuai dengan \nketentuan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBank Indonesia dapat menggunakan hasil pengawasan \natas kepatuhan Penyelenggara terhadap kewajiban APU, \nPPT, \ndan \nPPPSPM \nsebagai \npertimbangan \ndalam \nmelakukan evaluasi kinerja, izin, aktivitas, risiko, dan \naspek lainnya dalam penyelenggaraan kegiatan usaha \nPenyelenggara. \n(2) \nBank \nIndonesia \ndapat \nmengambil \ntindakan \nyang \ndiperlukan untuk memastikan kepatuhan penerapan APU, \nPPT, dan PPPSPM paling sedikit mencakup: \na. \ntindak lanjut pengawasan; dan/atau \nb. \nrekomendasi hasil pengawasan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat menggunakan hasil pengawasan \natas kepatuhan Penyelenggara terhadap kewajiban APU, \nPPT, \ndan \nPPPSPM \nsebagai \npertimbangan \ndalam \nmelakukan evaluasi kinerja, izin, aktivitas, risiko, dan \naspek lainnya dalam penyelenggaraan kegiatan usaha \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \ndapat \nmengambil \ntindakan \nyang \ndiperlukan untuk memastikan kepatuhan penerapan APU, \nPPT, dan PPPSPM paling sedikit mencakup: \na. \ntindak lanjut pengawasan; dan/atau \nb. \nrekomendasi hasil pengawasan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nDalam \npelaksanaan \npengawasan, \nBank \nIndonesia \nberwenang \nmemperoleh \nlaporan, \ndokumen, \ndata, \n\n\n \n \n \ninformasi, \nketerangan, \ndan/atau \npenjelasan \nterkait \npemenuhan APU, PPT, dan PPPSPM dari:  \na. \nPenyelenggara; atau \nb. \npihak tertentu. \n(2) \nPenyelenggara atau pihak tertentu sebagaimana dimaksud \npada ayat (1) harus menyampaikan laporan, dokumen, \ndata, informasi, keterangan, dan/atau penjelasan terkait \npemenuhan APU, PPT, dan PPPSPM kepada Bank \nIndonesia. \n(3) \nPemberian \nlaporan, \ndokumen, \ndata, \ninformasi, \nketerangan, dan/atau penjelasan sebagaimana dimaksud \npada ayat (2) disampaikan melalui:  \na. \npenyampaian laporan secara tertulis;  \nb. \npertemuan langsung; \nc. \nkoneksi antarsistem secara langsung dan seketika \n(real time); \nd. \nsurvei; dan/atau \ne. \nmedia lain yang ditetapkan oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \npelaksanaan \npengawasan, \nBank \nIndonesia \nberwenang \nmemperoleh \nlaporan, \ndokumen, \ndata, \n\n\n \n \n \ninformasi, \nketerangan, \ndan/atau \npenjelasan \nterkait \npemenuhan APU, PPT, dan PPPSPM dari:  \na. \nPenyelenggara; atau \nb. \npihak tertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggara atau pihak tertentu sebagaimana dimaksud \npada ayat (1) harus menyampaikan laporan, dokumen, \ndata, informasi, keterangan, dan/atau penjelasan terkait \npemenuhan APU, PPT, dan PPPSPM kepada Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemberian \nlaporan, \ndokumen, \ndata, \ninformasi, \nketerangan, dan/atau penjelasan sebagaimana dimaksud \npada ayat (2) disampaikan melalui:  \na. \npenyampaian laporan secara tertulis;  \nb. \npertemuan langsung; \nc. \nkoneksi antarsistem secara langsung dan seketika \n(real time); \nd. \nsurvei; dan/atau \ne. \nmedia lain yang ditetapkan oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nLaporan penerapan APU, PPT, dan PPPSPM yang wajib \ndisampaikan Penyelenggara kepada Bank Indonesia \nmeliputi: \na. \nlaporan berkala yang terdiri dari: \n1. \nlaporan hasil identifikasi dan penilaian risiko; \ndan \n2. \nlaporan tahunan penerapan APU, PPT, dan \nPPPSPM yang sekurang kurangnya memuat: \na) \npenerapan APU, PPT, dan PPPSPM yang \nmencakup:  \n1) \ntugas dan tanggung jawab Direksi \nserta \npengawasan \naktif \nDewan \nKomisaris; \n2) \nkebijakan dan prosedur tertulis; \n3) \nproses manajemen risiko; \n4) \nmanajemen sumber daya manusia; \ndan \n5) \nsistem pengendalian internal; \nb) \nstatistik jumlah pelaporan kepada PPATK \nmengenai: \n1) \nlaporan \nTransaksi \nKeuangan \nMencurigakan; \n2) \nlaporan Transaksi keuangan tunai; \n3) \nlaporan \nTransaksi \nkeuangan \nterindikasi terorisme; dan \nc) \nstatistik jumlah pelaporan Pemblokiran \ndan/atau penolakan Transaksi terhadap \nDTTOT serta DPPSPM;  \nb. \nlaporan insidental yang terdiri dari: \n1. \nlaporan perubahan kebijakan dan prosedur \ntertulis penerapan APU, PPT, dan PPPSPM;  \n2. \nlaporan rekapitulasi penundaan Transaksi; \n3. \nlaporan kerja sama pelaksanaan customer due \ndiligence oleh pihak ketiga; \n4. \ntembusan \nlaporan \nPemblokiran \ndan/atau \npenolakan Transaksi terkait DTTOT kepada \n\n\n \n \n \nKepolisian Negara Republik Indonesia dan \nDPPSPM kepada PPATK; dan \n5. \ntembusan laporan nihil terkait DTTOT kepada \nKepolisian Negara Republik Indonesia dan \nDPPSPM kepada PPATK; dan \nc. \nlaporan lain yang diminta oleh Bank Indonesia. \n(2) \nPenyampaian laporan berkala oleh Penyelenggara dalam \nrangka penerapan APU, PPT, dan PPPSPM dilaksanakan \nsesuai dengan jangka waktu dalam ketentuan Peraturan \nBank Indonesia mengenai APU, PPT, dan PPPSPM bagi \npihak yang diatur dan diawasi oleh Bank Indonesia. \n(3) \nPerhitungan jangka waktu sebagaimana dimaksud pada \nayat (2) dilakukan dengan ketentuan sebagai berikut: \na. \nlaporan hasil identifikasi dan penilaian risiko \ndisampaikan 1 (satu) kali dalam 1 (satu) tahun paling \nlambat pada hari kerja terakhir pada bulan Januari \nsetiap tahun; dan \nb. \nlaporan tahunan penerapan APU, PPT, dan PPPSPM \ndisampaikan 1 (satu) kali dalam 1 (satu) tahun paling \nlambat pada bulan Januari tahun berikutnya. \n(4) \nPenyampaian laporan insidental oleh Penyelenggara dalam \nrangka penerapan APU, PPT, dan PPPSPM dilaksanakan \nsesuai dengan jangka waktu dalam ketentuan Peraturan \nBank Indonesia mengenai APU, PPT, dan PPPSPM bagi \npihak yang diatur dan diawasi oleh Bank Indonesia. \n(5) \nPerhitungan jangka waktu sebagaimana dimaksud pada \nayat (4) dilakukan dengan ketentuan sebagai berikut: \na. \nlaporan perubahan kebijakan dan prosedur tertulis \npenerapan APU, PPT, dan PPPSPM disampaikan \npaling lambat 10 (sepuluh) hari kerja sejak tanggal \nperubahan telah disetujui berdasarkan prosedur \ninternal Penyelenggara; \nb. \nlaporan rekapitulasi penundaan Transaksi yang \ndilakukan  pada suatu bulan berjalan disampaikan \npaling \nlambat \ntanggal \n(lima \nbelas) \nbulan \nberikutnya; \nc. \nlaporan kerja sama pelaksanaan customer due \ndiligence oleh pihak ketiga disampaikan paling lambat \n10 (sepuluh) hari kerja sejak tanggal berlakunya kerja \nsama; \nd. \ntembusan laporan Pemblokiran dan/atau penolakan \nTransaksi terkait DTTOT kepada Kepolisian Negara \nRepublik Indonesia dan DPPSPM kepada PPATK \ndisampaikan paling lambat 3 (tiga) hari kerja sejak \ntanggal Pemblokiran dan/atau penolakan Transaksi; \ndan  \ne. \ntembusan laporan nihil terkait DTTOT kepada \nKepolisian Negara Republik Indonesia dan DPPSPM \nkepada PPATK disampaikan paling lambat 3 (tiga) \nhari kerja sejak tanggal diterimanya DTTOT dan \nDPPSPM oleh Penyelenggara. \n(6) \nDalam hal tanggal penyampaian laporan jatuh pada hari \nSabtu, hari Minggu, hari libur, dan/atau cuti bersama \nyang \nditetapkan \noleh \nBank \nIndonesia \ndan/atau \npemerintah, penyampaian laporan disampaikan pada hari \nkerja berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan penerapan APU, PPT, dan PPPSPM yang wajib \ndisampaikan Penyelenggara kepada Bank Indonesia \nmeliputi: \na. \nlaporan berkala yang terdiri dari: \n1. \nlaporan hasil identifikasi dan penilaian risiko; \ndan \n2. \nlaporan tahunan penerapan APU, PPT, dan \nPPPSPM yang sekurang kurangnya memuat: \na) \npenerapan APU, PPT, dan PPPSPM yang \nmencakup:  \n1) \ntugas dan tanggung jawab Direksi \nserta \npengawasan \naktif \nDewan \nKomisaris; \n2) \nkebijakan dan prosedur tertulis; \n3) \nproses manajemen risiko; \n4) \nmanajemen sumber daya manusia; \ndan \n5) \nsistem pengendalian internal; \nb) \nstatistik jumlah pelaporan kepada PPATK \nmengenai: \n1) \nlaporan \nTransaksi \nKeuangan \nMencurigakan; \n2) \nlaporan Transaksi keuangan tunai; \n3) \nlaporan \nTransaksi \nkeuangan \nterindikasi terorisme; dan \nc) \nstatistik jumlah pelaporan Pemblokiran \ndan/atau penolakan Transaksi terhadap \nDTTOT serta DPPSPM;  \nb. \nlaporan insidental yang terdiri dari: \n1. \nlaporan perubahan kebijakan dan prosedur \ntertulis penerapan APU, PPT, dan PPPSPM;  \n2. \nlaporan rekapitulasi penundaan Transaksi; \n3. \nlaporan kerja sama pelaksanaan customer due \ndiligence oleh pihak ketiga; \n4. \ntembusan \nlaporan \nPemblokiran \ndan/atau \npenolakan Transaksi terkait DTTOT kepada \n\n\n \n \n \nKepolisian Negara Republik Indonesia dan \nDPPSPM kepada PPATK; dan \n5. \ntembusan laporan nihil terkait DTTOT kepada \nKepolisian Negara Republik Indonesia dan \nDPPSPM kepada PPATK; dan \nc. \nlaporan lain yang diminta oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan berkala oleh Penyelenggara dalam \nrangka penerapan APU, PPT, dan PPPSPM dilaksanakan \nsesuai dengan jangka waktu dalam ketentuan Peraturan \nBank Indonesia mengenai APU, PPT, dan PPPSPM bagi \npihak yang diatur dan diawasi oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Perhitungan jangka waktu sebagaimana dimaksud pada \nayat (2) dilakukan dengan ketentuan sebagai berikut: \na. \nlaporan hasil identifikasi dan penilaian risiko \ndisampaikan 1 (satu) kali dalam 1 (satu) tahun paling \nlambat pada hari kerja terakhir pada bulan Januari \nsetiap tahun; dan \nb. \nlaporan tahunan penerapan APU, PPT, dan PPPSPM \ndisampaikan 1 (satu) kali dalam 1 (satu) tahun paling \nlambat pada bulan Januari tahun berikutnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyampaian laporan insidental oleh Penyelenggara dalam \nrangka penerapan APU, PPT, dan PPPSPM dilaksanakan \nsesuai dengan jangka waktu dalam ketentuan Peraturan \nBank Indonesia mengenai APU, PPT, dan PPPSPM bagi \npihak yang diatur dan diawasi oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Perhitungan jangka waktu sebagaimana dimaksud pada \nayat (4) dilakukan dengan ketentuan sebagai berikut: \na. \nlaporan perubahan kebijakan dan prosedur tertulis \npenerapan APU, PPT, dan PPPSPM disampaikan \npaling lambat 10 (sepuluh) hari kerja sejak tanggal \nperubahan telah disetujui berdasarkan prosedur \ninternal Penyelenggara; \nb. \nlaporan rekapitulasi penundaan Transaksi yang \ndilakukan  pada suatu bulan berjalan disampaikan \npaling \nlambat \ntanggal \n(lima \nbelas) \nbulan \nberikutnya; \nc. \nlaporan kerja sama pelaksanaan customer due \ndiligence oleh pihak ketiga disampaikan paling lambat \n10 (sepuluh) hari kerja sejak tanggal berlakunya kerja \nsama; \nd. \ntembusan laporan Pemblokiran dan/atau penolakan \nTransaksi terkait DTTOT kepada Kepolisian Negara \nRepublik Indonesia dan DPPSPM kepada PPATK \ndisampaikan paling lambat 3 (tiga) hari kerja sejak \ntanggal Pemblokiran dan/atau penolakan Transaksi; \ndan  \ne. \ntembusan laporan nihil terkait DTTOT kepada \nKepolisian Negara Republik Indonesia dan DPPSPM \nkepada PPATK disampaikan paling lambat 3 (tiga) \nhari kerja sejak tanggal diterimanya DTTOT dan \nDPPSPM oleh Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal tanggal penyampaian laporan jatuh pada hari \nSabtu, hari Minggu, hari libur, dan/atau cuti bersama \nyang \nditetapkan \noleh \nBank \nIndonesia \ndan/atau \npemerintah, penyampaian laporan disampaikan pada hari \nkerja berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nLaporan penerapan APU, PPT, dan PPPSPM sebagaimana \ndimaksud dalam Pasal 31 ayat (1) harus disetujui oleh \nDireksi \natau \nPejabat \nEksekutif \nyang \nmembawahi \npenerapan APU, PPT, dan PPPSPM pada Penyelenggara. \n(2) \nLaporan penerapan APU, PPT, dan PPPSPM sebagaimana \ndimaksud pada ayat (1) disampaikan kepada satuan kerja \ndi Bank Indonesia yang melakukan pengawasan terhadap \nPenyelenggara. \n(3) \nDalam hal terjadi perubahan alamat korespondensi dan \nkomunikasi satuan kerja di Bank Indonesia sebagaimana \ndimaksud \npada \nayat \n(2), \nBank \nIndonesia \nakan \nmemberitahukan melalui surat dan/atau media lainnya. \n(4) \nDalam hal sistem pelaporan secara daring telah tersedia, \nmekanisme dan tata cara penyampaian pelaporan \ndilakukan sesuai ketentuan pelaporan di Bank Indonesia. \n(5) \nPenyelenggara tetap menyampaikan laporan kepada Bank \nIndonesia dalam keadaan kahar dengan perpanjangan \nbatas waktu yang ditetapkan oleh Bank Indonesia. \n(6) \nBank Indonesia akan memberitahukan melalui surat \ndan/atau media lainnya terkait perpanjangan batas waktu \nsebagaimana dimaksud pada ayat (5).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan penerapan APU, PPT, dan PPPSPM sebagaimana \ndimaksud dalam Pasal 31 ayat (1) harus disetujui oleh \nDireksi \natau \nPejabat \nEksekutif \nyang \nmembawahi \npenerapan APU, PPT, dan PPPSPM pada Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan penerapan APU, PPT, dan PPPSPM sebagaimana \ndimaksud pada ayat (1) disampaikan kepada satuan kerja \ndi Bank Indonesia yang melakukan pengawasan terhadap \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terjadi perubahan alamat korespondensi dan \nkomunikasi satuan kerja di Bank Indonesia sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": ", \nBank \nIndonesia \nakan \nmemberitahukan melalui surat dan/atau media lainnya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal sistem pelaporan secara daring telah tersedia, \nmekanisme dan tata cara penyampaian pelaporan \ndilakukan sesuai ketentuan pelaporan di Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Penyelenggara tetap menyampaikan laporan kepada Bank \nIndonesia dalam keadaan kahar dengan perpanjangan \nbatas waktu yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Bank Indonesia akan memberitahukan melalui surat \ndan/atau media lainnya terkait perpanjangan batas waktu \nsebagaimana dimaksud pada ayat (5)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nPenyelenggara wajib memiliki kebijakan dan prosedur \ntertulis mengenai tata cara pemenuhan kewajiban \npelaporan kepada PPATK sebagaimana diatur dalam \nperaturan perundang-undangan. \n(2) \nLaporan Penyelenggara kepada PPATK dalam rangka \npenerapan APU, PPT, dan PPPSPM terdiri atas: \na. \nlaporan Transaksi Keuangan Mencurigakan; \nb. \nlaporan Transaksi keuangan tunai; \nc. \nlaporan Transaksi keuangan Transfer Dana dari dan \nke luar negeri;  \nd. \nlaporan Pemblokiran dan/atau penolakan Transaksi \nterkait DPPSPM;  \ne. \nlaporan nihil terkait DPPSPM; dan \nf. \nlaporan lain kepada PPATK sesuai dengan ketentuan \nperaturan perundang-undangan. \n(3) \nLaporan Penyelenggara kepada PPATK sebagaimana \ndimaksud pada ayat (2) disampaikan sesuai dengan \nmekanisme \ndan \ntata \ncara \npenyampaian \nlaporan \nsebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara wajib memiliki kebijakan dan prosedur \ntertulis mengenai tata cara pemenuhan kewajiban \npelaporan kepada PPATK sebagaimana diatur dalam \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan Penyelenggara kepada PPATK dalam rangka \npenerapan APU, PPT, dan PPPSPM terdiri atas: \na. \nlaporan Transaksi Keuangan Mencurigakan; \nb. \nlaporan Transaksi keuangan tunai; \nc. \nlaporan Transaksi keuangan Transfer Dana dari dan \nke luar negeri;  \nd. \nlaporan Pemblokiran dan/atau penolakan Transaksi \nterkait DPPSPM;  \ne. \nlaporan nihil terkait DPPSPM; dan \nf. \nlaporan lain kepada PPATK sesuai dengan ketentuan \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan Penyelenggara kepada PPATK sebagaimana \ndimaksud pada ayat (2) disampaikan sesuai dengan \nmekanisme \ndan \ntata \ncara \npenyampaian \nlaporan \nsebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nPenyelenggara wajib memiliki kebijakan dan prosedur \ntertulis mengenai tata cara pemenuhan kewajiban \npelaporan kepada Kepolisian Negara Republik Indonesia  \nsebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-undangan. \n(2) \nLaporan Penyelenggara dalam rangka penerapan APU, \nPPT, dan PPPSPM kepada Kepolisian Negara Republik \nIndonesia terdiri atas: \na. \nlaporan Pemblokiran dan/atau penolakan Transaksi \nterkait DTTOT;  \n\n\n \n \n \nb. \nlaporan nihil terkait DTTOT; dan \nc. \nlaporan lain kepada Kepolisian Negara Republik \nIndonesia \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan. \n(3) \nLaporan \nPenyelenggara \nkepada \nKepolisian \nNegara \nRepublik Indonesia sebagaimana dimaksud pada ayat (2) \ndisampaikan sesuai dengan mekanisme dan tata cara \npenyampaian \nlaporan \nsebagaimana \ndiatur \ndalam \nketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara wajib memiliki kebijakan dan prosedur \ntertulis mengenai tata cara pemenuhan kewajiban \npelaporan kepada Kepolisian Negara Republik Indonesia  \nsebagaimana \ndiatur \ndalam \nketentuan \nperaturan \nperundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan Penyelenggara dalam rangka penerapan APU, \nPPT, dan PPPSPM kepada Kepolisian Negara Republik \nIndonesia terdiri atas: \na. \nlaporan Pemblokiran dan/atau penolakan Transaksi \nterkait DTTOT;  \n\n\n \n \n \nb. \nlaporan nihil terkait DTTOT; dan \nc. \nlaporan lain kepada Kepolisian Negara Republik \nIndonesia \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan \nPenyelenggara \nkepada \nKepolisian \nNegara \nRepublik Indonesia sebagaimana dimaksud pada ayat (2) \ndisampaikan sesuai dengan mekanisme dan tata cara \npenyampaian \nlaporan \nsebagaimana \ndiatur \ndalam \nketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBank Indonesia dapat mengenakan sanksi administratif: \na. \nkepada Penyelenggara berupa: \n1. \nteguran tertulis;  \n2. \ndenda;  \n3. \npembatasan kegiatan usaha;  \n4. \npenghentian sementara, sebagian, atau seluruh \nkegiatan termasuk pelaksanaan kerja sama; \ndan/atau  \n5. \npencabutan izin; dan/atau  \nb. \nkepada anggota Direksi, anggota Dewan Komisaris, \npemegang saham, dan/atau Pejabat Eksekutif pada \nPenyelenggara, atau yang setara, berupa: \n1. \nperintah \npemberhentian \nanggota \nDireksi, \nanggota Dewan Komisaris, dan/atau Pejabat \nEksekutif, atau yang setara; dan/atau  \n2. \nlarangan \nuntuk \nmenjadi \nanggota \nDireksi, \nanggota Dewan Komisaris, pemegang saham, \ndan/atau Pejabat Eksekutif pada Penyelenggara, \natau yang setara, paling lama 5 (lima) tahun. \n(2) \nSelain pengenaan sanksi administratif sebagaimana \ndimaksud \npada \nayat \n(1), \nBank \nIndonesia \ndapat \nmengenakan sanksi administratif kepada Penyelenggara, \nanggota Direksi, anggota Dewan Komisaris, pemegang \nsaham, dan/atau Pejabat Eksekutif, atau yang setara, jika \nterdapat proses hukum berupa penyidikan, penuntutan, \ndan pemeriksaan, berupa: \na. \npenghentian sementara, sebagian, atau seluruh \nkegiatan \ntermasuk \npelaksanaan \nkerja \nsama; \ndan/atau  \nb. \nperintah pemberhentian sementara anggota Direksi, \nanggota \nDewan \nKomisaris, \npemegang \nsaham, \ndan/atau Pejabat Eksekutif, atau yang setara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat mengenakan sanksi administratif: \na. \nkepada Penyelenggara berupa: \n1. \nteguran tertulis;  \n2. \ndenda;  \n3. \npembatasan kegiatan usaha;  \n4. \npenghentian sementara, sebagian, atau seluruh \nkegiatan termasuk pelaksanaan kerja sama; \ndan/atau  \n5. \npencabutan izin; dan/atau  \nb. \nkepada anggota Direksi, anggota Dewan Komisaris, \npemegang saham, dan/atau Pejabat Eksekutif pada \nPenyelenggara, atau yang setara, berupa: \n1. \nperintah \npemberhentian \nanggota \nDireksi, \nanggota Dewan Komisaris, dan/atau Pejabat \nEksekutif, atau yang setara; dan/atau  \n2. \nlarangan \nuntuk \nmenjadi \nanggota \nDireksi, \nanggota Dewan Komisaris, pemegang saham, \ndan/atau Pejabat Eksekutif pada Penyelenggara, \natau yang setara, paling lama 5 (lima) tahun."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain pengenaan sanksi administratif sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \nBank \nIndonesia \ndapat \nmengenakan sanksi administratif kepada Penyelenggara, \nanggota Direksi, anggota Dewan Komisaris, pemegang \nsaham, dan/atau Pejabat Eksekutif, atau yang setara, jika \nterdapat proses hukum berupa penyidikan, penuntutan, \ndan pemeriksaan, berupa: \na. \npenghentian sementara, sebagian, atau seluruh \nkegiatan \ntermasuk \npelaksanaan \nkerja \nsama; \ndan/atau  \nb. \nperintah pemberhentian sementara anggota Direksi, \nanggota \nDewan \nKomisaris, \npemegang \nsaham, \ndan/atau Pejabat Eksekutif, atau yang setara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan pengenaan jenis sanksi \nadministratif berdasarkan jenis pelanggaran.   \n(2) \nJenis pelanggaran sebagaimana dimaksud pada ayat (1) \nberupa pelanggaran atas kewajiban penerapan APU, PPT, \ndan PPPSPM yang terdiri atas: \na. \npelanggaran  atas kewajiban pelaporan; \nb. \npelanggaran atas kepatuhan terhadap kewajiban; dan \nc. \npelanggaran dalam hal Penyelenggara, anggota \nDireksi, anggota Dewan Komisaris, pemegang saham, \ndan/atau Pejabat Eksekutif, atau yang setara, sedang \nmenjalani \nproses \nhukum \nberupa \npenyidikan, \n\n\n \n \n \npenuntutan, dan pemeriksaan di pengadilan karena \ndiduga melakukan tindak pidana tertentu, \nsebagaimana diatur dalam Peraturan Bank Indonesia \nmengenai Penerapan Anti Pencucian Uang, Pencegahan \nPendanaan \nTerorisme, \ndan \nPencegahan \nPendanaan \nProliferasi Senjata Pemusnah Massal Bagi Pihak Yang \nDiatur dan Diawasi oleh Bank Indonesia. \n(3) \nPelanggaran atas kewajiban pelaporan sebagaimana \ndimaksud pada ayat (2) huruf a mencakup pelanggaran \nsebagaimana dimaksud dalam Pasal 31 ayat (1). \n(4) \nPelanggaran \natas \nkepatuhan \nterhadap \nkewajiban \nsebagaimana dimaksud pada ayat (2) huruf b mencakup \npelanggaran atas:  \na. \npenerapan manajemen sumber daya manusia; \nb. \nhubungan kerja sama dengan pihak lain; \nc. \nlarangan kerja sama dengan shell company; \nd. \npengembangan produk dan praktik usaha baru, \ntermasuk \nmekanisme \ndistribusi \nbaru, \njaringan \ndistribusi dan penggunaan teknologi baru; \ne. \npenerapan tugas dan tanggung jawab Direksi;  \nf. \npenerapan pengawasan aktif Dewan Komisaris;  \ng. \npenerapan kebijakan dan prosedur tertulis; \nh. \npenerapan proses manajemen risiko; \ni. \npenerapan sistem pengendalian internal; \nj. \npenerapan APU, PPT, dan PPPSPM pada Kelompok \nUsaha, perusahaan anak, dan/atau kantor cabang;  \nk. \npelaksanaan customer due diligence terhadap calon \nPengguna Jasa, Pengguna Jasa, dan Beneficial \nOwner;  \nl. \npenerapan enhanced due diligence calon Pengguna \nJasa, Pengguna Jasa, dan Beneficial Owner; \nm. \npenunjukan \ndan \npenerapan \ntanggung \njawab \nManajemen Senior; \nn. \npenanganan PEP; \no. \npenundaan Transaksi; \np. \npenolakan hubungan usaha, penolakan Transaksi, \npembatalan Transaksi, dan penutupan hubungan \nusaha; \nq. \npelaksanaan customer due diligence dalam kegiatan \nTransfer Dana;  \nr. \nkewajiban \nmengikuti \nperubahan \nperaturan \nperundang-undangan dan/atau rekomendasi FATF \nyang berdampak pada perubahan kewajiban APU, \nPPT, dan PPPSPM, dalam kegiatan Transfer Dana; \ns. \npemberian data, informasi, dan/atau dokumen yang \nditatausahakan apabila diminta oleh Bank Indonesia, \notoritas lain yang berwenang, dan/atau penegak \nhukum;  \nt. \npenggunaan customer due diligence pihak ketiga; \nu. \npenanganan DTTOT dan/atau DPPSPM; \nv. \npenerapan kerahasiaan mengenai laporan Transaksi \nKeuangan Mencurigakan yang sedang disusun atau \ntelah disampaikan kepada PPATK dari Pengguna Jasa \natau pihak lain manapun; \nw. \npenerapan kerahasiaan informasi dalam pelaksanaan \ncustomer due diligence dan enhanced due diligence \n\n\n \n \n \ndengan memperhatikan ketentuan anti tipping-off; \ndan  \nx. \npelanggaran kepatuhan lainnya sebagaimana diatur \ndalam \nPeraturan \nBank \nIndonesia \nmengenai \nPenerapan \nAnti \nPencucian \nUang, \nPencegahan \nPendanaan Terorisme, dan Pencegahan Pendanaan \nProliferasi Senjata Pemusnah Massal Bagi Pihak Yang \nDiatur dan Diawasi oleh Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan pengenaan jenis sanksi \nadministratif berdasarkan jenis pelanggaran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jenis pelanggaran sebagaimana dimaksud pada ayat (1) \nberupa pelanggaran atas kewajiban penerapan APU, PPT, \ndan PPPSPM yang terdiri atas: \na. \npelanggaran  atas kewajiban pelaporan; \nb. \npelanggaran atas kepatuhan terhadap kewajiban; dan \nc. \npelanggaran dalam hal Penyelenggara, anggota \nDireksi, anggota Dewan Komisaris, pemegang saham, \ndan/atau Pejabat Eksekutif, atau yang setara, sedang \nmenjalani \nproses \nhukum \nberupa \npenyidikan, \n\n\n \n \n \npenuntutan, dan pemeriksaan di pengadilan karena \ndiduga melakukan tindak pidana tertentu, \nsebagaimana diatur dalam Peraturan Bank Indonesia \nmengenai Penerapan Anti Pencucian Uang, Pencegahan \nPendanaan \nTerorisme, \ndan \nPencegahan \nPendanaan \nProliferasi Senjata Pemusnah Massal Bagi Pihak Yang \nDiatur dan Diawasi oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pelanggaran atas kewajiban pelaporan sebagaimana \ndimaksud pada ayat (2) huruf a mencakup pelanggaran \nsebagaimana dimaksud dalam Pasal 31 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pelanggaran \natas \nkepatuhan \nterhadap \nkewajiban \nsebagaimana dimaksud pada ayat (2) huruf b mencakup \npelanggaran atas:  \na. \npenerapan manajemen sumber daya manusia; \nb. \nhubungan kerja sama dengan pihak lain; \nc. \nlarangan kerja sama dengan shell company; \nd. \npengembangan produk dan praktik usaha baru, \ntermasuk \nmekanisme \ndistribusi \nbaru, \njaringan \ndistribusi dan penggunaan teknologi baru; \ne. \npenerapan tugas dan tanggung jawab Direksi;  \nf. \npenerapan pengawasan aktif Dewan Komisaris;  \ng. \npenerapan kebijakan dan prosedur tertulis; \nh. \npenerapan proses manajemen risiko; \ni. \npenerapan sistem pengendalian internal; \nj. \npenerapan APU, PPT, dan PPPSPM pada Kelompok \nUsaha, perusahaan anak, dan/atau kantor cabang;  \nk. \npelaksanaan customer due diligence terhadap calon \nPengguna Jasa, Pengguna Jasa, dan Beneficial \nOwner;  \nl. \npenerapan enhanced due diligence calon Pengguna \nJasa, Pengguna Jasa, dan Beneficial Owner; \nm. \npenunjukan \ndan \npenerapan \ntanggung \njawab \nManajemen Senior; \nn. \npenanganan PEP; \no. \npenundaan Transaksi; \np. \npenolakan hubungan usaha, penolakan Transaksi, \npembatalan Transaksi, dan penutupan hubungan \nusaha; \nq. \npelaksanaan customer due diligence dalam kegiatan \nTransfer Dana;  \nr. \nkewajiban \nmengikuti \nperubahan \nperaturan \nperundang-undangan dan/atau rekomendasi FATF \nyang berdampak pada perubahan kewajiban APU, \nPPT, dan PPPSPM, dalam kegiatan Transfer Dana; \ns. \npemberian data, informasi, dan/atau dokumen yang \nditatausahakan apabila diminta oleh Bank Indonesia, \notoritas lain yang berwenang, dan/atau penegak \nhukum;  \nt. \npenggunaan customer due diligence pihak ketiga; \nu. \npenanganan DTTOT dan/atau DPPSPM; \nv. \npenerapan kerahasiaan mengenai laporan Transaksi \nKeuangan Mencurigakan yang sedang disusun atau \ntelah disampaikan kepada PPATK dari Pengguna Jasa \natau pihak lain manapun; \nw. \npenerapan kerahasiaan informasi dalam pelaksanaan \ncustomer due diligence dan enhanced due diligence \n\n\n \n \n \ndengan memperhatikan ketentuan anti tipping-off; \ndan  \nx. \npelanggaran kepatuhan lainnya sebagaimana diatur \ndalam \nPeraturan \nBank \nIndonesia \nmengenai \nPenerapan \nAnti \nPencucian \nUang, \nPencegahan \nPendanaan Terorisme, dan Pencegahan Pendanaan \nProliferasi Senjata Pemusnah Massal Bagi Pihak Yang \nDiatur dan Diawasi oleh Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nPengenaan sanksi administratif dilakukan berdasarkan \naspek:  \na. \ntingkat \natau \nfrekuensi \nkesalahan \ndan/atau \npelanggaran;  \nb. \nakibat yang ditimbulkan terhadap:  \n1. \naspek APU, PPT, dan PPPSPM; \n2. \naspek \nkelancaran \ndan \nkeamanan \npenyelenggaraan usaha;  \n3. \naspek pelindungan konsumen; dan/atau \n4. \naspek lainnya yang ditetapkan Bank Indonesia; \ndan/atau \nc. \nfaktor lain yang ditetapkan oleh Bank Indonesia. \n(2) \nDalam melakukan pengenaan sanksi administratif, Bank \nIndonesia berwenang untuk: \na. \nmelakukan penetapan dan penyesuaian jenis sanksi \nadministratif; \nb. \nmenetapkan waktu pengenaan atau pelaksanaan \nsanksi administratif; \nc. \nmengenakan lebih dari satu jenis sanksi; dan \nd. \nmelakukan \nperubahan \nsanksi \ndalam \nhal \nPenyelenggara \ntidak \nmelakukan \nkewajiban \npembayaran sanksi administratif berupa denda. \n(3) \nPengenaan sanksi administratif dapat disertai dengan:  \na. \npengumuman kepada publik melalui laman Bank \nIndonesia atau media lainnya; dan/atau \nb. \npenghentian pemrosesan persetujuan pengembangan \naktivitas, pengembangan produk, dan/atau kerja \nsama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan sanksi administratif dilakukan berdasarkan \naspek:  \na. \ntingkat \natau \nfrekuensi \nkesalahan \ndan/atau \npelanggaran;  \nb. \nakibat yang ditimbulkan terhadap:  \n1. \naspek APU, PPT, dan PPPSPM; \n2. \naspek \nkelancaran \ndan \nkeamanan \npenyelenggaraan usaha;  \n3. \naspek pelindungan konsumen; dan/atau \n4. \naspek lainnya yang ditetapkan Bank Indonesia; \ndan/atau \nc. \nfaktor lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam melakukan pengenaan sanksi administratif, Bank \nIndonesia berwenang untuk: \na. \nmelakukan penetapan dan penyesuaian jenis sanksi \nadministratif; \nb. \nmenetapkan waktu pengenaan atau pelaksanaan \nsanksi administratif; \nc. \nmengenakan lebih dari satu jenis sanksi; dan \nd. \nmelakukan \nperubahan \nsanksi \ndalam \nhal \nPenyelenggara \ntidak \nmelakukan \nkewajiban \npembayaran sanksi administratif berupa denda."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengenaan sanksi administratif dapat disertai dengan:  \na. \npengumuman kepada publik melalui laman Bank \nIndonesia atau media lainnya; dan/atau \nb. \npenghentian pemrosesan persetujuan pengembangan \naktivitas, pengembangan produk, dan/atau kerja \nsama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nSelain \nmengenakan \nsanksi \nadministratif \nkepada \nPenyelenggara, Bank Indonesia dapat melakukan tindak \nlanjut \npengawasan \nantara \nlain \nberupa \nmeminta \nPenyelenggara untuk melakukan atau tidak melakukan \nsesuatu. \n(2) \nBank \nIndonesia \ndapat \nmelakukan \ntindak \nlanjut \npengawasan terhadap Penyelenggara yang dinilai memiliki \npotensi menimbulkan hambatan terhadap keamanan, \nkeandalan, kelancaran, efisiensi, dan/atau integritas \npenyelenggaraan usaha. \n(3) \nPenilaian Bank Indonesia dalam melakukan tindak lanjut \npengawasan \ndilakukan \ndengan \nmempertimbangkan \naspek: \na. \nkinerja usaha dan permodalan;  \nb. \nmanajemen risiko serta kecukupan keamanan dan \nkeandalan sistem informasi;  \n\n\n \n \n \nc. \nintegritas \ndan/atau \nkompetensi \npengurus \ndan \npemegang saham;  \nd. \nkriteria transaksi, interkoneksi, manajemen risiko, \nkompetensi, dan infrastruktur teknologi; dan/atau \ne. \naspek lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Selain \nmengenakan \nsanksi \nadministratif \nkepada \nPenyelenggara, Bank Indonesia dapat melakukan tindak \nlanjut \npengawasan \nantara \nlain \nberupa \nmeminta \nPenyelenggara untuk melakukan atau tidak melakukan \nsesuatu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \ndapat \nmelakukan \ntindak \nlanjut \npengawasan terhadap Penyelenggara yang dinilai memiliki \npotensi menimbulkan hambatan terhadap keamanan, \nkeandalan, kelancaran, efisiensi, dan/atau integritas \npenyelenggaraan usaha."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penilaian Bank Indonesia dalam melakukan tindak lanjut \npengawasan \ndilakukan \ndengan \nmempertimbangkan \naspek: \na. \nkinerja usaha dan permodalan;  \nb. \nmanajemen risiko serta kecukupan keamanan dan \nkeandalan sistem informasi;  \n\n\n \n \n \nc. \nintegritas \ndan/atau \nkompetensi \npengurus \ndan \npemegang saham;  \nd. \nkriteria transaksi, interkoneksi, manajemen risiko, \nkompetensi, dan infrastruktur teknologi; dan/atau \ne. \naspek lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nSanksi administratif berupa denda untuk pelanggaran \natas kewajiban pelaporan sebagaimana dimaksud dalam \nPasal 36 ayat (3) yang dikenai kepada Penyelenggara \nadalah sebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari kerja \nketerlambatan per laporan; atau \nb. \nRp3.000.000,00 (tiga juta rupiah) per laporan yang \ntidak disampaikan. \n(2) \nBatas maksimal pengenaan sanksi administratif berupa \ndenda sebagaimana dimaksud pada ayat (1) huruf a secara \nakumulasi sebesar Rp3.000.000,00 (tiga juta rupiah) per \nlaporan. \n(3) \nSanksi administratif berupa denda untuk pelanggaran \natas \nkepatuhan \nterhadap \nkewajiban \nsebagaimana \ndimaksud dalam Pasal 36 ayat (4) yang dikenai kepada \nPenyelenggara adalah sebesar Rp1.000.000,00 (satu juta \nrupiah) per pelanggaran kepatuhan. \n(4) \nSanksi \nadministratif \nberupa \ndenda \nsebagaimana \ndimaksud pada ayat (3) paling banyak sebesar 10% \n(sepuluh persen) dari modal disetor Penyelenggara \nberdasarkan Anggaran Dasar, yang dihitung secara \nakumulasi per tindakan pengawasan. \n(5) \nContoh perhitungan sanksi administratif berupa denda \ntercantum dalam Lampiran yang merupakan bagian yang \ntidak \nterpisahkan \ndari \nPeraturan \nAnggota \nDewan \nGubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sanksi administratif berupa denda untuk pelanggaran \natas kewajiban pelaporan sebagaimana dimaksud dalam \nPasal 36 ayat (3) yang dikenai kepada Penyelenggara \nadalah sebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari kerja \nketerlambatan per laporan; atau \nb. \nRp3.000.000,00 (tiga juta rupiah) per laporan yang \ntidak disampaikan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Batas maksimal pengenaan sanksi administratif berupa \ndenda sebagaimana dimaksud pada ayat (1) huruf a secara \nakumulasi sebesar Rp3.000.000,00 (tiga juta rupiah) per \nlaporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Sanksi administratif berupa denda untuk pelanggaran \natas \nkepatuhan \nterhadap \nkewajiban \nsebagaimana \ndimaksud dalam Pasal 36 ayat (4) yang dikenai kepada \nPenyelenggara adalah sebesar Rp1.000.000,00 (satu juta \nrupiah) per pelanggaran kepatuhan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Sanksi \nadministratif \nberupa \ndenda \nsebagaimana \ndimaksud pada ayat (3) paling banyak sebesar 10% \n(sepuluh persen) dari modal disetor Penyelenggara \nberdasarkan Anggaran Dasar, yang dihitung secara \nakumulasi per tindakan pengawasan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Contoh perhitungan sanksi administratif berupa denda \ntercantum dalam Lampiran yang merupakan bagian yang \ntidak \nterpisahkan \ndari \nPeraturan \nAnggota \nDewan \nGubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TATA CARA PENGAWASAN, PELAPORAN, DAN PENGENAAN SANKSI ADMINISTRATIF",
+      "teks_lengkap": "(1) \nPengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 35 ayat (1) disampaikan secara tertulis oleh \nBank Indonesia kepada Penyelenggara. \n(2) \nDalam hal Penyelenggara dikenai sanksi administratif \nberupa denda sebagaimana dimaksud dalam Pasal 39, \nBank Indonesia memberitahukan secara tertulis mengenai \npelanggaran yang disertai  jumlah denda, nomor rekening \nuntuk pembayaran, dan batas waktu penyampaian bukti \npembayaran.  \n \nBAB VII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 35 ayat (1) disampaikan secara tertulis oleh \nBank Indonesia kepada Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Penyelenggara dikenai sanksi administratif \nberupa denda sebagaimana dimaksud dalam Pasal 39, \nBank Indonesia memberitahukan secara tertulis mengenai \npelanggaran yang disertai  jumlah denda, nomor rekening \nuntuk pembayaran, dan batas waktu penyampaian bukti \npembayaran.  \n \nBAB VII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Anggota Dewan Gubernur ini berlaku: \na. \nPedoman Penerapan APU PPT Berbasis Risiko (Risk Based \nApproach); \nb. \nPedoman Prinsip Mengenal Pengguna Jasa (Customer Due \nDiligence) bagi PJSP Selain Bank dan KUPVA bukan bank; \n \n\n\n \n \n \nc. \nPedoman Pelaksanaan Pemblokiran Secara Serta Merta \natas Dana Milik Orang atau Korporasi yang Identitasnya \nTercantum dalam Daftar Terduga Teroris dan Organisasi \nTeroris (DTTOT); dan \nd. \nPedoman Pelaksanaan Pemblokiran Secara Serta Merta \natas Dana Milik Orang atau Korporasi yang Identitasnya \nTercantum dalam Daftar Pendanaan Proliferasi Senjata \nPemusnah Massal (DPPSPM), \nyang dipublikasikan sebelum Peraturan Anggota Dewan \nGubernur ini tetap berlaku sepanjang tidak bertentangan \ndengan Peraturan Anggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Anggota Dewan Gubernur ini berlaku: \na. \nPedoman Penerapan APU PPT Berbasis Risiko (Risk Based \nApproach); \nb. \nPedoman Prinsip Mengenal Pengguna Jasa (Customer Due \nDiligence) bagi PJSP Selain Bank dan KUPVA bukan bank; \n \n\n\n \n \n \nc. \nPedoman Pelaksanaan Pemblokiran Secara Serta Merta \natas Dana Milik Orang atau Korporasi yang Identitasnya \nTercantum dalam Daftar Terduga Teroris dan Organisasi \nTeroris (DTTOT); dan \nd. \nPedoman Pelaksanaan Pemblokiran Secara Serta Merta \natas Dana Milik Orang atau Korporasi yang Identitasnya \nTercantum dalam Daftar Pendanaan Proliferasi Senjata \nPemusnah Massal (DPPSPM), \nyang dipublikasikan sebelum Peraturan Anggota Dewan \nGubernur ini tetap berlaku sepanjang tidak bertentangan \ndengan Peraturan Anggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 30 Juni 2025 \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nFILIANINGSIH HENDARTA \n\n\n \n \nPENJELASAN  \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 15 TAHUN 2025 \nTENTANG \nPENERAPAN ANTI PENCUCIAN UANG, PENCEGAHAN PENDANAAN \nTERORISME, DAN PENCEGAHAN PENDANAAN PROLIFERASI SENJATA \nPEMUSNAH MASSAL BAGI PIHAK YANG DIATUR DAN DIAWASI  \nOLEH BANK INDONESIA   \n \nI. \nUMUM \n \nSehubungan dengan komitmen Bank Indonesia untuk mendukung \nimplementasi penerapan APU, PPT, dan PPPSPM sesuai dengan ketentuan \nperaturan \nperundang-undangan \ndan \nperkembangan \nrekomendasi \npenerapan standar internasional, Bank Indonesia telah merespon \nkebutuhan penyempurnaan atas Peraturan Bank Indonesia Nomor \n19/10/PBI/2017 tentang Penerapan Anti Pencucian Uang dan Pencegahan \nPendanaan Terorisme bagi Penyelenggara Jasa Sistem Pembayaran Selain \nBank dan Penyelenggara Kegiatan Usaha Penukaran Valuta Asing Bukan \nBank sebagai upaya penguatan pengendalian TPPU, TPPT, dan PPSPM \ndengan menerbitkan Peraturan Bank Indonesia Nomor 10 Tahun 2024 \ntentang Penerapan Anti Pencucian Uang, Pencegahan Pendanaan \nTerorisme, dan Pencegahan Pendanaan Proliferasi Senjata Pemusnah \nMassal bagi Pihak yang Diatur dan Diawasi oleh Bank Indonesia. \nPenyempurnaan \npengaturan \nini \ndiharapkan \ndapat \nmemperkuat \npengendalian TPPU, TPPT, dan PPSPM sebagaimana mandat Pasal 12 ayat \n(3) Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan \nPenguatan Sektor Keuangan, menindaklanjuti rencana aksi FATF maupun \nKomite Tindak Pidana Pencucian Uang, serta mengakomodasi arah \nkebijakan sebagaimana Blueprint Sistem Pembayaran Indonesia 2030.  \n \nSelanjutnya, bahwa untuk mendukung upaya penguatan penerapan \nanti pencucian uang, pencegahan pendanaan terorisme, dan pencegahan \npendanaan proliferasi senjata pemusnah massal diperlukan peraturan \npelaksanaan sebagai pedoman lebih lanjut dalam penerapan penguatan \npencegahan tindak pidana pencucian uang, tindak pidana pendanaan \nterorisme, dan pendanaan proliferasi senjata pemusnah massal oleh pihak \nyang diatur dan diawasi oleh Bank Indonesia. \n \nPeraturan pelaksanaan dimaksud mengatur lebih lanjut aspek \npengaturan yang didelegasikan oleh Peraturan Bank Indonesia Nomor 10 \nTahun 2024 tentang Penerapan Anti Pencucian Uang, Pencegahan \nPendanaan Terorisme, dan Pencegahan Pendanaan Proliferasi Senjata \nPemusnah Massal bagi Pihak yang Diatur dan Diawasi oleh Bank Indonesia, \ntermasuk aspek lain yang bersifat operasional.  \n \nAdapun materi pokok aturan pelaksanaan terkait: \na. \nkebijakan dan prosedur tertulis; \nb. \nproses manajemen risiko; \n\n\n \nc. \ncustomer due diligence; dan \nd. \ntata cara pengawasan, pelaporan, dan pengenaan sanksi administratif. \nSelain itu, juga dipandang perlu mengatur aspek-aspek yang akan \ndilengkapi dengan pedoman dalam penerapan APU, PPT, dan PPPSPM. \n \nDengan demikian, perlu untuk menetapkan Peraturan Anggota Dewan \nGubernur tentang penerapan APU, PPT, dan PPPSPM bagi Pihak yang \nDiatur dan Diawasi oleh Bank Indonesia sebagai aturan pelaksanaan \npenerapan APU, PPT, dan PPPSPM. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Undang-Undang Nomor 4 Tahun 2023 tentang Pengembangan dan \nPenguatan Sektor Keuangan, menindaklanjuti rencana aksi FATF maupun \nKomite Tindak Pidana Pencucian Uang, serta mengakomodasi arah \nkebijakan sebagaimana Blueprint Sistem Pembayaran Indonesia 2030.  \n \nSelanjutnya, bahwa untuk mendukung upaya penguatan penerapan \nanti pencucian uang, pencegahan pendanaan terorisme, dan pencegahan \npendanaan proliferasi senjata pemusnah massal diperlukan peraturan \npelaksanaan sebagai pedoman lebih lanjut dalam penerapan penguatan \npencegahan tindak pidana pencucian uang, tindak pidana pendanaan \nterorisme, dan pendanaan proliferasi senjata pemusnah massal oleh pihak \nyang diatur dan diawasi oleh Bank Indonesia. \n \nPeraturan pelaksanaan dimaksud mengatur lebih lanjut aspek \npengaturan yang didelegasikan oleh Peraturan Bank Indonesia Nomor 10 \nTahun 2024 tentang Penerapan Anti Pencucian Uang, Pencegahan \nPendanaan Terorisme, dan Pencegahan Pendanaan Proliferasi Senjata \nPemusnah Massal bagi Pihak yang Diatur dan Diawasi oleh Bank Indonesia, \ntermasuk aspek lain yang bersifat operasional.  \n \nAdapun materi pokok aturan pelaksanaan terkait: \na. \nkebijakan dan prosedur tertulis; \nb. \nproses manajemen risiko; \n\n\n \nc. \ncustomer due diligence; dan \nd. \ntata cara pengawasan, pelaporan, dan pengenaan sanksi administratif. \nSelain itu, juga dipandang perlu mengatur aspek-aspek yang akan \ndilengkapi dengan pedoman dalam penerapan APU, PPT, dan PPPSPM. \n \nDengan demikian, perlu untuk menetapkan Peraturan Anggota Dewan \nGubernur tentang penerapan APU, PPT, dan PPPSPM bagi Pihak yang \nDiatur dan Diawasi oleh Bank Indonesia sebagai aturan pelaksanaan \npenerapan APU, PPT, dan PPPSPM. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a  \nPenyelenggara jasa Sistem Pembayaran selain bank antara \nlain penerbit instrumen pembayaran, payment gateway, dan \nPenyelenggara layanan remitansi.  \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c  \nPihak lain selain bank antara lain pihak selain bank yang \nmelakukan kegiatan pengolahan uang Rupiah, serta pihak \nselain bank yang melakukan kegiatan di pasar uang dan \npasar valuta asing.  \n \nAyat (2)  \n \n \nHuruf a  \nContoh Penyelenggara jasa Sistem Pembayaran selain bank \nyang melakukan aktivitas penatausahaan sumber dana yaitu \npenerbit instrumen pembayaran.  \n \n \nHuruf b  \nPenyelenggara jasa Sistem Pembayaran selain bank yang \nmelakukan aktivitas penerusan Transaksi merupakan \nPenyelenggara jasa Sistem Pembayaran selain bank yang \nberhubungan langsung dengan pengguna jasa dan/atau \npenyedia barang dan/atau jasa.  \nContoh Penyelenggara jasa Sistem Pembayaran selain bank \nyang melakukan aktivitas penerusan Transaksi yaitu \npayment gateway. \n \n \nHuruf c \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a  \nPenyelenggara jasa Sistem Pembayaran selain bank antara \nlain penerbit instrumen pembayaran, payment gateway, dan \nPenyelenggara layanan remitansi.  \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c  \nPihak lain selain bank antara lain pihak selain bank yang \nmelakukan kegiatan pengolahan uang Rupiah, serta pihak \nselain bank yang melakukan kegiatan di pasar uang dan \npasar valuta asing.  \n \nAyat (2)  \n \n \nHuruf a  \nContoh Penyelenggara jasa Sistem Pembayaran selain bank \nyang melakukan aktivitas penatausahaan sumber dana yaitu \npenerbit instrumen pembayaran.  \n \n \nHuruf b  \nPenyelenggara jasa Sistem Pembayaran selain bank yang \nmelakukan aktivitas penerusan Transaksi merupakan \nPenyelenggara jasa Sistem Pembayaran selain bank yang \nberhubungan langsung dengan pengguna jasa dan/atau \npenyedia barang dan/atau jasa.  \nContoh Penyelenggara jasa Sistem Pembayaran selain bank \nyang melakukan aktivitas penerusan Transaksi yaitu \npayment gateway. \n \n \nHuruf c \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \nDalam hal Penyelenggara bekerjasama dengan pihak ketiga \ndalam \nmelaksanakan \ncustomer \ndue \ndiligence \nmaka \nPenyelenggara: \n\n\n \na. \nmencantumkan \nkewajiban \npihak \nketiga \nuntuk \nmematuhi ketentuan dalam Peraturan Anggota Dewan \nGubernur ini dan/atau kebijakan dan prosedur APU, \nPPT, dan PPPSPM Penyelenggara dalam perjanjian \ntertulis; \nb. \nmelakukan edukasi atau sosialisasi terhadap pihak \nketiga terkait ketentuan dalam Peraturan Anggota \nDewan Gubernur ini dan/atau kebijakan dan prosedur \nAPU, PPT, dan PPPSPM Penyelenggara; dan \nc. \nmelakukan pemantauan dan evaluasi secara berkala \nterhadap pihak ketiga atas pemenuhan ketentuan \ndalam  Peraturan Anggota Dewan Gubernur ini \ndan/atau kebijakan dan prosedur APU, PPT, dan \nPPPSPM Penyelenggara. \nHuruf b \nCukup jelas. \nHuruf c \nCiri-ciri Transaksi Keuangan Mencurigakan antara lain: \na. \nmenyimpang \ndari \nprofil \natau \nkarakteristik \natau \nkebiasaan pola Transaksi Pengguna Jasa; \nb. \ndiduga \ndilakukan \nuntuk \nmenghindari \npelaporan \nTransaksi; \nc. \ndilakukan atau batal dilakukan dengan menggunakan \nharta kekayaan yang diduga berasal dari hasil tindak \npidana; \nd. \ndiminta \noleh \nPPATK \nuntuk \ndilaporkan \nkarena \nmelibatkan harta kekayaan yang diduga berasal dari \nhasil tindak pidana; \ne. \ntelah dilakukan atau akan dilakukan yang diduga \nterkait perbuatan dalam rangka menyediakan atau \nmengumpulkan atau memberikan atau meminjamkan \ndana, baik langsung atau tidak langsung, dengan \nmaksud untuk digunakan atau akan digunakan untuk \nmelakukan kegiatan terorisme, organisasi teroris, atau \nteroris;  \nf. \ndiminta oleh otoritas untuk dilakukan pemantauan \nkarena diduga terkait dengan pendanaan terorisme; \natau \ng. \ndana dikirim atau diterima dari yuridiksi yang diketahui \nmemiliki risiko proliferasi tinggi berdasarkan publikasi \nFATF. \n \nAyat (3)  \n \n \nCukup jelas. \n \nAyat (4) \n \n \nHuruf a \nCukup jelas. \n \n \nHuruf b \nTermasuk verifikasi melalui metode atau sarana teknologi \ndan pengendalian risikonya, dalam hal terdapat penggunaan \nmetode atau sarana teknologi untuk melakukan verifikasi. \n \n \nHuruf c \nTermasuk \npenentuan \nprofil \nrisiko \nadalah \npenerapan \ncustomer due diligence secara lebih sederhana (simplified \ncustomer due diligence), customer due diligence secara lebih \n\n\n \nmendalam (enhanced customer due diligence), dan customer \ndue diligence serta langkah tambahan terhadap PEP. \n \n \nHuruf d \nCukup jelas. \n \n \nHuruf e \nCukup jelas. \n \nAyat (5)  \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nPenyediaan \ndata, \ninformasi, \ndan \ndokumen \nuntuk \nkepentingan internal dan permintaan otoritas terkait \ntermasuk penyimpanan, pencadangan, serta retensi data, \ninformasi, dan/atau dokumen. \n \nAyat (6) \n \n \nCukup jelas. \n \nAyat (7) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \nDalam hal Penyelenggara bekerjasama dengan pihak ketiga \ndalam \nmelaksanakan \ncustomer \ndue \ndiligence \nmaka \nPenyelenggara: \n\n\n \na. \nmencantumkan \nkewajiban \npihak \nketiga \nuntuk \nmematuhi ketentuan dalam Peraturan Anggota Dewan \nGubernur ini dan/atau kebijakan dan prosedur APU, \nPPT, dan PPPSPM Penyelenggara dalam perjanjian \ntertulis; \nb. \nmelakukan edukasi atau sosialisasi terhadap pihak \nketiga terkait ketentuan dalam Peraturan Anggota \nDewan Gubernur ini dan/atau kebijakan dan prosedur \nAPU, PPT, dan PPPSPM Penyelenggara; dan \nc. \nmelakukan pemantauan dan evaluasi secara berkala \nterhadap pihak ketiga atas pemenuhan ketentuan \ndalam  Peraturan Anggota Dewan Gubernur ini \ndan/atau kebijakan dan prosedur APU, PPT, dan \nPPPSPM Penyelenggara. \nHuruf b \nCukup jelas. \nHuruf c \nCiri-ciri Transaksi Keuangan Mencurigakan antara lain: \na. \nmenyimpang \ndari \nprofil \natau \nkarakteristik \natau \nkebiasaan pola Transaksi Pengguna Jasa; \nb. \ndiduga \ndilakukan \nuntuk \nmenghindari \npelaporan \nTransaksi; \nc. \ndilakukan atau batal dilakukan dengan menggunakan \nharta kekayaan yang diduga berasal dari hasil tindak \npidana; \nd. \ndiminta \noleh \nPPATK \nuntuk \ndilaporkan \nkarena \nmelibatkan harta kekayaan yang diduga berasal dari \nhasil tindak pidana; \ne. \ntelah dilakukan atau akan dilakukan yang diduga \nterkait perbuatan dalam rangka menyediakan atau \nmengumpulkan atau memberikan atau meminjamkan \ndana, baik langsung atau tidak langsung, dengan \nmaksud untuk digunakan atau akan digunakan untuk \nmelakukan kegiatan terorisme, organisasi teroris, atau \nteroris;  \nf. \ndiminta oleh otoritas untuk dilakukan pemantauan \nkarena diduga terkait dengan pendanaan terorisme; \natau \ng. \ndana dikirim atau diterima dari yuridiksi yang diketahui \nmemiliki risiko proliferasi tinggi berdasarkan publikasi \nFATF. \n \nAyat (3)  \n \n \nCukup jelas. \n \nAyat (4) \n \n \nHuruf a \nCukup jelas. \n \n \nHuruf b \nTermasuk verifikasi melalui metode atau sarana teknologi \ndan pengendalian risikonya, dalam hal terdapat penggunaan \nmetode atau sarana teknologi untuk melakukan verifikasi. \n \n \nHuruf c \nTermasuk \npenentuan \nprofil \nrisiko \nadalah \npenerapan \ncustomer due diligence secara lebih sederhana (simplified \ncustomer due diligence), customer due diligence secara lebih \n\n\n \nmendalam (enhanced customer due diligence), dan customer \ndue diligence serta langkah tambahan terhadap PEP. \n \n \nHuruf d \nCukup jelas. \n \n \nHuruf e \nCukup jelas. \n \nAyat (5)  \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nPenyediaan \ndata, \ninformasi, \ndan \ndokumen \nuntuk \nkepentingan internal dan permintaan otoritas terkait \ntermasuk penyimpanan, pencadangan, serta retensi data, \ninformasi, dan/atau dokumen. \n \nAyat (6) \n \n \nCukup jelas. \n \nAyat (7) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenyusunan kebijakan dan prosedur tertulis juga dilakukan oleh  \nPenyelenggara yang melakukan penerusan Transaksi terhadap \nPengguna Jasa yang berhubungan langsung dengannya termasuk  \npenyedia barang dan/atau jasa (merchant). \n \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \nContoh pada Penyelenggara yang memiliki skala usaha kecil, \npenyusunan, pemantauan, serta evaluasi kebijakan dan prosedur \ntertulis dapat diinisiasi oleh Manajemen Senior yang bertanggung \njawab terkait APU, PPT, dan PPPSPM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenyusunan kebijakan dan prosedur tertulis juga dilakukan oleh  \nPenyelenggara yang melakukan penerusan Transaksi terhadap \nPengguna Jasa yang berhubungan langsung dengannya termasuk  \npenyedia barang dan/atau jasa (merchant). \n \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \nContoh pada Penyelenggara yang memiliki skala usaha kecil, \npenyusunan, pemantauan, serta evaluasi kebijakan dan prosedur \ntertulis dapat diinisiasi oleh Manajemen Senior yang bertanggung \njawab terkait APU, PPT, dan PPPSPM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf  a \nContoh Penyelenggara yang hanya memberikan jasa kepada \nPenyelenggara lain dan tidak berhubungan langsung dengan \nPengguna Jasa yaitu Penyelenggara Penerus dalam Transfer \nDana. \n \nHuruf  b \nContoh Penyelenggara yang tidak melakukan kegiatan Transfer \nDana yaitu Penyelenggara KUPVA bukan bank dan pihak lain \nselain bank yang melakukan kegiatan pengolahan uang Rupiah \nserta pihak selain bank yang melakukan kegiatan di pasar uang \ndan pasar valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf  a \nContoh Penyelenggara yang hanya memberikan jasa kepada \nPenyelenggara lain dan tidak berhubungan langsung dengan \nPengguna Jasa yaitu Penyelenggara Penerus dalam Transfer \nDana. \n \nHuruf  b \nContoh Penyelenggara yang tidak melakukan kegiatan Transfer \nDana yaitu Penyelenggara KUPVA bukan bank dan pihak lain \nselain bank yang melakukan kegiatan pengolahan uang Rupiah \nserta pihak selain bank yang melakukan kegiatan di pasar uang \ndan pasar valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \n \nCukup jelas. \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n\n\n \nHuruf d \nYang termasuk dengan “penerapan langkah terbaik” antara lain \nmembandingkan \nkeselarasan \naspek-aspek \nkebijakan \ndan \nprosedur tertulis antar perusahaan induk, perusahaan anak, dan \nkantor cabang yang meliputi penilaian risiko, customer due \ndiligence, pelaporan, dan penatausahaan dokumen, serta \nmengimplementasikan \nmitigasi \nrisiko \ndalam \nhal \nterdapat \nketidakselarasan aspek-aspek kebijakan dan prosedur tertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \n \nCukup jelas. \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n\n\n \nHuruf d \nYang termasuk dengan “penerapan langkah terbaik” antara lain \nmembandingkan \nkeselarasan \naspek-aspek \nkebijakan \ndan \nprosedur tertulis antar perusahaan induk, perusahaan anak, dan \nkantor cabang yang meliputi penilaian risiko, customer due \ndiligence, pelaporan, dan penatausahaan dokumen, serta \nmengimplementasikan \nmitigasi \nrisiko \ndalam \nhal \nterdapat \nketidakselarasan aspek-aspek kebijakan dan prosedur tertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \n \nAyat (3) \nPegawai yang terkait penerapan APU, PPT, dan PPPSPM antara \nlain unit kerja khusus, frontliner, auditor internal, kurir \nPenyelenggara KUPVA bukan bank  yang melakukan pembawaan \nuang kertas asing, dan/atau pegawai lainnya yang terpapar risiko \nTPPU, TPPT, dan PPSPM.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \n \nAyat (3) \nPegawai yang terkait penerapan APU, PPT, dan PPPSPM antara \nlain unit kerja khusus, frontliner, auditor internal, kurir \nPenyelenggara KUPVA bukan bank  yang melakukan pembawaan \nuang kertas asing, dan/atau pegawai lainnya yang terpapar risiko \nTPPU, TPPT, dan PPSPM."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPelaksanaan \nmanajemen \nrisiko \njuga \ndilakukan \noleh \nPenyelenggara yang melakukan penerusan Transaksi terhadap \npengguna jasa yang berhubungan langsung dengannya termasuk \npenyedia barang dan/atau jasa (merchant). \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nYang \ndimaksud \ndengan \n“penghindaran \ntargeted \nfinancial \nsanction” adalah penghindaran kewajiban terkait  penanganan \nDTTOT dan DPPSPM. \n \nAyat (5) \n \n \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas. \n \nAyat (7) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPelaksanaan \nmanajemen \nrisiko \njuga \ndilakukan \noleh \nPenyelenggara yang melakukan penerusan Transaksi terhadap \npengguna jasa yang berhubungan langsung dengannya termasuk \npenyedia barang dan/atau jasa (merchant). \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nYang \ndimaksud \ndengan \n“penghindaran \ntargeted \nfinancial \nsanction” adalah penghindaran kewajiban terkait  penanganan \nDTTOT dan DPPSPM. \n \nAyat (5) \n \n \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas. \n \nAyat (7) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas.  \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nContoh hasil penilaian risiko yang ditetapkan oleh Bank Indonesia \nterhadap pelaksanaan customer due diligence.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas.  \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nContoh hasil penilaian risiko yang ditetapkan oleh Bank Indonesia \nterhadap pelaksanaan customer due diligence."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nPenginian profil risiko sewaktu-waktu dilakukan antara lain \ndalam hal:  \na. \nPenyelenggara menilai ada perubahan risiko yang signifikan; \nb. \nterdapat kebutuhan pengawasan dari Bank Indonesia; dan \nc. \nterdapat perubahan pedoman penerapan APU, PPT, dan \nPPPSPM berbasis risiko, National Risk Assessment, dan \nSectoral Risk Assessment. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3)  \n \n \nPenginian profil risiko sewaktu-waktu dilakukan antara lain \ndalam hal:  \na. \nPenyelenggara menilai ada perubahan risiko yang signifikan; \nb. \nterdapat kebutuhan pengawasan dari Bank Indonesia; dan \nc. \nterdapat perubahan pedoman penerapan APU, PPT, dan \nPPPSPM berbasis risiko, National Risk Assessment, dan \nSectoral Risk Assessment. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kewajiban pelaksanaan customer due diligence antara lain dilakukan \noleh Penyelenggara yang melakukan penerusan Transaksi terhadap \nPengguna Jasa yang berhubungan langsung dengannya termasuk  \npenyedia barang dan/atau jasa (merchant).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kewajiban pelaksanaan customer due diligence antara lain dilakukan \noleh Penyelenggara yang melakukan penerusan Transaksi terhadap \nPengguna Jasa yang berhubungan langsung dengannya termasuk  \npenyedia barang dan/atau jasa (merchant)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n Penggunaan sarana teknologi dan/atau elektronik yang \nmemadai dan dapat dipertanggungjawabkan antara lain \ndapat berupa: \na. \npengisian formulir elektronik yang disampaikan melalui \nlaman, surat elektronik, aplikasi Penyelenggara, atau \nlainnya; dan/atau \nb. \npenambahan sejumlah data biometrik, seperti swafoto, \nsidik jari, atau lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n Penggunaan sarana teknologi dan/atau elektronik yang \nmemadai dan dapat dipertanggungjawabkan antara lain \ndapat berupa: \na. \npengisian formulir elektronik yang disampaikan melalui \nlaman, surat elektronik, aplikasi Penyelenggara, atau \nlainnya; dan/atau \nb. \npenambahan sejumlah data biometrik, seperti swafoto, \nsidik jari, atau lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nBasis data lainnya yang relevan dan sah digunakan yaitu \nbasis data yang dimiliki oleh pihak yang memiliki \nkewenangan sesuai dengan peraturan perundang-undangan. \n\n\n \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \nBasis data lainnya yang relevan dan sah digunakan yaitu \nbasis data yang dimiliki oleh pihak yang memiliki \nkewenangan sesuai dengan peraturan perundang-undangan. \n\n\n \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nContoh sumber dana yang sah dalam hubungan usaha dan/atau \nTransaksi antara lain gaji, hasil usaha, dan investasi. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nContoh sumber dana yang sah dalam hubungan usaha dan/atau \nTransaksi antara lain gaji, hasil usaha, dan investasi. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPelaksanaan asesmen mandiri (self-assessment) dapat mencakup \nsebagian aspek manajemen risiko yang dimuat dalam pedoman \npenerapan APU, PPT, dan PPPSPM berbasis risiko dalam rangka \nmemastikan pemenuhan risk based approach.  \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPelaksanaan asesmen mandiri (self-assessment) dapat mencakup \nsebagian aspek manajemen risiko yang dimuat dalam pedoman \npenerapan APU, PPT, dan PPPSPM berbasis risiko dalam rangka \nmemastikan pemenuhan risk based approach.  \n \nAyat (2) \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penerapan prinsip tertentu antara lain prinsip follow the money yang \ndilakukan melalui:  \na. \npengawasan terhadap pelaksanaan penundaan Transaksi oleh \nPenyelenggara;  \nb. \npengawasan terhadap Kelompok Usaha; dan  \nc. \npengawasan terhadap Transaksi Penyelenggara berdasarkan \ntipologi: \n1. \nplacement, merupakan diartikan fase menempatkan uang \nyang dihasilkan dari suatu aktivitas kejahatan misalnya \ndengan pemecahan sejumlah besar uang tunai menjadi \njumlah kecil yang tidak mencolok untuk ditempatkan dalam \nsistem keuangan; \n2. \nlayering, yang diartikan sebagai memisahkan hasil tindak \npidana dari sumbernya yaitu aktivitas kejahatan yang terkait \nmelalui beberapa tahapan transaksi keuangan; dan \n3. \nintegration, yaitu upaya untuk menetapkan suatu landasan \nsebagai suatu 'legitimate explanation' bagi hasil kejahatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan prinsip tertentu antara lain prinsip follow the money yang \ndilakukan melalui:  \na. \npengawasan terhadap pelaksanaan penundaan Transaksi oleh \nPenyelenggara;  \nb. \npengawasan terhadap Kelompok Usaha; dan  \nc. \npengawasan terhadap Transaksi Penyelenggara berdasarkan \ntipologi: \n1. \nplacement, merupakan diartikan fase menempatkan uang \nyang dihasilkan dari suatu aktivitas kejahatan misalnya \ndengan pemecahan sejumlah besar uang tunai menjadi \njumlah kecil yang tidak mencolok untuk ditempatkan dalam \nsistem keuangan; \n2. \nlayering, yang diartikan sebagai memisahkan hasil tindak \npidana dari sumbernya yaitu aktivitas kejahatan yang terkait \nmelalui beberapa tahapan transaksi keuangan; dan \n3. \nintegration, yaitu upaya untuk menetapkan suatu landasan \nsebagai suatu 'legitimate explanation' bagi hasil kejahatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan “ketentuan Bank Indonesia” antara lain \nketentuan mengenai kewajiban menjaga kerahasiaan data.  \n \nAyat (3) \n \n \nCukup jelas. \nAyat (4) \nSanksi administratif sesuai ketentuan Bank Indonesia antara lain \nsanksi administratif sebagaimana diatur dalam ketentuan \nmengenai kewajiban menjaga kerahasiaan data.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan “ketentuan Bank Indonesia” antara lain \nketentuan mengenai kewajiban menjaga kerahasiaan data.  \n \nAyat (3) \n \n \nCukup jelas. \nAyat (4) \nSanksi administratif sesuai ketentuan Bank Indonesia antara lain \nsanksi administratif sebagaimana diatur dalam ketentuan \nmengenai kewajiban menjaga kerahasiaan data."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \nCukup jelas. \n \n \nHuruf b \nYang termasuk rekomendasi hasil pengawasan adalah \npenyampaian hasil pengawasan Bank Indonesia kepada \nkementerian, lembaga, atau pihak lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \n \n \nHuruf a \nCukup jelas. \n \n \nHuruf b \nYang termasuk rekomendasi hasil pengawasan adalah \npenyampaian hasil pengawasan Bank Indonesia kepada \nkementerian, lembaga, atau pihak lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nYang termasuk pihak tertentu antara lain pihak ketiga yang \nbekerja sama dengan Penyelenggara atau pihak terafiliasi \nlainnya.  \n \n\n\n \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nYang termasuk pihak tertentu antara lain pihak ketiga yang \nbekerja sama dengan Penyelenggara atau pihak terafiliasi \nlainnya.  \n \n\n\n \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nAngka 1 \nLaporan perubahan kebijakan dan prosedur tertulis \npenerapan APU, PPT, dan PPPSPM disampaikan melalui \nsurat yang memuat substansi perubahan disertai \nlampiran kebijakan dan prosedur tertulis terkini.  \nAngka 2 \n Laporan rekapitulasi penundaan Transaksi mengacu \npada format laporan dalam pedoman customer due \ndiligence.  \nAngka 3 \nLaporan kerja sama pelaksanaan customer due diligence \noleh pihak ketiga mengacu pada format laporan dalam \npedoman customer due diligence.  \nAngka 4 \n  \nCukup jelas.  \nAngka 5 \n  \nCukup jelas.  \n \n \nHuruf c \n Cukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \n \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nAngka 1 \nLaporan perubahan kebijakan dan prosedur tertulis \npenerapan APU, PPT, dan PPPSPM disampaikan melalui \nsurat yang memuat substansi perubahan disertai \nlampiran kebijakan dan prosedur tertulis terkini.  \nAngka 2 \n Laporan rekapitulasi penundaan Transaksi mengacu \npada format laporan dalam pedoman customer due \ndiligence.  \nAngka 3 \nLaporan kerja sama pelaksanaan customer due diligence \noleh pihak ketiga mengacu pada format laporan dalam \npedoman customer due diligence.  \nAngka 4 \n  \nCukup jelas.  \nAngka 5 \n  \nCukup jelas.  \n \n \nHuruf c \n Cukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas. \n \n \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas. \n \nAyat (6) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nMekanisme penyampaian laporan ke PPATK (laporan Transaksi \nKeuangan Mencurigakan, laporan Transaksi keuangan tunai, \nlaporan Transaksi keuangan Transfer Dana dari dan ke luar \nnegeri) dilakukan sesuai dengan tata cara yang telah ditetapkan \nPPATK, seperti melalui aplikasi pelaporan PPATK.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nMekanisme penyampaian laporan ke PPATK (laporan Transaksi \nKeuangan Mencurigakan, laporan Transaksi keuangan tunai, \nlaporan Transaksi keuangan Transfer Dana dari dan ke luar \nnegeri) dilakukan sesuai dengan tata cara yang telah ditetapkan \nPPATK, seperti melalui aplikasi pelaporan PPATK."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \n \n\n\n \n \nLAMPIRAN \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR  15 TAHUN 2025 \nTANGGAL 30 JUNI 2025 \nTENTANG \nPENERAPAN ANTI PENCUCIAN UANG, PENCEGAHAN PENDANAAN TERORISME, DAN PENCEGAHAN \nPENDANAAN PROLIFERASI SENJATA PEMUSNAH MASSAL BAGI PIHAK YANG DIATUR DAN DIAWASI \nOLEH BANK INDONESIA \n \n \nA. TABEL CONTOH PERHITUNGAN SANKSI ADMINISTRATIF BERUPA DENDA  \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nCustomer Due Diligence (CDD) \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nterdapat kelemahan penerapan CDD yang diakibatkan \nkarena Penyelenggara tidak meminta dokumen identitas, \natau tidak melakukan verifikasi, atau tidak melakukan \npemantauan \nsecara \nberkesinambungan, \natau \ntidak \nmemahami maksud dan tujuan transaksi terhadap 25 (dua \npuluh lima) pengguna jasa. \nHal tersebut melanggar Peraturan Bank Indonesia Nomor 10 \nTahun 2024 tentang Penerapan Anti Pencucian Uang, \nPencegahan \nPendanaan \nTerorisme, \ndan \nPencegahan \nPendanaan Proliferasi Senjata Pemusnah Massal Bagi Pihak \nyang Diatur dan Diwasi oleh Bank Indonesia (PBI APU, PPT, \ndan PPPSPM) yaitu:  \na. Pasal 18 ayat (2), Pasal 19 ayat (2) terkait kewajiban \npenyelenggara melakukan identifikasi; \nb. Pasal 22 ayat (2) terkait kewajiban penyelenggara \nmelakukan verifikasi; \nc. Pasal 29 terkait kewajiban penyelenggara melakukan \npemantauan secara berkesinambungan; atau \n \nBerdasarkan Pasal 39 ayat (3) Peraturan Anggota \nDewan Gubernur Nomor 15 Tahun 2025 tentang \nPenerapan \nAnti \nPencucian \nUang, Pencegahan \nPendanaan Terorisme, dan Pencegahan Pendanaan \nProliferasi Senjata Pemusnah Massal Bagi Pihak \nyang Diatur dan Diwasi oleh Bank Indonesia (PADG \nAPU, PPT, dan PPPSPM), Penyelenggara dikenakan \nsanksi administratif berupa denda sebesar:  \na. Rp1.000.000,00 (satu juta rupiah dikali dengan \n25 (dua puluh lima) pengguna jasa, yaitu sebesar \nRp25.000.000,00 (dua puluh lima juta rupiah).  \nb. Dalam hal kedua puluh lima pengguna jasa \ndimaksud melakukan transaksi masing-masing \n2 (dua) kali, maka total denda yang dikenakan \nadalah Rp25.000.000 dikali dengan 2 (dua) \ntransaksi, yaitu sebesar Rp50.000.000. \n \n \nSanksi \nadministratif \nberupa \ndenda \npenerapan \nCDD  \ndikenakan per pengguna jasa  \ndan/atau per Transaksi. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \n Pasal 32 ayat (1) terkait kewajiban penyelenggara memahami \nmaksud dan tujuan transaksi. \nEnhanced Due Diligence (EDD) \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nPenyelenggara tidak melakukan Enhanced Due Diligence \n(EDD) terhadap 10 (sepuluh) transaksi yang berasal dari \nnegara yang masuk dalam daftar high-risk jurisdictions sesuai \npublikasi oleh Financial Action Task Force (FATF) atau \norganisasi lain; atau merupakan Politically Exposed Person \n(PEP), keluarga PEP, atau pihak terkait dengan PEP (close \nassociates); atau; memiliki bidang usaha yang berisiko tinggi \n(high risk business); atau patut diduga merupakan pihak yang \ntidak memiliki izin dari otoritas yang berwenang untuk \nmelakukan kegiatan usaha sebagai penyedia jasa keuangan; \natau menunjuk pihak ketiga untuk membuka hubungan \nusaha atau melakukan Transaksi; atau menggunakan \nProduk atau jasa dan Transaksi yang termasuk kategori \nberisiko tinggi; Jaringan distribusi yang termasuk kriteria \nberisiko tinggi. Kriteria berisiko tinggi dapat mengacu dari \nsumber yang independen dan terpercaya antara lain Bank \nIndonesia, PPATK dan otoritas yang berwenang, termasuk \nhasil National Risk Assesment (NRA) dan Sectoral Risk \nAssesment (SRA). \nHal tersebut melanggar PBI APU, PPT, dan PPPSPM yaitu: \na. Pasal 33 terkait kewajiban EDD terhadap pengguna \njasa yg berasal dari high-risk jurisdictions; \nb. Pasal 35 ayat (1) terkait kewajiban pelaksanaan CDD \nterhadap PEP; \nc. Pasal \nterkait \nkewajiban \npelaksanaan \nCDD \nterhadap keluarga atau pihak terkait PEP; \nd. Pasal 34 ayat (1) terkait kewajiban EDD terhadap \npihak yang patut diduga tidak memiliki izin dari \notoritas  untuk melakukan kegiatan usaha sebagai \npenyedia jasa keuangan; atau \ne. Pasal 32 ayat (1) terkait kewajiban EDD terhadap \npengguna jasa dengan bidang usaha yang berisiko \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar Rp1.000.000,00 \n(satu juta rupiah) dikali dengan 10 (sepuluh) \ntransaksi, yaitu sebesar Rp10.000.000,00 (sepuluh \njuta rupiah) \n \n \nSanksi administratif berupa \ndenda terkait EDD dikenakan \nper transaksi. \n \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \ntinggi, produk atau jasa dan transaksi yang termasuk \nkategori berisiko tinggi, atau jaringan distribusi yang \ntermasuk kriteria berisiko tinggi.   \nTindak Lanjut Customer Due Diligence (CDD) \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nPenyelenggara: \na. memproses 5 (lima) transaksi yang dilakukan oleh \nPengguna Jasa A tanggal 28 Mei 2025, meskipun \ndiketahui bahwa sebelumnya terdapat surat dari Penyidik \nPOLRI tanggal 20 Mei 2025 untuk meminta Penyelenggara \nagar melakukan penundaan transaksi yang dilakukan \noleh Pengguna Jasa tersebut disebabkan adanya indikasi \nterkait penampungan transaksi hasil dari tindak pidana; \natau Pengguna Jasa melakukan Transaksi yang diketahui \ndan/atau patut diduga menggunakan harta kekayaan \nyang berasal dari hasil tindak pidana; atau calon \nPengguna Jasa atau Pengguna Jasa diketahui dan/atau \npatut diduga memiliki rekening untuk menampung harta \nkekayaan yang berasal dari hasil tindak pidana; atau \ncalon Pengguna Jasa atau Pengguna Jasa diketahui \ndan/atau patut diduga menggunakan dokumen palsu. \n \nHal tersebut melanggar Pasal 37 ayat (3) PBI APU, PPT, \ndan \nPPPSPM, \nyaitu \nterkait \nkewajiban \npenundaan \nTransaksi \nsecara \nseketika \nsetelah \nmenerima \nperintah/permintaan penundaan transaksi dari penyidik, \npenuntut umum, atau hakim. \n \nb. memproses 30 (tiga puluh) transaksi oleh Pengguna Jasa \nB yang diketahui/patut diduga bertindak atas nama \nBeneficial Owner fiktif untuk menghindari keterkaitan \ndengan Beneficial Owner sebenarnya yang sedang \nmenjalani proses hukum; atau calon Pengguna Jasa, \nPengguna \nJasa, \ndan/atau \nBeneficial \nOwner \ntidak \nmemenuhi ketentuan; atau Penyelenggara meragukan \natau tidak dapat meyakini kebenaran identitas dan \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nperhitungan \npengenaan \nsanksi \nadministratif berupa denda sbb: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n5 (lima) transaksi, yaitu sebesar Rp5.000.000,00 \n(lima juta rupiah). \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n(tiga \npuluh) \ntransaksi, \nyaitu \nsebesar \nRp30.000.000,00 (tiga puluh juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp35.000.000,00 (tiga puluh lima juta \nrupiah). \n \n \nSanksi \nadministratif \nberupa \ndenda terkait tindak lanjut CDD \ndikenakan per transaksi. \n \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \ninformasi calon Pengguna Jasa, Pengguna Jasa, dan/atau \nBeneficial \nOwner; \natau \nberdasarkan \npemantauan \nberkesinambungan, terdapat Transaksi yang tidak sesuai \ndengan pengetahuan tentang Pengguna Jasa, serta profil \nbisnis dan profil risiko Pengguna Jasa; atau Pengguna \nJasa tidak dapat memenuhi informasi yang dibutuhkan \nPenyelenggara untuk memahami maksud dan tujuan \nhubungan usaha dan/atau Transaksi, serta sumber dana; \natau memiliki sumber dana Transaksi yang diketahui \ndan/atau patut diduga berasal dari hasil tindak pidana. \n \nHal tersebut melanggar Pasal 38 ayat (1) PBI APU, PPT, \ndan PPPSPM, yaitu  terkait kewajiban Penyelenggara \nuntuk menolak melakukan hubungan usaha, menolak \nTransaksi, membatalkan Transaksi, dan/atau menutup \nhubungan usaha dalam hal Penyelenggara mengetahui \natau patut menduga bahwa calon Pengguna Jasa, \nPengguna Jasa, dan/atau Beneficial Owner menggunakan \nnama fiktif dan/atau anonym. \n \nPenatausahaan Dokumen \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nPenyelenggara tidak memenuhi kewajibannya melakukan \npenatausahaan dokumen terkait dengan data Pengguna Jasa \natau Transaksi keuangan Pengguna Jasa dengan jangka \nwaktu sesuai ketentuan yang berlaku, dengan rincian \nsebagai berikut: \na. tidak melakukan penatausahaan dokumen atas 10 \n(sepuluh) transaksi oleh Pengguna Jasa. \nb. tidak melakukan penatausahaan atas data 5 (lima)  \nPengguna Jasa yaitu identitas Pengguna Jasa termasuk \ndokumen pendukungnya; atau bukti verifikasi data \nPengguna Jasa; atau hasil pemantauan dan analisis yang \ntelah dilakukan; atau korespondensi dengan Pengguna \nJasa, yang menyebabkan informasi identitas pengguna \njasa tidak lengkap. \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nperhitungan \npengenaan \nsanksi \nadministratif berupa denda sbb: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n(sepuluh) \ntransaksi, \nyaitu \nsebesar \nRp10.000.000,00 (sepuluh juta rupiah). \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n(lima) \npengguna \njasa, \nyaitu \nsebesar \nRp5.000.000,00 (lima juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp15.000.000,00 (lima belas juta rupiah). \n \n \nSanksi \nadministratif \nberupa \ndenda \nterkait \npenatausahaan \ndokumen \ndikenakan \nper \ntransaksi atau per Pengguna \nJasa. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nHal tersebut melanggar Pasal 48 ayat (1) PBI APU, PPT, dan \nPPPSPM, yaitu terkait kewajiban Penyelenggara  melakukan \npenatausahaan dokumen terkait pengguna jasa serta \ntransaksi. \nPenanganan Daftar Terduga Teroris dan Organisasi \nTeroris (DTTOT) dan Daftar Pendanaan Proliferasi Senjata \nPemusnah Massal (DPPSPM) \nHasil \npemeriksaan \nPengawas \nmenunjukkan \nbahwa \nPenyelenggara: \na. Tidak menatausahakan atau menginikan DTTOT serta \nDPPSPM sesuai dengan 2 (dua) surat pemberitahuan \npencantuman identitas orang/korporasi dalam DTTOT \nserta DPPSPM yang disampaikan oleh otoritas yang \nberwenang. \nb. Tidak melakukan pemblokiran secara serta merta dan \ntanpa pemberitahuan kepada 3 (tiga) pengguna jasa yang \ntercantum dalam DTTOT atau DPPSPM terkini sehingga \ntetap melakukan pemrosesan terhadap 15 (lima belas) \ntransaksi dari 3 (tiga) pengguna jasa dimaksud. \nHal tersebut melanggar Pasal 47 ayat (1) PBI APU, PPT, dan \nPPPSPM yaitu terkait kewajiban Penyelenggara untuk \nmenatausahakan atau menginikan DTTOT & DPPSPM, serta \nmelakukan pemblokiran serta merta terhadap pengguna jasa \nyang tercantum dalam DTTOT & DPPSPM terkini.  \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nperhitungan \npengenaan \nsanksi \nadministratif berupa denda sebagai berikut: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n2 (dua) surat pemberitahuan pencantuman \nidentitas orang/korporasi dalam DTTOT serta \nDPPSPM, yaitu sebesar Rp2.000.000,00 (dua \njuta rupiah). \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n15 (lima belas) transaksi pengguna jasa yang \ntercantum dalam DTTOT atau DPPSPM, yaitu \nsebesar \nRp15.000.000,00 \n(lima \nbelas \njuta \nrupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp17.000.000,00 (tujuh belas juta rupiah). \n \n \nSanksi \nadministratif \nberupa \ndenda terkait penanganan DTTOT  \ndan DPPSPM dikenakan per surat \npemberitahuan \natau \nper \ntransaksi yang dilakukan oleh \nPengguna Jasa. \nAnti Tipping-Off \nHasil pemeriksaan menunjukkan bahwa: \na. Penyelenggara; atau Direksi; atau Dewan Komisaris; atau \npengurus; \natau \nPejabat \nEksekutif; \natau \npegawai \nPenyelenggara yang memberitahukan kepada 2 (dua) \nPengguna Jasa atau pihak lain mengenai laporan \nTransaksi Keuangan Mencurigakan dari pengguna jasa \ntersebut \nyang \nsedang \ndisusun; \natau \nyang \ntelah \ndisampaikan kepada PPATK. \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n2 (dua) pengguna jasa, yaitu sebesar Rp \n2.000.000 (dua juta rupiah); \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n3 (tiga) pengguna jasa, yaitu sebesar Rp \n3.000.000 (tiga juta rupiah); \n \nSanksi administratif berupa \ndenda terkait Anti Tipping-Off \ndikenakan per Pengguna Jasa. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nb. Penyelenggara; atau Direksi; atau Dewan Komisaris; atau \npengurus; \natau \nPejabat \nEksekutif; \natau \npegawai \nPenyelenggara yang memberitahukan kepada 3 (tiga) \nPengguna Jasa atau pihak lain mengenai informasi dalam \npelaksanaan CDD dan EDD.  \nHal tersebut melanggar PBI APU, PPT, dan PPPSPM yaitu: \na. Pasal 52 ayat (1) terkait kewajiban menjaga kerahasiaan \nmengenai laporan Transaksi Keuangan Mencurigakan \nyang sedang disusun;  \nb. Pasal 52 ayat (2) terkait Kewajiban menjaga kerahasiaan \ninformasi dalam pelaksanaan CDD dan EDD. \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp5.000.000,00 (lima juta rupiah). \n \nLaporan Transaksi Keuangan Mencurigakan  \nHasil pemeriksaan Pengawas menunjukkan bahwa selama \ntahun 2024 terdapat 20 (dua puluh) transaksi keuangan \nmencurigakan. Temuan tersebut telah disepakati oleh Direksi \nPenyelenggara pada saat exit meeting tanggal 7 Mei 2025 \nuntuk dilaporkan kepada PPATK sebagai laporan Transaksi \nKeuangan Mencurigakan. Berdasarkan koordinasi dengan \nPPATK, diketahui bahwa: \na. Penyelenggara telah menyampaikan 8 (delapan) transaksi \nkeuangan mencurigakan sebagai LTKM kepada PPATK \npada tanggal 16 Mei 2025 (terlambat 2 (dua) hari kerja). \nKeterangan: tanggal 12 dan 13 Mei 2025 merupakan \ntanggal merah karena perayaan Waisak dan cuti bersama \nWaisak.   \nb. Sampai dengan tanggal 26 Juni 2025 (melebihi 30 hari \nkerja \nsetelah \nexit \nmeeting), \nPenyelenggara \nbelum \nmenyampaikan 12 (dua belas) transaksi keuangan \nmencurigakan sebagai laporan Transaksi Keuangan \nMencurigakan terkait transaksi tersebut kepada PPATK. \nHal tersebut melanggar Pasal 23 dan Pasal 25 UU TPPU jo. \nPasal 61 dan 62 PBI APU, PPT, dan PPPSPM, Pasal 38 Perka \nPPATK \nNo.1 \nTahun \nyaitu \nterkait \nkewajiban \nPenyelenggara menyampaikan laporan Transaksi Keuangan \nMencurigakan kepada PPATK paling lama 3 (tiga) hari kerja \n \nBerdasarkan Pasal 39 ayat (1) PADG APU, PPT, dan \nPPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar: \na. Rp100.000,00 \n(seratus \nribu \nrupiah) \ndikali \ndengan 2 (dua) hari kerja keterlambatan dan \ndikali 8 (delapan) transaksi, yaitu sebesar \nRp1.600.000,00 (satu juta enam ratus ribu \nrupiah). \nb. Rp3.000.000,00 (tiga juta rupiah) dikali dengan \n(dua \nbelas) \ntransaksi, \nyaitu \nsebesar \nRp36.000.000,00 (tiga puluh enam juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp37.600.000,00 (tiga puluh tujuh juta \nenam ratus ribu rupiah). \n \n \n \n \nSanksi \nadministratif \nberupa \ndenda \nterkait \nkewajiban \npelaporan \nkepada \nPPATK \ndikenakan per transaksi. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nterhitung sejak penyelenggara mengetahui adanya unsur \nTransaksi Keuangan mencurigakan. \nLaporan Transaksi Keuangan Tunai (LTKT) \nHasil pemeriksaan Pengawas menunjukkan bahwa selama \nperiode Maret 2023 sd. Maret 2024 terdapat sebanyak 6 \n(enam) transaksi keuangan tunai yang tidak disampaikan \nkepada PPATK sebagai berikut: \na. Pengguna jasa I seb. Rp 5.000.000.000,00 (lima miliar \nrupiah) pada tanggal 1 Maret 2023.  \nb. Pengguna jasa J seb. Rp 15.000.000.000,00 (lima belas \nmiliar rupiah) pada tanggal 5 Juni 2023.  \nc. Pengguna jasa K seb. Rp 750.000.000,00 (tujuh ratus lima \npuluh juta rupiah) pada tanggal 16 Agustus 2023  \nd. Pengguna jasa L seb. Rp 2.000.000.000,00 (dua miliar \nrupiah) pada tanggal 12 Oktober 2023 \ne. Pengguna jasa M seb. Rp 7.500.000.000,00 (tujuh miliar \nlima ratus juta rupiah) pada tanggal 8 Januari 2024 \nf. \nPengguna jasa N seb. Rp 15.000.000.000,00 (lima belas \nmiliar rupiah) pada tanggal 1 Maret 2024 \nDisamping itu, terdapat juga sebanyak 1 (satu) transaksi \nkeuangan tunai yang terlambat dilaporkan kepada PPATK, \nyaitu \ntransaksi \ntunai \noleh \nPengguna \nJasa \nY \nseb. \nRp510.000.000,00 (lima ratus sepuluh juta rupiah) pada \ntanggal 14 Februari 2024 yang dilaporkan ke PPATK pada \ntanggal 6 Maret 2024 (terlambat 1 hari kerja). \nHal tersebut melanggar Pasal 23 dan Pasal 25 UU TPPU jo. \nPasal 61 dan 62 PBI APU, PPT, dan PPPSPM, Pasal 39 Perka \nPPATK No. 1 Tahun 2021 yaitu terkait  kewajiban \nPenyelenggara menyampaikan laporan Transaksi keuangan \ntunai kepada PPATK paling lama 14 hari kerja terhitung sejak \nsetelah tanggal transaksi. \n \nBerdasarkan Pasal 39 ayat (1) PADG APU, PPT, dan \nPPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar: \na. Rp3.000.000,00 (tiga juta rupiah) dikali dengan \n6 (enam) transaksi,  yaitu Rp18.000.000,00 \n(delapan belas juta rupiah); \nb. Rp100.000,00 (seratus ribu rupiah) dikali 1 \n(satu) hari kerja keterlambatan dan dikali 1 \n(satu) transaksi, yaitu Rp100.000,00. \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar \nRp18.100.000,00 \n(delapan \nbelas \njuta \nseratus ribu rupiah). \n \n \n \n \nSanksi \nadministratif \nberupa \ndenda \nterkait \nkewajiban \npelaporan \nkepada \nPPATK \ndikenakan per transaksi. \n \n \n\n\n \n \n \nB. CONTOH PERHITUNGAN SANKSI ADMINISTRATIF BERUPA DENDA PER TINDAKAN PENGAWASAN \n \n1. PT ABC \n \nBank Indonesia melakukan pemeriksaan terhadap Penyelenggara Jasa Sistem Pembayaran PT ABC posisi 31 Mei 2024. Berdasarkan \nanggaran dasar, PT ABC memiliki modal disetor sebesar Rp500.000.000,00 (lima ratus juta rupiah). Terdapat 3 (tiga) temuan yang \ntelah disepakati pada exit meeting tanggal 16 Juli 2024, sebagai berikut:    \na. Kasus No. 1a terkait CDD dengan perhitungan sanksi administratif berupa denda sebesar Rp25.000.000,00 (dua puluh lima juta \nrupiah). \nb. Kasus No. 5 terkait pelanggaran Penanganan DTTOT dan DPPSPM dengan perhitungan sanksi administratif berupa denda \nsebesar Rp17.000.000,00 (tujuh belas juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara dapat dikenakan sanksi administratif berupa denda sebesar Rp42.000.000,00 \n(empat puluh dua juta rupiah). Selanjutnya, berdasarkan pasal 39 ayat (4) PADG APU, PPT, dan PPPSPM,  sanksi administratif \nberupa denda paling banyak sebesar 10% (sepuluh persen) dari modal disetor yaitu 10% (sepuluh persen) dikali dengan \nRp500.000.000,00 (lima ratus juta rupiah), yaitu Rp50.000.000,00 (lima puluh juta rupiah). Dengan demikian, PT ABC dikenakan \nsanksi administratif berupa denda sebesar Rp42.000.000,00 (empat puluh dua juta rupiah).  \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n2. PT DEF \n \nBank Indonesia melakukan pemeriksaan terhadap Penyelenggara Jasa Sistem Pembayaran PT DEF posisi Desember 2024. \nBerdasarkan anggaran dasar, PT DEF memiliki modal disetor sebesar Rp500.000.000,00 (lima ratus juta rupiah). Terdapat 3 (tiga) \ntemuan yang telah disepakati pada exit meeting tanggal 7 Mei 2025, sebagai berikut: \na. Kasus No. 2 terkait pelanggaran EDD dengan perhitungan sanksi administratif berupa denda sebesar Rp10.000.000,00 (sepuluh \njuta rupiah). \nb. Kasus No. 6 terkait pelanggaran Anti Tipping-Off dengan perhitungan sanksi administratif berupa denda sebesar Rp5.000.000,00 \n(lima juta rupiah). \nc. Kasus No. 7 terkait pelanggaran LTKM dengan perhitungan sanksi administratif berupa denda sebesar Rp37.600.000,00 (tiga \npuluh tujuh juta enam ratus ribu rupiah). \nBerdasarkan perhitungan di atas, penyelenggara dapat dikenakan sanksi administratif berupa denda sebesar Rp52.600.000,00 (lima \npuluh dua juta enam ratus ribu rupiah). Selanjutnya, berdasarkan Pasal 39 ayat (4) PADG APU, PPT, dan PPPSPM, sanksi \nadministratif berupa denda paling banyak sebesar 10% (sepuluh persen) dari modal disetor yaitu 10% (sepuluh persen) dikali dengan \nRp500.000.000,00 (lima ratus juta rupiah), yaitu Rp50.000.000,00 (lima puluh juta rupiah). Dengan demikian, PT DEF dikenakan \nsanksi administratif berupa denda sebesar Rp50.000.000,00 (lima puluh juta rupiah).  \n \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \n \n \n TTD \n \n \n \n \n \n    FILIANINGSIH HENDARTA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \n \n\n\n \n \nLAMPIRAN \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR  15 TAHUN 2025 \nTANGGAL 30 JUNI 2025 \nTENTANG \nPENERAPAN ANTI PENCUCIAN UANG, PENCEGAHAN PENDANAAN TERORISME, DAN PENCEGAHAN \nPENDANAAN PROLIFERASI SENJATA PEMUSNAH MASSAL BAGI PIHAK YANG DIATUR DAN DIAWASI \nOLEH BANK INDONESIA \n \n \nA. TABEL CONTOH PERHITUNGAN SANKSI ADMINISTRATIF BERUPA DENDA  \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nCustomer Due Diligence (CDD) \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nterdapat kelemahan penerapan CDD yang diakibatkan \nkarena Penyelenggara tidak meminta dokumen identitas, \natau tidak melakukan verifikasi, atau tidak melakukan \npemantauan \nsecara \nberkesinambungan, \natau \ntidak \nmemahami maksud dan tujuan transaksi terhadap 25 (dua \npuluh lima) pengguna jasa. \nHal tersebut melanggar Peraturan Bank Indonesia Nomor 10 \nTahun 2024 tentang Penerapan Anti Pencucian Uang, \nPencegahan \nPendanaan \nTerorisme, \ndan \nPencegahan \nPendanaan Proliferasi Senjata Pemusnah Massal Bagi Pihak \nyang Diatur dan Diwasi oleh Bank Indonesia (PBI APU, PPT, \ndan PPPSPM) yaitu:  \na. Pasal 18 ayat (2), Pasal 19 ayat (2) terkait kewajiban \npenyelenggara melakukan identifikasi; \nb. Pasal 22 ayat (2) terkait kewajiban penyelenggara \nmelakukan verifikasi; \nc. Pasal 29 terkait kewajiban penyelenggara melakukan \npemantauan secara berkesinambungan; atau \n \nBerdasarkan Pasal 39 ayat (3) Peraturan Anggota \nDewan Gubernur Nomor 15 Tahun 2025 tentang \nPenerapan \nAnti \nPencucian \nUang, Pencegahan \nPendanaan Terorisme, dan Pencegahan Pendanaan \nProliferasi Senjata Pemusnah Massal Bagi Pihak \nyang Diatur dan Diwasi oleh Bank Indonesia (PADG \nAPU, PPT, dan PPPSPM), Penyelenggara dikenakan \nsanksi administratif berupa denda sebesar:  \na. Rp1.000.000,00 (satu juta rupiah dikali dengan \n25 (dua puluh lima) pengguna jasa, yaitu sebesar \nRp25.000.000,00 (dua puluh lima juta rupiah).  \nb. Dalam hal kedua puluh lima pengguna jasa \ndimaksud melakukan transaksi masing-masing \n2 (dua) kali, maka total denda yang dikenakan \nadalah Rp25.000.000 dikali dengan 2 (dua) \ntransaksi, yaitu sebesar Rp50.000.000. \n \n \nSanksi \nadministratif \nberupa \ndenda \npenerapan \nCDD  \ndikenakan per pengguna jasa  \ndan/atau per Transaksi. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \n Pasal 32 ayat (1) terkait kewajiban penyelenggara memahami \nmaksud dan tujuan transaksi. \nEnhanced Due Diligence (EDD) \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nPenyelenggara tidak melakukan Enhanced Due Diligence \n(EDD) terhadap 10 (sepuluh) transaksi yang berasal dari \nnegara yang masuk dalam daftar high-risk jurisdictions sesuai \npublikasi oleh Financial Action Task Force (FATF) atau \norganisasi lain; atau merupakan Politically Exposed Person \n(PEP), keluarga PEP, atau pihak terkait dengan PEP (close \nassociates); atau; memiliki bidang usaha yang berisiko tinggi \n(high risk business); atau patut diduga merupakan pihak yang \ntidak memiliki izin dari otoritas yang berwenang untuk \nmelakukan kegiatan usaha sebagai penyedia jasa keuangan; \natau menunjuk pihak ketiga untuk membuka hubungan \nusaha atau melakukan Transaksi; atau menggunakan \nProduk atau jasa dan Transaksi yang termasuk kategori \nberisiko tinggi; Jaringan distribusi yang termasuk kriteria \nberisiko tinggi. Kriteria berisiko tinggi dapat mengacu dari \nsumber yang independen dan terpercaya antara lain Bank \nIndonesia, PPATK dan otoritas yang berwenang, termasuk \nhasil National Risk Assesment (NRA) dan Sectoral Risk \nAssesment (SRA). \nHal tersebut melanggar PBI APU, PPT, dan PPPSPM yaitu: \na. Pasal 33 terkait kewajiban EDD terhadap pengguna \njasa yg berasal dari high-risk jurisdictions; \nb. Pasal 35 ayat (1) terkait kewajiban pelaksanaan CDD \nterhadap PEP; \nc. Pasal \nterkait \nkewajiban \npelaksanaan \nCDD \nterhadap keluarga atau pihak terkait PEP; \nd. Pasal 34 ayat (1) terkait kewajiban EDD terhadap \npihak yang patut diduga tidak memiliki izin dari \notoritas  untuk melakukan kegiatan usaha sebagai \npenyedia jasa keuangan; atau \ne. Pasal 32 ayat (1) terkait kewajiban EDD terhadap \npengguna jasa dengan bidang usaha yang berisiko \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar Rp1.000.000,00 \n(satu juta rupiah) dikali dengan 10 (sepuluh) \ntransaksi, yaitu sebesar Rp10.000.000,00 (sepuluh \njuta rupiah) \n \n \nSanksi administratif berupa \ndenda terkait EDD dikenakan \nper transaksi. \n \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \ntinggi, produk atau jasa dan transaksi yang termasuk \nkategori berisiko tinggi, atau jaringan distribusi yang \ntermasuk kriteria berisiko tinggi.   \nTindak Lanjut Customer Due Diligence (CDD) \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nPenyelenggara: \na. memproses 5 (lima) transaksi yang dilakukan oleh \nPengguna Jasa A tanggal 28 Mei 2025, meskipun \ndiketahui bahwa sebelumnya terdapat surat dari Penyidik \nPOLRI tanggal 20 Mei 2025 untuk meminta Penyelenggara \nagar melakukan penundaan transaksi yang dilakukan \noleh Pengguna Jasa tersebut disebabkan adanya indikasi \nterkait penampungan transaksi hasil dari tindak pidana; \natau Pengguna Jasa melakukan Transaksi yang diketahui \ndan/atau patut diduga menggunakan harta kekayaan \nyang berasal dari hasil tindak pidana; atau calon \nPengguna Jasa atau Pengguna Jasa diketahui dan/atau \npatut diduga memiliki rekening untuk menampung harta \nkekayaan yang berasal dari hasil tindak pidana; atau \ncalon Pengguna Jasa atau Pengguna Jasa diketahui \ndan/atau patut diduga menggunakan dokumen palsu. \n \nHal tersebut melanggar Pasal 37 ayat (3) PBI APU, PPT, \ndan \nPPPSPM, \nyaitu \nterkait \nkewajiban \npenundaan \nTransaksi \nsecara \nseketika \nsetelah \nmenerima \nperintah/permintaan penundaan transaksi dari penyidik, \npenuntut umum, atau hakim. \n \nb. memproses 30 (tiga puluh) transaksi oleh Pengguna Jasa \nB yang diketahui/patut diduga bertindak atas nama \nBeneficial Owner fiktif untuk menghindari keterkaitan \ndengan Beneficial Owner sebenarnya yang sedang \nmenjalani proses hukum; atau calon Pengguna Jasa, \nPengguna \nJasa, \ndan/atau \nBeneficial \nOwner \ntidak \nmemenuhi ketentuan; atau Penyelenggara meragukan \natau tidak dapat meyakini kebenaran identitas dan \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nperhitungan \npengenaan \nsanksi \nadministratif berupa denda sbb: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n5 (lima) transaksi, yaitu sebesar Rp5.000.000,00 \n(lima juta rupiah). \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n(tiga \npuluh) \ntransaksi, \nyaitu \nsebesar \nRp30.000.000,00 (tiga puluh juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp35.000.000,00 (tiga puluh lima juta \nrupiah). \n \n \nSanksi \nadministratif \nberupa \ndenda terkait tindak lanjut CDD \ndikenakan per transaksi. \n \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \ninformasi calon Pengguna Jasa, Pengguna Jasa, dan/atau \nBeneficial \nOwner; \natau \nberdasarkan \npemantauan \nberkesinambungan, terdapat Transaksi yang tidak sesuai \ndengan pengetahuan tentang Pengguna Jasa, serta profil \nbisnis dan profil risiko Pengguna Jasa; atau Pengguna \nJasa tidak dapat memenuhi informasi yang dibutuhkan \nPenyelenggara untuk memahami maksud dan tujuan \nhubungan usaha dan/atau Transaksi, serta sumber dana; \natau memiliki sumber dana Transaksi yang diketahui \ndan/atau patut diduga berasal dari hasil tindak pidana. \n \nHal tersebut melanggar Pasal 38 ayat (1) PBI APU, PPT, \ndan PPPSPM, yaitu  terkait kewajiban Penyelenggara \nuntuk menolak melakukan hubungan usaha, menolak \nTransaksi, membatalkan Transaksi, dan/atau menutup \nhubungan usaha dalam hal Penyelenggara mengetahui \natau patut menduga bahwa calon Pengguna Jasa, \nPengguna Jasa, dan/atau Beneficial Owner menggunakan \nnama fiktif dan/atau anonym. \n \nPenatausahaan Dokumen \nHasil pemeriksaan Bank Indonesia menunjukkan bahwa \nPenyelenggara tidak memenuhi kewajibannya melakukan \npenatausahaan dokumen terkait dengan data Pengguna Jasa \natau Transaksi keuangan Pengguna Jasa dengan jangka \nwaktu sesuai ketentuan yang berlaku, dengan rincian \nsebagai berikut: \na. tidak melakukan penatausahaan dokumen atas 10 \n(sepuluh) transaksi oleh Pengguna Jasa. \nb. tidak melakukan penatausahaan atas data 5 (lima)  \nPengguna Jasa yaitu identitas Pengguna Jasa termasuk \ndokumen pendukungnya; atau bukti verifikasi data \nPengguna Jasa; atau hasil pemantauan dan analisis yang \ntelah dilakukan; atau korespondensi dengan Pengguna \nJasa, yang menyebabkan informasi identitas pengguna \njasa tidak lengkap. \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nperhitungan \npengenaan \nsanksi \nadministratif berupa denda sbb: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n(sepuluh) \ntransaksi, \nyaitu \nsebesar \nRp10.000.000,00 (sepuluh juta rupiah). \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n(lima) \npengguna \njasa, \nyaitu \nsebesar \nRp5.000.000,00 (lima juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp15.000.000,00 (lima belas juta rupiah). \n \n \nSanksi \nadministratif \nberupa \ndenda \nterkait \npenatausahaan \ndokumen \ndikenakan \nper \ntransaksi atau per Pengguna \nJasa. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nHal tersebut melanggar Pasal 48 ayat (1) PBI APU, PPT, dan \nPPPSPM, yaitu terkait kewajiban Penyelenggara  melakukan \npenatausahaan dokumen terkait pengguna jasa serta \ntransaksi. \nPenanganan Daftar Terduga Teroris dan Organisasi \nTeroris (DTTOT) dan Daftar Pendanaan Proliferasi Senjata \nPemusnah Massal (DPPSPM) \nHasil \npemeriksaan \nPengawas \nmenunjukkan \nbahwa \nPenyelenggara: \na. Tidak menatausahakan atau menginikan DTTOT serta \nDPPSPM sesuai dengan 2 (dua) surat pemberitahuan \npencantuman identitas orang/korporasi dalam DTTOT \nserta DPPSPM yang disampaikan oleh otoritas yang \nberwenang. \nb. Tidak melakukan pemblokiran secara serta merta dan \ntanpa pemberitahuan kepada 3 (tiga) pengguna jasa yang \ntercantum dalam DTTOT atau DPPSPM terkini sehingga \ntetap melakukan pemrosesan terhadap 15 (lima belas) \ntransaksi dari 3 (tiga) pengguna jasa dimaksud. \nHal tersebut melanggar Pasal 47 ayat (1) PBI APU, PPT, dan \nPPPSPM yaitu terkait kewajiban Penyelenggara untuk \nmenatausahakan atau menginikan DTTOT & DPPSPM, serta \nmelakukan pemblokiran serta merta terhadap pengguna jasa \nyang tercantum dalam DTTOT & DPPSPM terkini.  \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPPSPM, \nperhitungan \npengenaan \nsanksi \nadministratif berupa denda sebagai berikut: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n2 (dua) surat pemberitahuan pencantuman \nidentitas orang/korporasi dalam DTTOT serta \nDPPSPM, yaitu sebesar Rp2.000.000,00 (dua \njuta rupiah). \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n15 (lima belas) transaksi pengguna jasa yang \ntercantum dalam DTTOT atau DPPSPM, yaitu \nsebesar \nRp15.000.000,00 \n(lima \nbelas \njuta \nrupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp17.000.000,00 (tujuh belas juta rupiah). \n \n \nSanksi \nadministratif \nberupa \ndenda terkait penanganan DTTOT  \ndan DPPSPM dikenakan per surat \npemberitahuan \natau \nper \ntransaksi yang dilakukan oleh \nPengguna Jasa. \nAnti Tipping-Off \nHasil pemeriksaan menunjukkan bahwa: \na. Penyelenggara; atau Direksi; atau Dewan Komisaris; atau \npengurus; \natau \nPejabat \nEksekutif; \natau \npegawai \nPenyelenggara yang memberitahukan kepada 2 (dua) \nPengguna Jasa atau pihak lain mengenai laporan \nTransaksi Keuangan Mencurigakan dari pengguna jasa \ntersebut \nyang \nsedang \ndisusun; \natau \nyang \ntelah \ndisampaikan kepada PPATK. \n \nBerdasarkan Pasal 39 ayat (3) PADG APU, PPT, dan \nPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar: \na. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n2 (dua) pengguna jasa, yaitu sebesar Rp \n2.000.000 (dua juta rupiah); \nb. Rp1.000.000,00 (satu juta rupiah) dikali dengan \n3 (tiga) pengguna jasa, yaitu sebesar Rp \n3.000.000 (tiga juta rupiah); \n \nSanksi administratif berupa \ndenda terkait Anti Tipping-Off \ndikenakan per Pengguna Jasa. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nb. Penyelenggara; atau Direksi; atau Dewan Komisaris; atau \npengurus; \natau \nPejabat \nEksekutif; \natau \npegawai \nPenyelenggara yang memberitahukan kepada 3 (tiga) \nPengguna Jasa atau pihak lain mengenai informasi dalam \npelaksanaan CDD dan EDD.  \nHal tersebut melanggar PBI APU, PPT, dan PPPSPM yaitu: \na. Pasal 52 ayat (1) terkait kewajiban menjaga kerahasiaan \nmengenai laporan Transaksi Keuangan Mencurigakan \nyang sedang disusun;  \nb. Pasal 52 ayat (2) terkait Kewajiban menjaga kerahasiaan \ninformasi dalam pelaksanaan CDD dan EDD. \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp5.000.000,00 (lima juta rupiah). \n \nLaporan Transaksi Keuangan Mencurigakan  \nHasil pemeriksaan Pengawas menunjukkan bahwa selama \ntahun 2024 terdapat 20 (dua puluh) transaksi keuangan \nmencurigakan. Temuan tersebut telah disepakati oleh Direksi \nPenyelenggara pada saat exit meeting tanggal 7 Mei 2025 \nuntuk dilaporkan kepada PPATK sebagai laporan Transaksi \nKeuangan Mencurigakan. Berdasarkan koordinasi dengan \nPPATK, diketahui bahwa: \na. Penyelenggara telah menyampaikan 8 (delapan) transaksi \nkeuangan mencurigakan sebagai LTKM kepada PPATK \npada tanggal 16 Mei 2025 (terlambat 2 (dua) hari kerja). \nKeterangan: tanggal 12 dan 13 Mei 2025 merupakan \ntanggal merah karena perayaan Waisak dan cuti bersama \nWaisak.   \nb. Sampai dengan tanggal 26 Juni 2025 (melebihi 30 hari \nkerja \nsetelah \nexit \nmeeting), \nPenyelenggara \nbelum \nmenyampaikan 12 (dua belas) transaksi keuangan \nmencurigakan sebagai laporan Transaksi Keuangan \nMencurigakan terkait transaksi tersebut kepada PPATK. \nHal tersebut melanggar Pasal 23 dan Pasal 25 UU TPPU jo. \nPasal 61 dan 62 PBI APU, PPT, dan PPPSPM, Pasal 38 Perka \nPPATK \nNo.1 \nTahun \nyaitu \nterkait \nkewajiban \nPenyelenggara menyampaikan laporan Transaksi Keuangan \nMencurigakan kepada PPATK paling lama 3 (tiga) hari kerja \n \nBerdasarkan Pasal 39 ayat (1) PADG APU, PPT, dan \nPPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar: \na. Rp100.000,00 \n(seratus \nribu \nrupiah) \ndikali \ndengan 2 (dua) hari kerja keterlambatan dan \ndikali 8 (delapan) transaksi, yaitu sebesar \nRp1.600.000,00 (satu juta enam ratus ribu \nrupiah). \nb. Rp3.000.000,00 (tiga juta rupiah) dikali dengan \n(dua \nbelas) \ntransaksi, \nyaitu \nsebesar \nRp36.000.000,00 (tiga puluh enam juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar Rp37.600.000,00 (tiga puluh tujuh juta \nenam ratus ribu rupiah). \n \n \n \n \nSanksi \nadministratif \nberupa \ndenda \nterkait \nkewajiban \npelaporan \nkepada \nPPATK \ndikenakan per transaksi. \n\n\n \n \nNo. \nJenis Pelanggaran \nPerhitungan Sanksi \nPenjelasan \nterhitung sejak penyelenggara mengetahui adanya unsur \nTransaksi Keuangan mencurigakan. \nLaporan Transaksi Keuangan Tunai (LTKT) \nHasil pemeriksaan Pengawas menunjukkan bahwa selama \nperiode Maret 2023 sd. Maret 2024 terdapat sebanyak 6 \n(enam) transaksi keuangan tunai yang tidak disampaikan \nkepada PPATK sebagai berikut: \na. Pengguna jasa I seb. Rp 5.000.000.000,00 (lima miliar \nrupiah) pada tanggal 1 Maret 2023.  \nb. Pengguna jasa J seb. Rp 15.000.000.000,00 (lima belas \nmiliar rupiah) pada tanggal 5 Juni 2023.  \nc. Pengguna jasa K seb. Rp 750.000.000,00 (tujuh ratus lima \npuluh juta rupiah) pada tanggal 16 Agustus 2023  \nd. Pengguna jasa L seb. Rp 2.000.000.000,00 (dua miliar \nrupiah) pada tanggal 12 Oktober 2023 \ne. Pengguna jasa M seb. Rp 7.500.000.000,00 (tujuh miliar \nlima ratus juta rupiah) pada tanggal 8 Januari 2024 \nf. \nPengguna jasa N seb. Rp 15.000.000.000,00 (lima belas \nmiliar rupiah) pada tanggal 1 Maret 2024 \nDisamping itu, terdapat juga sebanyak 1 (satu) transaksi \nkeuangan tunai yang terlambat dilaporkan kepada PPATK, \nyaitu \ntransaksi \ntunai \noleh \nPengguna \nJasa \nY \nseb. \nRp510.000.000,00 (lima ratus sepuluh juta rupiah) pada \ntanggal 14 Februari 2024 yang dilaporkan ke PPATK pada \ntanggal 6 Maret 2024 (terlambat 1 hari kerja). \nHal tersebut melanggar Pasal 23 dan Pasal 25 UU TPPU jo. \nPasal 61 dan 62 PBI APU, PPT, dan PPPSPM, Pasal 39 Perka \nPPATK No. 1 Tahun 2021 yaitu terkait  kewajiban \nPenyelenggara menyampaikan laporan Transaksi keuangan \ntunai kepada PPATK paling lama 14 hari kerja terhitung sejak \nsetelah tanggal transaksi. \n \nBerdasarkan Pasal 39 ayat (1) PADG APU, PPT, dan \nPPPSPM, \nPenyelenggara \ndikenakan \nsanksi \nadministratif berupa denda sebesar: \na. Rp3.000.000,00 (tiga juta rupiah) dikali dengan \n6 (enam) transaksi,  yaitu Rp18.000.000,00 \n(delapan belas juta rupiah); \nb. Rp100.000,00 (seratus ribu rupiah) dikali 1 \n(satu) hari kerja keterlambatan dan dikali 1 \n(satu) transaksi, yaitu Rp100.000,00. \nBerdasarkan perhitungan di atas, penyelenggara \ndikenakan sanksi administratif berupa denda total \nsebesar \nRp18.100.000,00 \n(delapan \nbelas \njuta \nseratus ribu rupiah). \n \n \n \n \nSanksi \nadministratif \nberupa \ndenda \nterkait \nkewajiban \npelaporan \nkepada \nPPATK \ndikenakan per transaksi. \n \n \n\n\n \n \n \nB. CONTOH PERHITUNGAN SANKSI ADMINISTRATIF BERUPA DENDA PER TINDAKAN PENGAWASAN \n \n1. PT ABC \n \nBank Indonesia melakukan pemeriksaan terhadap Penyelenggara Jasa Sistem Pembayaran PT ABC posisi 31 Mei 2024. Berdasarkan \nanggaran dasar, PT ABC memiliki modal disetor sebesar Rp500.000.000,00 (lima ratus juta rupiah). Terdapat 3 (tiga) temuan yang \ntelah disepakati pada exit meeting tanggal 16 Juli 2024, sebagai berikut:    \na. Kasus No. 1a terkait CDD dengan perhitungan sanksi administratif berupa denda sebesar Rp25.000.000,00 (dua puluh lima juta \nrupiah). \nb. Kasus No. 5 terkait pelanggaran Penanganan DTTOT dan DPPSPM dengan perhitungan sanksi administratif berupa denda \nsebesar Rp17.000.000,00 (tujuh belas juta rupiah). \nBerdasarkan perhitungan di atas, penyelenggara dapat dikenakan sanksi administratif berupa denda sebesar Rp42.000.000,00 \n(empat puluh dua juta rupiah). Selanjutnya, berdasarkan pasal 39 ayat (4) PADG APU, PPT, dan PPPSPM,  sanksi administratif \nberupa denda paling banyak sebesar 10% (sepuluh persen) dari modal disetor yaitu 10% (sepuluh persen) dikali dengan \nRp500.000.000,00 (lima ratus juta rupiah), yaitu Rp50.000.000,00 (lima puluh juta rupiah). Dengan demikian, PT ABC dikenakan \nsanksi administratif berupa denda sebesar Rp42.000.000,00 (empat puluh dua juta rupiah).  \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n2. PT DEF \n \nBank Indonesia melakukan pemeriksaan terhadap Penyelenggara Jasa Sistem Pembayaran PT DEF posisi Desember 2024. \nBerdasarkan anggaran dasar, PT DEF memiliki modal disetor sebesar Rp500.000.000,00 (lima ratus juta rupiah). Terdapat 3 (tiga) \ntemuan yang telah disepakati pada exit meeting tanggal 7 Mei 2025, sebagai berikut: \na. Kasus No. 2 terkait pelanggaran EDD dengan perhitungan sanksi administratif berupa denda sebesar Rp10.000.000,00 (sepuluh \njuta rupiah). \nb. Kasus No. 6 terkait pelanggaran Anti Tipping-Off dengan perhitungan sanksi administratif berupa denda sebesar Rp5.000.000,00 \n(lima juta rupiah). \nc. Kasus No. 7 terkait pelanggaran LTKM dengan perhitungan sanksi administratif berupa denda sebesar Rp37.600.000,00 (tiga \npuluh tujuh juta enam ratus ribu rupiah). \nBerdasarkan perhitungan di atas, penyelenggara dapat dikenakan sanksi administratif berupa denda sebesar Rp52.600.000,00 (lima \npuluh dua juta enam ratus ribu rupiah). Selanjutnya, berdasarkan Pasal 39 ayat (4) PADG APU, PPT, dan PPPSPM, sanksi \nadministratif berupa denda paling banyak sebesar 10% (sepuluh persen) dari modal disetor yaitu 10% (sepuluh persen) dikali dengan \nRp500.000.000,00 (lima ratus juta rupiah), yaitu Rp50.000.000,00 (lima puluh juta rupiah). Dengan demikian, PT DEF dikenakan \nsanksi administratif berupa denda sebesar Rp50.000.000,00 (lima puluh juta rupiah).  \n \n \n \n \nANGGOTA DEWAN GUBERNUR \n \n \n \n \n \n TTD \n \n \n \n \n \n    FILIANINGSIH HENDARTA"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 84,
+  "total_ayat": 177,
+  "total_karakter": 84754,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

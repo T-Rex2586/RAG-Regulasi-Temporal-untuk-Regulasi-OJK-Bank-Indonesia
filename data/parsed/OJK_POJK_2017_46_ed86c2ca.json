@@ -1,0 +1,683 @@
+{
+  "doc_id": "OJK_POJK_2017_46_ed86c2ca",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "46",
+  "tahun": "2017",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 46/POJK.03/2017 tentang Pelaksanaan Fungsi Kepatuhan Bank Umum",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "12 Juli 2017",
+  "tanggal_berlaku": "diundangkan (12 Juli 2017)",
+  "diundangkan_pada": "12 Juli 2017",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "FUNGSI KEPATUHAN BANK"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "DIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SATUAN KERJA KEPATUHAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "ALAMAT PENYAMPAIAN PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud \ndengan: \n1.  Bank adalah Bank Umum sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, dan Bank Umum Syariah \nsebagaimana dimaksud dalam Undang-Undang Nomor 21 \nTahun 2008 tentang Perbankan Syariah. \n2.  Direksi adalah: \na.     bagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb.     bagi Bank berbentuk badan hukum: \n1)  Perusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 23 \nTahun 2014 tentang Pemerintahan Daerah \nsebagaimana \ntelah \nbeberapa \nkali \ndiubah \nterakhir dengan Undang-Undang Nomor 9 \nTahun 2015 tentang Perubahan Kedua atas \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah; \n2)  Perusahaan Daerah adalah direksi pada Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsebagaimana \ndimaksud \ndalam Undang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah beberapa kali diubah terakhir dengan \n\n\n \nUndang-Undang Nomor 9 Tahun 2015 tentang \nPerubahan \nKedua \natas \nUndang-Undang  \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \nc. \nbagi Bank berbentuk badan hukum Koperasi adalah \npengurus sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd.    bagi kantor cabang dari bank yang berkedudukan di \nluar negeri adalah pimpinan kantor cabang dari \nbank yang berkedudukan di luar negeri yaitu \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang. \n3. \nDewan Komisaris adalah: \na.  \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 2007 tentang Perseroan Terbatas;  \nb.  bagi Bank berbentuk badan hukum: \n1)   Perusahaan \nUmum \nDaerah \nadalah \ndewan \npengawas \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan \nDaerah \nsebagaimana \ntelah \nbeberapa kali diubah terakhir dengan Undang-\nUndang \nNomor \nTahun \ntentang \nPerubahan \nKedua \natas \nUndang-Undang  \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \n2)  Perusahaan Perseroan Daerah adalah komisaris \nsebagaimana dimaksud dalam Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah beberapa kali diubah \nterakhir dengan Undang-Undang Nomor 9  \nTahun 2015 tentang Perubahan Kedua atas \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah; \n\n\n \n3)  Perusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsebagaimana \ndimaksud \ndalam Undang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 9 Tahun 2015 tentang \nPerubahan \nKedua \natas \nUndang-Undang  \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \nc.  \nbagi Bank berbentuk badan hukum Koperasi adalah \npengawas sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \n \ntentang \nPerkoperasian;  \nd.  bagi kantor cabang dari bank yang berkedudukan di \nluar negeri adalah pihak yang ditunjuk untuk \nmelaksanakan fungsi pengawasan.  \n4.  Prinsip Syariah adalah prinsip syariah sebagaimana \ndimaksud dalam Undang-Undang Nomor 21 Tahun 2008 \ntentang Perbankan Syariah. \n5.  Budaya Kepatuhan adalah nilai, perilaku, dan tindakan \nyang \nmendukung \nterciptanya \nkepatuhan \nterhadap \nketentuan Otoritas Jasa Keuangan dan ketentuan \nperaturan \nperundang-undangan, \ntermasuk \nPrinsip \nSyariah bagi bank umum syariah dan unit usaha syariah. \n6.  Fungsi Kepatuhan adalah serangkaian tindakan atau \nlangkah-langkah yang bersifat preventif (ex-ante) untuk \nmemastikan bahwa kebijakan, ketentuan, sistem, dan \nprosedur, serta kegiatan usaha yang dilakukan oleh Bank \ntelah sesuai dengan ketentuan Otoritas Jasa Keuangan \ndan \nketentuan \nperaturan \nperundang-undangan, \ntermasuk Prinsip Syariah bagi bank umum syariah dan \nunit usaha syariah, serta memastikan kepatuhan Bank \nterhadap komitmen yang dibuat oleh Bank kepada \nOtoritas Jasa Keuangan dan/atau otoritas pengawas lain \nyang berwenang. \n\n\n \n7.  Risiko Kepatuhan adalah risiko yang timbul akibat Bank \ntidak mematuhi dan/atau tidak melaksanakan ketentuan \nperaturan \nperundang-undangan \ntermasuk \nPrinsip \nSyariah bagi bank umum syariah dan unit usaha syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud \ndengan: \n1.  Bank adalah Bank Umum sebagaimana dimaksud dalam \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan sebagaimana telah diubah dengan Undang-\nUndang Nomor 10 Tahun 1998 tentang Perubahan atas \nUndang-Undang \nNomor \nTahun \ntentang \nPerbankan, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, dan Bank Umum Syariah \nsebagaimana dimaksud dalam Undang-Undang Nomor 21 \nTahun 2008 tentang Perbankan Syariah. \n2.  Direksi adalah: \na.     bagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah direksi sebagaimana dimaksud \ndalam Undang-Undang Nomor 40 Tahun 2007 \ntentang Perseroan Terbatas; \nb.     bagi Bank berbentuk badan hukum: \n1)  Perusahaan Umum Daerah atau Perusahaan \nPerseroan Daerah adalah direksi sebagaimana \ndimaksud dalam Undang-Undang Nomor 23 \nTahun 2014 tentang Pemerintahan Daerah \nsebagaimana \ntelah \nbeberapa \nkali \ndiubah \nterakhir dengan Undang-Undang Nomor 9 \nTahun 2015 tentang Perubahan Kedua atas \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah; \n2)  Perusahaan Daerah adalah direksi pada Bank \nyang \nbelum \nberubah \nbentuk \nmenjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsebagaimana \ndimaksud \ndalam Undang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah beberapa kali diubah terakhir dengan \n\n\n \nUndang-Undang Nomor 9 Tahun 2015 tentang \nPerubahan \nKedua \natas \nUndang-Undang  \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \nc. \nbagi Bank berbentuk badan hukum Koperasi adalah \npengurus sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \ntentang \nPerkoperasian; \nd.    bagi kantor cabang dari bank yang berkedudukan di \nluar negeri adalah pimpinan kantor cabang dari \nbank yang berkedudukan di luar negeri yaitu \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang. \n3. \nDewan Komisaris adalah: \na.  \nbagi Bank berbentuk badan hukum Perseroan \nTerbatas adalah dewan komisaris sebagaimana \ndimaksud \ndalam \nUndang-Undang \nNomor \nTahun 2007 tentang Perseroan Terbatas;  \nb.  bagi Bank berbentuk badan hukum: \n1)   Perusahaan \nUmum \nDaerah \nadalah \ndewan \npengawas \nsebagaimana \ndimaksud \ndalam \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan \nDaerah \nsebagaimana \ntelah \nbeberapa kali diubah terakhir dengan Undang-\nUndang \nNomor \nTahun \ntentang \nPerubahan \nKedua \natas \nUndang-Undang  \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \n2)  Perusahaan Perseroan Daerah adalah komisaris \nsebagaimana dimaksud dalam Undang-Undang \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah sebagaimana telah beberapa kali diubah \nterakhir dengan Undang-Undang Nomor 9  \nTahun 2015 tentang Perubahan Kedua atas \nUndang-Undang Nomor 23 Tahun 2014 tentang \nPemerintahan Daerah; \n\n\n \n3)  Perusahaan Daerah adalah pengawas pada \nBank yang belum berubah bentuk menjadi \nPerusahaan Umum Daerah atau Perusahaan \nPerseroan \nDaerah \nsebagaimana \ndimaksud \ndalam Undang-Undang Nomor 23 Tahun 2014 \ntentang Pemerintahan Daerah sebagaimana \ntelah beberapa kali diubah terakhir dengan \nUndang-Undang Nomor 9 Tahun 2015 tentang \nPerubahan \nKedua \natas \nUndang-Undang  \nNomor 23 Tahun 2014 tentang Pemerintahan \nDaerah; \nc.  \nbagi Bank berbentuk badan hukum Koperasi adalah \npengawas sebagaimana dimaksud dalam Undang-\nUndang \nNomor \nTahun \n \ntentang \nPerkoperasian;  \nd.  bagi kantor cabang dari bank yang berkedudukan di \nluar negeri adalah pihak yang ditunjuk untuk \nmelaksanakan fungsi pengawasan.  \n4.  Prinsip Syariah adalah prinsip syariah sebagaimana \ndimaksud dalam Undang-Undang Nomor 21 Tahun 2008 \ntentang Perbankan Syariah. \n5.  Budaya Kepatuhan adalah nilai, perilaku, dan tindakan \nyang \nmendukung \nterciptanya \nkepatuhan \nterhadap \nketentuan Otoritas Jasa Keuangan dan ketentuan \nperaturan \nperundang-undangan, \ntermasuk \nPrinsip \nSyariah bagi bank umum syariah dan unit usaha syariah. \n6.  Fungsi Kepatuhan adalah serangkaian tindakan atau \nlangkah-langkah yang bersifat preventif (ex-ante) untuk \nmemastikan bahwa kebijakan, ketentuan, sistem, dan \nprosedur, serta kegiatan usaha yang dilakukan oleh Bank \ntelah sesuai dengan ketentuan Otoritas Jasa Keuangan \ndan \nketentuan \nperaturan \nperundang-undangan, \ntermasuk Prinsip Syariah bagi bank umum syariah dan \nunit usaha syariah, serta memastikan kepatuhan Bank \nterhadap komitmen yang dibuat oleh Bank kepada \nOtoritas Jasa Keuangan dan/atau otoritas pengawas lain \nyang berwenang. \n\n\n \n7.  Risiko Kepatuhan adalah risiko yang timbul akibat Bank \ntidak mematuhi dan/atau tidak melaksanakan ketentuan \nperaturan \nperundang-undangan \ntermasuk \nPrinsip \nSyariah bagi bank umum syariah dan unit usaha syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nDireksi \nwajib \nmenumbuhkan \ndan \nmewujudkan \nterlaksananya Budaya Kepatuhan pada semua tingkatan \norganisasi dan kegiatan usaha Bank. \n(2) \nDireksi \nwajib \nmemastikan \nterlaksananya \nFungsi \nKepatuhan Bank. \n(3) \nDewan Komisaris wajib melakukan pengawasan terhadap \npelaksanaan Fungsi Kepatuhan. \n \nBAB II \nFUNGSI KEPATUHAN BANK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Direksi \nwajib \nmenumbuhkan \ndan \nmewujudkan \nterlaksananya Budaya Kepatuhan pada semua tingkatan \norganisasi dan kegiatan usaha Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Direksi \nwajib \nmemastikan \nterlaksananya \nFungsi \nKepatuhan Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dewan Komisaris wajib melakukan pengawasan terhadap \npelaksanaan Fungsi Kepatuhan. \n \nBAB II \nFUNGSI KEPATUHAN BANK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "FUNGSI KEPATUHAN BANK",
+      "teks_lengkap": "Fungsi Kepatuhan Bank meliputi tindakan untuk:  \na. \nmewujudkan terlaksananya Budaya Kepatuhan pada \nsemua tingkatan organisasi dan kegiatan usaha Bank; \nb.     mengelola Risiko Kepatuhan yang dihadapi oleh Bank; \nc.     memastikan agar kebijakan, ketentuan, sistem, dan \nprosedur  serta kegiatan usaha yang dilakukan oleh Bank \ntelah sesuai dengan ketentuan Otoritas Jasa Keuangan \ndan \nketentuan \nperaturan \nperundang-undangan, \ntermasuk Prinsip Syariah bagi bank umum syariah dan \nunit usaha syariah; dan \nd.     memastikan kepatuhan Bank terhadap komitmen yang \ndibuat oleh Bank kepada Otoritas Jasa Keuangan \ndan/atau otoritas pengawas lain yang berwenang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Fungsi Kepatuhan Bank meliputi tindakan untuk:  \na. \nmewujudkan terlaksananya Budaya Kepatuhan pada \nsemua tingkatan organisasi dan kegiatan usaha Bank; \nb.     mengelola Risiko Kepatuhan yang dihadapi oleh Bank; \nc.     memastikan agar kebijakan, ketentuan, sistem, dan \nprosedur  serta kegiatan usaha yang dilakukan oleh Bank \ntelah sesuai dengan ketentuan Otoritas Jasa Keuangan \ndan \nketentuan \nperaturan \nperundang-undangan, \ntermasuk Prinsip Syariah bagi bank umum syariah dan \nunit usaha syariah; dan \nd.     memastikan kepatuhan Bank terhadap komitmen yang \ndibuat oleh Bank kepada Otoritas Jasa Keuangan \ndan/atau otoritas pengawas lain yang berwenang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "FUNGSI KEPATUHAN BANK",
+      "teks_lengkap": "(1) \nBank wajib memiliki direktur yang membawahkan Fungsi \nKepatuhan dan membentuk satuan kerja kepatuhan. \n(2) \nFungsi Kepatuhan sebagaimana dimaksud dalam Pasal 3 \ndilaksanakan oleh satuan kerja kepatuhan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memiliki direktur yang membawahkan Fungsi \nKepatuhan dan membentuk satuan kerja kepatuhan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Fungsi Kepatuhan sebagaimana dimaksud dalam Pasal 3 \ndilaksanakan oleh satuan kerja kepatuhan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "FUNGSI KEPATUHAN BANK",
+      "teks_lengkap": "Direktur yang membawahkan Fungsi Kepatuhan dan satuan \nkerja kepatuhan pada bank umum syariah dan/atau bank \numum konvensional yang memiliki unit usaha syariah wajib \nberkoordinasi \ndengan \ndewan \npengawas \nsyariah \nterkait \npelaksanaan Fungsi Kepatuhan terhadap Prinsip Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Direktur yang membawahkan Fungsi Kepatuhan dan satuan \nkerja kepatuhan pada bank umum syariah dan/atau bank \numum konvensional yang memiliki unit usaha syariah wajib \nberkoordinasi \ndengan \ndewan \npengawas \nsyariah \nterkait \npelaksanaan Fungsi Kepatuhan terhadap Prinsip Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "FUNGSI KEPATUHAN BANK",
+      "teks_lengkap": "(1) \nDewan Komisaris wajib melakukan pengawasan aktif \nterhadap Fungsi Kepatuhan, dengan: \na. \nmengevaluasi pelaksanaan Fungsi Kepatuhan Bank  \npaling sedikit 2 (dua) kali dalam satu tahun; dan \nb.     memberikan saran untuk meningkatkan kualitas \npelaksanaan Fungsi Kepatuhan Bank. \n(2) \nBerdasarkan \nhasil \nevaluasi \npelaksanaan \nFungsi \nKepatuhan, Dewan Komisaris menyampaikan saran \nuntuk \npeningkatan \nkualitas \npelaksanaan \nFungsi \nKepatuhan kepada direktur utama dengan tembusan \nkepada direktur yang membawahkan Fungsi Kepatuhan. \n \nBAB III \nDIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN \n \nBagian Pertama \nIndependensi dan Kriteria",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dewan Komisaris wajib melakukan pengawasan aktif \nterhadap Fungsi Kepatuhan, dengan: \na. \nmengevaluasi pelaksanaan Fungsi Kepatuhan Bank  \npaling sedikit 2 (dua) kali dalam satu tahun; dan \nb.     memberikan saran untuk meningkatkan kualitas \npelaksanaan Fungsi Kepatuhan Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Berdasarkan \nhasil \nevaluasi \npelaksanaan \nFungsi \nKepatuhan, Dewan Komisaris menyampaikan saran \nuntuk \npeningkatan \nkualitas \npelaksanaan \nFungsi \nKepatuhan kepada direktur utama dengan tembusan \nkepada direktur yang membawahkan Fungsi Kepatuhan. \n \nBAB III \nDIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN \n \nBagian Pertama \nIndependensi dan Kriteria"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN",
+      "teks_lengkap": "(1) \nDirektur yang membawahkan Fungsi Kepatuhan wajib \nmemenuhi persyaratan independensi. \n(2) \nDirektur utama dan/atau wakil direktur utama dilarang \nmerangkap jabatan sebagai direktur yang membawahkan \nFungsi Kepatuhan.  \n(3) \nDirektur yang membawahkan Fungsi Kepatuhan dilarang \nmembawahkan fungsi: \na. \nbisnis dan operasional; \nb.    manajemen risiko yang melakukan pengambilan \nkeputusan pada  kegiatan usaha Bank; \n\n\n \nc.    tresuri (treasury); \nd.    keuangan dan akuntansi; \ne.    logistik dan pengadaan barang atau jasa; \nf.    teknologi informasi; dan/atau \ng.    audit intern.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Direktur yang membawahkan Fungsi Kepatuhan wajib \nmemenuhi persyaratan independensi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Direktur utama dan/atau wakil direktur utama dilarang \nmerangkap jabatan sebagai direktur yang membawahkan \nFungsi Kepatuhan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Direktur yang membawahkan Fungsi Kepatuhan dilarang \nmembawahkan fungsi: \na. \nbisnis dan operasional; \nb.    manajemen risiko yang melakukan pengambilan \nkeputusan pada  kegiatan usaha Bank; \n\n\n \nc.    tresuri (treasury); \nd.    keuangan dan akuntansi; \ne.    logistik dan pengadaan barang atau jasa; \nf.    teknologi informasi; dan/atau \ng.    audit intern."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN",
+      "teks_lengkap": "Calon direktur yang membawahkan Fungsi Kepatuhan wajib \nmemiliki integritas dan pengetahuan yang memadai mengenai \nketentuan Otoritas Jasa Keuangan dan ketentuan peraturan \nperundang-undangan. \n \nBagian Kedua \nPengangkatan, Pemberhentian, dan/atau Pengunduran Diri \nDirektur yang Membawahkan Fungsi Kepatuhan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Calon direktur yang membawahkan Fungsi Kepatuhan wajib \nmemiliki integritas dan pengetahuan yang memadai mengenai \nketentuan Otoritas Jasa Keuangan dan ketentuan peraturan \nperundang-undangan. \n \nBagian Kedua \nPengangkatan, Pemberhentian, dan/atau Pengunduran Diri \nDirektur yang Membawahkan Fungsi Kepatuhan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN",
+      "teks_lengkap": "(1) \nPengangkatan, pemberhentian, dan/atau pengunduran \ndiri direktur yang membawahkan Fungsi Kepatuhan \nmengacu \npada \nketentuan \nperaturan \nperundang-\nundangan \nmengenai \nbank \numum \ndan \nketentuan \nperaturan perundang-undangan mengenai bank umum \nsyariah. \n(2) \nDalam \nhal \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan  berhalangan sementara sehingga tidak dapat \nmenjalankan tugas jabatannya selama lebih dari 7 (tujuh) \nhari kerja berturut-turut, pelaksanaan tugas yang \nbersangkutan wajib digantikan sementara oleh direktur \nlain sampai dengan direktur yang membawahkan Fungsi \nKepatuhan \ndapat \nmenjalankan \ntugas \njabatannya \nkembali. \n(3) \nDalam \nhal \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan berhalangan tetap, mengundurkan diri, atau \nhabis masa jabatannya, Bank wajib segera mengangkat \npengganti \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan, paling lama 6 (enam) bulan setelah direktur \n\n\n \nyang membawahkan Fungsi Kepatuhan berhalangan \ntetap, mengundurkan diri, atau habis masa jabatannya. \n(4) \nSelama \ndalam \nproses \npenggantian \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan \nsebagaimana \ndimaksud pada ayat (3), Bank wajib menunjuk atau \nmenugaskan \nsalah \nsatu \ndirektur \nlainnya \nuntuk \nsementara \nmelaksanakan \ntugas \ndirektur \nyang \nmembawahkan Fungsi Kepatuhan. \n(5) \nDirektur yang melaksanakan tugas sementara sebagai \ndirektur yang membawahkan Fungsi Kepatuhan, baik \nkarena berhalangan sementara sebagaimana dimaksud \npada \nayat \n(2) \nmaupun \nberhalangan \ntetap,  \nmengundurkan \ndiri, \natau \nhabis \nmasa \njabatannya \nsebagaimana dimaksud pada ayat (4), harus memenuhi \nketentuan \nmengenai \nrangkap \njabatan \nsebagaimana \ndimaksud \ndalam \nPasal \nayat \n(2) \ndan \nlarangan \nmembawahkan fungsi-fungsi sebagaimana  dimaksud \ndalam Pasal 7 ayat (3). \n(6) \nDalam hal direktur lain sebagaimana dimaksud pada \nayat (5) tidak ada, jabatan direktur yang membawahkan \nFungsi Kepatuhan dapat dirangkap sementara oleh \ndirektur lain yang membawahkan fungsi sebagaimana \ndimaksud dalam Pasal 7 ayat (3). \n(7) \nPenggantian \nsementara \njabatan \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan \nsebagaimana \ndimaksud pada ayat (2) dan ayat (4) wajib dilaporkan \nkepada Otoritas Jasa Keuangan. \n \nBagian Ketiga \nTugas dan Tanggung Jawab Direktur yang Membawahkan \nFungsi Kepatuhan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengangkatan, pemberhentian, dan/atau pengunduran \ndiri direktur yang membawahkan Fungsi Kepatuhan \nmengacu \npada \nketentuan \nperaturan \nperundang-\nundangan \nmengenai \nbank \numum \ndan \nketentuan \nperaturan perundang-undangan mengenai bank umum \nsyariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan  berhalangan sementara sehingga tidak dapat \nmenjalankan tugas jabatannya selama lebih dari 7 (tujuh) \nhari kerja berturut-turut, pelaksanaan tugas yang \nbersangkutan wajib digantikan sementara oleh direktur \nlain sampai dengan direktur yang membawahkan Fungsi \nKepatuhan \ndapat \nmenjalankan \ntugas \njabatannya \nkembali."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan berhalangan tetap, mengundurkan diri, atau \nhabis masa jabatannya, Bank wajib segera mengangkat \npengganti \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan, paling lama 6 (enam) bulan setelah direktur \n\n\n \nyang membawahkan Fungsi Kepatuhan berhalangan \ntetap, mengundurkan diri, atau habis masa jabatannya."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Selama \ndalam \nproses \npenggantian \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan \nsebagaimana \ndimaksud pada ayat (3), Bank wajib menunjuk atau \nmenugaskan \nsalah \nsatu \ndirektur \nlainnya \nuntuk \nsementara \nmelaksanakan \ntugas \ndirektur \nyang \nmembawahkan Fungsi Kepatuhan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Direktur yang melaksanakan tugas sementara sebagai \ndirektur yang membawahkan Fungsi Kepatuhan, baik \nkarena berhalangan sementara sebagaimana dimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "maupun \nberhalangan \ntetap,  \nmengundurkan \ndiri, \natau \nhabis \nmasa \njabatannya \nsebagaimana dimaksud pada ayat (4), harus memenuhi \nketentuan \nmengenai \nrangkap \njabatan \nsebagaimana \ndimaksud \ndalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "dan \nlarangan \nmembawahkan fungsi-fungsi sebagaimana  dimaksud \ndalam Pasal 7 ayat (3)."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal direktur lain sebagaimana dimaksud pada \nayat (5) tidak ada, jabatan direktur yang membawahkan \nFungsi Kepatuhan dapat dirangkap sementara oleh \ndirektur lain yang membawahkan fungsi sebagaimana \ndimaksud dalam Pasal 7 ayat (3)."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Penggantian \nsementara \njabatan \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan \nsebagaimana \ndimaksud pada ayat (2) dan ayat (4) wajib dilaporkan \nkepada Otoritas Jasa Keuangan. \n \nBagian Ketiga \nTugas dan Tanggung Jawab Direktur yang Membawahkan \nFungsi Kepatuhan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN",
+      "teks_lengkap": "(1) \nTugas dan tanggung jawab direktur yang membawahkan \nFungsi Kepatuhan, wajib paling sedikit: \na.     merumuskan strategi guna mendorong terciptanya \nBudaya Kepatuhan Bank; \n\n\n \nb.     mengusulkan kebijakan kepatuhan atau prinsip-\nprinsip  kepatuhan yang akan ditetapkan oleh \nDireksi; \nc.     menetapkan sistem dan prosedur kepatuhan yang  \ndigunakan \nuntuk \nmenyusun \nketentuan \ndan \npedoman internal Bank; \nd.     memastikan bahwa seluruh kebijakan, ketentuan, \nsistem, dan prosedur, serta kegiatan usaha yang \ndilakukan Bank telah sesuai dengan  ketentuan \nOtoritas Jasa Keuangan dan ketentuan peraturan \nperundang-undangan, termasuk Prinsip Syariah \nbagi bank umum syariah dan unit usaha syariah; \ne.     meminimalkan Risiko Kepatuhan Bank;   \nf.     melakukan tindakan pencegahan agar kebijakan \ndan/atau keputusan yang diambil Direksi Bank atau \npimpinan \nkantor \ncabang \ndari \nbank \nyang \nberkedudukan di luar negeri tidak menyimpang dari  \nketentuan Otoritas Jasa Keuangan dan ketentuan \nperaturan perundang-undangan; dan \ng.     melakukan tugas lain yang terkait dengan Fungsi \nKepatuhan. \n(2) \nTugas dan tanggung jawab sebagaimana dimaksud pada \nayat (1) tidak menghilangkan hak dan kewajiban direktur \nyang membawahkan Fungsi Kepatuhan sebagai anggota \nDireksi Bank sebagaimana diatur dalam Undang-Undang \nmengenai Perseroan Terbatas, dalam hal diperlukan \nkeputusan terhadap perbuatan tertentu dari seluruh \nanggota Direksi Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Tugas dan tanggung jawab direktur yang membawahkan \nFungsi Kepatuhan, wajib paling sedikit: \na.     merumuskan strategi guna mendorong terciptanya \nBudaya Kepatuhan Bank; \n\n\n \nb.     mengusulkan kebijakan kepatuhan atau prinsip-\nprinsip  kepatuhan yang akan ditetapkan oleh \nDireksi; \nc.     menetapkan sistem dan prosedur kepatuhan yang  \ndigunakan \nuntuk \nmenyusun \nketentuan \ndan \npedoman internal Bank; \nd.     memastikan bahwa seluruh kebijakan, ketentuan, \nsistem, dan prosedur, serta kegiatan usaha yang \ndilakukan Bank telah sesuai dengan  ketentuan \nOtoritas Jasa Keuangan dan ketentuan peraturan \nperundang-undangan, termasuk Prinsip Syariah \nbagi bank umum syariah dan unit usaha syariah; \ne.     meminimalkan Risiko Kepatuhan Bank;   \nf.     melakukan tindakan pencegahan agar kebijakan \ndan/atau keputusan yang diambil Direksi Bank atau \npimpinan \nkantor \ncabang \ndari \nbank \nyang \nberkedudukan di luar negeri tidak menyimpang dari  \nketentuan Otoritas Jasa Keuangan dan ketentuan \nperaturan perundang-undangan; dan \ng.     melakukan tugas lain yang terkait dengan Fungsi \nKepatuhan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tugas dan tanggung jawab sebagaimana dimaksud pada \nayat (1) tidak menghilangkan hak dan kewajiban direktur \nyang membawahkan Fungsi Kepatuhan sebagai anggota \nDireksi Bank sebagaimana diatur dalam Undang-Undang \nmengenai Perseroan Terbatas, dalam hal diperlukan \nkeputusan terhadap perbuatan tertentu dari seluruh \nanggota Direksi Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "DIREKTUR YANG MEMBAWAHKAN FUNGSI KEPATUHAN",
+      "teks_lengkap": "Direktur yang membawahkan Fungsi Kepatuhan wajib \nmelaporkan pelaksanaan tugas dan tanggung jawabnya \nsebagaimana dimaksud dalam Pasal 10 kepada direktur \nutama dengan tembusan kepada Dewan Komisaris, paling \nsedikit secara triwulanan. \n \n \n\n\n \nBAB IV \nSATUAN KERJA KEPATUHAN \n \nBagian Pertama \nIndependensi dan Kriteria",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Direktur yang membawahkan Fungsi Kepatuhan wajib \nmelaporkan pelaksanaan tugas dan tanggung jawabnya \nsebagaimana dimaksud dalam Pasal 10 kepada direktur \nutama dengan tembusan kepada Dewan Komisaris, paling \nsedikit secara triwulanan. \n \n \n\n\n \nBAB IV \nSATUAN KERJA KEPATUHAN \n \nBagian Pertama \nIndependensi dan Kriteria"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SATUAN KERJA KEPATUHAN",
+      "teks_lengkap": "(1) \nSatuan kerja kepatuhan wajib independen. \n(2) \nPejabat dan staf di satuan kerja kepatuhan dilarang \nditempatkan \npada \nposisi \nmenghadapi \nbenturan \nkepentingan (conflict of interest) dalam melaksanakan \ntanggung jawab Fungsi Kepatuhan. \n(3) \nSatuan kerja kepatuhan pada bank umum konvensional \nyang memiliki unit usaha syariah wajib didukung oleh \nsumber daya manusia yang mempunyai pengetahuan \ndan/atau pemahaman tentang operasional perbankan \nsyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Satuan kerja kepatuhan wajib independen."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pejabat dan staf di satuan kerja kepatuhan dilarang \nditempatkan \npada \nposisi \nmenghadapi \nbenturan \nkepentingan (conflict of interest) dalam melaksanakan \ntanggung jawab Fungsi Kepatuhan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Satuan kerja kepatuhan pada bank umum konvensional \nyang memiliki unit usaha syariah wajib didukung oleh \nsumber daya manusia yang mempunyai pengetahuan \ndan/atau pemahaman tentang operasional perbankan \nsyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SATUAN KERJA KEPATUHAN",
+      "teks_lengkap": "Kepala satuan kerja kepatuhan wajib memenuhi kriteria \npaling sedikit: \na. \nmemenuhi persyaratan independensi; \nb.    menguasai ketentuan Otoritas Jasa Keuangan dan \nketentuan peraturan perundang-undangan; \nc.    tidak melaksanakan tugas lain di luar Fungsi Kepatuhan; \ndan \nd.    memiliki komitmen yang tinggi untuk melaksanakan dan \nmengembangkan Budaya Kepatuhan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kepala satuan kerja kepatuhan wajib memenuhi kriteria \npaling sedikit: \na. \nmemenuhi persyaratan independensi; \nb.    menguasai ketentuan Otoritas Jasa Keuangan dan \nketentuan peraturan perundang-undangan; \nc.    tidak melaksanakan tugas lain di luar Fungsi Kepatuhan; \ndan \nd.    memiliki komitmen yang tinggi untuk melaksanakan dan \nmengembangkan Budaya Kepatuhan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SATUAN KERJA KEPATUHAN",
+      "teks_lengkap": "Pengangkatan, pemberhentian, atau penggantian kepala \nsatuan kerja kepatuhan wajib dilaporkan kepada Otoritas \nJasa Keuangan. \n \n \n \n \n\n\n \nBagian Kedua \nTugas dan Tanggung Jawab Satuan Kerja Kepatuhan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengangkatan, pemberhentian, atau penggantian kepala \nsatuan kerja kepatuhan wajib dilaporkan kepada Otoritas \nJasa Keuangan. \n \n \n \n \n\n\n \nBagian Kedua \nTugas dan Tanggung Jawab Satuan Kerja Kepatuhan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "SATUAN KERJA KEPATUHAN",
+      "teks_lengkap": "Dalam \nmelaksanakan \nFungsi \nKepatuhan \nsebagaimana \ndimaksud dalam Pasal 3, tugas dan tanggung jawab satuan \nkerja kepatuhan wajib paling sedikit: \na.     membuat langkah untuk mendukung terciptanya Budaya \nKepatuhan pada seluruh kegiatan usaha Bank pada \nsetiap jenjang organisasi; \nb.     melakukan identifikasi, pengukuran, pemantauan, dan \npengendalian \nterhadap \nRisiko \nKepatuhan \ndengan \nmengacu pada ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi \nbank umum dan ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi \nbank umum syariah dan unit usaha syariah; \nc.     menilai dan mengevaluasi efektivitas, kecukupan, dan \nkesesuaian \nkebijakan, \nketentuan, \nsistem \nmaupun \nprosedur yang dimiliki oleh Bank dengan ketentuan \nperaturan perundang-undangan; \nd.     melakukan kaji ulang dan/atau merekomendasikan \npengkinian dan penyempurnaan kebijakan, ketentuan, \nsistem maupun prosedur yang dimiliki oleh Bank agar \nsesuai dengan  ketentuan Otoritas Jasa Keuangan dan \nketentuan peraturan perundang-undangan, termasuk \nPrinsip Syariah bagi bank umum syariah dan unit usaha \nsyariah; \ne.     melakukan upaya untuk memastikan bahwa kebijakan, \nketentuan, sistem dan prosedur, serta kegiatan usaha \nBank telah sesuai dengan ketentuan Otoritas Jasa \nKeuangan \ndan \nketentuan \nperaturan \nperundang-\nundangan; dan \nf. \nmelakukan tugas lain yang terkait dengan Fungsi \nKepatuhan. \n \n \n\n\n \nBAB V \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmelaksanakan \nFungsi \nKepatuhan \nsebagaimana \ndimaksud dalam Pasal 3, tugas dan tanggung jawab satuan \nkerja kepatuhan wajib paling sedikit: \na.     membuat langkah untuk mendukung terciptanya Budaya \nKepatuhan pada seluruh kegiatan usaha Bank pada \nsetiap jenjang organisasi; \nb.     melakukan identifikasi, pengukuran, pemantauan, dan \npengendalian \nterhadap \nRisiko \nKepatuhan \ndengan \nmengacu pada ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi \nbank umum dan ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan manajemen risiko bagi \nbank umum syariah dan unit usaha syariah; \nc.     menilai dan mengevaluasi efektivitas, kecukupan, dan \nkesesuaian \nkebijakan, \nketentuan, \nsistem \nmaupun \nprosedur yang dimiliki oleh Bank dengan ketentuan \nperaturan perundang-undangan; \nd.     melakukan kaji ulang dan/atau merekomendasikan \npengkinian dan penyempurnaan kebijakan, ketentuan, \nsistem maupun prosedur yang dimiliki oleh Bank agar \nsesuai dengan  ketentuan Otoritas Jasa Keuangan dan \nketentuan peraturan perundang-undangan, termasuk \nPrinsip Syariah bagi bank umum syariah dan unit usaha \nsyariah; \ne.     melakukan upaya untuk memastikan bahwa kebijakan, \nketentuan, sistem dan prosedur, serta kegiatan usaha \nBank telah sesuai dengan ketentuan Otoritas Jasa \nKeuangan \ndan \nketentuan \nperaturan \nperundang-\nundangan; dan \nf. \nmelakukan tugas lain yang terkait dengan Fungsi \nKepatuhan. \n \n \n\n\n \nBAB V \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Direktur yang membawahkan Fungsi Kepatuhan wajib \nmenyampaikan laporan kepada Otoritas Jasa Keuangan \ntentang pelaksanaan tugasnya, meliputi: \na. \nrencana kerja kepatuhan yang dimuat dalam Rencana \nBisnis Bank; \nb. \nlaporan  kepatuhan; dan \nc. \nlaporan khusus mengenai kebijakan dan/atau keputusan \nDireksi yang menurut direktur yang membawahkan \nFungsi Kepatuhan telah menyimpang dari ketentuan \nOtoritas Jasa Keuangan dan/atau ketentuan peraturan \nperundang-undangan, sebagai bagian dari tugas direktur \nyang membawahkan Fungsi Kepatuhan sebagaimana \ndimaksud dalam Pasal 10 ayat (1) huruf f.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Direktur yang membawahkan Fungsi Kepatuhan wajib \nmenyampaikan laporan kepada Otoritas Jasa Keuangan \ntentang pelaksanaan tugasnya, meliputi: \na. \nrencana kerja kepatuhan yang dimuat dalam Rencana \nBisnis Bank; \nb. \nlaporan  kepatuhan; dan \nc. \nlaporan khusus mengenai kebijakan dan/atau keputusan \nDireksi yang menurut direktur yang membawahkan \nFungsi Kepatuhan telah menyimpang dari ketentuan \nOtoritas Jasa Keuangan dan/atau ketentuan peraturan \nperundang-undangan, sebagai bagian dari tugas direktur \nyang membawahkan Fungsi Kepatuhan sebagaimana \ndimaksud dalam Pasal 10 ayat (1) huruf f."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nLaporan sebagaimana dimaksud dalam Pasal 16 huruf b, \nwajib ditandatangani oleh direktur yang membawahkan \nFungsi Kepatuhan, dan disampaikan kepada Otoritas \nJasa Keuangan secara semesteran dan diterima Otoritas \nJasa Keuangan paling lama 1 (satu) bulan setelah periode \npelaporan berakhir dengan tembusan kepada Dewan \nKomisaris dan direktur utama. \n(2) \nDalam hal batas waktu penyampaian laporan kepatuhan \nsebagaimana dimaksud pada ayat (1) jatuh pada hari \nSabtu, hari Minggu, dan/atau hari libur, laporan \nkepatuhan disampaikan pada hari kerja berikutnya. \n(3) \nBank \ndianggap \nterlambat \nmenyampaikan \nlaporan \nkepatuhan apabila laporan diterima Otoritas Jasa \nKeuangan melampaui batas akhir waktu penyampaian \nlaporan sebagaimana dimaksud pada ayat (1), tetapi \nbelum melampaui 1 (satu) bulan setelah batas akhir \nwaktu penyampaian laporan. \n\n\n \n(4) \nBank dianggap tidak menyampaikan laporan kepatuhan \napabila laporan tersebut belum diterima Otoritas Jasa \nKeuangan setelah batas akhir waktu keterlambatan \nsebagaimana dimaksud pada ayat (3). \n(5) \nLaporan sebagaimana dimaksud dalam Pasal 16 huruf c \ndisampaikan kepada Otoritas Jasa Keuangan paling lama  \n7 (tujuh) hari kerja sejak diketahui oleh direktur yang \nmembawahkan Fungsi Kepatuhan mengenai adanya \npenyimpangan. \n \nBAB VI \nALAMAT PENYAMPAIAN PELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 16 huruf b, \nwajib ditandatangani oleh direktur yang membawahkan \nFungsi Kepatuhan, dan disampaikan kepada Otoritas \nJasa Keuangan secara semesteran dan diterima Otoritas \nJasa Keuangan paling lama 1 (satu) bulan setelah periode \npelaporan berakhir dengan tembusan kepada Dewan \nKomisaris dan direktur utama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal batas waktu penyampaian laporan kepatuhan \nsebagaimana dimaksud pada ayat (1) jatuh pada hari \nSabtu, hari Minggu, dan/atau hari libur, laporan \nkepatuhan disampaikan pada hari kerja berikutnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \ndianggap \nterlambat \nmenyampaikan \nlaporan \nkepatuhan apabila laporan diterima Otoritas Jasa \nKeuangan melampaui batas akhir waktu penyampaian \nlaporan sebagaimana dimaksud pada ayat (1), tetapi \nbelum melampaui 1 (satu) bulan setelah batas akhir \nwaktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank dianggap tidak menyampaikan laporan kepatuhan \napabila laporan tersebut belum diterima Otoritas Jasa \nKeuangan setelah batas akhir waktu keterlambatan \nsebagaimana dimaksud pada ayat (3)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 16 huruf c \ndisampaikan kepada Otoritas Jasa Keuangan paling lama  \n7 (tujuh) hari kerja sejak diketahui oleh direktur yang \nmembawahkan Fungsi Kepatuhan mengenai adanya \npenyimpangan. \n \nBAB VI \nALAMAT PENYAMPAIAN PELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "ALAMAT PENYAMPAIAN PELAPORAN",
+      "teks_lengkap": "(1) \nLaporan \npengangkatan, \npemberhentian, \natau \npenggantian kepala satuan kerja kepatuhan sebagaimana \ndimaksud dalam Pasal 14 disampaikan secara daring \n(online) \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan. \n(2) \nDalam \nhal \npenyampaian \nlaporan \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, Bank \nmenyampaikan laporan secara daring (online) dengan \nmengacu \npada \nketentuan \nperaturan \nperundang-\nundangan mengenai laporan kantor pusat bank umum. \n(3) \nLaporan sebagaimana dimaksud dalam Pasal 9 ayat (7) \ndan Pasal 16, disampaikan secara luring (offline) kepada: \na. \nDepartemen \nPengawasan \nBank \nterkait \natau \nDepartemen Perbankan Syariah, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank yang \nberkedudukan di luar negeri yang berada di wilayah \nProvinsi Daerah Khusus Ibukota Jakarta; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau \nKantor Otoritas Jasa Keuangan setempat sesuai \ndengan wilayah tempat kedudukan kantor pusat \nBank. \n \n\n\n \nBAB VII \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan \npengangkatan, \npemberhentian, \natau \npenggantian kepala satuan kerja kepatuhan sebagaimana \ndimaksud dalam Pasal 14 disampaikan secara daring \n(online) \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \npenyampaian \nlaporan \nmelalui \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \nsebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, Bank \nmenyampaikan laporan secara daring (online) dengan \nmengacu \npada \nketentuan \nperaturan \nperundang-\nundangan mengenai laporan kantor pusat bank umum."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 9 ayat (7) \ndan Pasal 16, disampaikan secara luring (offline) kepada: \na. \nDepartemen \nPengawasan \nBank \nterkait \natau \nDepartemen Perbankan Syariah, bagi Bank yang \nberkantor pusat atau kantor cabang dari bank yang \nberkedudukan di luar negeri yang berada di wilayah \nProvinsi Daerah Khusus Ibukota Jakarta; atau \nb. \nKantor Regional Otoritas Jasa Keuangan atau \nKantor Otoritas Jasa Keuangan setempat sesuai \ndengan wilayah tempat kedudukan kantor pusat \nBank. \n \n\n\n \nBAB VII \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "Bank yang tidak memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 2, Pasal 4 ayat (1), Pasal 5, Pasal 6 ayat (1),  \nPasal 7, Pasal 8, Pasal 9 ayat (2), Pasal 9 ayat (3), Pasal 9  \nayat (4), Pasal 9 ayat (7), Pasal 10, Pasal 11, Pasal 12,  \nPasal 13, Pasal 14, Pasal 15, Pasal 16, dan/atau Pasal 17 ayat \n(1) dikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb.     penurunan \ntingkat \nkesehatan \nberupa \npenurunan \nperingkat faktor tata kelola dalam penilaian tingkat \nkesehatan; \nc.     pembekuan kegiatan usaha tertentu; \nd.     pemberhentian anggota Direksi dan anggota Dewan \nKomisaris \nBank \ndan \nselanjutnya \nmenunjuk \ndan \nmengangkat pengganti sementara sampai Rapat Umum \nPemegang Saham (RUPS) atau Rapat Anggota Tahunan \n(RAT) koperasi mengangkat pengganti yang tetap dengan \npersetujuan Otoritas Jasa Keuangan; dan/atau \ne.     pencantuman anggota Direksi, anggota Dewan Komisaris, \npegawai, dan/atau pemegang saham Bank dalam daftar \npihak yang mendapat predikat Tidak Lulus dalam uji \nkemampuan dan kepatutan sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai uji \nkemampuan dan kepatutan (fit and proper test).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dikenakan sanksi administratif berupa: \na. \nteguran tertulis; \nb.     penurunan \ntingkat \nkesehatan \nberupa \npenurunan \nperingkat faktor tata kelola dalam penilaian tingkat \nkesehatan; \nc.     pembekuan kegiatan usaha tertentu; \nd.     pemberhentian anggota Direksi dan anggota Dewan \nKomisaris \nBank \ndan \nselanjutnya \nmenunjuk \ndan \nmengangkat pengganti sementara sampai Rapat Umum \nPemegang Saham (RUPS) atau Rapat Anggota Tahunan \n(RAT) koperasi mengangkat pengganti yang tetap dengan \npersetujuan Otoritas Jasa Keuangan; dan/atau \ne.     pencantuman anggota Direksi, anggota Dewan Komisaris, \npegawai, dan/atau pemegang saham Bank dalam daftar \npihak yang mendapat predikat Tidak Lulus dalam uji \nkemampuan dan kepatutan sebagaimana diatur dalam \nketentuan peraturan perundang-undangan mengenai uji \nkemampuan dan kepatutan (fit and proper test)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nBank \nyang \nterlambat \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud \ndalam \nPasal \nayat \n(3) \ndikenakan sanksi administratif berupa denda sebesar \nRp1.000.000,00 \n(satu \njuta \nrupiah) \nper \nhari \nketerlambatan. \n(2) \nBank yang tidak menyampaikan laporan sebagaimana \ndimaksud dalam Pasal 17 ayat (4) dikenakan sanksi \nadministratif berupa denda sebesar Rp100.000.000,00 \n\n\n \n(seratus juta rupiah) dan teguran tertulis oleh Otoritas \nJasa Keuangan. \nBAB VIII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nterlambat \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud \ndalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "dikenakan sanksi administratif berupa denda sebesar \nRp1.000.000,00 \n(satu \njuta \nrupiah) \nper \nhari \nketerlambatan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak menyampaikan laporan sebagaimana \ndimaksud dalam Pasal 17 ayat (4) dikenakan sanksi \nadministratif berupa denda sebesar Rp100.000.000,00 \n\n\n \n(seratus juta rupiah) dan teguran tertulis oleh Otoritas \nJasa Keuangan. \nBAB VIII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Peraturan Bank Indonesia Nomor 13/2/PBI/2011 \ntentang \nPelaksanaan \nFungsi \nKepatuhan \nBank \nUmum \n(Lembaran Negara Republik Indonesia Tahun 2011 Nomor 6, \nTambahan Lembaran Negara Republik Indonesia Nomor \n5187), dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, Peraturan Bank Indonesia Nomor 13/2/PBI/2011 \ntentang \nPelaksanaan \nFungsi \nKepatuhan \nBank \nUmum \n(Lembaran Negara Republik Indonesia Tahun 2011 Nomor 6, \nTambahan Lembaran Negara Republik Indonesia Nomor \n5187), dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 12 Juli 2017 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \n   MULIAMAN D. HADAD \n \n \nDiundangkan di Jakarta \npada tanggal 12 Juli 2017 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \n YASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 152\n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 46 /POJK.03/2017 \nTENTANG \nPELAKSANAAN FUNGSI KEPATUHAN BANK UMUM \n \nI. \nUMUM \nKegiatan usaha Bank terus mengalami perubahan dan peningkatan \nsejalan dengan perkembangan teknologi informasi, globalisasi, dan \nintegrasi pasar keuangan sehingga kompleksitas kegiatannya semakin \ntinggi. Kompleksitas kegiatan usaha Bank yang semakin meningkat \ntersebut mengakibatkan tantangan dan eksposur risiko yang dihadapi \njuga semakin besar. \nMelihat perkembangan tantangan dan risiko usaha Bank yang \nsemakin besar, diperlukan berbagai macam upaya untuk memitigasi \nrisiko tersebut. Upaya-upaya tersebut dapat bersifat preventif (ex-ante) \nmaupun kuratif (ex-post). Upaya yang bersifat preventif (ex-ante) sangat \ndiperlukan untuk mengurangi atau memperkecil potensi risiko kegiatan \nusaha Bank yang diperkirakan akan terjadi. Oleh karena itu diperlukan \nadanya peningkatan peran dan Fungsi Kepatuhan serta satuan kerja \nkepatuhan dalam pengelolaan Risiko Kepatuhan. \nPengelolaan Risiko Kepatuhan yang baik dan tepat waktu diharapkan \ndapat meminimalisasi dampak risiko sedini mungkin. Dengan demikian \nperan dan Fungsi Kepatuhan maupun satuan kerja kepatuhan ke depan \ntidak hanya melihat suatu kejadian yang bersifat preventif (ex-ante) \nmelainkan juga harus mampu mengelola Risiko Kepatuhan agar sejalan \ndengan penerapan manajemen risiko yang telah berjalan di Bank secara \nkeseluruhan. \n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 12 Juli 2017 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN, \n \nttd \n \n   MULIAMAN D. HADAD \n \n \nDiundangkan di Jakarta \npada tanggal 12 Juli 2017 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \n YASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 152\n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nNOMOR 46 /POJK.03/2017 \nTENTANG \nPELAKSANAAN FUNGSI KEPATUHAN BANK UMUM \n \nI. \nUMUM \nKegiatan usaha Bank terus mengalami perubahan dan peningkatan \nsejalan dengan perkembangan teknologi informasi, globalisasi, dan \nintegrasi pasar keuangan sehingga kompleksitas kegiatannya semakin \ntinggi. Kompleksitas kegiatan usaha Bank yang semakin meningkat \ntersebut mengakibatkan tantangan dan eksposur risiko yang dihadapi \njuga semakin besar. \nMelihat perkembangan tantangan dan risiko usaha Bank yang \nsemakin besar, diperlukan berbagai macam upaya untuk memitigasi \nrisiko tersebut. Upaya-upaya tersebut dapat bersifat preventif (ex-ante) \nmaupun kuratif (ex-post). Upaya yang bersifat preventif (ex-ante) sangat \ndiperlukan untuk mengurangi atau memperkecil potensi risiko kegiatan \nusaha Bank yang diperkirakan akan terjadi. Oleh karena itu diperlukan \nadanya peningkatan peran dan Fungsi Kepatuhan serta satuan kerja \nkepatuhan dalam pengelolaan Risiko Kepatuhan. \nPengelolaan Risiko Kepatuhan yang baik dan tepat waktu diharapkan \ndapat meminimalisasi dampak risiko sedini mungkin. Dengan demikian \nperan dan Fungsi Kepatuhan maupun satuan kerja kepatuhan ke depan \ntidak hanya melihat suatu kejadian yang bersifat preventif (ex-ante) \nmelainkan juga harus mampu mengelola Risiko Kepatuhan agar sejalan \ndengan penerapan manajemen risiko yang telah berjalan di Bank secara \nkeseluruhan. \n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \nKhusus bagi kantor cabang dari bank yang berkedudukan di \nluar \nnegeri, \npelaksanaan \npengawasan \nterhadap \nFungsi \nKepatuhan disesuaikan dengan struktur organisasi yang berlaku \npada bank yang bersangkutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \nAyat (2) \n \n \nCukup jelas. \nAyat (3) \nKhusus bagi kantor cabang dari bank yang berkedudukan di \nluar \nnegeri, \npelaksanaan \npengawasan \nterhadap \nFungsi \nKepatuhan disesuaikan dengan struktur organisasi yang berlaku \npada bank yang bersangkutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \nCukup jelas. \nHuruf b \nTindakan mengelola Risiko Kepatuhan dilaksanakan dengan \nmengacu \npada \nketentuan \nOtoritas \nJasa \nKeuangan \nyang \nmengatur mengenai penerapan manajemen risiko bagi bank \numum dan ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum syariah \ndan unit usaha syariah.  \nHuruf c  \nCukup jelas. \nHuruf d  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \nCukup jelas. \nHuruf b \nTindakan mengelola Risiko Kepatuhan dilaksanakan dengan \nmengacu \npada \nketentuan \nOtoritas \nJasa \nKeuangan \nyang \nmengatur mengenai penerapan manajemen risiko bagi bank \numum dan ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai penerapan manajemen risiko bagi bank umum syariah \ndan unit usaha syariah.  \nHuruf c  \nCukup jelas. \nHuruf d  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “persyaratan independensi” adalah tidak \nmemiliki \nhubungan \nkeuangan, \nhubungan \nkepengurusan, \nhubungan kepemilikan, dan/atau hubungan keluarga sampai \nderajat \nkedua \ndengan \nanggota \nDireksi, \nanggota \nDewan \nKomisaris, \ndan/atau \npemegang \nsaham \npengendali \natau \nhubungan dengan Bank yang dapat mempengaruhi kemampuan \nyang bersangkutan untuk bertindak independen sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan tata kelola bagi bank umum dan \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelaksanaan good corporate governance bagi bank umum syariah \ndan unit usaha syariah. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nYang dimaksud dengan “fungsi bisnis” atau “fungsi \noperasional” antara lain meliputi kegiatan penghimpunan \ndana dan/atau penyaluran dana serta kegiatan keagenan. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “persyaratan independensi” adalah tidak \nmemiliki \nhubungan \nkeuangan, \nhubungan \nkepengurusan, \nhubungan kepemilikan, dan/atau hubungan keluarga sampai \nderajat \nkedua \ndengan \nanggota \nDireksi, \nanggota \nDewan \nKomisaris, \ndan/atau \npemegang \nsaham \npengendali \natau \nhubungan dengan Bank yang dapat mempengaruhi kemampuan \nyang bersangkutan untuk bertindak independen sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan tata kelola bagi bank umum dan \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelaksanaan good corporate governance bagi bank umum syariah \ndan unit usaha syariah. \nAyat (2) \nCukup jelas. \nAyat (3) \nHuruf a \nYang dimaksud dengan “fungsi bisnis” atau “fungsi \noperasional” antara lain meliputi kegiatan penghimpunan \ndana dan/atau penyaluran dana serta kegiatan keagenan. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penilaian kriteria calon direktur yang membawahkan Fungsi \nKepatuhan mengacu pada ketentuan peraturan perundang-undangan \nmengenai penilaian kemampuan dan kepatutan serta ketentuan \nOtoritas Jasa Keuangan yang mengatur mengenai pemanfaatan \ntenaga kerja asing dan program alih pengetahuan di sektor \nperbankan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian kriteria calon direktur yang membawahkan Fungsi \nKepatuhan mengacu pada ketentuan peraturan perundang-undangan \nmengenai penilaian kemampuan dan kepatutan serta ketentuan \nOtoritas Jasa Keuangan yang mengatur mengenai pemanfaatan \ntenaga kerja asing dan program alih pengetahuan di sektor \nperbankan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “berhalangan sementara” antara lain \ncuti, sakit, dan/atau dinas. \nAyat (3) \nYang dimaksud \ndengan “berhalangan tetap” antara \nlain \nkehilangan \nkewarganegaraan \nIndonesia, \nmeninggal \ndunia, \nmengalami cacat fisik, mengalami cacat mental, dan/atau \nkondisi lain yang tidak memungkinkan yang bersangkutan \nuntuk melaksanakan tugasnya dengan baik.  \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “berhalangan sementara” antara lain \ncuti, sakit, dan/atau dinas. \nAyat (3) \nYang dimaksud \ndengan “berhalangan tetap” antara \nlain \nkehilangan \nkewarganegaraan \nIndonesia, \nmeninggal \ndunia, \nmengalami cacat fisik, mengalami cacat mental, dan/atau \nkondisi lain yang tidak memungkinkan yang bersangkutan \nuntuk melaksanakan tugasnya dengan baik.  \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “kebijakan kepatuhan” adalah \nprinsip yang dipergunakan untuk menyusun sistem, \n\n\n \nprosedur, dan pedoman internal dalam rangka harmonisasi \nantara kepentingan komersial Bank dengan ketaatan \nterhadap ketentuan peraturan perundang-undangan. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nTermasuk \nsebagai \ntindakan \npencegahan \nantara \nlain \nmemberikan pendapat yang berbeda (dissenting opinion) \ndalam hal terdapat kebijakan dan/atau keputusan yang \nmenyimpang dari ketentuan Otoritas Jasa Keuangan dan \nketentuan \nperaturan \nperundang-undangan. \nTanggung \njawab direktur yang membawahkan Fungsi Kepatuhan \ndalam melakukan tindakan pencegahan terbatas pada \nkewenangan \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan. \nHuruf g \nYang dimaksud dengan “tugas lain yang terkait dengan \nFungsi Kepatuhan” antara lain adalah memantau dan \nmenjaga kepatuhan Bank terhadap komitmen yang dibuat \noleh Bank kepada Otoritas Jasa Keuangan maupun otoritas \npengawas lain yang berwenang. \nAyat (2) \nYang dimaksud dengan “perbuatan tertentu” adalah perbuatan \nyang terkait dengan aksi korporasi (corporate actions) antara lain \npenggabungan, peleburan, pengambilalihan, penambahan modal \ndengan memberikan hak memesan efek terlebih dahulu (right \nissue) dan penawaran umum perdana (initial public offering/IPO).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nYang dimaksud dengan “kebijakan kepatuhan” adalah \nprinsip yang dipergunakan untuk menyusun sistem, \n\n\n \nprosedur, dan pedoman internal dalam rangka harmonisasi \nantara kepentingan komersial Bank dengan ketaatan \nterhadap ketentuan peraturan perundang-undangan. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nTermasuk \nsebagai \ntindakan \npencegahan \nantara \nlain \nmemberikan pendapat yang berbeda (dissenting opinion) \ndalam hal terdapat kebijakan dan/atau keputusan yang \nmenyimpang dari ketentuan Otoritas Jasa Keuangan dan \nketentuan \nperaturan \nperundang-undangan. \nTanggung \njawab direktur yang membawahkan Fungsi Kepatuhan \ndalam melakukan tindakan pencegahan terbatas pada \nkewenangan \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan. \nHuruf g \nYang dimaksud dengan “tugas lain yang terkait dengan \nFungsi Kepatuhan” antara lain adalah memantau dan \nmenjaga kepatuhan Bank terhadap komitmen yang dibuat \noleh Bank kepada Otoritas Jasa Keuangan maupun otoritas \npengawas lain yang berwenang. \nAyat (2) \nYang dimaksud dengan “perbuatan tertentu” adalah perbuatan \nyang terkait dengan aksi korporasi (corporate actions) antara lain \npenggabungan, peleburan, pengambilalihan, penambahan modal \ndengan memberikan hak memesan efek terlebih dahulu (right \nissue) dan penawaran umum perdana (initial public offering/IPO)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Bagi kantor cabang dari bank yang berkedudukan di luar negeri, \nlaporan disampaikan kepada pemimpin kantor cabang dari bank \nyang berkedudukan di luar negeri dengan tembusan kepada pihak \nyang \nberwenang \nmengawasi \nkantor \ncabang \ndari \nbank \nyang \n\n\n \nberkedudukan di luar negeri, sesuai dengan struktur organisasi \nbank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bagi kantor cabang dari bank yang berkedudukan di luar negeri, \nlaporan disampaikan kepada pemimpin kantor cabang dari bank \nyang berkedudukan di luar negeri dengan tembusan kepada pihak \nyang \nberwenang \nmengawasi \nkantor \ncabang \ndari \nbank \nyang \n\n\n \nberkedudukan di luar negeri, sesuai dengan struktur organisasi \nbank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang \ndimaksud \ndengan \n“satuan \nkerja \nkepatuhan \nwajib \nindependen” adalah satuan kerja kepatuhan harus dibentuk \nsecara tersendiri dan bebas dari pengaruh satuan kerja lainnya, \nserta \nmempunyai \nakses \nlangsung \nkepada \ndirektur \nyang \nmembawahkan Fungsi Kepatuhan. \nSatuan kerja kepatuhan dibentuk di kantor pusat Bank namun \nmelaksanakan Fungsi Kepatuhan di seluruh jaringan kantor \nBank. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang \ndimaksud \ndengan \n“satuan \nkerja \nkepatuhan \nwajib \nindependen” adalah satuan kerja kepatuhan harus dibentuk \nsecara tersendiri dan bebas dari pengaruh satuan kerja lainnya, \nserta \nmempunyai \nakses \nlangsung \nkepada \ndirektur \nyang \nmembawahkan Fungsi Kepatuhan. \nSatuan kerja kepatuhan dibentuk di kantor pusat Bank namun \nmelaksanakan Fungsi Kepatuhan di seluruh jaringan kantor \nBank. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “persyaratan independensi” adalah tidak \nmemiliki \nhubungan \nkeuangan, \nhubungan \nkepengurusan, \nhubungan kepemilikan, dan/atau hubungan keluarga sampai \nderajat \nkedua \ndengan \nanggota \nDireksi, \nanggota \nDewan \nKomisaris, \ndan/atau \npemegang \nsaham \npengendali \natau \nhubungan dengan Bank yang dapat mempengaruhi kemampuan \nyang bersangkutan untuk bertindak independen sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan tata kelola bagi bank umum dan \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelaksanaan good corporate governance bagi bank umum syariah \ndan unit usaha syariah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \n\n\n \nHuruf d \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “persyaratan independensi” adalah tidak \nmemiliki \nhubungan \nkeuangan, \nhubungan \nkepengurusan, \nhubungan kepemilikan, dan/atau hubungan keluarga sampai \nderajat \nkedua \ndengan \nanggota \nDireksi, \nanggota \nDewan \nKomisaris, \ndan/atau \npemegang \nsaham \npengendali \natau \nhubungan dengan Bank yang dapat mempengaruhi kemampuan \nyang bersangkutan untuk bertindak independen sebagaimana \ndimaksud dalam ketentuan Otoritas Jasa Keuangan yang \nmengatur mengenai penerapan tata kelola bagi bank umum dan \nketentuan \nperaturan \nperundang-undangan \nmengenai \npelaksanaan good corporate governance bagi bank umum syariah \ndan unit usaha syariah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \n \n\n\n \nHuruf d \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Laporan pengangkatan, pemberhentian, atau penggantian kepala \nsatuan kerja kepatuhan mengacu pada ketentuan pelaporan bagi \npejabat eksekutif sebagaimana diatur dalam ketentuan peraturan  \nperundang-undangan \nmengenai \nbank \numum \ndan \nketentuan \nperaturan  perundang-undangan mengenai bank umum syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan pengangkatan, pemberhentian, atau penggantian kepala \nsatuan kerja kepatuhan mengacu pada ketentuan pelaporan bagi \npejabat eksekutif sebagaimana diatur dalam ketentuan peraturan  \nperundang-undangan \nmengenai \nbank \numum \ndan \nketentuan \nperaturan  perundang-undangan mengenai bank umum syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nLangkah-langkah \nuntuk \nmendukung \nterciptanya \nBudaya \nKepatuhan antara lain pembuatan sistem, program, kerangka \npikir (frame work), compliance charter, kode etik kepatuhan \n(compliance \ncode \nof \nconduct), \natau \nkebijakan \nkepatuhan \n(compliance policy). \nHuruf b \nDalam rangka melakukan proses pengelolaan Risiko Kepatuhan, \nsatuan kerja kepatuhan berkoordinasi dengan satuan kerja \nmanajemen risiko. \nHuruf c \nTerkait dengan tugas dan tanggung jawab ini, satuan kerja \nkepatuhan dapat melakukan antara lain: \n1. \nmenilai rancangan kebijakan, ketentuan, sistem maupun \nprosedur baru; dan \n2. \nberinisiatif untuk melakukan penyempurnaan kebijakan, \nketentuan, sistem maupun prosedur berdasarkan informasi \nyang diperoleh. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nYang dimaksud dengan “tugas lain yang terkait dengan Fungsi \nKepatuhan” antara lain: \n\n\n \n1. \nmemastikan kepatuhan Bank terhadap komitmen yang \ndibuat oleh Bank kepada Otoritas Jasa Keuangan dan/atau \notoritas pengawas lain yang berwenang; \n2. \nmelakukan sosialisasi kepada seluruh pegawai Bank \nmengenai hal-hal yang terkait dengan Fungsi Kepatuhan \nterutama mengenai ketentuan yang berlaku; dan/atau \n3. \nbertindak sebagai narahubung (contact person) untuk \npermasalahan kepatuhan Bank bagi pihak internal maupun \neksternal.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nLangkah-langkah \nuntuk \nmendukung \nterciptanya \nBudaya \nKepatuhan antara lain pembuatan sistem, program, kerangka \npikir (frame work), compliance charter, kode etik kepatuhan \n(compliance \ncode \nof \nconduct), \natau \nkebijakan \nkepatuhan \n(compliance policy). \nHuruf b \nDalam rangka melakukan proses pengelolaan Risiko Kepatuhan, \nsatuan kerja kepatuhan berkoordinasi dengan satuan kerja \nmanajemen risiko. \nHuruf c \nTerkait dengan tugas dan tanggung jawab ini, satuan kerja \nkepatuhan dapat melakukan antara lain: \n1. \nmenilai rancangan kebijakan, ketentuan, sistem maupun \nprosedur baru; dan \n2. \nberinisiatif untuk melakukan penyempurnaan kebijakan, \nketentuan, sistem maupun prosedur berdasarkan informasi \nyang diperoleh. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nYang dimaksud dengan “tugas lain yang terkait dengan Fungsi \nKepatuhan” antara lain: \n\n\n \n1. \nmemastikan kepatuhan Bank terhadap komitmen yang \ndibuat oleh Bank kepada Otoritas Jasa Keuangan dan/atau \notoritas pengawas lain yang berwenang; \n2. \nmelakukan sosialisasi kepada seluruh pegawai Bank \nmengenai hal-hal yang terkait dengan Fungsi Kepatuhan \nterutama mengenai ketentuan yang berlaku; dan/atau \n3. \nbertindak sebagai narahubung (contact person) untuk \npermasalahan kepatuhan Bank bagi pihak internal maupun \neksternal."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nLaporan rencana kerja kepatuhan paling sedikit terdiri atas: \na. \nrencana evaluasi pedoman internal; dan \nb. \nrencana kegiatan untuk mendorong dan/atau memelihara \nBudaya \nKepatuhan, \ntermasuk \nrencana \nsosialisasi \nketentuan. \nTata cara penyampaian rencana kerja kepatuhan yang dimuat \ndalam Rencana Bisnis Bank dilaksanakan dengan mengacu \npada ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai rencana bisnis bank umum dan ketentuan peraturan \nperundang-undangan mengenai rencana bisnis bank umum \nsyariah dan unit usaha syariah. \nHuruf b  \nLaporan kepatuhan paling sedikit terdiri atas: \na. \npelaksanaan tugas Fungsi Kepatuhan; \nb. \nRisiko Kepatuhan yang dihadapi; \nc. \npotensi Risiko Kepatuhan yang diperkirakan dihadapi ke \ndepan; dan \nd. \nmitigasi Risiko Kepatuhan yang telah dilaksanakan. \nLaporan kepatuhan disajikan secara komparatif dalam 2 (dua) \nperiode laporan. \nHuruf c \nLaporan \nkhusus \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan mengenai kebijakan dan/atau keputusan Direksi \nyang menyimpang dari ketentuan Otoritas Jasa Keuangan \n\n\n \ndan/atau ketentuan peraturan perundang-undangan paling \nsedikit meliputi: \na. \nnama Direksi beserta bidang tugasnya; \nb. \ntanggal pengambilan kebijakan atau keputusan kegiatan; \nc. \naktivitas penyimpangan yang dilakukan; \nd. \nketentuan Otoritas Jasa Keuangan dan/atau ketentuan \nperaturan perundang-undangan yang dilanggar; dan \ne. \ndampak yang ditimbulkan untuk jangka pendek dan jangka \nmenengah \nbaik \nsecara \nfinansial, \ngangguan \nterhadap \nkelangsungan usaha, maupun penurunan reputasi Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nLaporan rencana kerja kepatuhan paling sedikit terdiri atas: \na. \nrencana evaluasi pedoman internal; dan \nb. \nrencana kegiatan untuk mendorong dan/atau memelihara \nBudaya \nKepatuhan, \ntermasuk \nrencana \nsosialisasi \nketentuan. \nTata cara penyampaian rencana kerja kepatuhan yang dimuat \ndalam Rencana Bisnis Bank dilaksanakan dengan mengacu \npada ketentuan Otoritas Jasa Keuangan yang mengatur \nmengenai rencana bisnis bank umum dan ketentuan peraturan \nperundang-undangan mengenai rencana bisnis bank umum \nsyariah dan unit usaha syariah. \nHuruf b  \nLaporan kepatuhan paling sedikit terdiri atas: \na. \npelaksanaan tugas Fungsi Kepatuhan; \nb. \nRisiko Kepatuhan yang dihadapi; \nc. \npotensi Risiko Kepatuhan yang diperkirakan dihadapi ke \ndepan; dan \nd. \nmitigasi Risiko Kepatuhan yang telah dilaksanakan. \nLaporan kepatuhan disajikan secara komparatif dalam 2 (dua) \nperiode laporan. \nHuruf c \nLaporan \nkhusus \ndirektur \nyang \nmembawahkan \nFungsi \nKepatuhan mengenai kebijakan dan/atau keputusan Direksi \nyang menyimpang dari ketentuan Otoritas Jasa Keuangan \n\n\n \ndan/atau ketentuan peraturan perundang-undangan paling \nsedikit meliputi: \na. \nnama Direksi beserta bidang tugasnya; \nb. \ntanggal pengambilan kebijakan atau keputusan kegiatan; \nc. \naktivitas penyimpangan yang dilakukan; \nd. \nketentuan Otoritas Jasa Keuangan dan/atau ketentuan \nperaturan perundang-undangan yang dilanggar; dan \ne. \ndampak yang ditimbulkan untuk jangka pendek dan jangka \nmenengah \nbaik \nsecara \nfinansial, \ngangguan \nterhadap \nkelangsungan usaha, maupun penurunan reputasi Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan ”hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat. \nAyat (3) \nContoh: \nLaporan kepatuhan periode bulan Januari sampai dengan bulan \nJuni 2017, batas akhir waktu penyampaian laporan kepatuhan \nadalah tanggal 31 Juli 2017.  \nLaporan kepatuhan tersebut dinyatakan terlambat disampaikan \napabila diterima Otoritas Jasa Keuangan pada tanggal 1 sampai \ndengan tanggal 31 Agustus 2017. \nAyat (4) \nLaporan kepatuhan dinyatakan tidak disampaikan apabila \nsampai dengan tanggal 31 Agustus 2017 laporan kepatuhan \ntidak diterima Otoritas Jasa Keuangan atau diterima Otoritas \nJasa Keuangan setelah tanggal 31 Agustus 2017. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan ”hari libur” adalah hari libur nasional \nyang ditetapkan oleh pemerintah pusat dan/atau hari libur lokal \nyang ditetapkan oleh pemerintah daerah setempat. \nAyat (3) \nContoh: \nLaporan kepatuhan periode bulan Januari sampai dengan bulan \nJuni 2017, batas akhir waktu penyampaian laporan kepatuhan \nadalah tanggal 31 Juli 2017.  \nLaporan kepatuhan tersebut dinyatakan terlambat disampaikan \napabila diterima Otoritas Jasa Keuangan pada tanggal 1 sampai \ndengan tanggal 31 Agustus 2017. \nAyat (4) \nLaporan kepatuhan dinyatakan tidak disampaikan apabila \nsampai dengan tanggal 31 Agustus 2017 laporan kepatuhan \ntidak diterima Otoritas Jasa Keuangan atau diterima Otoritas \nJasa Keuangan setelah tanggal 31 Agustus 2017. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nPengenaan sanksi administratif berupa denda tersebut tidak \nmenghapus kewajiban Bank untuk menyampaikan laporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nPengenaan sanksi administratif berupa denda tersebut tidak \nmenghapus kewajiban Bank untuk menyampaikan laporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6095",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6095"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 44,
+  "total_ayat": 69,
+  "total_karakter": 34233,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

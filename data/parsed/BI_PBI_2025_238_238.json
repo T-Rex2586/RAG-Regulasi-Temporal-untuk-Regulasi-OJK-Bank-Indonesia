@@ -1,0 +1,771 @@
+{
+  "doc_id": "BI_PBI_2025_238_238",
+  "regulator": "BI",
+  "jenis": "PBI",
+  "nomor": "238",
+  "tahun": "2025",
+  "judul": "PENGELOLAAN LIKUIDITAS UNTUK MENDUKUNG PERTUMBUHAN EKONOMI YANG BERKELANJUTAN",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "27 Maret 2025",
+  "tanggal_berlaku": "diundangkan (Д)",
+  "diundangkan_pada": "Д",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGELOLAAN LIKUIDITAS"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nKebijakan Bank Indonesia adalah keputusan dan/atau \ntindakan Bank Indonesia yang ditetapkan oleh Dewan \nGubernur, Anggota Dewan Gubernur, atau pemimpin \nsatuan kerja. \n2. \nKebijakan Utama adalah Kebijakan Bank Indonesia yang \nterdiri \natas \nkebijakan \nmoneter, \nkebijakan \nsistem \npembayaran, dan kebijakan makroprudensial. \n3. \nKebijakan Pendukung adalah Kebijakan Bank Indonesia \nuntuk menopang Kebijakan Utama. \n4. \nKebijakan Moneter adalah Kebijakan Bank Indonesia yang \nditetapkan dan dilaksanakan guna mencapai stabilitas \nnilai rupiah. \n5. \nKebijakan Sistem Pembayaran adalah Kebijakan Bank \nIndonesia yang ditetapkan dan dilaksanakan guna \nmemelihara stabilitas sistem pembayaran. \n6. \nKebijakan Makroprudensial adalah Kebijakan Bank \nIndonesia yang ditetapkan dan dilaksanakan guna turut \nmenjaga stabilitas sistem keuangan. \n7. \nPertumbuhan \nEkonomi \nyang \nBerkelanjutan \nadalah \nperekonomian yang tumbuh sesuai dengan kapasitasnya \ndan inklusif sehingga terjaga stabil, seimbang, dan \nberdaya tahan terhadap gejolak, baik yang bersumber dari \nglobal maupun dalam negeri. \n8. \nStabilitas Nilai Rupiah adalah kestabilan harga barang \ndan jasa yang secara umum diukur dari inflasi yang \nrendah dan stabil, serta kestabilan nilai tukar rupiah yang \ndiukur dari kestabilan nilai rupiah terhadap mata uang \nnegara lain bagi tercapainya Pertumbuhan Ekonomi yang \nBerkelanjutan.  \n \n\n\n \n9. \nStabilitas Sistem Keuangan yang selanjutnya disingkat \nSSK adalah kondisi sistem keuangan yang berfungsi efektif \ndan efisien serta mampu bertahan dari gejolak yang \nbersumber dari dalam negeri dan luar negeri untuk \nberkontribusi pada pertumbuhan perekonomian nasional. \n10. Giro Wajib Minimum yang selanjutnya disingkat GWM \nadalah jumlah dana minimum yang wajib dipelihara oleh \nbank umum konvensional atau bank umum syariah dan \nunit usaha syariah yang besarnya ditetapkan oleh Bank \nIndonesia sebesar persentase tertentu dari dana pihak \nketiga bank umum konvensional atau dana pihak ketiga \nbank umum syariah dan unit usaha syariah. \n11. Kebijakan Insentif Likuiditas Makroprudensial yang \nselanjutnya disebut KLM adalah insentif yang ditetapkan \noleh Bank Indonesia melalui pengurangan giro bank di \nBank Indonesia dalam rangka pemenuhan GWM yang \nwajib dipenuhi secara rata-rata. \n12. Rapat Dewan Gubernur yang selanjutnya disingkat RDG \nadalah forum pengambilan keputusan tertinggi dalam \nmenetapkan kebijakan prinsipil dan strategis, melakukan \nevaluasi  kebijakan, dan/atau menerima laporan atas \nkebijakan untuk diketahui sesuai dengan ketentuan \nperaturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: \n1. \nKebijakan Bank Indonesia adalah keputusan dan/atau \ntindakan Bank Indonesia yang ditetapkan oleh Dewan \nGubernur, Anggota Dewan Gubernur, atau pemimpin \nsatuan kerja. \n2. \nKebijakan Utama adalah Kebijakan Bank Indonesia yang \nterdiri \natas \nkebijakan \nmoneter, \nkebijakan \nsistem \npembayaran, dan kebijakan makroprudensial. \n3. \nKebijakan Pendukung adalah Kebijakan Bank Indonesia \nuntuk menopang Kebijakan Utama. \n4. \nKebijakan Moneter adalah Kebijakan Bank Indonesia yang \nditetapkan dan dilaksanakan guna mencapai stabilitas \nnilai rupiah. \n5. \nKebijakan Sistem Pembayaran adalah Kebijakan Bank \nIndonesia yang ditetapkan dan dilaksanakan guna \nmemelihara stabilitas sistem pembayaran. \n6. \nKebijakan Makroprudensial adalah Kebijakan Bank \nIndonesia yang ditetapkan dan dilaksanakan guna turut \nmenjaga stabilitas sistem keuangan. \n7. \nPertumbuhan \nEkonomi \nyang \nBerkelanjutan \nadalah \nperekonomian yang tumbuh sesuai dengan kapasitasnya \ndan inklusif sehingga terjaga stabil, seimbang, dan \nberdaya tahan terhadap gejolak, baik yang bersumber dari \nglobal maupun dalam negeri. \n8. \nStabilitas Nilai Rupiah adalah kestabilan harga barang \ndan jasa yang secara umum diukur dari inflasi yang \nrendah dan stabil, serta kestabilan nilai tukar rupiah yang \ndiukur dari kestabilan nilai rupiah terhadap mata uang \nnegara lain bagi tercapainya Pertumbuhan Ekonomi yang \nBerkelanjutan.  \n \n\n\n \n9. \nStabilitas Sistem Keuangan yang selanjutnya disingkat \nSSK adalah kondisi sistem keuangan yang berfungsi efektif \ndan efisien serta mampu bertahan dari gejolak yang \nbersumber dari dalam negeri dan luar negeri untuk \nberkontribusi pada pertumbuhan perekonomian nasional. \n10. Giro Wajib Minimum yang selanjutnya disingkat GWM \nadalah jumlah dana minimum yang wajib dipelihara oleh \nbank umum konvensional atau bank umum syariah dan \nunit usaha syariah yang besarnya ditetapkan oleh Bank \nIndonesia sebesar persentase tertentu dari dana pihak \nketiga bank umum konvensional atau dana pihak ketiga \nbank umum syariah dan unit usaha syariah. \n11. Kebijakan Insentif Likuiditas Makroprudensial yang \nselanjutnya disebut KLM adalah insentif yang ditetapkan \noleh Bank Indonesia melalui pengurangan giro bank di \nBank Indonesia dalam rangka pemenuhan GWM yang \nwajib dipenuhi secara rata-rata. \n12. Rapat Dewan Gubernur yang selanjutnya disingkat RDG \nadalah forum pengambilan keputusan tertinggi dalam \nmenetapkan kebijakan prinsipil dan strategis, melakukan \nevaluasi  kebijakan, dan/atau menerima laporan atas \nkebijakan untuk diketahui sesuai dengan ketentuan \nperaturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Pengelolaan \nlikuiditas \nuntuk \nmendukung \nPertumbuhan \nEkonomi yang Berkelanjutan didasarkan pada prinsip sistem \ntata kelola Kebijakan Bank Indonesia yang baik, yang \ndilaksanakan melalui elemen sistem tata kelola Kebijakan Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengelolaan \nlikuiditas \nuntuk \nmendukung \nPertumbuhan \nEkonomi yang Berkelanjutan didasarkan pada prinsip sistem \ntata kelola Kebijakan Bank Indonesia yang baik, yang \ndilaksanakan melalui elemen sistem tata kelola Kebijakan Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Maksud dan tujuan pengaturan pengelolaan likuiditas untuk \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan dalam \nPeraturan Bank Indonesia ini: \na. \nmenjadi pedoman bagi perumusan dan pelaksanaan \npengelolaan likuiditas agar sejalan dengan tugas dan \nwewenang Bank Indonesia dalam pencapaian tujuan yang \ndiamanatkan dalam Undang-Undang; \nb. \nmenjadi acuan utama bagi pembentukan ketentuan Bank \nIndonesia mengenai pelaksanaan pengelolaan likuiditas; \ndan \nc. \nmenjadi \nacuan \nbagi \npihak \neksternal \nmengenai \npelaksanaan pengelolaan likuiditas, \nuntuk mendukung Pertumbuhan Ekonomi yang Berkelanjutan. \n \nBAB II \nPRINSIP DASAR PENGELOLAAN LIKUIDITAS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Maksud dan tujuan pengaturan pengelolaan likuiditas untuk \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan dalam \nPeraturan Bank Indonesia ini: \na. \nmenjadi pedoman bagi perumusan dan pelaksanaan \npengelolaan likuiditas agar sejalan dengan tugas dan \nwewenang Bank Indonesia dalam pencapaian tujuan yang \ndiamanatkan dalam Undang-Undang; \nb. \nmenjadi acuan utama bagi pembentukan ketentuan Bank \nIndonesia mengenai pelaksanaan pengelolaan likuiditas; \ndan \nc. \nmenjadi \nacuan \nbagi \npihak \neksternal \nmengenai \npelaksanaan pengelolaan likuiditas, \nuntuk mendukung Pertumbuhan Ekonomi yang Berkelanjutan. \n \nBAB II \nPRINSIP DASAR PENGELOLAAN LIKUIDITAS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nBank Indonesia mengelola likuiditas untuk mendukung \nPertumbuhan Ekonomi yang Berkelanjutan. \n \n \n \n\n\n \n(2) \nPengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud pada \nayat \n(1) \nmerupakan \nbagian \ndari \npenetapan \ndan \npelaksanaan \nKebijakan \nMoneter, \nKebijakan \nMakroprudensial, \nKebijakan \nSistem \nPembayaran, \ndan/atau kebijakan lain yang merupakan kewenangan \nBank Indonesia. \n(3) \nPengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud pada \nayat (1) merupakan bagian dari bauran Kebijakan Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengelola likuiditas untuk mendukung \nPertumbuhan Ekonomi yang Berkelanjutan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud pada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "merupakan \nbagian \ndari \npenetapan \ndan \npelaksanaan \nKebijakan \nMoneter, \nKebijakan \nMakroprudensial, \nKebijakan \nSistem \nPembayaran, \ndan/atau kebijakan lain yang merupakan kewenangan \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud pada \nayat (1) merupakan bagian dari bauran Kebijakan Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRINSIP DASAR PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nPengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \ndalam Pasal 2 bertujuan untuk menjaga keseimbangan \nantara penawaran dan permintaan likuiditas yang sesuai \ndengan kapasitas perekonomian.  \n(2) \nPengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \npada \nayat \n(1) \ndilakukan \ndengan \nmengutamakan \npencapaian tujuan Bank Indonesia untuk mencapai \nkestabilan nilai rupiah dalam rangka Kebijakan Moneter \ndengan memperhatikan kondisi makroekenomi. \n(3) \nPengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \npada ayat (1) dilaksanakan dalam kondisi sistem \nkeuangan normal. \n \nBAB III \nKERANGKA PENGELOLAAN LIKUIDITAS \n \nBagian Kesatu \nSasaran, Instrumen, dan Mekanisme",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \ndalam Pasal 2 bertujuan untuk menjaga keseimbangan \nantara penawaran dan permintaan likuiditas yang sesuai \ndengan kapasitas perekonomian."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \ndengan \nmengutamakan \npencapaian tujuan Bank Indonesia untuk mencapai \nkestabilan nilai rupiah dalam rangka Kebijakan Moneter \ndengan memperhatikan kondisi makroekenomi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \npada ayat (1) dilaksanakan dalam kondisi sistem \nkeuangan normal. \n \nBAB III \nKERANGKA PENGELOLAAN LIKUIDITAS \n \nBagian Kesatu \nSasaran, Instrumen, dan Mekanisme"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "Bank Indonesia melaksanakan pengelolaan likuiditas untuk \nmencapai sasaran terjaganya kecukupan likuiditas di pasar \nuang, pasar valuta asing, perbankan, dan perekonomian yang \nkonsisten dengan upaya mencapai Stabilitas Nilai Rupiah, \ndalam rangka mendukung Pertumbuhan Ekonomi yang \nBerkelanjutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melaksanakan pengelolaan likuiditas untuk \nmencapai sasaran terjaganya kecukupan likuiditas di pasar \nuang, pasar valuta asing, perbankan, dan perekonomian yang \nkonsisten dengan upaya mencapai Stabilitas Nilai Rupiah, \ndalam rangka mendukung Pertumbuhan Ekonomi yang \nBerkelanjutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "Pencapaian sasaran pengelolaan likuiditas untuk mendukung \nPertumbuhan Ekonomi yang Berkelanjutan sebagaimana \ndimaksud dalam Pasal 6 dilaksanakan dengan menggunakan \ninstrumen dan/atau mekanisme yang meliputi: \na. \npengaturan GWM;  \nb. \npembelian atau penjualan surat berharga negara di pasar \nsekunder; \nc. \npembelian atau penjualan surat berharga berkualitas \nlainnya di pasar sekunder; \nd. \npenempatan dana pada lembaga keuangan dalam rangka \npengembangan pasar uang;  \n\n\n \ne. \npembelian surat utang negara berjangka pendek di pasar \nprimer; dan/atau \nf. \ninstrumen dan/atau mekanisme lain yang ditetapkan oleh \nBank Indonesia. \n \nBagian Kedua \nInstrumen dan/atau Mekanisme \n \nParagraf 1 \nPengaturan GWM",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pencapaian sasaran pengelolaan likuiditas untuk mendukung \nPertumbuhan Ekonomi yang Berkelanjutan sebagaimana \ndimaksud dalam Pasal 6 dilaksanakan dengan menggunakan \ninstrumen dan/atau mekanisme yang meliputi: \na. \npengaturan GWM;  \nb. \npembelian atau penjualan surat berharga negara di pasar \nsekunder; \nc. \npembelian atau penjualan surat berharga berkualitas \nlainnya di pasar sekunder; \nd. \npenempatan dana pada lembaga keuangan dalam rangka \npengembangan pasar uang;  \n\n\n \ne. \npembelian surat utang negara berjangka pendek di pasar \nprimer; dan/atau \nf. \ninstrumen dan/atau mekanisme lain yang ditetapkan oleh \nBank Indonesia. \n \nBagian Kedua \nInstrumen dan/atau Mekanisme \n \nParagraf 1 \nPengaturan GWM"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nDalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank Indonesia dapat melakukan pengaturan GWM.   \n(2) \nDalam \nmelakukan \npengaturan \nGWM \nsebagaimana \ndimaksud \npada \nayat \n(1), \nBank \nIndonesia \ndapat \nmemberikan insentif pengurangan GWM. \n(3) \nInsentif pengurangan GWM sebagaimana dimaksud pada \nayat (2) dilakukan melalui pemberian KLM kepada bank \nyang telah menyalurkan kredit atau pembiayaan pada \nsektor prioritas yang mendukung pertumbuhan ekonomi, \npenciptaan lapangan kerja, dan/atau inklusi keuangan \ndan keuangan hijau. \n(4) \nPemberian KLM sebagaimana dimaksud pada ayat (3) \ndilakukan dengan mempertimbangkan \nPertumbuhan \nEkonomi yang Berkelanjutan melalui peningkatan fungsi \nintermediasi yang seimbang dan berkualitas, penjagaan \nketahanan sistem keuangan, dan peningkatan inklusi \nekonomi dan inklusi keuangan. \n(5) \nPengaturan GWM sebagaimana dimaksud pada ayat (2) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai GWM. \n(6) \nPemberian KLM sebagaimana dimaksud pada ayat (2) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai KLM. \n(7) \nSelain melalui pemberian KLM sebagaimana dimaksud \npada ayat (3), Bank Indonesia dapat memberikan insentif \npengurangan \nGWM \nmelalui \ninstrumen \ndan/atau \nmekanisme lain yang ditetapkan oleh Bank Indonesia. \n \nParagraf 2 \nPembelian atau Penjualan Surat Berharga Negara  \ndi Pasar Sekunder",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank Indonesia dapat melakukan pengaturan GWM."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmelakukan \npengaturan \nGWM \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": ", \nBank \nIndonesia \ndapat \nmemberikan insentif pengurangan GWM."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Insentif pengurangan GWM sebagaimana dimaksud pada \nayat (2) dilakukan melalui pemberian KLM kepada bank \nyang telah menyalurkan kredit atau pembiayaan pada \nsektor prioritas yang mendukung pertumbuhan ekonomi, \npenciptaan lapangan kerja, dan/atau inklusi keuangan \ndan keuangan hijau."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemberian KLM sebagaimana dimaksud pada ayat (3) \ndilakukan dengan mempertimbangkan \nPertumbuhan \nEkonomi yang Berkelanjutan melalui peningkatan fungsi \nintermediasi yang seimbang dan berkualitas, penjagaan \nketahanan sistem keuangan, dan peningkatan inklusi \nekonomi dan inklusi keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengaturan GWM sebagaimana dimaksud pada ayat (2) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai GWM."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Pemberian KLM sebagaimana dimaksud pada ayat (2) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia \nmengenai KLM."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Selain melalui pemberian KLM sebagaimana dimaksud \npada ayat (3), Bank Indonesia dapat memberikan insentif \npengurangan \nGWM \nmelalui \ninstrumen \ndan/atau \nmekanisme lain yang ditetapkan oleh Bank Indonesia. \n \nParagraf 2 \nPembelian atau Penjualan Surat Berharga Negara  \ndi Pasar Sekunder"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nDalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank \nIndonesia \ndapat \nmelakukan pembelian \natau \npenjualan surat berharga negara di pasar sekunder. \n(2) \nPembelian atau penjualan surat berharga negara di pasar \nsekunder sebagaimana dimaksud pada ayat (1) dilakukan \ndengan ketentuan: \na. \nsesuai mekanisme pasar; \n\n\n \nb. \nmerupakan \nsurat \nberharga \nyang \ndapat \ndiperjualbelikan (tradable); \nc. \nmempertimbangkan dampaknya terhadap Stabilitas \nNilai Rupiah secara terukur; dan \nd. \nmemenuhi ketentuan lain yang ditetapkan oleh Bank \nIndonesia.  \n(3) \nKetentuan mengenai pembelian atau penjualan surat \nberharga \nnegara \ndi \npasar \nsekunder \nsebagaimana \ndimaksud pada ayat (1) ditetapkan oleh Bank Indonesia. \n \nParagraf 3 \nPembelian atau Penjualan Surat Berharga Berkualitas \nLainnya di Pasar Sekunder",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank \nIndonesia \ndapat \nmelakukan pembelian \natau \npenjualan surat berharga negara di pasar sekunder."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembelian atau penjualan surat berharga negara di pasar \nsekunder sebagaimana dimaksud pada ayat (1) dilakukan \ndengan ketentuan: \na. \nsesuai mekanisme pasar; \n\n\n \nb. \nmerupakan \nsurat \nberharga \nyang \ndapat \ndiperjualbelikan (tradable); \nc. \nmempertimbangkan dampaknya terhadap Stabilitas \nNilai Rupiah secara terukur; dan \nd. \nmemenuhi ketentuan lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai pembelian atau penjualan surat \nberharga \nnegara \ndi \npasar \nsekunder \nsebagaimana \ndimaksud pada ayat (1) ditetapkan oleh Bank Indonesia. \n \nParagraf 3 \nPembelian atau Penjualan Surat Berharga Berkualitas \nLainnya di Pasar Sekunder"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nDalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank \nIndonesia \ndapat \nmelakukan pembelian \natau \npenjualan surat berharga berkualitas lainnya di pasar \nsekunder. \n(2) \nSurat \nberharga \nberkualitas \nlainnya \nsebagaimana \ndimaksud pada ayat (1) diterbitkan oleh:  \na. \nbank umum;  \nb. \nlembaga jasa keuangan lain yang dibentuk atau \ndidirikan Pemerintah untuk mendukung program \nPemerintah bagi kesejahteraan masyarakat; atau   \nc. \nlembaga jasa keuangan lain yang ditetapkan oleh \nBank Indonesia. \n(3) \nPembelian atau penjualan surat berharga berkualitas \nlainnya di pasar sekunder sebagaimana dimaksud pada \nayat (1) dilakukan dengan ketentuan: \na. \nsesuai  mekanisme pasar; \nb. \nmerupakan \nsurat \nberharga \nyang \ndapat \ndiperjualbelikan (tradable) dan aktif diperdagangkan \ndalam periode tertentu; \nc. \nmerupakan surat berharga yang memiliki peringkat \ntinggi yang memenuhi kriteria Bank Indonesia; \nd. \nmerupakan surat berharga yang diterbitkan oleh \nlembaga penerbit surat berharga, yang memenuhi \nkriteria Bank Indonesia; \ne. \nmempertimbangkan dampaknya terhadap Stabilitas \nNilai Rupiah secara terukur; dan \nf. \nmemenuhi ketentuan lain yang ditetapkan oleh Bank \nIndonesia.  \n(4) \nKetentuan mengenai pembelian atau penjualan surat \nberharga \nberkualitas \nlainnya \ndi \npasar \nsekunder \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nBank Indonesia. \n \n \n \n \n \n \n \n\n\n \nParagraf 4 \nPenempatan Dana pada Lembaga Keuangan dalam rangka \nPengembangan Pasar Uang",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank \nIndonesia \ndapat \nmelakukan pembelian \natau \npenjualan surat berharga berkualitas lainnya di pasar \nsekunder."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Surat \nberharga \nberkualitas \nlainnya \nsebagaimana \ndimaksud pada ayat (1) diterbitkan oleh:  \na. \nbank umum;  \nb. \nlembaga jasa keuangan lain yang dibentuk atau \ndidirikan Pemerintah untuk mendukung program \nPemerintah bagi kesejahteraan masyarakat; atau   \nc. \nlembaga jasa keuangan lain yang ditetapkan oleh \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pembelian atau penjualan surat berharga berkualitas \nlainnya di pasar sekunder sebagaimana dimaksud pada \nayat (1) dilakukan dengan ketentuan: \na. \nsesuai  mekanisme pasar; \nb. \nmerupakan \nsurat \nberharga \nyang \ndapat \ndiperjualbelikan (tradable) dan aktif diperdagangkan \ndalam periode tertentu; \nc. \nmerupakan surat berharga yang memiliki peringkat \ntinggi yang memenuhi kriteria Bank Indonesia; \nd. \nmerupakan surat berharga yang diterbitkan oleh \nlembaga penerbit surat berharga, yang memenuhi \nkriteria Bank Indonesia; \ne. \nmempertimbangkan dampaknya terhadap Stabilitas \nNilai Rupiah secara terukur; dan \nf. \nmemenuhi ketentuan lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai pembelian atau penjualan surat \nberharga \nberkualitas \nlainnya \ndi \npasar \nsekunder \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nBank Indonesia. \n \n \n \n \n \n \n \n\n\n \nParagraf 4 \nPenempatan Dana pada Lembaga Keuangan dalam rangka \nPengembangan Pasar Uang"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nDalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank Indonesia dapat melakukan penempatan dana pada \nlembaga keuangan dalam bentuk penyertaan modal dalam \nrangka pengembangan pasar uang. \n(2) \nPenempatan dana pada lembaga keuangan dalam bentuk \npenyertaan modal dalam rangka pengembangan pasar \nuang sebagaimana dimaksud pada ayat (1) dilakukan \nkepada lembaga keuangan yang dibentuk Pemerintah \ndalam rangka sekuritisasi aset untuk memperluas akses \nterhadap sumber pembiayaan bagi perekonomian. \n(3) \nPenempatan dana pada lembaga keuangan dalam bentuk \npenyertaan modal dalam rangka pengembangan pasar \nuang sebagaimana dimaksud pada ayat (2) dilakukan \ndengan ketentuan: \na. \ndilaksanakan dengan persetujuan Dewan Perwakilan \nRakyat; \nb. \nmenggunakan cadangan tujuan; dan \nc. \nmemenuhi ketentuan lain yang ditetapkan oleh Bank \nIndonesia. \n(4) \nKetentuan mengenai penempatan dana pada lembaga \nkeuangan dalam bentuk penyertaan modal dalam rangka \npengembangan pasar uang sebagaimana dimaksud pada \nayat (2) ditetapkan oleh Bank Indonesia. \n \nParagraf 5 \nPembelian Surat Utang Negara Berjangka Pendek  \ndi Pasar Primer",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank Indonesia dapat melakukan penempatan dana pada \nlembaga keuangan dalam bentuk penyertaan modal dalam \nrangka pengembangan pasar uang."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penempatan dana pada lembaga keuangan dalam bentuk \npenyertaan modal dalam rangka pengembangan pasar \nuang sebagaimana dimaksud pada ayat (1) dilakukan \nkepada lembaga keuangan yang dibentuk Pemerintah \ndalam rangka sekuritisasi aset untuk memperluas akses \nterhadap sumber pembiayaan bagi perekonomian."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penempatan dana pada lembaga keuangan dalam bentuk \npenyertaan modal dalam rangka pengembangan pasar \nuang sebagaimana dimaksud pada ayat (2) dilakukan \ndengan ketentuan: \na. \ndilaksanakan dengan persetujuan Dewan Perwakilan \nRakyat; \nb. \nmenggunakan cadangan tujuan; dan \nc. \nmemenuhi ketentuan lain yang ditetapkan oleh Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai penempatan dana pada lembaga \nkeuangan dalam bentuk penyertaan modal dalam rangka \npengembangan pasar uang sebagaimana dimaksud pada \nayat (2) ditetapkan oleh Bank Indonesia. \n \nParagraf 5 \nPembelian Surat Utang Negara Berjangka Pendek  \ndi Pasar Primer"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nUntuk operasi pengendalian moneter, Bank  Indonesia \ndapat melakukan pembelian surat utang negara berjangka \npendek di pasar primer. \n(2) \nKetentuan mengenai pembelian surat utang negara \nberjangka pendek di pasar primer sebagaimana dimaksud \npada ayat (1) ditetapkan oleh Bank Indonesia. \nParagraf 6 \nInstrumen dan/atau Mekanisme Lain yang Ditetapkan  \noleh Bank Indonesia",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk operasi pengendalian moneter, Bank  Indonesia \ndapat melakukan pembelian surat utang negara berjangka \npendek di pasar primer."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai pembelian surat utang negara \nberjangka pendek di pasar primer sebagaimana dimaksud \npada ayat (1) ditetapkan oleh Bank Indonesia. \nParagraf 6 \nInstrumen dan/atau Mekanisme Lain yang Ditetapkan  \noleh Bank Indonesia"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "(1) \nDalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank Indonesia dapat menggunakan instrumen dan/atau \nmekanisme lain yang ditetapkan oleh Bank Indonesia. \n \n \n\n\n \n(2) \nDalam menggunakan instrumen dan/atau mekanisme \nlain yang ditetapkan oleh Bank Indonesia sebagaimana \ndimaksud pada ayat (1), Bank Indonesia memperhatikan \nketentuan sebagaimana dimaksud dalam Pasal 4 dan \nPasal 5.  \n(3) \nKetentuan mengenai instrumen dan/atau mekanisme lain \nyang ditetapkan oleh Bank Indonesia sebagaimana \ndimaksud pada ayat (1) ditetapkan oleh Bank Indonesia. \n \nBagian Ketiga \nRuang Lingkup",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam mencapai sasaran terjaganya kecukupan likuiditas \ndi pasar uang, pasar valuta asing, perbankan, dan \nperekonomian sebagaimana dimaksud dalam Pasal 6, \nBank Indonesia dapat menggunakan instrumen dan/atau \nmekanisme lain yang ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menggunakan instrumen dan/atau mekanisme \nlain yang ditetapkan oleh Bank Indonesia sebagaimana \ndimaksud pada ayat (1), Bank Indonesia memperhatikan \nketentuan sebagaimana dimaksud dalam Pasal 4 dan \nPasal 5."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan mengenai instrumen dan/atau mekanisme lain \nyang ditetapkan oleh Bank Indonesia sebagaimana \ndimaksud pada ayat (1) ditetapkan oleh Bank Indonesia. \n \nBagian Ketiga \nRuang Lingkup"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB III",
+      "bab_judul": "KERANGKA PENGELOLAAN LIKUIDITAS",
+      "teks_lengkap": "Pengelolaan \nlikuiditas \nuntuk \nmendukung \nPertumbuhan \nEkonomi yang Berkelanjutan meliputi: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan; \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \n \nBAB IV \nPERUMUSAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengelolaan \nlikuiditas \nuntuk \nmendukung \nPertumbuhan \nEkonomi yang Berkelanjutan meliputi: \na. \nperumusan; \nb. \npelaksanaan; \nc. \npelaporan dan pengawasan; \nd. \nkoordinasi dan sinergi; dan \ne. \nakuntabilitas dan transparansi. \n \nBAB IV \nPERUMUSAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PERUMUSAN",
+      "teks_lengkap": "(1) Bank Indonesia merumuskan mengenai pengelolaan \nlikuiditas untuk mendukung Pertumbuhan Ekonomi yang \nBerkelanjutan sebagai bagian dari bauran Kebijakan Bank \nIndonesia untuk ditetapkan dalam RDG bulanan.   \n(2) Ketentuan mengenai perumusan pengelolaan likuiditas \nuntuk \nmendukung \nPertumbuhan \nEkonomi \nyang \nBerkelanjutan sebagaimana dimaksud pada ayat (1) \nditetapkan oleh Bank Indonesia. \n \nBAB V \nPELAKSANAAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia merumuskan mengenai pengelolaan \nlikuiditas untuk mendukung Pertumbuhan Ekonomi yang \nBerkelanjutan sebagai bagian dari bauran Kebijakan Bank \nIndonesia untuk ditetapkan dalam RDG bulanan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan mengenai perumusan pengelolaan likuiditas \nuntuk \nmendukung \nPertumbuhan \nEkonomi \nyang \nBerkelanjutan sebagaimana dimaksud pada ayat (1) \nditetapkan oleh Bank Indonesia. \n \nBAB V \nPELAKSANAAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKSANAAN",
+      "teks_lengkap": "(1) \nDewan Gubernur menetapkan rincian lebih lanjut dari \npengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \ndalam Pasal 15 ayat (1) dalam RDG mingguan. \n(2) \nRDG mingguan sebagaimana dimaksud pada ayat (1) \ndiselenggarakan untuk: \na. melakukan evaluasi atas pelaksanaan pengelolaan \nlikuiditas  untuk mendukung Pertumbuhan Ekonomi \nyang Berkelanjutan;  \nb. menetapkan \nkebijakan \nyang \nberkaitan \ndengan \npelaksanaan \npengelolaan \nlikuiditas \n \nuntuk \nmendukung \nPertumbuhan \nEkonomi \nyang \nBerkelanjutan; dan/atau \nc. menerima laporan terkait pelaksanaan pengelolaan \nlikuiditas  untuk mendukung Pertumbuhan Ekonomi \nyang Berkelanjutan untuk diketahui Dewan Gubernur. \n\n\n \n(3) \nPenyelenggaraan RDG mingguan sebagaimana dimaksud \npada ayat (2) dilakukan secara berkala dan sewaktu-waktu \njika diperlukan. \n(4) \nKetentuan \nmengenai \npelaksanaan \nRDG \nmingguan \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nBank Indonesia. \n \nBAB VI \nPELAPORAN DAN PENGAWASAN \n \nBagian Kesatu \nData dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dewan Gubernur menetapkan rincian lebih lanjut dari \npengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan sebagaimana dimaksud \ndalam Pasal 15 ayat (1) dalam RDG mingguan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "RDG mingguan sebagaimana dimaksud pada ayat (1) \ndiselenggarakan untuk: \na. melakukan evaluasi atas pelaksanaan pengelolaan \nlikuiditas  untuk mendukung Pertumbuhan Ekonomi \nyang Berkelanjutan;  \nb. menetapkan \nkebijakan \nyang \nberkaitan \ndengan \npelaksanaan \npengelolaan \nlikuiditas \n \nuntuk \nmendukung \nPertumbuhan \nEkonomi \nyang \nBerkelanjutan; dan/atau \nc. menerima laporan terkait pelaksanaan pengelolaan \nlikuiditas  untuk mendukung Pertumbuhan Ekonomi \nyang Berkelanjutan untuk diketahui Dewan Gubernur."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggaraan RDG mingguan sebagaimana dimaksud \npada ayat (2) dilakukan secara berkala dan sewaktu-waktu \njika diperlukan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan \nmengenai \npelaksanaan \nRDG \nmingguan \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nBank Indonesia. \n \nBAB VI \nPELAPORAN DAN PENGAWASAN \n \nBagian Kesatu \nData dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) Dalam \nrangka \nmenetapkan \ndan \nmelaksanakan \npengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan, Bank Indonesia berwenang \nuntuk: \na. \nmenyelenggarakan survei; \nb. \nmemperoleh data dan informasi dari pihak terkait; \ndan \nc. \nmemperoleh data dan informasi dari dan/atau \nmelakukan pertukaran data dan informasi dengan \notoritas dan/atau kementerian atau lembaga terkait.  \n(2) \nPenyelenggaraan \nsurvei \nserta \nperolehan \ndata \ndan \ninformasi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan sesuai dengan Peraturan Bank Indonesia \nmengenai kebijakan data dan informasi Bank Indonesia. \n \nBagian Kedua  \nPelaporan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nrangka \nmenetapkan \ndan \nmelaksanakan \npengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan, Bank Indonesia berwenang \nuntuk: \na. \nmenyelenggarakan survei; \nb. \nmemperoleh data dan informasi dari pihak terkait; \ndan \nc. \nmemperoleh data dan informasi dari dan/atau \nmelakukan pertukaran data dan informasi dengan \notoritas dan/atau kementerian atau lembaga terkait."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggaraan \nsurvei \nserta \nperolehan \ndata \ndan \ninformasi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan sesuai dengan Peraturan Bank Indonesia \nmengenai kebijakan data dan informasi Bank Indonesia. \n \nBagian Kedua  \nPelaporan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nDalam \nmelaksanakan \ntugas \nmengenai \npengelolaan \nlikuiditas untuk mendukung Pertumbuhan Ekonomi yang \nBerkelanjutan, \nBank \nIndonesia \ndapat \nmelakukan \npengaturan mengenai pelaporan.  \n(2) \nPelaporan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan sesuai dengan Peraturan Bank Indonesia \nmengenai kebijakan data dan informasi Bank Indonesia.  \n \nBagian Ketiga \nPengawasan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelaksanakan \ntugas \nmengenai \npengelolaan \nlikuiditas untuk mendukung Pertumbuhan Ekonomi yang \nBerkelanjutan, \nBank \nIndonesia \ndapat \nmelakukan \npengaturan mengenai pelaporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan sesuai dengan Peraturan Bank Indonesia \nmengenai kebijakan data dan informasi Bank Indonesia.  \n \nBagian Ketiga \nPengawasan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PELAPORAN DAN PENGAWASAN",
+      "teks_lengkap": "(1) \nBank Indonesia berwenang melakukan pengawasan atas \npelaksanaan pengelolaan likuiditas untuk mendukung \nPertumbuhan Ekonomi yang Berkelanjutan.  \n(2) \nPengawasan sebagaimana dimaksud pada ayat (1) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia. \n \n \n \n \n \n \n\n\n \nBAB VII \nKOORDINASI DAN SINERGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia berwenang melakukan pengawasan atas \npelaksanaan pengelolaan likuiditas untuk mendukung \nPertumbuhan Ekonomi yang Berkelanjutan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan sebagaimana dimaksud pada ayat (1) \ndilaksanakan sesuai dengan ketentuan Bank Indonesia. \n \n \n \n \n \n \n\n\n \nBAB VII \nKOORDINASI DAN SINERGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "KOORDINASI DAN SINERGI",
+      "teks_lengkap": "(1) \nDalam \nmelaksanakan \npengelolaan \nlikuiditas \nuntuk \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan, \nBank Indonesia melakukan koordinasi dan sinergi dengan \npihak \neksternal \nyang \nmeliputi \notoritas \ndan/atau \nkementerian atau lembaga terkait.  \n(2) \nKoordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) mencakup: \na. \npengaturan mengenai GWM; \nb. \npembelian atau penjualan surat berharga negara  di \npasar sekunder; \nc. \npembelian atau penjualan surat berharga berkualitas \nlainnya di pasar sekunder; \nd. \npenempatan dana pada lembaga keuangan dalam \nrangka pengembangan pasar uang;  \ne. \npembelian surat utang negara berjangka pendek di \npasar primer; dan/atau \nf. \nkoordinasi dan sinergi lain.  \n(3) \nKoordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan dalam \nkepentingan bersama untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan. \n(4) \nKoordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan sesuai \ndengan kewenangan otoritas dan/atau kementerian atau \nlembaga yang terkait. \n(5) \nKetentuan mengenai koordinasi dan sinergi dengan pihak \neksternal \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan sesuai dengan Peraturan Bank Indonesia. \n \nBAB VIII \nAKUNTABILITAS DAN TRANSPARANSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam \nmelaksanakan \npengelolaan \nlikuiditas \nuntuk \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan, \nBank Indonesia melakukan koordinasi dan sinergi dengan \npihak \neksternal \nyang \nmeliputi \notoritas \ndan/atau \nkementerian atau lembaga terkait."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Koordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) mencakup: \na. \npengaturan mengenai GWM; \nb. \npembelian atau penjualan surat berharga negara  di \npasar sekunder; \nc. \npembelian atau penjualan surat berharga berkualitas \nlainnya di pasar sekunder; \nd. \npenempatan dana pada lembaga keuangan dalam \nrangka pengembangan pasar uang;  \ne. \npembelian surat utang negara berjangka pendek di \npasar primer; dan/atau \nf. \nkoordinasi dan sinergi lain."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Koordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan dalam \nkepentingan bersama untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Koordinasi \ndan \nsinergi \ndengan \npihak \neksternal \nsebagaimana dimaksud pada ayat (1) dilaksanakan sesuai \ndengan kewenangan otoritas dan/atau kementerian atau \nlembaga yang terkait."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan mengenai koordinasi dan sinergi dengan pihak \neksternal \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan sesuai dengan Peraturan Bank Indonesia. \n \nBAB VIII \nAKUNTABILITAS DAN TRANSPARANSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI",
+      "teks_lengkap": "Dalam \nmelaksanakan \npengelolaan \nlikuiditas \nuntuk \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan, Bank \nIndonesia menerapkan transparansi kebijakan sebagai bentuk \nakuntabilitas kepada publik.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nmelaksanakan \npengelolaan \nlikuiditas \nuntuk \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan, Bank \nIndonesia menerapkan transparansi kebijakan sebagai bentuk \nakuntabilitas kepada publik."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "AKUNTABILITAS DAN TRANSPARANSI",
+      "teks_lengkap": "(1) \nDalam penerapan transparansi kebijakan sebagaimana \ndimaksud dalam Pasal 21, Bank Indonesia melakukan \nkomunikasi kebijakan. \n(2) \nKomunikasi kebijakan sebagaimana dimaksud pada ayat \n(1) dapat disampaikan melalui kanal komunikasi. \n \nBAB IX \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penerapan transparansi kebijakan sebagaimana \ndimaksud dalam Pasal 21, Bank Indonesia melakukan \nkomunikasi kebijakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komunikasi kebijakan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dapat disampaikan melalui kanal komunikasi. \n \nBAB IX \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Maret 2025 \n \nGUBERNUR BANK INDONESIA,  \n \nŒ \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal                         Д  \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR     Ж  \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 6 TAHUN 2025 \nTENTANG \nPENGELOLAAN LIKUIDITAS UNTUK MENDUKUNG PERTUMBUHAN EKONOMI \nYANG BERKELANJUTAN \n \nI. \nUMUM \nBank Indonesia memiliki tujuan untuk mencapai Stabilitas Nilai \nRupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga SSK \ndalam rangka mendukung Pertumbuhan Ekonomi yang Berkelanjutan.  \nDalam upaya pencapaian tujuan Bank Indonesia tersebut, Bank \nIndonesia memiliki tugas menetapkan dan melaksanakan Kebijakan \nMoneter, mengatur dan menjaga kelancaran sistem pembayaran, serta \nmenetapkan dan melaksanakan Kebijakan Makroprudensial.  \nDalam menetapkan dan melaksanakan Kebijakan Moneter, Bank \nIndonesia mengelola likuiditas untuk menjaga kecukupan likuiditas di \npasar uang, pasar valuta asing, perbankan, dan perekonomian melalui \npengendalian moneter. Pengendalian moneter tersebut di antaranya \ndilakukan dengan operasi moneter di pasar uang dan pasar valuta asing, \nserta pengaturan GWM dalam rupiah dan valuta asing. Untuk mendukung \noperasi pengendalian moneter, Bank Indonesia dapat membeli surat utang \nnegara berjangka pendek di pasar primer.  \nSelain pengelolaan likuiditas dalam rangka menetapkan dan \nmelaksanakan Kebijakan Moneter, Bank Indonesia mengelola likuiditas \nuntuk pertumbuhan ekonomi. Pengelolaan likuiditas tersebut merupakan \nbagian dari pelaksanaan bauran Kebijakan Bank Indonesia yang \nmerupakan integrasi kebijakan secara dinamis yang saling melengkapi dan \nmemperkuat antar-Kebijakan Utama, dengan ditopang oleh Kebijakan \nPendukung \nuntuk \nmemperoleh \nkebijakan \nyang \nkonsisten \ndalam \npelaksanaan tugas dan pencapaian tujuan Bank Indonesia.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan \nBank \nIndonesia \ntentang \nPengelolaan \nLikuiditas \nuntuk \nMendukung Pertumbuhan Ekonomi yang Berkelanjutan. \n \nII.  PASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Bank Indonesia ini mulai berlaku pada tanggal \ndiundangkan. \n \n\n\n \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan \nPeraturan \nBank \nIndonesia \nini \ndengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Maret 2025 \n \nGUBERNUR BANK INDONESIA,  \n \nŒ \n \nPERRY WARJIYO \n \nDiundangkan di Jakarta \npada tanggal                         Д  \n \nMENTERI HUKUM REPUBLIK INDONESIA, \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR     Ж  \n \n \n\n\n \nPENJELASAN \nATAS \nPERATURAN BANK INDONESIA \nNOMOR 6 TAHUN 2025 \nTENTANG \nPENGELOLAAN LIKUIDITAS UNTUK MENDUKUNG PERTUMBUHAN EKONOMI \nYANG BERKELANJUTAN \n \nI. \nUMUM \nBank Indonesia memiliki tujuan untuk mencapai Stabilitas Nilai \nRupiah, memelihara stabilitas sistem pembayaran, dan turut menjaga SSK \ndalam rangka mendukung Pertumbuhan Ekonomi yang Berkelanjutan.  \nDalam upaya pencapaian tujuan Bank Indonesia tersebut, Bank \nIndonesia memiliki tugas menetapkan dan melaksanakan Kebijakan \nMoneter, mengatur dan menjaga kelancaran sistem pembayaran, serta \nmenetapkan dan melaksanakan Kebijakan Makroprudensial.  \nDalam menetapkan dan melaksanakan Kebijakan Moneter, Bank \nIndonesia mengelola likuiditas untuk menjaga kecukupan likuiditas di \npasar uang, pasar valuta asing, perbankan, dan perekonomian melalui \npengendalian moneter. Pengendalian moneter tersebut di antaranya \ndilakukan dengan operasi moneter di pasar uang dan pasar valuta asing, \nserta pengaturan GWM dalam rupiah dan valuta asing. Untuk mendukung \noperasi pengendalian moneter, Bank Indonesia dapat membeli surat utang \nnegara berjangka pendek di pasar primer.  \nSelain pengelolaan likuiditas dalam rangka menetapkan dan \nmelaksanakan Kebijakan Moneter, Bank Indonesia mengelola likuiditas \nuntuk pertumbuhan ekonomi. Pengelolaan likuiditas tersebut merupakan \nbagian dari pelaksanaan bauran Kebijakan Bank Indonesia yang \nmerupakan integrasi kebijakan secara dinamis yang saling melengkapi dan \nmemperkuat antar-Kebijakan Utama, dengan ditopang oleh Kebijakan \nPendukung \nuntuk \nmemperoleh \nkebijakan \nyang \nkonsisten \ndalam \npelaksanaan tugas dan pencapaian tujuan Bank Indonesia.  \nBerdasarkan hal tersebut, Bank Indonesia perlu menetapkan \nPeraturan \nBank \nIndonesia \ntentang \nPengelolaan \nLikuiditas \nuntuk \nMendukung Pertumbuhan Ekonomi yang Berkelanjutan. \n \nII.  PASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan \"prinsip sistem tata kelola Kebijakan Bank \nIndonesia\" adalah prinsip yang melandasi penerapan dan penegakan \nsistem tata kelola Kebijakan Bank Indonesia yang meliputi \nindependensi, konsistensi, koordinasi, akuntabilitas, dan transparansi \nsesuai dengan Kebijakan Bank Indonesia mengenai sistem tata kelola \nkebijakan dan kelembagaan Bank Indonesia. \nYang dimaksud dengan \"elemen sistem tata kelola Kebijakan Bank \nIndonesia\" adalah aspek pokok dari sistem tata kelola Kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola Kebijakan Bank Indonesia, sesuai dengan Kebijakan \nBank Indonesia mengenai sistem tata kelola kebijakan dan \nkelembagaan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan \"prinsip sistem tata kelola Kebijakan Bank \nIndonesia\" adalah prinsip yang melandasi penerapan dan penegakan \nsistem tata kelola Kebijakan Bank Indonesia yang meliputi \nindependensi, konsistensi, koordinasi, akuntabilitas, dan transparansi \nsesuai dengan Kebijakan Bank Indonesia mengenai sistem tata kelola \nkebijakan dan kelembagaan Bank Indonesia. \nYang dimaksud dengan \"elemen sistem tata kelola Kebijakan Bank \nIndonesia\" adalah aspek pokok dari sistem tata kelola Kebijakan Bank \nIndonesia yang dilaksanakan untuk memastikan penerapan prinsip \nsistem tata kelola Kebijakan Bank Indonesia, sesuai dengan Kebijakan \nBank Indonesia mengenai sistem tata kelola kebijakan dan \nkelembagaan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nYang dimaksud dengan \"bauran Kebijakan Bank Indonesia\" \nadalah integrasi kebijakan secara dinamis yang saling melengkapi \ndan memperkuat antar-Kebijakan Utama, dengan ditopang oleh \nKebijakan Pendukung untuk memperoleh kebijakan yang \nkonsisten dalam pelaksanaan tugas dan pencapaian tujuan Bank \nIndonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nYang dimaksud dengan \"bauran Kebijakan Bank Indonesia\" \nadalah integrasi kebijakan secara dinamis yang saling melengkapi \ndan memperkuat antar-Kebijakan Utama, dengan ditopang oleh \nKebijakan Pendukung untuk memperoleh kebijakan yang \nkonsisten dalam pelaksanaan tugas dan pencapaian tujuan Bank \nIndonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \n \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan \"kondisi makroekonomi\" adalah kondisi \nperekonomian secara keseluruhan atau agregat yang tercermin \npada perkembangan indikator ekonomi, di antaranya mencakup \ninflasi, nilai tukar rupiah, harga aset, pertumbuhan kredit, \npertumbuhan \nekonomi, \nketenagakerjaan, \ndan \nneraca \npembayaran. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \n \nCukup jelas. \n \nAyat (2) \nYang dimaksud dengan \"kondisi makroekonomi\" adalah kondisi \nperekonomian secara keseluruhan atau agregat yang tercermin \npada perkembangan indikator ekonomi, di antaranya mencakup \ninflasi, nilai tukar rupiah, harga aset, pertumbuhan kredit, \npertumbuhan \nekonomi, \nketenagakerjaan, \ndan \nneraca \npembayaran. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan \"pasar uang\" adalah pasar uang sebagaimana \ndimaksud dalam Peraturan Bank Indonesia mengenai pasar uang dan \npasar valuta asing. \nYang dimaksud dengan \"pasar valuta asing\" adalah pasar valuta asing \nsebagaimana dimaksud dalam Peraturan Bank Indonesia mengenai \npasar uang dan pasar valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan \"pasar uang\" adalah pasar uang sebagaimana \ndimaksud dalam Peraturan Bank Indonesia mengenai pasar uang dan \npasar valuta asing. \nYang dimaksud dengan \"pasar valuta asing\" adalah pasar valuta asing \nsebagaimana dimaksud dalam Peraturan Bank Indonesia mengenai \npasar uang dan pasar valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nPengaturan GWM dapat dimanfaatkan untuk pengaturan kredit \n \n \natau pembiayaan bank sesuai dengan kebutuhan perekonomian. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nPemberian insentif pengurangan GWM melalui KLM bertujuan \nuntuk menambah likuiditas bank sehingga meningkatkan \nkapasitas bank dalam menyalurkan kredit atau pembiayaan \nuntuk mendukung Pertumbuhan Ekonomi yang Berkelanjutan. \nContoh sektor prioritas yang mendukung pertumbuhan ekonomi \ndan/atau penciptaan lapangan kerja, antara lain hilirisasi, \nperumahan, pertanian, industri pengolahan, usaha mikro, kecil, \ndan menengah, serta pariwisata dan ekonomi kreatif. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas. \nAyat (6) \n \n \nCukup jelas. \nAyat (7) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nPengaturan GWM dapat dimanfaatkan untuk pengaturan kredit \n \n \natau pembiayaan bank sesuai dengan kebutuhan perekonomian. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nPemberian insentif pengurangan GWM melalui KLM bertujuan \nuntuk menambah likuiditas bank sehingga meningkatkan \nkapasitas bank dalam menyalurkan kredit atau pembiayaan \nuntuk mendukung Pertumbuhan Ekonomi yang Berkelanjutan. \nContoh sektor prioritas yang mendukung pertumbuhan ekonomi \ndan/atau penciptaan lapangan kerja, antara lain hilirisasi, \nperumahan, pertanian, industri pengolahan, usaha mikro, kecil, \ndan menengah, serta pariwisata dan ekonomi kreatif. \n \nAyat (4) \n \n \nCukup jelas. \n \nAyat (5) \n \n \nCukup jelas. \nAyat (6) \n \n \nCukup jelas. \nAyat (7) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPembelian atau penjualan surat berharga negara di pasar \nsekunder dilakukan secara jual putus (outright) dan/atau repo \n(repurchase agreement).  \nPembelian surat berharga negara di pasar sekunder antara lain  \nmenambah likuiditas bank untuk meningkatkan kapasitas bank \ndalam menyalurkan kredit dan/atau pembiayaan sehingga \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPembelian atau penjualan surat berharga negara di pasar \nsekunder dilakukan secara jual putus (outright) dan/atau repo \n(repurchase agreement).  \nPembelian surat berharga negara di pasar sekunder antara lain  \nmenambah likuiditas bank untuk meningkatkan kapasitas bank \ndalam menyalurkan kredit dan/atau pembiayaan sehingga \nmendukung Pertumbuhan Ekonomi yang Berkelanjutan. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPembelian atau penjualan surat berharga yang berkualitas \nlainnya di pasar sekunder dilakukan secara jual putus (outright) \ndan/atau repo (repurchase agreement). \nPembelian surat berharga berkualitas lainnya di pasar sekunder \nantara lain menambah likuiditas bank dan/atau lembaga jasa \nkeuangan lainnya.  \nAyat (2) \nHuruf a \nBank umum adalah bank umum sebagaimana dimaksud \ndalam Undang-Undang mengenai perbankan.  \nHuruf b \nYang dimaksud dengan \"lembaga jasa keuangan lain yang \ndibentuk atau didirikan Pemerintah untuk mendukung \nprogram Pemerintah bagi kesejahteraan masyarakat\" adalah \nlembaga keuangan khusus yang mendukung pembiayaan \n\n\n \nsektor \nprioritas \nantara \nlain \ninfrastruktur, \npertanian, \ndan/atau perumahan. \nHuruf c \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPembelian atau penjualan surat berharga yang berkualitas \nlainnya di pasar sekunder dilakukan secara jual putus (outright) \ndan/atau repo (repurchase agreement). \nPembelian surat berharga berkualitas lainnya di pasar sekunder \nantara lain menambah likuiditas bank dan/atau lembaga jasa \nkeuangan lainnya.  \nAyat (2) \nHuruf a \nBank umum adalah bank umum sebagaimana dimaksud \ndalam Undang-Undang mengenai perbankan.  \nHuruf b \nYang dimaksud dengan \"lembaga jasa keuangan lain yang \ndibentuk atau didirikan Pemerintah untuk mendukung \nprogram Pemerintah bagi kesejahteraan masyarakat\" adalah \nlembaga keuangan khusus yang mendukung pembiayaan \n\n\n \nsektor \nprioritas \nantara \nlain \ninfrastruktur, \npertanian, \ndan/atau perumahan. \nHuruf c \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLihat penjelasan Pasal 6. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b  \nYang dimaksud dengan \"cadangan tujuan\" adalah cadangan \ntujuan sebagaimana dimaksud dalam Undang-Undang \nmengenai Bank Indonesia. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLihat penjelasan Pasal 6. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b  \nYang dimaksud dengan \"cadangan tujuan\" adalah cadangan \ntujuan sebagaimana dimaksud dalam Undang-Undang \nmengenai Bank Indonesia. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPengendalian moneter dilakukan dalam rangka mengelola suku \nbunga, nilai tukar, dan likuiditas. Pengelolaan suku bunga, nilai \ntukar, dan likuiditas yang dilakukan untuk mencapai sasaran \ninflasi dan stabilitas nilai tukar sangat penting dalam mendukung \nPertumbuhan Ekonomi yang Berkelanjutan. \n \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPengendalian moneter dilakukan dalam rangka mengelola suku \nbunga, nilai tukar, dan likuiditas. Pengelolaan suku bunga, nilai \ntukar, dan likuiditas yang dilakukan untuk mencapai sasaran \ninflasi dan stabilitas nilai tukar sangat penting dalam mendukung \nPertumbuhan Ekonomi yang Berkelanjutan. \n \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nSurvei, data, dan informasi dari pihak terkait dimaksudkan untuk \nmemenuhi kebutuhan data dan informasi terkait perumusan dan \npelaksanaan \npengelolaan \nlikuiditas \nuntuk \nmendukung \nPertumbuhan Ekonomi yang Berkelanjutan, komitmen nasional \ndan internasional, serta penyediaan data untuk publik.  \n \n \n \n\n\n \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan \"data dan informasi\" adalah \ndata dan informasi sebagaimana dimaksud dalam \nPeraturan Bank Indonesia mengenai kebijakan data dan \ninformasi Bank Indonesia.  \n \n \nHuruf c \n \n \n \nCukup jelas. \n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nSurvei, data, dan informasi dari pihak terkait dimaksudkan untuk \nmemenuhi kebutuhan data dan informasi terkait perumusan dan \npelaksanaan \npengelolaan \nlikuiditas \nuntuk \nmendukung \nPertumbuhan Ekonomi yang Berkelanjutan, komitmen nasional \ndan internasional, serta penyediaan data untuk publik.  \n \n \n \n\n\n \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan \"data dan informasi\" adalah \ndata dan informasi sebagaimana dimaksud dalam \nPeraturan Bank Indonesia mengenai kebijakan data dan \ninformasi Bank Indonesia.  \n \n \nHuruf c \n \n \n \nCukup jelas. \n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nKetentuan Bank Indonesia antara lain ketentuan Bank Indonesia \nmengenai instrumen dan/atau mekanisme yang digunakan \ndalam pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nKetentuan Bank Indonesia antara lain ketentuan Bank Indonesia \nmengenai instrumen dan/atau mekanisme yang digunakan \ndalam pengelolaan likuiditas untuk mendukung Pertumbuhan \nEkonomi yang Berkelanjutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nHuruf a \n \n \nKoordinasi dan sinergi terkait pengaturan mengenai GWM \ntermasuk KLM dilaksanakan dengan Otoritas Jasa Keuangan, \nkementerian, dan/atau lembaga terkait. \nHuruf b \n \n \nKoordinasi dan sinergi terkait pembelian atau penjualan surat \nberharga negara  di pasar sekunder dilaksanakan dengan \nantara lain Kementerian Keuangan. \nHuruf c  \n \n \nKoordinasi dan sinergi terkait pembelian atau penjualan surat \nberharga berkualitas lainnya di pasar sekunder dilaksanakan \ndengan kementerian dan/atau lembaga terkait. \nHuruf d \n \n \nKoordinasi dan sinergi terkait penempatan dana pada lembaga \nkeuangan \ndalam \nrangka \npengembangan \npasar \nuang \ndilaksanakan dengan kementerian dan/atau lembaga terkait. \nHuruf e \n \n \nKoordinasi dan sinergi terkait pembelian surat utang negara \nberjangka pendek di pasar primer dilaksanakan dengan \nKementerian Keuangan. \nHuruf f \n \n \nYang dimaksud dengan \"koordinasi dan sinergi lain\" adalah \nkoordinasi dan sinergi dengan pihak eksternal sebagaimana \ndiatur dalam ketentuan Bank Indonesia mengenai Kebijakan \nMoneter, \nKebijakan \nSistem \nPembayaran, \nKebijakan \nMakroprudensial, dan/atau Kebijakan Pendukung. \n \nAyat (3) \n \n \nCukup jelas.  \n\n\n \n \nAyat (4) \n \n \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nHuruf a \n \n \nKoordinasi dan sinergi terkait pengaturan mengenai GWM \ntermasuk KLM dilaksanakan dengan Otoritas Jasa Keuangan, \nkementerian, dan/atau lembaga terkait. \nHuruf b \n \n \nKoordinasi dan sinergi terkait pembelian atau penjualan surat \nberharga negara  di pasar sekunder dilaksanakan dengan \nantara lain Kementerian Keuangan. \nHuruf c  \n \n \nKoordinasi dan sinergi terkait pembelian atau penjualan surat \nberharga berkualitas lainnya di pasar sekunder dilaksanakan \ndengan kementerian dan/atau lembaga terkait. \nHuruf d \n \n \nKoordinasi dan sinergi terkait penempatan dana pada lembaga \nkeuangan \ndalam \nrangka \npengembangan \npasar \nuang \ndilaksanakan dengan kementerian dan/atau lembaga terkait. \nHuruf e \n \n \nKoordinasi dan sinergi terkait pembelian surat utang negara \nberjangka pendek di pasar primer dilaksanakan dengan \nKementerian Keuangan. \nHuruf f \n \n \nYang dimaksud dengan \"koordinasi dan sinergi lain\" adalah \nkoordinasi dan sinergi dengan pihak eksternal sebagaimana \ndiatur dalam ketentuan Bank Indonesia mengenai Kebijakan \nMoneter, \nKebijakan \nSistem \nPembayaran, \nKebijakan \nMakroprudensial, dan/atau Kebijakan Pendukung. \n \nAyat (3) \n \n \nCukup jelas.  \n\n\n \n \nAyat (4) \n \n \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR     ⸙",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR     ⸙"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 46,
+  "total_ayat": 86,
+  "total_karakter": 29781,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

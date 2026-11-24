@@ -1,0 +1,1467 @@
+{
+  "doc_id": "OJK_POJK_2022_1_19e731b7",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "1",
+  "tahun": "2022",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 1 /POJK.03/2022 Tentang Layanan Keuangan Tanpa Kantor Dalam Rangka Keuangan Inklusif",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "5 Januari 2022",
+  "tanggal_berlaku": "diundangkan (6 Januari 2022)",
+  "diundangkan_pada": "6 Januari 2022",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRODUK LAKU PANDAI"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BANK PENYELENGGARA LAKU PANDAI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENERAPAN UJI TUNTAS NASABAH"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK KETIGA"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO DALAM PENGGUNAAN TEKNOLOGI INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PERLINDUNGAN KONSUMEN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud \ndengan: \n1. \nBank adalah badan usaha yang menghimpun dana dari \nmasyarakat dalam bentuk simpanan dan menyalurkannya \nkepada masyarakat dalam bentuk kredit atau pembiayaan \ndan/atau bentuk lainnya untuk meningkatkan taraf hidup \nrakyat banyak, yang terdiri atas bank umum, bank \nperkreditan rakyat, dan bank pembiayaan rakyat syariah. \n2. \nBank Umum adalah Bank yang melaksanakan kegiatan \nusaha secara konvensional atau melaksanakan kegiatan \nusaha \nberdasarkan \nprinsip \nsyariah, \nyang \ndalam \nkegiatannya \nmemberikan \njasa \ndalam \nlalu \nlintas \npembayaran, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri dan unit usaha syariah. \n3. \nBank Perkreditan Rakyat yang selanjutnya disingkat BPR \nadalah Bank yang melaksanakan kegiatan usaha secara \nkonvensional yang dalam kegiatannya tidak memberikan \njasa dalam lalu lintas pembayaran. \n4. \nBank Pembiayaan Rakyat Syariah yang selanjutnya \ndisingkat BPRS adalah Bank yang melaksanakan kegiatan \nusaha \nberdasarkan \nprinsip \nsyariah \nyang \ndalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran. \n5. \nLayanan Keuangan Tanpa Kantor dalam rangka Keuangan \nInklusif yang selanjutnya disebut Laku Pandai adalah \nkegiatan menyediakan layanan perbankan dan/atau \nlayanan keuangan lainnya yang dilakukan tidak melalui \njaringan kantor, namun melalui kerja sama dengan agen \nyang didukung dengan penggunaan sarana teknologi \ninformasi, untuk mendukung keuangan inklusif. \n6. \nAgen Laku Pandai adalah pihak yang bekerja sama dengan \nBank \npenyelenggara \nLaku \nPandai \ndan \nmenjadi \nkepanjangan tangan Bank dalam menyediakan layanan \n\n\n \n \nperbankan kepada masyarakat sesuai yang diperjanjikan, \nuntuk mewujudkan keuangan inklusif. \n7. \nTabungan Dasar atau Basic Saving Account yang \nselanjutnya disingkat BSA adalah tabungan dengan \nkarakteristik \ntertentu \nuntuk \nmendukung \nkeuangan \ninklusif. \n8. \nKeuangan Inklusif adalah kondisi ketika masyarakat \nmempunyai akses terhadap berbagai produk dan layanan \nkeuangan formal yang berkualitas secara tepat waktu, \nlancar, dan aman dengan biaya terjangkau sesuai dengan \nkebutuhan \ndan \nkemampuan \nuntuk \nmeningkatkan \nkesejahteraan masyarakat.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang dimaksud \ndengan: \n1. \nBank adalah badan usaha yang menghimpun dana dari \nmasyarakat dalam bentuk simpanan dan menyalurkannya \nkepada masyarakat dalam bentuk kredit atau pembiayaan \ndan/atau bentuk lainnya untuk meningkatkan taraf hidup \nrakyat banyak, yang terdiri atas bank umum, bank \nperkreditan rakyat, dan bank pembiayaan rakyat syariah. \n2. \nBank Umum adalah Bank yang melaksanakan kegiatan \nusaha secara konvensional atau melaksanakan kegiatan \nusaha \nberdasarkan \nprinsip \nsyariah, \nyang \ndalam \nkegiatannya \nmemberikan \njasa \ndalam \nlalu \nlintas \npembayaran, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri dan unit usaha syariah. \n3. \nBank Perkreditan Rakyat yang selanjutnya disingkat BPR \nadalah Bank yang melaksanakan kegiatan usaha secara \nkonvensional yang dalam kegiatannya tidak memberikan \njasa dalam lalu lintas pembayaran. \n4. \nBank Pembiayaan Rakyat Syariah yang selanjutnya \ndisingkat BPRS adalah Bank yang melaksanakan kegiatan \nusaha \nberdasarkan \nprinsip \nsyariah \nyang \ndalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \npembayaran. \n5. \nLayanan Keuangan Tanpa Kantor dalam rangka Keuangan \nInklusif yang selanjutnya disebut Laku Pandai adalah \nkegiatan menyediakan layanan perbankan dan/atau \nlayanan keuangan lainnya yang dilakukan tidak melalui \njaringan kantor, namun melalui kerja sama dengan agen \nyang didukung dengan penggunaan sarana teknologi \ninformasi, untuk mendukung keuangan inklusif. \n6. \nAgen Laku Pandai adalah pihak yang bekerja sama dengan \nBank \npenyelenggara \nLaku \nPandai \ndan \nmenjadi \nkepanjangan tangan Bank dalam menyediakan layanan \n\n\n \n \nperbankan kepada masyarakat sesuai yang diperjanjikan, \nuntuk mewujudkan keuangan inklusif. \n7. \nTabungan Dasar atau Basic Saving Account yang \nselanjutnya disingkat BSA adalah tabungan dengan \nkarakteristik \ntertentu \nuntuk \nmendukung \nkeuangan \ninklusif. \n8. \nKeuangan Inklusif adalah kondisi ketika masyarakat \nmempunyai akses terhadap berbagai produk dan layanan \nkeuangan formal yang berkualitas secara tepat waktu, \nlancar, dan aman dengan biaya terjangkau sesuai dengan \nkebutuhan \ndan \nkemampuan \nuntuk \nmeningkatkan \nkesejahteraan masyarakat."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nSetiap lembaga jasa keuangan bertanggung jawab untuk \nmendukung terwujudnya Keuangan Inklusif. \n(2) \nUntuk \nmendukung \nterwujudnya \nKeuangan \nInklusif \nsebagaimana dimaksud pada ayat (1), lembaga jasa \nkeuangan dapat menjadi penyelenggara Laku Pandai. \n(3) \nLembaga \njasa \nkeuangan \nhanya \ndapat \nmenjadi \npenyelenggara Laku Pandai sebagaimana dimaksud pada \nayat (2) setelah memperoleh izin dari Otoritas Jasa \nKeuangan. \n(4) \nKetentuan \nmengenai \ndokumen \npendukung \nuntuk \npengajuan \nizin \npenyelenggaraan \nLaku \nPandai \nsebagaimana dimaksud pada ayat (3) ditetapkan oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Setiap lembaga jasa keuangan bertanggung jawab untuk \nmendukung terwujudnya Keuangan Inklusif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk \nmendukung \nterwujudnya \nKeuangan \nInklusif \nsebagaimana dimaksud pada ayat (1), lembaga jasa \nkeuangan dapat menjadi penyelenggara Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Lembaga \njasa \nkeuangan \nhanya \ndapat \nmenjadi \npenyelenggara Laku Pandai sebagaimana dimaksud pada \nayat (2) setelah memperoleh izin dari Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan \nmengenai \ndokumen \npendukung \nuntuk \npengajuan \nizin \npenyelenggaraan \nLaku \nPandai \nsebagaimana dimaksud pada ayat (3) ditetapkan oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Ketentuan \npenyelenggaraan \nLaku \nPandai \nsebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan ini berlaku \nbagi penyelenggara Laku Pandai berupa Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan \npenyelenggaraan \nLaku \nPandai \nsebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan ini berlaku \nbagi penyelenggara Laku Pandai berupa Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "(1) \nBank wajib menerapkan manajemen risiko secara efektif \ndalam penyelenggaraan Laku Pandai. \n\n\n \n \n(2) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif sesuai \ndengan: \na. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank umum; \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank umum \nsyariah dan unit usaha syariah; \nc. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank perkreditan \nrakyat; atau \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank pembiayaan \nrakyat syariah. \n \nBAB II \nPRODUK LAKU PANDAI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan manajemen risiko secara efektif \ndalam penyelenggaraan Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif sesuai \ndengan: \na. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank umum; \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank umum \nsyariah dan unit usaha syariah; \nc. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank perkreditan \nrakyat; atau \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenerapan manajemen risiko bagi bank pembiayaan \nrakyat syariah. \n \nBAB II \nPRODUK LAKU PANDAI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRODUK LAKU PANDAI",
+      "teks_lengkap": "Produk Bank yang dapat disediakan oleh Bank melalui \npenyelenggaraan Laku Pandai terdiri atas:  \na. \nBSA; \nb. \nkredit atau pembiayaan mikro; dan/atau \nc. \nproduk Bank lainnya berdasarkan izin Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Produk Bank yang dapat disediakan oleh Bank melalui \npenyelenggaraan Laku Pandai terdiri atas:  \na. \nBSA; \nb. \nkredit atau pembiayaan mikro; dan/atau \nc. \nproduk Bank lainnya berdasarkan izin Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRODUK LAKU PANDAI",
+      "teks_lengkap": "(1) \nBSA sebagaimana dimaksud dalam Pasal 5 huruf a \nmemiliki karakteristik:  \na. \nhanya dapat dimiliki oleh perorangan warga negara \nIndonesia; \nb. \ndalam mata uang Rupiah; \nc. \ntanpa batas minimum setoran; \nd. \ntanpa batas minimum saldo rekening; \ne. \nbatas \nmaksimum \nsaldo \nrekening \nsetiap \nsaat \nditetapkan paling banyak Rp20.000.000,00 (dua \npuluh juta rupiah); \n\n\n \n \nf. \nbatas maksimum transaksi debit rekening berupa \npenarikan \ntunai, \npemindahbukuan, \ndan/atau \ntransfer keluar dalam 1 (satu) bulan secara kumulatif \npada setiap rekening paling banyak Rp5.000.000,00 \n(lima juta rupiah); \ng. \ndalam hal nasabah juga merupakan debitur Bank, \nbatas \nmaksimum \ntransaksi \ndebit \nrekening \nsebagaimana \ndimaksud \ndalam \nhuruf \nf \ndapat \nditetapkan Bank lebih besar dari Rp5.000.000,00 \n(lima juta rupiah) dalam 1 (satu) bulan, namun paling \nbanyak Rp60.000.000,00 (enam puluh juta rupiah) \ndalam 1 (satu) tahun secara kumulatif; \nh. \ndibebaskan dari pembebanan biaya untuk: \n1. \nadministrasi bulanan; \n2. \npembukaan rekening; \n3. \ntransaksi penyetoran tunai; \n4. \ntransaksi transfer masuk; \n5. \ntransaksi pemindahbukuan; dan \n6. \npenutupan rekening; \ni. \nbiaya untuk transaksi tarik tunai, transfer keluar, \npembayaran melalui rekening tabungan, dan biaya \nlainnya, ditetapkan oleh Bank kurang dari biaya \ntransaksi serupa untuk rekening tabungan reguler \natau Rp0,00 (nol rupiah); \nj. \nmendapatkan bunga atau bagi hasil mulai dari saldo \nrekening Rp1,00 (satu rupiah); dan \nk. \ntidak diperkenankan untuk rekening bersama dengan \nstatus “dan/atau”. \n(2) \nBank hanya dapat membukakan rekening BSA kepada \ncalon nasabah yang tidak memiliki tabungan lain. \n(3) \nPembatasan sebagaimana dimaksud pada ayat (1)  \nhuruf e, huruf f, huruf g, dan ayat (2) dapat dikecualikan \nuntuk mendukung pelaksanaan program pemerintah. \n(4) \nBank dapat menetapkan kebijakan mengenai pelampauan \nbatas maksimum transaksi debit rekening sebagaimana \ndimaksud pada ayat (1) huruf f dan huruf g dalam kondisi \ntertentu untuk sementara waktu. \n\n\n \n \n(5) \nBank dapat menetapkan: \na. \nnama produk BSA; dan \nb. \nbentuk bukti kepemilikan BSA. \n(6) \nDalam hal saldo BSA nihil dan/atau tidak ada transaksi \nselama 6 (enam) bulan berturut-turut, status BSA dapat \ndiubah menjadi rekening tidur. \n(7) \nBank hanya dapat menerbitkan kartu anjungan tunai \nmandiri \natau \nkartu \ndebit \nkepada \nnasabah \nBSA \nberdasarkan permohonan dari nasabah. \n(8) \nBank yang menyelenggarakan Laku Pandai melayani BSA \npada setiap jaringan kantor Bank. \n(9) \nKetentuan lebih lanjut mengenai pelaksanaan BSA \nditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BSA sebagaimana dimaksud dalam Pasal 5 huruf a \nmemiliki karakteristik:  \na. \nhanya dapat dimiliki oleh perorangan warga negara \nIndonesia; \nb. \ndalam mata uang Rupiah; \nc. \ntanpa batas minimum setoran; \nd. \ntanpa batas minimum saldo rekening; \ne. \nbatas \nmaksimum \nsaldo \nrekening \nsetiap \nsaat \nditetapkan paling banyak Rp20.000.000,00 (dua \npuluh juta rupiah); \n\n\n \n \nf. \nbatas maksimum transaksi debit rekening berupa \npenarikan \ntunai, \npemindahbukuan, \ndan/atau \ntransfer keluar dalam 1 (satu) bulan secara kumulatif \npada setiap rekening paling banyak Rp5.000.000,00 \n(lima juta rupiah); \ng. \ndalam hal nasabah juga merupakan debitur Bank, \nbatas \nmaksimum \ntransaksi \ndebit \nrekening \nsebagaimana \ndimaksud \ndalam \nhuruf \nf \ndapat \nditetapkan Bank lebih besar dari Rp5.000.000,00 \n(lima juta rupiah) dalam 1 (satu) bulan, namun paling \nbanyak Rp60.000.000,00 (enam puluh juta rupiah) \ndalam 1 (satu) tahun secara kumulatif; \nh. \ndibebaskan dari pembebanan biaya untuk: \n1. \nadministrasi bulanan; \n2. \npembukaan rekening; \n3. \ntransaksi penyetoran tunai; \n4. \ntransaksi transfer masuk; \n5. \ntransaksi pemindahbukuan; dan \n6. \npenutupan rekening; \ni. \nbiaya untuk transaksi tarik tunai, transfer keluar, \npembayaran melalui rekening tabungan, dan biaya \nlainnya, ditetapkan oleh Bank kurang dari biaya \ntransaksi serupa untuk rekening tabungan reguler \natau Rp0,00 (nol rupiah); \nj. \nmendapatkan bunga atau bagi hasil mulai dari saldo \nrekening Rp1,00 (satu rupiah); dan \nk. \ntidak diperkenankan untuk rekening bersama dengan \nstatus “dan/atau”."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank hanya dapat membukakan rekening BSA kepada \ncalon nasabah yang tidak memiliki tabungan lain."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pembatasan sebagaimana dimaksud pada ayat (1)  \nhuruf e, huruf f, huruf g, dan ayat (2) dapat dikecualikan \nuntuk mendukung pelaksanaan program pemerintah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank dapat menetapkan kebijakan mengenai pelampauan \nbatas maksimum transaksi debit rekening sebagaimana \ndimaksud pada ayat (1) huruf f dan huruf g dalam kondisi \ntertentu untuk sementara waktu."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dapat menetapkan: \na. \nnama produk BSA; dan \nb. \nbentuk bukti kepemilikan BSA."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal saldo BSA nihil dan/atau tidak ada transaksi \nselama 6 (enam) bulan berturut-turut, status BSA dapat \ndiubah menjadi rekening tidur."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Bank hanya dapat menerbitkan kartu anjungan tunai \nmandiri \natau \nkartu \ndebit \nkepada \nnasabah \nBSA \nberdasarkan permohonan dari nasabah."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Bank yang menyelenggarakan Laku Pandai melayani BSA \npada setiap jaringan kantor Bank."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Ketentuan lebih lanjut mengenai pelaksanaan BSA \nditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRODUK LAKU PANDAI",
+      "teks_lengkap": "(1) \nDalam hal: \na. \njumlah transaksi nominal dalam 1 (satu) bulan \nmelampaui batas maksimum transaksi debit rekening \nsebagaimana dimaksud dalam Pasal 6 ayat (1)  \nhuruf f atau huruf g; dan/atau  \nb. \nsaldo melampaui batas maksimum saldo rekening \nsebagaimana dimaksud dalam Pasal 6 ayat (1)  \nhuruf e, \nnamun \nnasabah \ntetap \ningin \nmelakukan \ntransaksi \ndan/atau meningkatkan saldo rekening, Bank dapat \nmengubah status tabungan dari BSA menjadi tabungan \nreguler. \n(2) \nPerubahan status tabungan BSA menjadi tabungan \nreguler sebagaimana dimaksud pada ayat (1) dilakukan \noleh Bank setelah: \na. \nBank \nmeminta \nkonfirmasi \ndan \nmendapatkan \npersetujuan dari nasabah BSA; atau \nb. \nBank memberikan persetujuan atas permintaan \nnasabah BSA untuk mengubah status tabungan dari \nBSA menjadi tabungan reguler. \n\n\n \n \n(3) \nKonfirmasi persetujuan dari Bank dan/atau nasabah \nsebagaimana dimaksud pada ayat (2) diadministrasikan \noleh Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal: \na. \njumlah transaksi nominal dalam 1 (satu) bulan \nmelampaui batas maksimum transaksi debit rekening \nsebagaimana dimaksud dalam Pasal 6 ayat (1)  \nhuruf f atau huruf g; dan/atau  \nb. \nsaldo melampaui batas maksimum saldo rekening \nsebagaimana dimaksud dalam Pasal 6 ayat (1)  \nhuruf e, \nnamun \nnasabah \ntetap \ningin \nmelakukan \ntransaksi \ndan/atau meningkatkan saldo rekening, Bank dapat \nmengubah status tabungan dari BSA menjadi tabungan \nreguler."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perubahan status tabungan BSA menjadi tabungan \nreguler sebagaimana dimaksud pada ayat (1) dilakukan \noleh Bank setelah: \na. \nBank \nmeminta \nkonfirmasi \ndan \nmendapatkan \npersetujuan dari nasabah BSA; atau \nb. \nBank memberikan persetujuan atas permintaan \nnasabah BSA untuk mengubah status tabungan dari \nBSA menjadi tabungan reguler."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Konfirmasi persetujuan dari Bank dan/atau nasabah \nsebagaimana dimaksud pada ayat (2) diadministrasikan \noleh Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRODUK LAKU PANDAI",
+      "teks_lengkap": "(1) \nKredit atau pembiayaan mikro sebagaimana dimaksud \ndalam Pasal 5 huruf b diberikan Bank kepada nasabah \nBSA, dengan ketentuan: \na. \nBank telah memiliki keyakinan tentang kelayakan \ndan/atau kemampuan keuangan calon debitur; dan \nb. \nkredit atau pembiayaan ditujukan untuk membiayai \nkegiatan usaha yang bersifat produktif dan/atau \nkegiatan lainnya sesuai kebijakan Bank. \n(2) \nKredit atau pembiayaan mikro sebagaimana dimaksud \npada ayat (1) memiliki karakteristik paling sedikit: \na. \njangka waktu kredit atau pembiayaan paling lama  \n1 (satu) tahun; dan \nb. \nbatas maksimum nominal kredit atau pembiayaan \nditetapkan paling banyak Rp20.000.000,00 (dua \npuluh juta rupiah). \n(3) \nBank dapat menetapkan jangka waktu kredit atau \npembiayaan sebagaimana dimaksud pada ayat (2) huruf a \nlebih dari 1 (satu) tahun, sepanjang sesuai dengan siklus \nusaha debitur. \n(4) \nPembatasan sebagaimana dimaksud pada ayat (2)  \nhuruf \nb \ndapat \ndikecualikan \nuntuk \nmendukung \npelaksanaan program pemerintah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kredit atau pembiayaan mikro sebagaimana dimaksud \ndalam Pasal 5 huruf b diberikan Bank kepada nasabah \nBSA, dengan ketentuan: \na. \nBank telah memiliki keyakinan tentang kelayakan \ndan/atau kemampuan keuangan calon debitur; dan \nb. \nkredit atau pembiayaan ditujukan untuk membiayai \nkegiatan usaha yang bersifat produktif dan/atau \nkegiatan lainnya sesuai kebijakan Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kredit atau pembiayaan mikro sebagaimana dimaksud \npada ayat (1) memiliki karakteristik paling sedikit: \na. \njangka waktu kredit atau pembiayaan paling lama  \n1 (satu) tahun; dan \nb. \nbatas maksimum nominal kredit atau pembiayaan \nditetapkan paling banyak Rp20.000.000,00 (dua \npuluh juta rupiah)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank dapat menetapkan jangka waktu kredit atau \npembiayaan sebagaimana dimaksud pada ayat (2) huruf a \nlebih dari 1 (satu) tahun, sepanjang sesuai dengan siklus \nusaha debitur."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pembatasan sebagaimana dimaksud pada ayat (2)  \nhuruf \nb \ndapat \ndikecualikan \nuntuk \nmendukung \npelaksanaan program pemerintah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "PRODUK LAKU PANDAI",
+      "teks_lengkap": "(1) \nPengajuan permohonan kredit atau pembiayaan mikro \nsebagaimana dimaksud dalam Pasal 5 huruf b dapat \ndilakukan melalui jaringan kantor Bank atau Agen Laku \nPandai. \n(2) \nAnalisis kelayakan dan persetujuan atas permohonan \nkredit atau pembiayaan mikro sebagaimana dimaksud \npada ayat (1) dilakukan oleh Bank. \n\n\n \n \n(3) \nPencairan kredit atau pembiayaan mikro dilakukan \nmelalui: \na. \nrekening BSA milik debitur; dan/atau \nb. \nrekening milik pihak penyedia kebutuhan usaha \ndebitur, berdasarkan persetujuan debitur. \n \nBAB III \nPERSYARATAN BANK PENYELENGGARA LAKU PANDAI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengajuan permohonan kredit atau pembiayaan mikro \nsebagaimana dimaksud dalam Pasal 5 huruf b dapat \ndilakukan melalui jaringan kantor Bank atau Agen Laku \nPandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Analisis kelayakan dan persetujuan atas permohonan \nkredit atau pembiayaan mikro sebagaimana dimaksud \npada ayat (1) dilakukan oleh Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pencairan kredit atau pembiayaan mikro dilakukan \nmelalui: \na. \nrekening BSA milik debitur; dan/atau \nb. \nrekening milik pihak penyedia kebutuhan usaha \ndebitur, berdasarkan persetujuan debitur. \n \nBAB III \nPERSYARATAN BANK PENYELENGGARA LAKU PANDAI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PERSYARATAN BANK PENYELENGGARA LAKU PANDAI",
+      "teks_lengkap": "Bank yang akan menyelenggarakan Laku Pandai harus \nmemenuhi persyaratan:  \na. \nmemiliki peringkat profil risiko, tingkat risiko operasional, \ndan tingkat risiko kepatuhan dengan peringkat 1, \nperingkat 2, atau peringkat 3, berdasarkan periode \npenilaian terakhir; dan \nb. \nmemiliki infrastruktur pendukung untuk menyediakan \nlayanan perbankan elektronik. \n \nBAB IV \nKERJA SAMA BANK PENYELENGGARA LAKU PANDAI \nDENGAN AGEN LAKU PANDAI \n \nBagian Kesatu \nPersyaratan Agen Laku Pandai",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang akan menyelenggarakan Laku Pandai harus \nmemenuhi persyaratan:  \na. \nmemiliki peringkat profil risiko, tingkat risiko operasional, \ndan tingkat risiko kepatuhan dengan peringkat 1, \nperingkat 2, atau peringkat 3, berdasarkan periode \npenilaian terakhir; dan \nb. \nmemiliki infrastruktur pendukung untuk menyediakan \nlayanan perbankan elektronik. \n \nBAB IV \nKERJA SAMA BANK PENYELENGGARA LAKU PANDAI \nDENGAN AGEN LAKU PANDAI \n \nBagian Kesatu \nPersyaratan Agen Laku Pandai"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank menyelenggarakan Laku Pandai melalui kerja sama \ndengan Agen Laku Pandai. \n(2) \nAgen Laku Pandai sebagaimana dimaksud pada ayat (1) \ndapat berupa: \na. \nperorangan; atau \nb. \nbadan hukum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank menyelenggarakan Laku Pandai melalui kerja sama \ndengan Agen Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Agen Laku Pandai sebagaimana dimaksud pada ayat (1) \ndapat berupa: \na. \nperorangan; atau \nb. \nbadan hukum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nPerorangan sebagaimana dimaksud dalam Pasal 11  \nayat (2) huruf a yang dapat menjadi Agen Laku Pandai \nharus memenuhi persyaratan paling sedikit:  \na. \nberkedudukan di lokasi yang jelas; \nb. \nmemiliki kemampuan, reputasi, kredibilitas, dan \nintegritas yang baik; \nc. \nmemiliki sumber penghasilan utama yang berasal \ndari kegiatan usaha dan/atau penghasilan tetap dari \nkegiatan lain selama paling singkat 2 (dua) tahun \nterakhir; dan \nd. \ntidak menjadi Agen Laku Pandai dari Bank lain yang \nkegiatan usahanya sejenis di luar kelompok usaha \nbank yang sama. \n(2) \nBank dapat menetapkan persyaratan jangka waktu \nsebagaimana dimaksud pada ayat (1) huruf c kurang dari \n2 (dua) tahun berdasarkan kebijakan Bank dalam hal \nperorangan yang akan menjadi Agen Laku Pandai \nmerupakan pihak yang secara khusus direkrut untuk \nmendukung pelaksanaan program pemerintah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perorangan sebagaimana dimaksud dalam Pasal 11  \nayat (2) huruf a yang dapat menjadi Agen Laku Pandai \nharus memenuhi persyaratan paling sedikit:  \na. \nberkedudukan di lokasi yang jelas; \nb. \nmemiliki kemampuan, reputasi, kredibilitas, dan \nintegritas yang baik; \nc. \nmemiliki sumber penghasilan utama yang berasal \ndari kegiatan usaha dan/atau penghasilan tetap dari \nkegiatan lain selama paling singkat 2 (dua) tahun \nterakhir; dan \nd. \ntidak menjadi Agen Laku Pandai dari Bank lain yang \nkegiatan usahanya sejenis di luar kelompok usaha \nbank yang sama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dapat menetapkan persyaratan jangka waktu \nsebagaimana dimaksud pada ayat (1) huruf c kurang dari \n2 (dua) tahun berdasarkan kebijakan Bank dalam hal \nperorangan yang akan menjadi Agen Laku Pandai \nmerupakan pihak yang secara khusus direkrut untuk \nmendukung pelaksanaan program pemerintah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "Badan hukum sebagaimana dimaksud dalam Pasal 11 ayat (2) \nhuruf b yang dapat menjadi Agen Laku Pandai harus \nmemenuhi persyaratan paling sedikit:  \na. \nberbadan hukum Indonesia yang: \n1. \ndiawasi oleh otoritas pengatur dan pengawas, serta \ndiperkenankan \nmelakukan \nkegiatan \ndi \nbidang \nkeuangan; atau \n2. \nmerupakan \nperusahaan \ndagang \nyang \nmemiliki \njaringan gerai ritel; \nb. \nmemiliki reputasi, kredibilitas, dan kinerja yang baik; \nc. \nmampu melakukan manajemen likuiditas sesuai yang \ndipersyaratkan oleh Bank; \nd. \nmemiliki \nsumber \ndaya \nmanusia \nyang \nmempunyai \nkemampuan teknis untuk mendukung penyelenggaraan \nLaku Pandai; dan \n\n\n \n \ne. \nmemiliki teknologi informasi yang memadai untuk \nmendukung penyelenggaraan Laku Pandai. \n \nBagian Kedua \nKegiatan Layanan oleh Agen Laku Pandai",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Badan hukum sebagaimana dimaksud dalam Pasal 11 ayat (2) \nhuruf b yang dapat menjadi Agen Laku Pandai harus \nmemenuhi persyaratan paling sedikit:  \na. \nberbadan hukum Indonesia yang: \n1. \ndiawasi oleh otoritas pengatur dan pengawas, serta \ndiperkenankan \nmelakukan \nkegiatan \ndi \nbidang \nkeuangan; atau \n2. \nmerupakan \nperusahaan \ndagang \nyang \nmemiliki \njaringan gerai ritel; \nb. \nmemiliki reputasi, kredibilitas, dan kinerja yang baik; \nc. \nmampu melakukan manajemen likuiditas sesuai yang \ndipersyaratkan oleh Bank; \nd. \nmemiliki \nsumber \ndaya \nmanusia \nyang \nmempunyai \nkemampuan teknis untuk mendukung penyelenggaraan \nLaku Pandai; dan \n\n\n \n \ne. \nmemiliki teknologi informasi yang memadai untuk \nmendukung penyelenggaraan Laku Pandai. \n \nBagian Kedua \nKegiatan Layanan oleh Agen Laku Pandai"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nAgen Laku Pandai melayani nasabah atau calon nasabah \nsesuai dengan cakupan layanan berdasarkan klasifikasi \nAgen Laku Pandai. \n(2) \nCakupan layanan berdasarkan klasifikasi Agen Laku \nPandai sebagaimana dimaksud pada ayat (1) ditetapkan:  \na. \nAgen Laku Pandai dengan klasifikasi A memberikan \nlayanan transaksi terkait BSA dan dapat memberikan \nlayanan: \n1. \ntransaksi terkait produk uang elektronik dan \nlayanan \nkeuangan \ndigital \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan; \ndan/atau  \n2. \ntransaksi terkait produk asuransi mikro sesuai \ndengan \nketentuan \nperaturan \nperundang-\nundangan; \nb. \nAgen Laku Pandai dengan klasifikasi B memberikan \nlayanan sebagaimana Agen Laku Pandai dengan \nklasifikasi A dan dapat memberikan layanan: \n1. \ntransaksi terkait kredit atau pembiayaan mikro; \ndan/atau  \n2. \ntransaksi terkait tabungan selain BSA, kecuali \npembukaan dan penutupan rekening; dan \nc. \nAgen Laku Pandai dengan klasifikasi C memberikan \nlayanan sebagaimana Agen Laku Pandai dengan \nklasifikasi \nB \ndan \ndapat \nmemberikan \nlayanan \ntransaksi terkait produk keuangan lain sesuai dengan \nketentuan peraturan perundang-undangan. \n(3) \nKlasifikasi Agen Laku Pandai yang baru pertama kali \nbekerja \nsama \ndengan \nBank \nharus \ndimulai \ndari  \nklasifikasi A. \n\n\n \n \n(4) \nCakupan layanan Agen Laku Pandai dicantumkan dalam \nperjanjian kerja sama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agen Laku Pandai melayani nasabah atau calon nasabah \nsesuai dengan cakupan layanan berdasarkan klasifikasi \nAgen Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Cakupan layanan berdasarkan klasifikasi Agen Laku \nPandai sebagaimana dimaksud pada ayat (1) ditetapkan:  \na. \nAgen Laku Pandai dengan klasifikasi A memberikan \nlayanan transaksi terkait BSA dan dapat memberikan \nlayanan: \n1. \ntransaksi terkait produk uang elektronik dan \nlayanan \nkeuangan \ndigital \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan; \ndan/atau  \n2. \ntransaksi terkait produk asuransi mikro sesuai \ndengan \nketentuan \nperaturan \nperundang-\nundangan; \nb. \nAgen Laku Pandai dengan klasifikasi B memberikan \nlayanan sebagaimana Agen Laku Pandai dengan \nklasifikasi A dan dapat memberikan layanan: \n1. \ntransaksi terkait kredit atau pembiayaan mikro; \ndan/atau  \n2. \ntransaksi terkait tabungan selain BSA, kecuali \npembukaan dan penutupan rekening; dan \nc. \nAgen Laku Pandai dengan klasifikasi C memberikan \nlayanan sebagaimana Agen Laku Pandai dengan \nklasifikasi \nB \ndan \ndapat \nmemberikan \nlayanan \ntransaksi terkait produk keuangan lain sesuai dengan \nketentuan peraturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Klasifikasi Agen Laku Pandai yang baru pertama kali \nbekerja \nsama \ndengan \nBank \nharus \ndimulai \ndari  \nklasifikasi A."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Cakupan layanan Agen Laku Pandai dicantumkan dalam \nperjanjian kerja sama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nAgen Laku Pandai sebagaimana dimaksud dalam Pasal 14 \nayat (3) yang telah terlebih dahulu memberikan layanan \nterkait produk keuangan lain di luar cakupan layanan \nklasifikasi A tetap dapat memberikan layanan. \n(2) \nBank dalam jangka waktu tertentu harus menyesuaikan \nklasifikasi Agen Laku Pandai sebagaimana dimaksud pada \nayat (1) menjadi klasifikasi C dengan terlebih dahulu \nmelakukan peningkatan kapabilitas Agen Laku Pandai.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agen Laku Pandai sebagaimana dimaksud dalam Pasal 14 \nayat (3) yang telah terlebih dahulu memberikan layanan \nterkait produk keuangan lain di luar cakupan layanan \nklasifikasi A tetap dapat memberikan layanan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dalam jangka waktu tertentu harus menyesuaikan \nklasifikasi Agen Laku Pandai sebagaimana dimaksud pada \nayat (1) menjadi klasifikasi C dengan terlebih dahulu \nmelakukan peningkatan kapabilitas Agen Laku Pandai."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nDalam penyelenggaraan Laku Pandai, Bank wajib memiliki \nkebijakan \ntertulis \nmengenai \nmekanisme \nperubahan \nklasifikasi Agen Laku Pandai sebagaimana dimaksud \ndalam Pasal 14 dan Pasal 15. \n(2) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis. \n(3) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dapat dikenai sanksi administratif berupa: \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penyelenggaraan Laku Pandai, Bank wajib memiliki \nkebijakan \ntertulis \nmengenai \nmekanisme \nperubahan \nklasifikasi Agen Laku Pandai sebagaimana dimaksud \ndalam Pasal 14 dan Pasal 15."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dapat dikenai sanksi administratif berupa: \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nDalam hal Agen Laku Pandai melayani transaksi terkait \nproduk keuangan yang diterbitkan oleh lembaga lain, \nberupa: \na. \nproduk uang elektronik dan layanan keuangan digital \nsebagaimana dimaksud dalam Pasal 14 ayat (2)  \nhuruf a angka 1; \nb. \nproduk asuransi mikro sebagaimana dimaksud \ndalam Pasal 14 ayat (2) huruf a angka 2; dan/atau \nc. \nproduk keuangan lain sebagaimana dimaksud dalam \nPasal 14 ayat (2) huruf c, \nlayanan dilakukan berdasarkan perjanjian kerja sama.  \n(2) \nPerjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) dilakukan antara: \na. \nAgen Laku Pandai dan lembaga lain; atau \nb. \nBank dan lembaga lain. \n(3) \nDalam hal perjanjian kerja sama dilakukan antara Bank \ndan lembaga lain sebagaimana dimaksud pada ayat (2) \nhuruf b, Bank harus melakukan penyesuaian perjanjian \nkerja sama dengan Agen Laku Pandai. \n(4) \nPerjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) hanya dapat dilakukan setelah Bank:  \na. \nmemastikan Agen Laku Pandai: \n1. \ntelah \nmemenuhi \nketentuan \nperaturan \nperundang-undangan terkait produk keuangan \nyang dilayani oleh Agen Laku Pandai; \n2. \ntetap mampu memberikan layanan yang baik \nkepada nasabah dari Bank yang telah bekerja \nsama dengan Agen Laku Pandai; dan \n3. \ntelah memperoleh izin dari Bank untuk melayani \ntransaksi produk keuangan lembaga lain; dan \nb. \nmemastikan lembaga lain: \n1. \ntetap bertanggung jawab atas produk keuangan \nyang disediakan melalui Agen Laku Pandai; dan \n2. \ndiperbolehkan menyediakan produk keuangan \nmelalui agen atau pihak lain. \n\n\n \n \n(5) \nBank dilarang menanggung atau turut menanggung risiko \natas produk keuangan yang diterbitkan oleh lembaga lain \nsebagaimana dimaksud pada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Agen Laku Pandai melayani transaksi terkait \nproduk keuangan yang diterbitkan oleh lembaga lain, \nberupa: \na. \nproduk uang elektronik dan layanan keuangan digital \nsebagaimana dimaksud dalam Pasal 14 ayat (2)  \nhuruf a angka 1; \nb. \nproduk asuransi mikro sebagaimana dimaksud \ndalam Pasal 14 ayat (2) huruf a angka 2; dan/atau \nc. \nproduk keuangan lain sebagaimana dimaksud dalam \nPasal 14 ayat (2) huruf c, \nlayanan dilakukan berdasarkan perjanjian kerja sama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) dilakukan antara: \na. \nAgen Laku Pandai dan lembaga lain; atau \nb. \nBank dan lembaga lain."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal perjanjian kerja sama dilakukan antara Bank \ndan lembaga lain sebagaimana dimaksud pada ayat (2) \nhuruf b, Bank harus melakukan penyesuaian perjanjian \nkerja sama dengan Agen Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Perjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) hanya dapat dilakukan setelah Bank:  \na. \nmemastikan Agen Laku Pandai: \n1. \ntelah \nmemenuhi \nketentuan \nperaturan \nperundang-undangan terkait produk keuangan \nyang dilayani oleh Agen Laku Pandai; \n2. \ntetap mampu memberikan layanan yang baik \nkepada nasabah dari Bank yang telah bekerja \nsama dengan Agen Laku Pandai; dan \n3. \ntelah memperoleh izin dari Bank untuk melayani \ntransaksi produk keuangan lembaga lain; dan \nb. \nmemastikan lembaga lain: \n1. \ntetap bertanggung jawab atas produk keuangan \nyang disediakan melalui Agen Laku Pandai; dan \n2. \ndiperbolehkan menyediakan produk keuangan \nmelalui agen atau pihak lain."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Bank dilarang menanggung atau turut menanggung risiko \natas produk keuangan yang diterbitkan oleh lembaga lain \nsebagaimana dimaksud pada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank wajib menetapkan batas nominal transaksi terkait \ntabungan selain BSA sebagaimana dimaksud dalam  \nPasal 14 ayat (2) huruf b angka 2 per hari per nasabah \ndengan mempertimbangkan kondisi Agen Laku Pandai. \n(2) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1), dikenai sanksi administratif \nberupa teguran tertulis. \n(3) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dapat dikenai sanksi administratif berupa: \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menetapkan batas nominal transaksi terkait \ntabungan selain BSA sebagaimana dimaksud dalam  \nPasal 14 ayat (2) huruf b angka 2 per hari per nasabah \ndengan mempertimbangkan kondisi Agen Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1), dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dapat dikenai sanksi administratif berupa: \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nAgen Laku Pandai hanya dapat memberikan pelayanan di \nsekitar wilayah tempat kedudukan Agen Laku Pandai yang \nmencakup desa atau setara dan/atau wilayah lain di \nsekitarnya. \n(2) \nBank dapat menetapkan wilayah lain di sekitar desa atau \nsetara sebagaimana dimaksud pada ayat (1) sesuai dengan \nkewajaran jarak tempuh, waktu tempuh, biaya perjalanan \nmenuju lokasi Agen Laku Pandai, dan/atau kondisi \ntopologi wilayah. \n \n \n \n \n\n\n \n \nBagian Ketiga \nTata Cara Hubungan Kerja Sama antara Bank Penyelenggara \nLaku Pandai dan Agen Laku Pandai",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Agen Laku Pandai hanya dapat memberikan pelayanan di \nsekitar wilayah tempat kedudukan Agen Laku Pandai yang \nmencakup desa atau setara dan/atau wilayah lain di \nsekitarnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank dapat menetapkan wilayah lain di sekitar desa atau \nsetara sebagaimana dimaksud pada ayat (1) sesuai dengan \nkewajaran jarak tempuh, waktu tempuh, biaya perjalanan \nmenuju lokasi Agen Laku Pandai, dan/atau kondisi \ntopologi wilayah. \n \n \n \n \n\n\n \n \nBagian Ketiga \nTata Cara Hubungan Kerja Sama antara Bank Penyelenggara \nLaku Pandai dan Agen Laku Pandai"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nDalam melakukan kerja sama dengan Agen Laku Pandai, \nBank wajib: \na. \nmeneliti pemenuhan persyaratan dan melakukan \nproses uji tuntas terhadap Agen Laku Pandai; \nb. \nmemiliki perjanjian kerja sama secara tertulis dengan \nAgen Laku Pandai; \nc. \nmemerintahkan \nAgen \nLaku \nPandai \nuntuk  \nmenempatkan dan memelihara sejumlah deposit \nyang \nbesaran \nminimalnya \nditetapkan \nBank \nberdasarkan pertimbangan tertentu; \nd. \nmemastikan dan meyakini bahwa sumber dana Agen \nLaku \nPandai \ndalam \npemenuhan \nkewajiban \nsebagaimana dimaksud dalam huruf c tidak berasal \ndari hasil pencucian uang dan/atau pendanaan \nterorisme; \ne. \nmemastikan Agen Laku Pandai memiliki unit khusus \natau menunjuk pegawai yang bertanggung jawab atas \nkegiatan Laku Pandai, dalam hal Agen Laku Pandai \nberupa badan hukum; \nf. \nbertanggung jawab atas perbuatan dan tindakan \nAgen Laku Pandai yang termasuk dalam cakupan \nlayanan Agen Laku Pandai terkait produk Bank yang \ndicantumkan dalam perjanjian kerja sama; \ng. \nmemantau dan mengawasi kegiatan Agen Laku \nPandai, baik secara berkala maupun insidentil; \nh. \nmemberikan \npembinaan \ndan/atau \nmengenakan \nsanksi atas pelanggaran yang dilakukan oleh Agen \nLaku Pandai; \ni. \nmelakukan edukasi dan pelatihan kepada Agen Laku \nPandai secara berkala dan optimal; \n\n\n \n \nj. \nmelakukan edukasi dan literasi kepada masyarakat \ndi sekitar lokasi Agen Laku Pandai terkait Laku \nPandai dan produk Bank yang ditawarkan; dan  \nk. \nmemastikan \ntanggung \njawab \nkelangsungan \npenyelenggaraan Laku Pandai dalam hal terdapat \nkondisi tertentu yang mengakibatkan Agen Laku \nPandai tidak dapat beroperasi. \n(2) \nPerjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) huruf b memuat paling sedikit: \na. \nhak dan kewajiban Bank dan Agen Laku Pandai; \nb. \nruang lingkup layanan yang dapat disediakan Agen \nLaku Pandai; \nc. \npenetapan wilayah kerja operasional Agen Laku \nPandai; \nd. \npenetapan klasifikasi Agen Laku Pandai; \ne. \njangka \nwaktu \npelaksanaan \nkerja \nsama \ndan \nmekanisme perpanjangannya; \nf. \nmekanisme dan hubungan kerja sama antara Bank \ndan Agen Laku Pandai; \ng. \nsyarat dan tata cara pemindahan lokasi Agen Laku \nPandai; \nh. \nsyarat dan tata cara perubahan perjanjian kerja \nsama; \ni. \npenetapan sanksi dan mekanisme pengenaan sanksi; \nj. \nkondisi dan tata cara penghentian perjanjian kerja \nsama; \nk. \nmekanisme pertanggungjawaban dalam hal terjadi \nkerugian konsumen; dan \nl. \ntata cara penyelesaian perselisihan. \n(3) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis. \n(4) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran \ntertulis \nsebagaimana \ndimaksud \npada  \nayat (3) dan belum memenuhi ketentuan sebagaimana \ndimaksud pada ayat (1), Bank dapat dikenai sanksi \nadministratif berupa: \n\n\n \n \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.  \n(5) \nKetentuan lebih lanjut mengenai prosedur dan mekanisme \nkerja sama Bank dengan Agen Laku Pandai serta teknis \npenyelenggaraan Laku Pandai oleh Agen Laku Pandai \nditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan kerja sama dengan Agen Laku Pandai, \nBank wajib: \na. \nmeneliti pemenuhan persyaratan dan melakukan \nproses uji tuntas terhadap Agen Laku Pandai; \nb. \nmemiliki perjanjian kerja sama secara tertulis dengan \nAgen Laku Pandai; \nc. \nmemerintahkan \nAgen \nLaku \nPandai \nuntuk  \nmenempatkan dan memelihara sejumlah deposit \nyang \nbesaran \nminimalnya \nditetapkan \nBank \nberdasarkan pertimbangan tertentu; \nd. \nmemastikan dan meyakini bahwa sumber dana Agen \nLaku \nPandai \ndalam \npemenuhan \nkewajiban \nsebagaimana dimaksud dalam huruf c tidak berasal \ndari hasil pencucian uang dan/atau pendanaan \nterorisme; \ne. \nmemastikan Agen Laku Pandai memiliki unit khusus \natau menunjuk pegawai yang bertanggung jawab atas \nkegiatan Laku Pandai, dalam hal Agen Laku Pandai \nberupa badan hukum; \nf. \nbertanggung jawab atas perbuatan dan tindakan \nAgen Laku Pandai yang termasuk dalam cakupan \nlayanan Agen Laku Pandai terkait produk Bank yang \ndicantumkan dalam perjanjian kerja sama; \ng. \nmemantau dan mengawasi kegiatan Agen Laku \nPandai, baik secara berkala maupun insidentil; \nh. \nmemberikan \npembinaan \ndan/atau \nmengenakan \nsanksi atas pelanggaran yang dilakukan oleh Agen \nLaku Pandai; \ni. \nmelakukan edukasi dan pelatihan kepada Agen Laku \nPandai secara berkala dan optimal; \n\n\n \n \nj. \nmelakukan edukasi dan literasi kepada masyarakat \ndi sekitar lokasi Agen Laku Pandai terkait Laku \nPandai dan produk Bank yang ditawarkan; dan  \nk. \nmemastikan \ntanggung \njawab \nkelangsungan \npenyelenggaraan Laku Pandai dalam hal terdapat \nkondisi tertentu yang mengakibatkan Agen Laku \nPandai tidak dapat beroperasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Perjanjian kerja sama sebagaimana dimaksud pada  \nayat (1) huruf b memuat paling sedikit: \na. \nhak dan kewajiban Bank dan Agen Laku Pandai; \nb. \nruang lingkup layanan yang dapat disediakan Agen \nLaku Pandai; \nc. \npenetapan wilayah kerja operasional Agen Laku \nPandai; \nd. \npenetapan klasifikasi Agen Laku Pandai; \ne. \njangka \nwaktu \npelaksanaan \nkerja \nsama \ndan \nmekanisme perpanjangannya; \nf. \nmekanisme dan hubungan kerja sama antara Bank \ndan Agen Laku Pandai; \ng. \nsyarat dan tata cara pemindahan lokasi Agen Laku \nPandai; \nh. \nsyarat dan tata cara perubahan perjanjian kerja \nsama; \ni. \npenetapan sanksi dan mekanisme pengenaan sanksi; \nj. \nkondisi dan tata cara penghentian perjanjian kerja \nsama; \nk. \nmekanisme pertanggungjawaban dalam hal terjadi \nkerugian konsumen; dan \nl. \ntata cara penyelesaian perselisihan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran \ntertulis \nsebagaimana \ndimaksud \npada  \nayat (3) dan belum memenuhi ketentuan sebagaimana \ndimaksud pada ayat (1), Bank dapat dikenai sanksi \nadministratif berupa: \n\n\n \n \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Ketentuan lebih lanjut mengenai prosedur dan mekanisme \nkerja sama Bank dengan Agen Laku Pandai serta teknis \npenyelenggaraan Laku Pandai oleh Agen Laku Pandai \nditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank wajib memastikan bahwa perorangan yang akan \nbekerja sama dengan Bank yang menyelenggarakan Laku \nPandai tidak menjadi Agen Laku Pandai dari Bank lain \nyang memiliki kegiatan usaha sejenis di luar kelompok \nusaha bank yang sama. \n(2) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1), dikenai sanksi administratif \nberupa teguran tertulis. \n(3) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dapat dikenai sanksi administratif berupa: \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib memastikan bahwa perorangan yang akan \nbekerja sama dengan Bank yang menyelenggarakan Laku \nPandai tidak menjadi Agen Laku Pandai dari Bank lain \nyang memiliki kegiatan usaha sejenis di luar kelompok \nusaha bank yang sama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1), dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dapat dikenai sanksi administratif berupa: \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank dapat bekerja sama dengan Agen Laku Pandai \nberbadan hukum yang telah menjadi Agen Laku Pandai \ndari \nBank \nlain \nsepanjang \nhasil \nanalisis \nBank \nmenunjukkan Agen Laku Pandai tetap dapat memberikan \npelayanan dengan baik. \n\n\n \n \n(2) \nAgen Laku Pandai berbadan hukum yang bekerja sama \ndengan lebih dari 1 (satu) Bank, hanya dapat menyediakan \nproduk dari 1 (satu) bank konvensional dan/atau 1 (satu) \nbank syariah pada setiap kantor atau gerai ritel yang \ndimiliki. \n(3) \nPembatasan sebagaimana dimaksud pada ayat (2) dapat \ndikecualikan bagi Agen Laku Pandai berbadan hukum \nyang bekerja sama dengan lebih dari 1 (satu) Bank dalam \nkelompok usaha bank yang sama. \n \nBagian Keempat \nKedudukan Agen Laku Pandai",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank dapat bekerja sama dengan Agen Laku Pandai \nberbadan hukum yang telah menjadi Agen Laku Pandai \ndari \nBank \nlain \nsepanjang \nhasil \nanalisis \nBank \nmenunjukkan Agen Laku Pandai tetap dapat memberikan \npelayanan dengan baik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Agen Laku Pandai berbadan hukum yang bekerja sama \ndengan lebih dari 1 (satu) Bank, hanya dapat menyediakan \nproduk dari 1 (satu) bank konvensional dan/atau 1 (satu) \nbank syariah pada setiap kantor atau gerai ritel yang \ndimiliki."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pembatasan sebagaimana dimaksud pada ayat (2) dapat \ndikecualikan bagi Agen Laku Pandai berbadan hukum \nyang bekerja sama dengan lebih dari 1 (satu) Bank dalam \nkelompok usaha bank yang sama. \n \nBagian Keempat \nKedudukan Agen Laku Pandai"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nKerja sama antara Bank dan Agen Laku Pandai yang \nberkedudukan di ibu kota negara, ibu kota provinsi, ibu \nkota kabupaten, dan/atau kota, harus diikuti kerja sama \ndengan Agen Laku Pandai yang berkedudukan di luar ibu \nkota negara, ibu kota provinsi, ibu kota kabupaten, \ndan/atau kota, dengan akses layanan keuangan yang \nmasih terbatas. \n(2) \nKetentuan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndikecualikan bagi Bank yang bekerja sama dengan Agen \nLaku Pandai berbadan hukum yang melayani produk Laku \nPandai pada kantor atau gerai ritel yang berkedudukan di \nluar ibu kota negara, ibu kota provinsi, ibu kota \nkabupaten, \ndan/atau kota, \ndengan akses layanan \nkeuangan yang masih terbatas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kerja sama antara Bank dan Agen Laku Pandai yang \nberkedudukan di ibu kota negara, ibu kota provinsi, ibu \nkota kabupaten, dan/atau kota, harus diikuti kerja sama \ndengan Agen Laku Pandai yang berkedudukan di luar ibu \nkota negara, ibu kota provinsi, ibu kota kabupaten, \ndan/atau kota, dengan akses layanan keuangan yang \nmasih terbatas."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Ketentuan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dikecualikan bagi Bank yang bekerja sama dengan Agen \nLaku Pandai berbadan hukum yang melayani produk Laku \nPandai pada kantor atau gerai ritel yang berkedudukan di \nluar ibu kota negara, ibu kota provinsi, ibu kota \nkabupaten, \ndan/atau kota, \ndengan akses layanan \nkeuangan yang masih terbatas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank hanya dapat melakukan kerja sama dengan Agen \nLaku Pandai yang berkedudukan di kota atau kabupaten \nyang sama dengan lokasi jaringan kantor Bank. \n(2) \nDalam hal tidak terdapat jaringan kantor Bank di kota \natau kabupaten tempat kedudukan calon Agen Laku \nPandai, Bank tetap dapat bekerja sama dengan calon Agen \nLaku Pandai sepanjang: \n\n\n \n \na. \ndi lokasi tempat kedudukan calon Agen Laku Pandai \ntidak tersedia layanan keuangan yang memadai; dan \nb. \nterdapat \njaringan \nkantor \nBank \ndi \nkota \natau \nkabupaten lain yang berbeda dengan lokasi calon \nAgen Laku Pandai serta Bank dapat melakukan \npemantauan dan pengawasan.  \n \nBagian Kelima \nPerangkat Elektronik dalam Menunjang \nLayanan Agen Laku Pandai",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank hanya dapat melakukan kerja sama dengan Agen \nLaku Pandai yang berkedudukan di kota atau kabupaten \nyang sama dengan lokasi jaringan kantor Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal tidak terdapat jaringan kantor Bank di kota \natau kabupaten tempat kedudukan calon Agen Laku \nPandai, Bank tetap dapat bekerja sama dengan calon Agen \nLaku Pandai sepanjang: \n\n\n \n \na. \ndi lokasi tempat kedudukan calon Agen Laku Pandai \ntidak tersedia layanan keuangan yang memadai; dan \nb. \nterdapat \njaringan \nkantor \nBank \ndi \nkota \natau \nkabupaten lain yang berbeda dengan lokasi calon \nAgen Laku Pandai serta Bank dapat melakukan \npemantauan dan pengawasan.  \n \nBagian Kelima \nPerangkat Elektronik dalam Menunjang \nLayanan Agen Laku Pandai"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank menetapkan pemakaian perangkat elektronik dalam \nmenunjang layanan Agen Laku Pandai, terdiri atas:  \na. \nperangkat keras; dan \nb. \nperangkat lunak. \n(2) \nPenyelenggaraan \nperangkat \nelektronik \nsebagaimana \ndimaksud pada ayat (1) dilaksanakan sesuai dengan \nketentuan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank menetapkan pemakaian perangkat elektronik dalam \nmenunjang layanan Agen Laku Pandai, terdiri atas:  \na. \nperangkat keras; dan \nb. \nperangkat lunak."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelenggaraan \nperangkat \nelektronik \nsebagaimana \ndimaksud pada ayat (1) dilaksanakan sesuai dengan \nketentuan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "KERJA SAMA BANK PENYELENGGARA LAKU PANDAI DENGAN AGEN LAKU PANDAI",
+      "teks_lengkap": "(1) \nBank \nyang \nmenyelenggarakan \nLaku \nPandai \nharus \nmelakukan pembukuan transaksi yang dilakukan oleh \nnasabah pada saat yang bersamaan. \n(2) \nPembukuan transaksi sebagaimana dimaksud pada  \nayat (1) disertai dengan penyampaian bukti transaksi \nkepada nasabah Bank. \n(3) \nDalam \nkondisi \ntertentu, \npembukuan \ntransaksi \nsebagaimana dimaksud pada ayat (1) dapat dilakukan \npada saat yang tidak bersamaan sesuai dengan kebijakan \nBank. \n(4) \nKondisi tertentu sebagaimana dimaksud pada ayat (3) \nditetapkan dalam kebijakan Bank. \n(5) \nKebijakan sebagaimana dimaksud pada ayat (4) harus \ndiikuti dengan penyesuaian standar operasional prosedur \nBank yang memastikan mitigasi risiko dilakukan secara \nmemadai. \n\n\n \n \nBAB V \nPENERAPAN UJI TUNTAS NASABAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nyang \nmenyelenggarakan \nLaku \nPandai \nharus \nmelakukan pembukuan transaksi yang dilakukan oleh \nnasabah pada saat yang bersamaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembukuan transaksi sebagaimana dimaksud pada  \nayat (1) disertai dengan penyampaian bukti transaksi \nkepada nasabah Bank."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nkondisi \ntertentu, \npembukuan \ntransaksi \nsebagaimana dimaksud pada ayat (1) dapat dilakukan \npada saat yang tidak bersamaan sesuai dengan kebijakan \nBank."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Kondisi tertentu sebagaimana dimaksud pada ayat (3) \nditetapkan dalam kebijakan Bank."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kebijakan sebagaimana dimaksud pada ayat (4) harus \ndiikuti dengan penyesuaian standar operasional prosedur \nBank yang memastikan mitigasi risiko dilakukan secara \nmemadai. \n\n\n \n \nBAB V \nPENERAPAN UJI TUNTAS NASABAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENERAPAN UJI TUNTAS NASABAH",
+      "teks_lengkap": "(1) \nTerhadap calon nasabah BSA, Bank dengan bantuan Agen \nLaku Pandai menerapkan prosedur uji tuntas nasabah \nsesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai penerapan program anti pencucian uang dan \npencegahan pendanaan terorisme di sektor jasa keuangan. \n(2) \nDalam hal nasabah BSA akan menjadi debitur Bank, Bank \nmelengkapi dokumen nasabah BSA untuk kepentingan \npenyusunan laporan debitur sesuai dengan Peraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npelaporan \ndan \npermintaan informasi debitur melalui sistem layanan \ninformasi keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Terhadap calon nasabah BSA, Bank dengan bantuan Agen \nLaku Pandai menerapkan prosedur uji tuntas nasabah \nsesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai penerapan program anti pencucian uang dan \npencegahan pendanaan terorisme di sektor jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal nasabah BSA akan menjadi debitur Bank, Bank \nmelengkapi dokumen nasabah BSA untuk kepentingan \npenyusunan laporan debitur sesuai dengan Peraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npelaporan \ndan \npermintaan informasi debitur melalui sistem layanan \ninformasi keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENERAPAN UJI TUNTAS NASABAH",
+      "teks_lengkap": "(1) \nNasabah BSA yang telah mengajukan pembukaan \nrekening melalui Agen Laku Pandai hanya dapat \nmelakukan transaksi penyetoran tunai selama proses \nverifikasi belum selesai dilakukan oleh Bank. \n(2) \nDalam hal Bank menolak permohonan pembukaan \nrekening berdasarkan hasil proses verifikasi sebagaimana \ndimaksud pada ayat (1), Bank segera mengembalikan \nsetoran tunai nasabah BSA. \n(3) \nBank wajib memiliki prosedur pengembalian setoran \nsebagaimana dimaksud pada ayat (2).  \n(4) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (3) dikenai sanksi administratif \nberupa teguran tertulis. \n(5) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (4) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (3), Bank dapat dikenai sanksi administratif berupa:  \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \n\n\n \n \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Nasabah BSA yang telah mengajukan pembukaan \nrekening melalui Agen Laku Pandai hanya dapat \nmelakukan transaksi penyetoran tunai selama proses \nverifikasi belum selesai dilakukan oleh Bank."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Bank menolak permohonan pembukaan \nrekening berdasarkan hasil proses verifikasi sebagaimana \ndimaksud pada ayat (1), Bank segera mengembalikan \nsetoran tunai nasabah BSA."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib memiliki prosedur pengembalian setoran \nsebagaimana dimaksud pada ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (3) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (4) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (3), Bank dapat dikenai sanksi administratif berupa:  \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \n\n\n \n \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENERAPAN UJI TUNTAS NASABAH",
+      "teks_lengkap": "Bank Umum dapat melakukan proses verifikasi calon nasabah \nBSA menggunakan perangkat elektronik sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penyelenggaraan \nlayanan perbankan digital oleh bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Umum dapat melakukan proses verifikasi calon nasabah \nBSA menggunakan perangkat elektronik sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai penyelenggaraan \nlayanan perbankan digital oleh bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENERAPAN UJI TUNTAS NASABAH",
+      "teks_lengkap": "Untuk memperoleh izin penyelenggaraan layanan perbankan \ndigital guna melakukan verifikasi menggunakan perangkat \nelektronik dalam mendukung penyelenggaraan Laku Pandai, \nBank Umum dikecualikan dari persyaratan untuk memiliki \nperingkat profil risiko dengan peringkat 1 (satu) atau peringkat \n2 (dua) berdasarkan penilaian tingkat kesehatan Bank periode \npenilaian terakhir sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penyelenggaraan layanan perbankan \ndigital oleh bank umum.  \n \nBAB VI \nPENGGUNAAN PIHAK KETIGA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk memperoleh izin penyelenggaraan layanan perbankan \ndigital guna melakukan verifikasi menggunakan perangkat \nelektronik dalam mendukung penyelenggaraan Laku Pandai, \nBank Umum dikecualikan dari persyaratan untuk memiliki \nperingkat profil risiko dengan peringkat 1 (satu) atau peringkat \n2 (dua) berdasarkan penilaian tingkat kesehatan Bank periode \npenilaian terakhir sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penyelenggaraan layanan perbankan \ndigital oleh bank umum.  \n \nBAB VI \nPENGGUNAAN PIHAK KETIGA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK KETIGA",
+      "teks_lengkap": "(1) \nDalam penyelenggaraan Laku Pandai, Bank dapat \nmenggunakan pihak ketiga untuk pelaksanaan pekerjaan \ntertentu. \n(2) \nDalam menggunakan pihak ketiga, Bank memastikan \npihak ketiga memiliki kompetensi yang sesuai dengan \npekerjaan yang dilakukan. \n(3) \nBank tetap bertanggung jawab atas pekerjaan yang \ndilaksanakan oleh pihak ketiga sebagaimana dimaksud \npada ayat (1). \n(4) \nMekanisme dan tata cara penggunaan pihak ketiga \nsebagaimana dimaksud pada ayat (1) dilaksanakan sesuai \ndengan ketentuan peraturan perundang-undangan. \n\n\n \n \nBAB VII \nPENERAPAN MANAJEMEN RISIKO DALAM  \nPENGGUNAAN TEKNOLOGI INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam penyelenggaraan Laku Pandai, Bank dapat \nmenggunakan pihak ketiga untuk pelaksanaan pekerjaan \ntertentu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menggunakan pihak ketiga, Bank memastikan \npihak ketiga memiliki kompetensi yang sesuai dengan \npekerjaan yang dilakukan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank tetap bertanggung jawab atas pekerjaan yang \ndilaksanakan oleh pihak ketiga sebagaimana dimaksud \npada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Mekanisme dan tata cara penggunaan pihak ketiga \nsebagaimana dimaksud pada ayat (1) dilaksanakan sesuai \ndengan ketentuan peraturan perundang-undangan. \n\n\n \n \nBAB VII \nPENERAPAN MANAJEMEN RISIKO DALAM  \nPENGGUNAAN TEKNOLOGI INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO DALAM PENGGUNAAN TEKNOLOGI INFORMASI",
+      "teks_lengkap": "(1) \nBank \nwajib \nmenerapkan \nprinsip \npengendalian \npengamanan data nasabah dan transaksi pada sistem \nelektronik \nyang \ndigunakan \noleh \nBank \nuntuk \npenyelenggaraan Laku Pandai. \n(2) \nPrinsip pengendalian pengamanan data nasabah dan \ntransaksi pada sistem elektronik sebagaimana dimaksud \npada ayat (1) mencakup paling sedikit: \na. \nkerahasiaan; \nb. \nintegritas; \nc. \nketersediaan; dan \nd. \nkeaslian. \n(3) \nBank wajib menerapkan paling sedikit 2 (dua) faktor \nkeaslian \nuntuk \nverifikasi \ntransaksi \ndalam \npenyelenggaraan Laku Pandai. \n(4) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dan/atau ayat (3) dikenai sanksi \nadministratif berupa teguran tertulis. \n(5) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran \ntertulis \nsebagaimana \ndimaksud \npada  \nayat (4) dan belum memenuhi ketentuan sebagaimana \ndimaksud pada ayat (1) dan/atau ayat (3), Bank dapat \ndikenai sanksi administratif berupa:  \na. \npembekuan produk Bank tertentu; \nb. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nc. \npenurunan \ntingkat \nkesehatan \nBank \nberupa \npenurunan peringkat faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n \n \n \n \n\n\n \n \nBAB VIII \nPERLINDUNGAN KONSUMEN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmenerapkan \nprinsip \npengendalian \npengamanan data nasabah dan transaksi pada sistem \nelektronik \nyang \ndigunakan \noleh \nBank \nuntuk \npenyelenggaraan Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Prinsip pengendalian pengamanan data nasabah dan \ntransaksi pada sistem elektronik sebagaimana dimaksud \npada ayat (1) mencakup paling sedikit: \na. \nkerahasiaan; \nb. \nintegritas; \nc. \nketersediaan; dan \nd. \nkeaslian."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank wajib menerapkan paling sedikit 2 (dua) faktor \nkeaslian \nuntuk \nverifikasi \ntransaksi \ndalam \npenyelenggaraan Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dan/atau ayat (3) dikenai sanksi \nadministratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran \ntertulis \nsebagaimana \ndimaksud \npada  \nayat (4) dan belum memenuhi ketentuan sebagaimana \ndimaksud pada ayat (1) dan/atau ayat (3), Bank dapat \ndikenai sanksi administratif berupa:  \na. \npembekuan produk Bank tertentu; \nb. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nc. \npenurunan \ntingkat \nkesehatan \nBank \nberupa \npenurunan peringkat faktor tata kelola dalam \npenilaian tingkat kesehatan Bank. \n \n \n \n \n\n\n \n \nBAB VIII \nPERLINDUNGAN KONSUMEN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PERLINDUNGAN KONSUMEN",
+      "teks_lengkap": "(1) \nBank wajib menerapkan prinsip perlindungan konsumen \ndalam penyelenggaraan Laku Pandai sesuai dengan \nketentuan peraturan perundang-undangan mengenai \nperlindungan konsumen sektor jasa keuangan.  \n(2) \nMekanisme dan tata cara penerapan prinsip perlindungan \nkonsumen \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan mengenai perlindungan konsumen \nsektor jasa keuangan.  \n(3) \nBank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis. \n(4) \nDalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (3) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dikenai sanksi administratif berupa:  \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.  \n \nBAB IX \nPELAPORAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank wajib menerapkan prinsip perlindungan konsumen \ndalam penyelenggaraan Laku Pandai sesuai dengan \nketentuan peraturan perundang-undangan mengenai \nperlindungan konsumen sektor jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Mekanisme dan tata cara penerapan prinsip perlindungan \nkonsumen \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan mengenai perlindungan konsumen \nsektor jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank yang tidak melaksanakan kewajiban sebagaimana \ndimaksud pada ayat (1) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Bank telah dikenai sanksi administratif berupa \nteguran tertulis sebagaimana dimaksud pada ayat (3) dan \nbelum memenuhi ketentuan sebagaimana dimaksud pada \nayat (1), Bank dikenai sanksi administratif berupa:  \na. \npembatasan \nproduk \nBank \ntertentu \nterkait \npenyelenggaraan Laku Pandai; \nb. \npembekuan produk Bank tertentu; \nc. \nlarangan untuk menyelenggarakan produk Bank \nbaru; dan/atau \nd. \npenurunan tingkat kesehatan Bank.  \n \nBAB IX \nPELAPORAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank \nwajib \nmenyampaikan \nlaporan \nrealisasi \npenyelenggaraan Laku Pandai paling lama 10 (sepuluh) \nhari kerja setelah penyelenggaraan Laku Pandai. \n(2) \nBank yang melakukan pelanggaran terkait penyampaian \nlaporan realisasi sebagaimana dimaksud pada ayat (1) \ndikenai sanksi administratif. \n\n\n \n \n(3) \nPenyampaian laporan realisasi sebagaimana dimaksud \npada ayat (1) dan pengenaan sanksi atas pelanggaran \nterkait \npenyampaian \nlaporan \nrealisasi \nsebagaimana \ndimaksud pada ayat (2) dilaksanakan sesuai dengan: \na. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank umum; atau \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank perkreditan rakyat dan \nbank pembiayaan rakyat syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmenyampaikan \nlaporan \nrealisasi \npenyelenggaraan Laku Pandai paling lama 10 (sepuluh) \nhari kerja setelah penyelenggaraan Laku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank yang melakukan pelanggaran terkait penyampaian \nlaporan realisasi sebagaimana dimaksud pada ayat (1) \ndikenai sanksi administratif."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyampaian laporan realisasi sebagaimana dimaksud \npada ayat (1) dan pengenaan sanksi atas pelanggaran \nterkait \npenyampaian \nlaporan \nrealisasi \nsebagaimana \ndimaksud pada ayat (2) dilaksanakan sesuai dengan: \na. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank umum; atau \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank perkreditan rakyat dan \nbank pembiayaan rakyat syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBank \nwajib \nmenyampaikan \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai secara triwulanan untuk \nposisi bulan Maret, bulan Juni, bulan September, dan \nbulan Desember, paling lambat setiap tanggal 15 (lima \nbelas) bulan berikutnya setelah akhir bulan laporan. \n(2) \nApabila batas waktu penyampaian laporan sebagaimana \ndimaksud pada ayat (1) jatuh pada hari Sabtu, hari \nMinggu, atau hari libur lain, laporan disampaikan pada \nhari kerja berikutnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nwajib \nmenyampaikan \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai secara triwulanan untuk \nposisi bulan Maret, bulan Juni, bulan September, dan \nbulan Desember, paling lambat setiap tanggal 15 (lima \nbelas) bulan berikutnya setelah akhir bulan laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Apabila batas waktu penyampaian laporan sebagaimana \ndimaksud pada ayat (1) jatuh pada hari Sabtu, hari \nMinggu, atau hari libur lain, laporan disampaikan pada \nhari kerja berikutnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBagi \nBank \nUmum, \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai sebagaimana dimaksud \ndalam Pasal 35 ayat (1) disampaikan secara daring melalui \nsistem pelaporan Otoritas Jasa Keuangan. \n(2) \nBank Umum yang melakukan pelanggaran terkait \npenyampaian laporan perkembangan penyelenggaraan \nLaku Pandai sebagaimana dimaksud pada ayat (1) dikenai \nsanksi administratif. \n(3) \nTata \ncara \npenyampaian \nlaporan \nsecara \ndaring \nsebagaimana dimaksud pada ayat (1) dan pengenaan \nsanksi administratif sebagaimana dimaksud pada ayat (2) \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai pelaporan bank umum melalui sistem \npelaporan Otoritas Jasa Keuangan.  \n\n\n \n \n(4) \nFormat laporan perkembangan penyelenggaraan Laku \nPandai sebagaimana dimaksud dalam Pasal 35 ayat (1) \nditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bagi \nBank \nUmum, \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai sebagaimana dimaksud \ndalam Pasal 35 ayat (1) disampaikan secara daring melalui \nsistem pelaporan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Umum yang melakukan pelanggaran terkait \npenyampaian laporan perkembangan penyelenggaraan \nLaku Pandai sebagaimana dimaksud pada ayat (1) dikenai \nsanksi administratif."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Tata \ncara \npenyampaian \nlaporan \nsecara \ndaring \nsebagaimana dimaksud pada ayat (1) dan pengenaan \nsanksi administratif sebagaimana dimaksud pada ayat (2) \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai pelaporan bank umum melalui sistem \npelaporan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Format laporan perkembangan penyelenggaraan Laku \nPandai sebagaimana dimaksud dalam Pasal 35 ayat (1) \nditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBagi \nBPR \ndan \nBPRS, \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai sebagaimana dimaksud \ndalam Pasal 35 ayat (1) disampaikan secara daring melalui \nsistem pelaporan Otoritas Jasa Keuangan.  \n(2) \nDalam \nhal \npenyampaian \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai secara daring sebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, BPR dan \nBPRS \nmenyampaikan \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai dalam bentuk salinan cetak \ndan salinan elektronik secara luring kepada Otoritas Jasa \nKeuangan. \n(3) \nLaporan \nsebagaimana \ndimaksud \npada \nayat \n(2) \ndisampaikan kepada:  \na. \nKantor Regional Otoritas Jasa Keuangan, bagi BPR \ndan BPRS yang berkantor pusat di wilayah kerja \nKantor Regional Otoritas Jasa Keuangan; atau \nb. \nKantor Otoritas Jasa Keuangan, bagi BPR dan BPRS \nyang berkantor pusat di wilayah kerja Kantor Otoritas \nJasa Keuangan. \n(4) \nBPR dan BPRS  yang terlambat menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 35 ayat (1) dikenai \nsanksi administratif berupa denda sebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari kerja  \nketerlambatan dan paling banyak Rp3.000.0000,00 \n(tiga juta rupiah) bagi BPR dan BPRS yang memiliki \nmodal inti kurang dari Rp50.000.000.000,00 (lima \npuluh miliar rupiah); atau \nb. \nRp250.000,00 (dua ratus lima puluh ribu rupiah) per \nhari \nkerja \nketerlambatan \ndan \npaling \nbanyak \nRp7.500.000,00 (tujuh juta lima ratus ribu rupiah)  \n \n \n\n\n \n \nbagi BPR dan BPRS yang memiliki modal inti paling \nsedikit Rp50.000.000.000,00 (lima puluh miliar \nrupiah).  \n(5) \nFormat laporan perkembangan penyelenggaraan Laku \nPandai sebagaimana dimaksud dalam Pasal 35 ayat (1) \nditetapkan oleh Otoritas Jasa Keuangan.  \n \nBAB X \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bagi \nBPR \ndan \nBPRS, \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai sebagaimana dimaksud \ndalam Pasal 35 ayat (1) disampaikan secara daring melalui \nsistem pelaporan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \npenyampaian \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai secara daring sebagaimana \ndimaksud pada ayat (1) belum dapat dilakukan, BPR dan \nBPRS \nmenyampaikan \nlaporan \nperkembangan \npenyelenggaraan Laku Pandai dalam bentuk salinan cetak \ndan salinan elektronik secara luring kepada Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "disampaikan kepada:  \na. \nKantor Regional Otoritas Jasa Keuangan, bagi BPR \ndan BPRS yang berkantor pusat di wilayah kerja \nKantor Regional Otoritas Jasa Keuangan; atau \nb. \nKantor Otoritas Jasa Keuangan, bagi BPR dan BPRS \nyang berkantor pusat di wilayah kerja Kantor Otoritas \nJasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPRS  yang terlambat menyampaikan laporan \nsebagaimana dimaksud dalam Pasal 35 ayat (1) dikenai \nsanksi administratif berupa denda sebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari kerja  \nketerlambatan dan paling banyak Rp3.000.0000,00 \n(tiga juta rupiah) bagi BPR dan BPRS yang memiliki \nmodal inti kurang dari Rp50.000.000.000,00 (lima \npuluh miliar rupiah); atau \nb. \nRp250.000,00 (dua ratus lima puluh ribu rupiah) per \nhari \nkerja \nketerlambatan \ndan \npaling \nbanyak \nRp7.500.000,00 (tujuh juta lima ratus ribu rupiah)  \n \n \n\n\n \n \nbagi BPR dan BPRS yang memiliki modal inti paling \nsedikit Rp50.000.000.000,00 (lima puluh miliar \nrupiah)."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Format laporan perkembangan penyelenggaraan Laku \nPandai sebagaimana dimaksud dalam Pasal 35 ayat (1) \nditetapkan oleh Otoritas Jasa Keuangan.  \n \nBAB X \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nDalam hal diperlukan, Otoritas Jasa Keuangan dapat \nmeminta informasi, keterangan, dan/atau data kepada \nBank, termasuk melakukan pemeriksaaan terhadap Agen \nLaku Pandai. \n(2) \nOtoritas Jasa Keuangan berdasarkan pertimbangan \ntertentu dapat memerintahkan Bank untuk melakukan \npenghentian kerja sama dengan Agen Laku Pandai. \n \nBAB XI \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal diperlukan, Otoritas Jasa Keuangan dapat \nmeminta informasi, keterangan, dan/atau data kepada \nBank, termasuk melakukan pemeriksaaan terhadap Agen \nLaku Pandai."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Otoritas Jasa Keuangan berdasarkan pertimbangan \ntertentu dapat memerintahkan Bank untuk melakukan \npenghentian kerja sama dengan Agen Laku Pandai. \n \nBAB XI \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Bank yang telah memiliki kebijakan dan prosedur dalam \npenyelenggaraan Laku Pandai harus menyesuaikan dengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini paling \nlama 3 (tiga) bulan sejak berlakunya Peraturan Otoritas Jasa \nKeuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang telah memiliki kebijakan dan prosedur dalam \npenyelenggaraan Laku Pandai harus menyesuaikan dengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini paling \nlama 3 (tiga) bulan sejak berlakunya Peraturan Otoritas Jasa \nKeuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Bank yang telah menyalurkan kredit atau pembiayaan mikro \nmelalui Laku Pandai harus melengkapi dokumen nasabah BSA \nuntuk kepentingan penyusunan laporan debitur sesuai dengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank yang telah menyalurkan kredit atau pembiayaan mikro \nmelalui Laku Pandai harus melengkapi dokumen nasabah BSA \nuntuk kepentingan penyusunan laporan debitur sesuai dengan \nketentuan dalam Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nTerhadap klasifikasi Agen Laku Pandai yang telah \nditetapkan sebelum berlakunya Peraturan Otoritas Jasa \nKeuangan ini, Bank melakukan penyesuaian klasifikasi \nAgen Laku Pandai sesuai dengan ketentuan dalam \nPeraturan Otoritas Jasa Keuangan ini.  \n(2) \nPenyesuaian klasifikasi Agen Laku Pandai sebagaimana \ndimaksud pada ayat (1) ditetapkan:  \na. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi A tetap pada klasifikasi A; \nb. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi B tetap pada klasifikasi B;  \nc. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi C dan klasifikasi D disesuaikan \nmenjadi klasifikasi B; dan \nd. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi E, klasifikasi F, dan klasifikasi G \ndisesuaikan menjadi klasifikasi C.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Terhadap klasifikasi Agen Laku Pandai yang telah \nditetapkan sebelum berlakunya Peraturan Otoritas Jasa \nKeuangan ini, Bank melakukan penyesuaian klasifikasi \nAgen Laku Pandai sesuai dengan ketentuan dalam \nPeraturan Otoritas Jasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyesuaian klasifikasi Agen Laku Pandai sebagaimana \ndimaksud pada ayat (1) ditetapkan:  \na. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi A tetap pada klasifikasi A; \nb. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi B tetap pada klasifikasi B;  \nc. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi C dan klasifikasi D disesuaikan \nmenjadi klasifikasi B; dan \nd. \nAgen Laku Pandai yang sebelumnya ditetapkan \nsebagai klasifikasi E, klasifikasi F, dan klasifikasi G \ndisesuaikan menjadi klasifikasi C."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pelaporan yang disampaikan melalui aplikasi pelaporan Laku \nPandai beralih ke sistem pelaporan Otoritas Jasa Keuangan \nmulai periode laporan posisi bulan Desember 2021. \n \nBAB XII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelaporan yang disampaikan melalui aplikasi pelaporan Laku \nPandai beralih ke sistem pelaporan Otoritas Jasa Keuangan \nmulai periode laporan posisi bulan Desember 2021. \n \nBAB XII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nketentuan pelaksanaan dari Peraturan Otoritas Jasa Keuangan \nNomor 19/POJK.03/2014 tentang Layanan Keuangan Tanpa \nKantor dalam rangka Keuangan Inklusif (Lembaran Negara \nRepublik Indonesia Tahun 2014 Nomor 350, Tambahan \nLembaran Negara Republik Indonesia Nomor 5628), dinyatakan \ntetap berlaku sepanjang tidak bertentangan dengan ketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nketentuan pelaksanaan dari Peraturan Otoritas Jasa Keuangan \nNomor 19/POJK.03/2014 tentang Layanan Keuangan Tanpa \nKantor dalam rangka Keuangan Inklusif (Lembaran Negara \nRepublik Indonesia Tahun 2014 Nomor 350, Tambahan \nLembaran Negara Republik Indonesia Nomor 5628), dinyatakan \ntetap berlaku sepanjang tidak bertentangan dengan ketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nPeraturan Otoritas Jasa Keuangan Nomor 19/POJK.03/2014 \ntentang Layanan Keuangan Tanpa Kantor dalam rangka \nKeuangan Inklusif (Lembaran Negara Republik Indonesia \nTahun 2014 Nomor 350, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5628), dicabut dan dinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai berlaku, \nPeraturan Otoritas Jasa Keuangan Nomor 19/POJK.03/2014 \ntentang Layanan Keuangan Tanpa Kantor dalam rangka \nKeuangan Inklusif (Lembaran Negara Republik Indonesia \nTahun 2014 Nomor 350, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5628), dicabut dan dinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nMufli Asmawidjaja \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 5 Januari 2022   \n    \nKETUA DEWAN KOMISIONER   \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n                      \nttd                      \n \nWIMBOH SANTOSO \n \nDiundangkan di Jakarta  \npada tanggal 6 Januari 2022 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 10 \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 1 /POJK.03/2022 \nTENTANG \n \nLAYANAN KEUANGAN TANPA KANTOR  \n \nDALAM RANGKA KEUANGAN INKLUSIF \n \nI. \nUMUM \nPeranan industri perbankan dan industri jasa keuangan lainnya \nsangat \npenting \ndalam \nmenunjang \nkegiatan \ndan \npertumbuhan \nperekonomian di Indonesia. Oleh karena itu, masing-masing industri \ndituntut \nuntuk \nmeningkatkan \ndan \nmemperluas \nakses \nlayanan \nkeuangannya, agar dapat memberikan manfaat lebih kepada masyarakat \nIndonesia, khususnya masyarakat yang belum mengenal, menggunakan, \ndan/atau mendapatkan layanan perbankan dan layanan keuangan \nlainnya. \nPenyebab terbatasnya ketersediaan akses layanan perbankan dan \nlayanan keuangan di Indonesia, antara lain: \na. \nbanyaknya wilayah Indonesia yang belum dilayani oleh jaringan kantor \nindustri perbankan dan industri jasa keuangan karena lokasi yang \nterpencil; \nb. \nbiaya yang cukup tinggi dan/atau waktu yang cukup lama bagi \nmasyarakat daerah terpencil untuk menjangkau lokasi layanan \nperbankan dan layanan keuangan; \nc. \nkompleksitas proses untuk memperoleh layanan perbankan dan \nlayanan keuangan lainnya; \nd. \nrendahnya pengetahuan dan pemahaman mengenai produk dan/atau \nlayanan industri perbankan dan industri jasa keuangan; dan \n\n\n \n \ne. \nmasih rendahnya penghasilan sebagian masyarakat sehingga belum \nmampu untuk menabung. \nPerluasan akses layanan keuangan tentu sangat diperlukan bagi \nmasyarakat baik yang tinggal di daerah terpencil maupun yang \nberpenghasilan rendah. Dengan semakin inklusifnya layanan keuangan \ntersebut, diharapkan dapat mendorong pertumbuhan ekonomi sehingga \nkesejahteraan semakin merata di seluruh Indonesia, dan pada akhirnya \ndapat berperan dalam usaha pengentasan kemiskinan di Indonesia. \nPeranan industri jasa keuangan khususnya perbankan dalam \nmendorong perekonomian antara lain melalui fungsi intermediasi dengan \nmenerima dana dari masyarakat dan menyalurkan kredit atau pembiayaan \nyang bersifat produktif dan/atau kredit atau pembiayaan lainnya kepada \nmasyarakat secara menyeluruh. \nUntuk mendorong peningkatan inklusi keuangan di Indonesia, pada \ntahun 2020 Pemerintah Indonesia telah menerbitkan Peraturan Presiden \nNomor 114 Tahun 2020 tentang Strategi Nasional Keuangan Inklusif. \nStrategi nasional keuangan inklusif memiliki 5 (lima) pilar, yaitu: \na. \nedukasi keuangan; \nb. \nhak properti masyarakat; \nc. \nproduk, intermediasi, dan saluran distribusi;  \nd. \nlayanan keuangan pada sektor pemerintah; dan \ne. \nperlindungan konsumen. \nKelima pilar tersebut bertujuan untuk mencapai tujuan akhir strategi \nnasional keuangan inklusif, yaitu: \na. \nmenciptakan sistem keuangan yang inklusif untuk mendukung sistem \nkeuangan yang dalam dan stabil; \nb. \nmendukung pertumbuhan ekonomi; \nc. \nmempercepat penanggulangan kemiskinan; dan \nd. \nmengurangi kesenjangan antarindividu dan antardaerah untuk \nmewujudkan kesejahteraan masyarakat Indonesia. \nDalam mencapai tujuan akhir strategi nasional keuangan inklusif, \npemerintah tentunya harus mendapatkan dukungan dari berbagai pihak. \nSehubungan dengan hal tersebut, Otoritas Jasa Keuangan bersama dengan \nlembaga jasa keuangan berpartisipasi aktif dalam pilar edukasi keuangan, \nproduk, intermediasi, dan saluran distribusi, layanan keuangan sektor \npemerintah, serta perlindungan konsumen. \n\n\n \n \nSalah satu program yang mendukung pilar strategi nasional keuangan \ninklusif terkait produk, intermediasi, dan saluran distribusi adalah \npenyediaan layanan keuangan tanpa kantor (branchless financial services) \nyang antara lain dapat dilakukan melalui Laku Pandai. Melalui Laku \nPandai, lembaga jasa keuangan berperan penting untuk mendukung \nstrategi nasional keuangan inklusif dalam mewujudkan keuangan inklusif. \nLaku Pandai memanfaatkan sarana teknologi informasi seperti telepon \nseluler, electronic data capture, dan/atau internet banking yang mendukung \nlayanan keuangan oleh Bank melalui Agen Laku Pandai. Dengan \npemanfaatan sarana teknologi informasi tersebut, diharapkan dapat \nmenjangkau masyarakat di daerah terpencil dan mengurangi biaya \ntransaksi keuangan sehingga dapat menjadi lebih terjangkau bagi \nmasyarakat. \nSelanjutnya, Laku Pandai menyediakan produk keuangan yang \ndisesuaikan dengan kebutuhan masyarakat di daerah terpencil dan/atau \nberpenghasilan rendah, dengan karakteristik yang sederhana sehingga \nlebih mudah dipahami yang diiringi dengan kemudahan dalam proses \ntransaksi dan penyederhanaan pemenuhan dokumen permohonan dari \ncalon nasabah. \nDengan bertambahnya pengetahuan dan pemahaman mengenai \nlayanan keuangan, diharapkan dapat membantu peningkatan kesadaran \nmasyarakat mengenai pentingnya pengelolaan keuangan. Pengelolaan \nkeuangan yang lebih baik dapat meningkatkan penghasilan dan \nkesejahteraan masyarakat. Dalam hal kesadaran ini sudah semakin meluas \ndan menguat pada masyarakat maka akan mendukung terwujudnya \nKeuangan Inklusif di Indonesia. \nPenyelenggaraan Laku Pandai yang secara efektif diimplementasikan \nsejak awal tahun 2015, telah meningkatkan, mempermudah, dan \nmemperluas akses penggunaan layanan keuangan bagi masyarakat \nkhususnya yang belum mengenal, menggunakan, dan/atau mendapatkan \nlayanan perbankan dan layanan keuangan lainnya. \nDalam perkembangannya, Laku Pandai juga dimanfaatkan sebagai \nsarana penyaluran program pemerintah, antara lain penyaluran kredit \nusaha rakyat mikro dan penyaluran bantuan sosial secara nontunai. \n Selanjutnya, untuk mendukung perluasan akses layanan keuangan \nsecara berkelanjutan, diperlukan peningkatan efisiensi dan efektivitas \npenyelenggaraan Laku Pandai dengan memperhatikan perkembangan \n\n\n \n \nkondisi perbankan dan perkembangan teknologi informasi. Adapun upaya \nyang dapat dilakukan untuk meningkatkan efisiensi dan efektivitas \npenyelenggaraan Laku Pandai antara lain melalui: \na. \nperluasan model bisnis dan kerja sama yang terkait dengan keagenan; \nb. \npenyesuaian cakupan dari layanan keuangan termasuk dalam \nmendukung pelaksanaan program pemerintah;  \nc. \npemanfaatan teknologi informasi dalam pembukaan rekening;  \nd. \npenggunaan pihak ketiga dalam mendukung penyelenggaraan Laku \nPandai; dan \ne. \npenyempurnaan pelaporan perkembangan penyelenggaraan Laku \nPandai secara daring. \nSehubungan dengan hal tersebut dan untuk memitigasi risiko yang \nmungkin timbul, perlu penyempurnaan pengaturan mengenai layanan \nkeuangan tanpa kantor dalam rangka keuangan inklusif atau Laku Pandai, \ndalam Peraturan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku pada \ntanggal diundangkan. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nMufli Asmawidjaja \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 5 Januari 2022   \n    \nKETUA DEWAN KOMISIONER   \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n                      \nttd                      \n \nWIMBOH SANTOSO \n \nDiundangkan di Jakarta  \npada tanggal 6 Januari 2022 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA  \nREPUBLIK INDONESIA,  \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2022 NOMOR 10 \n\n\n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 1 /POJK.03/2022 \nTENTANG \n \nLAYANAN KEUANGAN TANPA KANTOR  \n \nDALAM RANGKA KEUANGAN INKLUSIF \n \nI. \nUMUM \nPeranan industri perbankan dan industri jasa keuangan lainnya \nsangat \npenting \ndalam \nmenunjang \nkegiatan \ndan \npertumbuhan \nperekonomian di Indonesia. Oleh karena itu, masing-masing industri \ndituntut \nuntuk \nmeningkatkan \ndan \nmemperluas \nakses \nlayanan \nkeuangannya, agar dapat memberikan manfaat lebih kepada masyarakat \nIndonesia, khususnya masyarakat yang belum mengenal, menggunakan, \ndan/atau mendapatkan layanan perbankan dan layanan keuangan \nlainnya. \nPenyebab terbatasnya ketersediaan akses layanan perbankan dan \nlayanan keuangan di Indonesia, antara lain: \na. \nbanyaknya wilayah Indonesia yang belum dilayani oleh jaringan kantor \nindustri perbankan dan industri jasa keuangan karena lokasi yang \nterpencil; \nb. \nbiaya yang cukup tinggi dan/atau waktu yang cukup lama bagi \nmasyarakat daerah terpencil untuk menjangkau lokasi layanan \nperbankan dan layanan keuangan; \nc. \nkompleksitas proses untuk memperoleh layanan perbankan dan \nlayanan keuangan lainnya; \nd. \nrendahnya pengetahuan dan pemahaman mengenai produk dan/atau \nlayanan industri perbankan dan industri jasa keuangan; dan \n\n\n \n \ne. \nmasih rendahnya penghasilan sebagian masyarakat sehingga belum \nmampu untuk menabung. \nPerluasan akses layanan keuangan tentu sangat diperlukan bagi \nmasyarakat baik yang tinggal di daerah terpencil maupun yang \nberpenghasilan rendah. Dengan semakin inklusifnya layanan keuangan \ntersebut, diharapkan dapat mendorong pertumbuhan ekonomi sehingga \nkesejahteraan semakin merata di seluruh Indonesia, dan pada akhirnya \ndapat berperan dalam usaha pengentasan kemiskinan di Indonesia. \nPeranan industri jasa keuangan khususnya perbankan dalam \nmendorong perekonomian antara lain melalui fungsi intermediasi dengan \nmenerima dana dari masyarakat dan menyalurkan kredit atau pembiayaan \nyang bersifat produktif dan/atau kredit atau pembiayaan lainnya kepada \nmasyarakat secara menyeluruh. \nUntuk mendorong peningkatan inklusi keuangan di Indonesia, pada \ntahun 2020 Pemerintah Indonesia telah menerbitkan Peraturan Presiden \nNomor 114 Tahun 2020 tentang Strategi Nasional Keuangan Inklusif. \nStrategi nasional keuangan inklusif memiliki 5 (lima) pilar, yaitu: \na. \nedukasi keuangan; \nb. \nhak properti masyarakat; \nc. \nproduk, intermediasi, dan saluran distribusi;  \nd. \nlayanan keuangan pada sektor pemerintah; dan \ne. \nperlindungan konsumen. \nKelima pilar tersebut bertujuan untuk mencapai tujuan akhir strategi \nnasional keuangan inklusif, yaitu: \na. \nmenciptakan sistem keuangan yang inklusif untuk mendukung sistem \nkeuangan yang dalam dan stabil; \nb. \nmendukung pertumbuhan ekonomi; \nc. \nmempercepat penanggulangan kemiskinan; dan \nd. \nmengurangi kesenjangan antarindividu dan antardaerah untuk \nmewujudkan kesejahteraan masyarakat Indonesia. \nDalam mencapai tujuan akhir strategi nasional keuangan inklusif, \npemerintah tentunya harus mendapatkan dukungan dari berbagai pihak. \nSehubungan dengan hal tersebut, Otoritas Jasa Keuangan bersama dengan \nlembaga jasa keuangan berpartisipasi aktif dalam pilar edukasi keuangan, \nproduk, intermediasi, dan saluran distribusi, layanan keuangan sektor \npemerintah, serta perlindungan konsumen. \n\n\n \n \nSalah satu program yang mendukung pilar strategi nasional keuangan \ninklusif terkait produk, intermediasi, dan saluran distribusi adalah \npenyediaan layanan keuangan tanpa kantor (branchless financial services) \nyang antara lain dapat dilakukan melalui Laku Pandai. Melalui Laku \nPandai, lembaga jasa keuangan berperan penting untuk mendukung \nstrategi nasional keuangan inklusif dalam mewujudkan keuangan inklusif. \nLaku Pandai memanfaatkan sarana teknologi informasi seperti telepon \nseluler, electronic data capture, dan/atau internet banking yang mendukung \nlayanan keuangan oleh Bank melalui Agen Laku Pandai. Dengan \npemanfaatan sarana teknologi informasi tersebut, diharapkan dapat \nmenjangkau masyarakat di daerah terpencil dan mengurangi biaya \ntransaksi keuangan sehingga dapat menjadi lebih terjangkau bagi \nmasyarakat. \nSelanjutnya, Laku Pandai menyediakan produk keuangan yang \ndisesuaikan dengan kebutuhan masyarakat di daerah terpencil dan/atau \nberpenghasilan rendah, dengan karakteristik yang sederhana sehingga \nlebih mudah dipahami yang diiringi dengan kemudahan dalam proses \ntransaksi dan penyederhanaan pemenuhan dokumen permohonan dari \ncalon nasabah. \nDengan bertambahnya pengetahuan dan pemahaman mengenai \nlayanan keuangan, diharapkan dapat membantu peningkatan kesadaran \nmasyarakat mengenai pentingnya pengelolaan keuangan. Pengelolaan \nkeuangan yang lebih baik dapat meningkatkan penghasilan dan \nkesejahteraan masyarakat. Dalam hal kesadaran ini sudah semakin meluas \ndan menguat pada masyarakat maka akan mendukung terwujudnya \nKeuangan Inklusif di Indonesia. \nPenyelenggaraan Laku Pandai yang secara efektif diimplementasikan \nsejak awal tahun 2015, telah meningkatkan, mempermudah, dan \nmemperluas akses penggunaan layanan keuangan bagi masyarakat \nkhususnya yang belum mengenal, menggunakan, dan/atau mendapatkan \nlayanan perbankan dan layanan keuangan lainnya. \nDalam perkembangannya, Laku Pandai juga dimanfaatkan sebagai \nsarana penyaluran program pemerintah, antara lain penyaluran kredit \nusaha rakyat mikro dan penyaluran bantuan sosial secara nontunai. \n Selanjutnya, untuk mendukung perluasan akses layanan keuangan \nsecara berkelanjutan, diperlukan peningkatan efisiensi dan efektivitas \npenyelenggaraan Laku Pandai dengan memperhatikan perkembangan \n\n\n \n \nkondisi perbankan dan perkembangan teknologi informasi. Adapun upaya \nyang dapat dilakukan untuk meningkatkan efisiensi dan efektivitas \npenyelenggaraan Laku Pandai antara lain melalui: \na. \nperluasan model bisnis dan kerja sama yang terkait dengan keagenan; \nb. \npenyesuaian cakupan dari layanan keuangan termasuk dalam \nmendukung pelaksanaan program pemerintah;  \nc. \npemanfaatan teknologi informasi dalam pembukaan rekening;  \nd. \npenggunaan pihak ketiga dalam mendukung penyelenggaraan Laku \nPandai; dan \ne. \npenyempurnaan pelaporan perkembangan penyelenggaraan Laku \nPandai secara daring. \nSehubungan dengan hal tersebut dan untuk memitigasi risiko yang \nmungkin timbul, perlu penyempurnaan pengaturan mengenai layanan \nkeuangan tanpa kantor dalam rangka keuangan inklusif atau Laku Pandai, \ndalam Peraturan Otoritas Jasa Keuangan. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “lembaga jasa keuangan” adalah lembaga \nyang melaksanakan kegiatan di sektor perbankan, pasar modal, \nperasuransian, dana pensiun, lembaga pembiayaan, dan lembaga \njasa keuangan lainnya sesuai dengan Undang-Undang mengenai \nOtoritas Jasa Keuangan. \nAyat (2) \nCukup jelas. \nAyat (3) \nBagi Bank Umum mekanisme perizinan dilaksanakan sesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank umum. \nBagi BPR dan BPRS mekanisme perizinan dilaksanakan sesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \n\n\n \n \npenyelenggaraan produk bank perkreditan rakyat dan bank \npembiayaan rakyat syariah. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “lembaga jasa keuangan” adalah lembaga \nyang melaksanakan kegiatan di sektor perbankan, pasar modal, \nperasuransian, dana pensiun, lembaga pembiayaan, dan lembaga \njasa keuangan lainnya sesuai dengan Undang-Undang mengenai \nOtoritas Jasa Keuangan. \nAyat (2) \nCukup jelas. \nAyat (3) \nBagi Bank Umum mekanisme perizinan dilaksanakan sesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank umum. \nBagi BPR dan BPRS mekanisme perizinan dilaksanakan sesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \n\n\n \n \npenyelenggaraan produk bank perkreditan rakyat dan bank \npembiayaan rakyat syariah. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenerapan manajemen risiko secara efektif dilaksanakan sesuai \ndengan: \na. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank umum dan ketentuan \npelaksanaannya;  \nb. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank umum syariah dan unit usaha \nsyariah;  \nc. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank perkreditan rakyat dan \nketentuan pelaksanaannya; atau  \nd. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank pembiayaan rakyat syariah dan \nketentuan pelaksanaannya. \n \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenerapan manajemen risiko secara efektif dilaksanakan sesuai \ndengan: \na. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank umum dan ketentuan \npelaksanaannya;  \nb. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank umum syariah dan unit usaha \nsyariah;  \nc. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank perkreditan rakyat dan \nketentuan pelaksanaannya; atau  \nd. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank pembiayaan rakyat syariah dan \nketentuan pelaksanaannya. \n \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nProduk Bank berupa BSA termasuk BSA berdasarkan prinsip \nsyariah dengan akad mudarabah dan/atau wadiah. \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nProduk Bank berupa BSA termasuk BSA berdasarkan prinsip \nsyariah dengan akad mudarabah dan/atau wadiah. \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nHuruf a \n \n \n \n \nCukup jelas. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \nSetoran termasuk setoran pada saat pembukaan rekening \ndan/atau setoran tunai selanjutnya. \n \n \n \nHuruf d \nPeniadaan batas minimum saldo rekening berlaku setiap \nsaat. \n \n \n \nHuruf e \nBank dapat menetapkan batas maksimum saldo rekening \nsetiap saat kurang dari Rp20.000.000,00 (dua puluh juta \nrupiah) disesuaikan antara lain dengan karakteristik \nkegiatan perekonomian dan kemampuan masyarakat, di \nlokasi tempat penyelenggaraan Laku Pandai.  \n \n \n \nHuruf f \nYang dimaksud dengan “pemindahbukuan” adalah transaksi \npemindahan dana dari satu rekening ke rekening lain pada \nBank yang sama. \nYang dimaksud dengan “transfer keluar” adalah transaksi \npemindahan dana dari rekening nasabah di Bank ke \nrekening nasabah di Bank lain. \nBank dapat menetapkan batas maksimum transaksi debit \nrekening \nberupa \npenarikan \ntunai, \npemindahbukuan, \ndan/atau transfer keluar dalam 1 (satu) bulan secara \nkumulatif pada setiap rekening kurang dari Rp5.000.000,00 \n(lima \njuta \nrupiah) \ndisesuaikan \nantara \nlain \ndengan \nkarakteristik kegiatan perekonomian dan kemampuan \nmasyarakat, di lokasi tempat penyelenggaraan Laku Pandai. \n \n \n \nHuruf g \nKelonggaran batas maksimum transaksi debit rekening \ndilakukan untuk memungkinkan BSA digunakan Bank \ndalam menyalurkan kredit atau pembiayaan mikro pemilik \ntabungan tersebut. \n\n\n \n \n \n \n \nHuruf h \nAngka 1 \n \nCukup jelas. \nAngka 2 \n \nCukup jelas. \nAngka 3 \n \nCukup jelas. \nAngka 4 \nYang dimaksud dengan “transfer masuk” adalah \ntransaksi pemindahan dana ke rekening nasabah di \nBank dari rekening nasabah di Bank lain. \nAngka 5 \n \nCukup jelas. \nAngka 6 \n \nCukup jelas. \n \n \n \nHuruf i \nContoh transaksi pembayaran melalui rekening tabungan \nantara lain pembayaran listrik, air, telepon, penerimaan \nnegara, dan penerimaan daerah. \nContoh biaya lainnya antara lain penggantian kartu rusak \natau hilang. \n \n \n \nHuruf j \nBunga BSA dapat diberikan secara bertingkat kepada \nnasabah, mulai dari saldo rekening Rp1,00 (satu rupiah) \ndengan suku bunga terendah paling sedikit sama dengan \ntingkat suku bunga terendah pada tabungan reguler  \ndi bank konvensional. \nBagi hasil BSA di bank syariah berdasarkan akad \nmudarabah diberikan berdasarkan nisbah bagi hasil yang \nmerupakan kesepakatan bersama antara bank syariah \ndengan nasabah dan dituangkan dalam akad pembukaan \nrekening. \nBonus BSA di bank syariah berdasarkan akad wadiah \nmerupakan kebijakan internal bank syariah yang bersifat \nsukarela (tidak diperjanjikan di awal). \n \n \n\n\n \n \n \n \n \nHuruf k \nRekening bersama dengan status “dan” diperkenankan \ndalam hal calon nasabah berupa perorangan yang belum \nmemenuhi syarat untuk memiliki dokumen identitas yaitu \nkartu tanda penduduk atau surat izin mengemudi, misalnya \npelajar. Calon nasabah yang bersangkutan dapat membuka \nBSA dengan menyampaikan pengganti dokumen identitas \nseperti kartu tanda pelajar yang disertai dengan dokumen \nidentitas dari orang tua atau wali calon nasabah yang \nbersangkutan dan surat persetujuan dari orang tua atau wali \ncalon nasabah yang bersangkutan. Dalam hal calon nasabah \nyang bersangkutan didampingi oleh wali, wali harus telah \nmemenuhi ketentuan peraturan perundang-undangan. \nRekening bersama dengan status “dan” sebagaimana disebut \ndi atas dianggap sebagai rekening tersendiri dan tidak \ndiperhitungkan dalam batas maksimum kepemilikan BSA \nbagi orang tua calon nasabah yang bersangkutan. \n \n \nAyat (2) \nTabungan lain merupakan tabungan pada Bank yang sama. \n \n \nAyat (3) \nContoh program pemerintah antara lain penyaluran kredit usaha \nrakyat mikro dan penyaluran bantuan sosial secara nontunai. \nMisalnya seorang nasabah sudah memiliki rekening tabungan \npada suatu Bank, namun sehubungan dengan penyaluran \nbantuan sosial secara nontunai dari pemerintah diperlukan \nadanya pembukaan rekening BSA terhadap nasabah yang \nmenyebabkan nasabah menjadi memiliki 2 (dua) rekening pada \nBank yang sama. Hal tersebut diperkenankan sepanjang \nbertujuan untuk memperlancar penyaluran bantuan sosial secara \nnontunai dimaksud. \n \n \nAyat (4) \nContoh kondisi tertentu antara lain bencana banjir, kebakaran, \ngempa bumi, kecelakaan, dan kedukaan. \n \n \nAyat (5) \n \n \n \nCukup jelas. \n \n \n\n\n \n \n \n \nAyat (6) \nTransaksi tidak termasuk pengkreditan BSA karena bunga atau \nbagi hasil dari BSA itu sendiri. \nProsedur tindak lanjut untuk rekening tidur ditetapkan oleh \nBank. \nRekening tidur merupakan rekening yang dikenal sebagai \ndormant account. \n \n \nAyat (7) \nPenyediaan kartu anjungan tunai mandiri atau kartu debit \nkepada nasabah BSA dimaksudkan untuk meningkatkan layanan \nBank sesuai dengan kebutuhan nasabah. \nKartu anjungan tunai mandiri merupakan kartu yang dikenal \nsebagai kartu automated teller machine (ATM). \n \n \nAyat (8) \nCukup jelas. \n \n \nAyat (9) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nHuruf a \n \n \n \n \nCukup jelas. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \nSetoran termasuk setoran pada saat pembukaan rekening \ndan/atau setoran tunai selanjutnya. \n \n \n \nHuruf d \nPeniadaan batas minimum saldo rekening berlaku setiap \nsaat. \n \n \n \nHuruf e \nBank dapat menetapkan batas maksimum saldo rekening \nsetiap saat kurang dari Rp20.000.000,00 (dua puluh juta \nrupiah) disesuaikan antara lain dengan karakteristik \nkegiatan perekonomian dan kemampuan masyarakat, di \nlokasi tempat penyelenggaraan Laku Pandai.  \n \n \n \nHuruf f \nYang dimaksud dengan “pemindahbukuan” adalah transaksi \npemindahan dana dari satu rekening ke rekening lain pada \nBank yang sama. \nYang dimaksud dengan “transfer keluar” adalah transaksi \npemindahan dana dari rekening nasabah di Bank ke \nrekening nasabah di Bank lain. \nBank dapat menetapkan batas maksimum transaksi debit \nrekening \nberupa \npenarikan \ntunai, \npemindahbukuan, \ndan/atau transfer keluar dalam 1 (satu) bulan secara \nkumulatif pada setiap rekening kurang dari Rp5.000.000,00 \n(lima \njuta \nrupiah) \ndisesuaikan \nantara \nlain \ndengan \nkarakteristik kegiatan perekonomian dan kemampuan \nmasyarakat, di lokasi tempat penyelenggaraan Laku Pandai. \n \n \n \nHuruf g \nKelonggaran batas maksimum transaksi debit rekening \ndilakukan untuk memungkinkan BSA digunakan Bank \ndalam menyalurkan kredit atau pembiayaan mikro pemilik \ntabungan tersebut. \n\n\n \n \n \n \n \nHuruf h \nAngka 1 \n \nCukup jelas. \nAngka 2 \n \nCukup jelas. \nAngka 3 \n \nCukup jelas. \nAngka 4 \nYang dimaksud dengan “transfer masuk” adalah \ntransaksi pemindahan dana ke rekening nasabah di \nBank dari rekening nasabah di Bank lain. \nAngka 5 \n \nCukup jelas. \nAngka 6 \n \nCukup jelas. \n \n \n \nHuruf i \nContoh transaksi pembayaran melalui rekening tabungan \nantara lain pembayaran listrik, air, telepon, penerimaan \nnegara, dan penerimaan daerah. \nContoh biaya lainnya antara lain penggantian kartu rusak \natau hilang. \n \n \n \nHuruf j \nBunga BSA dapat diberikan secara bertingkat kepada \nnasabah, mulai dari saldo rekening Rp1,00 (satu rupiah) \ndengan suku bunga terendah paling sedikit sama dengan \ntingkat suku bunga terendah pada tabungan reguler  \ndi bank konvensional. \nBagi hasil BSA di bank syariah berdasarkan akad \nmudarabah diberikan berdasarkan nisbah bagi hasil yang \nmerupakan kesepakatan bersama antara bank syariah \ndengan nasabah dan dituangkan dalam akad pembukaan \nrekening. \nBonus BSA di bank syariah berdasarkan akad wadiah \nmerupakan kebijakan internal bank syariah yang bersifat \nsukarela (tidak diperjanjikan di awal). \n \n \n\n\n \n \n \n \n \nHuruf k \nRekening bersama dengan status “dan” diperkenankan \ndalam hal calon nasabah berupa perorangan yang belum \nmemenuhi syarat untuk memiliki dokumen identitas yaitu \nkartu tanda penduduk atau surat izin mengemudi, misalnya \npelajar. Calon nasabah yang bersangkutan dapat membuka \nBSA dengan menyampaikan pengganti dokumen identitas \nseperti kartu tanda pelajar yang disertai dengan dokumen \nidentitas dari orang tua atau wali calon nasabah yang \nbersangkutan dan surat persetujuan dari orang tua atau wali \ncalon nasabah yang bersangkutan. Dalam hal calon nasabah \nyang bersangkutan didampingi oleh wali, wali harus telah \nmemenuhi ketentuan peraturan perundang-undangan. \nRekening bersama dengan status “dan” sebagaimana disebut \ndi atas dianggap sebagai rekening tersendiri dan tidak \ndiperhitungkan dalam batas maksimum kepemilikan BSA \nbagi orang tua calon nasabah yang bersangkutan. \n \n \nAyat (2) \nTabungan lain merupakan tabungan pada Bank yang sama. \n \n \nAyat (3) \nContoh program pemerintah antara lain penyaluran kredit usaha \nrakyat mikro dan penyaluran bantuan sosial secara nontunai. \nMisalnya seorang nasabah sudah memiliki rekening tabungan \npada suatu Bank, namun sehubungan dengan penyaluran \nbantuan sosial secara nontunai dari pemerintah diperlukan \nadanya pembukaan rekening BSA terhadap nasabah yang \nmenyebabkan nasabah menjadi memiliki 2 (dua) rekening pada \nBank yang sama. Hal tersebut diperkenankan sepanjang \nbertujuan untuk memperlancar penyaluran bantuan sosial secara \nnontunai dimaksud. \n \n \nAyat (4) \nContoh kondisi tertentu antara lain bencana banjir, kebakaran, \ngempa bumi, kecelakaan, dan kedukaan. \n \n \nAyat (5) \n \n \n \nCukup jelas. \n \n \n\n\n \n \n \n \nAyat (6) \nTransaksi tidak termasuk pengkreditan BSA karena bunga atau \nbagi hasil dari BSA itu sendiri. \nProsedur tindak lanjut untuk rekening tidur ditetapkan oleh \nBank. \nRekening tidur merupakan rekening yang dikenal sebagai \ndormant account. \n \n \nAyat (7) \nPenyediaan kartu anjungan tunai mandiri atau kartu debit \nkepada nasabah BSA dimaksudkan untuk meningkatkan layanan \nBank sesuai dengan kebutuhan nasabah. \nKartu anjungan tunai mandiri merupakan kartu yang dikenal \nsebagai kartu automated teller machine (ATM). \n \n \nAyat (8) \nCukup jelas. \n \n \nAyat (9) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nInformasi \ntentang \nkelayakan \ndan/atau \nkemampuan \nkeuangan calon debitur dapat diperoleh dari sumber \ninformasi di luar aktivitas rekening BSA. \nHuruf b  \nKredit atau pembiayaan yang ditujukan untuk membiayai \nkegiatan usaha yang bersifat produktif antara lain kredit \nmodal kerja dan kredit investasi barang modal. \nKredit atau pembiayaan yang ditujukan untuk membiayai \nkegiatan \nlain \nantara \nlain \nbiaya \nmelahirkan, \nbiaya \npengobatan, biaya pemakaman, dan biaya pendidikan. \n \n \nAyat (2) \nCukup jelas. \n \n\n\n \n \n \n \nAyat (3) \nJangka waktu kredit atau pembiayaan lebih dari 1 (satu) tahun \nditetapkan dengan mempertimbangkan antara lain analisis \nmengenai rencana pengembangan kegiatan usaha yang diajukan \ncalon debitur, kondisi/karakteristik usaha calon debitur, dan \ninformasi dari pendamping, kelompok nasabah, dinas, atau \ninstansi terkait. Contoh usaha yang memiliki siklus lebih dari  \n1 (satu) tahun antara lain ternak sapi dan tanam kopi. \n \n \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nInformasi \ntentang \nkelayakan \ndan/atau \nkemampuan \nkeuangan calon debitur dapat diperoleh dari sumber \ninformasi di luar aktivitas rekening BSA. \nHuruf b  \nKredit atau pembiayaan yang ditujukan untuk membiayai \nkegiatan usaha yang bersifat produktif antara lain kredit \nmodal kerja dan kredit investasi barang modal. \nKredit atau pembiayaan yang ditujukan untuk membiayai \nkegiatan \nlain \nantara \nlain \nbiaya \nmelahirkan, \nbiaya \npengobatan, biaya pemakaman, dan biaya pendidikan. \n \n \nAyat (2) \nCukup jelas. \n \n\n\n \n \n \n \nAyat (3) \nJangka waktu kredit atau pembiayaan lebih dari 1 (satu) tahun \nditetapkan dengan mempertimbangkan antara lain analisis \nmengenai rencana pengembangan kegiatan usaha yang diajukan \ncalon debitur, kondisi/karakteristik usaha calon debitur, dan \ninformasi dari pendamping, kelompok nasabah, dinas, atau \ninstansi terkait. Contoh usaha yang memiliki siklus lebih dari  \n1 (satu) tahun antara lain ternak sapi dan tanam kopi. \n \n \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \n \nAyat (2) \nCukup jelas. \n \n \nAyat (3) \nHuruf a \n \n \n \n \nCukup jelas. \nHuruf b \nContoh penyedia kebutuhan usaha debitur antara lain \npenyedia pupuk dan/atau benih yang diperlukan debitur \nuntuk kegiatan tanam padi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \n \nAyat (2) \nCukup jelas. \n \n \nAyat (3) \nHuruf a \n \n \n \n \nCukup jelas. \nHuruf b \nContoh penyedia kebutuhan usaha debitur antara lain \npenyedia pupuk dan/atau benih yang diperlukan debitur \nuntuk kegiatan tanam padi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nPenilaian peringkat profil risiko, tingkat risiko operasional, dan \ntingkat risiko kepatuhan dilaksanakan antara lain sesuai dengan:  \n1. \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \ntingkat \nkesehatan \nbank \numum \ndan \nketentuan \npelaksanaannya;  \n2. \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \ntingkat kesehatan bank umum syariah dan unit usaha \nsyariah dan ketentuan pelaksanaannya;  \n3. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank perkreditan rakyat dan \nketentuan pelaksanaannya; dan \n\n\n \n \n4. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank pembiayaan rakyat syariah dan \nketentuan pelaksanaannya. \nPenilaian peringkat profil risiko, tingkat risiko operasional, dan \ntingkat risiko kepatuhan yang digunakan merupakan hasil \npenilaian oleh Otoritas Jasa Keuangan.  \nSelama penilaian peringkat profil risiko belum berlaku bagi BPRS \nmaka penilaian peringkat profil risiko, tingkat risiko operasional, \ndan tingkat risiko kepatuhan menggunakan penilaian terhadap \nfaktor manajemen peringkat A atau peringkat B dalam penilaian \ntingkat kesehatan BPRS. \n \n \nHuruf b \nYang dimaksud dengan “layanan perbankan elektronik” adalah \nlayanan untuk memperoleh informasi, melakukan komunikasi, \ndan melakukan transaksi perbankan melalui media elektronik. \nContoh layanan perbankan elektronik antara lain short message \nservices banking, mobile banking, dan internet banking.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nPenilaian peringkat profil risiko, tingkat risiko operasional, dan \ntingkat risiko kepatuhan dilaksanakan antara lain sesuai dengan:  \n1. \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \ntingkat \nkesehatan \nbank \numum \ndan \nketentuan \npelaksanaannya;  \n2. \nPeraturan Otoritas Jasa Keuangan mengenai penilaian \ntingkat kesehatan bank umum syariah dan unit usaha \nsyariah dan ketentuan pelaksanaannya;  \n3. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank perkreditan rakyat dan \nketentuan pelaksanaannya; dan \n\n\n \n \n4. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi bank pembiayaan rakyat syariah dan \nketentuan pelaksanaannya. \nPenilaian peringkat profil risiko, tingkat risiko operasional, dan \ntingkat risiko kepatuhan yang digunakan merupakan hasil \npenilaian oleh Otoritas Jasa Keuangan.  \nSelama penilaian peringkat profil risiko belum berlaku bagi BPRS \nmaka penilaian peringkat profil risiko, tingkat risiko operasional, \ndan tingkat risiko kepatuhan menggunakan penilaian terhadap \nfaktor manajemen peringkat A atau peringkat B dalam penilaian \ntingkat kesehatan BPRS. \n \n \nHuruf b \nYang dimaksud dengan “layanan perbankan elektronik” adalah \nlayanan untuk memperoleh informasi, melakukan komunikasi, \ndan melakukan transaksi perbankan melalui media elektronik. \nContoh layanan perbankan elektronik antara lain short message \nservices banking, mobile banking, dan internet banking."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nHuruf a \nAgen Laku Pandai perorangan antara lain pimpinan/orang di \ndalam: \n1. \nperusahaan tidak berbadan hukum seperti perseroan \nkomanditer atau firma; \n2. \norganisasi informal seperti gabungan kelompok tani; \ndan \n3. \nsekolah termasuk pondok pesantren. \nPerseroan komanditer merupakan badan usaha yang dikenal \nsebagai CV. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nHuruf a \nAgen Laku Pandai perorangan antara lain pimpinan/orang di \ndalam: \n1. \nperusahaan tidak berbadan hukum seperti perseroan \nkomanditer atau firma; \n2. \norganisasi informal seperti gabungan kelompok tani; \ndan \n3. \nsekolah termasuk pondok pesantren. \nPerseroan komanditer merupakan badan usaha yang dikenal \nsebagai CV. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nHuruf a \nYang dimaksud dengan “lokasi yang jelas” adalah lokasi Agen \nLaku Pandai sesuai dengan informasi atau data relevan yang \ndiperoleh dari sumber yang dapat dipertanggungjawabkan \nsehingga \nmempermudah \nBank \ndalam \nmelakukan \npemantauan dan pengawasan. \n \n \n \nHuruf b \nCukup jelas. \n \n \n \nHuruf c \nContoh kegiatan lain antara lain guru dan pensiunan dengan \npenghasilan tetap. \n \n \n \nHuruf d \nJenis \nkegiatan \nusaha \nyaitu \nkegiatan \nusaha \nsecara \nkonvensional atau kegiatan usaha berdasarkan prinsip \nsyariah. \nYang dimaksud dengan “kelompok usaha bank” adalah \nkelompok usaha bank sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai konsolidasi bank umum. \nContoh:  \nBank A dan Bank B merupakan bank konvensional yang \nberada dalam satu kelompok usaha bank yang sama,  \nBank C merupakan bank konvensional, dan Bank D \nmerupakan bank syariah. \nAgen Laku Pandai dari Bank A dapat menjadi Agen Laku \nPandai dari Bank B dan/atau Bank D, namun tidak dapat \nmenjadi Agen Laku Pandai dari Bank C. \n \n \nAyat (2) \nContoh program pemerintah yaitu program Elektronik Warung \nGotong Royong Kelompok Usaha Bersama Program Keluarga \nHarapan (e-Warong KUBE PKH).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nHuruf a \nYang dimaksud dengan “lokasi yang jelas” adalah lokasi Agen \nLaku Pandai sesuai dengan informasi atau data relevan yang \ndiperoleh dari sumber yang dapat dipertanggungjawabkan \nsehingga \nmempermudah \nBank \ndalam \nmelakukan \npemantauan dan pengawasan. \n \n \n \nHuruf b \nCukup jelas. \n \n \n \nHuruf c \nContoh kegiatan lain antara lain guru dan pensiunan dengan \npenghasilan tetap. \n \n \n \nHuruf d \nJenis \nkegiatan \nusaha \nyaitu \nkegiatan \nusaha \nsecara \nkonvensional atau kegiatan usaha berdasarkan prinsip \nsyariah. \nYang dimaksud dengan “kelompok usaha bank” adalah \nkelompok usaha bank sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai konsolidasi bank umum. \nContoh:  \nBank A dan Bank B merupakan bank konvensional yang \nberada dalam satu kelompok usaha bank yang sama,  \nBank C merupakan bank konvensional, dan Bank D \nmerupakan bank syariah. \nAgen Laku Pandai dari Bank A dapat menjadi Agen Laku \nPandai dari Bank B dan/atau Bank D, namun tidak dapat \nmenjadi Agen Laku Pandai dari Bank C. \n \n \nAyat (2) \nContoh program pemerintah yaitu program Elektronik Warung \nGotong Royong Kelompok Usaha Bersama Program Keluarga \nHarapan (e-Warong KUBE PKH)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \n \n \n \nAngka 1 \nContoh Agen Laku Pandai berbadan hukum antara lain \npenyelenggara pos, koperasi, dan perusahaan pergadaian. \n \n \n \nAngka 2 \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan “kinerja” adalah kinerja keuangan dan \nkinerja nonkeuangan. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \n \n \n \nAngka 1 \nContoh Agen Laku Pandai berbadan hukum antara lain \npenyelenggara pos, koperasi, dan perusahaan pergadaian. \n \n \n \nAngka 2 \nCukup jelas. \n \n \nHuruf b \nYang dimaksud dengan “kinerja” adalah kinerja keuangan dan \nkinerja nonkeuangan. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nHuruf a \nTransaksi terkait BSA termasuk pembukaan dan penutupan \nrekening. \n \n \n \n \nAngka 1 \nCukup jelas. \n \n \n \n \nAngka 2 \nProduk asuransi mikro merupakan produk asuransi \nmikro sesuai dengan ketentuan Otoritas Jasa Keuangan \nmengenai \nproduk \nasuransi \nmikro \ndan \nsaluran \npemasaran asuransi mikro.  \n \n \n \nHuruf b \n \n \n \n \nAngka 1 \nYang dimaksud dengan “kredit atau pembiayaan mikro” \nadalah kredit atau pembiayaan mikro yang diberikan \noleh Bank. \n\n\n \n \nTransaksi berupa penerimaan dokumen permohonan, \npenyaluran \npencairan, \npenagihan, \ndan/atau \npenerimaan pembayaran kredit atau pembiayaan. \n \n \n \n \nAngka 2 \nYang dimaksud dengan “pembukaan dan penutupan \nrekening” adalah pembukaan dan penutupan rekening \nsecara manual. \n \n \n \nHuruf c \n \n \n \n \nYang dimaksud dengan “produk keuangan lain” antara lain: \na. \nproduk Bank selain tabungan dan kredit atau \npembiayaan mikro; dan \nb. \nproduk dan/atau layanan keuangan dari lembaga selain \nBank.  \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nHuruf a \nTransaksi terkait BSA termasuk pembukaan dan penutupan \nrekening. \n \n \n \n \nAngka 1 \nCukup jelas. \n \n \n \n \nAngka 2 \nProduk asuransi mikro merupakan produk asuransi \nmikro sesuai dengan ketentuan Otoritas Jasa Keuangan \nmengenai \nproduk \nasuransi \nmikro \ndan \nsaluran \npemasaran asuransi mikro.  \n \n \n \nHuruf b \n \n \n \n \nAngka 1 \nYang dimaksud dengan “kredit atau pembiayaan mikro” \nadalah kredit atau pembiayaan mikro yang diberikan \noleh Bank. \n\n\n \n \nTransaksi berupa penerimaan dokumen permohonan, \npenyaluran \npencairan, \npenagihan, \ndan/atau \npenerimaan pembayaran kredit atau pembiayaan. \n \n \n \n \nAngka 2 \nYang dimaksud dengan “pembukaan dan penutupan \nrekening” adalah pembukaan dan penutupan rekening \nsecara manual. \n \n \n \nHuruf c \n \n \n \n \nYang dimaksud dengan “produk keuangan lain” antara lain: \na. \nproduk Bank selain tabungan dan kredit atau \npembiayaan mikro; dan \nb. \nproduk dan/atau layanan keuangan dari lembaga selain \nBank.  \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nBapak Budi merupakan agen dari produk keuangan lain, yaitu \nproduk L. Bank XYZ kemudian merekrut Bapak Budi sebagai \nAgen Laku Pandai, sehingga Bapak Budi ditetapkan sebagai Agen \nLaku Pandai klasifikasi A. Meskipun transaksi terkait produk L di \nluar cakupan layanan klasifikasi A, Bapak Budi tetap dapat \nmelayani transaksi terkait produk L, mengingat layanan tersebut \nsudah dilakukan Bapak Budi sebelum menjadi Agen Laku Pandai. \n \n \nAyat (2) \nPenentuan jangka waktu dan mekanisme penyesuaian klasifikasi \nAgen Laku Pandai, termasuk mengenai peningkatan kapabilitas \nAgen Laku Pandai, dimuat dalam kebijakan Bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nBapak Budi merupakan agen dari produk keuangan lain, yaitu \nproduk L. Bank XYZ kemudian merekrut Bapak Budi sebagai \nAgen Laku Pandai, sehingga Bapak Budi ditetapkan sebagai Agen \nLaku Pandai klasifikasi A. Meskipun transaksi terkait produk L di \nluar cakupan layanan klasifikasi A, Bapak Budi tetap dapat \nmelayani transaksi terkait produk L, mengingat layanan tersebut \nsudah dilakukan Bapak Budi sebelum menjadi Agen Laku Pandai. \n \n \nAyat (2) \nPenentuan jangka waktu dan mekanisme penyesuaian klasifikasi \nAgen Laku Pandai, termasuk mengenai peningkatan kapabilitas \nAgen Laku Pandai, dimuat dalam kebijakan Bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nBerdasarkan evaluasi Bank, perubahan klasifikasi Agen Laku \nPandai dapat berupa perubahan dari klasifikasi yang lebih rendah \nke klasifikasi yang lebih tinggi maupun sebaliknya.  \nPerubahan klasifikasi Agen Laku Pandai dapat dilakukan tanpa \nberurutan. Contoh Agen Laku Pandai dengan klasifikasi A dapat \nditingkatkan klasifikasinya menjadi klasifikasi C tanpa melalui \nklasifikasi B terlebih dahulu.  \nContoh kriteria yang dapat dipertimbangkan oleh Bank dalam \nmengubah klasifikasi Agen Laku Pandai berdasarkan kebijakan \nBank, antara lain: \n1. \ntingkat kemampuan Agen Laku Pandai dalam memahami \nproduk keuangan; \n2. \ntingkat kemampuan keuangan Agen Laku Pandai dalam \nmenyediakan sejumlah deposit yang ditempatkan pada Bank \nuntuk kegiatan pelayanan oleh Agen Laku Pandai; \n3. \nkinerja Agen Laku Pandai dalam melayani nasabah dan calon \nnasabah Bank; \n4. \ntingkat kebutuhan layanan di wilayah kedudukan Agen Laku \nPandai;  \n5. \nkebutuhan penyaluran program pemerintah; dan \n6. \nportofolio layanan terkait produk keuangan lain yang telah \ndiberikan oleh Agen Laku Pandai.  \n \n \nAyat (2) \n \n \n \nCukup jelas.  \n \n \nAyat (3) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nBerdasarkan evaluasi Bank, perubahan klasifikasi Agen Laku \nPandai dapat berupa perubahan dari klasifikasi yang lebih rendah \nke klasifikasi yang lebih tinggi maupun sebaliknya.  \nPerubahan klasifikasi Agen Laku Pandai dapat dilakukan tanpa \nberurutan. Contoh Agen Laku Pandai dengan klasifikasi A dapat \nditingkatkan klasifikasinya menjadi klasifikasi C tanpa melalui \nklasifikasi B terlebih dahulu.  \nContoh kriteria yang dapat dipertimbangkan oleh Bank dalam \nmengubah klasifikasi Agen Laku Pandai berdasarkan kebijakan \nBank, antara lain: \n1. \ntingkat kemampuan Agen Laku Pandai dalam memahami \nproduk keuangan; \n2. \ntingkat kemampuan keuangan Agen Laku Pandai dalam \nmenyediakan sejumlah deposit yang ditempatkan pada Bank \nuntuk kegiatan pelayanan oleh Agen Laku Pandai; \n3. \nkinerja Agen Laku Pandai dalam melayani nasabah dan calon \nnasabah Bank; \n4. \ntingkat kebutuhan layanan di wilayah kedudukan Agen Laku \nPandai;  \n5. \nkebutuhan penyaluran program pemerintah; dan \n6. \nportofolio layanan terkait produk keuangan lain yang telah \ndiberikan oleh Agen Laku Pandai.  \n \n \nAyat (2) \n \n \n \nCukup jelas.  \n \n \nAyat (3) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \nPerjanjian kerja sama tetap memperhatikan ketentuan peraturan \nperundang-undangan di luar sektor perbankan, antara lain \nketentuan Otoritas Jasa Keuangan mengenai produk asuransi \nmikro dan saluran pemasaran asuransi mikro.  \n  \n\n\n \n \n \n \nAyat (3) \nPenyesuaian perjanjian kerja sama antara Bank dan Agen Laku \nPandai diperlukan sebagai dasar hukum bagi Agen Laku Pandai \ndalam memasarkan produk keuangan lembaga lain.  \nContoh: \nBank XYZ memiliki 2 (dua) Agen Laku Pandai, yaitu Bapak Budi \ndan Ibu Wati, dengan kondisi:  \n1. \nBapak \nBudi \nmenyediakan \nlayanan \ntransaksi \nproduk \nkeuangan dari PT B, berdasarkan perjanjian kerja sama \nantara Bapak Budi dan PT B. \n2. \nIbu Wati menyediakan layanan transaksi produk keuangan \ndari PT B berdasarkan perjanjian kerja sama antara Bank \nXYZ dan PT B. \nPenyesuaian perjanjian kerja sama hanya dilakukan oleh  \nBank XYZ dengan Ibu Wati. \n \n \nAyat (4) \n \n \n \nHuruf a \n \n \n \n \nAngka 1 \nYang \ndimaksud \ndengan \n“ketentuan \nperaturan \nperundang-undangan” \nadalah \nketentuan \nyang \nmengatur secara khusus mengenai produk keuangan \nyang dapat disediakan melalui agen atau pihak lain. \nPemenuhan ketentuan antara lain terkait dengan: \n1. \nkriteria agen; dan \n2. \nkarakteristik produk. \n \n \n \n \nAngka 2 \nCukup jelas. \n \n \n \n \nAngka 3 \nCukup jelas. \n \n \n \nHuruf b \n \n \n \n \nAngka 1 \nYang dimaksud dengan “produk keuangan” adalah \nproduk keuangan yang diterbitkan oleh lembaga lain. \nTanggung jawab meliputi: \n1. \nrisiko atas produk keuangan; \n2. \npelayanan pengaduan nasabah; \n\n\n \n \n3. \nedukasi dan pelatihan terkait produk keuangan \nkepada Agen Laku Pandai; \n4. \nperbuatan dan tindakan Agen Laku Pandai dalam \nmemasarkan produk keuangan; dan \n5. \nhal lain yang diperlukan terkait dengan produk \nkeuangan.  \n \n \n \n \nAngka 2 \n \n \n \n \n \nDiperbolehkannya \npenyediaan \nproduk \nkeuangan \nmelalui \nagen \natau \npihak \nlain \ndengan \nmempertimbangkan antara lain: \n1. \nketersediaan regulasi bagi lembaga lain dimaksud, \nyang mengatur mengenai pemasaran produk \nmelalui agen atau pihak lain; \n2. \nizin dari otoritas yang mengawasi lembaga lain \ndimaksud; dan \n3. \ntidak terdapat pelanggaran ketentuan peraturan \nperundang-undangan.  \n \n \nAyat (5) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \nPerjanjian kerja sama tetap memperhatikan ketentuan peraturan \nperundang-undangan di luar sektor perbankan, antara lain \nketentuan Otoritas Jasa Keuangan mengenai produk asuransi \nmikro dan saluran pemasaran asuransi mikro.  \n  \n\n\n \n \n \n \nAyat (3) \nPenyesuaian perjanjian kerja sama antara Bank dan Agen Laku \nPandai diperlukan sebagai dasar hukum bagi Agen Laku Pandai \ndalam memasarkan produk keuangan lembaga lain.  \nContoh: \nBank XYZ memiliki 2 (dua) Agen Laku Pandai, yaitu Bapak Budi \ndan Ibu Wati, dengan kondisi:  \n1. \nBapak \nBudi \nmenyediakan \nlayanan \ntransaksi \nproduk \nkeuangan dari PT B, berdasarkan perjanjian kerja sama \nantara Bapak Budi dan PT B. \n2. \nIbu Wati menyediakan layanan transaksi produk keuangan \ndari PT B berdasarkan perjanjian kerja sama antara Bank \nXYZ dan PT B. \nPenyesuaian perjanjian kerja sama hanya dilakukan oleh  \nBank XYZ dengan Ibu Wati. \n \n \nAyat (4) \n \n \n \nHuruf a \n \n \n \n \nAngka 1 \nYang \ndimaksud \ndengan \n“ketentuan \nperaturan \nperundang-undangan” \nadalah \nketentuan \nyang \nmengatur secara khusus mengenai produk keuangan \nyang dapat disediakan melalui agen atau pihak lain. \nPemenuhan ketentuan antara lain terkait dengan: \n1. \nkriteria agen; dan \n2. \nkarakteristik produk. \n \n \n \n \nAngka 2 \nCukup jelas. \n \n \n \n \nAngka 3 \nCukup jelas. \n \n \n \nHuruf b \n \n \n \n \nAngka 1 \nYang dimaksud dengan “produk keuangan” adalah \nproduk keuangan yang diterbitkan oleh lembaga lain. \nTanggung jawab meliputi: \n1. \nrisiko atas produk keuangan; \n2. \npelayanan pengaduan nasabah; \n\n\n \n \n3. \nedukasi dan pelatihan terkait produk keuangan \nkepada Agen Laku Pandai; \n4. \nperbuatan dan tindakan Agen Laku Pandai dalam \nmemasarkan produk keuangan; dan \n5. \nhal lain yang diperlukan terkait dengan produk \nkeuangan.  \n \n \n \n \nAngka 2 \n \n \n \n \n \nDiperbolehkannya \npenyediaan \nproduk \nkeuangan \nmelalui \nagen \natau \npihak \nlain \ndengan \nmempertimbangkan antara lain: \n1. \nketersediaan regulasi bagi lembaga lain dimaksud, \nyang mengatur mengenai pemasaran produk \nmelalui agen atau pihak lain; \n2. \nizin dari otoritas yang mengawasi lembaga lain \ndimaksud; dan \n3. \ntidak terdapat pelanggaran ketentuan peraturan \nperundang-undangan.  \n \n \nAyat (5) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKondisi Agen Laku Pandai antara lain jumlah deposit yang \nditempatkan Agen Laku Pandai pada Bank, kemampuan \nkeuangan dan kinerja Agen Laku Pandai, serta kondisi ekonomi \nmasyarakat di sekitar lokasi Agen Laku Pandai. \n \n \nAyat (2) \nCukup jelas.  \n \n \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKondisi Agen Laku Pandai antara lain jumlah deposit yang \nditempatkan Agen Laku Pandai pada Bank, kemampuan \nkeuangan dan kinerja Agen Laku Pandai, serta kondisi ekonomi \nmasyarakat di sekitar lokasi Agen Laku Pandai. \n \n \nAyat (2) \nCukup jelas.  \n \n \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kedudukan Agen Laku Pandai” adalah \ntempat tinggal dan/atau lokasi usaha Agen Laku Pandai.  \n \n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kedudukan Agen Laku Pandai” adalah \ntempat tinggal dan/atau lokasi usaha Agen Laku Pandai.  \n \n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nHuruf a \nUji tuntas dikenal sebagai due diligence. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \n \n \n \n \nPertimbangan tertentu antara lain: \n1. \nkemampuan keuangan Agen Laku Pandai; \n2. \nperkiraan aktivitas transaksi sesuai karakteristik \nmasyarakat di sekitar lokasi Agen Laku Pandai; dan \n3. \nklasifikasi Agen Laku Pandai. \n \n \n \nHuruf d \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \n \nCukup jelas. \n \n \n \nHuruf g \nMekanisme dan frekuensi pemantauan dan pengawasan \nditetapkan oleh Bank dengan mempertimbangkan antara \nlain faktor keamanan, keyakinan terhadap kredibilitas dan \nintegritas Agen Laku Pandai, hasil analisis pemantauan \ntransaksi Agen Laku Pandai, serta perkembangan kegiatan \nusaha dan jumlah deposit Agen Laku Pandai. \nTermasuk dalam kegiatan pengawasan yaitu melakukan \npengecekan ke lokasi Agen Laku Pandai, untuk memastikan \nkesesuaian penyediaan layanan oleh Agen Laku Pandai \ndengan \nklasifikasinya \ndan \ncakupan \nlayanan \ndalam \nperjanjian kerja sama, serta kecukupan informasi yang \nharus tersedia untuk nasabah di lokasi Agen Laku Pandai.  \n \n \n \nHuruf h \nContoh pelanggaran antara lain: \n1. \ntidak mematuhi perjanjian kerja sama, misalnya \nmelakukan layanan yang tidak termasuk dalam \nperjanjian kerja sama; dan \n\n\n \n \n2. \nmelakukan penyimpangan, misalnya tidak transparan \ndalam mengungkapkan biaya transaksi. \n \n \n \nHuruf i \nEdukasi dan pelatihan antara lain mengenai: \n1. \nmanfaat, biaya, dan risiko terkait produk Laku Pandai; \n2. \nprosedur operasi kerja termasuk tata cara penggunaan \nperangkat elektronik; dan \n3. \nprosedur uji tuntas nasabah (customer due diligence). \nPelaksanaan edukasi dan pelatihan kepada Agen Laku \nPandai disesuaikan dengan tingkat kemampuan dan \nkebutuhan Agen Laku Pandai. \n \n \n \nHuruf j \nCukup jelas. \n \n \n \nHuruf k \nContoh kondisi tertentu antara lain terjadi bencana alam di \ntempat kedudukan Agen Laku Pandai, kegagalan sistem \naplikasi Bank pada perangkat elektronik Agen Laku Pandai, \ndan Agen Laku Pandai meninggal dunia. \n \n \nAyat (2) \n \n \n \nHuruf a \nContoh hak dan kewajiban Bank antara lain menerima \nlaporan dari Agen Laku Pandai serta melakukan edukasi dan \npelatihan kepada Agen Laku Pandai. \nContoh hak dan kewajiban Agen Laku Pandai antara lain \nmenerima pembayaran imbalan jasa (fee) dari Bank, menjaga \nkerahasiaan data nasabah, dan menyampaikan laporan \nkepada Bank. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \n \nCukup jelas. \n\n\n \n \n \n \n \nHuruf g \n \n \n \n \nCukup jelas. \n \n \n \nHuruf h \n \n \n \n \nCukup jelas. \n \n \n \nHuruf i \n \n \n \n \nCukup jelas. \n \n \n \nHuruf j \nTermasuk dalam hal ini yaitu tata cara penghentian kerja \nsama sebelum jangka waktu perjanjian berakhir (early \ntermination). \n \n \n \nHuruf k \n \n \n \n \nCukup jelas. \n \n \n \nHuruf l \n \n \n \n \nCukup jelas. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nHuruf a \nUji tuntas dikenal sebagai due diligence. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \n \n \n \n \nPertimbangan tertentu antara lain: \n1. \nkemampuan keuangan Agen Laku Pandai; \n2. \nperkiraan aktivitas transaksi sesuai karakteristik \nmasyarakat di sekitar lokasi Agen Laku Pandai; dan \n3. \nklasifikasi Agen Laku Pandai. \n \n \n \nHuruf d \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \n \nCukup jelas. \n \n \n \nHuruf g \nMekanisme dan frekuensi pemantauan dan pengawasan \nditetapkan oleh Bank dengan mempertimbangkan antara \nlain faktor keamanan, keyakinan terhadap kredibilitas dan \nintegritas Agen Laku Pandai, hasil analisis pemantauan \ntransaksi Agen Laku Pandai, serta perkembangan kegiatan \nusaha dan jumlah deposit Agen Laku Pandai. \nTermasuk dalam kegiatan pengawasan yaitu melakukan \npengecekan ke lokasi Agen Laku Pandai, untuk memastikan \nkesesuaian penyediaan layanan oleh Agen Laku Pandai \ndengan \nklasifikasinya \ndan \ncakupan \nlayanan \ndalam \nperjanjian kerja sama, serta kecukupan informasi yang \nharus tersedia untuk nasabah di lokasi Agen Laku Pandai.  \n \n \n \nHuruf h \nContoh pelanggaran antara lain: \n1. \ntidak mematuhi perjanjian kerja sama, misalnya \nmelakukan layanan yang tidak termasuk dalam \nperjanjian kerja sama; dan \n\n\n \n \n2. \nmelakukan penyimpangan, misalnya tidak transparan \ndalam mengungkapkan biaya transaksi. \n \n \n \nHuruf i \nEdukasi dan pelatihan antara lain mengenai: \n1. \nmanfaat, biaya, dan risiko terkait produk Laku Pandai; \n2. \nprosedur operasi kerja termasuk tata cara penggunaan \nperangkat elektronik; dan \n3. \nprosedur uji tuntas nasabah (customer due diligence). \nPelaksanaan edukasi dan pelatihan kepada Agen Laku \nPandai disesuaikan dengan tingkat kemampuan dan \nkebutuhan Agen Laku Pandai. \n \n \n \nHuruf j \nCukup jelas. \n \n \n \nHuruf k \nContoh kondisi tertentu antara lain terjadi bencana alam di \ntempat kedudukan Agen Laku Pandai, kegagalan sistem \naplikasi Bank pada perangkat elektronik Agen Laku Pandai, \ndan Agen Laku Pandai meninggal dunia. \n \n \nAyat (2) \n \n \n \nHuruf a \nContoh hak dan kewajiban Bank antara lain menerima \nlaporan dari Agen Laku Pandai serta melakukan edukasi dan \npelatihan kepada Agen Laku Pandai. \nContoh hak dan kewajiban Agen Laku Pandai antara lain \nmenerima pembayaran imbalan jasa (fee) dari Bank, menjaga \nkerahasiaan data nasabah, dan menyampaikan laporan \nkepada Bank. \n \n \n \nHuruf b \n \n \n \n \nCukup jelas. \n \n \n \nHuruf c \n \n \n \n \nCukup jelas. \n \n \n \nHuruf d \n \n \n \n \nCukup jelas. \n \n \n \nHuruf e \n \n \n \n \nCukup jelas. \n \n \n \nHuruf f \n \n \n \n \nCukup jelas. \n\n\n \n \n \n \n \nHuruf g \n \n \n \n \nCukup jelas. \n \n \n \nHuruf h \n \n \n \n \nCukup jelas. \n \n \n \nHuruf i \n \n \n \n \nCukup jelas. \n \n \n \nHuruf j \nTermasuk dalam hal ini yaitu tata cara penghentian kerja \nsama sebelum jangka waktu perjanjian berakhir (early \ntermination). \n \n \n \nHuruf k \n \n \n \n \nCukup jelas. \n \n \n \nHuruf l \n \n \n \n \nCukup jelas. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nAnalisis Bank mencakup antara lain kemampuan keuangan dan \nkecukupan infrastruktur pendukung operasional Agen Laku \nPandai berbadan hukum yang telah bekerja sama dengan Bank \nlain. \n \n \nAyat (2) \nCukup jelas. \n \n \nAyat (3) \nContoh: \nAgen Laku Pandai berbadan hukum PT X bekerja sama dengan \nbeberapa bank konvensional, yaitu Bank A, Bank B, dan Bank C, \nserta bank syariah yaitu Bank D. Bank A dan Bank B tergabung \n\n\n \n \ndalam kelompok usaha bank yang sama. Dengan demikian, suatu \ngerai ritel yang dimiliki oleh PT X hanya dapat menyediakan: \na. \nproduk Bank A; \nb. \nproduk Bank B; \nc. \nproduk Bank C;  \nd. \nproduk Bank D; \ne. \n produk Bank A dan Bank B; \nf. \n produk Bank A dan Bank D; \ng. \n produk Bank B dan Bank D;  \nh. \n produk Bank C dan Bank D;  atau \ni. \n produk Bank A, Bank B, dan Bank D.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nAnalisis Bank mencakup antara lain kemampuan keuangan dan \nkecukupan infrastruktur pendukung operasional Agen Laku \nPandai berbadan hukum yang telah bekerja sama dengan Bank \nlain. \n \n \nAyat (2) \nCukup jelas. \n \n \nAyat (3) \nContoh: \nAgen Laku Pandai berbadan hukum PT X bekerja sama dengan \nbeberapa bank konvensional, yaitu Bank A, Bank B, dan Bank C, \nserta bank syariah yaitu Bank D. Bank A dan Bank B tergabung \n\n\n \n \ndalam kelompok usaha bank yang sama. Dengan demikian, suatu \ngerai ritel yang dimiliki oleh PT X hanya dapat menyediakan: \na. \nproduk Bank A; \nb. \nproduk Bank B; \nc. \nproduk Bank C;  \nd. \nproduk Bank D; \ne. \n produk Bank A dan Bank B; \nf. \n produk Bank A dan Bank D; \ng. \n produk Bank B dan Bank D;  \nh. \n produk Bank C dan Bank D;  atau \ni. \n produk Bank A, Bank B, dan Bank D."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nSejalan dengan tujuan program Laku Pandai, yaitu untuk \nperluasan akses keuangan bagi masyarakat maka proporsi \nkedudukan Agen Laku Pandai perlu diarahkan pada wilayah yang \nakses layanan keuangannya masih terbatas.  \n \n \nAyat (2) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nSejalan dengan tujuan program Laku Pandai, yaitu untuk \nperluasan akses keuangan bagi masyarakat maka proporsi \nkedudukan Agen Laku Pandai perlu diarahkan pada wilayah yang \nakses layanan keuangannya masih terbatas.  \n \n \nAyat (2) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nHuruf a \nTidak tersedianya layanan keuangan yang memadai di lokasi \ntempat kedudukan calon Agen Laku Pandai dapat dilihat \nantara lain dari perbandingan antara jumlah nasabah Bank \ndan jumlah penduduk serta tingkat kepadatan keberadaan \njaringan kantor Bank.  \n \n \n \nHuruf b \n \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nHuruf a \nTidak tersedianya layanan keuangan yang memadai di lokasi \ntempat kedudukan calon Agen Laku Pandai dapat dilihat \nantara lain dari perbandingan antara jumlah nasabah Bank \ndan jumlah penduduk serta tingkat kepadatan keberadaan \njaringan kantor Bank.  \n \n \n \nHuruf b \n \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPerangkat elektronik digunakan untuk kepentingan pelayanan \nnasabah dan/atau pemantauan Agen Laku Pandai oleh Bank.  \nPelayanan \nnasabah \nantara \nlain \nproses \npembukaan \ndan \npenutupan rekening BSA.  \nPemantauan Agen Laku Pandai antara lain untuk rekapitulasi \ntransaksi pada akhir hari.  \n \n \nHuruf a \nContoh perangkat keras antara lain komputer, laptop, \ntelepon seluler, dan electronic data capture. \n \n \n \nHuruf b \nCukup jelas.  \n \n \nAyat (2) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” adalah Peraturan Otoritas Jasa Keuangan antara lain: \n1. \nbagi Bank Umum: \na. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi \noleh \nbank \numum \ndan \nketentuan \npelaksanaannya; dan \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan layanan perbankan digital oleh bank \numum; dan \n2. \nbagi BPR dan BPRS: \na. \nPeraturan Otoritas Jasa Keuangan mengenai standar \npenyelenggaraan \nteknologi \ninformasi \nbagi \nbank \nperkreditan rakyat dan bank pembiayaan rakyat syariah \ndan ketentuan pelaksanaannya; dan \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank perkreditan rakyat dan \nbank pembiayaan rakyat syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPerangkat elektronik digunakan untuk kepentingan pelayanan \nnasabah dan/atau pemantauan Agen Laku Pandai oleh Bank.  \nPelayanan \nnasabah \nantara \nlain \nproses \npembukaan \ndan \npenutupan rekening BSA.  \nPemantauan Agen Laku Pandai antara lain untuk rekapitulasi \ntransaksi pada akhir hari.  \n \n \nHuruf a \nContoh perangkat keras antara lain komputer, laptop, \ntelepon seluler, dan electronic data capture. \n \n \n \nHuruf b \nCukup jelas.  \n \n \nAyat (2) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” adalah Peraturan Otoritas Jasa Keuangan antara lain: \n1. \nbagi Bank Umum: \na. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen \nrisiko \ndalam \npenggunaan \nteknologi \ninformasi \noleh \nbank \numum \ndan \nketentuan \npelaksanaannya; dan \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan layanan perbankan digital oleh bank \numum; dan \n2. \nbagi BPR dan BPRS: \na. \nPeraturan Otoritas Jasa Keuangan mengenai standar \npenyelenggaraan \nteknologi \ninformasi \nbagi \nbank \nperkreditan rakyat dan bank pembiayaan rakyat syariah \ndan ketentuan pelaksanaannya; dan \nb. \nPeraturan \nOtoritas \nJasa \nKeuangan \nmengenai \npenyelenggaraan produk bank perkreditan rakyat dan \nbank pembiayaan rakyat syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n\n\n \n \n \n \nAyat (2) \nContoh bukti transaksi antara lain buku tabungan, notifikasi \npesan singkat (short message service), notifikasi aplikasi pesan \ninstan, surat elektronik, dan hasil cetak bukti transaksi. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \nYang dimaksud dengan “kondisi tertentu” antara lain: \n1. \nkendala jaringan telekomunikasi; dan \n2. \nbencana alam. \n \n \nAyat (5) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n\n\n \n \n \n \nAyat (2) \nContoh bukti transaksi antara lain buku tabungan, notifikasi \npesan singkat (short message service), notifikasi aplikasi pesan \ninstan, surat elektronik, dan hasil cetak bukti transaksi. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \nYang dimaksud dengan “kondisi tertentu” antara lain: \n1. \nkendala jaringan telekomunikasi; dan \n2. \nbencana alam. \n \n \nAyat (5) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nProsedur uji tuntas nasabah yang dikenal dengan Customer Due \nDiligence (CDD), perlu dilakukan untuk mengendalikan risiko \nterhadap potensi terjadinya pencucian uang dan/atau pendanaan \nterorisme.  \nDalam Peraturan Otoritas Jasa Keuangan mengenai penerapan \nprogram anti pencucian uang dan pencegahan pendanaan \nterorisme di sektor jasa keuangan diatur bahwa Bank dapat \nmenerapkan CDD sederhana terhadap calon nasabah dengan \ntingkat risiko terjadinya pencucian uang dan/atau pendanaan \nterorisme \nyang \ntergolong \nrendah, \ntermasuk \ndalam \npenyelenggaraan Laku Pandai. \n \n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nProsedur uji tuntas nasabah yang dikenal dengan Customer Due \nDiligence (CDD), perlu dilakukan untuk mengendalikan risiko \nterhadap potensi terjadinya pencucian uang dan/atau pendanaan \nterorisme.  \nDalam Peraturan Otoritas Jasa Keuangan mengenai penerapan \nprogram anti pencucian uang dan pencegahan pendanaan \nterorisme di sektor jasa keuangan diatur bahwa Bank dapat \nmenerapkan CDD sederhana terhadap calon nasabah dengan \ntingkat risiko terjadinya pencucian uang dan/atau pendanaan \nterorisme \nyang \ntergolong \nrendah, \ntermasuk \ndalam \npenyelenggaraan Laku Pandai. \n \n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nCukup jelas. \n \n \nAyat (3) \nProsedur pengembalian setoran, antara lain memuat: \na. \nmekanisme pengembalian setoran; dan \n\n\n \n \nb. \njangka waktu pengembalian setoran, \nyang sesuai dengan kondisi dan/atau lokasi Agen Laku Pandai. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \n \n \n \nCukup jelas. \n \n \nAyat (3) \nProsedur pengembalian setoran, antara lain memuat: \na. \nmekanisme pengembalian setoran; dan \n\n\n \n \nb. \njangka waktu pengembalian setoran, \nyang sesuai dengan kondisi dan/atau lokasi Agen Laku Pandai. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Contoh: \nBank Umum A menyediakan perangkat elektronik pada Agen Laku \nPandai untuk verifikasi calon nasabah, berupa mesin electronic data \ncapture yang telah memiliki fungsi pemindai sidik jari dan pemindai \nkartu identitas.  \nDengan demikian proses verifikasi calon nasabah Bank Umum A \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penyelenggaraan layanan perbankan digital oleh bank \numum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Contoh: \nBank Umum A menyediakan perangkat elektronik pada Agen Laku \nPandai untuk verifikasi calon nasabah, berupa mesin electronic data \ncapture yang telah memiliki fungsi pemindai sidik jari dan pemindai \nkartu identitas.  \nDengan demikian proses verifikasi calon nasabah Bank Umum A \ndilaksanakan sesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai penyelenggaraan layanan perbankan digital oleh bank \numum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Untuk memperoleh izin penyelenggaraan layanan perbankan digital, \ntata cara dan persyaratan permohonan izin penyelenggaraan layanan \nperbankan digital dilaksanakan sesuai dengan: \n1. \nPeraturan Otoritas Jasa Keuangan mengenai penyelenggaraan \nlayanan perbankan digital oleh bank umum; dan \n2. \nPeraturan Otoritas Jasa Keuangan mengenai penyelenggaraan \nproduk bank umum.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Untuk memperoleh izin penyelenggaraan layanan perbankan digital, \ntata cara dan persyaratan permohonan izin penyelenggaraan layanan \nperbankan digital dilaksanakan sesuai dengan: \n1. \nPeraturan Otoritas Jasa Keuangan mengenai penyelenggaraan \nlayanan perbankan digital oleh bank umum; dan \n2. \nPeraturan Otoritas Jasa Keuangan mengenai penyelenggaraan \nproduk bank umum."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPekerjaan tertentu yang dapat dilakukan oleh pihak ketiga antara \nlain pekerjaan yang terkait dengan pengelolaan Agen Laku Pandai \ndan penyediaan jasa teknologi informasi.  \nContoh pekerjaan tertentu yang terkait dengan pengelolaan Agen \nLaku Pandai antara lain: \n1. \nperekrutan Agen Laku Pandai; \n2. \npelatihan dan edukasi Agen Laku Pandai; \n3. \nmanajemen likuiditas Agen Laku Pandai; dan  \n\n\n \n \n4. \npemantauan dan pengawasan Agen Laku Pandai. \n \n \nAyat (2) \n \n \n \nContoh: \nDalam melakukan pelatihan dan edukasi kepada Agen Laku \nPandai, pihak ketiga memiliki kemampuan dan pemahaman yang \ncukup atas materi yang akan disampaikan. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” antara lain:   \n1. \nPeraturan Otoritas Jasa Keuangan mengenai prinsip kehati-\nhatian bagi bank umum yang melakukan penyerahan \nsebagian pelaksanaan pekerjaan kepada pihak lain dan \nketentuan pelaksanaannya; dan \n2. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko dalam penggunaan teknologi informasi \noleh bank umum dan ketentuan pelaksanaannya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPekerjaan tertentu yang dapat dilakukan oleh pihak ketiga antara \nlain pekerjaan yang terkait dengan pengelolaan Agen Laku Pandai \ndan penyediaan jasa teknologi informasi.  \nContoh pekerjaan tertentu yang terkait dengan pengelolaan Agen \nLaku Pandai antara lain: \n1. \nperekrutan Agen Laku Pandai; \n2. \npelatihan dan edukasi Agen Laku Pandai; \n3. \nmanajemen likuiditas Agen Laku Pandai; dan  \n\n\n \n \n4. \npemantauan dan pengawasan Agen Laku Pandai. \n \n \nAyat (2) \n \n \n \nContoh: \nDalam melakukan pelatihan dan edukasi kepada Agen Laku \nPandai, pihak ketiga memiliki kemampuan dan pemahaman yang \ncukup atas materi yang akan disampaikan. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \nYang dimaksud dengan “ketentuan peraturan perundang-\nundangan” antara lain:   \n1. \nPeraturan Otoritas Jasa Keuangan mengenai prinsip kehati-\nhatian bagi bank umum yang melakukan penyerahan \nsebagian pelaksanaan pekerjaan kepada pihak lain dan \nketentuan pelaksanaannya; dan \n2. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko dalam penggunaan teknologi informasi \noleh bank umum dan ketentuan pelaksanaannya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \n \nAyat (2) \nCukup jelas. \nAyat (3) \n \n \n \nContoh faktor keaslian (authentication factor) berupa:  \na. \napa yang anda tahu (what you know), antara lain Personal \nIdentification Number (PIN) dan password; \nb. \napa yang anda punya (what you have), antara lain kartu \nmagnetis, \nkartu \nber-chip, \ntoken, \ndan \ntanda \ntangan \nelektronik; serta \nc. \nciri khas anda (what you are) antara lain biometrik seperti \nsidik jari, suara, dan iris mata. \n \n \nAyat (4) \n \n \n \nCukup jelas. \nAyat (5) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \n \nAyat (2) \nCukup jelas. \nAyat (3) \n \n \n \nContoh faktor keaslian (authentication factor) berupa:  \na. \napa yang anda tahu (what you know), antara lain Personal \nIdentification Number (PIN) dan password; \nb. \napa yang anda punya (what you have), antara lain kartu \nmagnetis, \nkartu \nber-chip, \ntoken, \ndan \ntanda \ntangan \nelektronik; serta \nc. \nciri khas anda (what you are) antara lain biometrik seperti \nsidik jari, suara, dan iris mata. \n \n \nAyat (4) \n \n \n \nCukup jelas. \nAyat (5) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nLaporan perkembangan penyelenggaraan Laku Pandai antara lain \nmemuat: \na. \nperkembangan Agen Laku Pandai; \nb. \nperkembangan produk Laku Pandai; dan \nc. \ntransaksi terkait dengan produk Laku Pandai. \n \n \nAyat (2) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nLaporan perkembangan penyelenggaraan Laku Pandai antara lain \nmemuat: \na. \nperkembangan Agen Laku Pandai; \nb. \nperkembangan produk Laku Pandai; dan \nc. \ntransaksi terkait dengan produk Laku Pandai. \n \n \nAyat (2) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \nPertimbangan tertentu antara lain dari hasil pengawasan Otoritas \nJasa Keuangan diketahui: \n1. \nterdapat pelanggaran terhadap ketentuan rahasia Bank; \ndan/atau \n2. \nAgen Laku Pandai telah terlebih dahulu bekerja sama dengan \nBank lain yang kegiatan usahanya sejenis di luar kelompok \nusaha bank yang sama dan kerja sama masih berlangsung.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \nCukup jelas. \n \n \nAyat (2) \nPertimbangan tertentu antara lain dari hasil pengawasan Otoritas \nJasa Keuangan diketahui: \n1. \nterdapat pelanggaran terhadap ketentuan rahasia Bank; \ndan/atau \n2. \nAgen Laku Pandai telah terlebih dahulu bekerja sama dengan \nBank lain yang kegiatan usahanya sejenis di luar kelompok \nusaha bank yang sama dan kerja sama masih berlangsung."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Kebijakan dan prosedur dalam penyelenggaraan Laku Pandai antara \nlain: \n1. \nkebijakan mengenai mekanisme perubahan klasifikasi Agen Laku \nPandai; dan \n2. \nprosedur pengembalian setoran nasabah yang ditolak sebagai \nnasabah BSA.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kebijakan dan prosedur dalam penyelenggaraan Laku Pandai antara \nlain: \n1. \nkebijakan mengenai mekanisme perubahan klasifikasi Agen Laku \nPandai; dan \n2. \nprosedur pengembalian setoran nasabah yang ditolak sebagai \nnasabah BSA."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “sistem pelaporan Otoritas Jasa Keuangan” \nadalah Aplikasi Pelaporan Online Otoritas Jasa Keuangan (APOLO).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “sistem pelaporan Otoritas Jasa Keuangan” \nadalah Aplikasi Pelaporan Online Otoritas Jasa Keuangan (APOLO)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6759",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6759"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 90,
+  "total_ayat": 169,
+  "total_karakter": 74630,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

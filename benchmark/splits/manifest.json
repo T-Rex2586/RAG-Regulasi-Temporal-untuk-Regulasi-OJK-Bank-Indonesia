@@ -1,0 +1,56 @@
+{
+  "seed": 42,
+  "counts": {
+    "total": 125,
+    "train": 75,
+    "dev": 25,
+    "test": 25
+  },
+  "slices": {
+    "train": {
+      "multi_hop": 15,
+      "konflik_versi": 15,
+      "easy": 15,
+      "unanswerable": 15,
+      "temporal_point_in_time": 15
+    },
+    "dev": {
+      "multi_hop": 5,
+      "konflik_versi": 5,
+      "easy": 5,
+      "unanswerable": 5,
+      "temporal_point_in_time": 5
+    },
+    "test": {
+      "multi_hop": 5,
+      "konflik_versi": 5,
+      "easy": 5,
+      "unanswerable": 5,
+      "temporal_point_in_time": 5
+    }
+  },
+  "regulators": {
+    "train": {
+      "BOTH": 1,
+      "BI": 28,
+      "NONE": 15,
+      "OJK": 31
+    },
+    "dev": {
+      "BI": 12,
+      "NONE": 5,
+      "OJK": 8
+    },
+    "test": {
+      "BOTH": 1,
+      "BI": 10,
+      "NONE": 5,
+      "OJK": 9
+    }
+  },
+  "hashes": {
+    "train_sha256": "b1cd6ddba7bac81a880bb27bb21b647d3a182f79edd843f0fb08e0581c82c46a",
+    "dev_sha256": "95262c63e82cf0f0177664d609b84da445dde009be9f7fce79a324c45825e3f0",
+    "test_sha256": "3898015c21241292352a8a02b42aa22ab134bf2ffef65e067eb7972c8698c19b"
+  }
+}

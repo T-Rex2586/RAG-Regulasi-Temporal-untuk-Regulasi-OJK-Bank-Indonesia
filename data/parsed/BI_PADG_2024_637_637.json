@@ -1,0 +1,2227 @@
+{
+  "doc_id": "BI_PADG_2024_637_637",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "637",
+  "tahun": "2024",
+  "judul": "KEAMANAN SISTEM INFORMASI DAN KETAHANAN SIBER BAGI PENYELENGGARA SISTEM PEMBAYARAN, PELAKU PASAR UANG DAN PASAR VALUTA ASING, SERTA PIHAK LAIN YANG DIATUR DAN DIAWASI BANK INDONESIA",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "31 Desember 2024",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "OBJEK DAN RUANG LINGKUP"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN DATA DAN INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENERAPAN KKS"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nSistem Informasi adalah keterpaduan antara komponen \ndata, informasi, sistem aplikasi, infrastruktur teknologi \ninformasi, proses, \ndan/atau \nmanusia \nyang \nsaling \nberinteraksi untuk mencapai suatu tujuan. \n2. \nSiber adalah ruang yang bersifat virtual yang dibentuk dari \nSistem Informasi. \n3. \nSistem Pembayaran adalah suatu sistem yang mencakup \nseperangkat aturan, lembaga, mekanisme, infrastruktur, \nsumber dana untuk pembayaran, dan akses ke sumber \ndana \nuntuk \npembayaran, \nyang \ndigunakan \nuntuk \nmelaksanakan pemindahan dana guna memenuhi suatu \nkewajiban yang timbul dari suatu kegiatan ekonomi. \n4. \nSistem Keuangan adalah suatu kesatuan yang terdiri atas \nlembaga jasa keuangan, pasar keuangan, dan infrastruktur \nkeuangan, termasuk Sistem Pembayaran, yang berinteraksi \ndalam memfasilitasi pengumpulan dana masyarakat dan \npengalokasiannya \nuntuk \nmendukung \naktivitas \nperekonomian nasional, serta korporasi dan rumah tangga \nyang terhubung dengan lembaga jasa keuangan. \n5. \nPasar Uang adalah bagian dari Sistem Keuangan yang \nberkaitan dengan: \na. \nkegiatan penerbitan dan perdagangan instrumen \nkeuangan atau efek bersifat utang yang berjangka \nwaktu tidak lebih dari 1 (satu) tahun; \nb. \ntransaksi pinjam-meminjam uang; \nc. \ntransaksi derivatif suku bunga; dan \nd. \ntransaksi lainnya yang memenuhi karakteristik di \nPasar Uang, \ndalam mata uang rupiah atau valuta asing. \n6. \nPasar Valuta Asing adalah bagian dari Sistem Keuangan \nyang berkaitan dengan kegiatan transaksi yang melibatkan \npertukaran mata uang dari 2 (dua) negara yang berbeda \nbeserta derivatifnya, tetapi tidak termasuk penukaran bank \nnotes yang diselenggarakan oleh kegiatan usaha penukaran \nvaluta asing.  \n7. \nPenyedia Jasa Pembayaran yang selanjutnya disingkat PJP \nadalah sebagaimana dimaksud dalam Peraturan Bank \nIndonesia mengenai Penyedia Jasa Pembayaran. \n\n\n \n8. \nPenyelenggara Infrastruktur Sistem Pembayaran yang \nselanjutnya \ndisebut \nPIP \nadalah \npihak \nyang \nmenyelenggarakan infrastruktur sebagai sarana yang dapat \ndigunakan untuk melakukan pemindahan dana bagi \nkepentingan anggotanya.  \n9. \nPelaku Usaha Sektor Keuangan yang Bergerak di Pasar \nUang dan/atau Pasar Valuta Asing yang selanjutnya \ndisebut PUSK PUVA adalah pelaku usaha di Pasar Uang \ndan/atau Pasar Valuta Asing yang memperoleh izin \nkelembagaan dari Bank Indonesia.  \n10. Lembaga Pendukung Pasar Uang adalah pihak yang \nmemberikan jasa terkait penerbitan instrumen Pasar Uang, \nperantara pelaksanaan transaksi instrumen Pasar Uang, \npenyelesaian transaksi, penatausahaan instrumen dan \ntransaksi Pasar Uang, dan pihak lainnya yang ditetapkan \noleh Bank Indonesia.  \n11. Lembaga Pendukung Pasar Valuta Asing adalah pihak yang \ndapat memberikan jasa terkait perantara pelaksanaan \ntransaksi, \npenyelesaian \ntransaksi, \npenatausahaan \ntransaksi di Pasar Valuta Asing, dan pihak lainnya yang \nditetapkan oleh Bank Indonesia. \n12. Penyelenggara Kegiatan Usaha Penukaran Valuta Asing \nBukan Bank adalah sebagaimana dimaksud dalam \nPeraturan Bank Indonesia mengenai Kegiatan Usaha \nPenukaran Valuta Asing Bukan Bank. \n13. Penyelenggara adalah pihak yang diatur dan diawasi Bank \nIndonesia yang mempunyai risiko Siber baik secara \nsistemik maupun nonsistemik bagi Sistem Keuangan.  \n14. Kerentanan Siber adalah kelemahan, kerawanan, atau \nkekurangan yang terdapat pada Siber sehingga berdampak \nnegatif terhadap bisnis dan/atau layanan operasional \nPenyelenggara. \n15. Ancaman Siber adalah suatu keadaan yang berpotensi \nmengeksploitasi Kerentanan Siber. \n16. Serangan Siber adalah upaya untuk mengeksploitasi \nKerentanan Siber. \n17. Insiden Siber adalah Serangan Siber yang mengganggu \nkelancaran \nbisnis \ndan/atau \nlayanan \noperasional \nPenyelenggara yang \nmemerlukan respons \ndan/atau \npemulihan. \n18. Risiko Siber adalah kemungkinan terjadinya Insiden Siber \ndan dampak yang diakibatkan dari Insiden Siber. \n19. Keamanan Sistem Informasi dan Ketahanan Siber yang \nselanjutnya disebut KKS adalah kondisi terjaganya \nkerahasiaan, keutuhan, serta ketersediaan informasi \ndan/atau Sistem Informasi Penyelenggara dari Serangan \nSiber dan terjaganya kelangsungan bisnis Penyelenggara \nmelalui tindakan antisipatif, adaptif, dan proaktif terhadap \nAncaman Siber serta kemampuan Penyelenggara untuk \nmelakukan respons dan pemulihan dengan cepat terhadap \nInsiden Siber. \n20. Self-Regulatory Organization yang selanjutnya disingkat \nSRO adalah suatu forum atau institusi yang berbadan \nhukum Indonesia yang ditetapkan oleh Bank Indonesia \nuntuk mendukung penyelenggaraan Sistem Pembayaran, \n\n\n \nPasar Uang dan Pasar Valuta Asing, dan/atau kegiatan \nlainnya yang diatur dan diawasi Bank Indonesia.  \n \nBAB II \nOBJEK DAN RUANG LINGKUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nSistem Informasi adalah keterpaduan antara komponen \ndata, informasi, sistem aplikasi, infrastruktur teknologi \ninformasi, proses, \ndan/atau \nmanusia \nyang \nsaling \nberinteraksi untuk mencapai suatu tujuan. \n2. \nSiber adalah ruang yang bersifat virtual yang dibentuk dari \nSistem Informasi. \n3. \nSistem Pembayaran adalah suatu sistem yang mencakup \nseperangkat aturan, lembaga, mekanisme, infrastruktur, \nsumber dana untuk pembayaran, dan akses ke sumber \ndana \nuntuk \npembayaran, \nyang \ndigunakan \nuntuk \nmelaksanakan pemindahan dana guna memenuhi suatu \nkewajiban yang timbul dari suatu kegiatan ekonomi. \n4. \nSistem Keuangan adalah suatu kesatuan yang terdiri atas \nlembaga jasa keuangan, pasar keuangan, dan infrastruktur \nkeuangan, termasuk Sistem Pembayaran, yang berinteraksi \ndalam memfasilitasi pengumpulan dana masyarakat dan \npengalokasiannya \nuntuk \nmendukung \naktivitas \nperekonomian nasional, serta korporasi dan rumah tangga \nyang terhubung dengan lembaga jasa keuangan. \n5. \nPasar Uang adalah bagian dari Sistem Keuangan yang \nberkaitan dengan: \na. \nkegiatan penerbitan dan perdagangan instrumen \nkeuangan atau efek bersifat utang yang berjangka \nwaktu tidak lebih dari 1 (satu) tahun; \nb. \ntransaksi pinjam-meminjam uang; \nc. \ntransaksi derivatif suku bunga; dan \nd. \ntransaksi lainnya yang memenuhi karakteristik di \nPasar Uang, \ndalam mata uang rupiah atau valuta asing. \n6. \nPasar Valuta Asing adalah bagian dari Sistem Keuangan \nyang berkaitan dengan kegiatan transaksi yang melibatkan \npertukaran mata uang dari 2 (dua) negara yang berbeda \nbeserta derivatifnya, tetapi tidak termasuk penukaran bank \nnotes yang diselenggarakan oleh kegiatan usaha penukaran \nvaluta asing.  \n7. \nPenyedia Jasa Pembayaran yang selanjutnya disingkat PJP \nadalah sebagaimana dimaksud dalam Peraturan Bank \nIndonesia mengenai Penyedia Jasa Pembayaran. \n\n\n \n8. \nPenyelenggara Infrastruktur Sistem Pembayaran yang \nselanjutnya \ndisebut \nPIP \nadalah \npihak \nyang \nmenyelenggarakan infrastruktur sebagai sarana yang dapat \ndigunakan untuk melakukan pemindahan dana bagi \nkepentingan anggotanya.  \n9. \nPelaku Usaha Sektor Keuangan yang Bergerak di Pasar \nUang dan/atau Pasar Valuta Asing yang selanjutnya \ndisebut PUSK PUVA adalah pelaku usaha di Pasar Uang \ndan/atau Pasar Valuta Asing yang memperoleh izin \nkelembagaan dari Bank Indonesia.  \n10. Lembaga Pendukung Pasar Uang adalah pihak yang \nmemberikan jasa terkait penerbitan instrumen Pasar Uang, \nperantara pelaksanaan transaksi instrumen Pasar Uang, \npenyelesaian transaksi, penatausahaan instrumen dan \ntransaksi Pasar Uang, dan pihak lainnya yang ditetapkan \noleh Bank Indonesia.  \n11. Lembaga Pendukung Pasar Valuta Asing adalah pihak yang \ndapat memberikan jasa terkait perantara pelaksanaan \ntransaksi, \npenyelesaian \ntransaksi, \npenatausahaan \ntransaksi di Pasar Valuta Asing, dan pihak lainnya yang \nditetapkan oleh Bank Indonesia. \n12. Penyelenggara Kegiatan Usaha Penukaran Valuta Asing \nBukan Bank adalah sebagaimana dimaksud dalam \nPeraturan Bank Indonesia mengenai Kegiatan Usaha \nPenukaran Valuta Asing Bukan Bank. \n13. Penyelenggara adalah pihak yang diatur dan diawasi Bank \nIndonesia yang mempunyai risiko Siber baik secara \nsistemik maupun nonsistemik bagi Sistem Keuangan.  \n14. Kerentanan Siber adalah kelemahan, kerawanan, atau \nkekurangan yang terdapat pada Siber sehingga berdampak \nnegatif terhadap bisnis dan/atau layanan operasional \nPenyelenggara. \n15. Ancaman Siber adalah suatu keadaan yang berpotensi \nmengeksploitasi Kerentanan Siber. \n16. Serangan Siber adalah upaya untuk mengeksploitasi \nKerentanan Siber. \n17. Insiden Siber adalah Serangan Siber yang mengganggu \nkelancaran \nbisnis \ndan/atau \nlayanan \noperasional \nPenyelenggara yang \nmemerlukan respons \ndan/atau \npemulihan. \n18. Risiko Siber adalah kemungkinan terjadinya Insiden Siber \ndan dampak yang diakibatkan dari Insiden Siber. \n19. Keamanan Sistem Informasi dan Ketahanan Siber yang \nselanjutnya disebut KKS adalah kondisi terjaganya \nkerahasiaan, keutuhan, serta ketersediaan informasi \ndan/atau Sistem Informasi Penyelenggara dari Serangan \nSiber dan terjaganya kelangsungan bisnis Penyelenggara \nmelalui tindakan antisipatif, adaptif, dan proaktif terhadap \nAncaman Siber serta kemampuan Penyelenggara untuk \nmelakukan respons dan pemulihan dengan cepat terhadap \nInsiden Siber. \n20. Self-Regulatory Organization yang selanjutnya disingkat \nSRO adalah suatu forum atau institusi yang berbadan \nhukum Indonesia yang ditetapkan oleh Bank Indonesia \nuntuk mendukung penyelenggaraan Sistem Pembayaran, \n\n\n \nPasar Uang dan Pasar Valuta Asing, dan/atau kegiatan \nlainnya yang diatur dan diawasi Bank Indonesia.  \n \nBAB II \nOBJEK DAN RUANG LINGKUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "OBJEK DAN RUANG LINGKUP",
+      "teks_lengkap": "Penyelenggara yang menjadi objek pengaturan dan pengawasan \nKKS meliputi: \na. \nPJP; \nb. \nPIP; \nc. \nPUSK PUVA; \nd.  \nLembaga Pendukung Pasar Uang; \ne. \nLembaga Pendukung Pasar Valuta Asing;  \nf.  \nPenyelenggara Kegiatan Usaha Penukaran Valuta Asing \nBukan Bank; dan \ng.  \npihak lain yang diatur dan diawasi Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penyelenggara yang menjadi objek pengaturan dan pengawasan \nKKS meliputi: \na. \nPJP; \nb. \nPIP; \nc. \nPUSK PUVA; \nd.  \nLembaga Pendukung Pasar Uang; \ne. \nLembaga Pendukung Pasar Valuta Asing;  \nf.  \nPenyelenggara Kegiatan Usaha Penukaran Valuta Asing \nBukan Bank; dan \ng.  \npihak lain yang diatur dan diawasi Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "OBJEK DAN RUANG LINGKUP",
+      "teks_lengkap": "Ruang lingkup pengaturan dan pengawasan KKS meliputi: \na. \ntata kelola; \nb. \npencegahan;  \nc. \npenanganan; \nd. \npenyampaian data dan informasi; \ne. \ntata cara pengenaan sanksi; dan  \nf. \nkolaborasi. \n \nBAB III \nTATA KELOLA \n \nBagian Kesatu \nStrategi dan Kebijakan KKS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup pengaturan dan pengawasan KKS meliputi: \na. \ntata kelola; \nb. \npencegahan;  \nc. \npenanganan; \nd. \npenyampaian data dan informasi; \ne. \ntata cara pengenaan sanksi; dan  \nf. \nkolaborasi. \n \nBAB III \nTATA KELOLA \n \nBagian Kesatu \nStrategi dan Kebijakan KKS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nStrategi dan kebijakan KKS meliputi: \na. \nrencana strategis KKS; \nb. \nkebijakan, standar, dan prosedur KKS; dan \nc. \nfungsi organisasi KKS. \n(2) \nStrategi dan kebijakan KKS sebagaimana dimaksud pada \nayat (1) disusun dan dilaksanakan oleh Penyelenggara \nuntuk memperkuat KKS. \n \nParagraf 1 \nRencana Strategis KKS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Strategi dan kebijakan KKS meliputi: \na. \nrencana strategis KKS; \nb. \nkebijakan, standar, dan prosedur KKS; dan \nc. \nfungsi organisasi KKS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Strategi dan kebijakan KKS sebagaimana dimaksud pada \nayat (1) disusun dan dilaksanakan oleh Penyelenggara \nuntuk memperkuat KKS. \n \nParagraf 1 \nRencana Strategis KKS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nRencana strategis KKS sebagaimana dimaksud dalam \nPasal 4 ayat (1) huruf a meliputi: \na. \narah strategis penguatan KKS; \nb. \npeta jalan penguatan KKS; dan \nc. \nperkiraan kebutuhan sumber daya, \n \nyang mencakup aspek manusia, proses, dan teknologi. \n(2) \nArah strategis penguatan KKS sebagaimana dimaksud \npada ayat (1) huruf a disusun dengan memperhatikan: \na. \narah dan rencana strategis bisnis Penyelenggara; \nb. \nselera risiko Penyelenggara; \n\n\n \nc. \nketentuan peraturan perundang-undangan mengenai \nKKS; dan/atau \nd. \nperkembangan tren teknologi, Kerentanan Siber, dan \nAncaman Siber. \n(3) \nPeta jalan penguatan KKS sebagaimana dimaksud pada \nayat (1) huruf b disusun sesuai dengan arah strategis \npenguatan KKS yang paling sedikit mencakup:  \na. \ndaftar program dan/atau proyek; \nb. \njadwal dan tahapan; \nc. \nhasil kerja; dan \nd. \npelaksana. \n(4) \nPerkiraan \nkebutuhan \nsumber \ndaya \nsebagaimana \ndimaksud \npada ayat (1) huruf c disusun untuk \nmelaksanakan peta jalan penguatan KKS yang mencakup \nperkiraan biaya dan sumber daya manusia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Rencana strategis KKS sebagaimana dimaksud dalam \nPasal 4 ayat (1) huruf a meliputi: \na. \narah strategis penguatan KKS; \nb. \npeta jalan penguatan KKS; dan \nc. \nperkiraan kebutuhan sumber daya, \n \nyang mencakup aspek manusia, proses, dan teknologi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Arah strategis penguatan KKS sebagaimana dimaksud \npada ayat (1) huruf a disusun dengan memperhatikan: \na. \narah dan rencana strategis bisnis Penyelenggara; \nb. \nselera risiko Penyelenggara; \n\n\n \nc. \nketentuan peraturan perundang-undangan mengenai \nKKS; dan/atau \nd. \nperkembangan tren teknologi, Kerentanan Siber, dan \nAncaman Siber."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peta jalan penguatan KKS sebagaimana dimaksud pada \nayat (1) huruf b disusun sesuai dengan arah strategis \npenguatan KKS yang paling sedikit mencakup:  \na. \ndaftar program dan/atau proyek; \nb. \njadwal dan tahapan; \nc. \nhasil kerja; dan \nd. \npelaksana."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Perkiraan \nkebutuhan \nsumber \ndaya \nsebagaimana \ndimaksud \npada ayat (1) huruf c disusun untuk \nmelaksanakan peta jalan penguatan KKS yang mencakup \nperkiraan biaya dan sumber daya manusia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nRencana strategis KKS sebagaimana dimaksud dalam \nPasal 5 ayat (1) ditetapkan oleh manajemen tertinggi \nPenyelenggara. \n(2) \nPemantauan pelaksanaan peta jalan penguatan KKS \nsebagaimana dimaksud dalam Pasal 5 ayat (3) dilakukan \nagar pencapaian sesuai dengan jadwal dan tahapan yang  \nditetapkan. \n(3) \nEvaluasi terhadap rencana strategis KKS sebagaimana \ndimaksud pada ayat (1) dilakukan paling sedikit 1 (satu) \nkali dalam 1 (satu) tahun dengan memperhatikan \nperkembangan Risiko Siber. \n \nParagraf 2 \nKebijakan, Standar, dan Prosedur KKS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Rencana strategis KKS sebagaimana dimaksud dalam \nPasal 5 ayat (1) ditetapkan oleh manajemen tertinggi \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemantauan pelaksanaan peta jalan penguatan KKS \nsebagaimana dimaksud dalam Pasal 5 ayat (3) dilakukan \nagar pencapaian sesuai dengan jadwal dan tahapan yang  \nditetapkan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Evaluasi terhadap rencana strategis KKS sebagaimana \ndimaksud pada ayat (1) dilakukan paling sedikit 1 (satu) \nkali dalam 1 (satu) tahun dengan memperhatikan \nperkembangan Risiko Siber. \n \nParagraf 2 \nKebijakan, Standar, dan Prosedur KKS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nKebijakan, standar, dan prosedur KKS sebagaimana \ndimaksud dalam Pasal 4 ayat (1) huruf b mencakup aspek \nmanusia, proses, dan teknologi yang paling sedikit terdiri \natas: \na. \npengamanan data, sistem aplikasi, dan infrastruktur \nteknologi informasi;  \nb. \npengamanan pihak ketiga; dan \nc. \npelindungan konsumen dan manajemen fraud.  \n(2) \nKebijakan, standar, dan prosedur KKS sebagaimana \ndimaksud pada ayat (1) disusun dengan memperhatikan: \na. \nrencana strategis KKS;  \nb. \nkompleksitas Sistem Informasi; dan \nc. \nprofil risiko. \n(3) \nKebijakan KKS sebagaimana dimaksud pada ayat (1) \nditetapkan oleh manajemen tertinggi Penyelenggara. \n(4) \nStandar dan prosedur KKS  sebagaimana dimaksud pada \nayat \n(1) \ndisusun \nuntuk \nmendukung \npelaksanaan \nkebijakan KKS. \n(5) \nKebijakan, standar, dan prosedur KKS sebagaimana \ndimaksud pada ayat (1) diterapkan dan dikomunikasikan \nkepada seluruh pihak internal dan/atau pihak ketiga \nterkait. \n\n\n \n(6) \nEvaluasi terhadap kebijakan, standar, dan prosedur KKS \nsebagaimana dimaksud pada ayat (1) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun. \n \nParagraf 3 \nFungsi Organisasi KKS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Kebijakan, standar, dan prosedur KKS sebagaimana \ndimaksud dalam Pasal 4 ayat (1) huruf b mencakup aspek \nmanusia, proses, dan teknologi yang paling sedikit terdiri \natas: \na. \npengamanan data, sistem aplikasi, dan infrastruktur \nteknologi informasi;  \nb. \npengamanan pihak ketiga; dan \nc. \npelindungan konsumen dan manajemen fraud."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan, standar, dan prosedur KKS sebagaimana \ndimaksud pada ayat (1) disusun dengan memperhatikan: \na. \nrencana strategis KKS;  \nb. \nkompleksitas Sistem Informasi; dan \nc. \nprofil risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Kebijakan KKS sebagaimana dimaksud pada ayat (1) \nditetapkan oleh manajemen tertinggi Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Standar dan prosedur KKS  sebagaimana dimaksud pada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disusun \nuntuk \nmendukung \npelaksanaan \nkebijakan KKS."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Kebijakan, standar, dan prosedur KKS sebagaimana \ndimaksud pada ayat (1) diterapkan dan dikomunikasikan \nkepada seluruh pihak internal dan/atau pihak ketiga \nterkait."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Evaluasi terhadap kebijakan, standar, dan prosedur KKS \nsebagaimana dimaksud pada ayat (1) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun. \n \nParagraf 3 \nFungsi Organisasi KKS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nFungsi organisasi KKS sebagaimana dimaksud dalam \nPasal 4 ayat (1) huruf c meliputi: \na. \nmanajemen KKS; \nb. \nmanajemen Risiko Siber; dan \nc. \naudit KKS.  \n(2) \nDalam menjalankan fungsi organisasi KKS sebagaimana \ndimaksud pada ayat (1), Penyelenggara memperhatikan: \na. \nefektivitas dan efisiensi; \nb. \nakuntabilitas; dan  \nc. \nkapasitas dan kapabilitas sumber daya manusia. \n(3) \nFungsi organisasi KKS sebagaimana dimaksud pada ayat \n(1) harus memiliki peran dan tanggung jawab yang jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Fungsi organisasi KKS sebagaimana dimaksud dalam \nPasal 4 ayat (1) huruf c meliputi: \na. \nmanajemen KKS; \nb. \nmanajemen Risiko Siber; dan \nc. \naudit KKS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menjalankan fungsi organisasi KKS sebagaimana \ndimaksud pada ayat (1), Penyelenggara memperhatikan: \na. \nefektivitas dan efisiensi; \nb. \nakuntabilitas; dan  \nc. \nkapasitas dan kapabilitas sumber daya manusia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Fungsi organisasi KKS sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "harus memiliki peran dan tanggung jawab yang jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nPenerapan manajemen KKS sebagaimana dimaksud dalam \nPasal 8 ayat (1) huruf a meliputi: \na. \nperencanaan strategis KKS; \nb. \npenyusunan kebijakan, standar, dan prosedur KKS; \nc. \npenerapan budaya KKS; dan \nd. \npelaksanaan pencegahan dan penanganan KKS. \n(2) \nManajemen KKS sebagaimana dimaksud pada ayat (1) \nbertanggung jawab pada manajemen tertinggi. \n(3) \nPenerapan manajemen KKS sebagaimana dimaksud pada \nayat (1) dilakukan dengan memastikan personel memiliki \npengetahuan dan pengalaman yang relevan. \n(4) \nDalam \npenerapan \nmanajemen \nKKS \nsebagaimana \ndimaksud pada ayat (1), manajemen KKS dapat bekerja \nsama dengan pihak lain dengan mempertimbangkan \nRisiko Siber. \n(5) \nDalam \npenerapan \nmanajemen \nKKS \nsebagaimana \ndimaksud pada ayat (1), evaluasi dilakukan paling sedikit \n1 (satu) kali dalam 1 (satu) tahun.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penerapan manajemen KKS sebagaimana dimaksud dalam \nPasal 8 ayat (1) huruf a meliputi: \na. \nperencanaan strategis KKS; \nb. \npenyusunan kebijakan, standar, dan prosedur KKS; \nc. \npenerapan budaya KKS; dan \nd. \npelaksanaan pencegahan dan penanganan KKS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Manajemen KKS sebagaimana dimaksud pada ayat (1) \nbertanggung jawab pada manajemen tertinggi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penerapan manajemen KKS sebagaimana dimaksud pada \nayat (1) dilakukan dengan memastikan personel memiliki \npengetahuan dan pengalaman yang relevan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \npenerapan \nmanajemen \nKKS \nsebagaimana \ndimaksud pada ayat (1), manajemen KKS dapat bekerja \nsama dengan pihak lain dengan mempertimbangkan \nRisiko Siber."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam \npenerapan \nmanajemen \nKKS \nsebagaimana \ndimaksud pada ayat (1), evaluasi dilakukan paling sedikit \n1 (satu) kali dalam 1 (satu) tahun."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nPenerapan \nmanajemen \nRisiko \nSiber \nsebagaimana \ndimaksud dalam Pasal 8 ayat (1) huruf b dilakukan paling \nsedikit melalui: \na. \nintegrasi manajemen Risiko Siber ke dalam proses \nmanajemen risiko Penyelenggara;  \nb. \nidentifikasi, asesmen, mitigasi, dan evaluasi Risiko \nSiber terhadap Ancaman Siber atau Serangan Siber; \ndan \nc. \npengukuran tingkat kematangan KKS. \n(2) \nPengukuran \ntingkat kematangan KKS sebagaimana \ndimaksud pada ayat (1) huruf c paling sedikit mencakup: \na. \ntata kelola; \nb. \npencegahan; dan \nc. \npenanganan.  \n\n\n \n(3) \nPengukuran \ntingkat kematangan KKS sebagaimana \ndimaksud pada ayat (1) huruf c menghasilkan nilai dan \nkategori tingkat kematangan KKS.  \n(4) \nHasil pengukuran tingkat kematangan KKS sebagaimana \ndimaksud pada ayat (3) disampaikan kepada manajemen \ntertinggi Penyelenggara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penerapan \nmanajemen \nRisiko \nSiber \nsebagaimana \ndimaksud dalam Pasal 8 ayat (1) huruf b dilakukan paling \nsedikit melalui: \na. \nintegrasi manajemen Risiko Siber ke dalam proses \nmanajemen risiko Penyelenggara;  \nb. \nidentifikasi, asesmen, mitigasi, dan evaluasi Risiko \nSiber terhadap Ancaman Siber atau Serangan Siber; \ndan \nc. \npengukuran tingkat kematangan KKS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengukuran \ntingkat kematangan KKS sebagaimana \ndimaksud pada ayat (1) huruf c paling sedikit mencakup: \na. \ntata kelola; \nb. \npencegahan; dan \nc. \npenanganan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengukuran \ntingkat kematangan KKS sebagaimana \ndimaksud pada ayat (1) huruf c menghasilkan nilai dan \nkategori tingkat kematangan KKS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Hasil pengukuran tingkat kematangan KKS sebagaimana \ndimaksud pada ayat (3) disampaikan kepada manajemen \ntertinggi Penyelenggara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "Audit KKS sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf \nc paling sedikit mencakup: \na. \ntata kelola;  \nb. \npencegahan; dan  \nc. \npenanganan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Audit KKS sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf \nc paling sedikit mencakup: \na. \ntata kelola;  \nb. \npencegahan; dan  \nc. \npenanganan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nAudit KKS sebagaimana dimaksud dalam Pasal 11 \ndilakukan secara berkala paling sedikit 1 (satu) kali dalam \n1 (satu) tahun. \n(2) \nAudit KKS sebagaimana dimaksud pada ayat (1) dilakukan \noleh pihak internal dan/atau eksternal secara independen. \n(3) \nPihak eksternal yang melaksanakan audit KKS merupakan \nauditor KKS independen yang terdaftar di SRO dan/atau \notoritas lain.  \n(4) \nHasil audit KKS sebagaimana dimaksud pada ayat (2) \ndisampaikan kepada manajemen tertinggi Penyelenggara \ndan digunakan untuk perbaikan tata kelola, pencegahan, \ndan penanganan. \n \nBagian Kedua \nBudaya KKS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Audit KKS sebagaimana dimaksud dalam Pasal 11 \ndilakukan secara berkala paling sedikit 1 (satu) kali dalam \n1 (satu) tahun."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Audit KKS sebagaimana dimaksud pada ayat (1) dilakukan \noleh pihak internal dan/atau eksternal secara independen."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pihak eksternal yang melaksanakan audit KKS merupakan \nauditor KKS independen yang terdaftar di SRO dan/atau \notoritas lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Hasil audit KKS sebagaimana dimaksud pada ayat (2) \ndisampaikan kepada manajemen tertinggi Penyelenggara \ndan digunakan untuk perbaikan tata kelola, pencegahan, \ndan penanganan. \n \nBagian Kedua \nBudaya KKS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA KELOLA",
+      "teks_lengkap": "(1) \nBudaya KKS dilaksanakan oleh Penyelenggara melalui \nprogram peningkatan budaya KKS. \n(2) \nProgram peningkatan budaya KKS sebagaimana dimaksud \npada ayat (1) meliputi: \na. \nkesadaran (awareness); \nb. \npelatihan; dan/atau \nc. \nedukasi. \n(3) \nProgram peningkatan budaya KKS sebagaimana dimaksud \npada ayat (2) diberikan kepada: \na. \npihak internal; \nb. \npihak ketiga; dan \nc. \nkonsumen. \n(4) \nProgram peningkatan budaya KKS sebagaimana dimaksud \npada ayat (2) dilakukan secara berkala paling sedikit 1 \n(satu) kali dalam 1 (satu) tahun dengan melibatkan \nmanajemen tertinggi sebagai teladan. \n(5) \nProgram peningkatan budaya KKS sebagaimana dimaksud \npada ayat (2) diselaraskan dengan rencana strategis KKS. \n(6) \nEvaluasi terhadap program peningkatan budaya KKS \nsebagaimana dimaksud pada ayat (2) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun. \n \n \n \n\n\n \nBAB IV \nPENCEGAHAN \n \nBagian Kesatu \nIdentifikasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Budaya KKS dilaksanakan oleh Penyelenggara melalui \nprogram peningkatan budaya KKS."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Program peningkatan budaya KKS sebagaimana dimaksud \npada ayat (1) meliputi: \na. \nkesadaran (awareness); \nb. \npelatihan; dan/atau \nc. \nedukasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Program peningkatan budaya KKS sebagaimana dimaksud \npada ayat (2) diberikan kepada: \na. \npihak internal; \nb. \npihak ketiga; dan \nc. \nkonsumen."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Program peningkatan budaya KKS sebagaimana dimaksud \npada ayat (2) dilakukan secara berkala paling sedikit 1 \n(satu) kali dalam 1 (satu) tahun dengan melibatkan \nmanajemen tertinggi sebagai teladan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Program peningkatan budaya KKS sebagaimana dimaksud \npada ayat (2) diselaraskan dengan rencana strategis KKS."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Evaluasi terhadap program peningkatan budaya KKS \nsebagaimana dimaksud pada ayat (2) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun. \n \n \n \n\n\n \nBAB IV \nPENCEGAHAN \n \nBagian Kesatu \nIdentifikasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nIdentifikasi meliputi: \na. \npenyusunan profil Risiko Siber; dan \nb. \npenginian profil Risiko Siber secara berkala. \n(2) \nPenyusunan profil Risiko Siber sebagaimana dimaksud \npada ayat (1) huruf a meliputi: \na. \nidentifikasi Risiko Siber; \nb. \nasesmen Risiko Siber; dan \nc. \nanalisis dampak bisnis. \n(3) \nPenginian profil Risiko Siber sebagaimana dimaksud pada \nayat (1) huruf b dilakukan paling sedikit 1 (satu) kali dalam \n1 (satu) tahun. \n(4) \nDalam hal terjadi Insiden Siber, Penyelenggara melakukan \npenginian profil Risiko Siber.  \n \nParagraf 1 \nIdentifikasi Risiko Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Identifikasi meliputi: \na. \npenyusunan profil Risiko Siber; dan \nb. \npenginian profil Risiko Siber secara berkala."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyusunan profil Risiko Siber sebagaimana dimaksud \npada ayat (1) huruf a meliputi: \na. \nidentifikasi Risiko Siber; \nb. \nasesmen Risiko Siber; dan \nc. \nanalisis dampak bisnis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penginian profil Risiko Siber sebagaimana dimaksud pada \nayat (1) huruf b dilakukan paling sedikit 1 (satu) kali dalam \n1 (satu) tahun."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal terjadi Insiden Siber, Penyelenggara melakukan \npenginian profil Risiko Siber.  \n \nParagraf 1 \nIdentifikasi Risiko Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nIdentifikasi Risiko Siber sebagaimana dimaksud dalam \nPasal \nayat \n(2) \nhuruf \na \ndilakukan \ndengan \nmemperhatikan paling sedikit: \na. \nKerentanan Siber dan Ancaman Siber dari aspek \nmanusia, proses, dan teknologi; dan \nb. \nobjek yang akan dilindungi. \n(2) \nKerentanan Siber dan Ancaman Siber sebagaimana \ndimaksud pada ayat (1) huruf a dapat bersumber dari: \na. \ninternal; dan \nb. \neksternal. \n(3) \nInformasi \nKerentanan \nSiber \ndan \nAncaman \nSiber \nsebagaimana dimaksud pada ayat (2) dapat bersumber \ndari sarana pertukaran informasi yang dibentuk Bank \nIndonesia atau sarana informasi lain. \n(4) \nObjek yang akan dilindungi sebagaimana dimaksud pada \nayat (1) huruf b yaitu Sistem Informasi yang digunakan \noleh Penyelenggara  baik yang dikelola Penyelenggara atau \npihak lain. \n(5) \nHasil identifikasi Risiko Siber sebagaimana dimaksud \npada ayat (1) didokumentasikan pada inventaris risiko \n(risk register) di tingkat organisasi Penyelenggara. \n \nParagraf 2 \nAsesmen Risiko Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Identifikasi Risiko Siber sebagaimana dimaksud dalam \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf \na \ndilakukan \ndengan \nmemperhatikan paling sedikit: \na. \nKerentanan Siber dan Ancaman Siber dari aspek \nmanusia, proses, dan teknologi; dan \nb. \nobjek yang akan dilindungi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kerentanan Siber dan Ancaman Siber sebagaimana \ndimaksud pada ayat (1) huruf a dapat bersumber dari: \na. \ninternal; dan \nb. \neksternal."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Informasi \nKerentanan \nSiber \ndan \nAncaman \nSiber \nsebagaimana dimaksud pada ayat (2) dapat bersumber \ndari sarana pertukaran informasi yang dibentuk Bank \nIndonesia atau sarana informasi lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Objek yang akan dilindungi sebagaimana dimaksud pada \nayat (1) huruf b yaitu Sistem Informasi yang digunakan \noleh Penyelenggara  baik yang dikelola Penyelenggara atau \npihak lain."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Hasil identifikasi Risiko Siber sebagaimana dimaksud \npada ayat (1) didokumentasikan pada inventaris risiko \n(risk register) di tingkat organisasi Penyelenggara. \n \nParagraf 2 \nAsesmen Risiko Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nAsesmen Risiko Siber sebagaimana dimaksud dalam Pasal \n14 ayat (2) huruf b dilakukan paling sedikit dengan: \na. \nmenentukan metodologi asesmen Risiko Siber yang \nrelevan;  \n\n\n \nb. \nmelakukan penilaian dampak Kerentanan Siber dan \nAncaman \nSiber \nyang \nmemengaruhi \nlayanan \noperasional; dan  \nc. \nmelakukan prioritisasi mitigasi terhadap Kerentanan \nSiber dan Ancaman Siber mulai dari yang paling \ntinggi sampai dengan yang paling rendah. \n(2) \nMetodologi asesmen Risiko Siber sebagaimana dimaksud \npada ayat (1) huruf a mencakup penilaian dampak (impact)  \nyang ditimbulkan dari Risiko Siber dan penilaian \nkemungkinan terjadinya Risiko Siber (likelihood).  \n(3) \nPenyelenggara memastikan metodologi asesmen Risiko \nSiber sebagaimana dimaksud pada ayat (1) huruf a dapat \nmemperoleh hasil asesmen Risiko Siber yang konsisten \ndan valid. \n(4) \nPenilaian dampak Kerentanan Siber dan Ancaman Siber  \nyang memengaruhi layanan operasional sebagaimana \ndimaksud pada ayat (1) huruf b dilakukan dengan \nmengukur perkiraan: \na. \nkerugian sebagai akibat dari gangguan layanan;  \nb. \ndampak kerusakan; dan \nc. \nbiaya pemulihan. \n(5) \nPrioritisasi mitigasi terhadap Kerentanan Siber dan \nAncaman Siber mulai dari yang paling tinggi sampai \ndengan yang paling rendah sebagaimana dimaksud pada \nayat (1) huruf c dilakukan berdasarkan: \na. \ntingkat Risiko Siber;  \nb. \nurgensi waktu pelaksanaan mitigasi Risiko Siber; dan \nc. \nurutan pelaksanaan mitigasi Risiko Siber. \n \nParagraf 3 \nAnalisis Dampak Bisnis",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Asesmen Risiko Siber sebagaimana dimaksud dalam Pasal \n14 ayat (2) huruf b dilakukan paling sedikit dengan: \na. \nmenentukan metodologi asesmen Risiko Siber yang \nrelevan;  \n\n\n \nb. \nmelakukan penilaian dampak Kerentanan Siber dan \nAncaman \nSiber \nyang \nmemengaruhi \nlayanan \noperasional; dan  \nc. \nmelakukan prioritisasi mitigasi terhadap Kerentanan \nSiber dan Ancaman Siber mulai dari yang paling \ntinggi sampai dengan yang paling rendah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Metodologi asesmen Risiko Siber sebagaimana dimaksud \npada ayat (1) huruf a mencakup penilaian dampak (impact)  \nyang ditimbulkan dari Risiko Siber dan penilaian \nkemungkinan terjadinya Risiko Siber (likelihood)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara memastikan metodologi asesmen Risiko \nSiber sebagaimana dimaksud pada ayat (1) huruf a dapat \nmemperoleh hasil asesmen Risiko Siber yang konsisten \ndan valid."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penilaian dampak Kerentanan Siber dan Ancaman Siber  \nyang memengaruhi layanan operasional sebagaimana \ndimaksud pada ayat (1) huruf b dilakukan dengan \nmengukur perkiraan: \na. \nkerugian sebagai akibat dari gangguan layanan;  \nb. \ndampak kerusakan; dan \nc. \nbiaya pemulihan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Prioritisasi mitigasi terhadap Kerentanan Siber dan \nAncaman Siber mulai dari yang paling tinggi sampai \ndengan yang paling rendah sebagaimana dimaksud pada \nayat (1) huruf c dilakukan berdasarkan: \na. \ntingkat Risiko Siber;  \nb. \nurgensi waktu pelaksanaan mitigasi Risiko Siber; dan \nc. \nurutan pelaksanaan mitigasi Risiko Siber. \n \nParagraf 3 \nAnalisis Dampak Bisnis"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nAnalisis dampak bisnis sebagaimana dimaksud dalam \nPasal 14 ayat (2) huruf c dilakukan paling sedikit dengan: \na. \nmelakukan penilaian dampak bisnis terkait \nKerentanan Siber terhadap finansial dan \nnonfinansial, termasuk dampaknya pada stabilitas \nSistem Keuangan; \nb. \nmenganalisis kritikalitas fungsi bisnis dan Sistem \nInformasi beserta prioritisasi pengendalian risiko; dan \nc. \nmenganalisis  \nSistem \nInformasi kritikal yang \nberdampak \nluas \nterhadap \nstabilitas \nSistem \nKeuangan. \n(2) \nPenilaian dampak bisnis sebagaimana dimaksud pada \nayat (1) huruf a dilakukan dengan: \na. \nmenetapkan jenis dan kriteria dampak; \nb. \nmenetapkan maximum tolerable period of disruption; \ndan \nc. \nmenetapkan sumber daya untuk mendukung fungsi \nbisnis yang diprioritaskan. \n(3) \nAnalisis kritikalitas sebagaimana dimaksud pada ayat (1) \nhuruf b dilakukan dengan: \na. \nmenetapkan sasaran waktu pemulihan dan titik \npemulihan; dan \n\n\n \nb. \nmenetapkan service level dan maximum downtime \nyang tidak terjadwal. \n(4) \nAnalisis Sistem Informasi kritikal yang berdampak luas \nterhadap \nstabilitas sistem \nkeuangan \nsebagaimana \ndimaksud pada ayat (1) huruf c dilaksanakan dengan \nmelakukan \ninventarisasi sistem \naplikasi \ndan/atau \ninfrastruktur teknologi informasi terkait pelaksanaan \nkegiatan Sistem Pembayaran, Pasar Uang dan Pasar \nValuta Asing, serta kegiatan usaha penukaran valuta \nasing bukan bank.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Analisis dampak bisnis sebagaimana dimaksud dalam \nPasal 14 ayat (2) huruf c dilakukan paling sedikit dengan: \na. \nmelakukan penilaian dampak bisnis terkait \nKerentanan Siber terhadap finansial dan \nnonfinansial, termasuk dampaknya pada stabilitas \nSistem Keuangan; \nb. \nmenganalisis kritikalitas fungsi bisnis dan Sistem \nInformasi beserta prioritisasi pengendalian risiko; dan \nc. \nmenganalisis  \nSistem \nInformasi kritikal yang \nberdampak \nluas \nterhadap \nstabilitas \nSistem \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penilaian dampak bisnis sebagaimana dimaksud pada \nayat (1) huruf a dilakukan dengan: \na. \nmenetapkan jenis dan kriteria dampak; \nb. \nmenetapkan maximum tolerable period of disruption; \ndan \nc. \nmenetapkan sumber daya untuk mendukung fungsi \nbisnis yang diprioritaskan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Analisis kritikalitas sebagaimana dimaksud pada ayat (1) \nhuruf b dilakukan dengan: \na. \nmenetapkan sasaran waktu pemulihan dan titik \npemulihan; dan \n\n\n \nb. \nmenetapkan service level dan maximum downtime \nyang tidak terjadwal."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Analisis Sistem Informasi kritikal yang berdampak luas \nterhadap \nstabilitas sistem \nkeuangan \nsebagaimana \ndimaksud pada ayat (1) huruf c dilaksanakan dengan \nmelakukan \ninventarisasi sistem \naplikasi \ndan/atau \ninfrastruktur teknologi informasi terkait pelaksanaan \nkegiatan Sistem Pembayaran, Pasar Uang dan Pasar \nValuta Asing, serta kegiatan usaha penukaran valuta \nasing bukan bank."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Hasil analisis Sistem Informasi kritikal sebagaimana dimaksud \ndalam Pasal 17 ayat (4) digunakan sebagai pertimbangan dalam \nmengategorikan infrastruktur informasi vital.   \n \nBagian Kedua \nProteksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Hasil analisis Sistem Informasi kritikal sebagaimana dimaksud \ndalam Pasal 17 ayat (4) digunakan sebagai pertimbangan dalam \nmengategorikan infrastruktur informasi vital.   \n \nBagian Kedua \nProteksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nProteksi meliputi: \na. \npembangunan sistem pertahanan; dan \nb. \npengamanan \ndan \npelindungan \ndata \ndan/atau \ninformasi. \n(2) \nEvaluasi terhadap penerapan proteksi sebagaimana \ndimaksud pada ayat (1)  dilakukan paling sedikit 1 (satu) \nkali dalam 1 (satu) tahun. \n \nParagraf 1 \nPembangunan Sistem Pertahanan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Proteksi meliputi: \na. \npembangunan sistem pertahanan; dan \nb. \npengamanan \ndan \npelindungan \ndata \ndan/atau \ninformasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi terhadap penerapan proteksi sebagaimana \ndimaksud pada ayat (1)  dilakukan paling sedikit 1 (satu) \nkali dalam 1 (satu) tahun. \n \nParagraf 1 \nPembangunan Sistem Pertahanan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Pembangunan sistem pertahanan sebagaimana dimaksud \ndalam Pasal 19 ayat (1) huruf a pada aspek manusia, proses, \ndan teknologi dilakukan paling sedikit dengan: \na. \nmemastikan keamanan pihak internal dan pihak ketiga \npada setiap tahapan siklus kerja serta memberikan \nedukasi KKS sesuai dengan peran dan tanggung jawab;  \nb. \nmenerapkan pengendalian keamanan untuk proses bisnis \nserta melaksanakan kebijakan, standar, dan prosedur \npengamanan secara efektif; dan  \nc. \nmengimplementasikan konfigurasi pengamanan terhadap \nSistem Informasi yang digunakan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pembangunan sistem pertahanan sebagaimana dimaksud \ndalam Pasal 19 ayat (1) huruf a pada aspek manusia, proses, \ndan teknologi dilakukan paling sedikit dengan: \na. \nmemastikan keamanan pihak internal dan pihak ketiga \npada setiap tahapan siklus kerja serta memberikan \nedukasi KKS sesuai dengan peran dan tanggung jawab;  \nb. \nmenerapkan pengendalian keamanan untuk proses bisnis \nserta melaksanakan kebijakan, standar, dan prosedur \npengamanan secara efektif; dan  \nc. \nmengimplementasikan konfigurasi pengamanan terhadap \nSistem Informasi yang digunakan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nKeamanan pihak internal dan pihak ketiga sebagaimana \ndimaksud dalam Pasal 20 huruf a dipastikan dengan: \na. \nmemeriksa latar belakang personel pihak internal \ndan/atau pihak ketiga yang akan dipekerjakan; \nb. \nmengomunikasikan peran dan tanggung jawab KKS \nkepada personel pihak internal dan/atau pihak ketiga \nyang dipekerjakan; \nc. \nmewajibkan personel pihak internal dan/atau pihak \nketiga telah menandatangani perjanjian atau surat \npernyataan \nuntuk \nmenjaga \nkerahasiaan \ndata \ndan/atau informasi dari pihak yang tidak berwenang; \n\n\n \nd. \nmenerapkan \npemisahan \ntugas \nyang \ndapat \nmenimbulkan \nkonflik \nkepentingan \ndalam \npelaksanaan peran dan tanggung jawab personel \npihak internal dan/atau pihak ketiga; dan \ne. \nmelaksanakan alih pengetahuan dalam hal terdapat \nperpindahan tanggung  jawab atau penonaktifan \npersonel pihak internal dan/atau pihak ketiga. \n(2) \nKewajiban  personel pihak internal dan/atau pihak ketiga \nmenjaga kerahasiaan data dan/atau informasi dari pihak \nyang tidak berwenang sebagaimana dimaksud pada ayat \n(1) huruf c dilakukan selama personel dipekerjakan, saat \nterjadi \nperpindahan \ntanggung \njawab, \ndan \nsaat \ndinonaktifkan. \n(3) \nPemberian edukasi KKS sesuai dengan peran dan \ntanggung jawab sebagaimana dimaksud dalam Pasal 20 \nhuruf a dilakukan melalui program peningkatan budaya \nKKS sebagaimana dimaksud dalam Pasal 13 ayat (2).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Keamanan pihak internal dan pihak ketiga sebagaimana \ndimaksud dalam Pasal 20 huruf a dipastikan dengan: \na. \nmemeriksa latar belakang personel pihak internal \ndan/atau pihak ketiga yang akan dipekerjakan; \nb. \nmengomunikasikan peran dan tanggung jawab KKS \nkepada personel pihak internal dan/atau pihak ketiga \nyang dipekerjakan; \nc. \nmewajibkan personel pihak internal dan/atau pihak \nketiga telah menandatangani perjanjian atau surat \npernyataan \nuntuk \nmenjaga \nkerahasiaan \ndata \ndan/atau informasi dari pihak yang tidak berwenang; \n\n\n \nd. \nmenerapkan \npemisahan \ntugas \nyang \ndapat \nmenimbulkan \nkonflik \nkepentingan \ndalam \npelaksanaan peran dan tanggung jawab personel \npihak internal dan/atau pihak ketiga; dan \ne. \nmelaksanakan alih pengetahuan dalam hal terdapat \nperpindahan tanggung  jawab atau penonaktifan \npersonel pihak internal dan/atau pihak ketiga."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kewajiban  personel pihak internal dan/atau pihak ketiga \nmenjaga kerahasiaan data dan/atau informasi dari pihak \nyang tidak berwenang sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf c dilakukan selama personel dipekerjakan, saat \nterjadi \nperpindahan \ntanggung \njawab, \ndan \nsaat \ndinonaktifkan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemberian edukasi KKS sesuai dengan peran dan \ntanggung jawab sebagaimana dimaksud dalam Pasal 20 \nhuruf a dilakukan melalui program peningkatan budaya \nKKS sebagaimana dimaksud dalam Pasal 13 ayat (2)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Penerapan pengendalian keamanan untuk proses bisnis \nsebagaimana dimaksud dalam Pasal 20 huruf b meliputi:  \na. \nmanajemen akses logis dan fisik terhadap sistem aplikasi \ndan infrastruktur teknologi informasi; \nb. \nmanajemen perubahan konfigurasi sistem aplikasi dan \ninfrastruktur teknologi informasi; \nc. \npenginian pengendalian keamanan untuk memastikan \nkecukupan kontrol keamanan;  \nd. \npelindungan \nyang \nmemadai \nterhadap \nKKS \ndalam \nperjanjian kerja sama antara Penyelenggara dengan pihak \nketiga, termasuk dalam perjanjian penyediaan layanan \ncloud; dan \ne. \ndokumentasi, \npengujian, \ndan \npemantauan \nmodel \nkecerdasan artifisial secara berkelanjutan dalam hal \nmenggunakan sistem kecerdasan artifisial.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan pengendalian keamanan untuk proses bisnis \nsebagaimana dimaksud dalam Pasal 20 huruf b meliputi:  \na. \nmanajemen akses logis dan fisik terhadap sistem aplikasi \ndan infrastruktur teknologi informasi; \nb. \nmanajemen perubahan konfigurasi sistem aplikasi dan \ninfrastruktur teknologi informasi; \nc. \npenginian pengendalian keamanan untuk memastikan \nkecukupan kontrol keamanan;  \nd. \npelindungan \nyang \nmemadai \nterhadap \nKKS \ndalam \nperjanjian kerja sama antara Penyelenggara dengan pihak \nketiga, termasuk dalam perjanjian penyediaan layanan \ncloud; dan \ne. \ndokumentasi, \npengujian, \ndan \npemantauan \nmodel \nkecerdasan artifisial secara berkelanjutan dalam hal \nmenggunakan sistem kecerdasan artifisial."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Implementasi konfigurasi pengamanan \nterhadap \nSistem \nInformasi yang digunakan sebagaimana dimaksud dalam Pasal \n20 huruf c meliputi: \na. \npertahanan perimeter jaringan; \nb. \npelindungan terhadap ancaman malware pada setiap \nsistem aplikasi; \nc. \nsecure coding pada pengembangan sistem aplikasi; \nd. \npatching dengan menggunakan versi perangkat lunak \nterkini  dan telah teruji; \ne. \nmetode otentikasi dan otorisasi sesuai profil Risiko Siber; \ndan \nf. \npertahanan terhadap adversarial attack pada model \nkecerdasan artifisial dalam hal menggunakan sistem \nkecerdasan artifisial. \n \n \n \n \n \n \n\n\n \nParagraf 2 \nPengamanan dan Pelindungan Data dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Implementasi konfigurasi pengamanan \nterhadap \nSistem \nInformasi yang digunakan sebagaimana dimaksud dalam Pasal \n20 huruf c meliputi: \na. \npertahanan perimeter jaringan; \nb. \npelindungan terhadap ancaman malware pada setiap \nsistem aplikasi; \nc. \nsecure coding pada pengembangan sistem aplikasi; \nd. \npatching dengan menggunakan versi perangkat lunak \nterkini  dan telah teruji; \ne. \nmetode otentikasi dan otorisasi sesuai profil Risiko Siber; \ndan \nf. \npertahanan terhadap adversarial attack pada model \nkecerdasan artifisial dalam hal menggunakan sistem \nkecerdasan artifisial. \n \n \n \n \n \n \n\n\n \nParagraf 2 \nPengamanan dan Pelindungan Data dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nPengamanan dan pelindungan data dan/atau informasi \nsebagaimana dimaksud dalam Pasal 19 ayat (1) huruf b \ndilakukan paling sedikit dengan: \na. \nmengamankan data dan/atau informasi pada setiap \ntahapan siklus hidup data dan/atau informasi \nberdasarkan klasifikasi data dan/atau informasi yang \nditetapkan oleh Penyelenggara; dan \nb. \nmemastikan kepatuhan pelindungan data pribadi \nsesuai dengan ketentuan peraturan perundang-\nundangan. \n(2) \nPengamanan data dan/atau informasi  pada setiap \ntahapan \nsiklus \nhidup \ndata \ndan/atau \ninformasi \nsebagaimana dimaksud pada ayat (1) huruf a dilakukan \nsaat data dan/atau informasi: \na. \ndiciptakan; \nb. \ndisimpan; \nc. \nditransmisikan;  \nd. \ndigunakan; dan \ne. \ndimusnahkan. \n \nBagian Ketiga \nDeteksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengamanan dan pelindungan data dan/atau informasi \nsebagaimana dimaksud dalam Pasal 19 ayat (1) huruf b \ndilakukan paling sedikit dengan: \na. \nmengamankan data dan/atau informasi pada setiap \ntahapan siklus hidup data dan/atau informasi \nberdasarkan klasifikasi data dan/atau informasi yang \nditetapkan oleh Penyelenggara; dan \nb. \nmemastikan kepatuhan pelindungan data pribadi \nsesuai dengan ketentuan peraturan perundang-\nundangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengamanan data dan/atau informasi  pada setiap \ntahapan \nsiklus \nhidup \ndata \ndan/atau \ninformasi \nsebagaimana dimaksud pada ayat (1) huruf a dilakukan \nsaat data dan/atau informasi: \na. \ndiciptakan; \nb. \ndisimpan; \nc. \nditransmisikan;  \nd. \ndigunakan; dan \ne. \ndimusnahkan. \n \nBagian Ketiga \nDeteksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nDeteksi meliputi: \na. \npemantauan; \nb. \nanalisis hasil pemantauan; \nc. \nanalisis Serangan Siber; \nd. \nanalisis kode jahat atau kode tidak sah; dan \ne. \npemeliharaan dan pengujian sistem deteksi. \n(2) \nDeteksi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan secara terpusat untuk mempercepat proses \ndeteksi dan respons Kerentanan Siber, Serangan Siber, \ndan/atau Insiden Siber. \n(3) \nDeteksi \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilaksanakan dengan memastikan ketersediaan: \na. \nsumber daya manusia yang kompeten; \nb. \nstandar dan prosedur pelaksanaan; dan \nc. \nteknologi sebagai alat bantu sistem deteksi. \n \nParagraf 1 \nPemantauan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Deteksi meliputi: \na. \npemantauan; \nb. \nanalisis hasil pemantauan; \nc. \nanalisis Serangan Siber; \nd. \nanalisis kode jahat atau kode tidak sah; dan \ne. \npemeliharaan dan pengujian sistem deteksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Deteksi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan secara terpusat untuk mempercepat proses \ndeteksi dan respons Kerentanan Siber, Serangan Siber, \ndan/atau Insiden Siber."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Deteksi \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaksanakan dengan memastikan ketersediaan: \na. \nsumber daya manusia yang kompeten; \nb. \nstandar dan prosedur pelaksanaan; dan \nc. \nteknologi sebagai alat bantu sistem deteksi. \n \nParagraf 1 \nPemantauan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Pemantauan sebagaimana dimaksud dalam Pasal 25 ayat (1) \nhuruf a dilakukan paling sedikit dengan: \na. \nmemantau akses \nlogis \ndan \nfisik yang \nberpotensi \nmenimbulkan Serangan Siber; \nb. \nmenetapkan indikator ambang batas sebagai pemicu \naktivasi sistem peringatan dini; dan \nc. \nmelakukan pemindaian Kerentanan Siber, \nsecara konsisten dan berkelanjutan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pemantauan sebagaimana dimaksud dalam Pasal 25 ayat (1) \nhuruf a dilakukan paling sedikit dengan: \na. \nmemantau akses \nlogis \ndan \nfisik yang \nberpotensi \nmenimbulkan Serangan Siber; \nb. \nmenetapkan indikator ambang batas sebagai pemicu \naktivasi sistem peringatan dini; dan \nc. \nmelakukan pemindaian Kerentanan Siber, \nsecara konsisten dan berkelanjutan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Pemantauan \nakses \nlogis \ndan \nfisik \nyang \nberpotensi \nmenimbulkan Serangan Siber sebagaimana dimaksud dalam \nPasal 26 huruf a meliputi: \na. \nmengidentifikasi pola akses dan/atau aktivitas yang tidak \nbiasa;  \nb. \nmenerapkan sistem deteksi paling sedikit pada area \ndan/atau objek kritikal atau vital;   \nc. \nmendokumentasikan dan menyimpan hasil pemantauan \ndalam bentuk catatan akses dan/atau rekaman visual \nakses; dan \nd. \nmemastikan setiap perubahan terhadap akses logis dan \nfisik serta konfigurasi dikelola melalui manajemen \nperubahan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pemantauan \nakses \nlogis \ndan \nfisik \nyang \nberpotensi \nmenimbulkan Serangan Siber sebagaimana dimaksud dalam \nPasal 26 huruf a meliputi: \na. \nmengidentifikasi pola akses dan/atau aktivitas yang tidak \nbiasa;  \nb. \nmenerapkan sistem deteksi paling sedikit pada area \ndan/atau objek kritikal atau vital;   \nc. \nmendokumentasikan dan menyimpan hasil pemantauan \ndalam bentuk catatan akses dan/atau rekaman visual \nakses; dan \nd. \nmemastikan setiap perubahan terhadap akses logis dan \nfisik serta konfigurasi dikelola melalui manajemen \nperubahan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nIndikator ambang batas sebagai pemicu aktivasi sistem \nperingatan dini sebagaimana dimaksud dalam Pasal 26 \nhuruf b ditetapkan dengan mengacu pada profil Risiko \nSiber.  \n(2) \nPenginian indikator ambang batas sebagai pemicu aktivasi \nsistem peringatan dini sebagaimana dimaksud pada ayat \n(1) dilakukan untuk memastikan efektivitas pemantauan \nSerangan Siber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Indikator ambang batas sebagai pemicu aktivasi sistem \nperingatan dini sebagaimana dimaksud dalam Pasal 26 \nhuruf b ditetapkan dengan mengacu pada profil Risiko \nSiber."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penginian indikator ambang batas sebagai pemicu aktivasi \nsistem peringatan dini sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan untuk memastikan efektivitas pemantauan \nSerangan Siber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nPemindaian Kerentanan Siber sebagaimana dimaksud \ndalam Pasal 26 huruf c dilakukan terhadap sistem \naplikasi, infrastruktur teknologi informasi, dan data \nPenyelenggara untuk menemukan Kerentanan Siber. \n(2) \nPemindaian Kerentanan Siber sebagaimana dimaksud \npada ayat (1) dilakukan dengan mengacu pada profil \nRisiko Siber. \n(3) \nPemindaian Kerentanan Siber sebagaimana dimaksud \npada ayat (1) dilakukan oleh pihak internal dan/atau \nmenggunakan jasa pihak ketiga. \n(4) \nDalam hal diperlukan, pemindaian Kerentanan Siber \nsebagaimana dimaksud pada ayat (1) dapat dilakukan \nterhadap layanan pihak ketiga.  \n(5) \nEvaluasi \nterhadap \npemindaian \nKerentanan \nSiber \nsebagaimana dimaksud pada ayat (1) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun. \n \nParagraf 2 \nAnalisis Hasil Pemantauan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemindaian Kerentanan Siber sebagaimana dimaksud \ndalam Pasal 26 huruf c dilakukan terhadap sistem \naplikasi, infrastruktur teknologi informasi, dan data \nPenyelenggara untuk menemukan Kerentanan Siber."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemindaian Kerentanan Siber sebagaimana dimaksud \npada ayat (1) dilakukan dengan mengacu pada profil \nRisiko Siber."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemindaian Kerentanan Siber sebagaimana dimaksud \npada ayat (1) dilakukan oleh pihak internal dan/atau \nmenggunakan jasa pihak ketiga."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal diperlukan, pemindaian Kerentanan Siber \nsebagaimana dimaksud pada ayat (1) dapat dilakukan \nterhadap layanan pihak ketiga."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Evaluasi \nterhadap \npemindaian \nKerentanan \nSiber \nsebagaimana dimaksud pada ayat (1) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun. \n \nParagraf 2 \nAnalisis Hasil Pemantauan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Analisis hasil pemantauan sebagaimana dimaksud dalam Pasal \n25 ayat (1) huruf b dilakukan paling sedikit dengan: \na. \nmenganalisis catatan aktivitas Siber; dan \nb. \nmenganalisis Kerentanan Siber dan potensi Serangan \nSiber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Analisis hasil pemantauan sebagaimana dimaksud dalam Pasal \n25 ayat (1) huruf b dilakukan paling sedikit dengan: \na. \nmenganalisis catatan aktivitas Siber; dan \nb. \nmenganalisis Kerentanan Siber dan potensi Serangan \nSiber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nAnalisis catatan aktivitas Siber sebagaimana dimaksud \ndalam Pasal 30 huruf a meliputi: \n\n\n \na. \nanalisis pola aktivitas Siber yang tidak biasa; dan \nb. \nanalisis korelasi catatan aktivitas Siber dari seluruh \nsistem aplikasi dan infrastruktur teknologi informasi. \n(2) \nPola aktivitas Siber yang tidak biasa sebagaimana \ndimaksud pada ayat (1) huruf a meliputi: \na. \nupaya akses tidak sah;  \nb. \nupaya peningkatan peran hak akses;  \nc. \nperubahan konfigurasi yang mencurigakan; dan \nd. \nupaya lainnya yang berpotensi menjadi Serangan \nSiber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Analisis catatan aktivitas Siber sebagaimana dimaksud \ndalam Pasal 30 huruf a meliputi: \n\n\n \na. \nanalisis pola aktivitas Siber yang tidak biasa; dan \nb. \nanalisis korelasi catatan aktivitas Siber dari seluruh \nsistem aplikasi dan infrastruktur teknologi informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pola aktivitas Siber yang tidak biasa sebagaimana \ndimaksud pada ayat (1) huruf a meliputi: \na. \nupaya akses tidak sah;  \nb. \nupaya peningkatan peran hak akses;  \nc. \nperubahan konfigurasi yang mencurigakan; dan \nd. \nupaya lainnya yang berpotensi menjadi Serangan \nSiber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nAnalisis Kerentanan Siber dan potensi Serangan Siber  \nsebagaimana dimaksud  dalam Pasal 30 huruf b dilakukan  \nberdasarkan hasil analisis catatan aktivitas Siber \nsebagaimana dimaksud dalam Pasal 31 ayat (1). \n(2) \nAnalisis Kerentanan Siber dan potensi Serangan Siber  \nsebagaimana dimaksud  pada ayat (1) dilakukan dengan: \na. \nmemperhatikan integrasi informasi dari internal dan \neksternal Penyelenggara; dan  \nb. \nmenggunakan cyber threat intelligence. \n \nParagraf 3 \nAnalisis Serangan Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Analisis Kerentanan Siber dan potensi Serangan Siber  \nsebagaimana dimaksud  dalam Pasal 30 huruf b dilakukan  \nberdasarkan hasil analisis catatan aktivitas Siber \nsebagaimana dimaksud dalam Pasal 31 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Analisis Kerentanan Siber dan potensi Serangan Siber  \nsebagaimana dimaksud  pada ayat (1) dilakukan dengan: \na. \nmemperhatikan integrasi informasi dari internal dan \neksternal Penyelenggara; dan  \nb. \nmenggunakan cyber threat intelligence. \n \nParagraf 3 \nAnalisis Serangan Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Analisis Serangan Siber sebagaimana dimaksud dalam Pasal 25 \nayat (1) huruf c dilakukan paling sedikit dengan: \na. \nmelakukan asesmen terhadap sumber, jenis, dan waktu \nterjadinya Serangan Siber termasuk fraud; \nb. \nmelakukan asesmen terhadap dampak Serangan Siber \nterhadap sistem dan sistem lainnya yang terhubung; dan  \nc. \nmelakukan eskalasi jika terdapat potensi terjadi Insiden \nSiber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Analisis Serangan Siber sebagaimana dimaksud dalam Pasal 25 \nayat (1) huruf c dilakukan paling sedikit dengan: \na. \nmelakukan asesmen terhadap sumber, jenis, dan waktu \nterjadinya Serangan Siber termasuk fraud; \nb. \nmelakukan asesmen terhadap dampak Serangan Siber \nterhadap sistem dan sistem lainnya yang terhubung; dan  \nc. \nmelakukan eskalasi jika terdapat potensi terjadi Insiden \nSiber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nAsesmen sumber, jenis, dan waktu terjadinya Serangan \nSiber termasuk fraud sebagaimana dimaksud dalam Pasal \n33 huruf a meliputi analisis: \na. \nsumber serangan yaitu asal Serangan Siber, profil \nthreat actor, dan indicator of compromise;  \nb. \njenis Serangan Siber;  \nc. \nwaktu terjadinya Serangan Siber dan/atau korelasi \nSerangan Siber dengan kejadian keamanan Siber \nlain; dan \nd. \naktivitas fraud pada tingkat akun dan transaksi. \n(2) \nAsesmen dampak Serangan Siber terhadap sistem dan \nsistem lainnya yang terhubung sebagaimana dimaksud  \ndalam Pasal 33 huruf b berupa analisis korelasi catatan \naktivitas Siber dari sistem aplikasi dan infrastruktur \nteknologi informasi terkait. \n(3) \nAsesmen dampak Serangan Siber terhadap sistem dan \nsistem lainnya yang terhubung sebagaimana dimaksud  \npada ayat (2) dilakukan dengan memperhatikan profil \nRisiko Siber. \n\n\n \n(4) \nEskalasi jika terdapat potensi terjadi Insiden Siber \nsebagaimana dimaksud dalam Pasal 33 huruf c dilakukan \nberdasarkan jalur eskalasi pada rencana penanganan dan \npemulihan Insiden Siber. \n \nParagraf 4 \nAnalisis Kode Jahat atau Kode Tidak Sah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Asesmen sumber, jenis, dan waktu terjadinya Serangan \nSiber termasuk fraud sebagaimana dimaksud dalam Pasal \n33 huruf a meliputi analisis: \na. \nsumber serangan yaitu asal Serangan Siber, profil \nthreat actor, dan indicator of compromise;  \nb. \njenis Serangan Siber;  \nc. \nwaktu terjadinya Serangan Siber dan/atau korelasi \nSerangan Siber dengan kejadian keamanan Siber \nlain; dan \nd. \naktivitas fraud pada tingkat akun dan transaksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Asesmen dampak Serangan Siber terhadap sistem dan \nsistem lainnya yang terhubung sebagaimana dimaksud  \ndalam Pasal 33 huruf b berupa analisis korelasi catatan \naktivitas Siber dari sistem aplikasi dan infrastruktur \nteknologi informasi terkait."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Asesmen dampak Serangan Siber terhadap sistem dan \nsistem lainnya yang terhubung sebagaimana dimaksud  \npada ayat (2) dilakukan dengan memperhatikan profil \nRisiko Siber."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Eskalasi jika terdapat potensi terjadi Insiden Siber \nsebagaimana dimaksud dalam Pasal 33 huruf c dilakukan \nberdasarkan jalur eskalasi pada rencana penanganan dan \npemulihan Insiden Siber. \n \nParagraf 4 \nAnalisis Kode Jahat atau Kode Tidak Sah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Analisis kode jahat atau kode tidak sah sebagaimana dimaksud \ndalam Pasal 25 ayat (1) huruf d dilakukan paling sedikit \ndengan: \na. \nmenganalisis kode jahat atau kode tidak sah yang \nberpotensi menimbulkan Serangan Siber; dan \nb. \nmelakukan eskalasi tindak lanjut dan/atau evaluasi atas \ndeteksi kode jahat atau kode tidak sah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Analisis kode jahat atau kode tidak sah sebagaimana dimaksud \ndalam Pasal 25 ayat (1) huruf d dilakukan paling sedikit \ndengan: \na. \nmenganalisis kode jahat atau kode tidak sah yang \nberpotensi menimbulkan Serangan Siber; dan \nb. \nmelakukan eskalasi tindak lanjut dan/atau evaluasi atas \ndeteksi kode jahat atau kode tidak sah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "Analisis kode jahat atau kode tidak sah yang berpotensi \nmenimbulkan Serangan Siber sebagaimana dimaksud dalam \nPasal 35 huruf a meliputi:  \na. \nmelakukan klasifikasi kode jahat atau kode tidak sah \nberdasarkan tingkat Risiko Siber untuk memastikan \npenanganan yang sesuai dengan tingkat ancaman; \nb. \nmemastikan proses analisis dilakukan dalam lingkungan \nyang aman dan terisolasi untuk memahami karakteristik, \ntujuan, dan potensi dampak kode jahat atau kode tidak \nsah tanpa risiko penyebaran lebih lanjut; \nc. \nmelakukan \npemindaian \nsistem \naplikasi \ndan/atau \ninfrastruktur teknologi informasi yang terdampak; dan \nd. \nmemastikan setiap kode yang dieksekusi pada sistem \naplikasi dan/atau infrastruktur teknologi informasi telah \ndilakukan otorisasi dan tidak disusupi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Analisis kode jahat atau kode tidak sah yang berpotensi \nmenimbulkan Serangan Siber sebagaimana dimaksud dalam \nPasal 35 huruf a meliputi:  \na. \nmelakukan klasifikasi kode jahat atau kode tidak sah \nberdasarkan tingkat Risiko Siber untuk memastikan \npenanganan yang sesuai dengan tingkat ancaman; \nb. \nmemastikan proses analisis dilakukan dalam lingkungan \nyang aman dan terisolasi untuk memahami karakteristik, \ntujuan, dan potensi dampak kode jahat atau kode tidak \nsah tanpa risiko penyebaran lebih lanjut; \nc. \nmelakukan \npemindaian \nsistem \naplikasi \ndan/atau \ninfrastruktur teknologi informasi yang terdampak; dan \nd. \nmemastikan setiap kode yang dieksekusi pada sistem \naplikasi dan/atau infrastruktur teknologi informasi telah \ndilakukan otorisasi dan tidak disusupi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nEskalasi tindak lanjut atas hasil analisis kode jahat atau \nkode tidak sah sebagaimana dimaksud dalam Pasal 35 \nhuruf b dilakukan berdasarkan jalur eskalasi pada \nrencana penanganan dan pemulihan Insiden Siber. \n(2) \nEvaluasi atas deteksi kode jahat atau kode tidak sah \nsebagaimana dimaksud dalam Pasal 35 huruf b dilakukan \nuntuk penguatan deteksi. \n \nParagraf 5 \nPemeliharaan dan Pengujian Sistem Deteksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Eskalasi tindak lanjut atas hasil analisis kode jahat atau \nkode tidak sah sebagaimana dimaksud dalam Pasal 35 \nhuruf b dilakukan berdasarkan jalur eskalasi pada \nrencana penanganan dan pemulihan Insiden Siber."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi atas deteksi kode jahat atau kode tidak sah \nsebagaimana dimaksud dalam Pasal 35 huruf b dilakukan \nuntuk penguatan deteksi. \n \nParagraf 5 \nPemeliharaan dan Pengujian Sistem Deteksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nPemeliharaan dan pengujian sistem deteksi  sebagaimana \ndimaksud dalam Pasal 25 ayat (1) huruf e dilakukan \nsecara berkala paling sedikit dengan memastikan: \na. \nsistem \npemantauan \nterpelihara \ndengan \nversi \nperangkat lunak terkini; dan \nb. \nkeandalan sistem pemantauan telah teruji. \n(2) \nPemeliharaan dan pengujian sistem deteksi secara berkala \nsebagaimana dimaksud pada ayat (1) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pemeliharaan dan pengujian sistem deteksi  sebagaimana \ndimaksud dalam Pasal 25 ayat (1) huruf e dilakukan \nsecara berkala paling sedikit dengan memastikan: \na. \nsistem \npemantauan \nterpelihara \ndengan \nversi \nperangkat lunak terkini; dan \nb. \nkeandalan sistem pemantauan telah teruji."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemeliharaan dan pengujian sistem deteksi secara berkala \nsebagaimana dimaksud pada ayat (1) dilakukan paling \nsedikit 1 (satu) kali dalam 1 (satu) tahun."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENCEGAHAN",
+      "teks_lengkap": "(1) \nPenyelenggara \nmemastikan \npenerapan \nsistem \npemantauan terpelihara dengan versi perangkat lunak \nterkini sebagaimana dimaksud dalam Pasal 38 ayat (1) \nhuruf a sesuai standar yang berlaku di Penyelenggara. \n(2) \nPembaruan sistem pemantauan sebagaimana dimaksud \npada ayat (1) dilakukan segera setelah versi perangkat \nlunak terkini dirilis dan telah teruji. \n(3) \nPenyelenggara memastikan keandalan sistem pemantauan \ntelah teruji sebagaimana dimaksud dalam Pasal 38 ayat (1) \nhuruf b melalui penilaian: \na. \nakurasi sistem deteksi; \nb. \nkemampuan \nsistem \ndeteksi \ndalam \nmerespons \nAncaman Siber dan Serangan Siber; dan  \nc. \nkemampuan sistem deteksi dalam memberikan \nnotifikasi secara cepat. \n \nBAB V \nPENANGANAN \n \nBagian Kesatu \nRespons",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara \nmemastikan \npenerapan \nsistem \npemantauan terpelihara dengan versi perangkat lunak \nterkini sebagaimana dimaksud dalam Pasal 38 ayat (1) \nhuruf a sesuai standar yang berlaku di Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pembaruan sistem pemantauan sebagaimana dimaksud \npada ayat (1) dilakukan segera setelah versi perangkat \nlunak terkini dirilis dan telah teruji."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara memastikan keandalan sistem pemantauan \ntelah teruji sebagaimana dimaksud dalam Pasal 38 ayat (1) \nhuruf b melalui penilaian: \na. \nakurasi sistem deteksi; \nb. \nkemampuan \nsistem \ndeteksi \ndalam \nmerespons \nAncaman Siber dan Serangan Siber; dan  \nc. \nkemampuan sistem deteksi dalam memberikan \nnotifikasi secara cepat. \n \nBAB V \nPENANGANAN \n \nBagian Kesatu \nRespons"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "Respons meliputi: \na. \npenyusunan rencana penanganan dan pemulihan Insiden \nSiber; \nb. \npelaksanaan simulasi dan uji coba penanganan dan \npemulihan Insiden Siber; \nc. \npenanganan Insiden Siber; dan \nd. \npelaksanaan komunikasi tindakan penanganan Insiden \nSiber. \n \nParagraf 1 \nPenyusunan Rencana Penanganan dan  \nPemulihan Insiden Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Respons meliputi: \na. \npenyusunan rencana penanganan dan pemulihan Insiden \nSiber; \nb. \npelaksanaan simulasi dan uji coba penanganan dan \npemulihan Insiden Siber; \nc. \npenanganan Insiden Siber; dan \nd. \npelaksanaan komunikasi tindakan penanganan Insiden \nSiber. \n \nParagraf 1 \nPenyusunan Rencana Penanganan dan  \nPemulihan Insiden Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPenyusunan rencana penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud dalam Pasal 40 huruf a \npaling sedikit memuat: \na. \npenetapan status Insiden Siber; \nb. \nrespons Insiden Siber; \nc. \npembatasan dampak; dan \nd. \nrencana \npemulihan \nyang \nmempertimbangkan \nsasaran \nwaktu \npemulihan \ndan \nsasaran \ntitik \npemulihan. \n(2) \nPenetapan status Insiden Siber sebagaimana dimaksud \npada ayat (1) huruf a dilakukan berdasarkan kriteria \npenetapan Insiden Siber. \n(3) \nDalam \nhal \nterjadi \nInsiden \nSiber, \nPenyelenggara \nmenentukan Insiden Siber sesuai kategori yang telah \nditetapkan dengan memperhatikan dampak dan prioritas \npenanganan Insiden Siber.  \n\n\n \n(4) \nRespons Insiden Siber sebagaimana dimaksud pada ayat \n(1) huruf b dilakukan dengan memperhatikan sasaran \nwaktu pemulihan dan sasaran titik pemulihan, paling \nsedikit mencakup: \na. \nprosedur penanganan untuk menghilangkan sumber \nInsiden Siber dan eskalasi untuk setiap kategori \nInsiden Siber dengan mempertimbangkan kebutuhan \nanalisis post-mortem; \nb. \ndaftar personel pihak internal atau pihak ketiga \nberikut peran, tanggung jawab, dan kontak yang \ndapat dihubungi dalam penanganan Insiden Siber; \ndan \nc. \ndaftar sistem aplikasi termasuk aplikasi pendukung, \ninfrastruktur teknologi informasi, dan sumber daya \nlainnya yang diperlukan dalam penanganan Insiden \nSiber. \n(5) \nPembatasan dampak sebagaimana dimaksud pada ayat (1) \nhuruf c paling sedikit mencakup prosedur: \na. \nisolasi \ndampak \nInsiden \nSiber \ndi \ninternal \nPenyelenggara; dan \nb. \nkoordinasi isolasi dampak Insiden Siber dengan \notoritas, lembaga, dan/atau Penyelenggara lain. \n(6) \nRencana pemulihan sebagaimana dimaksud pada ayat (1) \nhuruf d dilakukan dengan memperhatikan sasaran waktu \npemulihan dan sasaran titik pemulihan, paling sedikit \nmencakup: \na. \nprosedur pemulihan untuk setiap kategori Insiden \nSiber; \nb. \ndaftar personel pihak internal atau pihak ketiga \nberikut peran, tanggung jawab, dan kontak yang \ndapat dihubungi dalam pemulihan Insiden Siber; dan \nc. \ndaftar sistem aplikasi termasuk aplikasi pendukung, \ninfrastruktur teknologi informasi, dan sumber daya \nlain yang diperlukan dalam pemulihan Insiden Siber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyusunan rencana penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud dalam Pasal 40 huruf a \npaling sedikit memuat: \na. \npenetapan status Insiden Siber; \nb. \nrespons Insiden Siber; \nc. \npembatasan dampak; dan \nd. \nrencana \npemulihan \nyang \nmempertimbangkan \nsasaran \nwaktu \npemulihan \ndan \nsasaran \ntitik \npemulihan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan status Insiden Siber sebagaimana dimaksud \npada ayat (1) huruf a dilakukan berdasarkan kriteria \npenetapan Insiden Siber."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \nterjadi \nInsiden \nSiber, \nPenyelenggara \nmenentukan Insiden Siber sesuai kategori yang telah \nditetapkan dengan memperhatikan dampak dan prioritas \npenanganan Insiden Siber."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Respons Insiden Siber sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf b dilakukan dengan memperhatikan sasaran \nwaktu pemulihan dan sasaran titik pemulihan, paling \nsedikit mencakup: \na. \nprosedur penanganan untuk menghilangkan sumber \nInsiden Siber dan eskalasi untuk setiap kategori \nInsiden Siber dengan mempertimbangkan kebutuhan \nanalisis post-mortem; \nb. \ndaftar personel pihak internal atau pihak ketiga \nberikut peran, tanggung jawab, dan kontak yang \ndapat dihubungi dalam penanganan Insiden Siber; \ndan \nc. \ndaftar sistem aplikasi termasuk aplikasi pendukung, \ninfrastruktur teknologi informasi, dan sumber daya \nlainnya yang diperlukan dalam penanganan Insiden \nSiber."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pembatasan dampak sebagaimana dimaksud pada ayat (1) \nhuruf c paling sedikit mencakup prosedur: \na. \nisolasi \ndampak \nInsiden \nSiber \ndi \ninternal \nPenyelenggara; dan \nb. \nkoordinasi isolasi dampak Insiden Siber dengan \notoritas, lembaga, dan/atau Penyelenggara lain."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Rencana pemulihan sebagaimana dimaksud pada ayat (1) \nhuruf d dilakukan dengan memperhatikan sasaran waktu \npemulihan dan sasaran titik pemulihan, paling sedikit \nmencakup: \na. \nprosedur pemulihan untuk setiap kategori Insiden \nSiber; \nb. \ndaftar personel pihak internal atau pihak ketiga \nberikut peran, tanggung jawab, dan kontak yang \ndapat dihubungi dalam pemulihan Insiden Siber; dan \nc. \ndaftar sistem aplikasi termasuk aplikasi pendukung, \ninfrastruktur teknologi informasi, dan sumber daya \nlain yang diperlukan dalam pemulihan Insiden Siber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPenyusunan rencana penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud dalam Pasal 40 huruf a \nmenjadi bagian dari rencana keberlangsungan bisnis \nPenyelenggara. \n(2) \nRencana penanganan dan pemulihan Insiden Siber \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nmanajemen tertinggi Penyelenggara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyusunan rencana penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud dalam Pasal 40 huruf a \nmenjadi bagian dari rencana keberlangsungan bisnis \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Rencana penanganan dan pemulihan Insiden Siber \nsebagaimana dimaksud pada ayat (1) ditetapkan oleh \nmanajemen tertinggi Penyelenggara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nUntuk melaksanakan penanganan dan pemulihan Insiden \nSiber, Penyelenggara menetapkan tim tanggap Insiden \nSiber dan kriteria pengaktifan tim tanggap Insiden Siber di \nlevel organisasi. \n(2) \nStruktur dan susunan keanggotaan tim tanggap Insiden \nSiber di level organisasi sebagaimana dimaksud pada ayat \n(1) ditetapkan dengan memperhatikan: \na. \nkejelasan peran dan tanggung jawab;  \nb. \nkapasitas dan kapabilitas anggota dalam melakukan \npenanganan dan pemulihan Insiden Siber; dan \n\n\n \nc. \nketerlibatan personel lintas departemen, unit kerja, \ndan bagian, yang paling sedikit meliputi fungsi \nmanajemen KKS, manajemen risiko, hukum, dan \nkomunikasi. \n(3) \nStruktur dan susunan keanggotaan tim tanggap Insiden \nSiber di level organisasi sebagaimana dimaksud pada ayat \n(1) dilaporkan kepada Bank Indonesia untuk koordinasi \npenanganan dan pemulihan Insiden Siber. \n \nParagraf 2 \n Pelaksanaan Simulasi dan Uji Coba  \nPenanganan dan Pemulihan Insiden Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Untuk melaksanakan penanganan dan pemulihan Insiden \nSiber, Penyelenggara menetapkan tim tanggap Insiden \nSiber dan kriteria pengaktifan tim tanggap Insiden Siber di \nlevel organisasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Struktur dan susunan keanggotaan tim tanggap Insiden \nSiber di level organisasi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "ditetapkan dengan memperhatikan: \na. \nkejelasan peran dan tanggung jawab;  \nb. \nkapasitas dan kapabilitas anggota dalam melakukan \npenanganan dan pemulihan Insiden Siber; dan \n\n\n \nc. \nketerlibatan personel lintas departemen, unit kerja, \ndan bagian, yang paling sedikit meliputi fungsi \nmanajemen KKS, manajemen risiko, hukum, dan \nkomunikasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Struktur dan susunan keanggotaan tim tanggap Insiden \nSiber di level organisasi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilaporkan kepada Bank Indonesia untuk koordinasi \npenanganan dan pemulihan Insiden Siber. \n \nParagraf 2 \n Pelaksanaan Simulasi dan Uji Coba  \nPenanganan dan Pemulihan Insiden Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPelaksanaan simulasi dan uji coba penanganan dan \npemulihan Insiden Siber sebagaimana dimaksud dalam \nPasal 40 huruf b dilakukan dengan mengacu pada: \na. \nprofil Risiko Siber; dan  \nb. \nkritikalitas fungsi bisnis dan Sistem Informasi. \n(2) \nPelaksanaan simulasi dan uji coba penanganan dan \npemulihan Insiden Siber sebagaimana dimaksud pada \nayat \n(1) dilakukan \nberdasarkan skenario simulasi \nSerangan Siber sesuai tren perkembangan Siber. \n(3) \nSimulasi dan uji coba penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan memastikan kelancaran operasional dan/atau \nlayanan bisnis yang mempergunakan sistem aplikasi dan \ninfrastruktur teknologi informasi Penyelenggara. \n(4) \nSimulasi dan uji coba penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan melibatkan:  \na. \npihak ketiga; dan/atau \nb. \npemangku kepentingan terkait. \n(5) \nSimulasi dan uji coba penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud pada ayat (1) dilakukan \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun. \n \nParagraf 3 \nPenanganan Insiden Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan simulasi dan uji coba penanganan dan \npemulihan Insiden Siber sebagaimana dimaksud dalam \nPasal 40 huruf b dilakukan dengan mengacu pada: \na. \nprofil Risiko Siber; dan  \nb. \nkritikalitas fungsi bisnis dan Sistem Informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan simulasi dan uji coba penanganan dan \npemulihan Insiden Siber sebagaimana dimaksud pada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \nberdasarkan skenario simulasi \nSerangan Siber sesuai tren perkembangan Siber."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Simulasi dan uji coba penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud pada ayat (1) dilaksanakan \ndengan memastikan kelancaran operasional dan/atau \nlayanan bisnis yang mempergunakan sistem aplikasi dan \ninfrastruktur teknologi informasi Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Simulasi dan uji coba penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud pada ayat (1) dapat \ndilakukan dengan melibatkan:  \na. \npihak ketiga; dan/atau \nb. \npemangku kepentingan terkait."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Simulasi dan uji coba penanganan dan pemulihan Insiden \nSiber sebagaimana dimaksud pada ayat (1) dilakukan \npaling sedikit 1 (satu) kali dalam 1 (satu) tahun. \n \nParagraf 3 \nPenanganan Insiden Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPenanganan Insiden Siber sebagaimana dimaksud dalam \nPasal 40 huruf c dilaksanakan berdasarkan rencana \npenanganan dan pemulihan Insiden Siber sebagaimana \ndimaksud dalam Pasal 41 ayat (1).  \n(2) \nPenanganan Insiden Siber sebagaimana dimaksud pada \nayat (1) dilaksanakan paling sedikit dengan: \na. \nmengaktifkan tim tanggap Insiden Siber di level \norganisasi; \nb. \nmenyampaikan: \n1. \nnotifikasi awal Insiden Siber pa1ing lama 1 (satu) \njam setelah Insiden Siber diketahui oleh \nPenyelenggara; dan \n2. \nlaporan Insiden Siber pa1ing lama 3 (tiga) hari \nkalender setelah Insiden Siber terjadi, \nkepada Bank Indonesia; \n\n\n \nc. \nmelakukan \npendalaman \nInsiden \nSiber \nyang \nmencakup sumber, jenis, dan waktu serangan, \nanalisis dampak, serta forensik terhadap  Insiden \nSiber; \nd. \nmelakukan mitigasi Insiden Siber dan pembatasan \ndampak;  \ne. \nmelaksanakan eskalasi dan penanganan Insiden \nSiber sesuai dengan tingkat dampak  Insiden Siber; \ndan \nf. \nmelaksanakan penanganan Insiden Siber dengan \nmenggunakan \nsumber \ndaya \ninternal dan/atau \neksternal. \n(3) \nNotifikasi awal Insiden Siber sebagaimana dimaksud pada \nayat (2) huruf b angka 1 paling sedikit memuat informasi \nkontak pelapor, informasi umum Insiden Siber, dan \nasesmen awal dampak Insiden Siber. \n(4) \nLaporan Insiden Siber sebagaimana dimaksud pada ayat \n(2) huruf b angka 2 paling sedikit memuat informasi \nkontak pelapor, informasi umum Insiden Siber, analisis \nkomprehensif dampak Insiden Siber, forensik Insiden \nSiber, kesimpulan, dan tindak lanjut perbaikan.  \n(5) \nPendalaman Insiden Siber sebagaimana dimaksud pada \nayat (2) huruf c dilakukan dengan: \na. \nmemastikan catatan aktivitas Siber tercatat dan \nterjaga integritasnya saat Insiden Siber terjadi; \nb. \nmelakukan analisis dampak bisnis dan dampak \nteknis yang disebabkan Insiden Siber; dan \nc. \nmelakukan analisis terhadap akar permasalahan \nInsiden Siber. \n(6) \nMitigasi \nInsiden \nSiber \ndan \npembatasan \ndampak  \nsebagaimana dimaksud pada ayat (2) huruf d dilakukan \ndengan: \na. \nmemastikan sumber Insiden Siber telah dihilangkan; \nb. \nmelakukan isolasi dampak Insiden Siber; dan \nc. \nmelakukan koordinasi penanganan isolasi dampak \nInsiden Siber dengan otoritas, lembaga, dan/atau \nPenyelenggara lain. \n(7) \nEskalasi dan penanganan Insiden Siber sebagaimana \ndimaksud pada ayat (2) huruf e dapat mengaktifkan \nmanajemen keberlangsungan bisnis Penyelenggara. \n(8) \nDalam melakukan eskalasi dan penanganan  Insiden Siber \nsebagaimana dimaksud pada ayat (7), Penyelenggara \ndapat berkoordinasi dengan tim tanggap Insiden Siber \nsektor keuangan.  \n(9) \nPenanganan Insiden Siber sebagaimana dimaksud pada \nayat (2) dapat menggunakan sumber daya eksternal \ndengan memastikan kerahasiaan informasi penanganan \nInsiden Siber terjaga. \n \nParagraf 4 \nPelaksanaan Komunikasi Tindakan Penanganan Insiden Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penanganan Insiden Siber sebagaimana dimaksud dalam \nPasal 40 huruf c dilaksanakan berdasarkan rencana \npenanganan dan pemulihan Insiden Siber sebagaimana \ndimaksud dalam Pasal 41 ayat (1)."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penanganan Insiden Siber sebagaimana dimaksud pada \nayat (1) dilaksanakan paling sedikit dengan: \na. \nmengaktifkan tim tanggap Insiden Siber di level \norganisasi; \nb. \nmenyampaikan: \n1. \nnotifikasi awal Insiden Siber pa1ing lama 1 (satu) \njam setelah Insiden Siber diketahui oleh \nPenyelenggara; dan \n2. \nlaporan Insiden Siber pa1ing lama 3 (tiga) hari \nkalender setelah Insiden Siber terjadi, \nkepada Bank Indonesia; \n\n\n \nc. \nmelakukan \npendalaman \nInsiden \nSiber \nyang \nmencakup sumber, jenis, dan waktu serangan, \nanalisis dampak, serta forensik terhadap  Insiden \nSiber; \nd. \nmelakukan mitigasi Insiden Siber dan pembatasan \ndampak;  \ne. \nmelaksanakan eskalasi dan penanganan Insiden \nSiber sesuai dengan tingkat dampak  Insiden Siber; \ndan \nf. \nmelaksanakan penanganan Insiden Siber dengan \nmenggunakan \nsumber \ndaya \ninternal dan/atau \neksternal."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Notifikasi awal Insiden Siber sebagaimana dimaksud pada \nayat (2) huruf b angka 1 paling sedikit memuat informasi \nkontak pelapor, informasi umum Insiden Siber, dan \nasesmen awal dampak Insiden Siber."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan Insiden Siber sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf b angka 2 paling sedikit memuat informasi \nkontak pelapor, informasi umum Insiden Siber, analisis \nkomprehensif dampak Insiden Siber, forensik Insiden \nSiber, kesimpulan, dan tindak lanjut perbaikan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pendalaman Insiden Siber sebagaimana dimaksud pada \nayat (2) huruf c dilakukan dengan: \na. \nmemastikan catatan aktivitas Siber tercatat dan \nterjaga integritasnya saat Insiden Siber terjadi; \nb. \nmelakukan analisis dampak bisnis dan dampak \nteknis yang disebabkan Insiden Siber; dan \nc. \nmelakukan analisis terhadap akar permasalahan \nInsiden Siber."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Mitigasi \nInsiden \nSiber \ndan \npembatasan \ndampak  \nsebagaimana dimaksud pada ayat (2) huruf d dilakukan \ndengan: \na. \nmemastikan sumber Insiden Siber telah dihilangkan; \nb. \nmelakukan isolasi dampak Insiden Siber; dan \nc. \nmelakukan koordinasi penanganan isolasi dampak \nInsiden Siber dengan otoritas, lembaga, dan/atau \nPenyelenggara lain."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Eskalasi dan penanganan Insiden Siber sebagaimana \ndimaksud pada ayat (2) huruf e dapat mengaktifkan \nmanajemen keberlangsungan bisnis Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Dalam melakukan eskalasi dan penanganan  Insiden Siber \nsebagaimana dimaksud pada ayat (7), Penyelenggara \ndapat berkoordinasi dengan tim tanggap Insiden Siber \nsektor keuangan."
+        },
+        {
+          "ayat_nomor": "(9)",
+          "teks": "Penanganan Insiden Siber sebagaimana dimaksud pada \nayat (2) dapat menggunakan sumber daya eksternal \ndengan memastikan kerahasiaan informasi penanganan \nInsiden Siber terjaga. \n \nParagraf 4 \nPelaksanaan Komunikasi Tindakan Penanganan Insiden Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPelaksanaan komunikasi tindakan penanganan Insiden \nSiber sebagaimana dimaksud dalam Pasal 40 huruf d \ndilakukan paling sedikit dengan: \n\n\n \na. \nmenyusun \nstrategi \ndan \nmetode \nkomunikasi \npenanganan dan pemulihan Insiden Siber; \nb. \nmengomunikasikan \npenanganan \nInsiden \nSiber \nkepada pemangku kepentingan berdasarkan strategi \ndan metode komunikasi sebagaimana dimaksud \ndalam huruf a; dan \nc. \nmengomunikasikan kemajuan penanganan Insiden \nSiber kepada Bank Indonesia. \n(2) \nStrategi dan metode komunikasi sebagaimana dimaksud \npada ayat (1) huruf a disusun dengan memperhatikan: \na. \ncakupan informasi; \nb. \nwaktu yang tepat; \nc. \npenerima informasi atau pemangku kepentingan; dan \nd. \njalur atau kanal komunikasi. \n(3) \nKomunikasi penanganan Insiden Siber kepada pemangku \nkepentingan sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan dengan memperhatikan prinsip: \na. \nberorientasi pada pihak yang berkepentingan yang \nditargetkan secara spesifik; \nb. \nberkelanjutan dan konsisten; \nc. \nwaktu yang tepat; dan \nd. \nkehati-hatian. \n(4) \nPenyelenggara mengomunikasikan kemajuan penanganan \nInsiden Siber kepada Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf c dengan menyampaikan \nprogres penanganan Insiden Siber paling sedikit 1 (satu) \nkali dalam 1 (satu) hari. \n \nBagian Kedua \nPemulihan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan komunikasi tindakan penanganan Insiden \nSiber sebagaimana dimaksud dalam Pasal 40 huruf d \ndilakukan paling sedikit dengan: \n\n\n \na. \nmenyusun \nstrategi \ndan \nmetode \nkomunikasi \npenanganan dan pemulihan Insiden Siber; \nb. \nmengomunikasikan \npenanganan \nInsiden \nSiber \nkepada pemangku kepentingan berdasarkan strategi \ndan metode komunikasi sebagaimana dimaksud \ndalam huruf a; dan \nc. \nmengomunikasikan kemajuan penanganan Insiden \nSiber kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Strategi dan metode komunikasi sebagaimana dimaksud \npada ayat (1) huruf a disusun dengan memperhatikan: \na. \ncakupan informasi; \nb. \nwaktu yang tepat; \nc. \npenerima informasi atau pemangku kepentingan; dan \nd. \njalur atau kanal komunikasi."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Komunikasi penanganan Insiden Siber kepada pemangku \nkepentingan sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan dengan memperhatikan prinsip: \na. \nberorientasi pada pihak yang berkepentingan yang \nditargetkan secara spesifik; \nb. \nberkelanjutan dan konsisten; \nc. \nwaktu yang tepat; dan \nd. \nkehati-hatian."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyelenggara mengomunikasikan kemajuan penanganan \nInsiden Siber kepada Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf c dengan menyampaikan \nprogres penanganan Insiden Siber paling sedikit 1 (satu) \nkali dalam 1 (satu) hari. \n \nBagian Kedua \nPemulihan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "Pemulihan dilakukan paling sedikit dengan: \na. \npengembalian layanan sebagaimana kondisi normal; \nb. \nperbaikan berkelanjutan; dan \nc. \npelaksanaan komunikasi pemulihan Insiden Siber. \n \nParagraf 1 \nPengembalian Layanan Sebagaimana Kondisi Normal",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pemulihan dilakukan paling sedikit dengan: \na. \npengembalian layanan sebagaimana kondisi normal; \nb. \nperbaikan berkelanjutan; dan \nc. \npelaksanaan komunikasi pemulihan Insiden Siber. \n \nParagraf 1 \nPengembalian Layanan Sebagaimana Kondisi Normal"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nDalam melakukan pengembalian layanan sebagaimana \nkondisi normal sebagaimana dimaksud dalam Pasal 47 \nhuruf a, Penyelenggara menetapkan: \na. \nlokasi kerja alternatif;  \nb. \npusat data yang terpisah; dan/atau \nc. \njaringan komunikasi data alternatif. \n(2) \nPengembalian layanan sebagaimana kondisi normal \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan \nberdasarkan:  \na. \nhasil analisis dampak bisnis dan dampak teknis yang \ndisebabkan Insiden Siber sebagaimana dimaksud \ndalam Pasal 45 ayat (5) huruf b; \nb. \nrencana pemulihan Insiden Siber; dan \nc. \nkritikalitas fungsi bisnis. \n\n\n \n(3) \nPengembalian layanan sebagaimana kondisi normal \nsebagaimana dimaksud pada ayat (1) dilakukan dengan: \na. \nmenyusun prioritisasi pemulihan;  \nb. \nmemastikan integritas backup dan infrastruktur \nteknologi informasi  lainnya telah diverifikasi sebelum \ndigunakan untuk pemulihan;  \nc. \nmemastikan \nkeberhasilan \npemulihan \nlayanan \nberdasarkan \nkriteria \nyang \ntelah \nditetapkan \nPenyelenggara; dan  \nd. \nmenyusun laporan pemulihan Insiden Siber. \n \nParagraf 2 \nPerbaikan Berkelanjutan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan pengembalian layanan sebagaimana \nkondisi normal sebagaimana dimaksud dalam Pasal 47 \nhuruf a, Penyelenggara menetapkan: \na. \nlokasi kerja alternatif;  \nb. \npusat data yang terpisah; dan/atau \nc. \njaringan komunikasi data alternatif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengembalian layanan sebagaimana kondisi normal \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \nberdasarkan:  \na. \nhasil analisis dampak bisnis dan dampak teknis yang \ndisebabkan Insiden Siber sebagaimana dimaksud \ndalam Pasal 45 ayat (5) huruf b; \nb. \nrencana pemulihan Insiden Siber; dan \nc. \nkritikalitas fungsi bisnis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengembalian layanan sebagaimana kondisi normal \nsebagaimana dimaksud pada ayat (1) dilakukan dengan: \na. \nmenyusun prioritisasi pemulihan;  \nb. \nmemastikan integritas backup dan infrastruktur \nteknologi informasi  lainnya telah diverifikasi sebelum \ndigunakan untuk pemulihan;  \nc. \nmemastikan \nkeberhasilan \npemulihan \nlayanan \nberdasarkan \nkriteria \nyang \ntelah \nditetapkan \nPenyelenggara; dan  \nd. \nmenyusun laporan pemulihan Insiden Siber. \n \nParagraf 2 \nPerbaikan Berkelanjutan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPerbaikan berkelanjutan sebagaimana dimaksud dalam \nPasal 47 huruf b dilakukan paling sedikit dengan: \na. \nmelakukan \nevaluasi \nefektivitas dan \nperbaikan \nrencana penanganan dan pemulihan Insiden Siber \natas dasar penanganan dan pemulihan Insiden Siber \nyang telah dilakukan; dan \nb. \nmelakukan upaya penguatan KKS untuk memitigasi \nrisiko Insiden Siber serupa. \n(2) \nUpaya penguatan KKS sebagaimana dimaksud pada ayat \n(1) huruf b dilakukan dengan: \na. \nmemastikan \nakar \npermasalahan Insiden \nSiber \ndiketahui untuk mencegah terulangnya kejadian \nserupa; dan  \nb. \nmendapatkan lesson learned. \n \nParagraf 3 \nPelaksanaan Komunikasi Pemulihan Insiden Siber",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Perbaikan berkelanjutan sebagaimana dimaksud dalam \nPasal 47 huruf b dilakukan paling sedikit dengan: \na. \nmelakukan \nevaluasi \nefektivitas dan \nperbaikan \nrencana penanganan dan pemulihan Insiden Siber \natas dasar penanganan dan pemulihan Insiden Siber \nyang telah dilakukan; dan \nb. \nmelakukan upaya penguatan KKS untuk memitigasi \nrisiko Insiden Siber serupa."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Upaya penguatan KKS sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf b dilakukan dengan: \na. \nmemastikan \nakar \npermasalahan Insiden \nSiber \ndiketahui untuk mencegah terulangnya kejadian \nserupa; dan  \nb. \nmendapatkan lesson learned. \n \nParagraf 3 \nPelaksanaan Komunikasi Pemulihan Insiden Siber"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nPelaksanaan \nkomunikasi \npemulihan \nInsiden \nSiber  \nsebagaimana dimaksud dalam Pasal 47 huruf c dilakukan \npaling sedikit dengan: \na. \nmengomunikasikan pemulihan Insiden Siber kepada \npemangku kepentingan berdasarkan strategi dan \nmetode \nkomunikasi \npemulihan \nInsiden \nSiber \nsebagaimana dimaksud dalam Pasal 46 ayat (1) huruf \na; dan \nb. \nmengomunikasikan kemajuan pemulihan Insiden \nSiber kepada Bank Indonesia. \n(2) \nKomunikasi pemulihan Insiden Siber kepada pemangku \nkepentingan  sebagaimana dimaksud pada ayat (1) huruf \na dilakukan dengan memperhatikan prinsip: \na. \nberorientasi pada pihak yang berkepentingan yang \nditargetkan secara spesifik; \nb. \nberkelanjutan dan konsisten; \nc. \nwaktu yang tepat; dan \nd. \nkehati-hatian. \n(3) \nPenyelenggara mengomunikasikan kemajuan pemulihan \nInsiden Siber kepada Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf b dengan menyampaikan \nprogres pemulihan Insiden Siber. \n\n\n \nParagraf 4  \nEvaluasi Penanganan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan \nkomunikasi \npemulihan \nInsiden \nSiber  \nsebagaimana dimaksud dalam Pasal 47 huruf c dilakukan \npaling sedikit dengan: \na. \nmengomunikasikan pemulihan Insiden Siber kepada \npemangku kepentingan berdasarkan strategi dan \nmetode \nkomunikasi \npemulihan \nInsiden \nSiber \nsebagaimana dimaksud dalam Pasal 46 ayat (1) huruf \na; dan \nb. \nmengomunikasikan kemajuan pemulihan Insiden \nSiber kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Komunikasi pemulihan Insiden Siber kepada pemangku \nkepentingan  sebagaimana dimaksud pada ayat (1) huruf \na dilakukan dengan memperhatikan prinsip: \na. \nberorientasi pada pihak yang berkepentingan yang \nditargetkan secara spesifik; \nb. \nberkelanjutan dan konsisten; \nc. \nwaktu yang tepat; dan \nd. \nkehati-hatian."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara mengomunikasikan kemajuan pemulihan \nInsiden Siber kepada Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf b dengan menyampaikan \nprogres pemulihan Insiden Siber. \n\n\n \nParagraf 4  \nEvaluasi Penanganan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PENANGANAN",
+      "teks_lengkap": "(1) \nDalam melaksanakan respons sebagaimana dimaksud \ndalam Pasal 40 dan pemulihan sebagaimana dimaksud \ndalam Pasal 47, dilakukan evaluasi penanganan.  \n(2) \nEvaluasi penanganan sebagaimana dimaksud pada ayat \n(1) dilakukan untuk: \na. \nmengukur efektivitas kegiatan penanganan; dan \nb. \nmendukung \npeningkatan \nkegiatan \npenanganan \nsecara berkelanjutan. \n(3) \nEvaluasi penanganan sebagaimana dimaksud pada ayat \n(1) dilakukan dengan memperhatikan: \na. \nprofil Risiko Siber; \nb. \ntren perkembangan Siber; \nc. \nhasil respons Insiden Siber; dan/atau \nd. \nhasil pemulihan Insiden Siber.  \n(4) \nHasil evaluasi penanganan sebagaimana dimaksud pada \nayat (1) disampaikan kepada \nmanajemen tertinggi \nPenyelenggara. \n \nBAB VI \nPENYAMPAIAN DATA DAN INFORMASI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melaksanakan respons sebagaimana dimaksud \ndalam Pasal 40 dan pemulihan sebagaimana dimaksud \ndalam Pasal 47, dilakukan evaluasi penanganan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi penanganan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan untuk: \na. \nmengukur efektivitas kegiatan penanganan; dan \nb. \nmendukung \npeningkatan \nkegiatan \npenanganan \nsecara berkelanjutan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Evaluasi penanganan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan dengan memperhatikan: \na. \nprofil Risiko Siber; \nb. \ntren perkembangan Siber; \nc. \nhasil respons Insiden Siber; dan/atau \nd. \nhasil pemulihan Insiden Siber."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Hasil evaluasi penanganan sebagaimana dimaksud pada \nayat (1) disampaikan kepada \nmanajemen tertinggi \nPenyelenggara. \n \nBAB VI \nPENYAMPAIAN DATA DAN INFORMASI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nPenyelenggara menyampaikan data dan/atau informasi  \nkepada Bank Indonesia. \n(2) \nData dan/atau informasi sebagaimana dimaksud pada \nayat (1) terkait penerapan KKS meliputi area: \na. \ntata kelola; \nb. \npencegahan; dan \nc. \npenanganan. \n(3) \nData dan/atau informasi sebagaimana dimaksud pada \nayat (2) disampaikan dalam bentuk dokumen, data \nmentah, dan/atau data olahan. \n(4) \nData dan/atau informasi sebagaimana dimaksud pada \nayat (3) disampaikan melalui pelaporan secara: \na. \ntahunan, meliputi: \n1. \ntingkat kematangan KKS; dan \n2. \nhasil identifikasi infrastruktur informasi vital, \ndan \nb. \ninsidental pada saat terjadi Insiden Siber.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara menyampaikan data dan/atau informasi  \nkepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Data dan/atau informasi sebagaimana dimaksud pada \nayat (1) terkait penerapan KKS meliputi area: \na. \ntata kelola; \nb. \npencegahan; dan \nc. \npenanganan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Data dan/atau informasi sebagaimana dimaksud pada \nayat (2) disampaikan dalam bentuk dokumen, data \nmentah, dan/atau data olahan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Data dan/atau informasi sebagaimana dimaksud pada \nayat (3) disampaikan melalui pelaporan secara: \na. \ntahunan, meliputi: \n1. \ntingkat kematangan KKS; dan \n2. \nhasil identifikasi infrastruktur informasi vital, \ndan \nb. \ninsidental pada saat terjadi Insiden Siber."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nLaporan sebagaimana dimaksud dalam Pasal 52 ayat (4)  \ndisusun dan disampaikan secara lengkap, akurat, kini, \nutuh, dan tepat waktu. \n(2) \nLaporan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndisampaikan dengan lampiran bukti pendukung.  \n(3) \nPenyampaian laporan sebagaimana dimaksud pada ayat \n(1) dilakukan secara terpusat oleh setiap Penyelenggara. \n(4) \nPenyampaian laporan tahunan sebagaimana dimaksud \ndalam Pasal 52 ayat (4) huruf a disampaikan paling lambat \n31 Januari untuk periode pelaporan tahun sebelumnya. \n\n\n \n(5) \nDalam \nhal \nbatas \npenyampaian \nlaporan \ntahunan \nsebagaimana dimaksud pada ayat (4) bukan merupakan \nhari \nkerja \noperasional \nBank \nIndonesia, \nlaporan \ndisampaikan pada hari kerja operasional Bank Indonesia \nsebelumnya. \n(6) \nDalam hal diperlukan, Bank Indonesia sewaktu-waktu  \ndapat meminta Penyelenggara untuk menyampaikan \nlaporan tingkat kematangan KKS terkini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan sebagaimana dimaksud dalam Pasal 52 ayat (4)  \ndisusun dan disampaikan secara lengkap, akurat, kini, \nutuh, dan tepat waktu."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan dengan lampiran bukti pendukung."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyampaian laporan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan secara terpusat oleh setiap Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyampaian laporan tahunan sebagaimana dimaksud \ndalam Pasal 52 ayat (4) huruf a disampaikan paling lambat \n31 Januari untuk periode pelaporan tahun sebelumnya."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam \nhal \nbatas \npenyampaian \nlaporan \ntahunan \nsebagaimana dimaksud pada ayat (4) bukan merupakan \nhari \nkerja \noperasional \nBank \nIndonesia, \nlaporan \ndisampaikan pada hari kerja operasional Bank Indonesia \nsebelumnya."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal diperlukan, Bank Indonesia sewaktu-waktu  \ndapat meminta Penyelenggara untuk menyampaikan \nlaporan tingkat kematangan KKS terkini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nBank Indonesia menetapkan infrastruktur informasi vital \nberdasarkan paling sedikit meliputi: \na. \nukuran; \nb. \nketerhubungan; \nc. \nketergantian; dan \nd. \nkompleksitas. \n(2) \nPenetapan infrastruktur informasi vital sebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan \ndengan \nmempertimbangkan \nhasil \nidentifikasi \nsebagaimana \ndimaksud dalam Pasal 52 ayat 4 huruf a angka 2.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia menetapkan infrastruktur informasi vital \nberdasarkan paling sedikit meliputi: \na. \nukuran; \nb. \nketerhubungan; \nc. \nketergantian; dan \nd. \nkompleksitas."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan infrastruktur informasi vital sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \ndengan \nmempertimbangkan \nhasil \nidentifikasi \nsebagaimana \ndimaksud dalam Pasal 52 ayat 4 huruf a angka 2."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENYAMPAIAN DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nPenyelenggara \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud  dalam  Pasal 52 ayat (4) kepada Bank Indonesia \nsecara daring melalui sistem pelaporan Bank Indonesia. \n(2) \nPenyampaian \nlaporan \nsecara \ndaring \nsebagaimana \ndimaksud pada  ayat (1) mengacu pada pedoman \npenyampaian laporan secara daring melalui sistem \npelaporan Bank Indonesia. \n(3) \nPedoman \npenyampaian \nlaporan \nsecara \ndaring \nsebagaimana dimaksud pada ayat (2) disampaikan Bank \nIndonesia kepada Penyelenggara melalui laman Bank \nIndonesia dan/atau media lain yang ditetapkan Bank \nIndonesia. \n(4) \nDalam hal sistem pelaporan sebagaimana dimaksud pada \nayat (1) belum tersedia, laporan sebagaimana dimaksud \ndalam Pasal 52 ayat (4) disampaikan secara luring. \n \nBAB VII \nTATA CARA PENGENAAN SANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara \nmenyampaikan \nlaporan \nsebagaimana \ndimaksud  dalam  Pasal 52 ayat (4) kepada Bank Indonesia \nsecara daring melalui sistem pelaporan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian \nlaporan \nsecara \ndaring \nsebagaimana \ndimaksud pada  ayat (1) mengacu pada pedoman \npenyampaian laporan secara daring melalui sistem \npelaporan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pedoman \npenyampaian \nlaporan \nsecara \ndaring \nsebagaimana dimaksud pada ayat (2) disampaikan Bank \nIndonesia kepada Penyelenggara melalui laman Bank \nIndonesia dan/atau media lain yang ditetapkan Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal sistem pelaporan sebagaimana dimaksud pada \nayat (1) belum tersedia, laporan sebagaimana dimaksud \ndalam Pasal 52 ayat (4) disampaikan secara luring. \n \nBAB VII \nTATA CARA PENGENAAN SANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nPenyelenggara \nyang \nmelanggar \nketentuan \ndalam \nPeraturan \nBank \nIndonesia \nmengenai \nKKS \nbagi \npenyelenggara Sistem Pembayaran, pelaku Pasar Uang \ndan Pasar Valuta Asing, serta pihak lain yang diatur dan \ndiawasi Bank Indonesia, dikenai sanksi administratif \nberupa: \na. \nteguran;  \nb. \nkewajiban membayar; \nc. \npenghentian sementara, sebagian, atau seluruh \nkegiatan \ntermasuk \npelaksanaan \nkerja \nsama; \ndan/atau  \nd. \npencabutan izin dan/atau persetujuan yang telah \ndiberikan. \n\n\n \n(2) \nPengenaan \nsanksi \nadminsitratif \nberupa \nteguran \nsebagaimana dimaksud pada ayat (1) huruf a dilakukan \nmelalui penyampaian surat teguran tertulis.  \n(3) \nPengenaan \nsanksi \nadminsitratif \nberupa \nkewajiban \nmembayar sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan \ndengan \ncara \npendebitan \nrekening \ngiro \nPenyelenggara pada Bank Indonesia bagi Penyelenggara \nyang memiliki rekening giro di Bank Indonesia. \n(4) \nPengenaan \nsanksi \nadminsitratif \nberupa \nkewajiban \nmembayar sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan dengan \ncara pembayaran kepada \nBank \nIndonesia bagi \nPenyelenggara yang tidak \nmemiliki \nrekening giro di Bank Indonesia. \n(5) \nPengenaan sanksi adminsitratif berupa \npenghentian \nsementara, sebagian, atau seluruh kegiatan termasuk \npelaksanaan kerja sama sebagaimana dimaksud pada ayat \n(1) \nhuruf \nc \ndilakukan \nBank \nIndonesia \ndengan \nmenyampaikan surat penghentian kegiatan usaha. \n(6) \nPengenaan sanksi adminsitratif berupa pencabutan izin \ndan/atau persetujuan yang telah diberikan sebagaimana \ndimaksud pada ayat (1) huruf d dilakukan Bank Indonesia \ndengan menyampaikan surat pencabutan izin dan/atau \npersetujuan. \n(7) \nSanksi \nadministratif \nberupa \nkewajiban \nmembayar \nsebagaimana dimaksud pada ayat (3) dan ayat (4) \ndikenakan paling banyak Rp5.000.000,00 (lima juta \nrupiah) per laporan. \n \nBAB VIII \nKOLABORASI \n \nBagian Kesatu \nPertukaran Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara \nyang \nmelanggar \nketentuan \ndalam \nPeraturan \nBank \nIndonesia \nmengenai \nKKS \nbagi \npenyelenggara Sistem Pembayaran, pelaku Pasar Uang \ndan Pasar Valuta Asing, serta pihak lain yang diatur dan \ndiawasi Bank Indonesia, dikenai sanksi administratif \nberupa: \na. \nteguran;  \nb. \nkewajiban membayar; \nc. \npenghentian sementara, sebagian, atau seluruh \nkegiatan \ntermasuk \npelaksanaan \nkerja \nsama; \ndan/atau  \nd. \npencabutan izin dan/atau persetujuan yang telah \ndiberikan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan \nsanksi \nadminsitratif \nberupa \nteguran \nsebagaimana dimaksud pada ayat (1) huruf a dilakukan \nmelalui penyampaian surat teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pengenaan \nsanksi \nadminsitratif \nberupa \nkewajiban \nmembayar sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan \ndengan \ncara \npendebitan \nrekening \ngiro \nPenyelenggara pada Bank Indonesia bagi Penyelenggara \nyang memiliki rekening giro di Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pengenaan \nsanksi \nadminsitratif \nberupa \nkewajiban \nmembayar sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan dengan \ncara pembayaran kepada \nBank \nIndonesia bagi \nPenyelenggara yang tidak \nmemiliki \nrekening giro di Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengenaan sanksi adminsitratif berupa \npenghentian \nsementara, sebagian, atau seluruh kegiatan termasuk \npelaksanaan kerja sama sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf \nc \ndilakukan \nBank \nIndonesia \ndengan \nmenyampaikan surat penghentian kegiatan usaha."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Pengenaan sanksi adminsitratif berupa pencabutan izin \ndan/atau persetujuan yang telah diberikan sebagaimana \ndimaksud pada ayat (1) huruf d dilakukan Bank Indonesia \ndengan menyampaikan surat pencabutan izin dan/atau \npersetujuan."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Sanksi \nadministratif \nberupa \nkewajiban \nmembayar \nsebagaimana dimaksud pada ayat (3) dan ayat (4) \ndikenakan paling banyak Rp5.000.000,00 (lima juta \nrupiah) per laporan. \n \nBAB VIII \nKOLABORASI \n \nBagian Kesatu \nPertukaran Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "57",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI",
+      "teks_lengkap": "(1) \nPenyelenggara melakukan pertukaran informasi dengan  \nmemperhatikan klasifikasi informasi. \n(2) \nPertukaran informasi sebagaimana dimaksud pada ayat \n(1) dilakukan dengan menggunakan sarana berbagi yang \ndapat dibentuk oleh Bank Indonesia. \n \nBagian Kedua \nPencegahan Insiden Siber dan Efek Penularan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyelenggara melakukan pertukaran informasi dengan  \nmemperhatikan klasifikasi informasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pertukaran informasi sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan dengan menggunakan sarana berbagi yang \ndapat dibentuk oleh Bank Indonesia. \n \nBagian Kedua \nPencegahan Insiden Siber dan Efek Penularan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "58",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI",
+      "teks_lengkap": "(1) \nDalam mencegah Insiden Siber dan efek penularan, Bank \nIndonesia dapat: \na. \nmengisolasi akses terhadap infrastruktur Bank \nIndonesia; dan \nb. \nmelakukan \nkolaborasi \ndan \nkoordinasi \ndengan \notoritas, lembaga, dan/atau Penyelenggara lain \ndalam penanganan Insiden Siber pada Penyelenggara. \n(2) \nBank Indonesia dapat mengisolasi akses Penyelenggara \nterhadap infrastruktur Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf a jika: \n\n\n \na. \nterjadi Insiden Siber pada sistem yang digunakan oleh \nPenyelenggara yang terhubung dengan infrastruktur \nBank Indonesia atau pada sistem lainnya yang berada \ndi segmentasi jaringan yang sama; dan/atau \nb. \nInsiden Siber yang terjadi berpotensi meluas. \n(3) \nPenyelenggara dapat mengajukan pembukaan akses \nterhadap infrastruktur Bank Indonesia setelah melakukan \npenanganan dan pemulihan Insiden Siber serta layanan \ntelah berjalan normal.  \n(4) \nPenyelenggara dapat melakukan isolasi akses terhadap \ninfrastruktur  Penyelenggara lain jika terjadi Insiden Siber \npada sistem Penyelenggara lain yang terhubung secara \nlangsung dan diyakini Insiden Siber yang terjadi \nberpotensi meluas. \n \nBagian Ketiga \nKerja Sama dengan SRO",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam mencegah Insiden Siber dan efek penularan, Bank \nIndonesia dapat: \na. \nmengisolasi akses terhadap infrastruktur Bank \nIndonesia; dan \nb. \nmelakukan \nkolaborasi \ndan \nkoordinasi \ndengan \notoritas, lembaga, dan/atau Penyelenggara lain \ndalam penanganan Insiden Siber pada Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat mengisolasi akses Penyelenggara \nterhadap infrastruktur Bank Indonesia sebagaimana \ndimaksud pada ayat (1) huruf a jika: \n\n\n \na. \nterjadi Insiden Siber pada sistem yang digunakan oleh \nPenyelenggara yang terhubung dengan infrastruktur \nBank Indonesia atau pada sistem lainnya yang berada \ndi segmentasi jaringan yang sama; dan/atau \nb. \nInsiden Siber yang terjadi berpotensi meluas."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggara dapat mengajukan pembukaan akses \nterhadap infrastruktur Bank Indonesia setelah melakukan \npenanganan dan pemulihan Insiden Siber serta layanan \ntelah berjalan normal."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Penyelenggara dapat melakukan isolasi akses terhadap \ninfrastruktur  Penyelenggara lain jika terjadi Insiden Siber \npada sistem Penyelenggara lain yang terhubung secara \nlangsung dan diyakini Insiden Siber yang terjadi \nberpotensi meluas. \n \nBagian Ketiga \nKerja Sama dengan SRO"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat menugaskan SRO untuk menyusun \ndan menetapkan prosedur KKS yang bersifat teknis dan \nspesifik. \n(2) \nSRO dalam menetapkan prosedur KKS sebagaimana \ndimaksud pada ayat (1) harus mendapat persetujuan Bank \nIndonesia. \n(3) \nBank \nIndonesia \ndapat \nmenunjuk \nSRO \nsebagai \nnarahubung dengan Penyelenggara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat menugaskan SRO untuk menyusun \ndan menetapkan prosedur KKS yang bersifat teknis dan \nspesifik."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "SRO dalam menetapkan prosedur KKS sebagaimana \ndimaksud pada ayat (1) harus mendapat persetujuan Bank \nIndonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank \nIndonesia \ndapat \nmenunjuk \nSRO \nsebagai \nnarahubung dengan Penyelenggara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI",
+      "teks_lengkap": "(1) \nSRO yang dapat ditugaskan Bank Indonesia sebagaimana \ndimaksud dalam Pasal 59 ayat (1) merupakan SRO yang \ntelah ditetapkan sebagaimana diatur dalam ketentuan \nBank Indonesia mengenai Sistem Pembayaran dan \nketentuan Bank Indonesia mengenai Pasar Uang dan \nPasar Valuta Asing. \n(2) \nPenetapan prosedur KKS sebagaimana dimaksud dalam \nPasal 59 ayat (2) untuk mendukung: \na. \npenyelenggaraan Sistem Pembayaran mengacu pada \npenerbitan ketentuan SRO sebagaimana diatur dalam \nketentuan \nBank \nIndonesia \nmengenai \nSistem \nPembayaran; dan \nb. \npengembangan Pasar Uang dan Pasar Valuta Asing \nmengacu \npada \npenerbitan \nketentuan \nSRO \nsebagaimana diatur dalam ketentuan Bank Indonesia \nmengenai Pasar Uang dan Pasar Valuta Asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "SRO yang dapat ditugaskan Bank Indonesia sebagaimana \ndimaksud dalam Pasal 59 ayat (1) merupakan SRO yang \ntelah ditetapkan sebagaimana diatur dalam ketentuan \nBank Indonesia mengenai Sistem Pembayaran dan \nketentuan Bank Indonesia mengenai Pasar Uang dan \nPasar Valuta Asing."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan prosedur KKS sebagaimana dimaksud dalam \nPasal 59 ayat (2) untuk mendukung: \na. \npenyelenggaraan Sistem Pembayaran mengacu pada \npenerbitan ketentuan SRO sebagaimana diatur dalam \nketentuan \nBank \nIndonesia \nmengenai \nSistem \nPembayaran; dan \nb. \npengembangan Pasar Uang dan Pasar Valuta Asing \nmengacu \npada \npenerbitan \nketentuan \nSRO \nsebagaimana diatur dalam ketentuan Bank Indonesia \nmengenai Pasar Uang dan Pasar Valuta Asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "61",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI",
+      "teks_lengkap": "SRO yang ditunjuk Bank Indonesia sebagai narahubung \ndengan Penyelenggara sebagaimana dimaksud dalam Pasal 59 \nayat (3) melakukan koordinasi: \na. \npenyusunan usulan skenario simulasi Serangan Siber \nsektor keuangan yang dilakukan dengan: \n1. \nmeminta SRO untuk melakukan presentasi dengan \nmelibatkan anggota SRO yang mempunyai kompetensi \nyang baik terkait penyusunan simulasi Serangan \nSiber; \n\n\n \n2. \nberperan aktif bersama Bank Indonesia, SRO lain, \ndan/atau \notoritas \nlainnya \ndalam \nmembahas \npenyusunan simulasi Serangan Siber; \n3. \nberperan aktif dalam mencari solusi atas simulasi \nSerangan Siber sebagai mitigasi risiko Serangan Siber; \ndan \n4. \nmenerapkan solusi sebagaimana dimaksud pada \nangka 3 terhadap anggota SRO dalam hal terjadi \nSerangan Siber; \nb. \npelaksanaan sosialisasi terkait ketentuan KKS Bank \nIndonesia dan/atau prosedur KKS oleh SRO dengan: \n1. \nmelibatkan seluruh anggota SRO untuk berperan aktif \ndalam kegiatan sosialisasi; \n2. \nmenyampaikan masukan dari anggota SRO terkait \npenerapan KKS; dan \n3. \nmenyampaikan usulan solusi terkait permasalahan \nKKS yang dihadapi oleh anggota SRO; dan \nc. \nkegiatan lainnya yang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "SRO yang ditunjuk Bank Indonesia sebagai narahubung \ndengan Penyelenggara sebagaimana dimaksud dalam Pasal 59 \nayat (3) melakukan koordinasi: \na. \npenyusunan usulan skenario simulasi Serangan Siber \nsektor keuangan yang dilakukan dengan: \n1. \nmeminta SRO untuk melakukan presentasi dengan \nmelibatkan anggota SRO yang mempunyai kompetensi \nyang baik terkait penyusunan simulasi Serangan \nSiber; \n\n\n \n2. \nberperan aktif bersama Bank Indonesia, SRO lain, \ndan/atau \notoritas \nlainnya \ndalam \nmembahas \npenyusunan simulasi Serangan Siber; \n3. \nberperan aktif dalam mencari solusi atas simulasi \nSerangan Siber sebagai mitigasi risiko Serangan Siber; \ndan \n4. \nmenerapkan solusi sebagaimana dimaksud pada \nangka 3 terhadap anggota SRO dalam hal terjadi \nSerangan Siber; \nb. \npelaksanaan sosialisasi terkait ketentuan KKS Bank \nIndonesia dan/atau prosedur KKS oleh SRO dengan: \n1. \nmelibatkan seluruh anggota SRO untuk berperan aktif \ndalam kegiatan sosialisasi; \n2. \nmenyampaikan masukan dari anggota SRO terkait \npenerapan KKS; dan \n3. \nmenyampaikan usulan solusi terkait permasalahan \nKKS yang dihadapi oleh anggota SRO; dan \nc. \nkegiatan lainnya yang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "62",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KOLABORASI",
+      "teks_lengkap": "Bank Indonesia menentukan batas waktu penugasan SRO \nsebagaimana dimaksud dalam Pasal 59. \n \nBAB IX \nPENERAPAN KKS",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia menentukan batas waktu penugasan SRO \nsebagaimana dimaksud dalam Pasal 59. \n \nBAB IX \nPENERAPAN KKS"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENERAPAN KKS",
+      "teks_lengkap": "(1) \nDalam hal Penyelenggara memiliki layanan digitalisasi \nyang terhubung secara langsung dengan: \na. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi Bank Indonesia; dan/atau \nb. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi  Penyelenggara lain, \nketentuan penerapan KKS sebagaimana diatur dalam \nPeraturan \nAnggota \nDewan \nGubernur \nini \nberlaku \nsepenuhnya. \n(2) \nDalam hal Penyelenggara menggunakan: \na. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi pihak lain (client); atau \nb. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi sendiri yang tidak terhubung secara \nlangsung \ndengan \nsistem \naplikasi \ndan/atau \ninfrastruktur teknologi informasi Bank Indonesia \ndan/atau Penyelenggara lain, \nketentuan penerapan KKS sebagaimana diatur dalam \nPeraturan Anggota Dewan Gubernur ini hanya berlaku \nuntuk pengaturan tertentu. \n(3) \nDalam hal Penyelenggara menggunakan: \na. \nend user device atau perangkat stand-alone lainnya; \ndan/atau \nb. \nperangkat analog,  \nketentuan penerapan KKS sebagaimana diatur dalam \nPeraturan Anggota Dewan Gubernur ini tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Penyelenggara memiliki layanan digitalisasi \nyang terhubung secara langsung dengan: \na. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi Bank Indonesia; dan/atau \nb. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi  Penyelenggara lain, \nketentuan penerapan KKS sebagaimana diatur dalam \nPeraturan \nAnggota \nDewan \nGubernur \nini \nberlaku \nsepenuhnya."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal Penyelenggara menggunakan: \na. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi pihak lain (client); atau \nb. \nsistem aplikasi dan/atau infrastruktur teknologi \ninformasi sendiri yang tidak terhubung secara \nlangsung \ndengan \nsistem \naplikasi \ndan/atau \ninfrastruktur teknologi informasi Bank Indonesia \ndan/atau Penyelenggara lain, \nketentuan penerapan KKS sebagaimana diatur dalam \nPeraturan Anggota Dewan Gubernur ini hanya berlaku \nuntuk pengaturan tertentu."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal Penyelenggara menggunakan: \na. \nend user device atau perangkat stand-alone lainnya; \ndan/atau \nb. \nperangkat analog,  \nketentuan penerapan KKS sebagaimana diatur dalam \nPeraturan Anggota Dewan Gubernur ini tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "64",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENERAPAN KKS",
+      "teks_lengkap": "Pengaturan tertentu sebagaimana dimaksud dalam Pasal 63 \nayat (2) meliputi:  \na. \npengamanan data, sistem aplikasi, dan infrastruktur \nteknologi informasi sebagaimana dimaksud dalam Pasal 7 \nayat (1) huruf a; \nb. \npenetapan kebijakan KKS oleh manajemen tertinggi \nPenyelenggara sebagaimana dimaksud dalam Pasal 7 ayat \n(3); \nc. \npenerapan dan komunikasi kebijakan, standar, dan \nprosedur KKS kepada seluruh pihak internal dan/atau \npihak ketiga terkait sebagaimana dimaksud dalam Pasal 7 \nayat (5); \nd. \npenerapan manajemen KKS sebagaimana dimaksud dalam \nPasal 9 ayat (1); \ne. \npengukuran \ntingkat kematangan KKS sebagaimana \ndimaksud dalam Pasal 10 ayat (2); \nf. \npelaksanaan audit KKS secara berkala sebagaimana \ndimaksud dalam Pasal 12 ayat (1); \ng. \npelaksanaan program peningkatan budaya KKS kesadaran \n(awareness) sebagaimana dimaksud dalam Pasal 13 ayat \n(2) huruf a; \nh. \npemberian program peningkatan budaya KKS kepada \npihak internal sebagaimana dimaksud dalam Pasal 13 ayat \n(3) huruf a; \ni. \npelaksanan penginian profil Risiko Siber sebagaimana \ndimaksud dalam Pasal 14 ayat (3); \nj. \nidentifikasi Risiko Siber sebagaimana dimaksud dalam \nPasal 15 ayat (1); \nk. \ndokumentasi hasil identifikasi Risiko Siber pada inventaris \nrisiko (risk register) sebagaimana dimaksud dalam Pasal \n15 ayat (5); \nl. \nkemananan pihak internal dan pihak ketiga yang \ndipastikan dengan memeriksa latar belakang personel \npihak \ninternal dan/atau pihak \nketiga yang \nakan \ndipekerjakan sebagaimana dimaksud dalam Pasal 21 ayat \n(1) huruf a serta mewajibkan penandatanganan perjanjian \natau surat pernyataan kerahasiaan data dan/atau \ninformasi sebagaimana dimaksud dalam Pasal 21 ayat (1) \nhuruf c; \nm. \nmanajemen akses logis dan fisik terhadap sistem aplikasi \ndan \ninfrastruktur teknologi \ninformasi sebagaimana \ndimaksud dalam Pasal 22 huruf a dan pelindungan yang \nmemadai terhadap KKS dalam perjanjian kerja sama \nantara Penyelenggara dengan pihak ketiga sebagaimana \ndimaksud dalam Pasal 22 huruf d; \nn. \nimplementasi konfigurasi pengamanan berupa metode \notentikasi dan otorisasi sesuai profil \nRisiko Siber \nsebagaimana dimaksud dalam Pasal 23 huruf e; \no. \npengamanan dan pengendalian data dan/atau informasi \ndengan memastikan kepatuhan pelindungan data pribadi \nsesuai dengan ketentuan peraturan perundang-undangan \nsebagaimana dimaksud dalam Pasal 24 ayat (1) huruf b; \np. \npemantauan akses fisik dan logis dengan menerapkan \nsistem deteksi paling sedikit pada area dan/atau objek \nkritikal atau vital sebagaimana dimaksud dalam Pasal 27 \n\n\n \nhuruf b dan memastikan setiap perubahan terhadap akses \nlogis \ndan \nfisik \nserta konfigurasi dikelola \nmelalui \nmanajemen perubahan sebagaimana dimaksud dalam \nPasal 27 huruf d; \nq. \nPemindaian Kerentanan Siber terhadap sistem aplikasi, \ninfrastruktur teknologi informasi, dan data Penyelenggara \nsebagaimana dimaksud dalam Pasal 29 ayat (1); \nr. \npembaruan sistem pemantauan segera setelah versi \nperangkat \nlunak \nterkini \ndirilis \ndan \ntelah \nteruji \nsebagaimana dimaksud dalam Pasal 39 ayat (2); \ns. \npenyusunan rencana respons Insiden Siber paling sedikit \nmencakup daftar personel pihak internal atau pihak ketiga \nberikut peran, tanggung jawab, dan kontak yang dapat \ndihubungi dalam penanganan Insiden Siber sebagaimana \ndimaksud dalam Pasal 41 ayat (4) huruf b; \nt. \npenanganan Insiden Siber dilaksanakan berdasarkan \nrencana penanganan dan pemulihan Insiden Siber \nsebagaimana dimaksud dalam Pasal 45 ayat (1); \nu. \npenanganan insiden siber dilaksanakan paling sedikit \ndengan menyampaikan notifikasi awal Insiden Siber dan \nlaporan Insiden Siber sebagaimana dimaksud dalam Pasal \n45 ayat (2) huruf b; \nv. \nmitigasi Insiden Siber dan pembatasan dampak dengan \nmemastikan sumber Insiden Siber telah dihilangkan \nsebagaimana dimaksud dalam Pasal 45 ayat (6) huruf a; \nw. \nperbaikan berkelanjutan dengan melakukan evaluasi \nefektivitas dan perbaikan rencana penanganan dan \npemulihan Insiden Siber sebagaimana dimaksud dalam \nPasal 49 ayat (1) huruf a; \nx. \npenyampaian data dan informasi sebagaimana dimaksud \ndalam Pasal 52 sampai dengan Pasal 55; \ny. \ntata cara pengenaan sanksi sebagaimana dimaksud dalam \nPasal 56; dan \nz. \nkolaborasi sebagaimana dimaksud dalam Pasal 57 sampai \ndengan Pasal 62. \n \nBAB X \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(3)",
+          "teks": "; \nc. \npenerapan dan komunikasi kebijakan, standar, dan \nprosedur KKS kepada seluruh pihak internal dan/atau \npihak ketiga terkait sebagaimana dimaksud dalam Pasal 7 \nayat (5); \nd. \npenerapan manajemen KKS sebagaimana dimaksud dalam \nPasal 9 ayat (1); \ne. \npengukuran \ntingkat kematangan KKS sebagaimana \ndimaksud dalam Pasal 10 ayat (2); \nf. \npelaksanaan audit KKS secara berkala sebagaimana \ndimaksud dalam Pasal 12 ayat (1); \ng. \npelaksanaan program peningkatan budaya KKS kesadaran \n(awareness) sebagaimana dimaksud dalam Pasal 13 ayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf a; \nh. \npemberian program peningkatan budaya KKS kepada \npihak internal sebagaimana dimaksud dalam Pasal 13 ayat"
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "huruf a; \ni. \npelaksanan penginian profil Risiko Siber sebagaimana \ndimaksud dalam Pasal 14 ayat (3); \nj. \nidentifikasi Risiko Siber sebagaimana dimaksud dalam \nPasal 15 ayat (1); \nk. \ndokumentasi hasil identifikasi Risiko Siber pada inventaris \nrisiko (risk register) sebagaimana dimaksud dalam Pasal \n15 ayat (5); \nl. \nkemananan pihak internal dan pihak ketiga yang \ndipastikan dengan memeriksa latar belakang personel \npihak \ninternal dan/atau pihak \nketiga yang \nakan \ndipekerjakan sebagaimana dimaksud dalam Pasal 21 ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "huruf a serta mewajibkan penandatanganan perjanjian \natau surat pernyataan kerahasiaan data dan/atau \ninformasi sebagaimana dimaksud dalam Pasal 21 ayat (1) \nhuruf c; \nm. \nmanajemen akses logis dan fisik terhadap sistem aplikasi \ndan \ninfrastruktur teknologi \ninformasi sebagaimana \ndimaksud dalam Pasal 22 huruf a dan pelindungan yang \nmemadai terhadap KKS dalam perjanjian kerja sama \nantara Penyelenggara dengan pihak ketiga sebagaimana \ndimaksud dalam Pasal 22 huruf d; \nn. \nimplementasi konfigurasi pengamanan berupa metode \notentikasi dan otorisasi sesuai profil \nRisiko Siber \nsebagaimana dimaksud dalam Pasal 23 huruf e; \no. \npengamanan dan pengendalian data dan/atau informasi \ndengan memastikan kepatuhan pelindungan data pribadi \nsesuai dengan ketentuan peraturan perundang-undangan \nsebagaimana dimaksud dalam Pasal 24 ayat (1) huruf b; \np. \npemantauan akses fisik dan logis dengan menerapkan \nsistem deteksi paling sedikit pada area dan/atau objek \nkritikal atau vital sebagaimana dimaksud dalam Pasal 27 \n\n\n \nhuruf b dan memastikan setiap perubahan terhadap akses \nlogis \ndan \nfisik \nserta konfigurasi dikelola \nmelalui \nmanajemen perubahan sebagaimana dimaksud dalam \nPasal 27 huruf d; \nq. \nPemindaian Kerentanan Siber terhadap sistem aplikasi, \ninfrastruktur teknologi informasi, dan data Penyelenggara \nsebagaimana dimaksud dalam Pasal 29 ayat (1); \nr. \npembaruan sistem pemantauan segera setelah versi \nperangkat \nlunak \nterkini \ndirilis \ndan \ntelah \nteruji \nsebagaimana dimaksud dalam Pasal 39 ayat (2); \ns. \npenyusunan rencana respons Insiden Siber paling sedikit \nmencakup daftar personel pihak internal atau pihak ketiga \nberikut peran, tanggung jawab, dan kontak yang dapat \ndihubungi dalam penanganan Insiden Siber sebagaimana \ndimaksud dalam Pasal 41 ayat (4) huruf b; \nt. \npenanganan Insiden Siber dilaksanakan berdasarkan \nrencana penanganan dan pemulihan Insiden Siber \nsebagaimana dimaksud dalam Pasal 45 ayat (1); \nu. \npenanganan insiden siber dilaksanakan paling sedikit \ndengan menyampaikan notifikasi awal Insiden Siber dan \nlaporan Insiden Siber sebagaimana dimaksud dalam Pasal \n45 ayat (2) huruf b; \nv. \nmitigasi Insiden Siber dan pembatasan dampak dengan \nmemastikan sumber Insiden Siber telah dihilangkan \nsebagaimana dimaksud dalam Pasal 45 ayat (6) huruf a; \nw. \nperbaikan berkelanjutan dengan melakukan evaluasi \nefektivitas dan perbaikan rencana penanganan dan \npemulihan Insiden Siber sebagaimana dimaksud dalam \nPasal 49 ayat (1) huruf a; \nx. \npenyampaian data dan informasi sebagaimana dimaksud \ndalam Pasal 52 sampai dengan Pasal 55; \ny. \ntata cara pengenaan sanksi sebagaimana dimaksud dalam \nPasal 56; dan \nz. \nkolaborasi sebagaimana dimaksud dalam Pasal 57 sampai \ndengan Pasal 62. \n \nBAB X \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "65",
+      "bab_nomor": "BAB X",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "Pelaporan tahunan sebagaimana dimaksud dalam Pasal 53 \nayat (4) pertama kali disampaikan kepada Bank Indonesia pada \nJanuari 2026 untuk periode laporan tahun 2025. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nBAB XI \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pelaporan tahunan sebagaimana dimaksud dalam Pasal 53 \nayat (4) pertama kali disampaikan kepada Bank Indonesia pada \nJanuari 2026 untuk periode laporan tahun 2025. \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \n \n \nBAB XI \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "66",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n  \n \nDitetapkan di Jakarta  \npada tanggal 31 Desember 2024          \n \nANGGOTA DEWAN GUBERNUR, \n \n  \n \nTTD \n \n  \n \n \n    JUDA AGUNG \n  \n\n\nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR  \nNOMOR 24 TAHUN 2024 \nTENTANG \nKEAMANAN SISTEM INFORMASI DAN KETAHANAN SIBER BAGI \nPENYELENGGARA SISTEM PEMBAYARAN, PELAKU PASAR UANG DAN PASAR \nVALUTA ASING, SERTA PIHAK LAIN YANG DIATUR  \nDAN DIAWASI BANK INDONESIA  \n \nI. \nUMUM \nUndang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia \nsebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang \nNomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan memperkuat kewenangan Bank Indonesia dalam melakukan \npengaturan dan pengawasan kepada pelaku usaha sektor keuangan dan \npenyelenggaraan inovasi teknologi sektor keuangan khususnya terkait \npenerapan keamanan dan \nkeandalan Sistem Informasi termasuk \nketahanan Siber.  \nPenguatan kewenangan tersebut sejalan dengan upaya Bank \nIndonesia untuk mendukung percepatan pembagunan ekonomi keuangan \ndigital yang berkelanjutan sebagaimana dimuat dalam Blueprint Sistem \nPembayaran Indonesia 2025. Peningkatan digitalisasi pada sektor \nkeuangan tidak hanya membantu pertumbuhan ekonomi keuangan digital \nyang berkelanjutan, namun juga menimbulkan dampak lain berupa \npeningkatan eksposur Risiko Siber. Insiden Siber yang terjadi pada sektor \nkeuangan dapat menimbulkan kerugian keuangan dan mengganggu \nstabilitas Sistem Keuangan.  \nSebagai upaya mitigasi Risiko Siber, Bank Indonesia melakukan \npengaturan dan pengawasan KKS bagi Penyelenggara Sistem Pembayaran, \npelaku Pasar Uang dan Pasar Valuta Asing, serta pihak lain yang diatur dan \ndiawasi oleh Bank Indonesia. Hal ini dilakukan agar Penyelenggara tersebut \ndapat membangun KKS, antara lain dengan melaksanakan kegiatan \nantisipatif, adaptif, dan proaktif terhadap Risiko Siber. Selain itu, \ndiperlukan \nupaya \npenguatan \npengawasan \ndan \nkolaborasi \ndalam \npencegahan serta penanganan Insiden Siber yang berdampak secara \nsistemik maupun nonsistemik bagi Sistem Keuangan.    \nBerdasarkan hal tersebut, Bank Indonesia telah menerbitkan \nPeraturan Bank Indonesia tentang Keamanan Sistem Informasi dan \nKetahanan Siber bagi Penyelenggara Sistem Pembayaran, Pelaku Pasar \nUang dan Pasar Valuta Asing, serta Pihak Lain yang Diatur dan Diawasi \nBank Indonesia.\n\n\n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n  \n \nDitetapkan di Jakarta  \npada tanggal 31 Desember 2024          \n \nANGGOTA DEWAN GUBERNUR, \n \n  \n \nTTD \n \n  \n \n \n    JUDA AGUNG \n  \n\n\nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR  \nNOMOR 24 TAHUN 2024 \nTENTANG \nKEAMANAN SISTEM INFORMASI DAN KETAHANAN SIBER BAGI \nPENYELENGGARA SISTEM PEMBAYARAN, PELAKU PASAR UANG DAN PASAR \nVALUTA ASING, SERTA PIHAK LAIN YANG DIATUR  \nDAN DIAWASI BANK INDONESIA  \n \nI. \nUMUM \nUndang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia \nsebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang \nNomor 4 Tahun 2023 tentang Pengembangan dan Penguatan Sektor \nKeuangan memperkuat kewenangan Bank Indonesia dalam melakukan \npengaturan dan pengawasan kepada pelaku usaha sektor keuangan dan \npenyelenggaraan inovasi teknologi sektor keuangan khususnya terkait \npenerapan keamanan dan \nkeandalan Sistem Informasi termasuk \nketahanan Siber.  \nPenguatan kewenangan tersebut sejalan dengan upaya Bank \nIndonesia untuk mendukung percepatan pembagunan ekonomi keuangan \ndigital yang berkelanjutan sebagaimana dimuat dalam Blueprint Sistem \nPembayaran Indonesia 2025. Peningkatan digitalisasi pada sektor \nkeuangan tidak hanya membantu pertumbuhan ekonomi keuangan digital \nyang berkelanjutan, namun juga menimbulkan dampak lain berupa \npeningkatan eksposur Risiko Siber. Insiden Siber yang terjadi pada sektor \nkeuangan dapat menimbulkan kerugian keuangan dan mengganggu \nstabilitas Sistem Keuangan.  \nSebagai upaya mitigasi Risiko Siber, Bank Indonesia melakukan \npengaturan dan pengawasan KKS bagi Penyelenggara Sistem Pembayaran, \npelaku Pasar Uang dan Pasar Valuta Asing, serta pihak lain yang diatur dan \ndiawasi oleh Bank Indonesia. Hal ini dilakukan agar Penyelenggara tersebut \ndapat membangun KKS, antara lain dengan melaksanakan kegiatan \nantisipatif, adaptif, dan proaktif terhadap Risiko Siber. Selain itu, \ndiperlukan \nupaya \npenguatan \npengawasan \ndan \nkolaborasi \ndalam \npencegahan serta penanganan Insiden Siber yang berdampak secara \nsistemik maupun nonsistemik bagi Sistem Keuangan.    \nBerdasarkan hal tersebut, Bank Indonesia telah menerbitkan \nPeraturan Bank Indonesia tentang Keamanan Sistem Informasi dan \nKetahanan Siber bagi Penyelenggara Sistem Pembayaran, Pelaku Pasar \nUang dan Pasar Valuta Asing, serta Pihak Lain yang Diatur dan Diawasi \nBank Indonesia.\n\n\n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCakupan PJP mengacu pada Peraturan Bank Indonesia mengenai \nSistem Pembayaran dan Peraturan Bank Indonesia mengenai PJP. \n \nHuruf b \nCakupan PIP mengacu pada Peraturan Bank Indonesia mengenai \nSistem Pembayaran dan Peraturan Bank Indonesia mengenai PIP. \n \nHuruf c \nCakupan PUSK PUVA mengacu pada Peraturan Bank Indonesia \nmengenai Pasar Uang dan Pasar Valuta Asing. \n \nHuruf d \nCakupan Lembaga Pendukung Pasar Uang mengacu pada \nPeraturan Bank Indonesia mengenai Pasar Uang dan Pasar Valuta \nAsing. \n \nHuruf e \nCakupan Lembaga Pendukung Pasar Valuta Asing mengacu pada \nPeraturan Bank Indonesia mengenai Pasar Uang dan Pasar Valuta \nAsing. \n \nHuruf f \nCakupan Penyelenggara Kegiatan Usaha Penukaran Valuta Asing \nBukan Bank mengacu pada Peraturan Bank Indonesia mengenai \nkegiatan usaha penukaran valuta asing bukan bank.   \n \nHuruf g \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCakupan PJP mengacu pada Peraturan Bank Indonesia mengenai \nSistem Pembayaran dan Peraturan Bank Indonesia mengenai PJP. \n \nHuruf b \nCakupan PIP mengacu pada Peraturan Bank Indonesia mengenai \nSistem Pembayaran dan Peraturan Bank Indonesia mengenai PIP. \n \nHuruf c \nCakupan PUSK PUVA mengacu pada Peraturan Bank Indonesia \nmengenai Pasar Uang dan Pasar Valuta Asing. \n \nHuruf d \nCakupan Lembaga Pendukung Pasar Uang mengacu pada \nPeraturan Bank Indonesia mengenai Pasar Uang dan Pasar Valuta \nAsing. \n \nHuruf e \nCakupan Lembaga Pendukung Pasar Valuta Asing mengacu pada \nPeraturan Bank Indonesia mengenai Pasar Uang dan Pasar Valuta \nAsing. \n \nHuruf f \nCakupan Penyelenggara Kegiatan Usaha Penukaran Valuta Asing \nBukan Bank mengacu pada Peraturan Bank Indonesia mengenai \nkegiatan usaha penukaran valuta asing bukan bank.   \n \nHuruf g \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nManajemen tertinggi antara lain \ndireksi atau \npimpinan \nmanajemen tertinggi lainnya yang berwenang dan bertanggung \njawab penuh atas pengurusan organisasi. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nManajemen tertinggi antara lain \ndireksi atau \npimpinan \nmanajemen tertinggi lainnya yang berwenang dan bertanggung \njawab penuh atas pengurusan organisasi. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nPihak ketiga antara lain vendor di bidang layanan Sistem \nInformasi, tenaga kerja perjanjian kerja waktu tertentu, tenaga \nkerja alih daya (outsourcing), dan konsultan eksternal. \nAyat (2) \nCukup jelas. \n\n\n \nAyat (3) \nLihat penjelasan Pasal 6 ayat (1). \nAyat (4) \nCukup jelas. \nAyat (5) \nYang dimaksud dengan “pihak internal” adalah pihak yang \ndipekerjakan oleh Penyelenggara untuk waktu tidak tertentu. \n \nLihat penjelasan ayat (1). \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nPihak ketiga antara lain vendor di bidang layanan Sistem \nInformasi, tenaga kerja perjanjian kerja waktu tertentu, tenaga \nkerja alih daya (outsourcing), dan konsultan eksternal. \nAyat (2) \nCukup jelas. \n\n\n \nAyat (3) \nLihat penjelasan Pasal 6 ayat (1). \nAyat (4) \nCukup jelas. \nAyat (5) \nYang dimaksud dengan “pihak internal” adalah pihak yang \ndipekerjakan oleh Penyelenggara untuk waktu tidak tertentu. \n \nLihat penjelasan ayat (1). \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “otoritas lain” adalah otoritas di sektor \nkeuangan dan lembaga nasional yang bergerak di bidang KKS \nantara lain OJK dan BSSN.  \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nYang dimaksud dengan “otoritas lain” adalah otoritas di sektor \nkeuangan dan lembaga nasional yang bergerak di bidang KKS \nantara lain OJK dan BSSN.  \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nProgram peningkatan budaya KKS berupa kesadaran \n(awareness): \n1. \nbertujuan untuk memberikan pemahaman kepada \nindividu mengenai hal yang perlu diketahui, antara lain \ninformasi yang \npenting \nuntuk \ndiwaspadai atau \ndipahami; \n2. \ndilakukan \ndengan \nmetode \npengajaran \nyang \nmenggunakan media seperti video, buletin, poster, atau \nmateri singkat lainnya; dan \n3. \ndisampaikan kepada pihak internal, pihak ketiga, \ndan/atau konsumen. \nHuruf b \n \nProgram peningkatan budaya KKS berupa pelatihan: \n1. \nbertujuan untuk mengajarkan cara melakukan sesuatu, \ndengan fokus pada pengembangan keterampilan; \n\n\n \n2. \ndilakukan dengan metode pengajaran praktis, antara \nlain studi kasus dan praktik langsung; dan \n3. \ndisampaikan kepada pihak internal dan/atau pihak \nketiga.  \nHuruf c \nProgram peningkatan budaya KKS berupa edukasi: \n1. \nbertujuan untuk \nmemberikan pengetahuan \nyang \nmendalam tentang alasan di balik suatu tindakan \nsehingga individu dapat memahami latar belakang atau \ndasar dari suatu konsep; \n2. \ndilakukan dengan metode pengajaran teoritis, antara \nlain seminar dan klasikal; dan \n3. \ndisampaikan kepada pihak internal. \nAyat (3)  \nHuruf a \n \nLihat penjelasan Pasal 7 ayat (5). \nHuruf b \n \nLihat penjelasan Pasal 7 ayat (1). \nHuruf c \n \nCukup jelas. \nAyat (4)  \nCukup jelas. \nAyat (5)  \nCukup jelas. \nAyat (6)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nProgram peningkatan budaya KKS berupa kesadaran \n(awareness): \n1. \nbertujuan untuk memberikan pemahaman kepada \nindividu mengenai hal yang perlu diketahui, antara lain \ninformasi yang \npenting \nuntuk \ndiwaspadai atau \ndipahami; \n2. \ndilakukan \ndengan \nmetode \npengajaran \nyang \nmenggunakan media seperti video, buletin, poster, atau \nmateri singkat lainnya; dan \n3. \ndisampaikan kepada pihak internal, pihak ketiga, \ndan/atau konsumen. \nHuruf b \n \nProgram peningkatan budaya KKS berupa pelatihan: \n1. \nbertujuan untuk mengajarkan cara melakukan sesuatu, \ndengan fokus pada pengembangan keterampilan; \n\n\n \n2. \ndilakukan dengan metode pengajaran praktis, antara \nlain studi kasus dan praktik langsung; dan \n3. \ndisampaikan kepada pihak internal dan/atau pihak \nketiga.  \nHuruf c \nProgram peningkatan budaya KKS berupa edukasi: \n1. \nbertujuan untuk \nmemberikan pengetahuan \nyang \nmendalam tentang alasan di balik suatu tindakan \nsehingga individu dapat memahami latar belakang atau \ndasar dari suatu konsep; \n2. \ndilakukan dengan metode pengajaran teoritis, antara \nlain seminar dan klasikal; dan \n3. \ndisampaikan kepada pihak internal. \nAyat (3)  \nHuruf a \n \nLihat penjelasan Pasal 7 ayat (5). \nHuruf b \n \nLihat penjelasan Pasal 7 ayat (1). \nHuruf c \n \nCukup jelas. \nAyat (4)  \nCukup jelas. \nAyat (5)  \nCukup jelas. \nAyat (6)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \n \nCukup jelas. \nAyat (2)  \n \nHuruf a \n \n \nCukup jelas. \nHuruf b \n  \nYang dimaksud dengan “maximum tolerable period of \ndisruption” adalah jangka waktu maksimal dimana dampak \nterhentinya tugas kritikal dapat diterima Penyelenggara. \nHuruf c \n \n \nCukup jelas. \nAyat (3)  \n \nHuruf a \nSasaran \nwaktu \npemulihan \n(recovery \ntime \nobjective) \nmerupakan \njangka \nwaktu \nyang \ndiperlukan \nuntuk  \nmemulihkan \nsistem \naplikasi, \ninfrastruktur \nteknologi \ninformasi, dan/atau layanan kritikal yang dapat diterima \nPenyelenggara setelah terjadi Insiden Siber. \n\n\n \nSasaran titik pemulihan (recovery point objective) merupakan \nwaktu maksimal kehilangan data yang bisa ditoleransi \nsetelah terjadi Insiden Siber. \nHuruf b \n \n \nCukup jelas. \nAyat (4)  \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \n \nCukup jelas. \nAyat (2)  \n \nHuruf a \n \n \nCukup jelas. \nHuruf b \n  \nYang dimaksud dengan “maximum tolerable period of \ndisruption” adalah jangka waktu maksimal dimana dampak \nterhentinya tugas kritikal dapat diterima Penyelenggara. \nHuruf c \n \n \nCukup jelas. \nAyat (3)  \n \nHuruf a \nSasaran \nwaktu \npemulihan \n(recovery \ntime \nobjective) \nmerupakan \njangka \nwaktu \nyang \ndiperlukan \nuntuk  \nmemulihkan \nsistem \naplikasi, \ninfrastruktur \nteknologi \ninformasi, dan/atau layanan kritikal yang dapat diterima \nPenyelenggara setelah terjadi Insiden Siber. \n\n\n \nSasaran titik pemulihan (recovery point objective) merupakan \nwaktu maksimal kehilangan data yang bisa ditoleransi \nsetelah terjadi Insiden Siber. \nHuruf b \n \n \nCukup jelas. \nAyat (4)  \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nPihak ketiga lihat penjelasan Pasal 7 ayat (1). \n \n \nPihak internal lihat penjelasan Pasal 7 ayat (5). \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nPihak ketiga lihat penjelasan Pasal 7 ayat (1). \n \n \nPihak internal lihat penjelasan Pasal 7 ayat (5). \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nAkses logis (logical access) antara lain nama akun (username) dan \nkata sandi (password), token otentikasi, dan jaringan komunikasi \ndata. \nAkses fisik (physical access) antara lain kunci dan kartu akses, \nbiometrik, dan kamera keamanan. \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \n \n \nCukup jelas. \n \nHuruf e  \n \nYang dimaksud dengan “dokumentasi” adalah dokumentasi \nterhadap tujuan, proses \npengembangan, dan \ndata \nyang \ndigunakan dalam model kecerdasan artifisial.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nAkses logis (logical access) antara lain nama akun (username) dan \nkata sandi (password), token otentikasi, dan jaringan komunikasi \ndata. \nAkses fisik (physical access) antara lain kunci dan kartu akses, \nbiometrik, dan kamera keamanan. \n \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \n \n \nCukup jelas. \n \nHuruf e  \n \nYang dimaksud dengan “dokumentasi” adalah dokumentasi \nterhadap tujuan, proses \npengembangan, dan \ndata \nyang \ndigunakan dalam model kecerdasan artifisial."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nSecure coding pada pengembangan sistem aplikasi bertujuan \nuntuk antara lain mengurangi risiko terungkapnya kerahasiaan \ninformasi dan potensi risiko dampak lainnya. \nHuruf d \nCukup jelas. \nHuruf e \n\n\n \nMetode otentikasi berupa otentikasi satu faktor, otentikasi dua \nfaktor, otentikasi multifaktor. \nContoh otentikasi satu faktor yaitu kata sandi (password). \nContoh otentikasi dua faktor yaitu kata sandi (password) dan \ntoken. \nContoh otentikasi multifaktor yaitu kata sandi (password), token, \ndan biometrik. \nHuruf f \nPertahanan terhadap \nadversarial \nattack \nbertujuan \nuntuk \nmelindungi model kecerdasan artifisial dari manipulasi input \nyang dapat mengganggu prediksi atau fungsi model kecerdasan \nartifisial, yang berdampak terhadap keandalan dan integritas \ninformasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nSecure coding pada pengembangan sistem aplikasi bertujuan \nuntuk antara lain mengurangi risiko terungkapnya kerahasiaan \ninformasi dan potensi risiko dampak lainnya. \nHuruf d \nCukup jelas. \nHuruf e \n\n\n \nMetode otentikasi berupa otentikasi satu faktor, otentikasi dua \nfaktor, otentikasi multifaktor. \nContoh otentikasi satu faktor yaitu kata sandi (password). \nContoh otentikasi dua faktor yaitu kata sandi (password) dan \ntoken. \nContoh otentikasi multifaktor yaitu kata sandi (password), token, \ndan biometrik. \nHuruf f \nPertahanan terhadap \nadversarial \nattack \nbertujuan \nuntuk \nmelindungi model kecerdasan artifisial dari manipulasi input \nyang dapat mengganggu prediksi atau fungsi model kecerdasan \nartifisial, yang berdampak terhadap keandalan dan integritas \ninformasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nHuruf a \nCukup jelas. \nHuruf b \nPengamanan data dan/atau informasi pada saat disimpan \ntermasuk melakukan backup.  \nHuruf c  \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nCukup jelas. \nAyat (2)  \nHuruf a \nCukup jelas. \nHuruf b \nPengamanan data dan/atau informasi pada saat disimpan \ntermasuk melakukan backup.  \nHuruf c  \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nHuruf a \nCukup jelas. \nHuruf b \n \n \n \nCukup jelas. \n \nHuruf c \nCukup jelas. \nHuruf d \nKode jahat (malicious code) merupakan perangkat lunak \ntermasuk program komputer atau script yang dibuat dan \ndikirim dengan tujuan untuk merusak sistem aplikasi \ndan/atau infrastruktur teknologi informasi. \nKode jahat (malicious code) antara lain kode untuk mencuri \ndata, \nmerusak \nfile, \nmenonaktifkan \nsistem, \natau \nmenyebarkan malware. \nKode tidak sah (unauthorized code) merupakan perangkat \nlunak termasuk program komputer atau script yang diinstal \npada sistem aplikasi dan/atau infrastruktur teknologi \ninformasi tanpa izin atau otorisasi dari Penyelenggara. \nHuruf e \n \nCukup jelas. \nAyat (2)  \nDeteksi \nyang \ndilaksanakan \nsecara terpusat \nantara lain \nmenggunakan mekanisme security operation center. \n\n\n \nMekanisme security operation center antara lain meliputi kegiatan \nred-teaming, blue-teaming, dan threat hunting. \nAyat (3)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nHuruf a \nCukup jelas. \nHuruf b \n \n \n \nCukup jelas. \n \nHuruf c \nCukup jelas. \nHuruf d \nKode jahat (malicious code) merupakan perangkat lunak \ntermasuk program komputer atau script yang dibuat dan \ndikirim dengan tujuan untuk merusak sistem aplikasi \ndan/atau infrastruktur teknologi informasi. \nKode jahat (malicious code) antara lain kode untuk mencuri \ndata, \nmerusak \nfile, \nmenonaktifkan \nsistem, \natau \nmenyebarkan malware. \nKode tidak sah (unauthorized code) merupakan perangkat \nlunak termasuk program komputer atau script yang diinstal \npada sistem aplikasi dan/atau infrastruktur teknologi \ninformasi tanpa izin atau otorisasi dari Penyelenggara. \nHuruf e \n \nCukup jelas. \nAyat (2)  \nDeteksi \nyang \ndilaksanakan \nsecara terpusat \nantara lain \nmenggunakan mekanisme security operation center. \n\n\n \nMekanisme security operation center antara lain meliputi kegiatan \nred-teaming, blue-teaming, dan threat hunting. \nAyat (3)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nLihat penjelasan Pasal 22 huruf a. \nHuruf b  \nCukup jelas. \nHuruf c \nPemindaian Kerentanan Siber antara lain: \na. \nuji penetrasi (penetration test) yang merupakan pengujian \ndengan menggunakan sistem Penyelenggara dan bertujuan \nuntuk menerobos sistem pengamanan yang ada, sesuai \ndengan batasan yang telah ditentukan sebelumnya; dan \nb. \nasesmen \nkerentanan \n(vulnerability \nassessment) \nyang \nmerupakan asesmen untuk mendapatkan Kerentanan Siber \npada sistem  Penyelenggara.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nLihat penjelasan Pasal 22 huruf a. \nHuruf b  \nCukup jelas. \nHuruf c \nPemindaian Kerentanan Siber antara lain: \na. \nuji penetrasi (penetration test) yang merupakan pengujian \ndengan menggunakan sistem Penyelenggara dan bertujuan \nuntuk menerobos sistem pengamanan yang ada, sesuai \ndengan batasan yang telah ditentukan sebelumnya; dan \nb. \nasesmen \nkerentanan \n(vulnerability \nassessment) \nyang \nmerupakan asesmen untuk mendapatkan Kerentanan Siber \npada sistem  Penyelenggara."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Lihat penjelasan Pasal 22 huruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Lihat penjelasan Pasal 22 huruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nAsal Serangan Siber antara lain dari internal dan/atau \neksternal Penyelenggara.  \nProfil threat actor antara lain berupa individu, kelompok, \ndan/atau, negara. \nHuruf b \n Cukup jelas. \nHuruf c \n Cukup jelas. \nHuruf d \n Cukup jelas. \nAyat (2) \nCukup jelas. \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nAsal Serangan Siber antara lain dari internal dan/atau \neksternal Penyelenggara.  \nProfil threat actor antara lain berupa individu, kelompok, \ndan/atau, negara. \nHuruf b \n Cukup jelas. \nHuruf c \n Cukup jelas. \nHuruf d \n Cukup jelas. \nAyat (2) \nCukup jelas. \n\n\n \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Lihat penjelasan Pasal 25 ayat (1) huruf d.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Lihat penjelasan Pasal 25 ayat (1) huruf d."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \n \nCukup jelas. \nHuruf b \n \nCukup jelas. \nHuruf c \n \nCukup jelas. \nHuruf d \n \nLihat penjelasan Pasal 17 ayat (3) huruf a. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nAnalisis post-mortem antara lain proses evaluasi yang \ndilakukan setelah terjadinya Insiden Siber untuk memahami \npenyebab Insiden Siber, mengidentifikasi Kerentanan Siber, \ndan \nmenentukan \nlangkah-langkah \nperbaikan \nguna \nmencegah Insiden Siber terulang di masa depan. \nHuruf b \n \n \n \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \n \nCukup jelas. \nHuruf b \n \nCukup jelas. \nHuruf c \n \nCukup jelas. \nHuruf d \n \nLihat penjelasan Pasal 17 ayat (3) huruf a. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nHuruf a \nAnalisis post-mortem antara lain proses evaluasi yang \ndilakukan setelah terjadinya Insiden Siber untuk memahami \npenyebab Insiden Siber, mengidentifikasi Kerentanan Siber, \ndan \nmenentukan \nlangkah-langkah \nperbaikan \nguna \nmencegah Insiden Siber terulang di masa depan. \nHuruf b \n \n \n \nCukup jelas. \nHuruf c \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \n \nAyat (2) \nLampiran bukti pendukung antara lain laporan audit KKS secara \nberkala dan laporan uji penetrasi (penetration test). \n \nAyat (3) \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \nCukup jelas. \n \n \nAyat (6) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \n \nAyat (2) \nLampiran bukti pendukung antara lain laporan audit KKS secara \nberkala dan laporan uji penetrasi (penetration test). \n \nAyat (3) \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \nCukup jelas. \n \n \nAyat (6) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nYang dimaksud dengan “ukuran” adalah tingkat eksposur \nPenyelenggara yang diukur berdasarkan frekuensi, volume \ntransaksi, dan jumlah pengguna Sistem Informasi. \nHuruf b \nYang \ndimaksud \ndengan \n“keterhubungan” \nadalah \nketerhubungan antar-Sistem Informasi yang dipergunakan \ndalam pelaksanaan kegiatan usaha Penyelenggara di Sistem \nKeuangan dan perekonomian nasional. \n\n\n \nHuruf c \nYang dimaksud dengan ”ketergantian” adalah ketersediaan \nSistem Informasi alternatif yang dapat dipergunakan untuk \nbertransaksi. \nHuruf d \nYang dimaksud dengan ”kompleksitas” adalah variasi dan \nketergantungan komponen Sistem Informasi.  \n \n \n \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nYang dimaksud dengan “ukuran” adalah tingkat eksposur \nPenyelenggara yang diukur berdasarkan frekuensi, volume \ntransaksi, dan jumlah pengguna Sistem Informasi. \nHuruf b \nYang \ndimaksud \ndengan \n“keterhubungan” \nadalah \nketerhubungan antar-Sistem Informasi yang dipergunakan \ndalam pelaksanaan kegiatan usaha Penyelenggara di Sistem \nKeuangan dan perekonomian nasional. \n\n\n \nHuruf c \nYang dimaksud dengan ”ketergantian” adalah ketersediaan \nSistem Informasi alternatif yang dapat dipergunakan untuk \nbertransaksi. \nHuruf d \nYang dimaksud dengan ”kompleksitas” adalah variasi dan \nketergantungan komponen Sistem Informasi.  \n \n \n \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "57",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nSarana berbagi antara lain surat elektronik, aplikasi, laman, \ndan/atau sarana lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nSarana berbagi antara lain surat elektronik, aplikasi, laman, \ndan/atau sarana lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "58",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "61",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "62",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1)  \nLayanan digitalisasi yang terhubung secara langsung antara lain \napplication programming interface dan host-to-host. \n \nAyat (2) \n \n \nCukup jelas. \n Ayat (3)  \n \n \nHuruf a   \n \n \nYang dimaksud dengan “end user device” adalah perangkat \nteknologi yang digunakan langsung oleh pengguna akhir (end \nuser) untuk mengakses, mengelola, atau berinteraksi dengan \ndata, aplikasi, atau layanan dalam suatu sistem.  \n \n \nEnd user device antara lain notebook, PC desktop, media \ntablet, dan smartphone. \n \n \nHuruf b \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1)  \nLayanan digitalisasi yang terhubung secara langsung antara lain \napplication programming interface dan host-to-host. \n \nAyat (2) \n \n \nCukup jelas. \n Ayat (3)  \n \n \nHuruf a   \n \n \nYang dimaksud dengan “end user device” adalah perangkat \nteknologi yang digunakan langsung oleh pengguna akhir (end \nuser) untuk mengakses, mengelola, atau berinteraksi dengan \ndata, aplikasi, atau layanan dalam suatu sistem.  \n \n \nEnd user device antara lain notebook, PC desktop, media \ntablet, dan smartphone. \n \n \nHuruf b \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "64",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "65",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "66",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 132,
+  "total_ayat": 276,
+  "total_karakter": 73294,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

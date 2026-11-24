@@ -1,0 +1,180 @@
+{
+  "doc_id": "BI_PADG_2025_628_628",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "628",
+  "tahun": "2025",
+  "judul": "PERUBAHAN ATAS PERATURAN ANGGOTA DEWAN GUBERNUR NOMOR 17 TAHUN 2023 TENTANG PENYELENGGARAAN BANK INDONESIA-FAST PAYMENT",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "23 Januari 2025",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [
+    "Peraturan Anggota Dewan Gubernur Nomor 17 Tahun 2023 tentang"
+  ],
+  "bab_list": [],
+  "pasal_list": [
+    {
+      "pasal_nomor": "112",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nInfrastruktur BI-FAST pada Penyelenggara dilengkapi \ndengan fitur proactive risk manager untuk mendeteksi \nanomali transaksi keuangan dan memitigasi risiko \ntransaksi keuangan mencurigakan. \n(2) \nPengelolaan fitur proactive risk manager sebagaimana \ndimaksud \npada \nayat \n(1) \nditetapkan \noleh \nPenyelenggara. \n(3) \nDalam hal  terdapat indikasi anomali transaksi \nkeuangan \ndan/atau \ntransaksi \nkeuangan \nmencurigakan berdasarkan \nfitur proactive \nrisk \nmanager sebagaimana dimaksud pada ayat (1) dan \nayat (2), Penyelenggara dapat: \na. \nmenyampaikan informasi (alert) kepada Peserta; \natau \nb. \nmelakukan penolakan penerusan CTR dan \nmenyampaikan informasi penolakan penerusan \nCTR dimaksud kepada Peserta pengirim. \n(4) \nKetentuan mengenai penolakan penerusan CTR \nsebagaimana dimaksud pada ayat (3) huruf b menjadi \nmuatan dalam perjanjian sebagaimana dimaksud \ndalam Pasal 17 ayat (1) huruf c. \n(5) \nPeserta \nwajib \nmenyampaikan \nlaporan \nhasil \npenerapan fitur proactive risk manager sebagaimana \ndimaksud pada ayat (3) kepada Penyelenggara ketika \ninformasi (alert) atau penolakan penerusan CTR \nmerupakan transaksi fraud dan bukan merupakan \nfalse positive. \n(6) \nFormat laporan hasil penerapan fitur proactive risk \nmanager sebagaimana dimaksud pada ayat (5) \nbeserta perubahannya dipublikasikan melalui laman \nBank Indonesia atau media lain yang ditetapkan \nBank Indonesia. \n \n3. \nDi antara Pasal 112 dan Pasal 113 disisipkan 3 (tiga) pasal \nyakni Pasal 112A, Pasal 112B, dan Pasal 112C sehingga \nberbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Infrastruktur BI-FAST pada Penyelenggara dilengkapi \ndengan fitur proactive risk manager untuk mendeteksi \nanomali transaksi keuangan dan memitigasi risiko \ntransaksi keuangan mencurigakan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengelolaan fitur proactive risk manager sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "ditetapkan \noleh \nPenyelenggara."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal  terdapat indikasi anomali transaksi \nkeuangan \ndan/atau \ntransaksi \nkeuangan \nmencurigakan berdasarkan \nfitur proactive \nrisk \nmanager sebagaimana dimaksud pada ayat (1) dan \nayat (2), Penyelenggara dapat: \na. \nmenyampaikan informasi (alert) kepada Peserta; \natau \nb. \nmelakukan penolakan penerusan CTR dan \nmenyampaikan informasi penolakan penerusan \nCTR dimaksud kepada Peserta pengirim."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Ketentuan mengenai penolakan penerusan CTR \nsebagaimana dimaksud pada ayat (3) huruf b menjadi \nmuatan dalam perjanjian sebagaimana dimaksud \ndalam Pasal 17 ayat (1) huruf c."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Peserta \nwajib \nmenyampaikan \nlaporan \nhasil \npenerapan fitur proactive risk manager sebagaimana \ndimaksud pada ayat (3) kepada Penyelenggara ketika \ninformasi (alert) atau penolakan penerusan CTR \nmerupakan transaksi fraud dan bukan merupakan \nfalse positive."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Format laporan hasil penerapan fitur proactive risk \nmanager sebagaimana dimaksud pada ayat (5) \nbeserta perubahannya dipublikasikan melalui laman \nBank Indonesia atau media lain yang ditetapkan \nBank Indonesia. \n \n3. \nDi antara Pasal 112 dan Pasal 113 disisipkan 3 (tiga) pasal \nyakni Pasal 112A, Pasal 112B, dan Pasal 112C sehingga \nberbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta melakukan tindak lanjut atas informasi (alert) \nyang \ndisampaikan \nPenyelenggara \nsebagaimana \ndimaksud dalam Pasal 112 ayat (3) huruf a sesuai \n\n\n \ndengan ketentuan peraturan perundang-undangan, \npedoman \noperasional \nBI-FAST, \nkebijakan \ndan \nprosedur tertulis Peserta, serta ketentuan yang \ndikeluarkan oleh SRO. \n(2) \nTindak lanjut yang dilakukan Peserta sebagaimana \ndimaksud pada ayat (1) dapat berupa penundaan \ntransaksi selanjutnya oleh Peserta pengirim atau \npenundaan penerusan dana oleh Peserta penerima \nkepada nasabah.  \n(3) \nPenundaan penerusan dana sebagaimana dimaksud \npada ayat (2) dilanjutkan dengan konfirmasi yang \ndilakukan oleh Peserta penerima kepada Peserta \npengirim \nterkait \nkeabsahan \ntransaksi \nserta \nmelakukan \ncustomer \ndue \ndiligence \ndan/atau \nenhanced due diligence. \n(4) \nTindak lanjut yang dilakukan Peserta sebagaimana \ndimaksud pada ayat (2) dan ayat (3) merupakan \nbagian dari pengelolaan fraud (fraud management \nsystem).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta melakukan tindak lanjut atas informasi (alert) \nyang \ndisampaikan \nPenyelenggara \nsebagaimana \ndimaksud dalam Pasal 112 ayat (3) huruf a sesuai \n\n\n \ndengan ketentuan peraturan perundang-undangan, \npedoman \noperasional \nBI-FAST, \nkebijakan \ndan \nprosedur tertulis Peserta, serta ketentuan yang \ndikeluarkan oleh SRO."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tindak lanjut yang dilakukan Peserta sebagaimana \ndimaksud pada ayat (1) dapat berupa penundaan \ntransaksi selanjutnya oleh Peserta pengirim atau \npenundaan penerusan dana oleh Peserta penerima \nkepada nasabah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penundaan penerusan dana sebagaimana dimaksud \npada ayat (2) dilanjutkan dengan konfirmasi yang \ndilakukan oleh Peserta penerima kepada Peserta \npengirim \nterkait \nkeabsahan \ntransaksi \nserta \nmelakukan \ncustomer \ndue \ndiligence \ndan/atau \nenhanced due diligence."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Tindak lanjut yang dilakukan Peserta sebagaimana \ndimaksud pada ayat (2) dan ayat (3) merupakan \nbagian dari pengelolaan fraud (fraud management \nsystem)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPeserta pengirim melakukan tindak lanjut atas \npenolakan penerusan CTR yang dilakukan oleh \nPenyelenggara sebagaimana dimaksud dalam Pasal \n112 ayat (3) huruf b sesuai dengan ketentuan \nperaturan \nperundang-undangan, \npedoman \noperasional BI-FAST, kebijakan dan prosedur tertulis \nPeserta, serta ketentuan yang dikeluarkan oleh SRO. \n(2) \nTindak lanjut yang dilakukan Peserta sebagaimana \ndimaksud pada ayat (1) dapat berupa investigasi dan \nkonfirmasi keabsahan transaksi sesuai dengan \nkebijakan serta prosedur tertulis Peserta. \n(3) \nDalam \nhal \nberdasarkan hasil investigasi dan \nkonfirmasi sebagaimana dimaksud pada ayat (2) \nmenunjukkan keabsahan dan kebenaran transaksi, \nPeserta \ndan/atau \nnasabah \nPeserta \ndapat \nmengirimkan kembali transaksi dimaksud kepada \nPenyelenggara sesuai mekanisme yang ditetapkan \noleh Penyelenggara. \n(4) \nDalam \nhal \nberdasarkan hasil investigasi dan \nkonfirmasi sebagaimana dimaksud pada ayat (2) \nmenunjukkan indikasi adanya anomali transaksi \nkeuangan \ndan/atau \ntransaksi \nkeuangan \nmencurigakan, Peserta dapat melakukan tindak \nlanjut \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan, \npedoman \noperasional \nBI-\nFAST, kebijakan dan prosedur tertulis Peserta, serta \nketentuan yang dikeluarkan oleh SRO.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Peserta pengirim melakukan tindak lanjut atas \npenolakan penerusan CTR yang dilakukan oleh \nPenyelenggara sebagaimana dimaksud dalam Pasal \n112 ayat (3) huruf b sesuai dengan ketentuan \nperaturan \nperundang-undangan, \npedoman \noperasional BI-FAST, kebijakan dan prosedur tertulis \nPeserta, serta ketentuan yang dikeluarkan oleh SRO."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Tindak lanjut yang dilakukan Peserta sebagaimana \ndimaksud pada ayat (1) dapat berupa investigasi dan \nkonfirmasi keabsahan transaksi sesuai dengan \nkebijakan serta prosedur tertulis Peserta."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nhal \nberdasarkan hasil investigasi dan \nkonfirmasi sebagaimana dimaksud pada ayat (2) \nmenunjukkan keabsahan dan kebenaran transaksi, \nPeserta \ndan/atau \nnasabah \nPeserta \ndapat \nmengirimkan kembali transaksi dimaksud kepada \nPenyelenggara sesuai mekanisme yang ditetapkan \noleh Penyelenggara."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam \nhal \nberdasarkan hasil investigasi dan \nkonfirmasi sebagaimana dimaksud pada ayat (2) \nmenunjukkan indikasi adanya anomali transaksi \nkeuangan \ndan/atau \ntransaksi \nkeuangan \nmencurigakan, Peserta dapat melakukan tindak \nlanjut \nsesuai \ndengan \nketentuan \nperaturan \nperundang-undangan, \npedoman \noperasional \nBI-\nFAST, kebijakan dan prosedur tertulis Peserta, serta \nketentuan yang dikeluarkan oleh SRO."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) Sebagai bentuk \ntanggung \njawab \nPeserta atas \nkebenaran seluruh data, perintah transaksi, dan \nseluruh informasi yang dikirim Peserta kepada \nPenyelenggara \nmelalui \nBI-FAST \nsebagaimana \ndimaksud dalam Pasal 17 ayat (1) huruf b, Peserta \npengirim maupun Peserta penerima wajib memiliki \n\n\n \npengelolaan fraud (fraud management system) paling \nsedikit berupa teknologi sistem deteksi fraud (fraud \ndetection system) pada level akun dan transaksi \nsebagai bentuk first line of defense. \n(2) Dalam pengelolaan fraud (fraud management system) \nsebagaimana dimaksud pada ayat (1), Peserta dapat:  \na. \nmembatasi jumlah transaksi dan/atau nilai \nnominal transaksi yang dapat ditransaksikan \noleh nasabah pada suatu waktu tertentu; \nb. \nmelakukan penundaan transaksi sebagaimana \ndimaksud \ndalam \nketentuan \nperaturan \nperundang-undangan \ndalam \nhal \nterdapat \nindikasi adanya anomali transaksi keuangan \ndan/atau transaksi keuangan mencurigakan \nberdasarkan hasil sistem deteksi fraud (fraud \ndetection system) Peserta dan/atau  adanya \ninformasi dari pihak eksternal atau internal; \ndan/atau \nc. \nmenerapkan metode pengelolaan fraud (fraud \nmanagement system) atau fitur sistem deteksi \nfraud (fraud detection system) lainnya. \n(3) Peserta \nyang \ntidak \nmemenuhi \nkewajiban \nsebagaimana dimaksud pada ayat (1) dikenai sanksi \nadministratif berupa teguran tertulis. \n(4) Dalam hal Peserta tidak menindaklanjuti teguran \ntertulis sebagaimana dimaksud pada ayat (3) paling \nlambat 30 (tiga puluh) hari kerja sejak teguran \ntertulis diterima, Peserta dapat dikenai sanksi \nadministratif berupa penurunan status kepesertaan. \n \nPasal II  \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan.  \n  \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia.  \n  \n  \nDitetapkan di Jakarta  \npada tanggal 23 Januari 2025           \n  \nANGGOTA DEWAN GUBERNUR,  \n  \n  \n \n        TTD \n  \n     FILIANINGSIH HENDARTA \n \n \n\n\n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 1 TAHUN 2025 \nTENTANG  \nPERUBAHAN ATAS PERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 17 TAHUN 2023 TENTANG PENYELENGGARAAN BANK INDONESIA-\nFAST PAYMENT \n \nI. \nUMUM \nGuna mewujudkan tujuan Bank Indonesia untuk memelihara \nstabilitas sistem pembayaran, Bank Indonesia telah mengembangkan BI-\nFAST sebagai infrastruktur sistem pembayaran ritel nasional untuk \nmendukung tercapainya sistem pembayaran yang cepat, murah, mudah, \naman, dan andal. Dalam upaya untuk meningkatkan manajemen risiko \ndalam penyelenggaraan BI-FAST di Penyelenggara dan di Peserta, Bank \nIndonesia melakukan pengembangan fitur keamanan yaitu proactive risk \nmanager. Dengan adanya fitur proactive risk manager, Bank Indonesia \ndapat menyampaikan informasi (alert) kepada Peserta atau melakukan \npenolakan penerusan CTR dan menyampaikan informasi penolakan \npenerusan CTR dimaksud dalam hal terdapat indikasi anomali transaksi \nkeuangan dan/atau transaksi keuangan mencurigakan. \nPeserta melakukan tindak lanjut atas informasi atau penolakan \npenerusan CTR sesuai dengan ketentuan peraturan perundang-undangan, \npedoman operasional BI-FAST, kebijakan dan prosedur tertulis Peserta, \nserta ketentuan yang dikeluarkan oleh SRO. Selain itu, Peserta juga \ndiwajibkan untuk memiliki pengelolaan fraud (fraud management system) \nsebagai bentuk first line of defense sebagai upaya meningkatkan \npengamanan transaksi dan mitigasi risiko fraud dalam transaksi BI-FAST.  \nBerdasarkan hal tersebut di atas, perlu dilakukan perubahan atas \nPeraturan Anggota Dewan Gubernur Nomor 17 Tahun 2023 tentang \nPenyelenggaraan Bank Indonesia-Fast Payment. \n \nII.    PASAL DEMI PASAL  \n \nPasal I \nAngka 1 \n \nCukup jelas. \n \nAngka 2",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sebagai bentuk \ntanggung \njawab \nPeserta atas \nkebenaran seluruh data, perintah transaksi, dan \nseluruh informasi yang dikirim Peserta kepada \nPenyelenggara \nmelalui \nBI-FAST \nsebagaimana \ndimaksud dalam Pasal 17 ayat (1) huruf b, Peserta \npengirim maupun Peserta penerima wajib memiliki \n\n\n \npengelolaan fraud (fraud management system) paling \nsedikit berupa teknologi sistem deteksi fraud (fraud \ndetection system) pada level akun dan transaksi \nsebagai bentuk first line of defense."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam pengelolaan fraud (fraud management system) \nsebagaimana dimaksud pada ayat (1), Peserta dapat:  \na. \nmembatasi jumlah transaksi dan/atau nilai \nnominal transaksi yang dapat ditransaksikan \noleh nasabah pada suatu waktu tertentu; \nb. \nmelakukan penundaan transaksi sebagaimana \ndimaksud \ndalam \nketentuan \nperaturan \nperundang-undangan \ndalam \nhal \nterdapat \nindikasi adanya anomali transaksi keuangan \ndan/atau transaksi keuangan mencurigakan \nberdasarkan hasil sistem deteksi fraud (fraud \ndetection system) Peserta dan/atau  adanya \ninformasi dari pihak eksternal atau internal; \ndan/atau \nc. \nmenerapkan metode pengelolaan fraud (fraud \nmanagement system) atau fitur sistem deteksi \nfraud (fraud detection system) lainnya."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Peserta \nyang \ntidak \nmemenuhi \nkewajiban \nsebagaimana dimaksud pada ayat (1) dikenai sanksi \nadministratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Peserta tidak menindaklanjuti teguran \ntertulis sebagaimana dimaksud pada ayat (3) paling \nlambat 30 (tiga puluh) hari kerja sejak teguran \ntertulis diterima, Peserta dapat dikenai sanksi \nadministratif berupa penurunan status kepesertaan. \n \nPasal II  \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan.  \n  \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia.  \n  \n  \nDitetapkan di Jakarta  \npada tanggal 23 Januari 2025           \n  \nANGGOTA DEWAN GUBERNUR,  \n  \n  \n \n        TTD \n  \n     FILIANINGSIH HENDARTA \n \n \n\n\n \nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 1 TAHUN 2025 \nTENTANG  \nPERUBAHAN ATAS PERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 17 TAHUN 2023 TENTANG PENYELENGGARAAN BANK INDONESIA-\nFAST PAYMENT \n \nI. \nUMUM \nGuna mewujudkan tujuan Bank Indonesia untuk memelihara \nstabilitas sistem pembayaran, Bank Indonesia telah mengembangkan BI-\nFAST sebagai infrastruktur sistem pembayaran ritel nasional untuk \nmendukung tercapainya sistem pembayaran yang cepat, murah, mudah, \naman, dan andal. Dalam upaya untuk meningkatkan manajemen risiko \ndalam penyelenggaraan BI-FAST di Penyelenggara dan di Peserta, Bank \nIndonesia melakukan pengembangan fitur keamanan yaitu proactive risk \nmanager. Dengan adanya fitur proactive risk manager, Bank Indonesia \ndapat menyampaikan informasi (alert) kepada Peserta atau melakukan \npenolakan penerusan CTR dan menyampaikan informasi penolakan \npenerusan CTR dimaksud dalam hal terdapat indikasi anomali transaksi \nkeuangan dan/atau transaksi keuangan mencurigakan. \nPeserta melakukan tindak lanjut atas informasi atau penolakan \npenerusan CTR sesuai dengan ketentuan peraturan perundang-undangan, \npedoman operasional BI-FAST, kebijakan dan prosedur tertulis Peserta, \nserta ketentuan yang dikeluarkan oleh SRO. Selain itu, Peserta juga \ndiwajibkan untuk memiliki pengelolaan fraud (fraud management system) \nsebagai bentuk first line of defense sebagai upaya meningkatkan \npengamanan transaksi dan mitigasi risiko fraud dalam transaksi BI-FAST.  \nBerdasarkan hal tersebut di atas, perlu dilakukan perubahan atas \nPeraturan Anggota Dewan Gubernur Nomor 17 Tahun 2023 tentang \nPenyelenggaraan Bank Indonesia-Fast Payment. \n \nII.    PASAL DEMI PASAL  \n \nPasal I \nAngka 1 \n \nCukup jelas. \n \nAngka 2"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \n Yang \ndimaksud \ndengan \n“transaksi \nkeuangan \nmencurigakan”        adalah        transaksi        keuangan \n\n\n \nmencurigakan sebagaimana dimaksud dalam Undang-\nUndang mengenai pencegahan dan pemberantasan \ntindak \npidana \npencucian \nuang, \nUndang-Undang \nmengenai pencegahan dan pemberantasan tindak \npidana pendanaan terorisme, serta ketentuan peraturan \nperundang-undangan \nmengenai \npencegahan \npendanaan proliferasi senjata pemusnah massal. \nAyat (2) \nTermasuk dalam fitur proactive risk manager antara lain \nparameter indikasi anomali transaksi keuangan dan \ntransaksi \nkeuangan \nmencurigakan \nyang \npengelolaannya dapat dilakukan secara near real-time \ndan/atau real-time. \nAyat (3) \nInformasi terkait indikasi adanya anomali transaksi \nkeuangan dan/atau transaksi keuangan mencurigakan \nberdasarkan fitur proactive risk manager digunakan \nuntuk melengkapi informasi bagi Peserta dan/atau \nnasabah Peserta dalam rangka memitigasi risiko \ntransaksi keuangan mencurigakan pada layanan BI-\nFAST. \nHuruf a \nCukup jelas \nHuruf b \nPenolakan penerusan CTR merupakan bentuk \ndari penundaan penerusan transaksi kepada \nPeserta \npengirim \nuntuk \nselanjutnya \ndiinvestigasi dan dikonfirmasi keabsahannya \noleh Peserta pengirim. \nAyat (4) \n \nCukup jelas. \nAyat (5) \n Yang dimaksud dengan “false positive” adalah kondisi \ndimana transaksi yang sah namun ditandai sebagai \ntransaksi yang terindikasi sebagai anomali transaksi \nkeuangan dan/atau transaksi keuangan mencurigakan. \nAyat (6) \n \nCukup jelas. \n \n \nAngka 3",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n Yang \ndimaksud \ndengan \n“transaksi \nkeuangan \nmencurigakan”        adalah        transaksi        keuangan \n\n\n \nmencurigakan sebagaimana dimaksud dalam Undang-\nUndang mengenai pencegahan dan pemberantasan \ntindak \npidana \npencucian \nuang, \nUndang-Undang \nmengenai pencegahan dan pemberantasan tindak \npidana pendanaan terorisme, serta ketentuan peraturan \nperundang-undangan \nmengenai \npencegahan \npendanaan proliferasi senjata pemusnah massal. \nAyat (2) \nTermasuk dalam fitur proactive risk manager antara lain \nparameter indikasi anomali transaksi keuangan dan \ntransaksi \nkeuangan \nmencurigakan \nyang \npengelolaannya dapat dilakukan secara near real-time \ndan/atau real-time. \nAyat (3) \nInformasi terkait indikasi adanya anomali transaksi \nkeuangan dan/atau transaksi keuangan mencurigakan \nberdasarkan fitur proactive risk manager digunakan \nuntuk melengkapi informasi bagi Peserta dan/atau \nnasabah Peserta dalam rangka memitigasi risiko \ntransaksi keuangan mencurigakan pada layanan BI-\nFAST. \nHuruf a \nCukup jelas \nHuruf b \nPenolakan penerusan CTR merupakan bentuk \ndari penundaan penerusan transaksi kepada \nPeserta \npengirim \nuntuk \nselanjutnya \ndiinvestigasi dan dikonfirmasi keabsahannya \noleh Peserta pengirim. \nAyat (4) \n \nCukup jelas. \nAyat (5) \n Yang dimaksud dengan “false positive” adalah kondisi \ndimana transaksi yang sah namun ditandai sebagai \ntransaksi yang terindikasi sebagai anomali transaksi \nkeuangan dan/atau transaksi keuangan mencurigakan. \nAyat (6) \n \nCukup jelas. \n \n \nAngka 3"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112A",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nKetentuan peraturan perundang-undangan antara lain \nketentuan mengenai tindak pidana pencucian uang dan \nketentuan mengenai penerapan strategi anti fraud bagi \nlembaga jasa keuangan. \nYang dimaksud dengan “ketentuan yang diterbitkan \noleh \nSRO” \nadalah \nKetentuan \nAsosiasi \nSistem \nPembayaran Indonesia. \nAyat (2) \nCukup jelas. \nAyat (3)  \nCustomer \ndue diligence \ndan/atau enhanced \ndue \ndiligence \nantara \nlain \nmeliputi \naktivitas \nuntuk \nmemastikan validitas rekening dan/atau kecocokan \n\n\n \naktivitas rekening dengan profil nasabah penerima \ndana. \nAyat (4)  \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKetentuan peraturan perundang-undangan antara lain \nketentuan mengenai tindak pidana pencucian uang dan \nketentuan mengenai penerapan strategi anti fraud bagi \nlembaga jasa keuangan. \nYang dimaksud dengan “ketentuan yang diterbitkan \noleh \nSRO” \nadalah \nKetentuan \nAsosiasi \nSistem \nPembayaran Indonesia. \nAyat (2) \nCukup jelas. \nAyat (3)  \nCustomer \ndue diligence \ndan/atau enhanced \ndue \ndiligence \nantara \nlain \nmeliputi \naktivitas \nuntuk \nmemastikan validitas rekening dan/atau kecocokan \n\n\n \naktivitas rekening dengan profil nasabah penerima \ndana. \nAyat (4)  \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112B",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \n Ketentuan peraturan perundang-undangan antara lain \nketentuan mengenai transfer dana. \nYang dimaksud dengan “ketentuan yang diterbitkan \noleh \nSRO” \nadalah \nKetentuan \nAsosiasi \nSistem \nPembayaran Indonesia. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nKetentuan peraturan perundang-undangan antara lain \nketentuan mengenai tindak pidana pencucian uang dan \nketentuan mengenai penerapan strategi anti fraud bagi \nlembaga jasa keuangan. \nYang dimaksud dengan “ketentuan yang diterbitkan \noleh \nSRO” \nadalah \nKetentuan \nAsosiasi \nSistem \nPembayaran Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n Ketentuan peraturan perundang-undangan antara lain \nketentuan mengenai transfer dana. \nYang dimaksud dengan “ketentuan yang diterbitkan \noleh \nSRO” \nadalah \nKetentuan \nAsosiasi \nSistem \nPembayaran Indonesia. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nKetentuan peraturan perundang-undangan antara lain \nketentuan mengenai tindak pidana pencucian uang dan \nketentuan mengenai penerapan strategi anti fraud bagi \nlembaga jasa keuangan. \nYang dimaksud dengan “ketentuan yang diterbitkan \noleh \nSRO” \nadalah \nKetentuan \nAsosiasi \nSistem \nPembayaran Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "112C",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nKewajiban \nmemiliki \npengelolaan \nfraud \n(fraud \nmanagement \nsystem) \nditujukan \nsebagai \nupaya \nmeningkatkan pengamanan transaksi dan mitigasi \nrisiko fraud dalam transaksi BI-FAST. \n  \n \nAyat (2) \nHuruf a \nCukup jelas. \n  \n \n \nHuruf b \nPihak eksternal antara lain Penyelenggara, Pusat \nPelaporan dan Analisis Transaksi Keuangan, serta \nPeserta lainnya. \n  \n \n \nHuruf c \n  \n \n \n \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nPasal II \n \nCukup jelas. \n \n\n\nPESERTA                 \nPERIODE \nA.\nInformasi Umum\nNo\nBIC-No Rekening (OFI)\nAlert PRM \nTanggal\nFraud (Y/N)\nKeterangan\nTindak Lanjut\nJenis Nasabah\nKanal Pembayaran\nLokasi \nTotal Frekuensi\nTotal Nominal (Rp)\nABCDIDJA-12345\nO 7x\n01-Nov-24\nY\nIndikasi fraud , karena ...............\nPada tanggal ............., telah \nmelakukan ...........\nIndividu / Perusahaan\nMobile Banking / CMS / .......\n..........\n........... transaksi\nRp .........\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\nB. \nDetail Kronologis\nC\nProfiling Nasabah \nNo\nBIC-No Rekening\nNo. Identitas\nUsia\nPekerjaan\nRekening Aktif Sejak\nABCDIDJA-12345\n...........\n.............\n...............\n...............\nRRH Frekuensi\n(1 bulan terkahir)\nRRH Frekuensi\n(3 bulan terkahir)\nRRH Frekuensi\n(3 bulan terkahir)\nRRH Frekuensi\n(12 bulan terkahir)\n........ transaksi\n........ transaksi\n........ transaksi\n........ transaksi\nRRH Nominal\n(1 bulan terkahir)\nRRH Nominal\n(3 bulan terkahir)\nRRH Nominal\n(6 bulan terkahir)\nRRH Nominal\n(12 bulan terkahir)\nRp .........\nRp .........\nRp .........\nRp .........\nRRH Saldo Rekening\n(1 bulan terkahir)\nRRH Saldo Rekening\n(3 bulan terkahir)\nRRH Saldo Rekening\n(6 bulan terkahir)\nRRH Saldo Rekening\n(12 bulan terkahir)\nRp .........\nRp .........\nRp .........\nRp .........\nRRH : Rata-Rata Harian\n................................\n................................\nLAPORAN TRANSAKSI MENCURIGAKAN ALERT PRM\n..............................................",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKewajiban \nmemiliki \npengelolaan \nfraud \n(fraud \nmanagement \nsystem) \nditujukan \nsebagai \nupaya \nmeningkatkan pengamanan transaksi dan mitigasi \nrisiko fraud dalam transaksi BI-FAST. \n  \n \nAyat (2) \nHuruf a \nCukup jelas. \n  \n \n \nHuruf b \nPihak eksternal antara lain Penyelenggara, Pusat \nPelaporan dan Analisis Transaksi Keuangan, serta \nPeserta lainnya. \n  \n \n \nHuruf c \n  \n \n \n \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \n \nPasal II \n \nCukup jelas. \n \n\n\nPESERTA                 \nPERIODE \nA.\nInformasi Umum\nNo\nBIC-No Rekening (OFI)\nAlert PRM \nTanggal\nFraud (Y/N)\nKeterangan\nTindak Lanjut\nJenis Nasabah\nKanal Pembayaran\nLokasi \nTotal Frekuensi\nTotal Nominal (Rp)\nABCDIDJA-12345\nO 7x\n01-Nov-24\nY\nIndikasi fraud , karena ...............\nPada tanggal ............., telah \nmelakukan ...........\nIndividu / Perusahaan\nMobile Banking / CMS / .......\n..........\n........... transaksi\nRp .........\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\ndst\nB. \nDetail Kronologis\nC\nProfiling Nasabah \nNo\nBIC-No Rekening\nNo. Identitas\nUsia\nPekerjaan\nRekening Aktif Sejak\nABCDIDJA-12345\n...........\n.............\n...............\n...............\nRRH Frekuensi\n(1 bulan terkahir)\nRRH Frekuensi\n(3 bulan terkahir)\nRRH Frekuensi\n(3 bulan terkahir)\nRRH Frekuensi\n(12 bulan terkahir)\n........ transaksi\n........ transaksi\n........ transaksi\n........ transaksi\nRRH Nominal\n(1 bulan terkahir)\nRRH Nominal\n(3 bulan terkahir)\nRRH Nominal\n(6 bulan terkahir)\nRRH Nominal\n(12 bulan terkahir)\nRp .........\nRp .........\nRp .........\nRp .........\nRRH Saldo Rekening\n(1 bulan terkahir)\nRRH Saldo Rekening\n(3 bulan terkahir)\nRRH Saldo Rekening\n(6 bulan terkahir)\nRRH Saldo Rekening\n(12 bulan terkahir)\nRp .........\nRp .........\nRp .........\nRp .........\nRRH : Rata-Rata Harian\n................................\n................................\nLAPORAN TRANSAKSI MENCURIGAKAN ALERT PRM\n.............................................."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 8,
+  "total_ayat": 23,
+  "total_karakter": 14410,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

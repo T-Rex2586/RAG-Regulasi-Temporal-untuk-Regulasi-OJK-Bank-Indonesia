@@ -1,0 +1,813 @@
+{
+  "doc_id": "OJK_POJK_2018_34_10223b35",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "34",
+  "tahun": "2018",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 34/POJK.03/2018 tentang Penilaian Kembali bagi Pihak Utama Lembaga Jasa Keuangan",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "27 Desember 2018",
+  "tanggal_berlaku": "diundangkan (28 Desember 2018)",
+  "diundangkan_pada": "28 Desember 2018",
+  "mencabut": [
+    "kecuali untuk proses uji  kemampuan dan kepatutan, penilaian kembali, atau penilaian  kembali kemampuan dan kepatutan bagi Pihak Utama yang  sedang"
+  ],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "CAKUPAN PENILAIAN KEMBALI"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA CARA PENILAIAN KEMBALI"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "HASIL AKHIR PENILAIAN KEMBALI"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nini, \nyang  \ndimaksud dengan: \n1. \nLembaga Jasa Keuangan yang selanjutnya disingkat LJK \nadalah lembaga yang melaksanakan kegiatan di sektor \nPerbankan, Pasar Modal, Perasuransian, Dana Pensiun, \nLembaga Pembiayaan, dan Lembaga Jasa Keuangan \nLainnya yang meliputi:  \na. \nBank adalah badan usaha yang menghimpun dana \ndari masyarakat dalam bentuk simpanan dan \nmenyalurkannya kepada masyarakat dalam bentuk \nkredit dan atau bentuk-bentuk lainnya dalam rangka \nmeningkatkan taraf hidup rakyat banyak, yang terdiri \natas: \n1) \nBank \nUmum \nKonvensional \nadalah \nbank \nkonvensional dan kantor cabang dari bank yang \nberkedudukan di luar negeri yang dalam \nkegiatannya memberikan jasa dalam lalu lintas \npembayaran, dan kantor perwakilan dari bank \nyang berkedudukan di luar negeri; \n2) \nBank Umum Syariah adalah bank syariah yang \ndalam kegiatannya memberikan jasa dalam lalu \nlintas pembayaran, dan kantor perwakilan dari \nbank yang berkedudukan di luar negeri; \n3) \nBank \nPerkreditan \nRakyat \nadalah \nbank \nkonvensional yang dalam kegiatannya tidak \nmemberikan jasa dalam lalu lintas pembayaran; \ndan \n \n\n\n \n4) \nBank Pembiayaan Rakyat Syariah adalah bank \nsyariah \nyang \ndalam \nkegiatannya \ntidak \nmemberikan jasa dalam lalu lintas pembayaran; \nb. \nPerusahaan Efek adalah pihak yang melakukan \nkegiatan \nusaha \nsebagai \npenjamin \nemisi \nefek, \nperantara \npedagang \nefek, \ndan/atau \nmanajer \ninvestasi;  \nc. \nPenasihat Investasi adalah perusahaan yang memberi \nnasihat kepada pihak lain mengenai penjualan atau \npembelian efek dengan memperoleh imbalan jasa; \nd. \nPerusahaan \nPerasuransian \nadalah \nperusahaan \nasuransi, perusahaan asuransi syariah, perusahaan \nreasuransi, \nperusahaan \nreasuransi \nsyariah, \nperusahaan pialang asuransi, perusahaan pialang \nreasuransi, \ndan \nperusahaan \npenilai \nkerugian \nasuransi; \ne. \nDana Pensiun adalah badan hukum yang mengelola \ndan menjalankan program yang menjanjikan manfaat \npensiun, \ntermasuk \nyang \nmenjalankan \nseluruh \nkegiatan usaha berdasarkan prinsip syariah; \nf. \nPerusahaan Pembiayaan adalah badan usaha yang \nmelakukan kegiatan pembiayaan untuk pengadaan \nbarang dan/atau jasa, termasuk yang melakukan \nseluruh kegiatan usaha berdasarkan prinsip syariah; \ng. \nLembaga Penjamin adalah perusahaan penjaminan, \nperusahaan \npenjaminan \nsyariah, \nperusahaan \npenjaminan ulang, dan perusahaan penjaminan \nulang \nsyariah \nyang \nmenjalankan \nkegiatan \npenjaminan; \nh. \nPerusahaan \nModal \nVentura \nyang \nselanjutnya \ndisingkat PMV adalah badan usaha yang melakukan \nkegiatan usaha modal ventura, pengelolaan dana \nventura, kegiatan jasa berbasis fee, dan kegiatan \nusaha lain dengan persetujuan Otoritas \nJasa \nKeuangan, \ntermasuk \nyang \nmelakukan \nseluruh \nkegiatan usaha berdasarkan prinsip syariah; \n \n\n\n \ni. \nPerusahaan \nPergadaian \nadalah \nperusahaan \npergadaian swasta dan perusahaan pergadaian \npemerintah, termasuk yang melakukan kegiatan \nusaha berdasarkan prinsip syariah. \n2. \nPihak Utama adalah pihak yang memiliki, mengelola, \nmengawasi, \ndan/atau \nmempunyai \npengaruh \nyang \nsignifikan pada LJK, termasuk yang sudah tidak memiliki, \nmengelola, mengawasi, dan/atau mempunyai pengaruh \npada saat dilakukan penilaian kembali. \n3. \nPemegang Saham Pengendali yang selanjutnya disingkat \nPSP adalah badan hukum, orang perseorangan, dan/atau \nkelompok usaha yang memiliki saham atau yang setara \ndengan saham LJK serta mempunyai kemampuan untuk \nmelakukan pengendalian terhadap LJK. \n4. \nPengendalian adalah suatu tindakan yang bertujuan \nuntuk memengaruhi pengelolaan dan/atau kebijakan \nperusahaan, termasuk LJK, dengan cara apapun, baik \nsecara langsung maupun tidak langsung. \n5. \nRapat \nUmum \nPemegang \nSaham, yang \nselanjutnya \ndisingkat RUPS adalah: \na. \norgan perseroan yang mempunyai wewenang yang \ntidak diberikan kepada Direksi atau Dewan Komisaris \ndalam batas yang ditentukan dalam undang-undang \nmengenai perseroan terbatas dan/atau anggaran \ndasar bagi LJK yang berbadan hukum perseroan \nterbatas; atau \nb. \norgan atau pihak yang setara dengan huruf a, bagi \nLJK berbadan hukum atau berbadan usaha selain \nperseroan terbatas. \n6. \nDireksi adalah: \na. \norgan perseroan yang berwenang dan bertanggung \njawab penuh atas pengurusan untuk kepentingan \nperseroan, sesuai dengan maksud dan tujuan \nperseroan serta mewakili perseroan, baik di dalam \nmaupun di luar pengadilan sesuai dengan ketentuan \nanggaran dasar bagi LJK yang berbadan hukum \nperseroan terbatas;  \n\n\n \nb. \norgan atau pihak yang setara dengan huruf a, bagi \nLJK berbadan hukum atau berbadan usaha selain \nperseroan terbatas;  \nc. \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang bagi kantor cabang \ndari bank yang berkedudukan di luar negeri; atau \nd. \npemimpin kantor perwakilan bagi kantor perwakilan \ndari bank yang berkedudukan di luar negeri. \n7. \nDewan Komisaris adalah: \na. \norgan \nperseroan \nyang \nbertugas \nmelakukan \npengawasan secara umum dan/atau khusus sesuai \ndengan anggaran dasar serta memberi nasihat \nkepada Direksi bagi LJK yang berbadan hukum \nperseroan terbatas; atau \nb. \norgan atau pihak yang setara dengan huruf a, bagi \nLJK yang berbadan hukum atau berbadan usaha \nselain perseroan terbatas. \n8. \nDewan Pengawas Syariah adalah bagian dari organ \nPerusahaan Perasuransian, dana pensiun pemberi kerja, \ndana \npensiun \nlembaga \nkeuangan, \nPerusahaan \nPembiayaan, Lembaga Penjamin, PMV, atau Perusahaan \nPergadaian yang mempunyai tugas dan pengawasan \nterhadap penyelenggaraan kegiatan usaha agar sesuai \ndengan prinsip syariah. \n9. \nPengendali Perusahaan Perasuransian adalah pihak yang \nsecara \nlangsung \natau \ntidak \nlangsung \nmempunyai \nkemampuan untuk menentukan Direksi dan Dewan \nKomisaris dan/atau memengaruhi tindakan Direksi \ndan/atau \nDewan \nKomisaris \npada \nPerusahaan \nPerasuransian. \n10. Auditor \nInternal \nadalah \npejabat \npada \nPerusahaan \nPerasuransian \nyang \nbertanggung \njawab \nuntuk \nmengevaluasi dan meningkatkan efektivitas pengelolaan \nrisiko, pengendalian, dan proses tata kelola perusahaan \nyang bekerja secara independen dan sesuai dengan \nstandar praktik. \n \n\n\n \n11. Aktuaris Perusahaan adalah pejabat pada perusahaan \nasuransi, perusahaan asuransi syariah, perusahaan \nreasuransi, dan perusahaan reasuransi syariah, yang \nditunjuk dan bertanggung jawab untuk mengelola dampak \nkeuangan dari risiko yang dihadapi perusahaan yang \nbekerja \nsecara \nindependen \ndan \nsesuai \ndengan  \nstandar praktik. \n12. Pejabat Eksekutif adalah pejabat Bank yang bertanggung \njawab langsung kepada anggota  Direksi  atau  mempunyai \npengaruh yang signifikan terhadap kebijakan dan/atau \noperasional Bank.  \n13. Pihak Utama Pengendali adalah PSP dan/atau Pengendali \nPerusahaan Perasuransian. \n14. Pihak Utama Pengurus adalah anggota Direksi, pelaksana \ntugas pengurus pada Dana Pensiun Lembaga Keuangan, \nanggota \nDewan \nKomisaris, \natau \nanggota \nDewan  \nPengawas Syariah. \n15. Pihak Utama Pejabat adalah Auditor Internal, Aktuaris \nPerusahaan, atau Pejabat Eksekutif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam \nPeraturan \nOtoritas \nJasa \nKeuangan \nini, \nyang  \ndimaksud dengan: \n1. \nLembaga Jasa Keuangan yang selanjutnya disingkat LJK \nadalah lembaga yang melaksanakan kegiatan di sektor \nPerbankan, Pasar Modal, Perasuransian, Dana Pensiun, \nLembaga Pembiayaan, dan Lembaga Jasa Keuangan \nLainnya yang meliputi:  \na. \nBank adalah badan usaha yang menghimpun dana \ndari masyarakat dalam bentuk simpanan dan \nmenyalurkannya kepada masyarakat dalam bentuk \nkredit dan atau bentuk-bentuk lainnya dalam rangka \nmeningkatkan taraf hidup rakyat banyak, yang terdiri \natas: \n1) \nBank \nUmum \nKonvensional \nadalah \nbank \nkonvensional dan kantor cabang dari bank yang \nberkedudukan di luar negeri yang dalam \nkegiatannya memberikan jasa dalam lalu lintas \npembayaran, dan kantor perwakilan dari bank \nyang berkedudukan di luar negeri; \n2) \nBank Umum Syariah adalah bank syariah yang \ndalam kegiatannya memberikan jasa dalam lalu \nlintas pembayaran, dan kantor perwakilan dari \nbank yang berkedudukan di luar negeri; \n3) \nBank \nPerkreditan \nRakyat \nadalah \nbank \nkonvensional yang dalam kegiatannya tidak \nmemberikan jasa dalam lalu lintas pembayaran; \ndan \n \n\n\n \n4) \nBank Pembiayaan Rakyat Syariah adalah bank \nsyariah \nyang \ndalam \nkegiatannya \ntidak \nmemberikan jasa dalam lalu lintas pembayaran; \nb. \nPerusahaan Efek adalah pihak yang melakukan \nkegiatan \nusaha \nsebagai \npenjamin \nemisi \nefek, \nperantara \npedagang \nefek, \ndan/atau \nmanajer \ninvestasi;  \nc. \nPenasihat Investasi adalah perusahaan yang memberi \nnasihat kepada pihak lain mengenai penjualan atau \npembelian efek dengan memperoleh imbalan jasa; \nd. \nPerusahaan \nPerasuransian \nadalah \nperusahaan \nasuransi, perusahaan asuransi syariah, perusahaan \nreasuransi, \nperusahaan \nreasuransi \nsyariah, \nperusahaan pialang asuransi, perusahaan pialang \nreasuransi, \ndan \nperusahaan \npenilai \nkerugian \nasuransi; \ne. \nDana Pensiun adalah badan hukum yang mengelola \ndan menjalankan program yang menjanjikan manfaat \npensiun, \ntermasuk \nyang \nmenjalankan \nseluruh \nkegiatan usaha berdasarkan prinsip syariah; \nf. \nPerusahaan Pembiayaan adalah badan usaha yang \nmelakukan kegiatan pembiayaan untuk pengadaan \nbarang dan/atau jasa, termasuk yang melakukan \nseluruh kegiatan usaha berdasarkan prinsip syariah; \ng. \nLembaga Penjamin adalah perusahaan penjaminan, \nperusahaan \npenjaminan \nsyariah, \nperusahaan \npenjaminan ulang, dan perusahaan penjaminan \nulang \nsyariah \nyang \nmenjalankan \nkegiatan \npenjaminan; \nh. \nPerusahaan \nModal \nVentura \nyang \nselanjutnya \ndisingkat PMV adalah badan usaha yang melakukan \nkegiatan usaha modal ventura, pengelolaan dana \nventura, kegiatan jasa berbasis fee, dan kegiatan \nusaha lain dengan persetujuan Otoritas \nJasa \nKeuangan, \ntermasuk \nyang \nmelakukan \nseluruh \nkegiatan usaha berdasarkan prinsip syariah; \n \n\n\n \ni. \nPerusahaan \nPergadaian \nadalah \nperusahaan \npergadaian swasta dan perusahaan pergadaian \npemerintah, termasuk yang melakukan kegiatan \nusaha berdasarkan prinsip syariah. \n2. \nPihak Utama adalah pihak yang memiliki, mengelola, \nmengawasi, \ndan/atau \nmempunyai \npengaruh \nyang \nsignifikan pada LJK, termasuk yang sudah tidak memiliki, \nmengelola, mengawasi, dan/atau mempunyai pengaruh \npada saat dilakukan penilaian kembali. \n3. \nPemegang Saham Pengendali yang selanjutnya disingkat \nPSP adalah badan hukum, orang perseorangan, dan/atau \nkelompok usaha yang memiliki saham atau yang setara \ndengan saham LJK serta mempunyai kemampuan untuk \nmelakukan pengendalian terhadap LJK. \n4. \nPengendalian adalah suatu tindakan yang bertujuan \nuntuk memengaruhi pengelolaan dan/atau kebijakan \nperusahaan, termasuk LJK, dengan cara apapun, baik \nsecara langsung maupun tidak langsung. \n5. \nRapat \nUmum \nPemegang \nSaham, yang \nselanjutnya \ndisingkat RUPS adalah: \na. \norgan perseroan yang mempunyai wewenang yang \ntidak diberikan kepada Direksi atau Dewan Komisaris \ndalam batas yang ditentukan dalam undang-undang \nmengenai perseroan terbatas dan/atau anggaran \ndasar bagi LJK yang berbadan hukum perseroan \nterbatas; atau \nb. \norgan atau pihak yang setara dengan huruf a, bagi \nLJK berbadan hukum atau berbadan usaha selain \nperseroan terbatas. \n6. \nDireksi adalah: \na. \norgan perseroan yang berwenang dan bertanggung \njawab penuh atas pengurusan untuk kepentingan \nperseroan, sesuai dengan maksud dan tujuan \nperseroan serta mewakili perseroan, baik di dalam \nmaupun di luar pengadilan sesuai dengan ketentuan \nanggaran dasar bagi LJK yang berbadan hukum \nperseroan terbatas;  \n\n\n \nb. \norgan atau pihak yang setara dengan huruf a, bagi \nLJK berbadan hukum atau berbadan usaha selain \nperseroan terbatas;  \nc. \npemimpin kantor cabang dan pejabat satu tingkat di \nbawah pemimpin kantor cabang bagi kantor cabang \ndari bank yang berkedudukan di luar negeri; atau \nd. \npemimpin kantor perwakilan bagi kantor perwakilan \ndari bank yang berkedudukan di luar negeri. \n7. \nDewan Komisaris adalah: \na. \norgan \nperseroan \nyang \nbertugas \nmelakukan \npengawasan secara umum dan/atau khusus sesuai \ndengan anggaran dasar serta memberi nasihat \nkepada Direksi bagi LJK yang berbadan hukum \nperseroan terbatas; atau \nb. \norgan atau pihak yang setara dengan huruf a, bagi \nLJK yang berbadan hukum atau berbadan usaha \nselain perseroan terbatas. \n8. \nDewan Pengawas Syariah adalah bagian dari organ \nPerusahaan Perasuransian, dana pensiun pemberi kerja, \ndana \npensiun \nlembaga \nkeuangan, \nPerusahaan \nPembiayaan, Lembaga Penjamin, PMV, atau Perusahaan \nPergadaian yang mempunyai tugas dan pengawasan \nterhadap penyelenggaraan kegiatan usaha agar sesuai \ndengan prinsip syariah. \n9. \nPengendali Perusahaan Perasuransian adalah pihak yang \nsecara \nlangsung \natau \ntidak \nlangsung \nmempunyai \nkemampuan untuk menentukan Direksi dan Dewan \nKomisaris dan/atau memengaruhi tindakan Direksi \ndan/atau \nDewan \nKomisaris \npada \nPerusahaan \nPerasuransian. \n10. Auditor \nInternal \nadalah \npejabat \npada \nPerusahaan \nPerasuransian \nyang \nbertanggung \njawab \nuntuk \nmengevaluasi dan meningkatkan efektivitas pengelolaan \nrisiko, pengendalian, dan proses tata kelola perusahaan \nyang bekerja secara independen dan sesuai dengan \nstandar praktik. \n \n\n\n \n11. Aktuaris Perusahaan adalah pejabat pada perusahaan \nasuransi, perusahaan asuransi syariah, perusahaan \nreasuransi, dan perusahaan reasuransi syariah, yang \nditunjuk dan bertanggung jawab untuk mengelola dampak \nkeuangan dari risiko yang dihadapi perusahaan yang \nbekerja \nsecara \nindependen \ndan \nsesuai \ndengan  \nstandar praktik. \n12. Pejabat Eksekutif adalah pejabat Bank yang bertanggung \njawab langsung kepada anggota  Direksi  atau  mempunyai \npengaruh yang signifikan terhadap kebijakan dan/atau \noperasional Bank.  \n13. Pihak Utama Pengendali adalah PSP dan/atau Pengendali \nPerusahaan Perasuransian. \n14. Pihak Utama Pengurus adalah anggota Direksi, pelaksana \ntugas pengurus pada Dana Pensiun Lembaga Keuangan, \nanggota \nDewan \nKomisaris, \natau \nanggota \nDewan  \nPengawas Syariah. \n15. Pihak Utama Pejabat adalah Auditor Internal, Aktuaris \nPerusahaan, atau Pejabat Eksekutif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Pihak Utama yang tunduk pada ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini meliputi: \na. \nbagi Bank: \n1) \nPSP; \n2) \nanggota Direksi;  \n3) \nanggota Dewan Komisaris; dan \n4) \nPejabat Eksekutif; \nb. \nbagi Perusahaan Efek: \n1) \nPSP; \n2) \nanggota Direksi; dan \n3) \nanggota Dewan Komisaris; \nc. \nbagi Penasihat Investasi: \n1) \nPSP; \n2) \nanggota Direksi; dan \n3) \nanggota Dewan Komisaris; \n \n\n\n \nd. \nbagi Perusahaan Perasuransian:  \n1) \nPengendali Perusahaan Perasuransian; \n2) \nanggota Direksi; \n3) \nanggota Dewan Komisaris; \n4) \nanggota Dewan Pengawas Syariah; \n5) \nAuditor Internal; dan \n6) \nAktuaris Perusahaan; \ne. \nbagi Dana Pensiun Pemberi Kerja: \n1) \nanggota Direksi; \n2) \nanggota Dewan Komisaris; dan \n3) \nanggota Dewan Pengawas Syariah; \nf. \nbagi Dana Pensiun Lembaga Keuangan: \n1) \npelaksana tugas pengurus; dan \n2) \nanggota Dewan Pengawas Syariah; dan \ng. \nbagi Perusahaan Pembiayaan, Lembaga Penjamin, PMV, \ndan Perusahaan Pergadaian: \n1) \nPSP; \n2) \nanggota Direksi; \n3) \nanggota Dewan Komisaris; dan \n4) \nanggota Dewan Pengawas Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pihak Utama yang tunduk pada ketentuan dalam Peraturan \nOtoritas Jasa Keuangan ini meliputi: \na. \nbagi Bank: \n1) \nPSP; \n2) \nanggota Direksi;  \n3) \nanggota Dewan Komisaris; dan \n4) \nPejabat Eksekutif; \nb. \nbagi Perusahaan Efek: \n1) \nPSP; \n2) \nanggota Direksi; dan \n3) \nanggota Dewan Komisaris; \nc. \nbagi Penasihat Investasi: \n1) \nPSP; \n2) \nanggota Direksi; dan \n3) \nanggota Dewan Komisaris; \n \n\n\n \nd. \nbagi Perusahaan Perasuransian:  \n1) \nPengendali Perusahaan Perasuransian; \n2) \nanggota Direksi; \n3) \nanggota Dewan Komisaris; \n4) \nanggota Dewan Pengawas Syariah; \n5) \nAuditor Internal; dan \n6) \nAktuaris Perusahaan; \ne. \nbagi Dana Pensiun Pemberi Kerja: \n1) \nanggota Direksi; \n2) \nanggota Dewan Komisaris; dan \n3) \nanggota Dewan Pengawas Syariah; \nf. \nbagi Dana Pensiun Lembaga Keuangan: \n1) \npelaksana tugas pengurus; dan \n2) \nanggota Dewan Pengawas Syariah; dan \ng. \nbagi Perusahaan Pembiayaan, Lembaga Penjamin, PMV, \ndan Perusahaan Pergadaian: \n1) \nPSP; \n2) \nanggota Direksi; \n3) \nanggota Dewan Komisaris; dan \n4) \nanggota Dewan Pengawas Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Penilaian kembali terhadap Pihak Utama dilakukan oleh \nOtoritas \nJasa \nKeuangan \ndalam \nhal \nterdapat \nindikasi \nketerlibatan \ndan/atau \nbertanggung \njawab \nterhadap \npermasalahan \nintegritas, \nkelayakan \nkeuangan, \nreputasi \nkeuangan, dan/atau kompetensi yang terjadi pada LJK. \n \nBAB II \nCAKUPAN PENILAIAN KEMBALI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian kembali terhadap Pihak Utama dilakukan oleh \nOtoritas \nJasa \nKeuangan \ndalam \nhal \nterdapat \nindikasi \nketerlibatan \ndan/atau \nbertanggung \njawab \nterhadap \npermasalahan \nintegritas, \nkelayakan \nkeuangan, \nreputasi \nkeuangan, dan/atau kompetensi yang terjadi pada LJK. \n \nBAB II \nCAKUPAN PENILAIAN KEMBALI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "CAKUPAN PENILAIAN KEMBALI",
+      "teks_lengkap": "Penilaian kembali terhadap Pihak Utama Pengendali dilakukan \ndalam hal terdapat indikasi keterlibatan dan/atau bertanggung \njawab terhadap permasalahan integritas dan/atau kelayakan \nkeuangan yang meliputi: \n \n\n\n \na. \ntindakan-tindakan baik secara langsung dan tidak \nlangsung berupa: \n1) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus, Pihak Utama Pejabat, dan/atau pegawai \nLJK \nuntuk \nmenyembunyikan \ndan/atau \nmengaburkan pelanggaran dari suatu ketentuan atau \nkondisi \nkeuangan \ndan/atau \ntransaksi \nyang \nsebenarnya; \n2) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus, Pihak Utama Pejabat, dan/atau pegawai \nLJK untuk memberikan keuntungan secara tidak \nwajar kepada pemegang saham, Pihak Utama, \npegawai LJK, dan/atau pihak lain yang dapat \nmerugikan atau mengurangi keuntungan LJK;  \n3) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus, Pihak Utama Pejabat, dan/atau pegawai \nLJK untuk melakukan perbuatan yang melanggar \nprinsip kehati-hatian di sektor jasa keuangan \ndan/atau prinsip pengelolaan LJK yang baik; \ndan/atau \n4) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus,  Pihak Utama Pejabat, dan/atau pegawai \nLJK yang menjalankan kegiatan usaha berdasarkan \nprinsip syariah untuk melakukan perbuatan yang \nmelanggar \nprinsip \nsyariah \ndi \nsektor \njasa  \nkeuangan syariah;  \nb. \nterbukti melakukan tindak pidana yang telah diputus oleh \npengadilan dan mempunyai kekuatan hukum tetap \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kemampuan dan kepatutan \nbagi pihak utama lembaga jasa keuangan; \nc. \nmenyebabkan \nLJK \nmengalami \nkesulitan \nyang \nmembahayakan kelangsungan usaha LJK dan/atau dapat \nmembahayakan industri jasa keuangan; \nd. \ntidak melaksanakan perintah Otoritas Jasa Keuangan \nuntuk melakukan dan/atau tidak melakukan tindakan \ntertentu; \n\n\n \ne. \nmemiliki kredit dan/atau pembiayaan macet di LJK \ndan/atau menjadi pengendali, anggota direksi, anggota \ndewan komisaris, atau yang setara dari perusahaan yang \nmempunyai kredit dan/atau pembiayaan macet; \nf. \nterbukti dinyatakan pailit dan/atau menjadi pemegang \nsaham, anggota direksi, anggota dewan komisaris, atau \nyang setara, yang dinyatakan bersalah menyebabkan \nsuatu perusahaan dinyatakan pailit atau dicabut izin \nusahanya; \ng. \ntidak melakukan upaya yang diperlukan pada saat LJK \nmenghadapi kesulitan permodalan dan/atau likuiditas; \ndan/atau \nh. \nmenolak \nmemberikan \nkomitmen \ndan/atau \ntidak \nmemenuhi komitmen yang telah disepakati dengan \nOtoritas Jasa Keuangan dan/atau pemerintah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian kembali terhadap Pihak Utama Pengendali dilakukan \ndalam hal terdapat indikasi keterlibatan dan/atau bertanggung \njawab terhadap permasalahan integritas dan/atau kelayakan \nkeuangan yang meliputi: \n \n\n\n \na. \ntindakan-tindakan baik secara langsung dan tidak \nlangsung berupa: \n1) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus, Pihak Utama Pejabat, dan/atau pegawai \nLJK \nuntuk \nmenyembunyikan \ndan/atau \nmengaburkan pelanggaran dari suatu ketentuan atau \nkondisi \nkeuangan \ndan/atau \ntransaksi \nyang \nsebenarnya; \n2) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus, Pihak Utama Pejabat, dan/atau pegawai \nLJK untuk memberikan keuntungan secara tidak \nwajar kepada pemegang saham, Pihak Utama, \npegawai LJK, dan/atau pihak lain yang dapat \nmerugikan atau mengurangi keuntungan LJK;  \n3) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus, Pihak Utama Pejabat, dan/atau pegawai \nLJK untuk melakukan perbuatan yang melanggar \nprinsip kehati-hatian di sektor jasa keuangan \ndan/atau prinsip pengelolaan LJK yang baik; \ndan/atau \n4) \nmemengaruhi dan/atau menyuruh Pihak Utama \nPengurus,  Pihak Utama Pejabat, dan/atau pegawai \nLJK yang menjalankan kegiatan usaha berdasarkan \nprinsip syariah untuk melakukan perbuatan yang \nmelanggar \nprinsip \nsyariah \ndi \nsektor \njasa  \nkeuangan syariah;  \nb. \nterbukti melakukan tindak pidana yang telah diputus oleh \npengadilan dan mempunyai kekuatan hukum tetap \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kemampuan dan kepatutan \nbagi pihak utama lembaga jasa keuangan; \nc. \nmenyebabkan \nLJK \nmengalami \nkesulitan \nyang \nmembahayakan kelangsungan usaha LJK dan/atau dapat \nmembahayakan industri jasa keuangan; \nd. \ntidak melaksanakan perintah Otoritas Jasa Keuangan \nuntuk melakukan dan/atau tidak melakukan tindakan \ntertentu; \n\n\n \ne. \nmemiliki kredit dan/atau pembiayaan macet di LJK \ndan/atau menjadi pengendali, anggota direksi, anggota \ndewan komisaris, atau yang setara dari perusahaan yang \nmempunyai kredit dan/atau pembiayaan macet; \nf. \nterbukti dinyatakan pailit dan/atau menjadi pemegang \nsaham, anggota direksi, anggota dewan komisaris, atau \nyang setara, yang dinyatakan bersalah menyebabkan \nsuatu perusahaan dinyatakan pailit atau dicabut izin \nusahanya; \ng. \ntidak melakukan upaya yang diperlukan pada saat LJK \nmenghadapi kesulitan permodalan dan/atau likuiditas; \ndan/atau \nh. \nmenolak \nmemberikan \nkomitmen \ndan/atau \ntidak \nmemenuhi komitmen yang telah disepakati dengan \nOtoritas Jasa Keuangan dan/atau pemerintah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "CAKUPAN PENILAIAN KEMBALI",
+      "teks_lengkap": "Penilaian kembali terhadap Pihak Utama Pengurus dan/atau \nPihak Utama Pejabat dilakukan dalam hal terdapat indikasi \nketerlibatan \ndan/atau \nbertanggung \njawab \nterhadap \npermasalahan \nintegritas, \nreputasi \nkeuangan \ndan/atau \nkompetensi yang meliputi: \na. \ntindakan-tindakan baik secara langsung atau tidak \nlangsung berupa: \n1) \nmenyembunyikan \ndan/atau \nmengaburkan \npelanggaran dari suatu ketentuan atau kondisi \nkeuangan dan/atau transaksi yang sebenarnya; \n2) \nmemberikan keuntungan secara tidak wajar kepada \npemegang saham, Pihak Utama, pegawai LJK, \ndan/atau pihak lain yang dapat merugikan atau \nmengurangi keuntungan LJK; \n3) \nmelakukan \nperbuatan \nyang \nmelanggar \nprinsip  \nkehati-hatian di sektor jasa keuangan dan/atau \nprinsip pengelolaan LJK yang baik; dan/atau \n4) \nmelanggar \nprinsip \nsyariah \ndi \nsektor \njasa  \nkeuangan syariah; \n \n\n\n \nb. \nterbukti melakukan tindak pidana yang telah diputus oleh \npengadilan dan mempunyai kekuatan hukum tetap \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kemampuan dan kepatutan \nbagi pihak utama lembaga jasa keuangan;  \nc. \nmenyebabkan \nLJK \nmengalami \nkesulitan \nyang \nmembahayakan kelangsungan usaha LJK dan/atau dapat \nmembahayakan industri jasa keuangan; \nd. \ntidak melaksanakan perintah Otoritas Jasa Keuangan \nuntuk melakukan dan/atau tidak melakukan tindakan \ntertentu; \ne. \nmemiliki kredit dan/atau pembiayaan macet di LJK \ndan/atau menjadi pengendali, anggota direksi, anggota \ndewan komisaris, atau yang setara dari perusahaan yang \nmempunyai kredit  dan/atau pembiayaan  macet; \nf. \nterbukti dinyatakan pailit dan/atau menjadi anggota \ndireksi, anggota dewan komisaris, atau yang setara, yang \ndinyatakan bersalah menyebabkan suatu perusahaan \ndinyatakan pailit atau dicabut izin usahanya; \ng. \ntidak melakukan pengelolaan strategis dalam rangka \npengembangan LJK yang sehat;  \nh. \nmenolak \nmemberikan \nkomitmen \ndan/atau \ntidak \nmemenuhi komitmen yang telah disepakati dengan \nOtoritas Jasa Keuangan dan/atau pemerintah; dan/atau \ni. \nmelakukan atau berperan atas terjadinya pelanggaran \natau penyimpangan kegiatan kantor perwakilan dari bank \nyang berkedudukan di luar negeri, bagi pemimpin kantor \nperwakilan dari bank yang berkedudukan di luar negeri. \n \n \n \nBAB III \nTATA CARA PENILAIAN KEMBALI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penilaian kembali terhadap Pihak Utama Pengurus dan/atau \nPihak Utama Pejabat dilakukan dalam hal terdapat indikasi \nketerlibatan \ndan/atau \nbertanggung \njawab \nterhadap \npermasalahan \nintegritas, \nreputasi \nkeuangan \ndan/atau \nkompetensi yang meliputi: \na. \ntindakan-tindakan baik secara langsung atau tidak \nlangsung berupa: \n1) \nmenyembunyikan \ndan/atau \nmengaburkan \npelanggaran dari suatu ketentuan atau kondisi \nkeuangan dan/atau transaksi yang sebenarnya; \n2) \nmemberikan keuntungan secara tidak wajar kepada \npemegang saham, Pihak Utama, pegawai LJK, \ndan/atau pihak lain yang dapat merugikan atau \nmengurangi keuntungan LJK; \n3) \nmelakukan \nperbuatan \nyang \nmelanggar \nprinsip  \nkehati-hatian di sektor jasa keuangan dan/atau \nprinsip pengelolaan LJK yang baik; dan/atau \n4) \nmelanggar \nprinsip \nsyariah \ndi \nsektor \njasa  \nkeuangan syariah; \n \n\n\n \nb. \nterbukti melakukan tindak pidana yang telah diputus oleh \npengadilan dan mempunyai kekuatan hukum tetap \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kemampuan dan kepatutan \nbagi pihak utama lembaga jasa keuangan;  \nc. \nmenyebabkan \nLJK \nmengalami \nkesulitan \nyang \nmembahayakan kelangsungan usaha LJK dan/atau dapat \nmembahayakan industri jasa keuangan; \nd. \ntidak melaksanakan perintah Otoritas Jasa Keuangan \nuntuk melakukan dan/atau tidak melakukan tindakan \ntertentu; \ne. \nmemiliki kredit dan/atau pembiayaan macet di LJK \ndan/atau menjadi pengendali, anggota direksi, anggota \ndewan komisaris, atau yang setara dari perusahaan yang \nmempunyai kredit  dan/atau pembiayaan  macet; \nf. \nterbukti dinyatakan pailit dan/atau menjadi anggota \ndireksi, anggota dewan komisaris, atau yang setara, yang \ndinyatakan bersalah menyebabkan suatu perusahaan \ndinyatakan pailit atau dicabut izin usahanya; \ng. \ntidak melakukan pengelolaan strategis dalam rangka \npengembangan LJK yang sehat;  \nh. \nmenolak \nmemberikan \nkomitmen \ndan/atau \ntidak \nmemenuhi komitmen yang telah disepakati dengan \nOtoritas Jasa Keuangan dan/atau pemerintah; dan/atau \ni. \nmelakukan atau berperan atas terjadinya pelanggaran \natau penyimpangan kegiatan kantor perwakilan dari bank \nyang berkedudukan di luar negeri, bagi pemimpin kantor \nperwakilan dari bank yang berkedudukan di luar negeri. \n \n \n \nBAB III \nTATA CARA PENILAIAN KEMBALI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA CARA PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan melakukan penilaian kembali \nberdasarkan bukti, data, dan/atau informasi yang \ndiperoleh dari hasil pengawasan maupun informasi lain. \n \n\n\n \n(2) \nPenilaian kembali sebagaimana dimaksud pada ayat (1) \ndilakukan dengan langkah: \na. \nklarifikasi bukti, data, dan/atau informasi kepada \nPihak Utama yang dinilai kembali; \nb. \npenetapan \ndan \npenyampaian \nhasil \nsementara \npenilaian kembali kepada Pihak Utama yang dinilai \nkembali; \nc. \ntanggapan dari Pihak Utama yang dinilai kembali \nterhadap hasil sementara penilaian kembali; dan \nd. \npenetapan dan pemberitahuan hasil akhir penilaian \nkembali kepada Pihak Utama yang dinilai kembali. \n(3) \nPihak Utama yang dinilai kembali diberikan kesempatan \nmenyampaikan tanggapan atas permintaan klarifikasi \nbukti, data, dan/atau informasi sebagaimana dimaksud \npada ayat (2) huruf a, paling lambat 10 (sepuluh) hari kerja \nterhitung sejak tanggal permintaan klarifikasi dari \nOtoritas Jasa Keuangan. \n(4) \nDalam hal Pihak Utama yang dinilai kembali tidak \nmenggunakan hak untuk menyampaikan klarifikasi bukti, \ndata, dan/atau informasi dalam jangka waktu yang \nditetapkan sebagaimana dimaksud pada ayat (3), Otoritas \nJasa Keuangan melakukan langkah penilaian kembali \ntahap berikutnya. \n(5) \nPihak Utama yang  dinilai  kembali diberikan kesempatan \nmenyampaikan tanggapan atas hasil sementara penilaian \nkembali sebagaimana dimaksud pada ayat (2) huruf c, \npaling lambat 10 (sepuluh) hari kerja terhitung sejak \ntanggal surat Otoritas Jasa Keuangan. \n(6) \nDalam hal Pihak Utama yang dinilai kembali tidak \nmenggunakan hak untuk menyampaikan tanggapan atas \nhasil sementara penilaian kembali dalam jangka waktu \nyang ditetapkan sebagaimana dimaksud pada ayat (5), \nOtoritas Jasa Keuangan menetapkan hasil sementara \npenilaian kembali menjadi hasil akhir penilaian kembali.   \n(7) \nDalam hal Otoritas Jasa Keuangan memperoleh bukti, \ndata, dan/atau informasi baru sebelum penetapan dan \npemberitahuan hasil akhir penilaian kembali sebagaimana \n\n\n \ndimaksud pada ayat (2) huruf d, Otoritas Jasa Keuangan \nmenetapkan hasil akhir penilaian kembali dengan \nmempertimbangkan bukti, data, dan/atau informasi baru \nyang diperoleh. \n(8) \nPenetapan hasil akhir penilaian kembali sebagaimana \ndimaksud pada ayat (7) dilakukan dengan tetap mengacu \npada proses sebagaimana dimaksud pada ayat (2) huruf a \nsampai dengan huruf c.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan melakukan penilaian kembali \nberdasarkan bukti, data, dan/atau informasi yang \ndiperoleh dari hasil pengawasan maupun informasi lain."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penilaian kembali sebagaimana dimaksud pada ayat (1) \ndilakukan dengan langkah: \na. \nklarifikasi bukti, data, dan/atau informasi kepada \nPihak Utama yang dinilai kembali; \nb. \npenetapan \ndan \npenyampaian \nhasil \nsementara \npenilaian kembali kepada Pihak Utama yang dinilai \nkembali; \nc. \ntanggapan dari Pihak Utama yang dinilai kembali \nterhadap hasil sementara penilaian kembali; dan \nd. \npenetapan dan pemberitahuan hasil akhir penilaian \nkembali kepada Pihak Utama yang dinilai kembali."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pihak Utama yang dinilai kembali diberikan kesempatan \nmenyampaikan tanggapan atas permintaan klarifikasi \nbukti, data, dan/atau informasi sebagaimana dimaksud \npada ayat (2) huruf a, paling lambat 10 (sepuluh) hari kerja \nterhitung sejak tanggal permintaan klarifikasi dari \nOtoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Pihak Utama yang dinilai kembali tidak \nmenggunakan hak untuk menyampaikan klarifikasi bukti, \ndata, dan/atau informasi dalam jangka waktu yang \nditetapkan sebagaimana dimaksud pada ayat (3), Otoritas \nJasa Keuangan melakukan langkah penilaian kembali \ntahap berikutnya."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pihak Utama yang  dinilai  kembali diberikan kesempatan \nmenyampaikan tanggapan atas hasil sementara penilaian \nkembali sebagaimana dimaksud pada ayat (2) huruf c, \npaling lambat 10 (sepuluh) hari kerja terhitung sejak \ntanggal surat Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal Pihak Utama yang dinilai kembali tidak \nmenggunakan hak untuk menyampaikan tanggapan atas \nhasil sementara penilaian kembali dalam jangka waktu \nyang ditetapkan sebagaimana dimaksud pada ayat (5), \nOtoritas Jasa Keuangan menetapkan hasil sementara \npenilaian kembali menjadi hasil akhir penilaian kembali."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Dalam hal Otoritas Jasa Keuangan memperoleh bukti, \ndata, dan/atau informasi baru sebelum penetapan dan \npemberitahuan hasil akhir penilaian kembali sebagaimana \n\n\n \ndimaksud pada ayat (2) huruf d, Otoritas Jasa Keuangan \nmenetapkan hasil akhir penilaian kembali dengan \nmempertimbangkan bukti, data, dan/atau informasi baru \nyang diperoleh."
+        },
+        {
+          "ayat_nomor": "(8)",
+          "teks": "Penetapan hasil akhir penilaian kembali sebagaimana \ndimaksud pada ayat (7) dilakukan dengan tetap mengacu \npada proses sebagaimana dimaksud pada ayat (2) huruf a \nsampai dengan huruf c."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB III",
+      "bab_judul": "TATA CARA PENILAIAN KEMBALI",
+      "teks_lengkap": "Otoritas Jasa Keuangan menetapkan hasil akhir penilaian \nkembali secara langsung tanpa mengikuti seluruh langkah \nsebagaimana dimaksud dalam Pasal 6 ayat (2), dalam hal Pihak \nUtama yang dinilai kembali: \na. \nterbukti melakukan tindak pidana yang telah diputus oleh \npengadilan dan mempunyai kekuatan hukum tetap \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kemampuan dan kepatutan \nbagi pihak utama lembaga jasa keuangan; atau  \nb. \nterbukti dinyatakan pailit dan/atau menjadi pemegang \nsaham, anggota direksi, anggota dewan komisaris, atau \nyang setara, yang dinyatakan bersalah menyebabkan \nsuatu \nperusahaan \ndinyatakan \npailit \natau \ndicabut  \nizin usahanya. \n \nBAB IV \nHASIL AKHIR PENILAIAN KEMBALI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan menetapkan hasil akhir penilaian \nkembali secara langsung tanpa mengikuti seluruh langkah \nsebagaimana dimaksud dalam Pasal 6 ayat (2), dalam hal Pihak \nUtama yang dinilai kembali: \na. \nterbukti melakukan tindak pidana yang telah diputus oleh \npengadilan dan mempunyai kekuatan hukum tetap \nsebagaimana dimaksud dalam Peraturan Otoritas Jasa \nKeuangan mengenai penilaian kemampuan dan kepatutan \nbagi pihak utama lembaga jasa keuangan; atau  \nb. \nterbukti dinyatakan pailit dan/atau menjadi pemegang \nsaham, anggota direksi, anggota dewan komisaris, atau \nyang setara, yang dinyatakan bersalah menyebabkan \nsuatu \nperusahaan \ndinyatakan \npailit \natau \ndicabut  \nizin usahanya. \n \nBAB IV \nHASIL AKHIR PENILAIAN KEMBALI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan menetapkan hasil akhir penilaian \nkembali terhadap Pihak Utama dengan predikat: \na. \nLulus; atau \nb. \nTidak Lulus. \n \n \n \n \n\n\n \n(2) \nPenetapan hasil akhir penilaian kembali sebagaimana \ndimaksud pada ayat (1) dilakukan berdasarkan tingkat \nketerlibatan dan/atau pertanggungjawaban Pihak Utama \nyang dinilai kembali.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan menetapkan hasil akhir penilaian \nkembali terhadap Pihak Utama dengan predikat: \na. \nLulus; atau \nb. \nTidak Lulus."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan hasil akhir penilaian kembali sebagaimana \ndimaksud pada ayat (1) dilakukan berdasarkan tingkat \nketerlibatan dan/atau pertanggungjawaban Pihak Utama \nyang dinilai kembali."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan memberitahukan hasil akhir \npenilaian kembali Pihak Utama secara tertulis kepada \nPihak Utama Pengendali, LJK, dan Pihak Utama yang \ndinilai kembali. \n(2) \nSelain kepada pihak sebagaimana dimaksud pada  \nayat (1), Otoritas Jasa Keuangan dapat memberitahukan \nhasil akhir penilaian kembali Pihak Utama kepada pihak \nlain yang berkepentingan. \n \nBAB V \nKONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan memberitahukan hasil akhir \npenilaian kembali Pihak Utama secara tertulis kepada \nPihak Utama Pengendali, LJK, dan Pihak Utama yang \ndinilai kembali."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Selain kepada pihak sebagaimana dimaksud pada  \nayat (1), Otoritas Jasa Keuangan dapat memberitahukan \nhasil akhir penilaian kembali Pihak Utama kepada pihak \nlain yang berkepentingan. \n \nBAB V \nKONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nPihak Utama yang masih menjabat yang ditetapkan \ndengan predikat Lulus dinyatakan memenuhi persyaratan \nuntuk tetap menjadi Pihak Utama. \n(2) \nPihak Utama Pengendali yang ditetapkan dengan predikat \nTidak Lulus karena: \na. \npermasalahan integritas, dilarang menjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada LJK; dan/atau \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada LJK; dan/atau \nb. \npermasalahan \nkelayakan \nkeuangan, \ndilarang \nmenjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada industri jasa keuangan dimana Pihak \nUtama dilakukan penilaian kembali; dan/atau \n \n \n \n\n\n \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada industri jasa keuangan dimana \nPihak Utama dilakukan penilaian kembali dalam \nhal permasalahan kelayakan keuangan berupa \nreputasi keuangan. \n(3) \nPihak Utama Pengurus atau Pihak Utama Pejabat yang \nditetapkan dengan predikat Tidak Lulus karena: \na. \npermasalahan integritas, dilarang menjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada LJK; dan/atau \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada LJK; \nb. \npermasalahan reputasi keuangan, dilarang menjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada industri jasa keuangan dimana Pihak \nUtama dilakukan penilaian kembali; dan/atau \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada industri jasa keuangan dimana \nPihak Utama dilakukan penilaian kembali; \ndan/atau \nc. \npermasalahan kompetensi, dilarang menjadi Pihak \nUtama Pengurus dan/atau Pihak Utama Pejabat pada \nindustri \njasa \nkeuangan \ndimana \nPihak \nUtama \ndilakukan penilaian kembali.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak Utama yang masih menjabat yang ditetapkan \ndengan predikat Lulus dinyatakan memenuhi persyaratan \nuntuk tetap menjadi Pihak Utama."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak Utama Pengendali yang ditetapkan dengan predikat \nTidak Lulus karena: \na. \npermasalahan integritas, dilarang menjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada LJK; dan/atau \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada LJK; dan/atau \nb. \npermasalahan \nkelayakan \nkeuangan, \ndilarang \nmenjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada industri jasa keuangan dimana Pihak \nUtama dilakukan penilaian kembali; dan/atau \n \n \n \n\n\n \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada industri jasa keuangan dimana \nPihak Utama dilakukan penilaian kembali dalam \nhal permasalahan kelayakan keuangan berupa \nreputasi keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pihak Utama Pengurus atau Pihak Utama Pejabat yang \nditetapkan dengan predikat Tidak Lulus karena: \na. \npermasalahan integritas, dilarang menjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada LJK; dan/atau \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada LJK; \nb. \npermasalahan reputasi keuangan, dilarang menjadi: \n1) \nPihak Utama Pengendali atau memiliki saham \npada industri jasa keuangan dimana Pihak \nUtama dilakukan penilaian kembali; dan/atau \n2) \nPihak Utama Pengurus dan/atau Pihak Utama \nPejabat pada industri jasa keuangan dimana \nPihak Utama dilakukan penilaian kembali; \ndan/atau \nc. \npermasalahan kompetensi, dilarang menjadi Pihak \nUtama Pengurus dan/atau Pihak Utama Pejabat pada \nindustri \njasa \nkeuangan \ndimana \nPihak \nUtama \ndilakukan penilaian kembali."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nPengenaan jangka waktu larangan terhadap Pihak Utama \nyang \nditetapkan \ndengan \npredikat \nTidak \nLulus \nsebagaimana dimaksud dalam Pasal 10 ayat (2) dan/atau \nayat (3) ditetapkan: \na. \nselama jangka waktu 3 (tiga) tahun: \n1) \nbagi Pihak Utama Pengendali dalam hal terbukti \nmelakukan tindakan sebagaimana dimaksud \ndalam Pasal 4 huruf a angka 3), huruf a  \nangka 4), huruf d, huruf e, huruf g, atau  \nhuruf h; \n \n\n\n \n2) \nbagi Pihak Utama Pengurus atau Pihak Utama \nPejabat dalam hal terbukti melakukan tindakan \nsebagaimana dimaksud dalam Pasal 5 huruf a \nangka 3), huruf a angka 4), huruf d, huruf e, \nhuruf g, atau huruf h; \nb. \nselama jangka waktu 5 (lima) tahun: \n1) \nbagi Pihak Utama Pengendali dalam hal:    \na) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam Pasal 4 huruf a angka 1) \natau huruf a angka 2); atau \nb) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam Pasal 4 huruf a angka 3),  \nhuruf a angka 4), huruf  d, huruf e, huruf g \natau huruf h, dan perbuatan dimaksud: \ni. \ndilakukan secara berulang; \nii. \ndilakukan secara kumulatif; dan/atau \niii. \nterbukti menguntungkan diri sendiri \nmaupun pihak lain; \n2) \nbagi anggota Pihak Utama Pengurus atau Pihak \nUtama Pejabat dalam hal: \na) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam Pasal 5 huruf a angka 1),  \nhuruf a angka 2) atau huruf i; atau  \nb) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam  Pasal 5 huruf a angka 3), \nhuruf a angka 4), huruf  d, huruf e, huruf g, \natau huruf h, dan perbuatan dimaksud: \ni. \ndilakukan secara berulang; \nii. \ndilakukan secara kumulatif; dan/atau \niii. \nterbukti menguntungkan diri sendiri \nmaupun pihak lain; \nc. \nselama jangka waktu 20 (dua puluh) tahun: \n1) \nbagi Pihak Utama Pengendali apabila terbukti \nmelakukan tindakan sebagaimana dimaksud \ndalam  Pasal 4 huruf b, huruf c, atau huruf f; \n \n \n\n\n \n2) \nbagi Pihak Utama Pengurus atau Pihak Utama \nPejabat apabila terbukti melakukan tindakan \nsebagaimana dimaksud dalam Pasal 5 huruf b, \nhuruf c atau huruf f. \n(2) \nJangka waktu larangan sebagaimana dimaksud pada  \nayat (1) terhitung sejak: \na. \ntanggal surat penetapan Otoritas Jasa Keuangan \nsebagaimana dimaksud dalam Pasal 6 ayat (2)  \nhuruf d, dalam hal merupakan hasil akhir penilaian \nkembali Otoritas Jasa Keuangan; atau \nb. \ntanggal keputusan pengadilan yang mempunyai \nkekuatan hukum tetap yang menyatakan Pihak \nUtama yang dinilai kembali terbukti melakukan \ntindak \npidana \nsebagaimana \ndimaksud \ndalam  \nPasal 4 huruf b dan Pasal 5 huruf b atau terbukti \ndinyatakan pailit dan/atau menyebabkan pailit \nsebagaimana dimaksud dalam Pasal 4 huruf f dan \nPasal 5 huruf f.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan jangka waktu larangan terhadap Pihak Utama \nyang \nditetapkan \ndengan \npredikat \nTidak \nLulus \nsebagaimana dimaksud dalam Pasal 10 ayat (2) dan/atau \nayat (3) ditetapkan: \na. \nselama jangka waktu 3 (tiga) tahun: \n1) \nbagi Pihak Utama Pengendali dalam hal terbukti \nmelakukan tindakan sebagaimana dimaksud \ndalam Pasal 4 huruf a angka 3), huruf a  \nangka 4), huruf d, huruf e, huruf g, atau  \nhuruf h; \n \n\n\n \n2) \nbagi Pihak Utama Pengurus atau Pihak Utama \nPejabat dalam hal terbukti melakukan tindakan \nsebagaimana dimaksud dalam Pasal 5 huruf a \nangka 3), huruf a angka 4), huruf d, huruf e, \nhuruf g, atau huruf h; \nb. \nselama jangka waktu 5 (lima) tahun: \n1) \nbagi Pihak Utama Pengendali dalam hal:    \na) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam Pasal 4 huruf a angka 1) \natau huruf a angka 2); atau \nb) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam Pasal 4 huruf a angka 3),  \nhuruf a angka 4), huruf  d, huruf e, huruf g \natau huruf h, dan perbuatan dimaksud: \ni. \ndilakukan secara berulang; \nii. \ndilakukan secara kumulatif; dan/atau \niii. \nterbukti menguntungkan diri sendiri \nmaupun pihak lain; \n2) \nbagi anggota Pihak Utama Pengurus atau Pihak \nUtama Pejabat dalam hal: \na) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam Pasal 5 huruf a angka 1),  \nhuruf a angka 2) atau huruf i; atau  \nb) \nterbukti melakukan tindakan sebagaimana \ndimaksud dalam  Pasal 5 huruf a angka 3), \nhuruf a angka 4), huruf  d, huruf e, huruf g, \natau huruf h, dan perbuatan dimaksud: \ni. \ndilakukan secara berulang; \nii. \ndilakukan secara kumulatif; dan/atau \niii. \nterbukti menguntungkan diri sendiri \nmaupun pihak lain; \nc. \nselama jangka waktu 20 (dua puluh) tahun: \n1) \nbagi Pihak Utama Pengendali apabila terbukti \nmelakukan tindakan sebagaimana dimaksud \ndalam  Pasal 4 huruf b, huruf c, atau huruf f; \n \n \n\n\n \n2) \nbagi Pihak Utama Pengurus atau Pihak Utama \nPejabat apabila terbukti melakukan tindakan \nsebagaimana dimaksud dalam Pasal 5 huruf b, \nhuruf c atau huruf f."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Jangka waktu larangan sebagaimana dimaksud pada  \nayat (1) terhitung sejak: \na. \ntanggal surat penetapan Otoritas Jasa Keuangan \nsebagaimana dimaksud dalam Pasal 6 ayat (2)  \nhuruf d, dalam hal merupakan hasil akhir penilaian \nkembali Otoritas Jasa Keuangan; atau \nb. \ntanggal keputusan pengadilan yang mempunyai \nkekuatan hukum tetap yang menyatakan Pihak \nUtama yang dinilai kembali terbukti melakukan \ntindak \npidana \nsebagaimana \ndimaksud \ndalam  \nPasal 4 huruf b dan Pasal 5 huruf b atau terbukti \ndinyatakan pailit dan/atau menyebabkan pailit \nsebagaimana dimaksud dalam Pasal 4 huruf f dan \nPasal 5 huruf f."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nBagi LJK selain bank syariah, Pihak Utama yang dilarang \nmenjadi Pihak Utama Pengendali atau memiliki saham \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a \nangka 1), ayat (2) huruf b angka 1), ayat (3) huruf a  \nangka 1), atau ayat (3) huruf b angka 1): \na. \ndilarang melakukan tindakan sebagai Pihak Utama \nPengendali; \nb. \ndilarang menjalankan hak selaku pemegang saham \ndan saham tersebut tidak diperhitungkan dalam \nkuorum RUPS; dan \nc. \nwajib mengalihkan seluruh kepemilikan saham \ndalam jangka waktu paling lambat 1 (satu) tahun, \nsejak ditetapkan dengan predikat Tidak Lulus. \n \n \n \n \n\n\n \n(2) \nBagi bank syariah, Pihak Utama yang dilarang menjadi \nPihak \nUtama \nPengendali \natau \nmemiliki \nsaham \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a \nangka 1), ayat (2) huruf b angka 1), ayat (3) huruf a  \nangka 1), atau ayat (3) huruf b angka 1):  \na. \ndilarang melakukan tindakan sebagai Pihak Utama \nPengendali; \nb. \nhanya dapat menjalankan hak selaku pemegang \nsaham dengan jumlah paling banyak 10% (sepuluh \npersen) dari setiap saham di bank syariah; dan \nc. \nwajib menurunkan kepemilikan saham menjadi \npaling banyak 10% (sepuluh persen) pada setiap bank \nsyariah dalam jangka waktu paling lambat 6 (enam) \nbulan,  \nsejak ditetapkan dengan predikat Tidak Lulus. \n(3) \nLJK wajib mencantumkan penjelasan dalam daftar \npemegang saham LJK mengenai status Pihak Utama \nsebagaimana dimaksud pada ayat (1) dan ayat (2). \n(4) \nDalam hal Pihak Utama yang ditetapkan dengan predikat \nTidak Lulus adalah PSP dari Bank yang berada dalam \npenanganan atau penyelamatan oleh Lembaga Penjamin \nSimpanan, \njangka \nwaktu \nkewajiban \npengalihan \nkepemilikan sebagaimana dimaksud pada ayat (1) huruf c \ndan ayat (2) huruf c mengacu pada ketentuan peraturan \nperundang-undangan. \n(5) \nOtoritas Jasa Keuangan dapat menetapkan jangka waktu \nkewajiban \npengalihan \nkepemilikan \nsebagaimana \ndimaksud pada ayat (1) huruf c dan ayat (2) huruf c secara \ntersendiri dalam hal: \na. \nmenurut penilaian Otoritas Jasa Keuangan langkah \ndimaksud \nperlu \ndisesuaikan \ndengan \nprogram \npenyehatan \nLJK \nsebagaimana \ndiatur \ndalam \nketentuan peraturan perundang-undangan dan/atau \nkebijakan di sektor jasa keuangan; dan/atau  \nb. \nPihak \nUtama \ndikenakan \nkewajiban \nuntuk \nmengalihkan seluruh kepemilikan saham pada lebih \ndari 1 (satu) LJK.  \n\n\n \n(6) \nLJK wajib melaporkan pengalihan kepemilikan saham \nsebagaimana dimaksud pada ayat (1) huruf c, ayat (2)  \nhuruf c, dan ayat (5) kepada Otoritas Jasa Keuangan \ndalam jangka waktu paling lambat 10 (sepuluh) hari kerja \nsetelah RUPS mengesahkan pengalihan kepemilikan \nsaham.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bagi LJK selain bank syariah, Pihak Utama yang dilarang \nmenjadi Pihak Utama Pengendali atau memiliki saham \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a \nangka 1), ayat (2) huruf b angka 1), ayat (3) huruf a  \nangka 1), atau ayat (3) huruf b angka 1): \na. \ndilarang melakukan tindakan sebagai Pihak Utama \nPengendali; \nb. \ndilarang menjalankan hak selaku pemegang saham \ndan saham tersebut tidak diperhitungkan dalam \nkuorum RUPS; dan \nc. \nwajib mengalihkan seluruh kepemilikan saham \ndalam jangka waktu paling lambat 1 (satu) tahun, \nsejak ditetapkan dengan predikat Tidak Lulus."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bagi bank syariah, Pihak Utama yang dilarang menjadi \nPihak \nUtama \nPengendali \natau \nmemiliki \nsaham \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a \nangka 1), ayat (2) huruf b angka 1), ayat (3) huruf a  \nangka 1), atau ayat (3) huruf b angka 1):  \na. \ndilarang melakukan tindakan sebagai Pihak Utama \nPengendali; \nb. \nhanya dapat menjalankan hak selaku pemegang \nsaham dengan jumlah paling banyak 10% (sepuluh \npersen) dari setiap saham di bank syariah; dan \nc. \nwajib menurunkan kepemilikan saham menjadi \npaling banyak 10% (sepuluh persen) pada setiap bank \nsyariah dalam jangka waktu paling lambat 6 (enam) \nbulan,  \nsejak ditetapkan dengan predikat Tidak Lulus."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "LJK wajib mencantumkan penjelasan dalam daftar \npemegang saham LJK mengenai status Pihak Utama \nsebagaimana dimaksud pada ayat (1) dan ayat (2)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal Pihak Utama yang ditetapkan dengan predikat \nTidak Lulus adalah PSP dari Bank yang berada dalam \npenanganan atau penyelamatan oleh Lembaga Penjamin \nSimpanan, \njangka \nwaktu \nkewajiban \npengalihan \nkepemilikan sebagaimana dimaksud pada ayat (1) huruf c \ndan ayat (2) huruf c mengacu pada ketentuan peraturan \nperundang-undangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Otoritas Jasa Keuangan dapat menetapkan jangka waktu \nkewajiban \npengalihan \nkepemilikan \nsebagaimana \ndimaksud pada ayat (1) huruf c dan ayat (2) huruf c secara \ntersendiri dalam hal: \na. \nmenurut penilaian Otoritas Jasa Keuangan langkah \ndimaksud \nperlu \ndisesuaikan \ndengan \nprogram \npenyehatan \nLJK \nsebagaimana \ndiatur \ndalam \nketentuan peraturan perundang-undangan dan/atau \nkebijakan di sektor jasa keuangan; dan/atau  \nb. \nPihak \nUtama \ndikenakan \nkewajiban \nuntuk \nmengalihkan seluruh kepemilikan saham pada lebih \ndari 1 (satu) LJK."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "LJK wajib melaporkan pengalihan kepemilikan saham \nsebagaimana dimaksud pada ayat (1) huruf c, ayat (2)  \nhuruf c, dan ayat (5) kepada Otoritas Jasa Keuangan \ndalam jangka waktu paling lambat 10 (sepuluh) hari kerja \nsetelah RUPS mengesahkan pengalihan kepemilikan \nsaham."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nDalam hal Pihak Utama yang dinilai kembali sebagaimana \ndimaksud dalam Pasal 12 ayat (1) huruf c tidak \nmengalihkan seluruh kepemilikan saham sesuai dengan \njangka waktu yang ditetapkan: \na. \njangka \nwaktu \nlarangan \nkepada \nPihak \nUtama \nditetapkan ditambah selama 20 (dua puluh) tahun \ndan \ntidak \nmenghilangkan \nkewajiban \nuntuk \nmengalihkan saham; dan \nb. \npembayaran dividen ditunda sampai dengan Pihak \nUtama Pengendali mengalihkan kepemilikan saham. \n(2) \nBagi bank syariah, dalam hal Pihak Utama yang dinilai \nkembali  sebagaimana dimaksud dalam Pasal 12 ayat (2) \nhuruf c tidak menurunkan kepemilikan saham sesuai \ndengan jumlah dan jangka waktu yang ditetapkan: \na. \njangka waktu larangan kepada PSP ditetapkan \nditambah selama 20 (dua puluh) tahun dan tidak \nmenghilangkan \nkewajiban \nuntuk \nmenurunkan \nkepemilikan saham; \nb. \nhak suara PSP tidak diperhitungkan dalam RUPS; \nc. \nhak suara PSP tidak diperhitungkan dalam kuorum \nRUPS; \nd. \ndividen yang dapat dibayarkan kepada PSP paling \nbanyak 10% (sepuluh persen) dan sisanya dibayarkan \nsetelah PSP menurunkan jumlah kepemilikan saham; \ndan   \ne. \nnama PSP diumumkan kepada publik melalui 2 (dua) \nmedia massa yang mempunyai peredaran luas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Pihak Utama yang dinilai kembali sebagaimana \ndimaksud dalam Pasal 12 ayat (1) huruf c tidak \nmengalihkan seluruh kepemilikan saham sesuai dengan \njangka waktu yang ditetapkan: \na. \njangka \nwaktu \nlarangan \nkepada \nPihak \nUtama \nditetapkan ditambah selama 20 (dua puluh) tahun \ndan \ntidak \nmenghilangkan \nkewajiban \nuntuk \nmengalihkan saham; dan \nb. \npembayaran dividen ditunda sampai dengan Pihak \nUtama Pengendali mengalihkan kepemilikan saham."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bagi bank syariah, dalam hal Pihak Utama yang dinilai \nkembali  sebagaimana dimaksud dalam Pasal 12 ayat (2) \nhuruf c tidak menurunkan kepemilikan saham sesuai \ndengan jumlah dan jangka waktu yang ditetapkan: \na. \njangka waktu larangan kepada PSP ditetapkan \nditambah selama 20 (dua puluh) tahun dan tidak \nmenghilangkan \nkewajiban \nuntuk \nmenurunkan \nkepemilikan saham; \nb. \nhak suara PSP tidak diperhitungkan dalam RUPS; \nc. \nhak suara PSP tidak diperhitungkan dalam kuorum \nRUPS; \nd. \ndividen yang dapat dibayarkan kepada PSP paling \nbanyak 10% (sepuluh persen) dan sisanya dibayarkan \nsetelah PSP menurunkan jumlah kepemilikan saham; \ndan   \ne. \nnama PSP diumumkan kepada publik melalui 2 (dua) \nmedia massa yang mempunyai peredaran luas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nPengalihan kepemilikan saham sebagaimana dimaksud \ndalam Pasal 12 ayat (1) huruf c, ayat (2) huruf c, atau  \nayat (5) dapat dilakukan melalui hibah atau penjualan \nkepada pihak yang tidak memiliki hubungan keluarga \nsampai dengan derajat kedua dan/atau selain kelompok \nusaha. \n(2) \nDalam hal pengalihan kepemilikan saham dilakukan \ndengan cara mengalihkan saham kepada pihak yang \nmemiliki hubungan keluarga sampai dengan derajat \nkedua dan/atau kelompok usaha sebagaimana dimaksud \npada ayat (1) dari Pihak Utama yang ditetapkan dengan \npredikat Tidak Lulus:  \na. \npengalihan \ntersebut \ntidak \ndianggap \nsebagai \npengalihan \nkepemilikan \nsaham \nsebagaimana \ndimaksud dalam Pasal 12 ayat (1) huruf c, ayat (2) \nhuruf c, dan ayat (5); \nb. \nLJK dilarang melakukan pencatatan atas pihak yang \nmenerima pengalihan dalam daftar pemegang saham \nLJK; dan \nc. \npihak yang menerima pengalihan tidak memperoleh \nhak sebagai pemegang saham, yaitu: \n1) \nhak suara tidak diperhitungkan dalam RUPS;  \n2) \nhak suara tidak diperhitungkan dalam kuorum \nRUPS; dan \n3) \ndividen \ntidak \ndiserahkan \nsampai \ndengan \nkepemilikan saham dialihkan kepada pihak yang \ntidak memiliki hubungan keluarga sampai \ndengan \nderajat \nkedua \ndan/atau \nselain  \nkelompok usaha.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengalihan kepemilikan saham sebagaimana dimaksud \ndalam Pasal 12 ayat (1) huruf c, ayat (2) huruf c, atau  \nayat (5) dapat dilakukan melalui hibah atau penjualan \nkepada pihak yang tidak memiliki hubungan keluarga \nsampai dengan derajat kedua dan/atau selain kelompok \nusaha."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal pengalihan kepemilikan saham dilakukan \ndengan cara mengalihkan saham kepada pihak yang \nmemiliki hubungan keluarga sampai dengan derajat \nkedua dan/atau kelompok usaha sebagaimana dimaksud \npada ayat (1) dari Pihak Utama yang ditetapkan dengan \npredikat Tidak Lulus:  \na. \npengalihan \ntersebut \ntidak \ndianggap \nsebagai \npengalihan \nkepemilikan \nsaham \nsebagaimana \ndimaksud dalam Pasal 12 ayat (1) huruf c, ayat (2) \nhuruf c, dan ayat (5); \nb. \nLJK dilarang melakukan pencatatan atas pihak yang \nmenerima pengalihan dalam daftar pemegang saham \nLJK; dan \nc. \npihak yang menerima pengalihan tidak memperoleh \nhak sebagai pemegang saham, yaitu: \n1) \nhak suara tidak diperhitungkan dalam RUPS;  \n2) \nhak suara tidak diperhitungkan dalam kuorum \nRUPS; dan \n3) \ndividen \ntidak \ndiserahkan \nsampai \ndengan \nkepemilikan saham dialihkan kepada pihak yang \ntidak memiliki hubungan keluarga sampai \ndengan \nderajat \nkedua \ndan/atau \nselain  \nkelompok usaha."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nPihak Utama yang dilarang menjadi Pihak Utama \nPengurus dan/atau Pihak Utama Pejabat sebagaimana \ndimaksud dalam Pasal 10 ayat (2) huruf a angka 2),  \nayat (2) huruf b angka 2), ayat (3) huruf a angka 2),  \nayat (3) huruf b angka 2), dan ayat (3) huruf c: \na. \ndilarang untuk melakukan tindakan sebagai Pihak \nUtama Pengurus dan/atau Pihak Utama Pejabat; dan \nb. \nwajib berhenti sebagai Pihak Utama Pengurus \ndan/atau Pihak Utama Pejabat. \n(2) \nLJK wajib menindaklanjuti konsekuensi sebagaimana \ndimaksud pada ayat (1) paling lambat 3 (tiga) bulan sejak \ntanggal pemberitahuan dari Otoritas Jasa Keuangan. \n(3) \nLJK \nwajib \nmelaporkan \ntindak \nlanjut \nsebagaimana \ndimaksud pada ayat (2) kepada Otoritas Jasa Keuangan \ndalam jangka waktu paling lambat 10 (sepuluh) hari  \nkerja sejak: \na. \nTanggal penyelenggaraan RUPS pemberhentian Pihak \nUtama Pengurus; dan/atau  \nb. \nTanggal pemberhentian  Pihak Utama Pejabat. \n(4) \nDalam hal  Pihak Utama Pengurus atau Pihak Utama \nPejabat sebagaimana dimaksud pada ayat (1) masih \nmelakukan tindakan sebagai  Pihak Utama Pengurus atau \nPihak Utama Pejabat, jangka waktu larangan kepada \nPihak Utama Pengurus atau Pihak Utama Pejabat \nditambah selama 20 (dua puluh) tahun.   \n(5) \nPihak \nUtama \nPengendali \nyang \ndengan \nsengaja \nmembiarkan  Pihak Utama Pengurus yang Tidak Lulus \nmelakukan tindakan sebagai Pihak Utama Pengurus, \ndiberikan predikat Tidak Lulus dengan jangka waktu \nlarangan selama 20 (dua puluh) tahun dengan terlebih \ndahulu \ndilakukan \npenilaian \nkembali \nsebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan ini. \n(6) \nAnggota Direksi yang dengan sengaja membiarkan Pihak \nUtama Pejabat yang Tidak Lulus untuk melakukan \ntindakan sebagai Pihak Utama Pejabat, ditetapkan dengan \npredikat Tidak Lulus dengan jangka waktu larangan \n\n\n \nselama 3 (tiga) tahun dengan terlebih dahulu dilakukan \npenilaian \nkembali \nsebagaimana \ndimaksud \ndalam \nPeraturan Otoritas Jasa Keuangan ini. \n(7) \nPihak Utama Pengendali atau anggota Direksi yang \nditetapkan dengan predikat Tidak Lulus sebagaimana \ndimaksud pada ayat (5) dan ayat (6) dikenakan \nkonsekuensi Tidak Lulus atas permasalahan integritas \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a \ndan ayat (3) huruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak Utama yang dilarang menjadi Pihak Utama \nPengurus dan/atau Pihak Utama Pejabat sebagaimana \ndimaksud dalam Pasal 10 ayat (2) huruf a angka 2),  \nayat (2) huruf b angka 2), ayat (3) huruf a angka 2),  \nayat (3) huruf b angka 2), dan ayat (3) huruf c: \na. \ndilarang untuk melakukan tindakan sebagai Pihak \nUtama Pengurus dan/atau Pihak Utama Pejabat; dan \nb. \nwajib berhenti sebagai Pihak Utama Pengurus \ndan/atau Pihak Utama Pejabat."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "LJK wajib menindaklanjuti konsekuensi sebagaimana \ndimaksud pada ayat (1) paling lambat 3 (tiga) bulan sejak \ntanggal pemberitahuan dari Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "LJK \nwajib \nmelaporkan \ntindak \nlanjut \nsebagaimana \ndimaksud pada ayat (2) kepada Otoritas Jasa Keuangan \ndalam jangka waktu paling lambat 10 (sepuluh) hari  \nkerja sejak: \na. \nTanggal penyelenggaraan RUPS pemberhentian Pihak \nUtama Pengurus; dan/atau  \nb. \nTanggal pemberhentian  Pihak Utama Pejabat."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal  Pihak Utama Pengurus atau Pihak Utama \nPejabat sebagaimana dimaksud pada ayat (1) masih \nmelakukan tindakan sebagai  Pihak Utama Pengurus atau \nPihak Utama Pejabat, jangka waktu larangan kepada \nPihak Utama Pengurus atau Pihak Utama Pejabat \nditambah selama 20 (dua puluh) tahun."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pihak \nUtama \nPengendali \nyang \ndengan \nsengaja \nmembiarkan  Pihak Utama Pengurus yang Tidak Lulus \nmelakukan tindakan sebagai Pihak Utama Pengurus, \ndiberikan predikat Tidak Lulus dengan jangka waktu \nlarangan selama 20 (dua puluh) tahun dengan terlebih \ndahulu \ndilakukan \npenilaian \nkembali \nsebagaimana \ndimaksud dalam Peraturan Otoritas Jasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Anggota Direksi yang dengan sengaja membiarkan Pihak \nUtama Pejabat yang Tidak Lulus untuk melakukan \ntindakan sebagai Pihak Utama Pejabat, ditetapkan dengan \npredikat Tidak Lulus dengan jangka waktu larangan \n\n\n \nselama 3 (tiga) tahun dengan terlebih dahulu dilakukan \npenilaian \nkembali \nsebagaimana \ndimaksud \ndalam \nPeraturan Otoritas Jasa Keuangan ini."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Pihak Utama Pengendali atau anggota Direksi yang \nditetapkan dengan predikat Tidak Lulus sebagaimana \ndimaksud pada ayat (5) dan ayat (6) dikenakan \nkonsekuensi Tidak Lulus atas permasalahan integritas \nsebagaimana dimaksud dalam Pasal 10 ayat (2) huruf a \ndan ayat (3) huruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KONSEKUENSI HASIL AKHIR PENILAIAN KEMBALI",
+      "teks_lengkap": "(1) \nPihak Utama yang dikenakan konsekuensi sebagaimana \ndimaksud dalam Pasal 10 ayat (2) dan ayat (3) dapat \nmengajukan permohonan peninjauan ulang atas predikat \nTidak \nLulus \nsebelum \njangka \nwaktu \nkonsekuensi \nterlampaui. \n(2) \nPermohonan peninjauan ulang sebagaimana dimaksud  \npada ayat (1) dapat diajukan dalam hal memenuhi kriteria: \na. \nterdapat bukti, data, dan/atau informasi baru terkait \nketidakhadiran, atau tidak menyampaikan klarifikasi \natau tanggapan pada saat dilakukan penilaian \nkembali; \nb. \nterdapat keputusan pengadilan yang berkekuatan \nhukum \ntetap \nyang \nmenyatakan \nbahwa \npihak \nsebagaimana dimaksud pada ayat (1) tidak terbukti \nmelakukan tindak pidana sebagaimana dimaksud \ndalam Pasal 4 huruf b dan/atau Pasal 5 huruf b atau \ntidak terbukti dinyatakan pailit dan/atau menjadi \npemegang saham, anggota direksi, anggota dewan \nkomisaris, atau yang setara, yang dinyatakan \nbersalah \nmenyebabkan \nsuatu \nperusahaan \ndinyatakan \npailit \natau \ndicabut \nizin \nusahanya \nsebagaimana dimaksud dalam Pasal 4 huruf f atau \nPasal 5 huruf f; \nc. \nsebagai konsekuensi dari pelaksanaan Undang-\nUndang Negara Republik Indonesia; dan/atau \n \n\n\n \nd. \ntelah menjalani ¾ (tiga per empat) dari jangka waktu \nkonsekuensi, dan Pihak Utama: \n1) \ntidak \nmemiliki \ncatatan \nnegatif \nselama \ndinyatakan Tidak Lulus; dan \n2) \nberkomitmen \nuntuk \nberkontribusi \nsecara \nsignifikan dalam penguatan atau penyelamatan \nindustri \ndi \nsektor \njasa \nkeuangan \nyang \ndirealisasikan berdasarkan jangka waktu yang \nditetapkan Otoritas Jasa Keuangan. \n(3) \nOtoritas Jasa Keuangan berwenang menindaklanjuti atau \ntidak menindaklanjuti permohonan peninjauan ulang \nsebagaimana dimaksud pada ayat (1). \n(4) \nDalam hal permohonan peninjauan ulang sebagaimana \ndimaksud pada ayat (3) ditindaklanjuti, peninjauan ulang \ndilaksanakan melalui mekanisme penilaian kembali \nsesuai ketentuan sebagaimana dimaksud dalam Peraturan \nOtoritas Jasa Keuangan ini. \n \n \nBAB VI \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak Utama yang dikenakan konsekuensi sebagaimana \ndimaksud dalam Pasal 10 ayat (2) dan ayat (3) dapat \nmengajukan permohonan peninjauan ulang atas predikat \nTidak \nLulus \nsebelum \njangka \nwaktu \nkonsekuensi \nterlampaui."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Permohonan peninjauan ulang sebagaimana dimaksud  \npada ayat (1) dapat diajukan dalam hal memenuhi kriteria: \na. \nterdapat bukti, data, dan/atau informasi baru terkait \nketidakhadiran, atau tidak menyampaikan klarifikasi \natau tanggapan pada saat dilakukan penilaian \nkembali; \nb. \nterdapat keputusan pengadilan yang berkekuatan \nhukum \ntetap \nyang \nmenyatakan \nbahwa \npihak \nsebagaimana dimaksud pada ayat (1) tidak terbukti \nmelakukan tindak pidana sebagaimana dimaksud \ndalam Pasal 4 huruf b dan/atau Pasal 5 huruf b atau \ntidak terbukti dinyatakan pailit dan/atau menjadi \npemegang saham, anggota direksi, anggota dewan \nkomisaris, atau yang setara, yang dinyatakan \nbersalah \nmenyebabkan \nsuatu \nperusahaan \ndinyatakan \npailit \natau \ndicabut \nizin \nusahanya \nsebagaimana dimaksud dalam Pasal 4 huruf f atau \nPasal 5 huruf f; \nc. \nsebagai konsekuensi dari pelaksanaan Undang-\nUndang Negara Republik Indonesia; dan/atau \n \n\n\n \nd. \ntelah menjalani ¾ (tiga per empat) dari jangka waktu \nkonsekuensi, dan Pihak Utama: \n1) \ntidak \nmemiliki \ncatatan \nnegatif \nselama \ndinyatakan Tidak Lulus; dan \n2) \nberkomitmen \nuntuk \nberkontribusi \nsecara \nsignifikan dalam penguatan atau penyelamatan \nindustri \ndi \nsektor \njasa \nkeuangan \nyang \ndirealisasikan berdasarkan jangka waktu yang \nditetapkan Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Otoritas Jasa Keuangan berwenang menindaklanjuti atau \ntidak menindaklanjuti permohonan peninjauan ulang \nsebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal permohonan peninjauan ulang sebagaimana \ndimaksud pada ayat (3) ditindaklanjuti, peninjauan ulang \ndilaksanakan melalui mekanisme penilaian kembali \nsesuai ketentuan sebagaimana dimaksud dalam Peraturan \nOtoritas Jasa Keuangan ini. \n \n \nBAB VI \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nLJK wajib menyampaikan laporan pengkinian data dan \ninformasi domisili dari Pihak Utama dan/atau pihak yang  \ndapat dihubungi. \n(2) \nLaporan \npengkinian \ndata \ndan \ninformasi \ndomisili \nsebagaimana dimaksud pada ayat (1) disampaikan \npertama kali kepada Otoritas Jasa Keuangan paling \nlambat 1 (satu) bulan sejak Peraturan Otoritas Jasa \nKeuangan ini berlaku. \n(3) \nDalam hal terdapat perubahan data dan informasi domisili \nsebagaimana dimaksud pada ayat (2), LJK menyampaikan \ndata dan informasi kepada Otoritas Jasa Keuangan  \nsetiap waktu.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "LJK wajib menyampaikan laporan pengkinian data dan \ninformasi domisili dari Pihak Utama dan/atau pihak yang  \ndapat dihubungi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan \npengkinian \ndata \ndan \ninformasi \ndomisili \nsebagaimana dimaksud pada ayat (1) disampaikan \npertama kali kepada Otoritas Jasa Keuangan paling \nlambat 1 (satu) bulan sejak Peraturan Otoritas Jasa \nKeuangan ini berlaku."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat perubahan data dan informasi domisili \nsebagaimana dimaksud pada ayat (2), LJK menyampaikan \ndata dan informasi kepada Otoritas Jasa Keuangan  \nsetiap waktu."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nOtoritas Jasa Keuangan dapat memberikan sanksi kepada \npihak terafiliasi yang terlibat atau turut serta dalam \nperbuatan yang menyebabkan Pihak Utama dinyatakan \nTidak Lulus. \n(2) \nPemberian sanksi sebagaimana dimaksud pada ayat (1) \nmengacu \npada \nketentuan \nperaturan \nperundang-\nundangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Otoritas Jasa Keuangan dapat memberikan sanksi kepada \npihak terafiliasi yang terlibat atau turut serta dalam \nperbuatan yang menyebabkan Pihak Utama dinyatakan \nTidak Lulus."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemberian sanksi sebagaimana dimaksud pada ayat (1) \nmengacu \npada \nketentuan \nperaturan \nperundang-\nundangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "LJK wajib mengungkapkan penjelasan mengenai status Pihak \nUtama sebagaimana dimaksud dalam Pasal 12 ayat (3) dalam \nlaporan publikasi LJK. \n \nBAB VII \nSANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "LJK wajib mengungkapkan penjelasan mengenai status Pihak \nUtama sebagaimana dimaksud dalam Pasal 12 ayat (3) dalam \nlaporan publikasi LJK. \n \nBAB VII \nSANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "SANKSI",
+      "teks_lengkap": "(1) \nLJK yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 12 ayat (3), Pasal 14 ayat (2) huruf b,  \nPasal 15 ayat (2), Pasal 17 ayat (1), dan/atau Pasal 19 \ndikenakan sanksi administratif berupa peringatan tertulis \natau teguran tertulis dan/atau penggantian Pihak Utama \nPengurus. \n(2) \nLJK \nselain \nBank \nPerkreditan \nRakyat \ndan \nBank \nPembiayaan Rakyat Syariah yang melanggar kewajiban \nmenyampaikan laporan sebagaimana dimaksud dalam \nPasal 12 ayat (6) dan/atau Pasal 15 ayat (3) dikenakan \nsanksi administratif berupa peringatan atau teguran \ntertulis dan denda sebesar: \na. \nRp1.000.000,00 (satu juta rupiah) per hari kerja \nketerlambatan untuk setiap laporan; atau \nb. \nRp50.000.000,00 (lima puluh juta rupiah) untuk \nsetiap laporan, bagi LJK yang belum menyampaikan \nlaporan melebihi 30 (tiga puluh) hari kerja setelah \nbatas akhir waktu penyampaian laporan. \n \n\n\n \n(3) \nBank Perkreditan Rakyat dan Bank Pembiayaan Rakyat \nSyariah \nyang \nmelanggar \nkewajiban \nmenyampaikan \nlaporan sebagaimana dimaksud dalam Pasal 12 ayat (6) \ndan/atau Pasal 15 ayat (3) dikenakan sanksi berupa \nperingatan atau teguran tertulis dan denda administratif \nsebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari kerja \nketerlambatan untuk setiap laporan; atau \nb. \nRp5.000.000,00 (lima juta rupiah) untuk setiap \nlaporan, bagi Bank Perkreditan Rakyat atau Bank \nPembiayaan \nRakyat \nSyariah \nyang \nbelum \nmenyampaikan laporan melebihi 30 (tiga puluh) hari \nkerja setelah batas akhir waktu penyampaian \nlaporan. \n(4) \nPihak Utama yang dilarang menjadi Pihak Utama \nPengendali atau memiliki saham yang dengan sengaja \ntidak menaati ketentuan sebagaimana dimaksud dalam \nPasal 12 ayat (1) huruf c, ayat (2) huruf c dan/atau  \nPasal 15 ayat (5), dikenakan sanksi: \na. \nsesuai dengan Pasal 50 Undang-Undang Nomor 7 \nTahun 1992 tentang Perbankan sebagaimana telah \ndiubah dengan Undang-Undang Nomor 10 Tahun \n1998, bagi Bank selain bank syariah;  \nb. \nsesuai dengan Pasal 64 Undang-Undang Nomor 21 \nTahun 2008 tentang Perbankan Syariah, bagi bank \nsyariah; atau \nc. \nsesuai dengan Pasal 54 Undang-Undang Nomor 21 \nTahun 2011 tentang Otoritas Jasa Keuangan, bagi \nLJK. \n(5) \nPihak Utama Pengurus atau Pihak Utama Pejabat yang \ndengan sengaja tidak menaati ketentuan sebagaimana \ndimaksud dalam Pasal 15 ayat (1) dikenakan sanksi: \na. \nsesuai Pasal 49 ayat (2) huruf b Undang-Undang  \nNomor \nTahun \ntentang \nPerbankan \nsebagaimana telah diubah dengan Undang-Undang \nNomor 10 Tahun 1998, bagi Bank selain bank \nsyariah;  \n\n\n \nb. \nsesuai \ndengan \nPasal \nayat \n(2) \nhuruf \nb  \nUndang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah, bagi bank syariah; atau \nc. \nsesuai dengan Pasal 54 Undang-Undang Nomor 21 \nTahun 2011 tentang Otoritas Jasa Keuangan,  \nbagi LJK.  \n \nBAB VIII \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "LJK yang melanggar ketentuan sebagaimana dimaksud \ndalam Pasal 12 ayat (3), Pasal 14 ayat (2) huruf b,  \nPasal 15 ayat (2), Pasal 17 ayat (1), dan/atau Pasal 19 \ndikenakan sanksi administratif berupa peringatan tertulis \natau teguran tertulis dan/atau penggantian Pihak Utama \nPengurus."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "LJK \nselain \nBank \nPerkreditan \nRakyat \ndan \nBank \nPembiayaan Rakyat Syariah yang melanggar kewajiban \nmenyampaikan laporan sebagaimana dimaksud dalam \nPasal 12 ayat (6) dan/atau Pasal 15 ayat (3) dikenakan \nsanksi administratif berupa peringatan atau teguran \ntertulis dan denda sebesar: \na. \nRp1.000.000,00 (satu juta rupiah) per hari kerja \nketerlambatan untuk setiap laporan; atau \nb. \nRp50.000.000,00 (lima puluh juta rupiah) untuk \nsetiap laporan, bagi LJK yang belum menyampaikan \nlaporan melebihi 30 (tiga puluh) hari kerja setelah \nbatas akhir waktu penyampaian laporan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat \nSyariah \nyang \nmelanggar \nkewajiban \nmenyampaikan \nlaporan sebagaimana dimaksud dalam Pasal 12 ayat (6) \ndan/atau Pasal 15 ayat (3) dikenakan sanksi berupa \nperingatan atau teguran tertulis dan denda administratif \nsebesar: \na. \nRp100.000,00 (seratus ribu rupiah) per hari kerja \nketerlambatan untuk setiap laporan; atau \nb. \nRp5.000.000,00 (lima juta rupiah) untuk setiap \nlaporan, bagi Bank Perkreditan Rakyat atau Bank \nPembiayaan \nRakyat \nSyariah \nyang \nbelum \nmenyampaikan laporan melebihi 30 (tiga puluh) hari \nkerja setelah batas akhir waktu penyampaian \nlaporan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pihak Utama yang dilarang menjadi Pihak Utama \nPengendali atau memiliki saham yang dengan sengaja \ntidak menaati ketentuan sebagaimana dimaksud dalam \nPasal 12 ayat (1) huruf c, ayat (2) huruf c dan/atau  \nPasal 15 ayat (5), dikenakan sanksi: \na. \nsesuai dengan Pasal 50 Undang-Undang Nomor 7 \nTahun 1992 tentang Perbankan sebagaimana telah \ndiubah dengan Undang-Undang Nomor 10 Tahun \n1998, bagi Bank selain bank syariah;  \nb. \nsesuai dengan Pasal 64 Undang-Undang Nomor 21 \nTahun 2008 tentang Perbankan Syariah, bagi bank \nsyariah; atau \nc. \nsesuai dengan Pasal 54 Undang-Undang Nomor 21 \nTahun 2011 tentang Otoritas Jasa Keuangan, bagi \nLJK."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pihak Utama Pengurus atau Pihak Utama Pejabat yang \ndengan sengaja tidak menaati ketentuan sebagaimana \ndimaksud dalam Pasal 15 ayat (1) dikenakan sanksi: \na. \nsesuai Pasal 49 ayat (2) huruf b Undang-Undang  \nNomor \nTahun \ntentang \nPerbankan \nsebagaimana telah diubah dengan Undang-Undang \nNomor 10 Tahun 1998, bagi Bank selain bank \nsyariah;  \n\n\n \nb. \nsesuai \ndengan \nPasal \nayat"
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "huruf \nb  \nUndang-Undang Nomor 21 Tahun 2008 tentang \nPerbankan Syariah, bagi bank syariah; atau \nc. \nsesuai dengan Pasal 54 Undang-Undang Nomor 21 \nTahun 2011 tentang Otoritas Jasa Keuangan,  \nbagi LJK.  \n \nBAB VIII \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "Pihak yang termasuk dalam daftar pihak yang dilarang untuk \nmenjadi Pihak Utama berdasarkan: \na. \nPeraturan \nBank \nIndonesia \nNomor \n12/23/PBI/2010 \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper \nTest) (Lembaran Negara Republik Indonesia Tahun 2010  \nNomor 155, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5180); \nb. \nPeraturan \nBank \nIndonesia \nNomor \n14/6/PBI/2012  \ntentang Uji Kemampun dan Kepatutan (Fit and Proper Test) \nBank Syariah dan Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2012 Nomor 136, Tambahan \nLembaran Negara Republik Indonesia Nomor 5322); dan \nc. \nPeraturan \nBank \nIndonesia \nNomor \n14/9/PBI/2012  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper \nTest) Bank Perkreditan Rakyat (Lembaran Negara Republik \nIndonesia Tahun 2012 Nomor 150, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5331), \ntetap dilarang menjadi pemegang saham, anggota Direksi, \nanggota Dewan Komisaris, dan/atau Pejabat Eksekutif pada \nperbankan sampai dengan jangka waktu pelarangan berakhir.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pihak yang termasuk dalam daftar pihak yang dilarang untuk \nmenjadi Pihak Utama berdasarkan: \na. \nPeraturan \nBank \nIndonesia \nNomor \n12/23/PBI/2010 \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper \nTest) (Lembaran Negara Republik Indonesia Tahun 2010  \nNomor 155, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5180); \nb. \nPeraturan \nBank \nIndonesia \nNomor \n14/6/PBI/2012  \ntentang Uji Kemampun dan Kepatutan (Fit and Proper Test) \nBank Syariah dan Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2012 Nomor 136, Tambahan \nLembaran Negara Republik Indonesia Nomor 5322); dan \nc. \nPeraturan \nBank \nIndonesia \nNomor \n14/9/PBI/2012  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper \nTest) Bank Perkreditan Rakyat (Lembaran Negara Republik \nIndonesia Tahun 2012 Nomor 150, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5331), \ntetap dilarang menjadi pemegang saham, anggota Direksi, \nanggota Dewan Komisaris, dan/atau Pejabat Eksekutif pada \nperbankan sampai dengan jangka waktu pelarangan berakhir."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "(1) \nTerhadap uji kemampuan dan kepatutan, penilaian \nkembali, \natau \npenilaian \nkembali \nkemampuan \ndan \nkepatutan bagi Pihak Utama yang sedang dilakukan pada \nsaat berlakunya Peraturan Otoritas Jasa Keuangan ini, \ntata cara, hasil, dan konsekuensi hasil uji kemampuan \ndan kepatutan, penilaian kembali, atau penilaian kembali \nkemampuan \ndan \nkepatutan \ntetap \nmengacu \npada \nketentuan uji kemampuan dan kepatutan, penilaian \nkembali, \natau \npenilaian \nkembali \nkemampuan \ndan \nkepatutan pada masing-masing sektor jasa keuangan. \n(2) \nPihak Utama yang mendapatkan predikat Tidak Lulus \ndalam uji kemampuan dan kepatutan, penilaian kembali, \natau penilaian kembali kemampuan dan kepatutan \nsebelum berlakunya Peraturan Otoritas Jasa Keuangan ini \ndapat \nmengajukan \npermohonan \npeninjauan \nulang \nsebagaimana dimaksud dalam Pasal 16. \n(3) \nKetentuan pelaksanaan dari: \na. \nPeraturan Bank Indonesia Nomor 12/23/PBI/2010  \ntentang \nUji \nKemampuan \ndan \nKepatutan  \n(Fit and Proper Test) (Lembaran Negara Republik \nIndonesia Tahun 2010 Nomor 155, Tambahan \nLembaran Negara Republik Indonesia Nomor 5180); \nb. \nPeraturan Bank Indonesia Nomor 14/6/PBI/2012  \ntentang \nUji \nKemampun \ndan \nKepatutan  \n(Fit and Proper Test) Bank Syariah dan Unit Usaha \nSyariah \n(Lembaran \nNegara \nRepublik \nIndonesia  \nTahun 2012 Nomor 136, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5322);  \nc. \nPeraturan Bank Indonesia Nomor 14/9/PBI/2012  \ntentang \nUji \nKemampuan \ndan \nKepatutan  \n(Fit and Proper Test) Bank Perkreditan Rakyat \n(Lembaran Negara Republik Indonesia Tahun 2012 \nNomor 150, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5331); dan \n \n \n\n\n \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor \n04/POJK.05/2013 \ntentang \nPenilaian \nKemampuan dan Kepatutan Bagi Pihak Utama Pada \nPerusahaan \nPerasuransian, \nDana \nPensiun, \nPerusahaan \nPembiayaan, \ndan \nPerusahaan \nPenjaminan, (Lembaran Negara Republik Indonesia \nTahun 2013 Nomor 231, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5474), \ntetap berlaku sepanjang tidak bertentangan dengan \nPeraturan Otoritas Jasa Keuangan ini. \n \nBAB IX \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Terhadap uji kemampuan dan kepatutan, penilaian \nkembali, \natau \npenilaian \nkembali \nkemampuan \ndan \nkepatutan bagi Pihak Utama yang sedang dilakukan pada \nsaat berlakunya Peraturan Otoritas Jasa Keuangan ini, \ntata cara, hasil, dan konsekuensi hasil uji kemampuan \ndan kepatutan, penilaian kembali, atau penilaian kembali \nkemampuan \ndan \nkepatutan \ntetap \nmengacu \npada \nketentuan uji kemampuan dan kepatutan, penilaian \nkembali, \natau \npenilaian \nkembali \nkemampuan \ndan \nkepatutan pada masing-masing sektor jasa keuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak Utama yang mendapatkan predikat Tidak Lulus \ndalam uji kemampuan dan kepatutan, penilaian kembali, \natau penilaian kembali kemampuan dan kepatutan \nsebelum berlakunya Peraturan Otoritas Jasa Keuangan ini \ndapat \nmengajukan \npermohonan \npeninjauan \nulang \nsebagaimana dimaksud dalam Pasal 16."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Ketentuan pelaksanaan dari: \na. \nPeraturan Bank Indonesia Nomor 12/23/PBI/2010  \ntentang \nUji \nKemampuan \ndan \nKepatutan  \n(Fit and Proper Test) (Lembaran Negara Republik \nIndonesia Tahun 2010 Nomor 155, Tambahan \nLembaran Negara Republik Indonesia Nomor 5180); \nb. \nPeraturan Bank Indonesia Nomor 14/6/PBI/2012  \ntentang \nUji \nKemampun \ndan \nKepatutan  \n(Fit and Proper Test) Bank Syariah dan Unit Usaha \nSyariah \n(Lembaran \nNegara \nRepublik \nIndonesia  \nTahun 2012 Nomor 136, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5322);  \nc. \nPeraturan Bank Indonesia Nomor 14/9/PBI/2012  \ntentang \nUji \nKemampuan \ndan \nKepatutan  \n(Fit and Proper Test) Bank Perkreditan Rakyat \n(Lembaran Negara Republik Indonesia Tahun 2012 \nNomor 150, Tambahan Lembaran Negara Republik \nIndonesia Nomor 5331); dan \n \n \n\n\n \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor \n04/POJK.05/2013 \ntentang \nPenilaian \nKemampuan dan Kepatutan Bagi Pihak Utama Pada \nPerusahaan \nPerasuransian, \nDana \nPensiun, \nPerusahaan \nPembiayaan, \ndan \nPerusahaan \nPenjaminan, (Lembaran Negara Republik Indonesia \nTahun 2013 Nomor 231, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5474), \ntetap berlaku sepanjang tidak bertentangan dengan \nPeraturan Otoritas Jasa Keuangan ini. \n \nBAB IX \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai pelaksanaan penilaian \nkembali bagi pihak utama lembaga jasa keuangan diatur dalam \nSurat Edaran Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai pelaksanaan penilaian \nkembali bagi pihak utama lembaga jasa keuangan diatur dalam \nSurat Edaran Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan  Otoritas Jasa Keuangan ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n12/23/PBI/2010 \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper \nTest) (Lembaran Negara Republik Indonesia Tahun 2010  \nNomor 155, Tambahan Lembaran Negara Republik  \nIndonesia Nomor 5180); \nb. \nPeraturan Bank Indonesia Nomor 14/6/PBI/2012 tentang \nUji Kemampun dan Kepatutan (Fit and Proper Test) Bank \nSyariah dan Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2012 Nomor 136, Tambahan \nLembaran Negara Republik Indonesia Nomor 5322);  \nc. \nPeraturan Bank Indonesia Nomor 14/9/PBI/2012 tentang \nUji Kemampuan dan Kepatutan (Fit and Proper Test) Bank \nPerkreditan Rakyat (Lembaran Negara Republik Indonesia  \nTahun 2012 Nomor 150, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5331); dan \n \n\n\n \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor 04/POJK.05/2013 tentang Penilaian Kemampuan \ndan Kepatutan Bagi Pihak Utama Pada Perusahaan \nPerasuransian, Dana Pensiun, Perusahaan Pembiayaan, \ndan Perusahaan Penjaminan, (Lembaran Negara Republik \nIndonesia Tahun 2013 Nomor 231, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5474), \ndicabut dan dinyatakan tidak berlaku kecuali untuk proses uji \nkemampuan dan kepatutan, penilaian kembali, atau penilaian \nkembali kemampuan dan kepatutan bagi Pihak Utama yang \nsedang \ndilakukan \nsebagaimana \ndimaksud \ndalam  \nPasal 22 ayat (1). \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan  Otoritas Jasa Keuangan ini mulai berlaku: \na. \nPeraturan \nBank \nIndonesia \nNomor \n12/23/PBI/2010 \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper \nTest) (Lembaran Negara Republik Indonesia Tahun 2010  \nNomor 155, Tambahan Lembaran Negara Republik  \nIndonesia Nomor 5180); \nb. \nPeraturan Bank Indonesia Nomor 14/6/PBI/2012 tentang \nUji Kemampun dan Kepatutan (Fit and Proper Test) Bank \nSyariah dan Unit Usaha Syariah (Lembaran Negara \nRepublik Indonesia Tahun 2012 Nomor 136, Tambahan \nLembaran Negara Republik Indonesia Nomor 5322);  \nc. \nPeraturan Bank Indonesia Nomor 14/9/PBI/2012 tentang \nUji Kemampuan dan Kepatutan (Fit and Proper Test) Bank \nPerkreditan Rakyat (Lembaran Negara Republik Indonesia  \nTahun 2012 Nomor 150, Tambahan Lembaran Negara \nRepublik Indonesia Nomor 5331); dan \n \n\n\n \nd. \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor 04/POJK.05/2013 tentang Penilaian Kemampuan \ndan Kepatutan Bagi Pihak Utama Pada Perusahaan \nPerasuransian, Dana Pensiun, Perusahaan Pembiayaan, \ndan Perusahaan Penjaminan, (Lembaran Negara Republik \nIndonesia Tahun 2013 Nomor 231, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5474), \ndicabut dan dinyatakan tidak berlaku kecuali untuk proses uji \nkemampuan dan kepatutan, penilaian kembali, atau penilaian \nkembali kemampuan dan kepatutan bagi Pihak Utama yang \nsedang \ndilakukan \nsebagaimana \ndimaksud \ndalam  \nPasal 22 ayat (1). \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n \nSalinan ini sesuai dengan aslinya \nDirektur Hukum 1 \nDepartemen Hukum \n \nttd \n \nYuliana"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku 1 (satu) \nbulan sejak tanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Desember 2018 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \nDiundangkan di Jakarta \npada tanggal 28 Desember 2018 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 259\n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 34 /POJK.03/2018 \nTENTANG \nPENILAIAN KEMBALI BAGI PIHAK UTAMA LEMBAGA JASA KEUANGAN \n \nI. \nUMUM \nUntuk mewujudkan perekonomian nasional yang mampu tumbuh \nsecara stabil dan berkelanjutan serta dapat memberikan kesejahteraan bagi \nseluruh masyarakat Indonesia, LJK mempunyai fungsi yang sangat penting  \ndalam mengelola dan memanfaatkan dana masyarakat. Fungsi intermediasi \nyang dilakukan oleh LJK dalam perkembangannya menjadi semakin \nsignifikan. Produk dan aktivitas yang ditawarkan oleh LJK semakin \nberagam dan saling terkait pada sektor jasa keuangan. Proses globalisasi \ndalam sistem keuangan dan pesatnya kemajuan teknologi serta inovasi \nfinansial telah menciptakan sistem keuangan yang kompleks, dinamis, dan \nsaling terkait. \nMengingat pentingnya fungsi LJK tersebut, LJK harus dimiliki dan \ndikelola oleh pihak yang memiliki integritas, kelayakan keuangan, reputasi \nkeuangan, dan/atau kompetensi yang memadai. Syarat tersebut harus \ndipenuhi pada saat yang bersangkutan memasuki dan selama berada \ndalam LJK. Kegagalan usaha LJK yang disebabkan oleh pihak yang tidak \nmemiliki integritas, kelayakan keuangan, reputasi keuangan, dan/atau  \nkompetensi yang memadai, terutama pada LJK bersifat sistemik \nmemberikan dampak yang sangat besar terhadap perekonomian negara. \nUntuk memastikan bahwa LJK dimiliki dan dikelola oleh pihak yang \nmemenuhi persyaratan, penilaian kembali terhadap pihak yang telah \nmenjadi pemilik atau pengelola LJK dilakukan dalam hal terdapat indikasi\n\n\n \nterlibat dan/atau bertanggung jawab terhadap permasalahan integritas, \nkelayakan keuangan, reputasi keuangan, dan/atau kompetensi yang \nterjadi pada LJK. Sejalan dengan tujuan penilaian kembali tersebut, \nseluruh prosedur dan tahapan perlu dilakukan dengan tepat, jelas, dan \ntransparan \nsehingga \nhasil \npenilaian \nyang \ndilakukan \ndapat \ndipertanggungjawabkan.  \nSelanjutnya, sebagai hasil dari suatu rangkaian proses penilaian \nkembali, pihak yang telah memperoleh penetapan hasil akhir penilaian \nkembali dapat mengajukan permohonan peninjauan ulang apabila \nmemenuhi kriteria tertentu.   \nBerdasarkan hal-hal tersebut di atas, ketentuan yang mengatur \nmengenai penilaian kembali bagi pihak utama lembaga jasa keuangan perlu \ndisusun dalam suatu peraturan. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku 1 (satu) \nbulan sejak tanggal diundangkan. \n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini dengan \npenempatannya dalam Lembaran Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta \npada tanggal 27 Desember 2018 \n \nKETUA DEWAN KOMISIONER \nOTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA, \n \nttd \n \nWIMBOH SANTOSO \n \nDiundangkan di Jakarta \npada tanggal 28 Desember 2018 \n \nMENTERI HUKUM DAN HAK ASASI MANUSIA \nREPUBLIK INDONESIA, \n \nttd \n \nYASONNA H. LAOLY \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2018 NOMOR 259\n\n\n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN \nREPUBLIK INDONESIA \nNOMOR 34 /POJK.03/2018 \nTENTANG \nPENILAIAN KEMBALI BAGI PIHAK UTAMA LEMBAGA JASA KEUANGAN \n \nI. \nUMUM \nUntuk mewujudkan perekonomian nasional yang mampu tumbuh \nsecara stabil dan berkelanjutan serta dapat memberikan kesejahteraan bagi \nseluruh masyarakat Indonesia, LJK mempunyai fungsi yang sangat penting  \ndalam mengelola dan memanfaatkan dana masyarakat. Fungsi intermediasi \nyang dilakukan oleh LJK dalam perkembangannya menjadi semakin \nsignifikan. Produk dan aktivitas yang ditawarkan oleh LJK semakin \nberagam dan saling terkait pada sektor jasa keuangan. Proses globalisasi \ndalam sistem keuangan dan pesatnya kemajuan teknologi serta inovasi \nfinansial telah menciptakan sistem keuangan yang kompleks, dinamis, dan \nsaling terkait. \nMengingat pentingnya fungsi LJK tersebut, LJK harus dimiliki dan \ndikelola oleh pihak yang memiliki integritas, kelayakan keuangan, reputasi \nkeuangan, dan/atau kompetensi yang memadai. Syarat tersebut harus \ndipenuhi pada saat yang bersangkutan memasuki dan selama berada \ndalam LJK. Kegagalan usaha LJK yang disebabkan oleh pihak yang tidak \nmemiliki integritas, kelayakan keuangan, reputasi keuangan, dan/atau  \nkompetensi yang memadai, terutama pada LJK bersifat sistemik \nmemberikan dampak yang sangat besar terhadap perekonomian negara. \nUntuk memastikan bahwa LJK dimiliki dan dikelola oleh pihak yang \nmemenuhi persyaratan, penilaian kembali terhadap pihak yang telah \nmenjadi pemilik atau pengelola LJK dilakukan dalam hal terdapat indikasi\n\n\n \nterlibat dan/atau bertanggung jawab terhadap permasalahan integritas, \nkelayakan keuangan, reputasi keuangan, dan/atau kompetensi yang \nterjadi pada LJK. Sejalan dengan tujuan penilaian kembali tersebut, \nseluruh prosedur dan tahapan perlu dilakukan dengan tepat, jelas, dan \ntransparan \nsehingga \nhasil \npenilaian \nyang \ndilakukan \ndapat \ndipertanggungjawabkan.  \nSelanjutnya, sebagai hasil dari suatu rangkaian proses penilaian \nkembali, pihak yang telah memperoleh penetapan hasil akhir penilaian \nkembali dapat mengajukan permohonan peninjauan ulang apabila \nmemenuhi kriteria tertentu.   \nBerdasarkan hal-hal tersebut di atas, ketentuan yang mengatur \nmengenai penilaian kembali bagi pihak utama lembaga jasa keuangan perlu \ndisusun dalam suatu peraturan. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nAngka 1) \nCukup jelas. \nAngka 2) \nCukup jelas. \nAngka 3) \nCukup jelas. \nAngka 4) \nTermasuk dalam pengertian Pejabat Eksekutif antara lain \nkepala divisi, kepala kantor wilayah, kepala kantor cabang, \nkepala kantor fungsional yang memiliki jabatan paling \nrendah setara dengan kepala kantor cabang, kepala satuan \nkerja manajemen risiko, kepala satuan kerja kepatuhan, dan \nkepala satuan kerja audit intern, dan/atau pejabat lain yang \nsetara, termasuk kepala bagian dan manajer serta pejabat \nyang ditunjuk bertanggung jawab terhadap pelaksanaan \n \n\n\n \nfungsi manajemen risiko, kepatuhan, dan audit intern Bank \nPerkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nAngka 1) \nCukup jelas. \nAngka 2) \nCukup jelas. \nAngka 3) \nCukup jelas. \nAngka 4) \nTermasuk dalam pengertian Pejabat Eksekutif antara lain \nkepala divisi, kepala kantor wilayah, kepala kantor cabang, \nkepala kantor fungsional yang memiliki jabatan paling \nrendah setara dengan kepala kantor cabang, kepala satuan \nkerja manajemen risiko, kepala satuan kerja kepatuhan, dan \nkepala satuan kerja audit intern, dan/atau pejabat lain yang \nsetara, termasuk kepala bagian dan manajer serta pejabat \nyang ditunjuk bertanggung jawab terhadap pelaksanaan \n \n\n\n \nfungsi manajemen risiko, kepatuhan, dan audit intern Bank \nPerkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nAngka 1) \nPegawai LJK yaitu setiap orang yang tercatat dalam \nadministrasi kepegawaian LJK, pegawai honorer, dan/atau \npegawai alih daya (outsourcing) yang bekerja pada LJK \nbersangkutan. \nAngka 2) \nMerugikan \natau \nmengurangi \nkeuntungan \nLJK \nyaitu \nmerugikan atau mengurangi keuntungan dalam bentuk \nkeuangan. \nAngka 3) \nPrinsip pengelolaan LJK yang baik di sektor perbankan \nantara lain mengacu pada ketentuan Otoritas Jasa \nKeuangan yang mengatur mengenai tata kelola bank umum, \nbank perkreditan rakyat, dan bank syariah. \nPrinsip pengelolaan LJK yang baik di sektor pasar modal \nantara lain mengacu pada ketentuan mengenai tata kelola  \nperusahaan efek.  \n\n\n \n \nPrinsip pengelolaan LJK yang baik di sektor jasa keuangan \nnon bank antara lain mengacu pada ketentuan mengenai \ntata \nkelola \nperusahaan \nperasuransian, \ntata \nkelola \nperusahaan pembiayaan atau ketentuan mengenai tata \nkelola PMV. \nAngka 4) \nCukup jelas. \nHuruf b \nCukup Jelas. \nHuruf c \nMenyebabkan LJK mengalami kesulitan yang membahayakan \nkelangsungan usaha LJK atau dapat membahayakan industri \nkeuangan, antara lain di sektor perbankan yaitu: \n1) \nmemanfaatkan Bank untuk membiayai kepentingan sendiri \natau kelompok usaha; dan/atau \n2) \nmelanggar ketentuan dan/atau komitmen kepada Otoritas \nJasa Keuangan atau pemerintah, \nyang menyebabkan Bank ditempatkan dalam pengawasan \nintensif atau khusus, diambil alih pemerintah atau Lembaga \nPenjamin Simpanan, dibekukan kegiatan usaha, dan/atau \ndicabut izin usahanya. \nHuruf d \nYang dimaksud dengan melakukan dan/atau tidak melakukan \ntindakan tertentu antara lain tindakan dalam rangka perbaikan \ndan/atau penyehatan LJK. \nHuruf e \nKredit dan/atau pembiayaan macet yaitu: \n1) \nkredit dan/atau pembiayaan macet yang tercantum dalam \nsistem informasi mengenai data debitur; dan/atau \n2) \nkredit dan/atau pembiayaan  macet yang belum dilaporkan \noleh LJK dalam  sistem informasi mengenai data debitur atau \nyang sudah dilaporkan oleh LJK dalam sistem informasi \nmengenai data debitur namun belum digolongkan macet, \ntetapi berdasarkan penelitian yang dilakukan Otoritas Jasa \nKeuangan kredit dan/atau pembiayaan tersebut telah \n \n\n\n \nmemenuhi kriteria tergolong macet sesuai dengan ketentuan \nyang mengatur mengenai kualitas aset.  \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas. \nHuruf h \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nAngka 1) \nPegawai LJK yaitu setiap orang yang tercatat dalam \nadministrasi kepegawaian LJK, pegawai honorer, dan/atau \npegawai alih daya (outsourcing) yang bekerja pada LJK \nbersangkutan. \nAngka 2) \nMerugikan \natau \nmengurangi \nkeuntungan \nLJK \nyaitu \nmerugikan atau mengurangi keuntungan dalam bentuk \nkeuangan. \nAngka 3) \nPrinsip pengelolaan LJK yang baik di sektor perbankan \nantara lain mengacu pada ketentuan Otoritas Jasa \nKeuangan yang mengatur mengenai tata kelola bank umum, \nbank perkreditan rakyat, dan bank syariah. \nPrinsip pengelolaan LJK yang baik di sektor pasar modal \nantara lain mengacu pada ketentuan mengenai tata kelola  \nperusahaan efek.  \n\n\n \n \nPrinsip pengelolaan LJK yang baik di sektor jasa keuangan \nnon bank antara lain mengacu pada ketentuan mengenai \ntata \nkelola \nperusahaan \nperasuransian, \ntata \nkelola \nperusahaan pembiayaan atau ketentuan mengenai tata \nkelola PMV. \nAngka 4) \nCukup jelas. \nHuruf b \nCukup Jelas. \nHuruf c \nMenyebabkan LJK mengalami kesulitan yang membahayakan \nkelangsungan usaha LJK atau dapat membahayakan industri \nkeuangan, antara lain di sektor perbankan yaitu: \n1) \nmemanfaatkan Bank untuk membiayai kepentingan sendiri \natau kelompok usaha; dan/atau \n2) \nmelanggar ketentuan dan/atau komitmen kepada Otoritas \nJasa Keuangan atau pemerintah, \nyang menyebabkan Bank ditempatkan dalam pengawasan \nintensif atau khusus, diambil alih pemerintah atau Lembaga \nPenjamin Simpanan, dibekukan kegiatan usaha, dan/atau \ndicabut izin usahanya. \nHuruf d \nYang dimaksud dengan melakukan dan/atau tidak melakukan \ntindakan tertentu antara lain tindakan dalam rangka perbaikan \ndan/atau penyehatan LJK. \nHuruf e \nKredit dan/atau pembiayaan macet yaitu: \n1) \nkredit dan/atau pembiayaan macet yang tercantum dalam \nsistem informasi mengenai data debitur; dan/atau \n2) \nkredit dan/atau pembiayaan  macet yang belum dilaporkan \noleh LJK dalam  sistem informasi mengenai data debitur atau \nyang sudah dilaporkan oleh LJK dalam sistem informasi \nmengenai data debitur namun belum digolongkan macet, \ntetapi berdasarkan penelitian yang dilakukan Otoritas Jasa \nKeuangan kredit dan/atau pembiayaan tersebut telah \n \n\n\n \nmemenuhi kriteria tergolong macet sesuai dengan ketentuan \nyang mengatur mengenai kualitas aset.  \nHuruf f \nCukup jelas. \nHuruf g \nCukup jelas. \nHuruf h \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nPenilaian didasarkan pada tugas dan tanggung jawab dari setiap  \nPihak Utama Pengurus, sesuai uraian tugas yang ada pada LJK  \nyang bersangkutan. \nYang \ndimaksud \ndengan \nkemampuan \nuntuk \nmelakukan \npengelolaan \nstrategis \nantara \nlain \nkemampuan \nuntuk \nmenginterpretasikan \nvisi \ndan \nmisi \nLJK, \nmengantisipasi \nperkembangan perekonomian dan keuangan, serta menganalisis \nsituasi industri keuangan dan sektor industri yang dibiayai. \nHuruf h \nCukup jelas. \nHuruf i \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \nHuruf e \nCukup jelas. \nHuruf f \nCukup jelas. \nHuruf g \nPenilaian didasarkan pada tugas dan tanggung jawab dari setiap  \nPihak Utama Pengurus, sesuai uraian tugas yang ada pada LJK  \nyang bersangkutan. \nYang \ndimaksud \ndengan \nkemampuan \nuntuk \nmelakukan \npengelolaan \nstrategis \nantara \nlain \nkemampuan \nuntuk \nmenginterpretasikan \nvisi \ndan \nmisi \nLJK, \nmengantisipasi \nperkembangan perekonomian dan keuangan, serta menganalisis \nsituasi industri keuangan dan sektor industri yang dibiayai. \nHuruf h \nCukup jelas. \nHuruf i \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nPelaksanaan klarifikasi kepada pihak yang dinilai kembali \ndapat dilakukan melalui tatap muka yang dilengkapi dengan \nberita acara dan/atau melalui surat. \nHuruf b \nHasil sementara penilaian kembali yang disampaikan kepada \npihak yang dinilai kembali memuat predikat hasil sementara \npenilaian kembali  beserta dasar pertimbangan. \nHuruf c \nPenyampaian tanggapan dari pihak yang dinilai kembali \ndilakukan secara tertulis disertai dengan bukti pendukung \nyang relevan. \nHuruf d \nHasil akhir penilaian kembali disampaikan secara tertulis, \ndengan memuat predikat hasil akhir penilaian kembali   \nbeserta dasar pertimbangan. \nAyat (3) \nCukup jelas. \nAyat (4) \nPihak Utama yang tidak menggunakan hak termasuk pihak yang \ndilakukan \npenilaian \nkembali \nnamun \ntidak \ndiketahui \nkeberadaannya. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nPelaksanaan klarifikasi kepada pihak yang dinilai kembali \ndapat dilakukan melalui tatap muka yang dilengkapi dengan \nberita acara dan/atau melalui surat. \nHuruf b \nHasil sementara penilaian kembali yang disampaikan kepada \npihak yang dinilai kembali memuat predikat hasil sementara \npenilaian kembali  beserta dasar pertimbangan. \nHuruf c \nPenyampaian tanggapan dari pihak yang dinilai kembali \ndilakukan secara tertulis disertai dengan bukti pendukung \nyang relevan. \nHuruf d \nHasil akhir penilaian kembali disampaikan secara tertulis, \ndengan memuat predikat hasil akhir penilaian kembali   \nbeserta dasar pertimbangan. \nAyat (3) \nCukup jelas. \nAyat (4) \nPihak Utama yang tidak menggunakan hak termasuk pihak yang \ndilakukan \npenilaian \nkembali \nnamun \ntidak \ndiketahui \nkeberadaannya. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas. \nAyat (8) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nTingkat keterlibatan dan/atau pertanggungjawaban Pihak Utama \nyang dinilai kembali didasarkan atas peranan masing-masing \nPihak Utama yang dinilai kembali terhadap tindakan pelanggaran \nyang dilakukan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nTingkat keterlibatan dan/atau pertanggungjawaban Pihak Utama \nyang dinilai kembali didasarkan atas peranan masing-masing \nPihak Utama yang dinilai kembali terhadap tindakan pelanggaran \nyang dilakukan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nIndustri jasa keuangan yaitu: \n1. \nindustri perbankan; \n2. \nindustri pasar modal; dan \n3. \nindustri keuangan non bank. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nIndustri jasa keuangan yaitu: \n1. \nindustri perbankan; \n2. \nindustri pasar modal; dan \n3. \nindustri keuangan non bank. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nAngka 1) \nHuruf a) \nCukup jelas. \n \n \n \n\n\n \nHuruf b) \nButir i \nYang dimaksud dengan secara berulang \nantara lain melakukan tindakan setelah \ndikenakan \nkonsekuensi \natas \ntindakan \nsebagaimana \ndimaksud \ndalam \nperaturan \nOtoritas Jasa Keuangan ini, baik dikarenakan \ntindakan yang sama maupun tindakan yang \nberbeda.   \nButir ii \nYang dimaksud dengan secara kumulatif \nantara lain gabungan paling sedikit 2 (dua) \ntindakan \ndari \ntindakan \nsebagaimana \ndimaksud dalam Pasal 4 huruf a angka 3), \nhuruf a angka 4), huruf d, huruf e, huruf g  \ndan/atau huruf h. \nButir iii \nCukup jelas.  \nAngka 2) \nHuruf a) \nCukup jelas. \nHuruf b) \nButir i \nYang dimaksud dengan secara berulang \nantara lain melakukan tindakan setelah \ndikenakan \nkonsekuensi \natas \ntindakan \nsebagaimana \ndimaksud \ndalam \nperaturan \nOtoritas Jasa Keuangan ini, baik dikarenakan \ntindakan yang sama maupun tindakan yang \nberbeda. \nButir ii \nYang dimaksud dengan secara kumulatif \nantara \nlain \ngabungan \npaling \nsedikit  \n2 (dua) tindakan dari tindakan sebagaimana \ndimaksud dalam Pasal 5 huruf a angka 3), \nhuruf a angka 4), huruf d, huruf e,  \nhuruf g, dan/atau huruf h. \n\n\n \nButir iii \nCukup jelas. \nHuruf c \nCukup Jelas. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b \nAngka 1) \nHuruf a) \nCukup jelas. \n \n \n \n\n\n \nHuruf b) \nButir i \nYang dimaksud dengan secara berulang \nantara lain melakukan tindakan setelah \ndikenakan \nkonsekuensi \natas \ntindakan \nsebagaimana \ndimaksud \ndalam \nperaturan \nOtoritas Jasa Keuangan ini, baik dikarenakan \ntindakan yang sama maupun tindakan yang \nberbeda.   \nButir ii \nYang dimaksud dengan secara kumulatif \nantara lain gabungan paling sedikit 2 (dua) \ntindakan \ndari \ntindakan \nsebagaimana \ndimaksud dalam Pasal 4 huruf a angka 3), \nhuruf a angka 4), huruf d, huruf e, huruf g  \ndan/atau huruf h. \nButir iii \nCukup jelas.  \nAngka 2) \nHuruf a) \nCukup jelas. \nHuruf b) \nButir i \nYang dimaksud dengan secara berulang \nantara lain melakukan tindakan setelah \ndikenakan \nkonsekuensi \natas \ntindakan \nsebagaimana \ndimaksud \ndalam \nperaturan \nOtoritas Jasa Keuangan ini, baik dikarenakan \ntindakan yang sama maupun tindakan yang \nberbeda. \nButir ii \nYang dimaksud dengan secara kumulatif \nantara \nlain \ngabungan \npaling \nsedikit  \n2 (dua) tindakan dari tindakan sebagaimana \ndimaksud dalam Pasal 5 huruf a angka 3), \nhuruf a angka 4), huruf d, huruf e,  \nhuruf g, dan/atau huruf h. \n\n\n \nButir iii \nCukup jelas. \nHuruf c \nCukup Jelas. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b   \nHak selaku pemegang saham yaitu hak untuk menghadiri \ndan menggunakan hak suara dalam RUPS namun tidak \ntermasuk hak untuk menerima dividen yang dibagikan.                          \nHuruf c \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nHak selaku pemegang saham yaitu hak suara pemegang \nsaham yang diperhitungkan dalam RUPS dan hak suara \npemegang \nsaham \nyang \ndiperhitungkan \nsebagai \npenghitungan kuorum RUPS namun tidak termasuk hak \nuntuk menerima dividen yang dibagikan. \nPihak Utama yang dilarang menjadi Pihak Utama Pengendali \natau memiliki saham hanya memiliki hak suara yang \ndiperhitungkan \ndalam \nRUPS \ndan \nhak \nsuara \nyang \ndiperhitungkan sebagai penghitungan kuorum RUPS paling \nbanyak \n10% \n(sepuluh \npersen) \ndari \nsetiap \nsaham  \nbank syariah. \nHak untuk menerima dividen yang dibagikan tetap sesuai \njumlah saham yang dimiliki oleh Pihak Utama yang dilarang \nmenjadi Pihak Utama Pengendali atau Pihak Utama yang \nmemiliki saham. \n \n\n\n \nHuruf c \nPenurunan kepemilikan saham dilakukan dengan cara \nmengalihkan kepemilikan saham. \nAyat (3) \nPenjelasan dalam daftar pemegang saham LJK yaitu penjelasan \nmengenai status Pihak Utama yang ditetapkan dengan predikat \nTidak Lulus sehingga: \na. \nbagi Pihak Utama LJK selain bank syariah, saham yang \ndimiliki oleh Pihak Utama menjadi tidak memiliki hak suara \ndalam RUPS dan tidak diperhitungkan dalam kuorum \nsampai dengan saham dimaksud dialihkan kepada pihak \nlain; atau \nb. \nbagi Pihak Utama bank syariah, jumlah hak suara yang \ndiperhitungkan \ndalam \nRUPS \ndan \nhak \nsuara \nyang \ndiperhitungkan sebagai penghitungan kuorum RUPS paling \nbanyak 10% (sepuluh persen) dari seluruh saham bank \nsyariah sampai dengan saham dialihkan kepada pihak lain. \nAyat (4) \nCukup jelas. \nAyat (5) \nHuruf a \nKetentuan peraturan perundang-undangan antara lain \nketentuan yang mengatur mengenai penetapan status dan \ntindak lanjut pengawasan Bank. \nHuruf b \nCukup jelas. \nAyat (6) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nCukup jelas. \nHuruf b   \nHak selaku pemegang saham yaitu hak untuk menghadiri \ndan menggunakan hak suara dalam RUPS namun tidak \ntermasuk hak untuk menerima dividen yang dibagikan.                          \nHuruf c \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nHak selaku pemegang saham yaitu hak suara pemegang \nsaham yang diperhitungkan dalam RUPS dan hak suara \npemegang \nsaham \nyang \ndiperhitungkan \nsebagai \npenghitungan kuorum RUPS namun tidak termasuk hak \nuntuk menerima dividen yang dibagikan. \nPihak Utama yang dilarang menjadi Pihak Utama Pengendali \natau memiliki saham hanya memiliki hak suara yang \ndiperhitungkan \ndalam \nRUPS \ndan \nhak \nsuara \nyang \ndiperhitungkan sebagai penghitungan kuorum RUPS paling \nbanyak \n10% \n(sepuluh \npersen) \ndari \nsetiap \nsaham  \nbank syariah. \nHak untuk menerima dividen yang dibagikan tetap sesuai \njumlah saham yang dimiliki oleh Pihak Utama yang dilarang \nmenjadi Pihak Utama Pengendali atau Pihak Utama yang \nmemiliki saham. \n \n\n\n \nHuruf c \nPenurunan kepemilikan saham dilakukan dengan cara \nmengalihkan kepemilikan saham. \nAyat (3) \nPenjelasan dalam daftar pemegang saham LJK yaitu penjelasan \nmengenai status Pihak Utama yang ditetapkan dengan predikat \nTidak Lulus sehingga: \na. \nbagi Pihak Utama LJK selain bank syariah, saham yang \ndimiliki oleh Pihak Utama menjadi tidak memiliki hak suara \ndalam RUPS dan tidak diperhitungkan dalam kuorum \nsampai dengan saham dimaksud dialihkan kepada pihak \nlain; atau \nb. \nbagi Pihak Utama bank syariah, jumlah hak suara yang \ndiperhitungkan \ndalam \nRUPS \ndan \nhak \nsuara \nyang \ndiperhitungkan sebagai penghitungan kuorum RUPS paling \nbanyak 10% (sepuluh persen) dari seluruh saham bank \nsyariah sampai dengan saham dialihkan kepada pihak lain. \nAyat (4) \nCukup jelas. \nAyat (5) \nHuruf a \nKetentuan peraturan perundang-undangan antara lain \nketentuan yang mengatur mengenai penetapan status dan \ntindak lanjut pengawasan Bank. \nHuruf b \nCukup jelas. \nAyat (6) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHubungan keluarga sampai dengan derajat kedua yaitu \nhubungan baik vertikal maupun horizontal, termasuk mertua, \nmenantu, dan ipar, meliputi: \n\n\n \n1. \norang tua kandung/tiri/angkat; \n2. \nsaudara kandung/tiri/angkat beserta suami atau istri; \n3. \nanak kandung/tiri/angkat; \n4. \nkakek/nenek kandung/tiri/angkat; \n5. \ncucu kandung/tiri/angkat; \n6. \nsuami/istri; \n7. \nmertua; \n8. \nbesan; \n9. \nsuami/istri dari anak kandung/tiri/angkat; \n10. kakek/nenek dari suami/istri; \n11. suami/istri dari cucu kandung/tiri/angkat; dan/atau \n12. saudara kandung/tiri/angkat dari suami/istri beserta suami \natau istri. \nYang dimaksud dengan kelompok usaha adalah: \n1. \nperorangan dan badan hukum; \n2. \nbeberapa orang; atau \n3. \nbeberapa badan hukum, \nyang memiliki keterkaitan kepengurusan, kepemilikan, dan/atau \nhubungan keuangan. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nLarangan \npencatatan \natas \nkepemilikan \nsaham \ntidak \nmemengaruhi pencatatan akuntansi maupun pencatatan \nmodal LJK sampai dengan yang bersangkutan mengalihkan \nsaham. \nHuruf c \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHubungan keluarga sampai dengan derajat kedua yaitu \nhubungan baik vertikal maupun horizontal, termasuk mertua, \nmenantu, dan ipar, meliputi: \n\n\n \n1. \norang tua kandung/tiri/angkat; \n2. \nsaudara kandung/tiri/angkat beserta suami atau istri; \n3. \nanak kandung/tiri/angkat; \n4. \nkakek/nenek kandung/tiri/angkat; \n5. \ncucu kandung/tiri/angkat; \n6. \nsuami/istri; \n7. \nmertua; \n8. \nbesan; \n9. \nsuami/istri dari anak kandung/tiri/angkat; \n10. kakek/nenek dari suami/istri; \n11. suami/istri dari cucu kandung/tiri/angkat; dan/atau \n12. saudara kandung/tiri/angkat dari suami/istri beserta suami \natau istri. \nYang dimaksud dengan kelompok usaha adalah: \n1. \nperorangan dan badan hukum; \n2. \nbeberapa orang; atau \n3. \nbeberapa badan hukum, \nyang memiliki keterkaitan kepengurusan, kepemilikan, dan/atau \nhubungan keuangan. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nLarangan \npencatatan \natas \nkepemilikan \nsaham \ntidak \nmemengaruhi pencatatan akuntansi maupun pencatatan \nmodal LJK sampai dengan yang bersangkutan mengalihkan \nsaham. \nHuruf c \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nHuruf a \nMelakukan tindakan sebagai Pihak Utama Pengurus yaitu \nbertindak \nmewakili \nLJK, \ntermasuk \ndalam \nmembuat \nkeputusan yang secara hukum mengikat LJK dan/atau \n \n\n\n \nmengambil \nkeputusan \nyang \nmemengaruhi \nkondisi  \nkeuangan LJK. \nHuruf b \nCukup jelas. \nAyat (2) \nTindak \nlanjut \nyang \nharus \ndilakukan \nLJK \nantara \nlain \npenyelenggaraan RUPS serta pemberhentian Pihak Utama \nPejabat. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \nMelakukan tindakan sebagai Pihak Utama Pengurus yaitu \nbertindak \nmewakili \nLJK, \ntermasuk \ndalam \nmembuat \nkeputusan yang secara hukum mengikat LJK dan/atau \n \n\n\n \nmengambil \nkeputusan \nyang \nmemengaruhi \nkondisi  \nkeuangan LJK. \nHuruf b \nCukup jelas. \nAyat (2) \nTindak \nlanjut \nyang \nharus \ndilakukan \nLJK \nantara \nlain \npenyelenggaraan RUPS serta pemberhentian Pihak Utama \nPejabat. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas. \nAyat (6) \nCukup jelas. \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKonsekuensi pelaksanaan Undang-Undang antara lain \npelaksanaan Undang-Undang Nomor 11 Tahun 2016 tentang \nPengampunan Pajak. \nHuruf d \nAngka 1) \nTidak memiliki catatan negatif yaitu tidak melakukan \npelanggaran hukum dengan ancaman sanksi lebih dari \n1 (satu) tahun, tidak menyebabkan pailit, dan/atau \nmenjadi pemegang saham, direksi, anggota dewan \n\n\n \nkomisaris, atau yang setara yang dinyatakan bersalah \nmenyebabkan suatu perusahaan dinyatakan pailit atau \ndicabut izin usahanya. \nAngka 2) \nCukup jelas. \nAyat (3) \n \nPertimbangan untuk menindaklanjuti atau tidak menindaklanjuti \npermohonan \npeninjauan \nulang \ndilakukan \nberdasarkan \npemenuhan atas kriteria sebagaimana dimaksud pada ayat (2) \ndan pertimbangan lain, seperti dampak terhadap kondisi LJK baik \nsecara individu maupun industri.  \nAyat (4) \nPihak Utama yang dinyatakan lulus dalam peninjauan ulang \ntidak serta merta kembali menjadi Pihak Utama. Untuk dapat \nkembali menjadi Pihak Utama dilakukan sesuai kriteria, \npersyaratan, dan mekanisme berdasarkan Peraturan Otoritas \nJasa Keuangan yang mengatur mengenai penilaian kemampuan \ndan kepatutan bagi pihak utama lembaga jasa keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nKonsekuensi pelaksanaan Undang-Undang antara lain \npelaksanaan Undang-Undang Nomor 11 Tahun 2016 tentang \nPengampunan Pajak. \nHuruf d \nAngka 1) \nTidak memiliki catatan negatif yaitu tidak melakukan \npelanggaran hukum dengan ancaman sanksi lebih dari \n1 (satu) tahun, tidak menyebabkan pailit, dan/atau \nmenjadi pemegang saham, direksi, anggota dewan \n\n\n \nkomisaris, atau yang setara yang dinyatakan bersalah \nmenyebabkan suatu perusahaan dinyatakan pailit atau \ndicabut izin usahanya. \nAngka 2) \nCukup jelas. \nAyat (3) \n \nPertimbangan untuk menindaklanjuti atau tidak menindaklanjuti \npermohonan \npeninjauan \nulang \ndilakukan \nberdasarkan \npemenuhan atas kriteria sebagaimana dimaksud pada ayat (2) \ndan pertimbangan lain, seperti dampak terhadap kondisi LJK baik \nsecara individu maupun industri.  \nAyat (4) \nPihak Utama yang dinyatakan lulus dalam peninjauan ulang \ntidak serta merta kembali menjadi Pihak Utama. Untuk dapat \nkembali menjadi Pihak Utama dilakukan sesuai kriteria, \npersyaratan, dan mekanisme berdasarkan Peraturan Otoritas \nJasa Keuangan yang mengatur mengenai penilaian kemampuan \ndan kepatutan bagi pihak utama lembaga jasa keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPihak yang dapat dihubungi yaitu keluarga atau pihak lain dari \nPihak Utama yang bersedia atau ditunjuk Pihak Utama untuk \nmenjadi narahubung dalam berkorespondensi dengan Otoritas \nJasa Keuangan.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPihak yang dapat dihubungi yaitu keluarga atau pihak lain dari \nPihak Utama yang bersedia atau ditunjuk Pihak Utama untuk \nmenjadi narahubung dalam berkorespondensi dengan Otoritas \nJasa Keuangan.  \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nKetentuan peraturan perundang-undangan antara lain ketentuan \nmengenai penggunaan jasa akuntan dan kantor akuntan publik \ndalam kegiatan jasa keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nKetentuan peraturan perundang-undangan antara lain ketentuan \nmengenai penggunaan jasa akuntan dan kantor akuntan publik \ndalam kegiatan jasa keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pengungkapan penjelasan mengenai status Pihak Utama Pengendali \ndilakukan antara lain dalam Laporan Keuangan Publikasi Triwulanan \ndan Laporan Tahunan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pengungkapan penjelasan mengenai status Pihak Utama Pengendali \ndilakukan antara lain dalam Laporan Keuangan Publikasi Triwulanan \ndan Laporan Tahunan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenggantian Pihak Utama Pengurus dilaksanakan oleh LJK \nmelalui keputusan RUPS. \nAyat (2) \nPengenaan sanksi administratif berupa peringatan tertulis atau \nteguran tertulis dan denda tidak menghilangkan kewajiban LJK \nselain Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat \nSyariah untuk menyampaikan laporan. \nAyat (3) \nPengenaan sanksi administratif berupa peringatan tertulis atau \nteguran tertulis dan denda tidak menghilangkan kewajiban Bank \nPerkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah untuk \nmenyampaikan laporan.  \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenggantian Pihak Utama Pengurus dilaksanakan oleh LJK \nmelalui keputusan RUPS. \nAyat (2) \nPengenaan sanksi administratif berupa peringatan tertulis atau \nteguran tertulis dan denda tidak menghilangkan kewajiban LJK \nselain Bank Perkreditan Rakyat dan Bank Pembiayaan Rakyat \nSyariah untuk menyampaikan laporan. \nAyat (3) \nPengenaan sanksi administratif berupa peringatan tertulis atau \nteguran tertulis dan denda tidak menghilangkan kewajiban Bank \nPerkreditan Rakyat dan Bank Pembiayaan Rakyat Syariah untuk \nmenyampaikan laporan.  \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKetentuan uji kemampuan dan kepatutan, penilaian kembali, \natau penilaian kembali kemampuan dan kepatutan yang berlaku \npada masing-masing sektor jasa keuangan antara lain: \na. \nPeraturan \nBank \nIndonesia \nNomor \n12/23/PBI/2010  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper Test), \nbagi bank umum;  \n \n \n\n\n \nb. \nPeraturan \nBank \nIndonesia \nNomor \n14/6/PBI/2012  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper Test) \nBank Syariah dan Unit Usaha Syariah, bagi bank syariah; \nc. \nPeraturan \nBank \nIndonesia \nNomor \n14/9/PBI/2012  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper Test) \nBank Perkreditan Rakyat, bagi Bank Perkreditan Rakyat; \nd. \nPeraturan Otoritas Jasa Keuangan Nomor 4/POJK.05/2013 \ntentang Penilaian Kemampuan dan Kepatutan Bagi Pihak \nUtama pada Perusahaan Perasuransian, Dana Pensiun, \nPerusahaan Pembiayaan, dan Perusahaan Penjaminan; dan \ne. \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor 20/POJK.04/2016 tentang Perizinan Perusahaan \nEfek yang Melakukan Kegiatan Usaha sebagai Penjamin \nEmisi Efek dan Perantara Pedagang Efek. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKetentuan uji kemampuan dan kepatutan, penilaian kembali, \natau penilaian kembali kemampuan dan kepatutan yang berlaku \npada masing-masing sektor jasa keuangan antara lain: \na. \nPeraturan \nBank \nIndonesia \nNomor \n12/23/PBI/2010  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper Test), \nbagi bank umum;  \n \n \n\n\n \nb. \nPeraturan \nBank \nIndonesia \nNomor \n14/6/PBI/2012  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper Test) \nBank Syariah dan Unit Usaha Syariah, bagi bank syariah; \nc. \nPeraturan \nBank \nIndonesia \nNomor \n14/9/PBI/2012  \ntentang Uji Kemampuan dan Kepatutan (Fit and Proper Test) \nBank Perkreditan Rakyat, bagi Bank Perkreditan Rakyat; \nd. \nPeraturan Otoritas Jasa Keuangan Nomor 4/POJK.05/2013 \ntentang Penilaian Kemampuan dan Kepatutan Bagi Pihak \nUtama pada Perusahaan Perasuransian, Dana Pensiun, \nPerusahaan Pembiayaan, dan Perusahaan Penjaminan; dan \ne. \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor 20/POJK.04/2016 tentang Perizinan Perusahaan \nEfek yang Melakukan Kegiatan Usaha sebagai Penjamin \nEmisi Efek dan Perantara Pedagang Efek. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ketentuan lebih lanjut mengenai pelaksanaan penilaian kembali \nantara lain mengenai cakupan penilaian kembali, tata cara penilaian \nkembali, dan konsekuensi hasil akhir penilaian kembali.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan lebih lanjut mengenai pelaksanaan penilaian kembali \nantara lain mengenai cakupan penilaian kembali, tata cara penilaian \nkembali, dan konsekuensi hasil akhir penilaian kembali."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6285",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6285"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 50,
+  "total_ayat": 88,
+  "total_karakter": 59812,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

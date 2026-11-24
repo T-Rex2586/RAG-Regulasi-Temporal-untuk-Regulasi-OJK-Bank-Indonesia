@@ -1,0 +1,1595 @@
+{
+  "doc_id": "OJK_POJK_2025_34_8871b760",
+  "regulator": "OJK",
+  "jenis": "POJK",
+  "nomor": "34",
+  "tahun": "2025",
+  "judul": "Peraturan Otoritas Jasa Keuangan Republik Indonesia Nomor 34 Tahun 2025 tentang Penyelenggaraan Teknologi Informasi oleh Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "16 Desember 2025",
+  "tanggal_berlaku": "diundangkan (Д)",
+  "diundangkan_pada": "Д",
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "ARSITEKTUR TI BPR DAN BPR SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETAHANAN DAN KEAMANAN SIBER"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK PENYEDIA JASA TI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "APLIKASI INTI PERBANKAN DAN PENEMPATAN SISTEM ELEKTRONIK"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGENDALIAN DAN AUDIT INTERN BPR DAN BPR SYARIAH DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang \ndimaksud dengan: \n1. \nBank Perekonomian Rakyat yang selanjutnya disingkat \nBPR adalah jenis bank konvensional yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \ngiral secara langsung. \n2. \nBank Perekonomian Rakyat Syariah yang selanjutnya \ndisebut BPR Syariah adalah jenis bank syariah yang \ndalam kegiatannya tidak memberikan jasa dalam lalu \nlintas giral secara langsung. \n3. \nTeknologi Informasi yang selanjutnya disingkat TI \nadalah \nsuatu \nteknik \nuntuk \nmengumpulkan, \nmenyiapkan, menyimpan, memproses, mengumumkan, \nmenganalisis, dan/atau menyebarkan informasi. \n4. \nSistem Elektronik adalah serangkaian perangkat dan \nprosedur elektronik yang berfungsi mempersiapkan, \nmengumpulkan, mengolah, menganalisis, menyimpan, \nmenampilkan, \nmengumumkan, \nmengirimkan, \ndan/atau menyebarkan informasi elektronik. \n5. \nAplikasi Inti Perbankan adalah Sistem Elektronik \nberupa aplikasi untuk proses akhir seluruh transaksi \nperbankan yang terjadi sepanjang hari, termasuk \npenginian data dalam pembukuan BPR atau BPR \nSyariah, yang paling sedikit mencakup fungsi nasabah, \nsimpanan, pinjaman, akuntansi dan pelaporan. \n6. \nPusat Data adalah suatu fasilitas yang digunakan \nuntuk menempatkan Sistem Elektronik dan komponen \n\n\n \nterkaitnya \nuntuk \nkeperluan \npenempatan, \npenyimpanan, dan pengolahan data. \n7. \nPusat Pemulihan Bencana adalah suatu fasilitas yang \ndigunakan untuk memulihkan kembali data atau \ninformasi serta fungsi-fungsi penting Sistem Elektronik \nyang terganggu atau rusak akibat terjadinya bencana \nyang disebabkan oleh alam atau manusia. \n8. \nRencana Pemulihan Bencana adalah dokumen yang \nberisikan rencana dan langkah untuk menggantikan \ndan/atau memulihkan kembali akses data, perangkat \nkeras, dan perangkat lunak yang diperlukan, agar BPR \natau \nBPR \nSyariah \ndapat \nmenjalankan \nkegiatan \noperasional \nbisnis \nyang \nkritikal \nsetelah \nadanya \ngangguan dan/atau bencana. \n9. \nDireksi adalah direksi bagi BPR atau BPR Syariah \nberbentuk \nbadan \nhukum \nperseroan \nterbatas, \nperusahaan umum daerah, perusahaan perseroan \ndaerah, perusahaan daerah, atau pengurus bagi BPR \natau BPR Syariah berbentuk badan hukum koperasi. \n10. Dewan Komisaris adalah dewan komisaris bagi BPR \natau BPR Syariah berbentuk badan hukum perseroan \nterbatas, komisaris bagi BPR atau BPR Syariah \nberbentuk \nbadan \nhukum \nperusahaan \nperseroan \ndaerah, dewan pengawas bagi BPR berbentuk badan \nhukum perusahaan umum daerah dan perusahaan \ndaerah, serta pengawas bagi BPR atau BPR Syariah \nberbentuk badan hukum koperasi. \n \nBAB II \nTATA KELOLA TI BPR DAN BPR SYARIAH \n \nBagian Kesatu \nPenerapan Tata Kelola TI BPR dan BPR Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Otoritas Jasa Keuangan ini, yang \ndimaksud dengan: \n1. \nBank Perekonomian Rakyat yang selanjutnya disingkat \nBPR adalah jenis bank konvensional yang dalam \nkegiatannya tidak memberikan jasa dalam lalu lintas \ngiral secara langsung. \n2. \nBank Perekonomian Rakyat Syariah yang selanjutnya \ndisebut BPR Syariah adalah jenis bank syariah yang \ndalam kegiatannya tidak memberikan jasa dalam lalu \nlintas giral secara langsung. \n3. \nTeknologi Informasi yang selanjutnya disingkat TI \nadalah \nsuatu \nteknik \nuntuk \nmengumpulkan, \nmenyiapkan, menyimpan, memproses, mengumumkan, \nmenganalisis, dan/atau menyebarkan informasi. \n4. \nSistem Elektronik adalah serangkaian perangkat dan \nprosedur elektronik yang berfungsi mempersiapkan, \nmengumpulkan, mengolah, menganalisis, menyimpan, \nmenampilkan, \nmengumumkan, \nmengirimkan, \ndan/atau menyebarkan informasi elektronik. \n5. \nAplikasi Inti Perbankan adalah Sistem Elektronik \nberupa aplikasi untuk proses akhir seluruh transaksi \nperbankan yang terjadi sepanjang hari, termasuk \npenginian data dalam pembukuan BPR atau BPR \nSyariah, yang paling sedikit mencakup fungsi nasabah, \nsimpanan, pinjaman, akuntansi dan pelaporan. \n6. \nPusat Data adalah suatu fasilitas yang digunakan \nuntuk menempatkan Sistem Elektronik dan komponen \n\n\n \nterkaitnya \nuntuk \nkeperluan \npenempatan, \npenyimpanan, dan pengolahan data. \n7. \nPusat Pemulihan Bencana adalah suatu fasilitas yang \ndigunakan untuk memulihkan kembali data atau \ninformasi serta fungsi-fungsi penting Sistem Elektronik \nyang terganggu atau rusak akibat terjadinya bencana \nyang disebabkan oleh alam atau manusia. \n8. \nRencana Pemulihan Bencana adalah dokumen yang \nberisikan rencana dan langkah untuk menggantikan \ndan/atau memulihkan kembali akses data, perangkat \nkeras, dan perangkat lunak yang diperlukan, agar BPR \natau \nBPR \nSyariah \ndapat \nmenjalankan \nkegiatan \noperasional \nbisnis \nyang \nkritikal \nsetelah \nadanya \ngangguan dan/atau bencana. \n9. \nDireksi adalah direksi bagi BPR atau BPR Syariah \nberbentuk \nbadan \nhukum \nperseroan \nterbatas, \nperusahaan umum daerah, perusahaan perseroan \ndaerah, perusahaan daerah, atau pengurus bagi BPR \natau BPR Syariah berbentuk badan hukum koperasi. \n10. Dewan Komisaris adalah dewan komisaris bagi BPR \natau BPR Syariah berbentuk badan hukum perseroan \nterbatas, komisaris bagi BPR atau BPR Syariah \nberbentuk \nbadan \nhukum \nperusahaan \nperseroan \ndaerah, dewan pengawas bagi BPR berbentuk badan \nhukum perusahaan umum daerah dan perusahaan \ndaerah, serta pengawas bagi BPR atau BPR Syariah \nberbentuk badan hukum koperasi. \n \nBAB II \nTATA KELOLA TI BPR DAN BPR SYARIAH \n \nBagian Kesatu \nPenerapan Tata Kelola TI BPR dan BPR Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib menerapkan tata kelola TI \nyang baik dalam penyelenggaraan TI. \n(2) \nDalam \nmenerapkan \ntata \nkelola \nTI \nyang \nbaik \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah mempertimbangkan faktor paling sedikit: \na. \nstrategi dan tujuan bisnis BPR dan BPR Syariah; \nb. \nskala usaha dan kompleksitas bisnis BPR dan BPR \nSyariah;  \nc. \nperan TI bagi BPR dan BPR Syariah; \nd. \nmetode pengadaan sumber daya TI; \ne. \nrisiko dan permasalahan terkait TI; \nf. \npraktik atau standar yang berlaku secara nasional \nmaupun internasional; dan \ng. \nketentuan peraturan perundang-undangan. \n(3) \nDalam \nmenerapkan \ntata \nkelola \nTI \nyang \nbaik \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah melakukan kegiatan paling sedikit: \na. \nperencanaan dan pelaksanaan aktivitas yang \nmendukung kegiatan penyelenggaraan TI; \n\n\n \nb. \nimplementasi penyelenggaraan TI secara optimal \nagar dapat terintegrasi dalam proses bisnis BPR \ndan BPR Syariah; dan \nc. \npenyediaan dukungan operasional TI kepada \nseluruh pengguna layanan TI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib menerapkan tata kelola TI \nyang baik dalam penyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmenerapkan \ntata \nkelola \nTI \nyang \nbaik \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah mempertimbangkan faktor paling sedikit: \na. \nstrategi dan tujuan bisnis BPR dan BPR Syariah; \nb. \nskala usaha dan kompleksitas bisnis BPR dan BPR \nSyariah;  \nc. \nperan TI bagi BPR dan BPR Syariah; \nd. \nmetode pengadaan sumber daya TI; \ne. \nrisiko dan permasalahan terkait TI; \nf. \npraktik atau standar yang berlaku secara nasional \nmaupun internasional; dan \ng. \nketentuan peraturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nmenerapkan \ntata \nkelola \nTI \nyang \nbaik \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah melakukan kegiatan paling sedikit: \na. \nperencanaan dan pelaksanaan aktivitas yang \nmendukung kegiatan penyelenggaraan TI; \n\n\n \nb. \nimplementasi penyelenggaraan TI secara optimal \nagar dapat terintegrasi dalam proses bisnis BPR \ndan BPR Syariah; dan \nc. \npenyediaan dukungan operasional TI kepada \nseluruh pengguna layanan TI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "BPR dan BPR Syariah wajib menetapkan wewenang dan \ntanggung jawab yang jelas bagi: \na. \nDireksi; \nb. \nDewan Komisaris; dan \nc. \npejabat eksekutif atau pegawai yang menangani \npenyelenggaraan TI, \nterkait dengan penerapan tata kelola TI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah wajib menetapkan wewenang dan \ntanggung jawab yang jelas bagi: \na. \nDireksi; \nb. \nDewan Komisaris; dan \nc. \npejabat eksekutif atau pegawai yang menangani \npenyelenggaraan TI, \nterkait dengan penerapan tata kelola TI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 3 huruf a paling sedikit: \na. \nmenetapkan rencana pengembangan TI dan pengadaan \nTI BPR dan BPR Syariah; \nb. \nmenetapkan \nkebijakan \ndan \nprosedur \nterkait \npenyelenggaraan \nTI \nyang \nmemadai \ndan \nmengomunikasikannya secara efektif, baik pada satuan \nkerja penyelenggara maupun pengguna TI; \nc. \nmemantau kecukupan kinerja penyelenggaraan TI dan \nupaya peningkatannya; dan \nd. \nmemastikan bahwa: \n1. \nTI yang digunakan mendukung perkembangan \nusaha, \npencapaian \ntujuan \nbisnis \ndan \nkelangsungan pelayanan terhadap nasabah BPR \ndan BPR Syariah; \n2. \ntersedianya sumber daya yang memadai terkait \npenyelenggaraan TI untuk mendukung bisnis BPR \ndan BPR Syariah secara efektif dan efisien;  \n3. \ntersedianya \nsistem \npengelolaan \npengamanan \ninformasi \n(information \nsecurity \nmanagement \nsystem) yang efektif dan dikomunikasikan kepada \nsatuan kerja penyelenggara dan pengguna TI; dan \n4. \nkebijakan \ndan \nprosedur \npenyelenggaraan \nTI \nditerapkan secara efektif.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang dan tanggung jawab Direksi sebagaimana \ndimaksud dalam Pasal 3 huruf a paling sedikit: \na. \nmenetapkan rencana pengembangan TI dan pengadaan \nTI BPR dan BPR Syariah; \nb. \nmenetapkan \nkebijakan \ndan \nprosedur \nterkait \npenyelenggaraan \nTI \nyang \nmemadai \ndan \nmengomunikasikannya secara efektif, baik pada satuan \nkerja penyelenggara maupun pengguna TI; \nc. \nmemantau kecukupan kinerja penyelenggaraan TI dan \nupaya peningkatannya; dan \nd. \nmemastikan bahwa: \n1. \nTI yang digunakan mendukung perkembangan \nusaha, \npencapaian \ntujuan \nbisnis \ndan \nkelangsungan pelayanan terhadap nasabah BPR \ndan BPR Syariah; \n2. \ntersedianya sumber daya yang memadai terkait \npenyelenggaraan TI untuk mendukung bisnis BPR \ndan BPR Syariah secara efektif dan efisien;  \n3. \ntersedianya \nsistem \npengelolaan \npengamanan \ninformasi \n(information \nsecurity \nmanagement \nsystem) yang efektif dan dikomunikasikan kepada \nsatuan kerja penyelenggara dan pengguna TI; dan \n4. \nkebijakan \ndan \nprosedur \npenyelenggaraan \nTI \nditerapkan secara efektif."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana dimaksud dalam Pasal 3 huruf b paling sedikit: \na. \nmengarahkan dan memantau rencana pengembangan \nTI dan pengadaan TI BPR dan BPR Syariah yang bersifat \nmendasar; \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \nterkait \npenyelenggaraan TI BPR dan BPR Syariah; dan \nc. \nmengarahkan dan memantau penerapan tata kelola TI \nBPR dan BPR Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Wewenang \ndan \ntanggung \njawab \nDewan \nKomisaris \nsebagaimana dimaksud dalam Pasal 3 huruf b paling sedikit: \na. \nmengarahkan dan memantau rencana pengembangan \nTI dan pengadaan TI BPR dan BPR Syariah yang bersifat \nmendasar; \nb. \nmengevaluasi \npertanggungjawaban \nDireksi \nterkait \npenyelenggaraan TI BPR dan BPR Syariah; dan \nc. \nmengarahkan dan memantau penerapan tata kelola TI \nBPR dan BPR Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib memiliki dan menerapkan \nkebijakan dan prosedur penyelenggaraan TI. \n\n\n \n(2) \nKebijakan \ndan \nprosedur \npenyelenggaraan \nTI \nsebagaimana dimaksud pada ayat (1) meliputi paling \nsedikit: \na. \nwewenang dan tanggung jawab Direksi, Dewan \nKomisaris, dan satuan kerja atau pegawai yang \nbertanggung jawab terhadap penyelenggaraan TI;  \nb. \npengembangan dan pengadaan;  \nc. \noperasional TI;  \nd. \njaringan komunikasi;  \ne. \npengamanan informasi;  \nf. \nRencana Pemulihan Bencana; \ng. \naudit intern TI; dan  \nh. \npenggunaan pihak penyedia jasa TI. \n(3) \nBPR dan BPR Syariah wajib melakukan kaji ulang dan \npenginian \nkebijakan \ndan \nprosedur \nsebagaimana \ndimaksud pada ayat (1) secara berkala. \n \nBagian Kedua \nSatuan Kerja dan Fungsi Penyelenggara TI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib memiliki dan menerapkan \nkebijakan dan prosedur penyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kebijakan \ndan \nprosedur \npenyelenggaraan \nTI \nsebagaimana dimaksud pada ayat (1) meliputi paling \nsedikit: \na. \nwewenang dan tanggung jawab Direksi, Dewan \nKomisaris, dan satuan kerja atau pegawai yang \nbertanggung jawab terhadap penyelenggaraan TI;  \nb. \npengembangan dan pengadaan;  \nc. \noperasional TI;  \nd. \njaringan komunikasi;  \ne. \npengamanan informasi;  \nf. \nRencana Pemulihan Bencana; \ng. \naudit intern TI; dan  \nh. \npenggunaan pihak penyedia jasa TI."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah wajib melakukan kaji ulang dan \npenginian \nkebijakan \ndan \nprosedur \nsebagaimana \ndimaksud pada ayat (1) secara berkala. \n \nBagian Kedua \nSatuan Kerja dan Fungsi Penyelenggara TI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib menunjuk satuan kerja \natau \nfungsi \nyang \nbertanggung \njawab \natas \npenyelenggaraan TI. \n(2) \nSatuan kerja atau fungsi yang bertanggung jawab atas \npenyelenggaraan TI sebagaimana dimaksud pada  \nayat (1) ditempatkan pada fungsi operasional sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \ntata kelola bagi BPR dan BPR Syariah. \n(3) \nPenyelenggaraan TI sebagaimana dimaksud pada  \nayat (1) berupa aktivitas paling sedikit: \na. \nperencanaan kebutuhan infrastruktur TI; \nb. \npenyusunan atau pengembangan TI; \nc. \npengoperasian TI; dan \nd. \npemantauan atas kegiatan penyelenggaraan TI. \n(4) \nBPR dan BPR Syariah yang menyediakan layanan \ndigital wajib memiliki satuan kerja penyelenggaraan TI \nyang dipimpin oleh pejabat eksekutif. \n(5) \nSatuan kerja penyelenggaraan TI BPR dan BPR Syariah \nsebagaimana dimaksud pada ayat (1) dan ayat (4) \ndisesuaikan dengan skala usaha dan kompleksitas TI \nBPR dan BPR Syariah.  \n(6) \nSatuan kerja atau fungsi yang bertanggung jawab atas \npenyelenggaraan TI sebagaimana dimaksud pada  \nayat \n(1) \nharus \nindependen \nterhadap \nkegiatan \npenghimpunan dana, penyaluran dana, pembukuan, \nkepatuhan, dan/atau audit intern.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib menunjuk satuan kerja \natau \nfungsi \nyang \nbertanggung \njawab \natas \npenyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Satuan kerja atau fungsi yang bertanggung jawab atas \npenyelenggaraan TI sebagaimana dimaksud pada  \nayat (1) ditempatkan pada fungsi operasional sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \ntata kelola bagi BPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyelenggaraan TI sebagaimana dimaksud pada  \nayat (1) berupa aktivitas paling sedikit: \na. \nperencanaan kebutuhan infrastruktur TI; \nb. \npenyusunan atau pengembangan TI; \nc. \npengoperasian TI; dan \nd. \npemantauan atas kegiatan penyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPR Syariah yang menyediakan layanan \ndigital wajib memiliki satuan kerja penyelenggaraan TI \nyang dipimpin oleh pejabat eksekutif."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Satuan kerja penyelenggaraan TI BPR dan BPR Syariah \nsebagaimana dimaksud pada ayat (1) dan ayat (4) \ndisesuaikan dengan skala usaha dan kompleksitas TI \nBPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Satuan kerja atau fungsi yang bertanggung jawab atas \npenyelenggaraan TI sebagaimana dimaksud pada  \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "harus \nindependen \nterhadap \nkegiatan \npenghimpunan dana, penyaluran dana, pembukuan, \nkepatuhan, dan/atau audit intern."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Ketentuan mengenai penerapan tata kelola TI BPR dan BPR \nSyariah ditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai penerapan tata kelola TI BPR dan BPR \nSyariah ditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB II",
+      "bab_judul": "TATA KELOLA TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 3, \nPasal 6 ayat (1), ayat (3), Pasal 7 ayat (1), dan/atau  \n\n\n \nayat (4) dikenai sanksi administratif berupa teguran \ntertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 2 ayat (1), Pasal 3, Pasal 6 ayat (1), ayat (3), \nPasal 7 ayat (1), dan/atau ayat (4), BPR atau BPR \nSyariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB III \nARSITEKTUR TI BPR DAN BPR SYARIAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 3, \nPasal 6 ayat (1), ayat (3), Pasal 7 ayat (1), dan/atau  \n\n\n \nayat (4) dikenai sanksi administratif berupa teguran \ntertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 2 ayat (1), Pasal 3, Pasal 6 ayat (1), ayat (3), \nPasal 7 ayat (1), dan/atau ayat (4), BPR atau BPR \nSyariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB III \nARSITEKTUR TI BPR DAN BPR SYARIAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB III",
+      "bab_judul": "ARSITEKTUR TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah yang menyediakan layanan \ndigital wajib memiliki arsitektur TI. \n(2) \nBPR dan BPR Syariah dalam menyusun arsitektur TI \nsebagaimana \ndimaksud \npada \nayat \n(1) \nmempertimbangkan rencana bisnis BPR dan BPR \nSyariah. \n(3) \nBPR dan BPR Syariah wajib melakukan penginian \nterhadap arsitektur TI sesuai dengan prosedur dan \nkebijakan BPR dan BPR Syariah. \n(4) \nArsitektur TI dan perubahan arsitektur TI yang telah \ndilakukan penginian disetujui oleh Direksi BPR dan \nBPR Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah yang menyediakan layanan \ndigital wajib memiliki arsitektur TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPR Syariah dalam menyusun arsitektur TI \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "mempertimbangkan rencana bisnis BPR dan BPR \nSyariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah wajib melakukan penginian \nterhadap arsitektur TI sesuai dengan prosedur dan \nkebijakan BPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Arsitektur TI dan perubahan arsitektur TI yang telah \ndilakukan penginian disetujui oleh Direksi BPR dan \nBPR Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB III",
+      "bab_judul": "ARSITEKTUR TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Arsitektur TI sebagaimana dimaksud dalam Pasal 10 dapat \ndisusun oleh BPR dan BPR Syariah secara mandiri dan/atau \nbekerja sama dengan pihak ketiga.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Arsitektur TI sebagaimana dimaksud dalam Pasal 10 dapat \ndisusun oleh BPR dan BPR Syariah secara mandiri dan/atau \nbekerja sama dengan pihak ketiga."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB III",
+      "bab_judul": "ARSITEKTUR TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Ketentuan mengenai penyusunan arsitektur TI BPR dan BPR \nSyariah ditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai penyusunan arsitektur TI BPR dan BPR \nSyariah ditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB III",
+      "bab_judul": "ARSITEKTUR TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 10 ayat (1) \ndan/atau ayat (3) dikenai sanksi administratif berupa \nteguran tertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 10 ayat (1) dan/atau ayat (3), BPR atau \nBPR Syariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \n\n\n \nBAB IV \nPENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI \nBPR DAN BPR SYARIAH \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 10 ayat (1) \ndan/atau ayat (3) dikenai sanksi administratif berupa \nteguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 10 ayat (1) dan/atau ayat (3), BPR atau \nBPR Syariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \n\n\n \nBAB IV \nPENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI \nBPR DAN BPR SYARIAH \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib menerapkan manajemen \nrisiko secara efektif dalam penyelenggaraan TI. \n(2) \nDalam menerapkan manajemen risiko sebagaimana \ndimaksud pada ayat (1), BPR dan BPR Syariah \nmelakukan proses paling sedikit: \na. \nidentifikasi risiko; \nb. \npengukuran risiko; \nc. \npemantauan risiko; dan \nd. \npengendalian risiko. \n(3) \nBPR dan BPR Syariah wajib memastikan kecukupan \nsistem \ninformasi \nmanajemen \nrisiko \ndalam \npenyelenggaraan TI. \n \nBagian Kedua \nPengamanan Informasi dalam Penyelenggaraan TI BPR dan \nBPR Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib menerapkan manajemen \nrisiko secara efektif dalam penyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam menerapkan manajemen risiko sebagaimana \ndimaksud pada ayat (1), BPR dan BPR Syariah \nmelakukan proses paling sedikit: \na. \nidentifikasi risiko; \nb. \npengukuran risiko; \nc. \npemantauan risiko; dan \nd. \npengendalian risiko."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah wajib memastikan kecukupan \nsistem \ninformasi \nmanajemen \nrisiko \ndalam \npenyelenggaraan TI. \n \nBagian Kedua \nPengamanan Informasi dalam Penyelenggaraan TI BPR dan \nBPR Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib memastikan pengamanan \ninformasi dilaksanakan secara efektif dan efisien \ndengan menerapkan prinsip kerahasiaan, integritas, \ndan ketersediaan. \n(2) \nPengamanan informasi sebagaimana dimaksud pada \nayat (1) dilakukan terhadap aspek sumber daya \nmanusia, proses, teknologi, dan fisik atau lingkungan, \ndalam penyelenggaraan TI secara menyeluruh. \n(3) \nBPR dan BPR Syariah wajib melakukan pengendalian \notorisasi dalam penyelenggaraan TI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib memastikan pengamanan \ninformasi dilaksanakan secara efektif dan efisien \ndengan menerapkan prinsip kerahasiaan, integritas, \ndan ketersediaan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengamanan informasi sebagaimana dimaksud pada \nayat (1) dilakukan terhadap aspek sumber daya \nmanusia, proses, teknologi, dan fisik atau lingkungan, \ndalam penyelenggaraan TI secara menyeluruh."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah wajib melakukan pengendalian \notorisasi dalam penyelenggaraan TI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib memiliki Rencana \nPemulihan Bencana.  \n(2) \nBPR dan BPR Syariah wajib memastikan Rencana \nPemulihan Bencana sebagaimana dimaksud pada  \nayat (1) dapat dilaksanakan secara efektif agar \noperasional BPR dan BPR Syariah tetap berjalan saat \nterjadi gangguan dan/atau bencana pada sarana TI \nyang digunakan. \n(3) \nBPR dan BPR Syariah wajib melakukan uji coba atas \nRencana Pemulihan Bencana terhadap seluruh aplikasi \ndan infrastruktur yang kritikal sesuai hasil analisis \ndampak bisnis, paling sedikit: \na. \n1 (satu) kali dalam jangka waktu 2 (dua) tahun, \nbagi BPR dan BPR Syariah yang menyediakan \nlayanan digital; atau \nb. \n1 (satu) kali dalam jangka waktu 3 (tiga) tahun, \nbagi BPR dan BPR Syariah selain sebagaimana \ndimaksud dalam huruf a, \n\n\n \ndengan melibatkan pengguna TI. \n(4) \nBPR dan BPR Syariah wajib melakukan kaji ulang \nRencana Pemulihan Bencana, paling sedikit: \na. \n1 (satu) kali dalam jangka waktu 2 (dua) tahun, \nbagi BPR dan BPR Syariah yang menyediakan \nlayanan digital; atau \nb. \n1 (satu) kali dalam jangka waktu 3 (tiga) tahun bagi \nBPR \ndan \nBPR \nSyariah \nselain \nsebagaimana \ndimaksud dalam huruf a, \ndengan mempertimbangkan hasil uji coba sebagaimana \ndimaksud pada ayat (3).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib memiliki Rencana \nPemulihan Bencana."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPR Syariah wajib memastikan Rencana \nPemulihan Bencana sebagaimana dimaksud pada  \nayat (1) dapat dilaksanakan secara efektif agar \noperasional BPR dan BPR Syariah tetap berjalan saat \nterjadi gangguan dan/atau bencana pada sarana TI \nyang digunakan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah wajib melakukan uji coba atas \nRencana Pemulihan Bencana terhadap seluruh aplikasi \ndan infrastruktur yang kritikal sesuai hasil analisis \ndampak bisnis, paling sedikit: \na. \n1 (satu) kali dalam jangka waktu 2 (dua) tahun, \nbagi BPR dan BPR Syariah yang menyediakan \nlayanan digital; atau \nb. \n1 (satu) kali dalam jangka waktu 3 (tiga) tahun, \nbagi BPR dan BPR Syariah selain sebagaimana \ndimaksud dalam huruf a, \n\n\n \ndengan melibatkan pengguna TI."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPR Syariah wajib melakukan kaji ulang \nRencana Pemulihan Bencana, paling sedikit: \na. \n1 (satu) kali dalam jangka waktu 2 (dua) tahun, \nbagi BPR dan BPR Syariah yang menyediakan \nlayanan digital; atau \nb. \n1 (satu) kali dalam jangka waktu 3 (tiga) tahun bagi \nBPR \ndan \nBPR \nSyariah \nselain \nsebagaimana \ndimaksud dalam huruf a, \ndengan mempertimbangkan hasil uji coba sebagaimana \ndimaksud pada ayat (3)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah yang: \na. \nmemiliki \nmodal \ninti \npaling \nsedikit \nsebesar \nRp50.000.000.000,00 (lima puluh miliar rupiah); \ndan/atau \nb. \nmenyediakan layanan digital, \nwajib menyediakan Pusat Pemulihan Bencana. \n(2) \nPusat Pemulihan Bencana sebagaimana dimaksud \npada ayat (1) dapat dimiliki oleh BPR dan BPR Syariah \nsecara mandiri dan/atau bekerja sama dengan pihak \npenyedia jasa TI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah yang: \na. \nmemiliki \nmodal \ninti \npaling \nsedikit \nsebesar \nRp50.000.000.000,00 (lima puluh miliar rupiah); \ndan/atau \nb. \nmenyediakan layanan digital, \nwajib menyediakan Pusat Pemulihan Bencana."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pusat Pemulihan Bencana sebagaimana dimaksud \npada ayat (1) dapat dimiliki oleh BPR dan BPR Syariah \nsecara mandiri dan/atau bekerja sama dengan pihak \npenyedia jasa TI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib memastikan: \na.  \nketersediaan Aplikasi Inti Perbankan; dan  \nb.  rekam cadang data, \ndalam menyelenggarakan TI secara mandiri dan/atau \nbekerja sama dengan pihak penyedia jasa TI. \n(2) \nBPR dan BPR Syariah wajib memastikan rekam cadang \ndata sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan setiap akhir hari untuk seluruh data \naktivitas BPR atau BPR Syariah. \n(3) \nBPR dan BPR Syariah wajib menyimpan data aktivitas \nsebagaimana dimaksud pada ayat (2) dalam jangka \nwaktu sesuai dengan ketentuan peraturan perundang-\nundangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib memastikan: \na.  \nketersediaan Aplikasi Inti Perbankan; dan  \nb.  rekam cadang data, \ndalam menyelenggarakan TI secara mandiri dan/atau \nbekerja sama dengan pihak penyedia jasa TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPR Syariah wajib memastikan rekam cadang \ndata sebagaimana dimaksud pada ayat (1) huruf b \ndilakukan setiap akhir hari untuk seluruh data \naktivitas BPR atau BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah wajib menyimpan data aktivitas \nsebagaimana dimaksud pada ayat (2) dalam jangka \nwaktu sesuai dengan ketentuan peraturan perundang-\nundangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Dalam rangka penyelenggaraan TI, BPR dan BPR Syariah \nwajib melakukan pencatatan seluruh transaksi dalam \npembukuan BPR dan BPR Syariah pada akhir hari yang \nsama. \n \nBagian Ketiga \nLarangan Dalam Penyelenggaraan TI BPR dan BPR Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam rangka penyelenggaraan TI, BPR dan BPR Syariah \nwajib melakukan pencatatan seluruh transaksi dalam \npembukuan BPR dan BPR Syariah pada akhir hari yang \nsama. \n \nBagian Ketiga \nLarangan Dalam Penyelenggaraan TI BPR dan BPR Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "BPR dan BPR Syariah dilarang melakukan kegiatan \npenyediaan jasa TI kepada pihak lain, kecuali terkait dengan \nproduk dan layanan yang disediakan oleh BPR dan BPR \nSyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah dilarang melakukan kegiatan \npenyediaan jasa TI kepada pihak lain, kecuali terkait dengan \nproduk dan layanan yang disediakan oleh BPR dan BPR \nSyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Ketentuan mengenai penerapan manajemen risiko dalam \npenyelenggaraan TI BPR dan BPR Syariah ditetapkan oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai penerapan manajemen risiko dalam \npenyelenggaraan TI BPR dan BPR Syariah ditetapkan oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "PENERAPAN MANAJEMEN RISIKO PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 14 ayat (1),  \nayat (3), Pasal 15 ayat (1), ayat (3), Pasal 16, Pasal 17 \nayat (1), Pasal 18, Pasal 19, dan/atau Pasal 20 dikenai \nsanksi administratif berupa teguran tertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (1), ayat (3), Pasal 15 ayat (1),  \nayat (3), Pasal 16, Pasal 17 ayat (1), Pasal 18, Pasal 19, \ndan/atau Pasal 20, BPR atau BPR Syariah dikenai \nsanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB V \nKETAHANAN DAN KEAMANAN SIBER",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 14 ayat (1),  \nayat (3), Pasal 15 ayat (1), ayat (3), Pasal 16, Pasal 17 \nayat (1), Pasal 18, Pasal 19, dan/atau Pasal 20 dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 14 ayat (1), ayat (3), Pasal 15 ayat (1),  \nayat (3), Pasal 16, Pasal 17 ayat (1), Pasal 18, Pasal 19, \ndan/atau Pasal 20, BPR atau BPR Syariah dikenai \nsanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB V \nKETAHANAN DAN KEAMANAN SIBER"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETAHANAN DAN KEAMANAN SIBER",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib menjaga ketahanan dan \nkeamanan siber.  \n(2) \nUntuk menjaga ketahanan dan keamanan siber \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah melakukan proses paling sedikit: \na. \nidentifikasi aset, ancaman, dan kerentanan;  \nb. \npelindungan aset;  \nc. \ndeteksi insiden siber; dan  \nd. \npenanggulangan dan pemulihan insiden siber. \n(3) \nBPR dan BPR Syariah memastikan proses untuk \nmenjaga ketahanan dan keamanan siber sebagaimana \ndimaksud pada ayat (2) didukung dengan sistem \ninformasi yang memadai.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib menjaga ketahanan dan \nkeamanan siber."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Untuk menjaga ketahanan dan keamanan siber \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah melakukan proses paling sedikit: \na. \nidentifikasi aset, ancaman, dan kerentanan;  \nb. \npelindungan aset;  \nc. \ndeteksi insiden siber; dan  \nd. \npenanggulangan dan pemulihan insiden siber."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah memastikan proses untuk \nmenjaga ketahanan dan keamanan siber sebagaimana \ndimaksud pada ayat (2) didukung dengan sistem \ninformasi yang memadai."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETAHANAN DAN KEAMANAN SIBER",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah melakukan penilaian maturitas \nkeamanan siber secara tahunan untuk posisi akhir \nbulan Desember. \n(2) \nBPR dan BPR Syariah mendokumentasikan hasil \npenilaian maturitas keamanan siber sebagaimana \ndimaksud pada ayat (1). \n(3) \nOJK dapat sewaktu-waktu meminta hasil penilaian \nmaturitas keamanan siber sebagaimana dimaksud \npada ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah melakukan penilaian maturitas \nkeamanan siber secara tahunan untuk posisi akhir \nbulan Desember."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPR Syariah mendokumentasikan hasil \npenilaian maturitas keamanan siber sebagaimana \ndimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "OJK dapat sewaktu-waktu meminta hasil penilaian \nmaturitas keamanan siber sebagaimana dimaksud \npada ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETAHANAN DAN KEAMANAN SIBER",
+      "teks_lengkap": "Ketentuan mengenai ketahanan dan keamanan siber serta \npenilaian maturitas keamanan siber BPR dan BPR Syariah \nditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai ketahanan dan keamanan siber serta \npenilaian maturitas keamanan siber BPR dan BPR Syariah \nditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB V",
+      "bab_judul": "KETAHANAN DAN KEAMANAN SIBER",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 23 ayat (1) dikenai \nsanksi administratif berupa teguran tertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 23 ayat (1), BPR atau BPR Syariah dikenai \nsanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB VI \nPENGGUNAAN PIHAK PENYEDIA JASA TI DALAM \nPENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 23 ayat (1) dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 23 ayat (1), BPR atau BPR Syariah dikenai \nsanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB VI \nPENGGUNAAN PIHAK PENYEDIA JASA TI DALAM \nPENYELENGGARAAN TI BPR DAN BPR SYARIAH"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK PENYEDIA JASA TI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah dapat menggunakan pihak \npenyedia jasa TI dalam penyelenggaraan TI. \n(2) \nDalam \npenggunaan \npihak \npenyedia \njasa \nTI \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah wajib: \na. \nbertanggung jawab terhadap penyelenggaraan TI; \nb. \nmemiliki \nkemampuan \ndalam \nmelakukan \npengawasan \ndan \nmelakukan \npengawasan \nterhadap penyelenggaraan TI BPR dan BPR \nSyariah yang diselenggarakan oleh pihak penyedia \njasa TI;  \nc. \nmemantau reputasi pihak penyedia jasa TI dan \nkelangsungan penyediaan layanan kepada BPR \ndan BPR Syariah;  \nd. \nmemilih pihak penyedia jasa TI berdasarkan \nanalisis manfaat dan biaya,  dengan melibatkan \nsatuan kerja atau pegawai yang bertanggung jawab \nterhadap penyelenggaraan TI; \ne. \nmelakukan \nproses \nseleksi \ndan \nmelakukan \ntransaksi \ndengan \npenyedia \njasa \nTI \ndengan \nmemperhatikan prinsip kehati-hatian, manajemen \nrisiko, dan didasarkan pada hubungan kerja sama \nsecara wajar (arm’s length principle), termasuk \ndalam hal penyedia jasa TI merupakan pihak \nterkait dengan BPR dan BPR Syariah; \nf. \nmemberikan \nakses \nkepada \nOtoritas \nJasa \nKeuangan terhadap pangkalan data BPR dan BPR \nSyariah secara tepat waktu baik terhadap data \nterkini dan data yang telah lalu;  \ng. \nmemastikan pihak penyedia jasa TI: \n\n\n \n1. \nmemiliki kualifikasi dan kompetensi sumber \ndaya manusia yang memadai; \n2. \nmenerapkan prinsip pengendalian TI secara \nmemadai; \n3. \nmenyediakan \ndata \ndan \ninformasi \nyang \ndiperlukan secara tepat waktu setiap kali \ndibutuhkan oleh BPR atau BPR Syariah, \nOtoritas Jasa Keuangan, dan/atau pihak lain \nsesuai \ndengan \nkewenangannya \ndalam \nketentuan peraturan perundang-undangan; \n4. \nmenyatakan tidak berkeberatan jika Otoritas \nJasa Keuangan dan/atau pihak lain yang \nberwenang \nsesuai \ndengan \nketentuan \nperaturan perundang-undangan melakukan \npemeriksaan terhadap kegiatan penyediaan \njasa yang diberikan;  \n5. \nmenjaga kerahasiaan dan keamanan seluruh \ndata dan/atau informasi termasuk data \npribadi nasabah; \n6. \nmenginformasikan kepada BPR atau BPR \nSyariah setiap kejadian kritis yang dapat \nmengakibatkan kerugian keuangan dan/atau \nmengganggu kelangsungan operasional BPR \natau BPR Syariah;  \n7. \nmenyediakan Rencana Pemulihan Bencana \nyang teruji dan memadai;  \n8. \nmemiliki mekanisme penghentian kerja sama \n(exit clause) antara BPR atau BPR Syariah \ndengan pihak penyedia jasa TI; \n9. \ntelah memperoleh persetujuan BPR atau BPR \nSyariah yang dibuktikan dengan dokumen \ntertulis, \ndalam \nhal \npenyedia \njasa \nTI \nmelakukan pengalihan sebagian kegiatan \natau subkontrak; \n10. bersedia untuk menyepakati kemungkinan \npenghentian perjanjian kerja sama sebelum \nberakhirnya jangka waktu perjanjian (early \ntermination) dalam hal perjanjian kerja sama \ntersebut menyebabkan atau diindikasikan \nakan menyebabkan kesulitan pelaksanaan \ntugas pengawasan Otoritas Jasa Keuangan; \ndan  \n11. memenuhi tingkat layanan sesuai dengan \nperjanjian tingkat layanan (service level \nagreement) antara BPR atau BPR Syariah dan \npihak penyedia jasa TI. \n(3) \nBPR dan BPR syariah dalam penggunaan pihak \npenyedia jasa TI sebagaimana dimaksud pada ayat (1) \nwajib didasarkan pada perjanjian kerja sama yang \nmemuat paling sedikit: \na. \ncakupan \npekerjaan \natau \njasa \ndalam \npenyelenggaraan TI;  \nb. \nhak dan kewajiban BPR atau BPR Syariah maupun \npihak penyedia jasa TI; dan \n\n\n \nc. \npokok-pokok perjanjian kerja sama, termasuk \nketentuan sebagaimana dimaksud pada ayat (2) \nhuruf g. \n(4) \nBagi BPR Syariah, penggunaan pihak penyedia jasa TI \ndalam penyelenggaraan TI wajib disertai dengan opini \ndewan pengawas syariah dan/atau hasil reviu fungsi \nkepatuhan syariah dalam hal terdapat prinsip syariah \nyang harus dipenuhi. \n(5) \nBPR dan BPR Syariah wajib memastikan bahwa \npenyedia jasa TI sebagaimana dimaksud pada ayat (1) \nberbentuk badan hukum yang berkedudukan di \nwilayah Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah dapat menggunakan pihak \npenyedia jasa TI dalam penyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \npenggunaan \npihak \npenyedia \njasa \nTI \nsebagaimana dimaksud pada ayat (1), BPR dan BPR \nSyariah wajib: \na. \nbertanggung jawab terhadap penyelenggaraan TI; \nb. \nmemiliki \nkemampuan \ndalam \nmelakukan \npengawasan \ndan \nmelakukan \npengawasan \nterhadap penyelenggaraan TI BPR dan BPR \nSyariah yang diselenggarakan oleh pihak penyedia \njasa TI;  \nc. \nmemantau reputasi pihak penyedia jasa TI dan \nkelangsungan penyediaan layanan kepada BPR \ndan BPR Syariah;  \nd. \nmemilih pihak penyedia jasa TI berdasarkan \nanalisis manfaat dan biaya,  dengan melibatkan \nsatuan kerja atau pegawai yang bertanggung jawab \nterhadap penyelenggaraan TI; \ne. \nmelakukan \nproses \nseleksi \ndan \nmelakukan \ntransaksi \ndengan \npenyedia \njasa \nTI \ndengan \nmemperhatikan prinsip kehati-hatian, manajemen \nrisiko, dan didasarkan pada hubungan kerja sama \nsecara wajar (arm’s length principle), termasuk \ndalam hal penyedia jasa TI merupakan pihak \nterkait dengan BPR dan BPR Syariah; \nf. \nmemberikan \nakses \nkepada \nOtoritas \nJasa \nKeuangan terhadap pangkalan data BPR dan BPR \nSyariah secara tepat waktu baik terhadap data \nterkini dan data yang telah lalu;  \ng. \nmemastikan pihak penyedia jasa TI: \n\n\n \n1. \nmemiliki kualifikasi dan kompetensi sumber \ndaya manusia yang memadai; \n2. \nmenerapkan prinsip pengendalian TI secara \nmemadai; \n3. \nmenyediakan \ndata \ndan \ninformasi \nyang \ndiperlukan secara tepat waktu setiap kali \ndibutuhkan oleh BPR atau BPR Syariah, \nOtoritas Jasa Keuangan, dan/atau pihak lain \nsesuai \ndengan \nkewenangannya \ndalam \nketentuan peraturan perundang-undangan; \n4. \nmenyatakan tidak berkeberatan jika Otoritas \nJasa Keuangan dan/atau pihak lain yang \nberwenang \nsesuai \ndengan \nketentuan \nperaturan perundang-undangan melakukan \npemeriksaan terhadap kegiatan penyediaan \njasa yang diberikan;  \n5. \nmenjaga kerahasiaan dan keamanan seluruh \ndata dan/atau informasi termasuk data \npribadi nasabah; \n6. \nmenginformasikan kepada BPR atau BPR \nSyariah setiap kejadian kritis yang dapat \nmengakibatkan kerugian keuangan dan/atau \nmengganggu kelangsungan operasional BPR \natau BPR Syariah;  \n7. \nmenyediakan Rencana Pemulihan Bencana \nyang teruji dan memadai;  \n8. \nmemiliki mekanisme penghentian kerja sama \n(exit clause) antara BPR atau BPR Syariah \ndengan pihak penyedia jasa TI; \n9. \ntelah memperoleh persetujuan BPR atau BPR \nSyariah yang dibuktikan dengan dokumen \ntertulis, \ndalam \nhal \npenyedia \njasa \nTI \nmelakukan pengalihan sebagian kegiatan \natau subkontrak; \n10. bersedia untuk menyepakati kemungkinan \npenghentian perjanjian kerja sama sebelum \nberakhirnya jangka waktu perjanjian (early \ntermination) dalam hal perjanjian kerja sama \ntersebut menyebabkan atau diindikasikan \nakan menyebabkan kesulitan pelaksanaan \ntugas pengawasan Otoritas Jasa Keuangan; \ndan  \n11. memenuhi tingkat layanan sesuai dengan \nperjanjian tingkat layanan (service level \nagreement) antara BPR atau BPR Syariah dan \npihak penyedia jasa TI."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR syariah dalam penggunaan pihak \npenyedia jasa TI sebagaimana dimaksud pada ayat (1) \nwajib didasarkan pada perjanjian kerja sama yang \nmemuat paling sedikit: \na. \ncakupan \npekerjaan \natau \njasa \ndalam \npenyelenggaraan TI;  \nb. \nhak dan kewajiban BPR atau BPR Syariah maupun \npihak penyedia jasa TI; dan \n\n\n \nc. \npokok-pokok perjanjian kerja sama, termasuk \nketentuan sebagaimana dimaksud pada ayat (2) \nhuruf g."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Bagi BPR Syariah, penggunaan pihak penyedia jasa TI \ndalam penyelenggaraan TI wajib disertai dengan opini \ndewan pengawas syariah dan/atau hasil reviu fungsi \nkepatuhan syariah dalam hal terdapat prinsip syariah \nyang harus dipenuhi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "BPR dan BPR Syariah wajib memastikan bahwa \npenyedia jasa TI sebagaimana dimaksud pada ayat (1) \nberbentuk badan hukum yang berkedudukan di \nwilayah Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK PENYEDIA JASA TI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nDalam hal terdapat kondisi tertentu yang menyebabkan \nterganggunya atau terhentinya penyediaan jasa TI dari \npihak penyedia jasa TI kepada BPR dan BPR Syariah, \nBPR dan BPR Syariah wajib melakukan tindakan paling \nsedikit: \na. \nmelaporkan kepada Otoritas Jasa Keuangan dalam \njangka waktu paling lama 3 (tiga) hari kerja setelah \nkondisi tertentu diketahui oleh BPR dan BPR \nSyariah; \nb. \nmemutuskan tindak lanjut yang akan diambil \nuntuk \nmengatasi \npermasalahan \ntermasuk \npenghentian penggunaan pihak penyedia jasa TI \ndalam hal diperlukan; dan \nc. \nmelaporkan kepada Otoritas Jasa Keuangan dalam \njangka waktu paling lama 10 (sepuluh) hari kerja \nsetelah BPR dan BPR Syariah menghentikan \npenggunaan pihak penyedia jasa TI sebelum \nberakhirnya jangka waktu perjanjian, dalam hal \nBPR dan BPR Syariah memutuskan untuk \nmenghentikan penggunaan pihak penyedia jasa TI. \n(2) \nKondisi tertentu sebagaimana dimaksud pada ayat (1) \nmeliputi: \na. \nmemburuknya kinerja penyelenggaraan TI oleh \npihak \npenyedia \njasa \nTI \nyang \nberpotensi \nmenimbulkan dan/atau mengakibatkan dampak \nyang signifikan pada kegiatan usaha dan/atau \noperasional BPR dan BPR Syariah; \nb. \npihak penyedia jasa TI menjadi insolven, dalam \nproses menuju likuidasi, atau dipailitkan oleh \npengadilan; \nc. \nterdapat pelanggaran oleh pihak penyedia jasa TI \nterhadap \nketentuan \nperaturan \nperundang-\nundangan; \nd. \nkondisi yang menyebabkan BPR dan BPR Syariah \ntidak dapat menyediakan data dan informasi yang \ndiperlukan untuk pengawasan oleh Otoritas Jasa \nKeuangan; dan/atau \ne. \nkondisi lain yang menyebabkan terganggunya atau \nterhentinya penyediaan jasa TI dari pihak penyedia \njasa TI kepada BPR dan BPR Syariah. \n(3) \nDalam hal penggunaan pihak penyedia jasa TI \nmenyebabkan atau diindikasikan akan menyebabkan \n\n\n \nkesulitan pengawasan yang dilakukan oleh Otoritas \nJasa Keuangan, Otoritas Jasa Keuangan dapat: \na. \nmeminta BPR dan BPR Syariah untuk melakukan \nupaya perbaikan melalui penyampaian rencana \ntindak; dan/atau \nb. \nmemerintahkan BPR dan BPR Syariah untuk \nmenghentikan penggunaan pihak penyedia jasa TI \nsebelum berakhirnya jangka waktu perjanjian. \n(4) \nBPR dan BPR Syariah wajib menyampaikan rencana \ntindak sebagaimana dimaksud pada ayat (3) huruf a \nkepada Otoritas Jasa Keuangan. \n(5) \nDalam hal BPR dan BPR Syariah akan menghentikan \npenggunaan pihak penyedia jasa TI, BPR dan BPR \nSyariah wajib: \na. \nmenyusun \nrencana \npenghentian \npenggunaan \npihak penyedia jasa TI; \nb. \nmemastikan kelangsungan layanan dan data \nterkait dengan kegiatan yang diserahkan kepada \npihak penyedia jasa TI serta kelangsungan \nkegiatan usaha dan/atau operasional BPR dan \nBPR Syariah; dan \nc. \nmemastikan \npenghentian \npenggunaan \npihak \npenyedia jasa TI tidak menimbulkan gangguan \npada kegiatan usaha dan/atau operasional BPR \ndan BPR Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terdapat kondisi tertentu yang menyebabkan \nterganggunya atau terhentinya penyediaan jasa TI dari \npihak penyedia jasa TI kepada BPR dan BPR Syariah, \nBPR dan BPR Syariah wajib melakukan tindakan paling \nsedikit: \na. \nmelaporkan kepada Otoritas Jasa Keuangan dalam \njangka waktu paling lama 3 (tiga) hari kerja setelah \nkondisi tertentu diketahui oleh BPR dan BPR \nSyariah; \nb. \nmemutuskan tindak lanjut yang akan diambil \nuntuk \nmengatasi \npermasalahan \ntermasuk \npenghentian penggunaan pihak penyedia jasa TI \ndalam hal diperlukan; dan \nc. \nmelaporkan kepada Otoritas Jasa Keuangan dalam \njangka waktu paling lama 10 (sepuluh) hari kerja \nsetelah BPR dan BPR Syariah menghentikan \npenggunaan pihak penyedia jasa TI sebelum \nberakhirnya jangka waktu perjanjian, dalam hal \nBPR dan BPR Syariah memutuskan untuk \nmenghentikan penggunaan pihak penyedia jasa TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Kondisi tertentu sebagaimana dimaksud pada ayat (1) \nmeliputi: \na. \nmemburuknya kinerja penyelenggaraan TI oleh \npihak \npenyedia \njasa \nTI \nyang \nberpotensi \nmenimbulkan dan/atau mengakibatkan dampak \nyang signifikan pada kegiatan usaha dan/atau \noperasional BPR dan BPR Syariah; \nb. \npihak penyedia jasa TI menjadi insolven, dalam \nproses menuju likuidasi, atau dipailitkan oleh \npengadilan; \nc. \nterdapat pelanggaran oleh pihak penyedia jasa TI \nterhadap \nketentuan \nperaturan \nperundang-\nundangan; \nd. \nkondisi yang menyebabkan BPR dan BPR Syariah \ntidak dapat menyediakan data dan informasi yang \ndiperlukan untuk pengawasan oleh Otoritas Jasa \nKeuangan; dan/atau \ne. \nkondisi lain yang menyebabkan terganggunya atau \nterhentinya penyediaan jasa TI dari pihak penyedia \njasa TI kepada BPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal penggunaan pihak penyedia jasa TI \nmenyebabkan atau diindikasikan akan menyebabkan \n\n\n \nkesulitan pengawasan yang dilakukan oleh Otoritas \nJasa Keuangan, Otoritas Jasa Keuangan dapat: \na. \nmeminta BPR dan BPR Syariah untuk melakukan \nupaya perbaikan melalui penyampaian rencana \ntindak; dan/atau \nb. \nmemerintahkan BPR dan BPR Syariah untuk \nmenghentikan penggunaan pihak penyedia jasa TI \nsebelum berakhirnya jangka waktu perjanjian."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPR Syariah wajib menyampaikan rencana \ntindak sebagaimana dimaksud pada ayat (3) huruf a \nkepada Otoritas Jasa Keuangan."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal BPR dan BPR Syariah akan menghentikan \npenggunaan pihak penyedia jasa TI, BPR dan BPR \nSyariah wajib: \na. \nmenyusun \nrencana \npenghentian \npenggunaan \npihak penyedia jasa TI; \nb. \nmemastikan kelangsungan layanan dan data \nterkait dengan kegiatan yang diserahkan kepada \npihak penyedia jasa TI serta kelangsungan \nkegiatan usaha dan/atau operasional BPR dan \nBPR Syariah; dan \nc. \nmemastikan \npenghentian \npenggunaan \npihak \npenyedia jasa TI tidak menimbulkan gangguan \npada kegiatan usaha dan/atau operasional BPR \ndan BPR Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK PENYEDIA JASA TI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Ketentuan mengenai penggunaan pihak penyedia jasa TI \ndalam penyelenggaraan TI BPR dan BPR Syariah ditetapkan \noleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai penggunaan pihak penyedia jasa TI \ndalam penyelenggaraan TI BPR dan BPR Syariah ditetapkan \noleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "PENGGUNAAN PIHAK PENYEDIA JASA TI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 27 ayat (2),  \nayat (3), ayat (4), ayat (5), Pasal 28 ayat (1) huruf b, \ndan/atau ayat (5) dikenai sanksi administratif berupa \nteguran tertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 27 ayat (2), ayat (3), ayat (4), ayat (5),  \nPasal 28 ayat (1) huruf b, dan/atau ayat (5), BPR atau \nBPR Syariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n(3) \nBPR dan BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 28 ayat (1)  \nhuruf a, huruf c, dan/atau ayat (4) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan \nmengenai \npelaporan \nmelalui \nsistem \npelaporan Otoritas Jasa Keuangan dan transparansi \nkondisi keuangan bagi BPR dan BPR Syariah. \n\n\n \n(4) \nDalam hal terdapat kesalahan data dan/atau informasi \ndalam laporan sebagaimana dimaksud dalam Pasal 28 \nayat (1) huruf a, huruf c, dan/atau ayat (4), BPR atau \nBPR Syariah dikenai sanksi administratif sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai pelaporan \nmelalui sistem pelaporan Otoritas Jasa Keuangan dan \ntransparansi kondisi keuangan bagi BPR dan BPR \nSyariah. \n \nBAB VII \nAPLIKASI INTI PERBANKAN  \nDAN PENEMPATAN SISTEM ELEKTRONIK \n \nBagian Kesatu \nAplikasi Inti Perbankan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 27 ayat (2),  \nayat (3), ayat (4), ayat (5), Pasal 28 ayat (1) huruf b, \ndan/atau ayat (5) dikenai sanksi administratif berupa \nteguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 27 ayat (2), ayat (3), ayat (4), ayat (5),  \nPasal 28 ayat (1) huruf b, dan/atau ayat (5), BPR atau \nBPR Syariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR dan BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 28 ayat (1)  \nhuruf a, huruf c, dan/atau ayat (4) dikenai sanksi \nadministratif sesuai dengan Peraturan Otoritas Jasa \nKeuangan \nmengenai \npelaporan \nmelalui \nsistem \npelaporan Otoritas Jasa Keuangan dan transparansi \nkondisi keuangan bagi BPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal terdapat kesalahan data dan/atau informasi \ndalam laporan sebagaimana dimaksud dalam Pasal 28 \nayat (1) huruf a, huruf c, dan/atau ayat (4), BPR atau \nBPR Syariah dikenai sanksi administratif sesuai dengan \nPeraturan Otoritas Jasa Keuangan mengenai pelaporan \nmelalui sistem pelaporan Otoritas Jasa Keuangan dan \ntransparansi kondisi keuangan bagi BPR dan BPR \nSyariah. \n \nBAB VII \nAPLIKASI INTI PERBANKAN  \nDAN PENEMPATAN SISTEM ELEKTRONIK \n \nBagian Kesatu \nAplikasi Inti Perbankan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "APLIKASI INTI PERBANKAN DAN PENEMPATAN SISTEM ELEKTRONIK",
+      "teks_lengkap": "BPR dan BPR Syariah wajib memastikan Aplikasi Inti \nPerbankan mampu: \na. \nmenerapkan \nketentuan \nperaturan \nperundang-\nundangan bagi BPR dan BPR Syariah; \nb. \nmelakukan pembukuan transaksi antar jaringan \nkantor: \n1. \npada hari yang sama bagi BPR dan BPR Syariah \nyang tidak menyediakan layanan digital dan tidak \nmelakukan \nkegiatan \nsebagai \npenerbit \nalat \npembayaran menggunakan kartu (APMK); dan \n2. \nsecara online dan real time bagi BPR dan BPR \nSyariah \nyang \nmenyediakan \nlayanan \ndigital \ndan/atau melakukan kegiatan sebagai penerbit \nalat pembayaran menggunakan kartu (APMK); \nc. \nmenghasilkan data dan informasi yang digunakan \ndalam mendukung proses penyusunan laporan untuk \nkebutuhan intern dan ekstern; \nd. \nmengonsolidasikan fungsi yang terdapat dalam Aplikasi \nInti Perbankan untuk mendukung penyediaan data dan \ninformasi yang lengkap, akurat, kini, dan utuh; dan \ne. \nmemiliki log aktivitas sistem. \n \nBagian Kedua \nPenempatan Sistem Elektronik",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah wajib memastikan Aplikasi Inti \nPerbankan mampu: \na. \nmenerapkan \nketentuan \nperaturan \nperundang-\nundangan bagi BPR dan BPR Syariah; \nb. \nmelakukan pembukuan transaksi antar jaringan \nkantor: \n1. \npada hari yang sama bagi BPR dan BPR Syariah \nyang tidak menyediakan layanan digital dan tidak \nmelakukan \nkegiatan \nsebagai \npenerbit \nalat \npembayaran menggunakan kartu (APMK); dan \n2. \nsecara online dan real time bagi BPR dan BPR \nSyariah \nyang \nmenyediakan \nlayanan \ndigital \ndan/atau melakukan kegiatan sebagai penerbit \nalat pembayaran menggunakan kartu (APMK); \nc. \nmenghasilkan data dan informasi yang digunakan \ndalam mendukung proses penyusunan laporan untuk \nkebutuhan intern dan ekstern; \nd. \nmengonsolidasikan fungsi yang terdapat dalam Aplikasi \nInti Perbankan untuk mendukung penyediaan data dan \ninformasi yang lengkap, akurat, kini, dan utuh; dan \ne. \nmemiliki log aktivitas sistem. \n \nBagian Kedua \nPenempatan Sistem Elektronik"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "APLIKASI INTI PERBANKAN DAN PENEMPATAN SISTEM ELEKTRONIK",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib menempatkan Sistem \nElektronik pada Pusat Data dan Pusat Pemulihan \nBencana di wilayah Indonesia.  \n(2) \nBPR dan BPR Syariah wajib menempatkan Sistem \nElektronik \npada \nPusat \nData \ndi \nlokasi \ndengan \nkarakteristik risiko yang berbeda dengan lokasi Pusat \nPemulihan Bencana.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib menempatkan Sistem \nElektronik pada Pusat Data dan Pusat Pemulihan \nBencana di wilayah Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPR Syariah wajib menempatkan Sistem \nElektronik \npada \nPusat \nData \ndi \nlokasi \ndengan \nkarakteristik risiko yang berbeda dengan lokasi Pusat \nPemulihan Bencana."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "APLIKASI INTI PERBANKAN DAN PENEMPATAN SISTEM ELEKTRONIK",
+      "teks_lengkap": "Ketentuan \nmengenai \nAplikasi \nInti \nPerbankan \ndan \npenempatan Sistem Elektronik ditetapkan oleh Otoritas Jasa \nKeuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan \nmengenai \nAplikasi \nInti \nPerbankan \ndan \npenempatan Sistem Elektronik ditetapkan oleh Otoritas Jasa \nKeuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "APLIKASI INTI PERBANKAN DAN PENEMPATAN SISTEM ELEKTRONIK",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 31 dan/atau  \nPasal 32 dikenai sanksi administratif berupa teguran \ntertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 31 dan/atau Pasal 32, BPR atau BPR \nSyariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB VIII \nPENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI \nDALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH \n \nBagian Kesatu \nPengelolaan Data oleh BPR dan BPR Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 31 dan/atau  \nPasal 32 dikenai sanksi administratif berupa teguran \ntertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 31 dan/atau Pasal 32, BPR atau BPR \nSyariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB VIII \nPENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI \nDALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH \n \nBagian Kesatu \nPengelolaan Data oleh BPR dan BPR Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib mengelola data secara \nefektif dalam pemrosesan data BPR dan BPR Syariah \nuntuk mendukung pencapaian tujuan bisnis BPR dan \nBPR Syariah. \n(2) \nPengelolaan data secara efektif sebagaimana dimaksud \npada ayat (1) memperhatikan paling sedikit: \na. \nkualitas data; \nb. \nsistem pengelolaan data; dan \nc. \nsumber daya pendukung pengelolaan data. \n \nBagian Kedua \nPelindungan Data Pribadi oleh BPR dan BPR Syariah",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib mengelola data secara \nefektif dalam pemrosesan data BPR dan BPR Syariah \nuntuk mendukung pencapaian tujuan bisnis BPR dan \nBPR Syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengelolaan data secara efektif sebagaimana dimaksud \npada ayat (1) memperhatikan paling sedikit: \na. \nkualitas data; \nb. \nsistem pengelolaan data; dan \nc. \nsumber daya pendukung pengelolaan data. \n \nBagian Kedua \nPelindungan Data Pribadi oleh BPR dan BPR Syariah"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib melaksanakan prinsip \npelindungan \ndata \npribadi \ndalam \nmelakukan \npemrosesan data pribadi sesuai dengan ketentuan \nperaturan perundang-undangan.  \n(2) \nPemrosesan data pribadi sebagaimana dimaksud pada \nayat (1) dilakukan dengan memperhatikan persetujuan \nnasabah dan/atau calon nasabah yang dilaksanakan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-\nundangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib melaksanakan prinsip \npelindungan \ndata \npribadi \ndalam \nmelakukan \npemrosesan data pribadi sesuai dengan ketentuan \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemrosesan data pribadi sebagaimana dimaksud pada \nayat (1) dilakukan dengan memperhatikan persetujuan \nnasabah dan/atau calon nasabah yang dilaksanakan \nsesuai \ndengan \nketentuan \nperaturan \nperundang-\nundangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Ketentuan mengenai pengelolaan data dan pelindungan data \npribadi oleh BPR dan BPR Syariah ditetapkan oleh Otoritas \nJasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai pengelolaan data dan pelindungan data \npribadi oleh BPR dan BPR Syariah ditetapkan oleh Otoritas \nJasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "PENGELOLAAN DATA DAN PELINDUNGAN DATA PRIBADI DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 35 ayat (1) \n\n\n \ndan/atau Pasal 36 ayat (1) dikenai sanksi administratif \nberupa teguran tertulis. \n(2) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 35 ayat (1) dan/atau Pasal 36 ayat (1), BPR \natau BPR Syariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB IX \nPENGENDALIAN DAN AUDIT INTERN BPR DAN BPR \nSYARIAH DALAM PENYELENGGARAAN TI  \nBPR DAN BPR SYARIAH \n \nBagian Kesatu \nPengendalian Intern BPR dan BPR Syariah dalam \nPenyelenggaraan TI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 35 ayat (1) \n\n\n \ndan/atau Pasal 36 ayat (1) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (1) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 35 ayat (1) dan/atau Pasal 36 ayat (1), BPR \natau BPR Syariah dikenai sanksi administratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB IX \nPENGENDALIAN DAN AUDIT INTERN BPR DAN BPR \nSYARIAH DALAM PENYELENGGARAAN TI  \nBPR DAN BPR SYARIAH \n \nBagian Kesatu \nPengendalian Intern BPR dan BPR Syariah dalam \nPenyelenggaraan TI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGENDALIAN DAN AUDIT INTERN BPR DAN BPR SYARIAH DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib melaksanakan sistem \npengendalian \nintern \nsecara \nefektif \ndalam \npenyelenggaraan TI. \n(2) \nPelaksanaan sistem pengendalian intern secara efektif \nsebagaimana dimaksud pada ayat (1) paling sedikit \nharus \nmampu \nmendeteksi \nkelemahan \ndan \npenyimpangan yang terjadi secara tepat waktu. \n \nBagian Kedua \nAudit Intern dalam Penyelenggaraan TI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib melaksanakan sistem \npengendalian \nintern \nsecara \nefektif \ndalam \npenyelenggaraan TI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaksanaan sistem pengendalian intern secara efektif \nsebagaimana dimaksud pada ayat (1) paling sedikit \nharus \nmampu \nmendeteksi \nkelemahan \ndan \npenyimpangan yang terjadi secara tepat waktu. \n \nBagian Kedua \nAudit Intern dalam Penyelenggaraan TI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGENDALIAN DAN AUDIT INTERN BPR DAN BPR SYARIAH DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah wajib melaksanakan audit intern \nterhadap penyelenggaraan TI sesuai dengan ketentuan \nperaturan perundang-undangan. \n(2) \nBPR dan BPR Syariah wajib melaksanakan audit intern \nsebagaimana dimaksud pada ayat (1) secara berkala \npaling sedikit 1 (satu) kali dalam jangka waktu 1 (satu) \ntahun. \n(3) \nDalam \nmelaksanakan \naudit \nintern \nsebagaimana \ndimaksud pada ayat (1), BPR dan BPR Syariah wajib \nmemiliki pedoman audit intern atas penyelenggaraan \nTI. \n(4) \nDalam rangka pelaksanaan audit intern sebagaimana \ndimaksud pada ayat (1), BPR dan BPR Syariah wajib \nmemastikan tersedianya jejak audit (audit trail) \nterhadap seluruh kegiatan penyelenggaraan TI untuk \nkeperluan \npengawasan, \npenegakan \nhukum, \npenyelesaian sengketa, verifikasi, pengujian, dan \npemeriksaan lainnya. \n(5) \nPelaksanaan audit intern sebagaimana dimaksud pada \nayat (1) dapat dilakukan oleh auditor ekstern.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah wajib melaksanakan audit intern \nterhadap penyelenggaraan TI sesuai dengan ketentuan \nperaturan perundang-undangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR dan BPR Syariah wajib melaksanakan audit intern \nsebagaimana dimaksud pada ayat (1) secara berkala \npaling sedikit 1 (satu) kali dalam jangka waktu 1 (satu) \ntahun."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam \nmelaksanakan \naudit \nintern \nsebagaimana \ndimaksud pada ayat (1), BPR dan BPR Syariah wajib \nmemiliki pedoman audit intern atas penyelenggaraan \nTI."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam rangka pelaksanaan audit intern sebagaimana \ndimaksud pada ayat (1), BPR dan BPR Syariah wajib \nmemastikan tersedianya jejak audit (audit trail) \nterhadap seluruh kegiatan penyelenggaraan TI untuk \nkeperluan \npengawasan, \npenegakan \nhukum, \npenyelesaian sengketa, verifikasi, pengujian, dan \npemeriksaan lainnya."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pelaksanaan audit intern sebagaimana dimaksud pada \nayat (1) dapat dilakukan oleh auditor ekstern."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGENDALIAN DAN AUDIT INTERN BPR DAN BPR SYARIAH DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "Ketentuan mengenai pengendalian dan audit intern dalam \npenyelenggaraan TI BPR dan BPR Syariah ditetapkan oleh \nOtoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai pengendalian dan audit intern dalam \npenyelenggaraan TI BPR dan BPR Syariah ditetapkan oleh \nOtoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGENDALIAN DAN AUDIT INTERN BPR DAN BPR SYARIAH DALAM PENYELENGGARAAN TI BPR DAN BPR SYARIAH",
+      "teks_lengkap": "(1) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 39 ayat (1) dikenai \nsanksi administratif sesuai dengan: \na. \nPeraturan Otoritas Jasa Keuangan mengenai \npenerapan manajemen risiko bagi BPR; atau \nb. \nPeraturan Otoritas Jasa Keuangan mengenai \npenerapan manajemen risiko bagi BPR Syariah. \n(2) \nBPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 40 ayat (1) ayat (2), \nayat (3), dan/atau ayat (4) dikenai sanksi administratif \nberupa teguran tertulis. \n(3) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 40 ayat (1) ayat (2), ayat (3), dan/atau  \nayat (4), BPR atau BPR Syariah dikenai sanksi \nadministratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB X \nPELAPORAN \n \nBagian Kesatu \nLaporan Berkala",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 39 ayat (1) dikenai \nsanksi administratif sesuai dengan: \na. \nPeraturan Otoritas Jasa Keuangan mengenai \npenerapan manajemen risiko bagi BPR; atau \nb. \nPeraturan Otoritas Jasa Keuangan mengenai \npenerapan manajemen risiko bagi BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "BPR atau BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 40 ayat (1) ayat (2), \nayat (3), dan/atau ayat (4) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (2) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 40 ayat (1) ayat (2), ayat (3), dan/atau  \nayat (4), BPR atau BPR Syariah dikenai sanksi \nadministratif berupa: \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan. \n \nBAB X \nPELAPORAN \n \nBagian Kesatu \nLaporan Berkala"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "BPR dan BPR Syariah wajib menyampaikan laporan kepada \nOtoritas Jasa Keuangan mengenai pelaksanaan audit intern \nsebagaimana dimaksud dalam Pasal 40 ayat (1) sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi BPR dan BPR Syariah dan \nPeraturan Otoritas Jasa Keuangan mengenai pelaporan \nmelalui sistem pelaporan Otoritas Jasa Keuangan dan \ntransparansi kondisi keuangan bagi BPR dan BPR Syariah. \n \nBagian Kedua \nLaporan Insidental",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah wajib menyampaikan laporan kepada \nOtoritas Jasa Keuangan mengenai pelaksanaan audit intern \nsebagaimana dimaksud dalam Pasal 40 ayat (1) sesuai \ndengan Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi BPR dan BPR Syariah dan \nPeraturan Otoritas Jasa Keuangan mengenai pelaporan \nmelalui sistem pelaporan Otoritas Jasa Keuangan dan \ntransparansi kondisi keuangan bagi BPR dan BPR Syariah. \n \nBagian Kedua \nLaporan Insidental"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "BPR dan BPR Syariah wajib menyampaikan laporan kepada \nOtoritas \nJasa \nKeuangan \nmengenai \nkondisi \nterkini \npenyelenggaraan TI BPR dan BPR Syariah dalam hal terjadi \nperubahan mendasar dalam penyelenggaraan TI, paling \nlambat 10 (sepuluh) hari kerja sejak perubahan mendasar \ndalam penyelenggaraan TI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah wajib menyampaikan laporan kepada \nOtoritas \nJasa \nKeuangan \nmengenai \nkondisi \nterkini \npenyelenggaraan TI BPR dan BPR Syariah dalam hal terjadi \nperubahan mendasar dalam penyelenggaraan TI, paling \nlambat 10 (sepuluh) hari kerja sejak perubahan mendasar \ndalam penyelenggaraan TI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "BPR dan BPR Syariah wajib menyampaikan laporan realisasi \npenggunaan pihak penyedia jasa TI sebagaimana dimaksud \ndalam Pasal 27 ayat (1) paling lambat 10 (sepuluh) hari kerja \nsejak penyelenggaraan TI BPR dan BPR Syariah oleh \npenyedia jasa TI efektif beroperasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah wajib menyampaikan laporan realisasi \npenggunaan pihak penyedia jasa TI sebagaimana dimaksud \ndalam Pasal 27 ayat (1) paling lambat 10 (sepuluh) hari kerja \nsejak penyelenggaraan TI BPR dan BPR Syariah oleh \npenyedia jasa TI efektif beroperasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nDalam hal terjadi insiden TI yang berpotensi dan/atau \ntelah \nmengakibatkan \nkerugian \nyang \nsignifikan \ndan/atau mengganggu kelancaran operasional BPR dan \nBPR \nSyariah, \nBPR \ndan \nBPR \nSyariah \nwajib \nmenyampaikan: \na. \nnotifikasi awal paling lama 24 (dua puluh empat) \njam setelah insiden TI diketahui; dan  \nb. \nlaporan \ninsiden \nTI \ndalam \njangka \nwaktu  \npaling lama 7 (tujuh) hari kerja setelah insiden TI \ndiketahui. \n(2) \nNotifikasi awal sebagaimana dimaksud pada ayat (1) \nhuruf a disampaikan melalui sarana elektronik secara \ntertulis kepada Otoritas Jasa Keuangan berdasarkan \ninformasi awal yang tersedia. \n(3) \nDalam hal terdapat pengaturan otoritas lain mengenai \npenyampaian notifikasi awal dan/atau laporan insiden \nTI dalam jangka waktu yang lebih cepat daripada \njangka waktu sebagaimana dimaksud pada ayat (1), \nBPR dan BPR Syariah wajib menyampaikan notifikasi \nawal dan/atau laporan insiden TI kepada Otoritas Jasa \nKeuangan pada saat yang bersamaan sesuai dengan \npengaturan otoritas lain dimaksud. \n(4) \nBPR dan BPR Syariah yang telah menyampaikan \nnotifikasi \nawal \ndan/atau \nlaporan \ninsiden \nTI \nsebagaimana dimaksud pada ayat (3) dianggap telah \nmemenuhi ketentuan sebagaimana dimaksud pada \nayat (1) huruf a dan/atau huruf b. \n \nBagian Ketiga \nTata Cara Penyampaian Laporan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terjadi insiden TI yang berpotensi dan/atau \ntelah \nmengakibatkan \nkerugian \nyang \nsignifikan \ndan/atau mengganggu kelancaran operasional BPR dan \nBPR \nSyariah, \nBPR \ndan \nBPR \nSyariah \nwajib \nmenyampaikan: \na. \nnotifikasi awal paling lama 24 (dua puluh empat) \njam setelah insiden TI diketahui; dan  \nb. \nlaporan \ninsiden \nTI \ndalam \njangka \nwaktu  \npaling lama 7 (tujuh) hari kerja setelah insiden TI \ndiketahui."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Notifikasi awal sebagaimana dimaksud pada ayat (1) \nhuruf a disampaikan melalui sarana elektronik secara \ntertulis kepada Otoritas Jasa Keuangan berdasarkan \ninformasi awal yang tersedia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat pengaturan otoritas lain mengenai \npenyampaian notifikasi awal dan/atau laporan insiden \nTI dalam jangka waktu yang lebih cepat daripada \njangka waktu sebagaimana dimaksud pada ayat (1), \nBPR dan BPR Syariah wajib menyampaikan notifikasi \nawal dan/atau laporan insiden TI kepada Otoritas Jasa \nKeuangan pada saat yang bersamaan sesuai dengan \npengaturan otoritas lain dimaksud."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "BPR dan BPR Syariah yang telah menyampaikan \nnotifikasi \nawal \ndan/atau \nlaporan \ninsiden \nTI \nsebagaimana dimaksud pada ayat (3) dianggap telah \nmemenuhi ketentuan sebagaimana dimaksud pada \nayat (1) huruf a dan/atau huruf b. \n \nBagian Ketiga \nTata Cara Penyampaian Laporan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah menyampaikan laporan: \na. \ntindakan sebagaimana dimaksud dalam Pasal 28 \nayat (1) huruf a dan huruf c; \nb. \nrencana tindak sebagaimana dimaksud dalam \nPasal 28 ayat (4); \nc. \nkondisi terkini penyelenggaraan TI sebagaimana \ndimaksud dalam Pasal 44;  \nd. \nrealisasi penggunaan pihak penyedia jasa TI \nsebagaimana dimaksud dalam Pasal 45; dan/atau \ne. \ninsiden TI sebagaimana dimaksud dalam Pasal 46 \nayat (1) huruf b, \nsecara daring melalui sistem pelaporan Otoritas Jasa \nKeuangan. \n(2) \nLaporan \nsebagaimana \ndimaksud \npada \nayat \n(1) \nmerupakan laporan insidental sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai pelaporan melalui \n\n\n \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \ndan \ntransparansi kondisi keuangan bagi BPR dan BPR \nSyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah menyampaikan laporan: \na. \ntindakan sebagaimana dimaksud dalam Pasal 28 \nayat (1) huruf a dan huruf c; \nb. \nrencana tindak sebagaimana dimaksud dalam \nPasal 28 ayat (4); \nc. \nkondisi terkini penyelenggaraan TI sebagaimana \ndimaksud dalam Pasal 44;  \nd. \nrealisasi penggunaan pihak penyedia jasa TI \nsebagaimana dimaksud dalam Pasal 45; dan/atau \ne. \ninsiden TI sebagaimana dimaksud dalam Pasal 46 \nayat (1) huruf b, \nsecara daring melalui sistem pelaporan Otoritas Jasa \nKeuangan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "merupakan laporan insidental sesuai dengan Peraturan \nOtoritas Jasa Keuangan mengenai pelaporan melalui \n\n\n \nsistem \npelaporan \nOtoritas \nJasa \nKeuangan \ndan \ntransparansi kondisi keuangan bagi BPR dan BPR \nSyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Ketentuan mengenai tata cara penyampaian laporan dan \nformat laporan ditetapkan oleh Otoritas Jasa Keuangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ketentuan mengenai tata cara penyampaian laporan dan \nformat laporan ditetapkan oleh Otoritas Jasa Keuangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "(1) \nBPR dan BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 43, Pasal 44,  \nPasal 45, dan/atau Pasal 46 ayat (1) huruf b dikenai \nsanksi administratif sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai pelaporan melalui sistem \npelaporan Otoritas Jasa Keuangan dan transparansi \nkondisi keuangan bagi BPR dan BPR Syariah. \n(2) \nDalam hal terdapat kesalahan data dan/atau informasi \ndalam laporan sebagaimana dimaksud dalam Pasal 43, \nPasal 44, Pasal 45, dan/atau Pasal 46 ayat (1) huruf b, \nBPR atau BPR Syariah dikenai sanksi administratif \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan melalui sistem pelaporan Otoritas \nJasa Keuangan dan transparansi kondisi keuangan \nbagi BPR dan BPR Syariah. \n(3) \nBPR atau BPR Syariah yang terlambat menyampaikan \nnotifikasi awal insiden TI sebagaimana dimaksud dalam \nPasal 46 ayat (1) huruf a dan/atau ayat (3) dikenai \nsanksi administratif berupa teguran tertulis. \n(4) \nDalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (3) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 46 ayat (1) huruf a dan/atau ayat (3), BPR \natau BPR Syariah dikenai sanksi administratif berupa:  \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "BPR dan BPR Syariah yang melanggar ketentuan \nsebagaimana dimaksud dalam Pasal 43, Pasal 44,  \nPasal 45, dan/atau Pasal 46 ayat (1) huruf b dikenai \nsanksi administratif sesuai dengan Peraturan Otoritas \nJasa Keuangan mengenai pelaporan melalui sistem \npelaporan Otoritas Jasa Keuangan dan transparansi \nkondisi keuangan bagi BPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal terdapat kesalahan data dan/atau informasi \ndalam laporan sebagaimana dimaksud dalam Pasal 43, \nPasal 44, Pasal 45, dan/atau Pasal 46 ayat (1) huruf b, \nBPR atau BPR Syariah dikenai sanksi administratif \nsesuai dengan Peraturan Otoritas Jasa Keuangan \nmengenai pelaporan melalui sistem pelaporan Otoritas \nJasa Keuangan dan transparansi kondisi keuangan \nbagi BPR dan BPR Syariah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "BPR atau BPR Syariah yang terlambat menyampaikan \nnotifikasi awal insiden TI sebagaimana dimaksud dalam \nPasal 46 ayat (1) huruf a dan/atau ayat (3) dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam hal BPR atau BPR Syariah telah dikenai sanksi \nadministratif sebagaimana dimaksud pada ayat (3) dan \nbelum memenuhi ketentuan sebagaimana dimaksud \ndalam Pasal 46 ayat (1) huruf a dan/atau ayat (3), BPR \natau BPR Syariah dikenai sanksi administratif berupa:  \na. \npenghentian \nsementara \nsebagian \nkegiatan \noperasional BPR atau BPR Syariah; \nb. \nlarangan melakukan ekspansi kegiatan usaha; \ndan/atau \nc. \npenurunan tingkat kesehatan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB X",
+      "bab_judul": "PELAPORAN",
+      "teks_lengkap": "Otoritas Jasa Keuangan dapat menetapkan kebijakan yang \nberbeda dengan Peraturan Otoritas Jasa Keuangan ini \nberdasarkan pertimbangan tertentu. \n \nBAB XI \nKETENTUAN PERALIHAN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Otoritas Jasa Keuangan dapat menetapkan kebijakan yang \nberbeda dengan Peraturan Otoritas Jasa Keuangan ini \nberdasarkan pertimbangan tertentu. \n \nBAB XI \nKETENTUAN PERALIHAN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "KETENTUAN PERALIHAN",
+      "teks_lengkap": "BPR dan BPR Syariah yang telah menggunakan pihak \npenyedia jasa TI sebelum berlakunya Peraturan Otoritas \nJasa Keuangan ini, harus menyesuaikan dengan ketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini setelah \nberakhirnya jangka waktu perjanjian kerja sama antara BPR \ndan BPR Syariah dengan pihak penyedia jasa TI. \n \n \n\n\n \nBAB XII \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "BPR dan BPR Syariah yang telah menggunakan pihak \npenyedia jasa TI sebelum berlakunya Peraturan Otoritas \nJasa Keuangan ini, harus menyesuaikan dengan ketentuan \ndalam Peraturan Otoritas Jasa Keuangan ini setelah \nberakhirnya jangka waktu perjanjian kerja sama antara BPR \ndan BPR Syariah dengan pihak penyedia jasa TI. \n \n \n\n\n \nBAB XII \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor 75/POJK.03/2016 tentang Standar Penyelenggaraan \nTeknologi Informasi bagi Bank Perkreditan Rakyat dan Bank \nPembiayaan Rakyat Syariah (Lembaran Negara Republik \nIndonesia Tahun 2016 Nomor 308, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5998), dicabut dan \ndinyatakan tidak berlaku.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pada saat Peraturan Otoritas Jasa Keuangan ini mulai \nberlaku, \nPeraturan \nOtoritas \nJasa \nKeuangan  \nNomor 75/POJK.03/2016 tentang Standar Penyelenggaraan \nTeknologi Informasi bagi Bank Perkreditan Rakyat dan Bank \nPembiayaan Rakyat Syariah (Lembaran Negara Republik \nIndonesia Tahun 2016 Nomor 308, Tambahan Lembaran \nNegara Republik Indonesia Nomor 5998), dicabut dan \ndinyatakan tidak berlaku."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku  \nsetelah 1 (satu) tahun terhitung sejak tanggal diundangkan. \n \n \n \n \n \n\n\n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 16 Desember 2025 \n \nKETUA DEWAN KOMISIONER  \nOTORITAS JASA KEUANGAN  \nREPUBLIK INDONESIA,  \n \nŒ \n \n \nMAHENDRA SIREGAR \n \nDiundangkan di Jakarta  \npada tanggal                Д \n \nMENTERI HUKUM REPUBLIK INDONESIA,  \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR     Ж \n \n \n \n \n \n\n\n \n \n \n \n \n \n \n \n \n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN  \nREPUBLIK INDONESIA \nNOMOR 34 TAHUN 2025 \nTENTANG \nPENYELENGGARAAN TEKNOLOGI INFORMASI \n OLEH BANK PEREKONOMIAN RAKYAT DAN  \nBANK PEREKONOMIAN RAKYAT SYARIAH \n \nI. \nUMUM \nDalam era digitalisasi sektor jasa keuangan, pemanfaatan TI \nmerupakan aspek penting dalam kegiatan operasional perbankan. \nPemanfaatan TI oleh BPR dan BPR Syariah dilakukan dalam berbagai \naktivitas antara lain penghimpunan dana, penyaluran dana maupun \nkegiatan operasional lain. Perkembangan digitalisasi sektor perbankan \njuga mendorong industri BPR dan BPR Syariah untuk melakukan \ntransformasi digital melalui pemanfaatan TI secara lebih masif agar \noperasional BPR dan BPR Syariah lebih andal dan efisien. Selain itu, \ndorongan untuk melakukan transformasi digital bagi BPR dan BPR \nSyariah juga semakin mengemuka seiring meningkatnya kebutuhan \nmasyarakat terhadap produk maupun layanan berbasis digital yang \ndapat diakses tanpa adanya batasan ruang dan waktu.   \n Pemanfaatan TI oleh BPR dan BPR Syariah memiliki suatu \ntantangan tersendiri, antara lain risiko terkait kegagalan operasional, \nketahanan dan keamanan siber, keterbatasan permodalan serta \nperlunya peningkatan kualitas sumber daya manusia bidang TI. \nPeningkatan risiko sebagai dampak pemanfaatan TI yang dihadapi oleh \nBPR dan BPR Syariah memerlukan suatu peningkatan kapasitas dalam \npenyelenggaraan TI melalui penerapan tata kelola TI dan manajemen \nrisiko TI secara lebih optimal.  \n Adopsi TI dalam kegiatan operasional akan meningkatkan peluang \nkolaborasi antara BPR dan BPR Syariah dengan pihak ketiga termasuk \ndiantaranya pihak penyedia jasa TI maupun penyelenggara inovasi \nteknologi sektor keuangan. Kolaborasi tersebut perlu dikelola melalui \npenerapan manajemen risiko yang efektif agar dapat memberikan hasil \nyang optimal bagi industri BPR dan BPR Syariah. Aspek pelindungan \ndata pribadi maupun pelindungan konsumen juga tetap harus menjadi \nperhatian utama dalam melakukan kolaborasi dengan pihak ketiga. \nSelain itu, adanya konektivitas sistem TI milik BPR dan BPR Syariah \ndengan pihak ketiga akan meningkatkan risiko terkait ketahanan dan \nkeamanan siber yang berpotensi menghambat operasional BPR dan BPR \nSyariah.  \n Tingginya disparitas BPR dan BPR Syariah dari segi permodalan \nmaupun kualitas sumber daya manusia bidang TI menyebabkan kondisi  \n \n\n\n \npenyelenggaraan TI BPR dan BPR Syariah memiliki kesenjangan yang \ncukup beragam, sehingga diperlukan suatu standar regulasi yang \nkomprehensif untuk menjawab tantangan dalam penyelenggaraan TI.  \nBerdasarkan hal tersebut di atas, perlu adanya pengaturan yang \nbersifat principle-based mengenai penerapan tata kelola TI, arsitektur TI, \npenerapan manajemen risiko penyelenggaraan TI, ketahanan dan \nkeamanan \nsiber, \npenggunaan \npihak \npenyedia \njasa \nTI \ndalam \npenyelenggaraan TI, aplikasi inti perbankan dan penempatan Sistem \nElektronik, pengelolaan data dan pelindungan data pribadi dalam \npenyelenggaraan TI, serta pengendalian dan audit intern BPR dan BPR \nSyariah.  \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Otoritas Jasa Keuangan ini mulai berlaku  \nsetelah 1 (satu) tahun terhitung sejak tanggal diundangkan. \n \n \n \n \n \n\n\n \nAgar \nsetiap \norang \nmengetahuinya, \nmemerintahkan \npengundangan Peraturan Otoritas Jasa Keuangan ini \ndengan penempatannya dalam Lembaran Negara Republik \nIndonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 16 Desember 2025 \n \nKETUA DEWAN KOMISIONER  \nOTORITAS JASA KEUANGAN  \nREPUBLIK INDONESIA,  \n \nŒ \n \n \nMAHENDRA SIREGAR \n \nDiundangkan di Jakarta  \npada tanggal                Д \n \nMENTERI HUKUM REPUBLIK INDONESIA,  \n \nѼ \n \nSUPRATMAN ANDI AGTAS \n \n \nLEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR     Ж \n \n \n \n \n \n\n\n \n \n \n \n \n \n \n \n \n \n \nPENJELASAN \nATAS \nPERATURAN OTORITAS JASA KEUANGAN  \nREPUBLIK INDONESIA \nNOMOR 34 TAHUN 2025 \nTENTANG \nPENYELENGGARAAN TEKNOLOGI INFORMASI \n OLEH BANK PEREKONOMIAN RAKYAT DAN  \nBANK PEREKONOMIAN RAKYAT SYARIAH \n \nI. \nUMUM \nDalam era digitalisasi sektor jasa keuangan, pemanfaatan TI \nmerupakan aspek penting dalam kegiatan operasional perbankan. \nPemanfaatan TI oleh BPR dan BPR Syariah dilakukan dalam berbagai \naktivitas antara lain penghimpunan dana, penyaluran dana maupun \nkegiatan operasional lain. Perkembangan digitalisasi sektor perbankan \njuga mendorong industri BPR dan BPR Syariah untuk melakukan \ntransformasi digital melalui pemanfaatan TI secara lebih masif agar \noperasional BPR dan BPR Syariah lebih andal dan efisien. Selain itu, \ndorongan untuk melakukan transformasi digital bagi BPR dan BPR \nSyariah juga semakin mengemuka seiring meningkatnya kebutuhan \nmasyarakat terhadap produk maupun layanan berbasis digital yang \ndapat diakses tanpa adanya batasan ruang dan waktu.   \n Pemanfaatan TI oleh BPR dan BPR Syariah memiliki suatu \ntantangan tersendiri, antara lain risiko terkait kegagalan operasional, \nketahanan dan keamanan siber, keterbatasan permodalan serta \nperlunya peningkatan kualitas sumber daya manusia bidang TI. \nPeningkatan risiko sebagai dampak pemanfaatan TI yang dihadapi oleh \nBPR dan BPR Syariah memerlukan suatu peningkatan kapasitas dalam \npenyelenggaraan TI melalui penerapan tata kelola TI dan manajemen \nrisiko TI secara lebih optimal.  \n Adopsi TI dalam kegiatan operasional akan meningkatkan peluang \nkolaborasi antara BPR dan BPR Syariah dengan pihak ketiga termasuk \ndiantaranya pihak penyedia jasa TI maupun penyelenggara inovasi \nteknologi sektor keuangan. Kolaborasi tersebut perlu dikelola melalui \npenerapan manajemen risiko yang efektif agar dapat memberikan hasil \nyang optimal bagi industri BPR dan BPR Syariah. Aspek pelindungan \ndata pribadi maupun pelindungan konsumen juga tetap harus menjadi \nperhatian utama dalam melakukan kolaborasi dengan pihak ketiga. \nSelain itu, adanya konektivitas sistem TI milik BPR dan BPR Syariah \ndengan pihak ketiga akan meningkatkan risiko terkait ketahanan dan \nkeamanan siber yang berpotensi menghambat operasional BPR dan BPR \nSyariah.  \n Tingginya disparitas BPR dan BPR Syariah dari segi permodalan \nmaupun kualitas sumber daya manusia bidang TI menyebabkan kondisi  \n \n\n\n \npenyelenggaraan TI BPR dan BPR Syariah memiliki kesenjangan yang \ncukup beragam, sehingga diperlukan suatu standar regulasi yang \nkomprehensif untuk menjawab tantangan dalam penyelenggaraan TI.  \nBerdasarkan hal tersebut di atas, perlu adanya pengaturan yang \nbersifat principle-based mengenai penerapan tata kelola TI, arsitektur TI, \npenerapan manajemen risiko penyelenggaraan TI, ketahanan dan \nkeamanan \nsiber, \npenggunaan \npihak \npenyedia \njasa \nTI \ndalam \npenyelenggaraan TI, aplikasi inti perbankan dan penempatan Sistem \nElektronik, pengelolaan data dan pelindungan data pribadi dalam \npenyelenggaraan TI, serta pengendalian dan audit intern BPR dan BPR \nSyariah.  \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPenerapan tata kelola TI merupakan bagian dari penerapan \ntata kelola BPR dan BPR Syariah secara umum. Tata kelola \nyang baik dilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi BPR dan BPR \nSyariah. \nTata kelola TI diterapkan pada seluruh kegiatan yang berkaitan \ndengan penyelenggaraan TI antara lain manajemen risiko, \nketahanan dan keamanan TI termasuk siber, pengelolaan data, \npenggunaan pihak penyedia jasa TI, pengendalian intern, serta \npengembangan dan perubahan TI. \nDalam menerapkan tata kelola TI, BPR dan BPR Syariah \nmelakukan pemetaan atas aspek antara lain: \na. \nproses bisnis; \nb. \nstruktur organisasi; \nc. \nkebijakan, standar, dan prosedur; \nd. \nsumber daya manusia pendukung; dan \ne. \ninfrastruktur dan aplikasi. \n \n \nAyat (2) \n \n \nHuruf a \nStrategi dan tujuan bisnis BPR dan BPR Syariah \nmencerminkan antara lain arah bisnis dan kebutuhan \ndari pemangku kepentingan. \n \n \nHuruf b \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \nMetode pengadaan sumber daya TI disesuaikan dengan \nkebutuhan dan kemampuan BPR dan BPR Syariah, \nantara lain pengadaan secara mandiri, pengadaan dengan \nmenggunakan pihak penyedia jasa TI, dan kombinasi \nantara keduanya. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \n \n \n \nCukup jelas. \n \n\n\n \nHuruf g \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPenerapan tata kelola TI merupakan bagian dari penerapan \ntata kelola BPR dan BPR Syariah secara umum. Tata kelola \nyang baik dilaksanakan sesuai dengan Peraturan Otoritas Jasa \nKeuangan mengenai penerapan tata kelola bagi BPR dan BPR \nSyariah. \nTata kelola TI diterapkan pada seluruh kegiatan yang berkaitan \ndengan penyelenggaraan TI antara lain manajemen risiko, \nketahanan dan keamanan TI termasuk siber, pengelolaan data, \npenggunaan pihak penyedia jasa TI, pengendalian intern, serta \npengembangan dan perubahan TI. \nDalam menerapkan tata kelola TI, BPR dan BPR Syariah \nmelakukan pemetaan atas aspek antara lain: \na. \nproses bisnis; \nb. \nstruktur organisasi; \nc. \nkebijakan, standar, dan prosedur; \nd. \nsumber daya manusia pendukung; dan \ne. \ninfrastruktur dan aplikasi. \n \n \nAyat (2) \n \n \nHuruf a \nStrategi dan tujuan bisnis BPR dan BPR Syariah \nmencerminkan antara lain arah bisnis dan kebutuhan \ndari pemangku kepentingan. \n \n \nHuruf b \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \nMetode pengadaan sumber daya TI disesuaikan dengan \nkebutuhan dan kemampuan BPR dan BPR Syariah, \nantara lain pengadaan secara mandiri, pengadaan dengan \nmenggunakan pihak penyedia jasa TI, dan kombinasi \nantara keduanya. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \n \n \n \nCukup jelas. \n \n\n\n \nHuruf g \n \n \n \nCukup jelas. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “pengembangan TI” adalah proses \npengembangan sistem TI baru termasuk penggantian atau \nperbaikan sistem teknologi yang telah ada, baik dilakukan \nsecara mandiri oleh BPR dan BPR Syariah maupun bekerja \nsama dengan penyedia jasa TI.  \nYang dimaksud dengan “pengadaan TI” adalah proses \npemenuhan atau penyediaan sumber daya TI antara lain \nbarang dan/atau jasa terkait TI.  \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \n \n \nAngka 1 \n \n \n \nCukup jelas. \n \n \nAngka 2 \nTersedianya sumber daya yang memadai ditunjukkan \nantara lain dengan terdapatnya kegiatan peningkatan \nkompetensi sumber daya manusia yang terkait dengan \npenyelenggaraan TI. \n \n \nAngka 3 \n \n \n \nCukup jelas. \n \n \nAngka 4 \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “pengembangan TI” adalah proses \npengembangan sistem TI baru termasuk penggantian atau \nperbaikan sistem teknologi yang telah ada, baik dilakukan \nsecara mandiri oleh BPR dan BPR Syariah maupun bekerja \nsama dengan penyedia jasa TI.  \nYang dimaksud dengan “pengadaan TI” adalah proses \npemenuhan atau penyediaan sumber daya TI antara lain \nbarang dan/atau jasa terkait TI.  \nHuruf b \n \n \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas. \n \nHuruf d \n \n \nAngka 1 \n \n \n \nCukup jelas. \n \n \nAngka 2 \nTersedianya sumber daya yang memadai ditunjukkan \nantara lain dengan terdapatnya kegiatan peningkatan \nkompetensi sumber daya manusia yang terkait dengan \npenyelenggaraan TI. \n \n \nAngka 3 \n \n \n \nCukup jelas. \n \n \nAngka 4 \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “pengembangan TI” dan “pengadaan \nTI” lihat penjelasan Pasal 4 huruf a. \nPengembangan dan pengadaan TI yang bersifat mendasar \nantara lain perubahan secara signifikan terhadap konfigurasi \nTI atau Aplikasi Inti Perbankan yang dikenal dengan istilah \ncore banking system, pengadaan Aplikasi Inti Perbankan baru, \nkerja sama dengan penyedia jasa TI, serta pengembangan dan \npengadaan TI mendasar lainnya yang dapat menambah \ndan/atau meningkatkan risiko BPR dan BPR Syariah.  \n \nHuruf b \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “pengembangan TI” dan “pengadaan \nTI” lihat penjelasan Pasal 4 huruf a. \nPengembangan dan pengadaan TI yang bersifat mendasar \nantara lain perubahan secara signifikan terhadap konfigurasi \nTI atau Aplikasi Inti Perbankan yang dikenal dengan istilah \ncore banking system, pengadaan Aplikasi Inti Perbankan baru, \nkerja sama dengan penyedia jasa TI, serta pengembangan dan \npengadaan TI mendasar lainnya yang dapat menambah \ndan/atau meningkatkan risiko BPR dan BPR Syariah.  \n \nHuruf b \nCukup jelas. \n \nHuruf c \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \n \n\n\n \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \n \n \n \nCukup jelas. \n \n \nHuruf g \n \n \n \nCukup jelas. \n \n \nHuruf h \nKebijakan dan prosedur dalam penggunaan pihak \npenyedia jasa TI memuat antara lain: \na. \nproses identifikasi kebutuhan penggunaan pihak \npenyedia jasa TI; \nb. \nproses pemilihan pihak penyedia jasa TI; dan  \nc. \ntata cara melakukan hubungan kerja sama dengan \npihak penyedia jasa TI. \n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \n \n\n\n \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \n \n \n \nCukup jelas. \n \n \nHuruf c \n \n \n \nCukup jelas. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \n \n \n \nCukup jelas. \n \n \nHuruf g \n \n \n \nCukup jelas. \n \n \nHuruf h \nKebijakan dan prosedur dalam penggunaan pihak \npenyedia jasa TI memuat antara lain: \na. \nproses identifikasi kebutuhan penggunaan pihak \npenyedia jasa TI; \nb. \nproses pemilihan pihak penyedia jasa TI; dan  \nc. \ntata cara melakukan hubungan kerja sama dengan \npihak penyedia jasa TI. \n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nFungsi yang bertanggung jawab atas penyelenggaraan TI \nantara \nlain \npegawai \nyang \nbertanggung \njawab \natas \npenyelenggaraan TI BPR dan BPR Syariah. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nPenyusunan dan pengembangan TI mencakup antara lain \npenyusunan dan pengembangan Sistem Elektronik \ntermasuk aplikasi yang menunjang bisnis BPR dan BPR \nSyariah. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \n \nAyat (4) \nYang dimaksud dengan “layanan digital” adalah produk dalam \nbentuk layanan yang diberikan oleh BPR dan BPR Syariah \ndengan pemanfaatan TI melalui media elektronik untuk \nmemberikan akses bagi nasabah dan/atau calon nasabah \nterkait produk BPR dan BPR Syariah maupun produk \ndan/atau layanan dari mitra BPR dan BPR Syariah, serta dapat \ndilakukan secara mandiri oleh nasabah dan/atau calon \nnasabah. \nContoh layanan digital antara lain mobile banking dan internet \nbanking. \n\n\n \n \nAyat (5) \n \n \nCukup jelas. \n \nAyat (6) \nYang dimaksud dengan “independen terhadap kegiatan \npenghimpunan dana, penyaluran dana, pembukuan, dan/atau \naudit intern” adalah tidak menangani kegiatan yang terkait \nlangsung dengan kegiatan penghimpunan dana, penyaluran \ndana, pembukuan, kepatuhan, dan/atau audit intern.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nFungsi yang bertanggung jawab atas penyelenggaraan TI \nantara \nlain \npegawai \nyang \nbertanggung \njawab \natas \npenyelenggaraan TI BPR dan BPR Syariah. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nHuruf a \nCukup jelas. \nHuruf b \nPenyusunan dan pengembangan TI mencakup antara lain \npenyusunan dan pengembangan Sistem Elektronik \ntermasuk aplikasi yang menunjang bisnis BPR dan BPR \nSyariah. \nHuruf c \nCukup jelas. \nHuruf d \nCukup jelas. \n \nAyat (4) \nYang dimaksud dengan “layanan digital” adalah produk dalam \nbentuk layanan yang diberikan oleh BPR dan BPR Syariah \ndengan pemanfaatan TI melalui media elektronik untuk \nmemberikan akses bagi nasabah dan/atau calon nasabah \nterkait produk BPR dan BPR Syariah maupun produk \ndan/atau layanan dari mitra BPR dan BPR Syariah, serta dapat \ndilakukan secara mandiri oleh nasabah dan/atau calon \nnasabah. \nContoh layanan digital antara lain mobile banking dan internet \nbanking. \n\n\n \n \nAyat (5) \n \n \nCukup jelas. \n \nAyat (6) \nYang dimaksud dengan “independen terhadap kegiatan \npenghimpunan dana, penyaluran dana, pembukuan, dan/atau \naudit intern” adalah tidak menangani kegiatan yang terkait \nlangsung dengan kegiatan penghimpunan dana, penyaluran \ndana, pembukuan, kepatuhan, dan/atau audit intern."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “arsitektur TI” adalah dokumentasi \nBPR dan BPR Syariah yang menggambarkan topologi jaringan \ndan aplikasi yang dimiliki dan/atau dikelola oleh BPR dan BPR \nSyariah. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nPenginian terhadap arsitektur TI dilakukan dalam hal terdapat \nperubahan antara lain: \n1. \nrencana bisnis BPR dan BPR Syariah; \n2. \npengelolaan data, aplikasi, dan teknologi BPR dan BPR \nSyariah; dan \n3. \nukuran dan kompleksitas bisnis BPR dan BPR Syariah. \n \n \nAyat (4) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “arsitektur TI” adalah dokumentasi \nBPR dan BPR Syariah yang menggambarkan topologi jaringan \ndan aplikasi yang dimiliki dan/atau dikelola oleh BPR dan BPR \nSyariah. \n \nAyat (2) \n \n \nCukup jelas. \n \nAyat (3) \nPenginian terhadap arsitektur TI dilakukan dalam hal terdapat \nperubahan antara lain: \n1. \nrencana bisnis BPR dan BPR Syariah; \n2. \npengelolaan data, aplikasi, dan teknologi BPR dan BPR \nSyariah; dan \n3. \nukuran dan kompleksitas bisnis BPR dan BPR Syariah. \n \n \nAyat (4) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud \"pihak ketiga\" antara lain penyedia jasa TI atau \npihak lain yang memiliki keahlian dalam menyusun arsitektur TI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud \"pihak ketiga\" antara lain penyedia jasa TI atau \npihak lain yang memiliki keahlian dalam menyusun arsitektur TI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCakupan \npenerapan \nmanajemen \nrisiko \nsecara \nefektif \ndilaksanakan \nsesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan mengenai penerapan manajemen risiko bagi BPR \natau Peraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi BPR Syariah. \nManajemen risiko berlaku untuk seluruh penyelenggaraan TI \nantara lain ketahanan dan keamanan siber dan penggunaan \npihak penyedia jasa TI. \nAyat (2) \n \n \nCukup jelas. \n \n\n\n \nAyat (3) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCakupan \npenerapan \nmanajemen \nrisiko \nsecara \nefektif \ndilaksanakan \nsesuai \ndengan \nPeraturan \nOtoritas \nJasa \nKeuangan mengenai penerapan manajemen risiko bagi BPR \natau Peraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi BPR Syariah. \nManajemen risiko berlaku untuk seluruh penyelenggaraan TI \nantara lain ketahanan dan keamanan siber dan penggunaan \npihak penyedia jasa TI. \nAyat (2) \n \n \nCukup jelas. \n \n\n\n \nAyat (3) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPengamanan informasi termasuk  jaringan komunikasi yang \ndisediakan oleh BPR dan BPR Syariah. \nPrinsip kerahasiaan (confidentiality) yaitu memastikan bahwa \nmetode dan prosedur yang dimiliki dapat melindungi \nkerahasiaan data nasabah.  \nPrinsip integritas (integrity) yaitu memastikan bahwa metode \ndan prosedur yang dimiliki mampu melindungi data sehingga \nmenjadi akurat, handal, konsisten, dan terbukti kebenarannya \nagar terhindar dari kesalahan, kecurangan, manipulasi, \npenyalahgunaan, dan perusakan data.  \nPrinsip \nketersediaan \n(availability) \nyaitu \nmemastikan \nketersediaan sistem secara berkesinambungan. \nAyat (2) \nContoh pengamanan informasi terhadap aspek sumber daya \nmanusia antara lain adanya prosedur pemberian hak akses \ndan pengguna terhadap informasi sesuai dengan kewenangan \npegawai BPR dan BPR Syariah. \nContoh pengamanan informasi terhadap aspek proses antara \nlain pengelolaan pengguna (user) untuk memantau akses \npengguna terhadap perangkat lunak atau aplikasi dan \nperangkat keras milik BPR dan BPR Syariah. \nContoh pengamanan informasi terhadap aspek teknologi \nantara lain penggunaan anti virus pada end point (PC/ \nkomputer dan server). \nContoh pengamanan informasi terhadap aspek fisik atau \nlingkungan antara lain pembatasan hak akses fisik kepada \npihak yang tidak berwenang terhadap infrastruktur TI milik \nBPR dan BPR Syariah misalnya CCTV dan akses pintu server. \nAyat (3) \nPengendalian \notorisasi \n(authorization \nof \ncontrol) \nyaitu \nmemastikan adanya pengendalian terhadap hak akses dan \notorisasi yang tepat terhadap sistem, pangkalan data \n(database), jaringan, dan aplikasi yang digunakan. Seluruh \narsip dan data yang bersifat rahasia hanya dapat diakses oleh \npihak yang telah memiliki otoritas serta harus dipelihara \nsecara aman dan dilindungi dari kemungkinan diketahui atau \ndimodifikasi oleh pihak yang tidak berwenang.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPengamanan informasi termasuk  jaringan komunikasi yang \ndisediakan oleh BPR dan BPR Syariah. \nPrinsip kerahasiaan (confidentiality) yaitu memastikan bahwa \nmetode dan prosedur yang dimiliki dapat melindungi \nkerahasiaan data nasabah.  \nPrinsip integritas (integrity) yaitu memastikan bahwa metode \ndan prosedur yang dimiliki mampu melindungi data sehingga \nmenjadi akurat, handal, konsisten, dan terbukti kebenarannya \nagar terhindar dari kesalahan, kecurangan, manipulasi, \npenyalahgunaan, dan perusakan data.  \nPrinsip \nketersediaan \n(availability) \nyaitu \nmemastikan \nketersediaan sistem secara berkesinambungan. \nAyat (2) \nContoh pengamanan informasi terhadap aspek sumber daya \nmanusia antara lain adanya prosedur pemberian hak akses \ndan pengguna terhadap informasi sesuai dengan kewenangan \npegawai BPR dan BPR Syariah. \nContoh pengamanan informasi terhadap aspek proses antara \nlain pengelolaan pengguna (user) untuk memantau akses \npengguna terhadap perangkat lunak atau aplikasi dan \nperangkat keras milik BPR dan BPR Syariah. \nContoh pengamanan informasi terhadap aspek teknologi \nantara lain penggunaan anti virus pada end point (PC/ \nkomputer dan server). \nContoh pengamanan informasi terhadap aspek fisik atau \nlingkungan antara lain pembatasan hak akses fisik kepada \npihak yang tidak berwenang terhadap infrastruktur TI milik \nBPR dan BPR Syariah misalnya CCTV dan akses pintu server. \nAyat (3) \nPengendalian \notorisasi \n(authorization \nof \ncontrol) \nyaitu \nmemastikan adanya pengendalian terhadap hak akses dan \notorisasi yang tepat terhadap sistem, pangkalan data \n(database), jaringan, dan aplikasi yang digunakan. Seluruh \narsip dan data yang bersifat rahasia hanya dapat diakses oleh \npihak yang telah memiliki otoritas serta harus dipelihara \nsecara aman dan dilindungi dari kemungkinan diketahui atau \ndimodifikasi oleh pihak yang tidak berwenang."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nRencana Pemulihan Bencana mencakup rencana pemulihan \npada berbagai tingkat bencana dan gangguan antara lain: \n1. \nbencana minor (minor disaster) yang berdampak kecil dan \ntidak memerlukan biaya besar serta dapat diselesaikan \ndalam jangka waktu pendek; \n2. \nbencana mayor (major disaster) yang berdampak besar \ndan dapat menjadi lebih parah jika tidak segera diatasi; \ndan/atau \n3. \nbencana \nkatastrofe \n(catastrophic \ndisaster) \nyang \nberdampak terjadi kerusakan yang bersifat permanen \n\n\n \nsehingga memerlukan relokasi atau penggantian dengan \nbiaya yang besar. \nAyat (2) \nYang dimaksud dengan “dapat dilaksanakan secara efektif” \nadalah operasional TI berjalan kembali segera setelah \ngangguan \ndan/atau \nbencana \nterjadi \nsehingga \ntidak \nmengganggu pelayanan kepada nasabah. \n \nAyat (3) \nYang dimaksud dengan “aplikasi dan infrastruktur yang \nkritikal” yaitu aplikasi dan infrastruktur yang berdasarkan \nhasil analisis dampak bisnis BPR dan BPR Syariah memiliki \npotensi risiko bagi bisnis dan operasional BPR dan BPR \nSyariah. \n \nAyat (4) \nKaji ulang terhadap Rencana Pemulihan Bencana dilakukan \nterhadap seluruh atau sebagian aspek yang terkait aplikasi \ndan/atau infrastruktur antara lain perubahan signifikan pada \nAplikasi Inti Perbankan dan perubahan lokasi Pusat Data yang \ndikenal dengan istilah data center atau Pusat Pemulihan \nBencana yang dikenal dengan istilah disaster recovery center.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nRencana Pemulihan Bencana mencakup rencana pemulihan \npada berbagai tingkat bencana dan gangguan antara lain: \n1. \nbencana minor (minor disaster) yang berdampak kecil dan \ntidak memerlukan biaya besar serta dapat diselesaikan \ndalam jangka waktu pendek; \n2. \nbencana mayor (major disaster) yang berdampak besar \ndan dapat menjadi lebih parah jika tidak segera diatasi; \ndan/atau \n3. \nbencana \nkatastrofe \n(catastrophic \ndisaster) \nyang \nberdampak terjadi kerusakan yang bersifat permanen \n\n\n \nsehingga memerlukan relokasi atau penggantian dengan \nbiaya yang besar. \nAyat (2) \nYang dimaksud dengan “dapat dilaksanakan secara efektif” \nadalah operasional TI berjalan kembali segera setelah \ngangguan \ndan/atau \nbencana \nterjadi \nsehingga \ntidak \nmengganggu pelayanan kepada nasabah. \n \nAyat (3) \nYang dimaksud dengan “aplikasi dan infrastruktur yang \nkritikal” yaitu aplikasi dan infrastruktur yang berdasarkan \nhasil analisis dampak bisnis BPR dan BPR Syariah memiliki \npotensi risiko bagi bisnis dan operasional BPR dan BPR \nSyariah. \n \nAyat (4) \nKaji ulang terhadap Rencana Pemulihan Bencana dilakukan \nterhadap seluruh atau sebagian aspek yang terkait aplikasi \ndan/atau infrastruktur antara lain perubahan signifikan pada \nAplikasi Inti Perbankan dan perubahan lokasi Pusat Data yang \ndikenal dengan istilah data center atau Pusat Pemulihan \nBencana yang dikenal dengan istilah disaster recovery center."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKetersediaan Aplikasi Inti Perbankan antara lain memiliki \ninstaller Aplikasi Inti Perbankan. Installer Aplikasi Inti \nPerbankan yaitu perangkat lunak yang dapat dilakukan install \nkembali apabila diperlukan dan merupakan versi terkini.  \nRekam cadang (back up) yaitu proses membuat data cadangan \ndengan cara menyalin atau membuat arsip data komputer \ndalam media penyimpan elektronik.  \nMedia penyimpan tidak termasuk media penyimpan online \npublik.  \nRekam cadang bertujuan untuk mengembalikan data dalam \nhal data tersebut hilang, baik karena terhapus atau rusak \n(corrupt), serta untuk mengembalikan data ke posisi tertentu. \n \nAyat (2)  \n \n \nCukup jelas. \n \nAyat (3) \nKetentuan peraturan perundang-undangan antara lain: \n1. \nketentuan peraturan perundang-undangan mengenai \ndokumen perusahaan; dan \n2. \nketentuan peraturan perundang-undangan mengenai \npelindungan data pribadi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKetersediaan Aplikasi Inti Perbankan antara lain memiliki \ninstaller Aplikasi Inti Perbankan. Installer Aplikasi Inti \nPerbankan yaitu perangkat lunak yang dapat dilakukan install \nkembali apabila diperlukan dan merupakan versi terkini.  \nRekam cadang (back up) yaitu proses membuat data cadangan \ndengan cara menyalin atau membuat arsip data komputer \ndalam media penyimpan elektronik.  \nMedia penyimpan tidak termasuk media penyimpan online \npublik.  \nRekam cadang bertujuan untuk mengembalikan data dalam \nhal data tersebut hilang, baik karena terhapus atau rusak \n(corrupt), serta untuk mengembalikan data ke posisi tertentu. \n \nAyat (2)  \n \n \nCukup jelas. \n \nAyat (3) \nKetentuan peraturan perundang-undangan antara lain: \n1. \nketentuan peraturan perundang-undangan mengenai \ndokumen perusahaan; dan \n2. \nketentuan peraturan perundang-undangan mengenai \npelindungan data pribadi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pembukuan pada akhir hari yang sama dikenal dengan istilah end \nof day.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pembukuan pada akhir hari yang sama dikenal dengan istilah end \nof day."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “kegiatan penyediaan jasa TI” adalah \npenyediaan infrastruktur TI dalam bentuk perangkat keras, \nperangkat lunak, dan/atau fasilitas pendukung TI, antara lain \n\n\n \nPusat Data, Pusat Pemulihan Bencana, jaringan komunikasi, \ndan/atau perangkat elektronik lainnya.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “kegiatan penyediaan jasa TI” adalah \npenyediaan infrastruktur TI dalam bentuk perangkat keras, \nperangkat lunak, dan/atau fasilitas pendukung TI, antara lain \n\n\n \nPusat Data, Pusat Pemulihan Bencana, jaringan komunikasi, \ndan/atau perangkat elektronik lainnya."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \n \n \nHuruf a \nProses identifikasi aset, ancaman, dan kerentanan antara \nlain melakukan pemantauan terhadap perkembangan \nsiber yang terkini, baik dari sisi teknologi, taktik dan \nteknik serangan, serta prosedur atau pola serangan, \nuntuk mengidentifikasi ancaman siber. \n  \n \nHuruf b \nProses \npelindungan \naset \nantara \nlain \nmenerapkan \npengendalian \nkeamanan \n(security \ncontrol) \nyang \nkomprehensif sesuai dengan hasil identifikasi aset, \nancaman, dan kerentanan. \n  \n \nHuruf c \nProses deteksi insiden siber antara lain melakukan \npemantauan \natas \naktivitas \nmencurigakan \nserta \nmelakukan pengujian terhadap proses dan prosedur \ndeteksi untuk memastikan aktivitas anomali dapat \ndideteksi tepat waktu. \n  \n \nHuruf d \nProses penanggulangan dan pemulihan insiden siber \nantara lain menerapkan prosedur pemulihan serta upaya \nuntuk mencegah penyebaran dampak dari suatu insiden \nsiber. \n \n \nAyat (3) \nYang dimaksud dengan “sistem informasi yang memadai” \nadalah sistem informasi yang dapat mendukung keseluruhan \nproses dalam menjaga ketahanan dan keamanan siber, sesuai \ndengan ukuran dan kompleksitas bisnis BPR dan BPR Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \n \n \nHuruf a \nProses identifikasi aset, ancaman, dan kerentanan antara \nlain melakukan pemantauan terhadap perkembangan \nsiber yang terkini, baik dari sisi teknologi, taktik dan \nteknik serangan, serta prosedur atau pola serangan, \nuntuk mengidentifikasi ancaman siber. \n  \n \nHuruf b \nProses \npelindungan \naset \nantara \nlain \nmenerapkan \npengendalian \nkeamanan \n(security \ncontrol) \nyang \nkomprehensif sesuai dengan hasil identifikasi aset, \nancaman, dan kerentanan. \n  \n \nHuruf c \nProses deteksi insiden siber antara lain melakukan \npemantauan \natas \naktivitas \nmencurigakan \nserta \nmelakukan pengujian terhadap proses dan prosedur \ndeteksi untuk memastikan aktivitas anomali dapat \ndideteksi tepat waktu. \n  \n \nHuruf d \nProses penanggulangan dan pemulihan insiden siber \nantara lain menerapkan prosedur pemulihan serta upaya \nuntuk mencegah penyebaran dampak dari suatu insiden \nsiber. \n \n \nAyat (3) \nYang dimaksud dengan “sistem informasi yang memadai” \nadalah sistem informasi yang dapat mendukung keseluruhan \nproses dalam menjaga ketahanan dan keamanan siber, sesuai \ndengan ukuran dan kompleksitas bisnis BPR dan BPR Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “menggunakan pihak penyedia jasa TI” \nadalah penggunaan jasa pihak lain dalam penyelenggaraan TI \nBPR dan BPR Syariah secara berkesinambungan dan/atau \ndalam periode tertentu. \n\n\n \nSelain itu, meskipun BPR dan BPR Syariah menyerahkan \npenyelenggaraan TI kepada pihak penyedia jasa TI maka BPR \ndan BPR Syariah tetap bertindak sebagai penyelenggara Sistem \nElektronik untuk setiap Sistem Elektronik yang digunakan \nBPR dan BPR Syariah dalam menjalankan kegiatan usahanya. \nContoh penyelenggaraan TI yang menggunakan pihak penyedia \njasa TI antara lain penggunaan komputasi awan (cloud \ncomputing), pengalihdayaan pengelolaan sistem TI (managed \nservice), dan co-location Pusat Data atau Pusat Pemulihan \nBencana. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nKemampuan dalam melakukan pengawasan terhadap \npenyelenggaraan \nTI \nBPR \ndan \nBPR \nSyariah \nyang \ndiselenggarakan oleh pihak penyedia jasa TI antara lain \nditunjukkan dengan tersedianya sumber daya manusia \nyang memiliki pengetahuan atau kapabilitas mengenai \njasa TI yang diberikan oleh pihak penyedia jasa TI. \nPengawasan terhadap penyelenggaraan TI BPR dan BPR \nSyariah antara lain pengawasan terhadap pemrosesan \ndata yang dilakukan oleh pihak penyedia jasa TI. \n \n \nHuruf c \nPemantauan terhadap reputasi pihak penyedia jasa TI \ndapat dilakukan berdasarkan informasi yang diperoleh \ndari berbagai sumber baik intern maupun ekstern. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \nAkses terhadap pangkalan data BPR dan BPR Syariah, \nantara lain penyediaan terminal, user id, dan sandi lewat \n(password) untuk melakukan query dan unduh data \n(download data). \n \n \nHuruf g \n \n \n \nAngka 1 \nKualifikasi dan kompetensi sumber daya manusia \nyang memadai antara lain memiliki sertifikat \nkeahlian sesuai dengan keperluan penyelenggaraan \nTI. \n  \n \n \nAngka 2  \nPengendalian TI dimaksudkan untuk meyakini \nbahwa Aplikasi Inti Perbankan, Pusat Data, dan \nPusat Pemulihan Bencana yang digunakan oleh BPR \ndan BPR Syariah memiliki pengendalian TI yang \nmemadai paling sedikit meliputi physical security dan \nlogical security.  \nPenerapan prinsip pengendalian TI secara memadai \ndibuktikan antara lain melalui hasil audit yang \ndilakukan pihak independen. \n  \n \n \nAngka 3  \nCukup jelas.  \n  \n \n \nAngka 4  \nCukup jelas.  \n\n\n \n  \n \n \nAngka 5  \nContoh keamanan data dan/atau informasi yaitu: \n1. \npengelolaan akses; \n2. \nmanajemen enkripsi dan sandi; \n3. \nkeamanan jaringan komunikasi; dan \n4. \nkerahasiaan data pribadi nasabah BPR atau \nBPR Syariah. \n \n \n Angka 6  \nYang dimaksud “kejadian kritis” adalah kegagalan \nsistem yang serius, system down time, dan/atau \ndegradasi kinerja sistem yang memengaruhi kinerja \nBPR atau BPR Syariah dalam memberikan pelayanan \nkepada nasabah.  \n  \n \nAngka 7  \n  \n \n \nCukup jelas.  \n  \n \nAngka 8 \nPenghentian kerja sama (exit clause) termasuk jika \nterdapat penghentian perjanjian sebelum jangka \nwaktu perjanjian berakhir. \n \n \nAngka 9 \n \n \n \n Cukup jelas.  \n  \n \nAngka 10 \n \n \n \nCukup jelas. \n \n \nAngka 11 \nPemenuhan \ntingkat \nlayanan \ndilakukan \nguna \nmemastikan penyelenggaraan TI dapat mendukung \nBPR atau BPR Syariah beroperasi sebagaimana \nmestinya. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “menggunakan pihak penyedia jasa TI” \nadalah penggunaan jasa pihak lain dalam penyelenggaraan TI \nBPR dan BPR Syariah secara berkesinambungan dan/atau \ndalam periode tertentu. \n\n\n \nSelain itu, meskipun BPR dan BPR Syariah menyerahkan \npenyelenggaraan TI kepada pihak penyedia jasa TI maka BPR \ndan BPR Syariah tetap bertindak sebagai penyelenggara Sistem \nElektronik untuk setiap Sistem Elektronik yang digunakan \nBPR dan BPR Syariah dalam menjalankan kegiatan usahanya. \nContoh penyelenggaraan TI yang menggunakan pihak penyedia \njasa TI antara lain penggunaan komputasi awan (cloud \ncomputing), pengalihdayaan pengelolaan sistem TI (managed \nservice), dan co-location Pusat Data atau Pusat Pemulihan \nBencana. \n \nAyat (2) \n \n \nHuruf a \n \n \n \nCukup jelas. \n \n \nHuruf b \nKemampuan dalam melakukan pengawasan terhadap \npenyelenggaraan \nTI \nBPR \ndan \nBPR \nSyariah \nyang \ndiselenggarakan oleh pihak penyedia jasa TI antara lain \nditunjukkan dengan tersedianya sumber daya manusia \nyang memiliki pengetahuan atau kapabilitas mengenai \njasa TI yang diberikan oleh pihak penyedia jasa TI. \nPengawasan terhadap penyelenggaraan TI BPR dan BPR \nSyariah antara lain pengawasan terhadap pemrosesan \ndata yang dilakukan oleh pihak penyedia jasa TI. \n \n \nHuruf c \nPemantauan terhadap reputasi pihak penyedia jasa TI \ndapat dilakukan berdasarkan informasi yang diperoleh \ndari berbagai sumber baik intern maupun ekstern. \n \n \nHuruf d \n \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \nHuruf f \nAkses terhadap pangkalan data BPR dan BPR Syariah, \nantara lain penyediaan terminal, user id, dan sandi lewat \n(password) untuk melakukan query dan unduh data \n(download data). \n \n \nHuruf g \n \n \n \nAngka 1 \nKualifikasi dan kompetensi sumber daya manusia \nyang memadai antara lain memiliki sertifikat \nkeahlian sesuai dengan keperluan penyelenggaraan \nTI. \n  \n \n \nAngka 2  \nPengendalian TI dimaksudkan untuk meyakini \nbahwa Aplikasi Inti Perbankan, Pusat Data, dan \nPusat Pemulihan Bencana yang digunakan oleh BPR \ndan BPR Syariah memiliki pengendalian TI yang \nmemadai paling sedikit meliputi physical security dan \nlogical security.  \nPenerapan prinsip pengendalian TI secara memadai \ndibuktikan antara lain melalui hasil audit yang \ndilakukan pihak independen. \n  \n \n \nAngka 3  \nCukup jelas.  \n  \n \n \nAngka 4  \nCukup jelas.  \n\n\n \n  \n \n \nAngka 5  \nContoh keamanan data dan/atau informasi yaitu: \n1. \npengelolaan akses; \n2. \nmanajemen enkripsi dan sandi; \n3. \nkeamanan jaringan komunikasi; dan \n4. \nkerahasiaan data pribadi nasabah BPR atau \nBPR Syariah. \n \n \n Angka 6  \nYang dimaksud “kejadian kritis” adalah kegagalan \nsistem yang serius, system down time, dan/atau \ndegradasi kinerja sistem yang memengaruhi kinerja \nBPR atau BPR Syariah dalam memberikan pelayanan \nkepada nasabah.  \n  \n \nAngka 7  \n  \n \n \nCukup jelas.  \n  \n \nAngka 8 \nPenghentian kerja sama (exit clause) termasuk jika \nterdapat penghentian perjanjian sebelum jangka \nwaktu perjanjian berakhir. \n \n \nAngka 9 \n \n \n \n Cukup jelas.  \n  \n \nAngka 10 \n \n \n \nCukup jelas. \n \n \nAngka 11 \nPemenuhan \ntingkat \nlayanan \ndilakukan \nguna \nmemastikan penyelenggaraan TI dapat mendukung \nBPR atau BPR Syariah beroperasi sebagaimana \nmestinya. \n \n \nAyat (3) \n \n \n \nCukup jelas. \n \n \nAyat (4) \n \n \n \nCukup jelas. \n \n \nAyat (5) \n \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \n \nAyat (2) \n \n \n Huruf a \n \n \n \n Cukup jelas. \n \n \n Huruf b \nYang dimaksud dengan “insolven” adalah tidak memiliki \ncukup dana untuk melunasi utang. \n \n \nHuruf c \nKetentuan peraturan perundang-undangan antara lain: \na. \nPeraturan Otoritas Jasa Keuangan mengenai rahasia \nbank; dan/atau  \nb. \nketentuan \nperaturan \nperundang-undangan \nmengenai pelindungan data pribadi. \n \n \nHuruf d \n  \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \n\n\n \n \nAyat (3) \nIndikasi kesulitan pengawasan antara lain: \na. \nkesulitan dalam memperoleh akses terhadap data \ndan/atau informasi; \nb. \nkesulitan dalam pelaksanaan pemeriksaan terhadap \npihak penyedia jasa TI; dan \nc. \npihak penyedia jasa TI digunakan sebagai media untuk \nmelakukan rekayasa data BPR dan BPR Syariah dan/atau \nrekayasa keuangan BPR dan BPR Syariah. \n \nAyat (4) \nCukup jelas. \n \nAyat (5)  \nHuruf a \n  \n \n \nCukup jelas. \n  \n \nHuruf b \n  \n \n \nCukup jelas. \n \n \nHuruf c  \nBPR \ndan \nBPR \nSyariah \nmemastikan \npenghentian \npenggunaan pihak penyedia jasa TI tidak menimbulkan \ngangguan antara lain memastikan bahwa semua data \nnasabah dan/atau calon nasabah telah dikembalikan \natau dimusnahkan oleh pihak penyedia jasa TI.  \nTermasuk dalam kegiatan usaha BPR dan BPR Syariah \nyaitu layanan kepada nasabah dengan memperhatikan \nprinsip kerahasiaan (confidentiality), integritas (integrity), \ndan ketersediaan (availability).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \n \nAyat (2) \n \n \n Huruf a \n \n \n \n Cukup jelas. \n \n \n Huruf b \nYang dimaksud dengan “insolven” adalah tidak memiliki \ncukup dana untuk melunasi utang. \n \n \nHuruf c \nKetentuan peraturan perundang-undangan antara lain: \na. \nPeraturan Otoritas Jasa Keuangan mengenai rahasia \nbank; dan/atau  \nb. \nketentuan \nperaturan \nperundang-undangan \nmengenai pelindungan data pribadi. \n \n \nHuruf d \n  \n \n \nCukup jelas. \n \n \nHuruf e \n \n \n \nCukup jelas. \n \n \n\n\n \n \nAyat (3) \nIndikasi kesulitan pengawasan antara lain: \na. \nkesulitan dalam memperoleh akses terhadap data \ndan/atau informasi; \nb. \nkesulitan dalam pelaksanaan pemeriksaan terhadap \npihak penyedia jasa TI; dan \nc. \npihak penyedia jasa TI digunakan sebagai media untuk \nmelakukan rekayasa data BPR dan BPR Syariah dan/atau \nrekayasa keuangan BPR dan BPR Syariah. \n \nAyat (4) \nCukup jelas. \n \nAyat (5)  \nHuruf a \n  \n \n \nCukup jelas. \n  \n \nHuruf b \n  \n \n \nCukup jelas. \n \n \nHuruf c  \nBPR \ndan \nBPR \nSyariah \nmemastikan \npenghentian \npenggunaan pihak penyedia jasa TI tidak menimbulkan \ngangguan antara lain memastikan bahwa semua data \nnasabah dan/atau calon nasabah telah dikembalikan \natau dimusnahkan oleh pihak penyedia jasa TI.  \nTermasuk dalam kegiatan usaha BPR dan BPR Syariah \nyaitu layanan kepada nasabah dengan memperhatikan \nprinsip kerahasiaan (confidentiality), integritas (integrity), \ndan ketersediaan (availability)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nKarakteristik risiko antara lain: \na. \ngeografis, seperti gempa bumi dan banjir; \nb. \nsosial dan lingkungan, seperti kerusuhan; dan \nc. \ninfrastruktur, seperti stabilitas aliran listrik dan internet.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \nCukup jelas. \n \nAyat (2) \nKarakteristik risiko antara lain: \na. \ngeografis, seperti gempa bumi dan banjir; \nb. \nsosial dan lingkungan, seperti kerusuhan; dan \nc. \ninfrastruktur, seperti stabilitas aliran listrik dan internet."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nBentuk \npemrosesan \ndata \nantara \nlain \nperolehan, \npendistribusian, pengolahan, pemeliharaan, penyimpanan, \ndan penghapusan data. \n\n\n \n \nAyat (2) \n \n  \nHuruf a \nKualitas \ndata \nantara \nlain \nkeandalan, \nakurasi, \nkelengkapan, konsistensi, dan relevansi data. \n \n  \nHuruf b \nSistem pengelolaan data disesuaikan dengan kebutuhan \ndan kompleksitas BPR dan BPR Syariah. \nSistem pengelolaan data antara lain penyimpanan, \npenggunaan, dan keamanan data. \n    \nHuruf c \nSumber daya pendukung pengelolaan data antara lain \nberupa \ninfrastruktur \nTI \nyang \ndigunakan \nuntuk \nmendukung sistem pengelolaan data.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nBentuk \npemrosesan \ndata \nantara \nlain \nperolehan, \npendistribusian, pengolahan, pemeliharaan, penyimpanan, \ndan penghapusan data. \n\n\n \n \nAyat (2) \n \n  \nHuruf a \nKualitas \ndata \nantara \nlain \nkeandalan, \nakurasi, \nkelengkapan, konsistensi, dan relevansi data. \n \n  \nHuruf b \nSistem pengelolaan data disesuaikan dengan kebutuhan \ndan kompleksitas BPR dan BPR Syariah. \nSistem pengelolaan data antara lain penyimpanan, \npenggunaan, dan keamanan data. \n    \nHuruf c \nSumber daya pendukung pengelolaan data antara lain \nberupa \ninfrastruktur \nTI \nyang \ndigunakan \nuntuk \nmendukung sistem pengelolaan data."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPemrosesan data pribadi, antara lain:  \na. \npemerolehan dan pengumpulan; \nb. \npengolahan;  \nc. \npenyimpanan;  \nd. \ntransfer atau penyebarluasan; dan/atau  \ne. \npenghapusan atau pemusnahan. \nKetentuan peraturan perundang-undangan, antara lain: \na. \nketentuan peraturan perundang-undangan mengenai \npelindungan data pribadi; dan \nb. \nPeraturan Otoritas Jasa Keuangan mengenai pelindungan \nkonsumen dan masyarakat di sektor jasa keuangan. \n \nAyat (2) \nLihat penjelasan ayat (1).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPemrosesan data pribadi, antara lain:  \na. \npemerolehan dan pengumpulan; \nb. \npengolahan;  \nc. \npenyimpanan;  \nd. \ntransfer atau penyebarluasan; dan/atau  \ne. \npenghapusan atau pemusnahan. \nKetentuan peraturan perundang-undangan, antara lain: \na. \nketentuan peraturan perundang-undangan mengenai \npelindungan data pribadi; dan \nb. \nPeraturan Otoritas Jasa Keuangan mengenai pelindungan \nkonsumen dan masyarakat di sektor jasa keuangan. \n \nAyat (2) \nLihat penjelasan ayat (1)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nPrinsip umum pelaksanaan sistem pengendalian intern TI \ndilaksanakan sesuai dengan: \na. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi BPR; atau \nb. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi BPR Syariah. \n \nAyat (2) \n \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nPrinsip umum pelaksanaan sistem pengendalian intern TI \ndilaksanakan sesuai dengan: \na. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi BPR; atau \nb. \nPeraturan Otoritas Jasa Keuangan mengenai penerapan \nmanajemen risiko bagi BPR Syariah. \n \nAyat (2) \n \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nTermasuk dalam ketentuan peraturan perundang-undangan \nantara lain Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi BPR dan BPR Syariah. \n \nAyat (2) \nPelaksanaan audit intern terhadap penyelenggaraan TI \ndilaksanakan sebagai bagian dari pelaksanaan audit intern \natau terpisah dari pelaksanaan audit intern. \n\n\n \n \nAyat (3) \nPenyelenggaraan TI termasuk penyelenggaraan TI BPR dan \nBPR Syariah oleh pihak penyedia jasa TI. \n \nAyat (4) \nYang dimaksud dengan “memastikan tersedianya jejak audit” \nadalah memastikan tersedianya log transaksi dan memelihara \nlog tersebut sesuai dengan ketentuan peraturan perundang-\nundangan dan kebijakan retensi data BPR dan BPR Syariah \nguna menjamin tersedianya jejak audit yang jelas sehingga \ndapat \ndigunakan \nuntuk \nmembantu \npembuktian \ndan \npenyelesaian \nperselisihan \nserta \npendeteksian \nusaha \npenyusupan pada Sistem Elektronik. \n \nAyat (5) \nPenggunaan \nauditor \nekstern \nharus \nmempertimbangkan \nukuran dan kompleksitas usaha BPR dan BPR Syariah, serta \nmemperhatikan ketentuan peraturan perundang-undangan \nterkait auditor ekstern.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk dalam ketentuan peraturan perundang-undangan \nantara lain Peraturan Otoritas Jasa Keuangan mengenai \npenerapan tata kelola bagi BPR dan BPR Syariah. \n \nAyat (2) \nPelaksanaan audit intern terhadap penyelenggaraan TI \ndilaksanakan sebagai bagian dari pelaksanaan audit intern \natau terpisah dari pelaksanaan audit intern. \n\n\n \n \nAyat (3) \nPenyelenggaraan TI termasuk penyelenggaraan TI BPR dan \nBPR Syariah oleh pihak penyedia jasa TI. \n \nAyat (4) \nYang dimaksud dengan “memastikan tersedianya jejak audit” \nadalah memastikan tersedianya log transaksi dan memelihara \nlog tersebut sesuai dengan ketentuan peraturan perundang-\nundangan dan kebijakan retensi data BPR dan BPR Syariah \nguna menjamin tersedianya jejak audit yang jelas sehingga \ndapat \ndigunakan \nuntuk \nmembantu \npembuktian \ndan \npenyelesaian \nperselisihan \nserta \npendeteksian \nusaha \npenyusupan pada Sistem Elektronik. \n \nAyat (5) \nPenggunaan \nauditor \nekstern \nharus \nmempertimbangkan \nukuran dan kompleksitas usaha BPR dan BPR Syariah, serta \nmemperhatikan ketentuan peraturan perundang-undangan \nterkait auditor ekstern."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cakupan laporan kondisi terkini penyelenggaraan TI BPR dan BPR \nSyariah paling sedikit meliputi penjelasan mengenai TI yang \ndiselenggarakan, \nstruktur \norganisasi \nyang \nmenggambarkan \npenyelenggaraan TI, dan kebijakan dan prosedur yang dimiliki \nterkait penyelenggaraan TI. \nYang dimaksud dengan “perubahan mendasar” antara lain \nperubahan terhadap konfigurasi TI atau Aplikasi Inti Perbankan, \npengadaan Aplikasi Inti Perbankan, kerja sama dengan penyedia \njasa TI, serta pengembangan dan pengadaan TI mendasar lainnya \nyang dapat menambah dan/atau meningkatkan risiko BPR dan BPR \nSyariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cakupan laporan kondisi terkini penyelenggaraan TI BPR dan BPR \nSyariah paling sedikit meliputi penjelasan mengenai TI yang \ndiselenggarakan, \nstruktur \norganisasi \nyang \nmenggambarkan \npenyelenggaraan TI, dan kebijakan dan prosedur yang dimiliki \nterkait penyelenggaraan TI. \nYang dimaksud dengan “perubahan mendasar” antara lain \nperubahan terhadap konfigurasi TI atau Aplikasi Inti Perbankan, \npengadaan Aplikasi Inti Perbankan, kerja sama dengan penyedia \njasa TI, serta pengembangan dan pengadaan TI mendasar lainnya \nyang dapat menambah dan/atau meningkatkan risiko BPR dan BPR \nSyariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Yang dimaksud dengan “efektif beroperasi” adalah tahapan yang \nmana TI telah diimplementasikan dan digunakan dalam kegiatan \noperasional BPR dan BPR Syariah.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Yang dimaksud dengan “efektif beroperasi” adalah tahapan yang \nmana TI telah diimplementasikan dan digunakan dalam kegiatan \noperasional BPR dan BPR Syariah."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nInsiden TI yaitu kejadian kritis, penyalahgunaan, dan/atau \nkejahatan dalam penyelenggaraan TI, berupa: \na. \ninsiden siber; dan \nb. \ninsiden nonsiber. \nYang dimaksud kejadian kritis lihat penjelasan Pasal 27  \nayat (2) huruf g angka 6. \nInsiden siber yaitu ancaman siber, berupa upaya, kegiatan, \ndan/atau tindakan, yang mengakibatkan Sistem Elektronik \ntidak berfungsi sebagaimana mestinya.   \n\n\n \nContoh insiden siber yaitu tidak berfungsinya Sistem \nElektronik sebagaimana mestinya yang disebabkan oleh \nserangan siber antara lain peretasan, virus, malware, \nransomware, web defacement, dan distributed denial of service \nattacks. \nYang dimaksud dengan “kerugian” adalah kerugian keuangan \ndan/atau \nkerugian \nnonkeuangan. \nContoh \nkerugian \nnonkeuangan yaitu pemberitaan tindakan yang memengaruhi \nreputasi BPR dan BPR Syariah. \n \nAyat (2) \nNotifikasi awal disampaikan kepada satuan kerja pengawasan \ndari BPR dan BPR Syariah. Contoh sarana elektronik secara \ntertulis yaitu surat elektronik. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nInsiden TI yaitu kejadian kritis, penyalahgunaan, dan/atau \nkejahatan dalam penyelenggaraan TI, berupa: \na. \ninsiden siber; dan \nb. \ninsiden nonsiber. \nYang dimaksud kejadian kritis lihat penjelasan Pasal 27  \nayat (2) huruf g angka 6. \nInsiden siber yaitu ancaman siber, berupa upaya, kegiatan, \ndan/atau tindakan, yang mengakibatkan Sistem Elektronik \ntidak berfungsi sebagaimana mestinya.   \n\n\n \nContoh insiden siber yaitu tidak berfungsinya Sistem \nElektronik sebagaimana mestinya yang disebabkan oleh \nserangan siber antara lain peretasan, virus, malware, \nransomware, web defacement, dan distributed denial of service \nattacks. \nYang dimaksud dengan “kerugian” adalah kerugian keuangan \ndan/atau \nkerugian \nnonkeuangan. \nContoh \nkerugian \nnonkeuangan yaitu pemberitaan tindakan yang memengaruhi \nreputasi BPR dan BPR Syariah. \n \nAyat (2) \nNotifikasi awal disampaikan kepada satuan kerja pengawasan \ndari BPR dan BPR Syariah. Contoh sarana elektronik secara \ntertulis yaitu surat elektronik. \n \nAyat (3) \n \n \nCukup jelas. \n \nAyat (4) \n \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Pertimbangan tertentu memperhatikan antara lain: \na. \nkondisi BPR dan BPR Syariah untuk beradaptasi dengan \nperkembangan TI; dan  \nb. \nkesesuaian dengan peraturan perundang-undangan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Pertimbangan tertentu memperhatikan antara lain: \na. \nkondisi BPR dan BPR Syariah untuk beradaptasi dengan \nperkembangan TI; dan  \nb. \nkesesuaian dengan peraturan perundang-undangan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Berakhirnya jangka waktu perjanjian kerja sama termasuk jika BPR \ndan BPR Syariah akan melakukan perpanjangan dan/atau \nperubahan atas perjanjian kerja sama dengan pihak penyedia jasa \nTI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Berakhirnya jangka waktu perjanjian kerja sama termasuk jika BPR \ndan BPR Syariah akan melakukan perpanjangan dan/atau \nperubahan atas perjanjian kerja sama dengan pihak penyedia jasa \nTI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR      ⸙",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nTAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR      ⸙"
+        }
+      ]
+    }
+  ],
+  "total_pasal": 106,
+  "total_ayat": 169,
+  "total_karakter": 65891,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

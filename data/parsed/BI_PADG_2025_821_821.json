@@ -1,0 +1,262 @@
+{
+  "doc_id": "BI_PADG_2025_821_821",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "821",
+  "tahun": "2025",
+  "judul": "PERUBAHAN KETIGA ATAS PERATURAN ANGGOTA DEWAN GUBERNUR NOMOR 21/18/PADG/2019 TENTANG IMPLEMENTASI STANDAR NASIONAL QUICK RESPONSE CODE UNTUK PEMBAYARAN",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "19 Februari 2025",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang \ndimaksud dengan: \n1. \nGerbang Pembayaran Nasional (National Payment \nGateway) yang selanjutnya disingkat GPN (NPG) \nadalah sistem yang terdiri atas standar, switching, \ndan services yang dibangun melalui seperangkat \naturan \ndan \nmekanisme \n(arrangement) \nuntuk \nmengintegrasikan berbagai instrumen dan kanal \npembayaran secara nasional. \n2. \nStandar adalah spesifikasi teknis dan operasional \nyang dibakukan. \n3. \nLembaga Standar adalah lembaga yang menyusun \ndan mengelola Standar dalam GPN (NPG). \n4. \nQuick Response Code untuk Pembayaran yang \nselanjutnya disebut QR Code Pembayaran adalah \nkode dua dimensi yang terdiri atas penanda tiga pola \npersegi pada sudut kiri bawah, sudut kiri atas, dan \nsudut kanan atas, memiliki modul hitam berupa \npersegi titik atau piksel, dan memiliki kemampuan \nmenyimpan data alfanumerik, karakter, dan simbol, \nyang \ndigunakan \nuntuk \nmemfasilitasi \ntransaksi \npembayaran nirsentuh.  \n5. \nStandar Nasional QR Code Pembayaran (Quick \nResponse \nCode \nIndonesian \nStandard) \nyang \nselanjutnya disebut QRIS adalah Standar teknologi \npemrosesan transaksi pembayaran berupa QR Code \nPembayaran dan/atau teknologi lainnya berbasis \nkomunikasi data (messaging) QR Code Pembayaran \nyang \nditetapkan \noleh \nBank \nIndonesia \nuntuk \ndigunakan \ndalam \nmemfasilitasi \ntransaksi \npembayaran \nnirsentuh \ndi \nIndonesia \nmelalui \npemindaian dan/atau tanpa pemindaian. \n6. \nTransaksi QRIS adalah transaksi pembayaran yang \nmenggunakan QRIS. \n7. \nLembaga \nSwitching \nadalah \nlembaga \nyang \nmenyelenggarakan switching dalam GPN (NPG). \n\n\n \n8. \nPenyelenggara Jasa Sistem Pembayaran adalah \npenyedia \njasa \npembayaran \ndan \npenyelenggara \ninfrastruktur \nsistem \npembayaran \nsebagaimana \ndimaksud dalam ketentuan Bank Indonesia mengenai \nsistem pembayaran. \n9. \nPenerbit adalah penyedia jasa pembayaran yang \nmelakukan aktivitas penatausahaan sumber dana \nberupa \npenerbitan \nuang \nelektronik \ndan \nalat \npembayaran menggunakan kartu sebagaimana diatur \ndalam ketentuan Bank Indonesia mengenai penyedia \njasa pembayaran. \n10. Acquirer adalah penyedia jasa pembayaran yang \nmenyelenggarakan \naktivitas \npayment \ninitiation \ndan/atau acquiring services sebagaimana diatur \ndalam ketentuan Bank Indonesia mengenai penyedia \njasa pembayaran. \n11. Merchant \nAggregator \nadalah \npihak \nselain \nPenyelenggara \nJasa \nSistem \nPembayaran \nyang \nmelakukan \nakuisisi \npedagang \n(merchant) \ndan \nmeneruskan dana hasil Transaksi QRIS kepada \npedagang (merchant) melalui kerja sama dengan \nPenyelenggara Jasa Sistem Pembayaran. \n12. National \nMerchant \nRepository \nyang \nselanjutnya \ndisingkat \nNMR \nadalah \nsistem \nyang \nmemiliki \nkemampuan \nmenatausahakan \ndata \npedagang \n(merchant). \n13. Pedagang (Merchant) QRIS adalah penyedia barang \ndan/atau jasa yang tercatat dalam NMR untuk \nmenerima Transaksi QRIS. \n14. Pengguna QRIS adalah pihak yang melakukan \npembayaran dalam Transaksi QRIS. \n \n2. \nKetentuan Pasal 2 diubah, sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang \ndimaksud dengan: \n1. \nGerbang Pembayaran Nasional (National Payment \nGateway) yang selanjutnya disingkat GPN (NPG) \nadalah sistem yang terdiri atas standar, switching, \ndan services yang dibangun melalui seperangkat \naturan \ndan \nmekanisme \n(arrangement) \nuntuk \nmengintegrasikan berbagai instrumen dan kanal \npembayaran secara nasional. \n2. \nStandar adalah spesifikasi teknis dan operasional \nyang dibakukan. \n3. \nLembaga Standar adalah lembaga yang menyusun \ndan mengelola Standar dalam GPN (NPG). \n4. \nQuick Response Code untuk Pembayaran yang \nselanjutnya disebut QR Code Pembayaran adalah \nkode dua dimensi yang terdiri atas penanda tiga pola \npersegi pada sudut kiri bawah, sudut kiri atas, dan \nsudut kanan atas, memiliki modul hitam berupa \npersegi titik atau piksel, dan memiliki kemampuan \nmenyimpan data alfanumerik, karakter, dan simbol, \nyang \ndigunakan \nuntuk \nmemfasilitasi \ntransaksi \npembayaran nirsentuh.  \n5. \nStandar Nasional QR Code Pembayaran (Quick \nResponse \nCode \nIndonesian \nStandard) \nyang \nselanjutnya disebut QRIS adalah Standar teknologi \npemrosesan transaksi pembayaran berupa QR Code \nPembayaran dan/atau teknologi lainnya berbasis \nkomunikasi data (messaging) QR Code Pembayaran \nyang \nditetapkan \noleh \nBank \nIndonesia \nuntuk \ndigunakan \ndalam \nmemfasilitasi \ntransaksi \npembayaran \nnirsentuh \ndi \nIndonesia \nmelalui \npemindaian dan/atau tanpa pemindaian. \n6. \nTransaksi QRIS adalah transaksi pembayaran yang \nmenggunakan QRIS. \n7. \nLembaga \nSwitching \nadalah \nlembaga \nyang \nmenyelenggarakan switching dalam GPN (NPG). \n\n\n \n8. \nPenyelenggara Jasa Sistem Pembayaran adalah \npenyedia \njasa \npembayaran \ndan \npenyelenggara \ninfrastruktur \nsistem \npembayaran \nsebagaimana \ndimaksud dalam ketentuan Bank Indonesia mengenai \nsistem pembayaran. \n9. \nPenerbit adalah penyedia jasa pembayaran yang \nmelakukan aktivitas penatausahaan sumber dana \nberupa \npenerbitan \nuang \nelektronik \ndan \nalat \npembayaran menggunakan kartu sebagaimana diatur \ndalam ketentuan Bank Indonesia mengenai penyedia \njasa pembayaran. \n10. Acquirer adalah penyedia jasa pembayaran yang \nmenyelenggarakan \naktivitas \npayment \ninitiation \ndan/atau acquiring services sebagaimana diatur \ndalam ketentuan Bank Indonesia mengenai penyedia \njasa pembayaran. \n11. Merchant \nAggregator \nadalah \npihak \nselain \nPenyelenggara \nJasa \nSistem \nPembayaran \nyang \nmelakukan \nakuisisi \npedagang \n(merchant) \ndan \nmeneruskan dana hasil Transaksi QRIS kepada \npedagang (merchant) melalui kerja sama dengan \nPenyelenggara Jasa Sistem Pembayaran. \n12. National \nMerchant \nRepository \nyang \nselanjutnya \ndisingkat \nNMR \nadalah \nsistem \nyang \nmemiliki \nkemampuan \nmenatausahakan \ndata \npedagang \n(merchant). \n13. Pedagang (Merchant) QRIS adalah penyedia barang \ndan/atau jasa yang tercatat dalam NMR untuk \nmenerima Transaksi QRIS. \n14. Pengguna QRIS adalah pihak yang melakukan \npembayaran dalam Transaksi QRIS. \n \n2. \nKetentuan Pasal 2 diubah, sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nQR Code Pembayaran memuat data identitas salah \nsatu pihak dalam pemrosesan transaksi pembayaran. \n(2) \nDalam pemrosesan transaksi pembayaran, QR Code \nPembayaran disajikan oleh salah satu pihak yang \nbertransaksi untuk kemudian diproses oleh pihak \nlainnya. \n \n3. \nPenjelasan Pasal 3 diubah sebagaimana tercantum dalam \npenjelasan. \n \n \n \n \n \n\n\n \n4. \nKetentuan ayat (1), ayat (2), dan ayat (4) Pasal 4 diubah, \nsehingga Pasal 4 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "QR Code Pembayaran memuat data identitas salah \nsatu pihak dalam pemrosesan transaksi pembayaran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam pemrosesan transaksi pembayaran, QR Code \nPembayaran disajikan oleh salah satu pihak yang \nbertransaksi untuk kemudian diproses oleh pihak \nlainnya. \n \n3. \nPenjelasan Pasal 3 diubah sebagaimana tercantum dalam \npenjelasan. \n \n \n \n \n \n\n\n \n4. \nKetentuan ayat (1), ayat (2), dan ayat (4) Pasal 4 diubah, \nsehingga Pasal 4 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nQRIS ditetapkan oleh Bank Indonesia sesuai dengan \nketentuan Bank Indonesia yang mengatur mengenai \nsistem pembayaran. \n(2) \nPengelolaan QRIS dilakukan oleh Lembaga Standar \nyang telah ditetapkan oleh Bank Indonesia. \n(3) \nQRIS terdiri atas spesifikasi teknis dan operasional \nyang dituangkan dalam dokumen QRIS. \n(4) \nSpesifikasi teknis dan operasional sebagaimana \ndimaksud pada ayat (3) terdiri atas spesifikasi: \na. \nquick response code untuk pembayaran atau \nteknologi lainnya berbasis komunikasi data \n(messaging) QR Code Pembayaran; \nb. \ninterkoneksi; dan/atau \nc. \nteknis dan operasional lainnya. \n \n5. \nKetentuan Pasal 6 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "QRIS ditetapkan oleh Bank Indonesia sesuai dengan \nketentuan Bank Indonesia yang mengatur mengenai \nsistem pembayaran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengelolaan QRIS dilakukan oleh Lembaga Standar \nyang telah ditetapkan oleh Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "QRIS terdiri atas spesifikasi teknis dan operasional \nyang dituangkan dalam dokumen QRIS."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Spesifikasi teknis dan operasional sebagaimana \ndimaksud pada ayat (3) terdiri atas spesifikasi: \na. \nquick response code untuk pembayaran atau \nteknologi lainnya berbasis komunikasi data \n(messaging) QR Code Pembayaran; \nb. \ninterkoneksi; dan/atau \nc. \nteknis dan operasional lainnya. \n \n5. \nKetentuan Pasal 6 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nQRIS wajib digunakan dalam setiap transaksi \npembayaran di Indonesia yang difasilitasi dengan QR \nCode \nPembayaran \ndan/atau \nteknologi \nlainnya \nberbasis komunikasi data (messaging) QR Code \nPembayaran. \n(2) \nPenerapan kewajiban penggunaan QRIS sebagaimana \ndimaksud pada ayat (1) dilakukan berdasarkan \npenetapan QRIS oleh Bank Indonesia. \n \n6. \nKetentuan ayat (1) dan ayat (2) Pasal 7 diubah, sehingga \nPasal 7 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "QRIS wajib digunakan dalam setiap transaksi \npembayaran di Indonesia yang difasilitasi dengan QR \nCode \nPembayaran \ndan/atau \nteknologi \nlainnya \nberbasis komunikasi data (messaging) QR Code \nPembayaran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penerapan kewajiban penggunaan QRIS sebagaimana \ndimaksud pada ayat (1) dilakukan berdasarkan \npenetapan QRIS oleh Bank Indonesia. \n \n6. \nKetentuan ayat (1) dan ayat (2) Pasal 7 diubah, sehingga \nPasal 7 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nTransaksi QRIS menggunakan: \na. \nsumber dana berupa simpanan dan fasilitas \nkredit;  \nb. \ninstrumen pembayaran berupa kartu debit, \nkartu \nkredit, \ndan \nuang \nelektronik \nyang \nmenggunakan media penyimpanan server based; \ndan/atau  \nc. \nlayanan \nelektronik \nyang \nmemungkinkan \npenyimpanan data sumber dana dan/atau \ninstrumen pembayaran. \n(2) \nPenggunaan sumber dana, instrumen pembayaran, \ndan/atau layanan elektronik sebagaimana dimaksud \npada ayat (1) dilakukan berdasarkan usulan dari \nLembaga Standar. \n\n\n \n(3) \nUsulan \ndari \nLembaga \nStandar \nsebagaimana \ndimaksud pada ayat (2) harus disampaikan kepada \nBank Indonesia untuk memperoleh persetujuan. \n \n7. \nKetentuan Pasal 18 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi QRIS menggunakan: \na. \nsumber dana berupa simpanan dan fasilitas \nkredit;  \nb. \ninstrumen pembayaran berupa kartu debit, \nkartu \nkredit, \ndan \nuang \nelektronik \nyang \nmenggunakan media penyimpanan server based; \ndan/atau  \nc. \nlayanan \nelektronik \nyang \nmemungkinkan \npenyimpanan data sumber dana dan/atau \ninstrumen pembayaran."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penggunaan sumber dana, instrumen pembayaran, \ndan/atau layanan elektronik sebagaimana dimaksud \npada ayat (1) dilakukan berdasarkan usulan dari \nLembaga Standar."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Usulan \ndari \nLembaga \nStandar \nsebagaimana \ndimaksud pada ayat (2) harus disampaikan kepada \nBank Indonesia untuk memperoleh persetujuan. \n \n7. \nKetentuan Pasal 18 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Kewajiban penggunaan QRIS dalam setiap transaksi \npembayaran sebagaimana dimaksud dalam Pasal 6 \nberlaku juga bagi transaksi pembayaran di Indonesia yang \ndifasilitasi dengan QR Code Pembayaran dan/atau \nteknologi lainnya berbasis komunikasi data (messaging) \nQR Code Pembayaran dengan menggunakan sumber dana \nyang ditatausahakan dan/atau instrumen pembayaran \nyang diterbitkan di luar wilayah Negara Kesatuan Republik \nIndonesia. \n \n8. \nKetentuan ayat (1) dan ayat (2) Pasal 23 diubah, sehingga \nPasal 23 berbunyi sebagai berikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Kewajiban penggunaan QRIS dalam setiap transaksi \npembayaran sebagaimana dimaksud dalam Pasal 6 \nberlaku juga bagi transaksi pembayaran di Indonesia yang \ndifasilitasi dengan QR Code Pembayaran dan/atau \nteknologi lainnya berbasis komunikasi data (messaging) \nQR Code Pembayaran dengan menggunakan sumber dana \nyang ditatausahakan dan/atau instrumen pembayaran \nyang diterbitkan di luar wilayah Negara Kesatuan Republik \nIndonesia. \n \n8. \nKetentuan ayat (1) dan ayat (2) Pasal 23 diubah, sehingga \nPasal 23 berbunyi sebagai berikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "(1) \nPengajuan permohonan berupa: \na. \npermohonan untuk mendapatkan persetujuan \noleh Penyelenggara Jasa Sistem Pembayaran \nsebagaimana dimaksud dalam Pasal 11 ayat (2); \nb. \npermohonan untuk mendapatkan persetujuan \noleh Lembaga Switching sebagaimana dimaksud \ndalam Pasal 14 ayat (2); \nc. \npermohonan untuk mendapatkan persetujuan \nkerja sama oleh Penyelenggara Jasa Sistem \nPembayaran \nsebagaimana \ndimaksud \ndalam \nPasal 15 ayat (2); \nd. \npermohonan untuk mendapatkan persetujuan \nkerja sama oleh Penerbit dan/atau Acquirer \nsebagaimana dimaksud dalam Pasal 20 ayat (2); \ndan \ne. \npermohonan untuk mendapatkan persetujuan \nkerja sama antara Penyelenggara Jasa Sistem \nPembayaran dengan pihak yang melakukan \nfungsi \nmerchant \naggregator \nsebagaimana \ndimaksud dalam Pasal 27 ayat (2), \ndisampaikan \nkepada \nsatuan \nkerja \nyang \nmelaksanakan fungsi kebijakan sistem pembayaran \ndengan ditujukan ke alamat: \nDepartemen Kebijakan Sistem Pembayaran \nBank Indonesia \nGedung D Lantai 6 \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350. \n\n\n \n(2) \nPenyampaian laporan berupa: \na. \nlaporan terkait pemrosesan Transaksi QRIS oleh \nPenyelenggara Jasa Sistem Pembayaran dan \nLembaga \nSwitching \nsebagaimana \ndimaksud \ndalam Pasal 21 ayat (1); dan \nb. \nlaporan terkait pemrosesan Transaksi QRIS oleh \npihak yang bekerja sama dengan Penyelenggara \nJasa \nSistem \nPembayaran \nsebagaimana \ndimaksud dalam Pasal 21 ayat (2),  \ndisampaikan \nkepada \nsatuan \nkerja \nyang \nmelaksanakan fungsi surveilans sistem pembayaran \ndengan ditujukan ke alamat: \nDepartemen Surveilans Sistem Pembayaran dan \nPelindungan Konsumen \nBank Indonesia \nGedung D Lantai 9 \nJalan M. H. Thamrin Nomor 2 \nJakarta 10350. \n(3) \nDalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1) dan ayat (2), \nBank Indonesia memberitahukan perubahan tersebut \nmelalui surat dan/atau sarana elektronik. \n \n9. \nKetentuan Pasal 24 diubah sehingga berbunyi sebagai \nberikut:",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengajuan permohonan berupa: \na. \npermohonan untuk mendapatkan persetujuan \noleh Penyelenggara Jasa Sistem Pembayaran \nsebagaimana dimaksud dalam Pasal 11 ayat (2); \nb. \npermohonan untuk mendapatkan persetujuan \noleh Lembaga Switching sebagaimana dimaksud \ndalam Pasal 14 ayat (2); \nc. \npermohonan untuk mendapatkan persetujuan \nkerja sama oleh Penyelenggara Jasa Sistem \nPembayaran \nsebagaimana \ndimaksud \ndalam \nPasal 15 ayat (2); \nd. \npermohonan untuk mendapatkan persetujuan \nkerja sama oleh Penerbit dan/atau Acquirer \nsebagaimana dimaksud dalam Pasal 20 ayat (2); \ndan \ne. \npermohonan untuk mendapatkan persetujuan \nkerja sama antara Penyelenggara Jasa Sistem \nPembayaran dengan pihak yang melakukan \nfungsi \nmerchant \naggregator \nsebagaimana \ndimaksud dalam Pasal 27 ayat (2), \ndisampaikan \nkepada \nsatuan \nkerja \nyang \nmelaksanakan fungsi kebijakan sistem pembayaran \ndengan ditujukan ke alamat: \nDepartemen Kebijakan Sistem Pembayaran \nBank Indonesia \nGedung D Lantai 6 \nJalan M.H. Thamrin Nomor 2 \nJakarta 10350."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian laporan berupa: \na. \nlaporan terkait pemrosesan Transaksi QRIS oleh \nPenyelenggara Jasa Sistem Pembayaran dan \nLembaga \nSwitching \nsebagaimana \ndimaksud \ndalam Pasal 21 ayat (1); dan \nb. \nlaporan terkait pemrosesan Transaksi QRIS oleh \npihak yang bekerja sama dengan Penyelenggara \nJasa \nSistem \nPembayaran \nsebagaimana \ndimaksud dalam Pasal 21 ayat (2),  \ndisampaikan \nkepada \nsatuan \nkerja \nyang \nmelaksanakan fungsi surveilans sistem pembayaran \ndengan ditujukan ke alamat: \nDepartemen Surveilans Sistem Pembayaran dan \nPelindungan Konsumen \nBank Indonesia \nGedung D Lantai 9 \nJalan M. H. Thamrin Nomor 2 \nJakarta 10350."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1) dan ayat (2), \nBank Indonesia memberitahukan perubahan tersebut \nmelalui surat dan/atau sarana elektronik. \n \n9. \nKetentuan Pasal 24 diubah sehingga berbunyi sebagai \nberikut:"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Tata cara pengenaan sanksi atas pelanggaran terhadap \nkewajiban sebagaimana dimaksud dalam Peraturan \nAnggota Dewan Gubernur ini dilakukan sesuai dengan \nketentuan Bank Indonesia mengenai sistem pembayaran.  \n \nPasal II \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n  \n \nDitetapkan di Jakarta \npada tanggal 19 Februari 2025 \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nFILIANINGSIH HENDARTA \n\n\nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2025 \nTENTANG \nPERUBAHAN KETIGA ATAS PERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 21/18/PADG/2019 TENTANG IMPLEMENTASI STANDAR NASIONAL \nQUICK RESPONSE CODE UNTUK PEMBAYARAN \n \nI. \nUMUM \nBank Indonesia telah menetapkan QRIS yang wajib digunakan untuk \nsetiap transaksi pembayaran yang difasilitasi dengan QR Code Pembayaran. \nPasca implementasi QRIS dimaksud, Transaksi QRIS di Indonesia \nmenunjukkan perkembangan yang signifikan dan terus tumbuh. Nominal \ndan volume Transaksi QRIS semakin meningkat dan diikuti dengan \nakseptasi QRIS yang terus meluas ditandai dengan bertumbuhnya \npengguna jasa dan penyedia barang dan/atau jasa yang menggunakan \nQRIS. Transaksi QRIS mampu menopang kebutuhan transaksi pembayaran \nritel nontunai yang cepat, mudah, murah, aman, dan andal serta inklusif \nyang mampu menjangkau seluruh lapisan masyarakat, khususnya usaha \nmikro, kecil, dan menengah (UMKM). \nSebagai sebuah standar nasional, QRIS secara konsisten terus \ndikembangkan oleh Bank Indonesia bersama dengan industri sistem \npembayaran untuk dapat terus beradaptasi dengan kebutuhan dan \nperkembangan inovasi sistem pembayaran. Pengembangan dilakukan \nantara lain mulai dari model penggunaan berupa merchant presented mode \ndan customer presented mode, perluasan Transaksi QRIS untuk transaksi \ntarik tunai, transfer, dan setor tunai, sampai dengan pengembangan \ninterkoneksi QRIS untuk transaksi antarnegara. \nSejalan dengan hal tersebut, teknologi di bidang sistem pembayaran \nseperti teknologi komunikasi nirkabel jarak dekat (near field communication) \nterus berkembang dan menunjukkan potensi menjadi preferensi kuat di \nmasyarakat \nIndonesia \ndalam \nbertransaksi \nkhususnya \ntransaksi \npembayaran ritel. Dalam perkembangannya, teknologi tersebut dapat \ndikembangkan dengan menggunakan basis komunikasi data (messaging) \nQR Code Pembayaran salah satunya dalam model customer presented mode \nyang memungkinkan pemrosesan transaksi pembayaran dilakukan tanpa \npemindaian dan menawarkan proses transaksi yang lebih cepat, antara lain \npada sektor transportasi.  \n Selanjutnya, guna memastikan segala bentuk inovasi dan teknologi \nyang berkembang dapat dimanfaatkan secara optimal oleh seluruh pelaku \nindustri sistem pembayaran dalam ekosistem ekonomi dan keuangan \ndigital nasional, teknologi yang berbasis komunikasi data (messaging) QR \nCode Pembayaran perlu distandardisasi dan menjadi cakupan QRIS. \nDengan demikian, QRIS menjangkau  pemrosesan  transaksi  pembayaran\n\n\n \nnirsentuh yang difasilitasi dengan QR Code Pembayaran dan teknologi \nlainnya berbasis komunikasi data (messaging) QR Code Pembayaran \nmelalui pemindaian dan/atau tanpa pemindaian. Sehubungan dengan hal \ntersebut, perlu ditetapkan Peraturan Anggota Dewan Gubernur tentang \nPerubahan   Ketiga   atas   Peraturan   Anggota   Dewan   Gubernur   Nomor \n21/18/PADG/2019 \ntentang \nImplementasi \nStandar \nNasional \nQuick \nResponse Code untuk Pembayaran. \n \nII. \nPASAL DEMI PASAL  \n \nPasal I \nAngka 1",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tata cara pengenaan sanksi atas pelanggaran terhadap \nkewajiban sebagaimana dimaksud dalam Peraturan \nAnggota Dewan Gubernur ini dilakukan sesuai dengan \nketentuan Bank Indonesia mengenai sistem pembayaran.  \n \nPasal II \nPeraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n  \n \nDitetapkan di Jakarta \npada tanggal 19 Februari 2025 \n \nANGGOTA DEWAN GUBERNUR, \n \nTTD \n \nFILIANINGSIH HENDARTA \n\n\nPENJELASAN  \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 3 TAHUN 2025 \nTENTANG \nPERUBAHAN KETIGA ATAS PERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 21/18/PADG/2019 TENTANG IMPLEMENTASI STANDAR NASIONAL \nQUICK RESPONSE CODE UNTUK PEMBAYARAN \n \nI. \nUMUM \nBank Indonesia telah menetapkan QRIS yang wajib digunakan untuk \nsetiap transaksi pembayaran yang difasilitasi dengan QR Code Pembayaran. \nPasca implementasi QRIS dimaksud, Transaksi QRIS di Indonesia \nmenunjukkan perkembangan yang signifikan dan terus tumbuh. Nominal \ndan volume Transaksi QRIS semakin meningkat dan diikuti dengan \nakseptasi QRIS yang terus meluas ditandai dengan bertumbuhnya \npengguna jasa dan penyedia barang dan/atau jasa yang menggunakan \nQRIS. Transaksi QRIS mampu menopang kebutuhan transaksi pembayaran \nritel nontunai yang cepat, mudah, murah, aman, dan andal serta inklusif \nyang mampu menjangkau seluruh lapisan masyarakat, khususnya usaha \nmikro, kecil, dan menengah (UMKM). \nSebagai sebuah standar nasional, QRIS secara konsisten terus \ndikembangkan oleh Bank Indonesia bersama dengan industri sistem \npembayaran untuk dapat terus beradaptasi dengan kebutuhan dan \nperkembangan inovasi sistem pembayaran. Pengembangan dilakukan \nantara lain mulai dari model penggunaan berupa merchant presented mode \ndan customer presented mode, perluasan Transaksi QRIS untuk transaksi \ntarik tunai, transfer, dan setor tunai, sampai dengan pengembangan \ninterkoneksi QRIS untuk transaksi antarnegara. \nSejalan dengan hal tersebut, teknologi di bidang sistem pembayaran \nseperti teknologi komunikasi nirkabel jarak dekat (near field communication) \nterus berkembang dan menunjukkan potensi menjadi preferensi kuat di \nmasyarakat \nIndonesia \ndalam \nbertransaksi \nkhususnya \ntransaksi \npembayaran ritel. Dalam perkembangannya, teknologi tersebut dapat \ndikembangkan dengan menggunakan basis komunikasi data (messaging) \nQR Code Pembayaran salah satunya dalam model customer presented mode \nyang memungkinkan pemrosesan transaksi pembayaran dilakukan tanpa \npemindaian dan menawarkan proses transaksi yang lebih cepat, antara lain \npada sektor transportasi.  \n Selanjutnya, guna memastikan segala bentuk inovasi dan teknologi \nyang berkembang dapat dimanfaatkan secara optimal oleh seluruh pelaku \nindustri sistem pembayaran dalam ekosistem ekonomi dan keuangan \ndigital nasional, teknologi yang berbasis komunikasi data (messaging) QR \nCode Pembayaran perlu distandardisasi dan menjadi cakupan QRIS. \nDengan demikian, QRIS menjangkau  pemrosesan  transaksi  pembayaran\n\n\n \nnirsentuh yang difasilitasi dengan QR Code Pembayaran dan teknologi \nlainnya berbasis komunikasi data (messaging) QR Code Pembayaran \nmelalui pemindaian dan/atau tanpa pemindaian. Sehubungan dengan hal \ntersebut, perlu ditetapkan Peraturan Anggota Dewan Gubernur tentang \nPerubahan   Ketiga   atas   Peraturan   Anggota   Dewan   Gubernur   Nomor \n21/18/PADG/2019 \ntentang \nImplementasi \nStandar \nNasional \nQuick \nResponse Code untuk Pembayaran. \n \nII. \nPASAL DEMI PASAL  \n \nPasal I \nAngka 1"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \n \nAngka 2",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nAngka 2"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nTermasuk \npihak \ndalam \npemrosesan \ntransaksi \npembayaran yaitu pengguna dan pedagang (merchant). \n \n \n \nAyat (2) \n QR \nCode \nPembayaran \ndapat \ndisajikan \ndengan \nditampilkan dalam bentuk kertas, stiker, atau virtual \nmelalui layar gawai, atau dengan mekanisme maupun \nteknologi lainnya. \nQR Code Pembayaran dapat diproses antara lain \ndengan:  \na. \npemindaian, \nmelalui \naplikasi \nmobile \n(mobile \napplication) yang \nterdapat pada gawai \natau \nperangkat point of sales; atau \nb. \ntanpa pemindaian. \n \n \nAngka 3",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nTermasuk \npihak \ndalam \npemrosesan \ntransaksi \npembayaran yaitu pengguna dan pedagang (merchant). \n \n \n \nAyat (2) \n QR \nCode \nPembayaran \ndapat \ndisajikan \ndengan \nditampilkan dalam bentuk kertas, stiker, atau virtual \nmelalui layar gawai, atau dengan mekanisme maupun \nteknologi lainnya. \nQR Code Pembayaran dapat diproses antara lain \ndengan:  \na. \npemindaian, \nmelalui \naplikasi \nmobile \n(mobile \napplication) yang \nterdapat pada gawai \natau \nperangkat point of sales; atau \nb. \ntanpa pemindaian. \n \n \nAngka 3"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nQR Code Pembayaran statis dan QR Code Pembayaran \ndinamis \ndibedakan \nberdasarkan \nmekanisme \npenerbitannya. \nYang dimaksud dengan “QR Code Pembayaran statis” \nadalah QR Code Pembayaran yang diterbitkan sebelum \nterdapat transaksi yang akan diinisiasi dan dapat \ndiproses \ndengan \ncara \npemindaian \natau \ntanpa \npemindaian secara berulang kali untuk memfasilitasi \nberbagai transaksi pembayaran yang berbeda. QR Code \nPembayaran statis umumnya hanya memuat data \ninformasi identitas pedagang (merchant). \nYang dimaksud dengan “QR Code Pembayaran dinamis” \nadalah QR Code Pembayaran yang diterbitkan pada saat \ntelah terdapat transaksi yang akan diinisiasi dan \ndiproses \ndengan \ncara \npemindaian \natau \ntanpa \npemindaian untuk memfasilitasi satu transaksi tertentu \nsaja. QR Code Pembayaran dinamis umumnya memuat \ndata informasi mengenai identitas pedagang (merchant) \natau pengguna dan informasi mengenai transaksi yang \ndilakukan seperti nominal transaksi. \n\n\n \n \n \n \nAyat (2) \nYang dimaksud dengan “merchant presented mode” \nadalah metode penggunaan QR Code Pembayaran \ndengan cara pedagang (merchant) menyajikan QR Code \nPembayaran untuk kemudian diproses dengan cara \npemindaian atau tanpa pemindaian  oleh pengguna. \nYang dimaksud dengan “customer presented mode” \nadalah metode penggunaan QR Code Pembayaran \ndengan \ncara \npengguna \nmenyajikan \nQR \nCode \nPembayaran untuk kemudian diproses dengan cara \npemindaian atau tanpa pemindaian oleh pedagang \n(merchant). \n \n \nAngka 4",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nQR Code Pembayaran statis dan QR Code Pembayaran \ndinamis \ndibedakan \nberdasarkan \nmekanisme \npenerbitannya. \nYang dimaksud dengan “QR Code Pembayaran statis” \nadalah QR Code Pembayaran yang diterbitkan sebelum \nterdapat transaksi yang akan diinisiasi dan dapat \ndiproses \ndengan \ncara \npemindaian \natau \ntanpa \npemindaian secara berulang kali untuk memfasilitasi \nberbagai transaksi pembayaran yang berbeda. QR Code \nPembayaran statis umumnya hanya memuat data \ninformasi identitas pedagang (merchant). \nYang dimaksud dengan “QR Code Pembayaran dinamis” \nadalah QR Code Pembayaran yang diterbitkan pada saat \ntelah terdapat transaksi yang akan diinisiasi dan \ndiproses \ndengan \ncara \npemindaian \natau \ntanpa \npemindaian untuk memfasilitasi satu transaksi tertentu \nsaja. QR Code Pembayaran dinamis umumnya memuat \ndata informasi mengenai identitas pedagang (merchant) \natau pengguna dan informasi mengenai transaksi yang \ndilakukan seperti nominal transaksi. \n\n\n \n \n \n \nAyat (2) \nYang dimaksud dengan “merchant presented mode” \nadalah metode penggunaan QR Code Pembayaran \ndengan cara pedagang (merchant) menyajikan QR Code \nPembayaran untuk kemudian diproses dengan cara \npemindaian atau tanpa pemindaian  oleh pengguna. \nYang dimaksud dengan “customer presented mode” \nadalah metode penggunaan QR Code Pembayaran \ndengan \ncara \npengguna \nmenyajikan \nQR \nCode \nPembayaran untuk kemudian diproses dengan cara \npemindaian atau tanpa pemindaian oleh pedagang \n(merchant). \n \n \nAngka 4"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \n \n \n \n \nCukup jelas. \n \n \n \nAyat (2) \n Cukup jelas. \n \n \n \nAyat (3) \n \n \n \n \nCukup jelas. \n \n \n \nAyat (4) \n \n \n \n \nHuruf a \nTeknologi \nlainnya \nberbasis \nkomunikasi \ndata \n(messaging) QR Code Pembayaran antara lain \nteknologi komunikasi nirkabel jarak dekat (near \nfield communication). \n \n \n \n \nHuruf b \n \n \n \n \n \nCukup jelas. \n \n \n \n \nHuruf c \n \n \n \n \n \nCukup jelas. \n \n \nAngka 5",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \n \n \n \nCukup jelas. \n \n \n \nAyat (2) \n Cukup jelas. \n \n \n \nAyat (3) \n \n \n \n \nCukup jelas. \n \n \n \nAyat (4) \n \n \n \n \nHuruf a \nTeknologi \nlainnya \nberbasis \nkomunikasi \ndata \n(messaging) QR Code Pembayaran antara lain \nteknologi komunikasi nirkabel jarak dekat (near \nfield communication). \n \n \n \n \nHuruf b \n \n \n \n \n \nCukup jelas. \n \n \n \n \nHuruf c \n \n \n \n \n \nCukup jelas. \n \n \nAngka 5"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nKewajiban penggunaan QRIS merupakan bagian dari \nkewajiban \nmematuhi \ndan \nmelaksanakan \nstandar \nsebagaimana dimaksud antara lain dalam ketentuan \nBank Indonesia mengenai standar nasional sistem \npembayaran dan ketentuan Bank Indonesia mengenai \nGPN (NPG).  \nTermasuk transaksi yang dapat menggunakan QRIS \nantara lain tarik tunai, transfer, dan setor tunai. \n \n \n \nAyat (2) \nTermasuk dalam penetapan QRIS oleh Bank Indonesia \nantara lain penetapan sumber dana, instrumen \npembayaran, dan/atau layanan elektronik, untuk  \nTransaksi QRIS.  \n \n \nAngka 6",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKewajiban penggunaan QRIS merupakan bagian dari \nkewajiban \nmematuhi \ndan \nmelaksanakan \nstandar \nsebagaimana dimaksud antara lain dalam ketentuan \nBank Indonesia mengenai standar nasional sistem \npembayaran dan ketentuan Bank Indonesia mengenai \nGPN (NPG).  \nTermasuk transaksi yang dapat menggunakan QRIS \nantara lain tarik tunai, transfer, dan setor tunai. \n \n \n \nAyat (2) \nTermasuk dalam penetapan QRIS oleh Bank Indonesia \nantara lain penetapan sumber dana, instrumen \npembayaran, dan/atau layanan elektronik, untuk  \nTransaksi QRIS.  \n \n \nAngka 6"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Ayat (1) \nHuruf a \n \nCukup jelas. \n\n\n \nHuruf b \n \nCukup jelas. \nHuruf c \nTermasuk \ndalam \nlayanan \nelektronik \nyang \nmemungkinkan penyimpanan data sumber dana \ndan/atau instrumen pembayaran antara lain \nproprietary channel dan dompet elektronik. \n \n \n \nAyat (2) \nUsulan dari Lembaga Standar dapat berupa usulan \npenggunaan sumber dana, instrumen pembayaran, \ndan/atau layanan elektronik, secara bertahap.  \n \n \n \nAyat (3) \n \n \n \n \nCukup jelas. \n \n \n \nAngka 7",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nHuruf a \n \nCukup jelas. \n\n\n \nHuruf b \n \nCukup jelas. \nHuruf c \nTermasuk \ndalam \nlayanan \nelektronik \nyang \nmemungkinkan penyimpanan data sumber dana \ndan/atau instrumen pembayaran antara lain \nproprietary channel dan dompet elektronik. \n \n \n \nAyat (2) \nUsulan dari Lembaga Standar dapat berupa usulan \npenggunaan sumber dana, instrumen pembayaran, \ndan/atau layanan elektronik, secara bertahap.  \n \n \n \nAyat (3) \n \n \n \n \nCukup jelas. \n \n \n \nAngka 7"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \n \nAngka 8",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nAngka 8"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \n \nAngka 9",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \n \nAngka 9"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": null,
+      "bab_judul": null,
+      "teks_lengkap": "Cukup jelas. \n \nPasal II \n \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas. \n \nPasal II \n \nCukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 17,
+  "total_ayat": 26,
+  "total_karakter": 20026,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

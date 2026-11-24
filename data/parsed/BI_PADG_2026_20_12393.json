@@ -1,0 +1,2003 @@
+{
+  "doc_id": "BI_PADG_2026_20_12393",
+  "regulator": "BI",
+  "jenis": "PADG",
+  "nomor": "20",
+  "tahun": "2026",
+  "judul": "Transaksi Pasar Valuta Asing Untuk Lindung Nilai Melalui Bank Mitra",
+  "status": "Berlaku",
+  "tanggal_ditetapkan": "23 Juli 2026",
+  "tanggal_berlaku": "ditetapkan",
+  "diundangkan_pada": null,
+  "mencabut": [],
+  "mengubah": [],
+  "bab_list": [
+    {
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM"
+    },
+    {
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI PASAR VALUTA ASING MELALUI BANK MITRA"
+    },
+    {
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRODUK"
+    },
+    {
+      "bab_nomor": "BAB IV",
+      "bab_judul": "HARGA ACUAN (PRICING)"
+    },
+    {
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKU"
+    },
+    {
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI"
+    },
+    {
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN"
+    },
+    {
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI"
+    },
+    {
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN DAN EVALUASI"
+    },
+    {
+      "bab_nomor": "BAB X",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI"
+    },
+    {
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY"
+    },
+    {
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KORESPONDENSI"
+    },
+    {
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN LAIN-LAIN"
+    },
+    {
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP"
+    }
+  ],
+  "pasal_list": [
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nPasar Valuta Asing adalah bagian dari sistem keuangan \nyang \nberkaitan \ndengan \nkegiatan \ntransaksi \nyang \nmelibatkan pertukaran mata uang dari 2 (dua) negara \nyang berbeda beserta derivatifnya, tetapi tidak termasuk \npenukaran bank notes yang diselenggarakan oleh kegiatan \nusaha penukaran valuta asing. \n2. \nBank Mitra Dalam Negeri (Domestic Partner Bank) yang \nselanjutnya \ndisebut \nDPB \nadalah \nbank \numum \nsebagaimana dimaksud dalam Undang-Undang mengenai \nperbankan dan Undang-Undang mengenai perbankan \nsyariah, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, yang ditetapkan Bank \nIndonesia dan memiliki kemitraan dengan bank di luar \nnegeri guna memfasilitasi transaksi Pasar Valuta Asing \nuntuk lindung nilai yang dilakukan investor global \nterdaftar. \n3. \nBank Mitra Luar Negeri (Overseas Partner Bank) yang \nselanjutnya disebut OPB adalah bank di luar negeri yang \nterdaftar di Bank Indonesia dan memiliki kemitraan \ndengan DPB guna memfasilitasi transaksi Pasar Valuta \nAsing untuk lindung nilai yang dilakukan investor global \nterdaftar. \n4. \nInvestor Global Terdaftar (Registered Global Investor) yang \nselanjutnya disebut RGI adalah investor global terdaftar di \nBank Indonesia yang melakukan transaksi Pasar Valuta \nAsing untuk lindung nilai.  \n5. \nTransaksi Pasar Valuta Asing untuk Lindung Nilai melalui \nBank Mitra yang selanjutnya disebut Transaksi Pasar \nValuta Asing melalui Bank Mitra adalah transaksi valuta \nasing terhadap rupiah untuk lindung nilai yang dilakukan \nRGI melalui OPB dan DPB. \n6. \nHari Kerja adalah hari kerja Bank Indonesia tidak \ntermasuk hari kerja operasional terbatas Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud \ndengan: \n1. \nPasar Valuta Asing adalah bagian dari sistem keuangan \nyang \nberkaitan \ndengan \nkegiatan \ntransaksi \nyang \nmelibatkan pertukaran mata uang dari 2 (dua) negara \nyang berbeda beserta derivatifnya, tetapi tidak termasuk \npenukaran bank notes yang diselenggarakan oleh kegiatan \nusaha penukaran valuta asing. \n2. \nBank Mitra Dalam Negeri (Domestic Partner Bank) yang \nselanjutnya \ndisebut \nDPB \nadalah \nbank \numum \nsebagaimana dimaksud dalam Undang-Undang mengenai \nperbankan dan Undang-Undang mengenai perbankan \nsyariah, termasuk kantor cabang dari bank yang \nberkedudukan di luar negeri, yang ditetapkan Bank \nIndonesia dan memiliki kemitraan dengan bank di luar \nnegeri guna memfasilitasi transaksi Pasar Valuta Asing \nuntuk lindung nilai yang dilakukan investor global \nterdaftar. \n3. \nBank Mitra Luar Negeri (Overseas Partner Bank) yang \nselanjutnya disebut OPB adalah bank di luar negeri yang \nterdaftar di Bank Indonesia dan memiliki kemitraan \ndengan DPB guna memfasilitasi transaksi Pasar Valuta \nAsing untuk lindung nilai yang dilakukan investor global \nterdaftar. \n4. \nInvestor Global Terdaftar (Registered Global Investor) yang \nselanjutnya disebut RGI adalah investor global terdaftar di \nBank Indonesia yang melakukan transaksi Pasar Valuta \nAsing untuk lindung nilai.  \n5. \nTransaksi Pasar Valuta Asing untuk Lindung Nilai melalui \nBank Mitra yang selanjutnya disebut Transaksi Pasar \nValuta Asing melalui Bank Mitra adalah transaksi valuta \nasing terhadap rupiah untuk lindung nilai yang dilakukan \nRGI melalui OPB dan DPB. \n6. \nHari Kerja adalah hari kerja Bank Indonesia tidak \ntermasuk hari kerja operasional terbatas Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB I",
+      "bab_judul": "KETENTUAN UMUM",
+      "teks_lengkap": "Tujuan \npengaturan, \npengembangan, \ndan \npengawasan \nTransaksi Pasar Valuta Asing melalui Bank Mitra meliputi:  \na. \nmemastikan perumusan dan pelaksanaan pengaturan, \npengembangan, dan pengawasan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sejalan dengan tugas dan \nwewenang Bank Indonesia; \nb. \nsebagai peraturan pelaksanaan dari ketentuan Bank \nIndonesia mengenai pasar uang dan pasar valuta asing; \ndan \nc. \nmenjadi \npedoman \nbagi \npihak \neksternal \ndalam \nmelaksanakan Transaksi Pasar Valuta Asing melalui Bank \nMitra. \n \n \n\n\n \n \n \n \nBAB II \nKERANGKA KERJA PENGATURAN, PENGEMBANGAN,  \nDAN PENGAWASAN TRANSAKSI PASAR VALUTA ASING \nMELALUI BANK MITRA",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Tujuan \npengaturan, \npengembangan, \ndan \npengawasan \nTransaksi Pasar Valuta Asing melalui Bank Mitra meliputi:  \na. \nmemastikan perumusan dan pelaksanaan pengaturan, \npengembangan, dan pengawasan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sejalan dengan tugas dan \nwewenang Bank Indonesia; \nb. \nsebagai peraturan pelaksanaan dari ketentuan Bank \nIndonesia mengenai pasar uang dan pasar valuta asing; \ndan \nc. \nmenjadi \npedoman \nbagi \npihak \neksternal \ndalam \nmelaksanakan Transaksi Pasar Valuta Asing melalui Bank \nMitra. \n \n \n\n\n \n \n \n \nBAB II \nKERANGKA KERJA PENGATURAN, PENGEMBANGAN,  \nDAN PENGAWASAN TRANSAKSI PASAR VALUTA ASING \nMELALUI BANK MITRA"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI PASAR VALUTA ASING MELALUI BANK MITRA",
+      "teks_lengkap": "Objek pengaturan, pengembangan, dan pengawasan Transaksi \nPasar Valuta Asing melalui Bank Mitra dalam Peraturan \nAnggota Dewan Gubernur ini meliputi: \na. \nDPB; \nb. \nOPB; dan \nc. \nRGI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Objek pengaturan, pengembangan, dan pengawasan Transaksi \nPasar Valuta Asing melalui Bank Mitra dalam Peraturan \nAnggota Dewan Gubernur ini meliputi: \na. \nDPB; \nb. \nOPB; dan \nc. \nRGI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB II",
+      "bab_judul": "KERANGKA KERJA PENGATURAN, PENGEMBANGAN, DAN PENGAWASAN TRANSAKSI PASAR VALUTA ASING MELALUI BANK MITRA",
+      "teks_lengkap": "Ruang lingkup pengaturan, pengembangan, dan pengawasan \nTransaksi Pasar Valuta Asing melalui Bank Mitra dalam \nPeraturan Anggota Dewan Gubernur ini meliputi: \na. \nproduk; \nb. \nharga acuan (pricing); \nc. \npelaku; \nd. \ntransaksi; \ne. \nperizinan; \nf. \ndata dan informasi; \ng. \npengawasan dan evaluasi; \nh. \ntata cara pengenaan sanksi; \ni. \nexit policy; dan \nj. \nkorespondensi. \n \nBAB III \nPRODUK",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ruang lingkup pengaturan, pengembangan, dan pengawasan \nTransaksi Pasar Valuta Asing melalui Bank Mitra dalam \nPeraturan Anggota Dewan Gubernur ini meliputi: \na. \nproduk; \nb. \nharga acuan (pricing); \nc. \npelaku; \nd. \ntransaksi; \ne. \nperizinan; \nf. \ndata dan informasi; \ng. \npengawasan dan evaluasi; \nh. \ntata cara pengenaan sanksi; \ni. \nexit policy; dan \nj. \nkorespondensi. \n \nBAB III \nPRODUK"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB III",
+      "bab_judul": "PRODUK",
+      "teks_lengkap": "Transaksi \nPasar \nValuta \nAsing \nmelalui \nBank \nMitra \nmenggunakan kontrak keuangan sebagaimana diatur dalam \nketentuan Bank Indonesia mengenai transaksi pasar valuta \nasing. \n \nBAB IV  \nHARGA ACUAN (PRICING)",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Transaksi \nPasar \nValuta \nAsing \nmelalui \nBank \nMitra \nmenggunakan kontrak keuangan sebagaimana diatur dalam \nketentuan Bank Indonesia mengenai transaksi pasar valuta \nasing. \n \nBAB IV  \nHARGA ACUAN (PRICING)"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB IV",
+      "bab_judul": "HARGA ACUAN (PRICING)",
+      "teks_lengkap": "(1) \nPelaksanaan Transaksi Pasar Valuta Asing melalui Bank \nMitra harus menggunakan harga acuan (pricing) yang \ntransparan, kokoh (robust), dan kredibel. \n(2) \nHarga acuan (pricing) sebagaimana dimaksud pada ayat (1) \ndapat berupa: \na. \nJakarta Interbank Spot Dollar Rate; \nb. \nkurs acuan non-USD/IDR; dan/atau \nc. \nharga acuan lain. \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB V  \nPELAKU",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan Transaksi Pasar Valuta Asing melalui Bank \nMitra harus menggunakan harga acuan (pricing) yang \ntransparan, kokoh (robust), dan kredibel."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Harga acuan (pricing) sebagaimana dimaksud pada ayat (1) \ndapat berupa: \na. \nJakarta Interbank Spot Dollar Rate; \nb. \nkurs acuan non-USD/IDR; dan/atau \nc. \nharga acuan lain. \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB V  \nPELAKU"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKU",
+      "teks_lengkap": "Jenis pelaku Transaksi Pasar Valuta Asing melalui Bank Mitra \nmeliputi: \na. \nDPB; \nb. \nOPB; dan \nc. \nRGI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Jenis pelaku Transaksi Pasar Valuta Asing melalui Bank Mitra \nmeliputi: \na. \nDPB; \nb. \nOPB; dan \nc. \nRGI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKU",
+      "teks_lengkap": "(1) \nDalam melakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra: \na. \nDPB harus memiliki kemitraan dengan OPB; dan  \nb. \nOPB sebagaimana dimaksud dalam huruf a harus \nmemiliki kemitraan dengan RGI.  \n(2) \nPelaku sebagaimana dimaksud dalam Pasal 7 melakukan \nkemitraan sebagaimana dimaksud pada ayat (1) dengan 1 \n(satu) atau lebih dari 1 (satu) pelaku. \n(3) \nOPB dan RGI sebagaimana dimaksud pada ayat (1) dapat \nmerupakan pihak yang sama.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam melakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra: \na. \nDPB harus memiliki kemitraan dengan OPB; dan  \nb. \nOPB sebagaimana dimaksud dalam huruf a harus \nmemiliki kemitraan dengan RGI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pelaku sebagaimana dimaksud dalam Pasal 7 melakukan \nkemitraan sebagaimana dimaksud pada ayat (1) dengan 1 \n(satu) atau lebih dari 1 (satu) pelaku."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "OPB dan RGI sebagaimana dimaksud pada ayat (1) dapat \nmerupakan pihak yang sama."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB V",
+      "bab_judul": "PELAKU",
+      "teks_lengkap": "Dalam Transaksi Pasar Valuta Asing melalui Bank Mitra:  \na. \nDPB menerapkan prinsip kehati-hatian dan manajemen \nrisiko yang efektif sesuai dengan ketentuan Bank \nIndonesia mengenai transaksi pasar valuta asing; dan \nb. \nOPB menerapkan prinsip kehati-hatian dan manajemen \nrisiko yang efektif sesuai dengan ketentuan di yurisdiksi \nOPB. \n \nBAB VI  \nTRANSAKSI \n \nBagian Kesatu  \nCakupan Aset Investasi Portofolio RGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam Transaksi Pasar Valuta Asing melalui Bank Mitra:  \na. \nDPB menerapkan prinsip kehati-hatian dan manajemen \nrisiko yang efektif sesuai dengan ketentuan Bank \nIndonesia mengenai transaksi pasar valuta asing; dan \nb. \nOPB menerapkan prinsip kehati-hatian dan manajemen \nrisiko yang efektif sesuai dengan ketentuan di yurisdiksi \nOPB. \n \nBAB VI  \nTRANSAKSI \n \nBagian Kesatu  \nCakupan Aset Investasi Portofolio RGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "(1) \nRGI melakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra berdasarkan kepemilikan aset investasi \nportofolio di Indonesia yang tercatat atas nama RGI. \n(2) \nAset investasi portofolio sebagaimana dimaksud pada  \nayat (1) mencakup: \na. \nsurat berharga negara yang berdenominasi rupiah; \nb. \nsekuritas rupiah Bank Indonesia;  \nc. \nsukuk Bank Indonesia; dan/atau \nd. \ninstrumen lain yang berdenominasi rupiah yang \nditetapkan Bank Indonesia. \n(3) \nBank Indonesia memublikasikan instrumen lain yang \nberdenominasi rupiah yang ditetapkan Bank Indonesia \nsebagaimana dimaksud pada ayat (2) huruf d melalui \nsurat, laman Bank Indonesia, dan/atau media lain yang \nditetapkan Bank Indonesia. \n \n \n\n\n \n \n \n \nBagian Kedua  \nCakupan Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "RGI melakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra berdasarkan kepemilikan aset investasi \nportofolio di Indonesia yang tercatat atas nama RGI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Aset investasi portofolio sebagaimana dimaksud pada  \nayat (1) mencakup: \na. \nsurat berharga negara yang berdenominasi rupiah; \nb. \nsekuritas rupiah Bank Indonesia;  \nc. \nsukuk Bank Indonesia; dan/atau \nd. \ninstrumen lain yang berdenominasi rupiah yang \nditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia memublikasikan instrumen lain yang \nberdenominasi rupiah yang ditetapkan Bank Indonesia \nsebagaimana dimaksud pada ayat (2) huruf d melalui \nsurat, laman Bank Indonesia, dan/atau media lain yang \nditetapkan Bank Indonesia. \n \n \n\n\n \n \n \n \nBagian Kedua  \nCakupan Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "(1) \nTransaksi Pasar Valuta Asing melalui Bank Mitra \nmencakup: \na. \ntransaksi beli valuta asing terhadap rupiah berupa: \n1. \nforward; \n2. \ndomestic non-deliverable forward;  \n3. \nswap; dan \n4. \ntransaksi beli valuta asing terhadap rupiah lain \nyang ditetapkan Bank Indonesia; dan \nb. \ntransaksi jual valuta asing terhadap rupiah berupa: \n1. \nforward;  \n2. \ndomestic non-deliverable forward; dan \n3. \ntransaksi jual valuta asing terhadap rupiah lain \nyang ditetapkan Bank Indonesia. \n(2) \nBank \nIndonesia \nmemublikasikan \ntransaksi \nlain \nsebagaimana dimaksud pada ayat (1) huruf a angka 4 dan \nhuruf b angka 3 melalui surat, laman Bank Indonesia, \ndan/atau media lain yang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi Pasar Valuta Asing melalui Bank Mitra \nmencakup: \na. \ntransaksi beli valuta asing terhadap rupiah berupa: \n1. \nforward; \n2. \ndomestic non-deliverable forward;  \n3. \nswap; dan \n4. \ntransaksi beli valuta asing terhadap rupiah lain \nyang ditetapkan Bank Indonesia; dan \nb. \ntransaksi jual valuta asing terhadap rupiah berupa: \n1. \nforward;  \n2. \ndomestic non-deliverable forward; dan \n3. \ntransaksi jual valuta asing terhadap rupiah lain \nyang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \nmemublikasikan \ntransaksi \nlain \nsebagaimana dimaksud pada ayat (1) huruf a angka 4 dan \nhuruf b angka 3 melalui surat, laman Bank Indonesia, \ndan/atau media lain yang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "(1) \nMata uang valuta asing yang digunakan dalam Transaksi \nPasar Valuta Asing melalui Bank Mitra sebagaimana \ndimaksud dalam Pasal 11 meliputi:  \na. \nmata uang utama (major currency); dan  \nb. \nmata uang lain yang ditetapkan Bank Indonesia. \n(2) \nBank Indonesia memublikasikan daftar mata uang yang \ndigunakan dalam Transaksi Pasar Valuta Asing melalui \nBank Mitra sebagaimana dimaksud pada ayat (1) melalui \nsurat, laman Bank Indonesia, dan/atau media lain yang \nditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Mata uang valuta asing yang digunakan dalam Transaksi \nPasar Valuta Asing melalui Bank Mitra sebagaimana \ndimaksud dalam Pasal 11 meliputi:  \na. \nmata uang utama (major currency); dan  \nb. \nmata uang lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia memublikasikan daftar mata uang yang \ndigunakan dalam Transaksi Pasar Valuta Asing melalui \nBank Mitra sebagaimana dimaksud pada ayat (1) melalui \nsurat, laman Bank Indonesia, dan/atau media lain yang \nditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "(1) \nTransaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 11, dapat dilakukan: \na. \nperpanjangan transaksi (roll over); \nb. \npengakhiran awal (early termination); dan/atau \nc. \npengakhiran transaksi (unwind), \nsepanjang disepakati kedua belah pihak secara tertulis. \n(2) \nPenyelesaian dana rupiah dalam Transaksi Pasar Valuta \nAsing melalui Bank Mitra dilakukan di Indonesia. \n \nBagian Ketiga  \nNilai Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 11, dapat dilakukan: \na. \nperpanjangan transaksi (roll over); \nb. \npengakhiran awal (early termination); dan/atau \nc. \npengakhiran transaksi (unwind), \nsepanjang disepakati kedua belah pihak secara tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyelesaian dana rupiah dalam Transaksi Pasar Valuta \nAsing melalui Bank Mitra dilakukan di Indonesia. \n \nBagian Ketiga  \nNilai Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "(1) \nPosisi (outstanding) atas transaksi beli valuta asing \nterhadap rupiah untuk Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud dalam Pasal \n11 ayat (1) huruf a paling banyak sebesar 100% (seratus \npersen) dari nilai aset investasi portofolio di Indonesia \nsebagaimana dimaksud dalam Pasal 10. \n \n \n\n\n \n \n \n \n(2) \nPosisi (outstanding) atas transaksi beli valuta asing \nterhadap rupiah sebagaimana dimaksud pada ayat (1) \nmemperhitungkan \npenyesuaian \ntransaksi \nberupa \nperpanjangan transaksi (roll over), pengakhiran awal (early \ntermination), dan/atau pengakhiran transaksi (unwind) \nyang dilakukan atas transaksi beli valuta asing terhadap \nrupiah. \n(3) \nPosisi (outstanding) atas transaksi jual valuta asing \nterhadap rupiah untuk Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud dalam Pasal \n11 ayat (1) huruf b paling banyak sebesar 25% (dua puluh \nlima persen) dari nilai aset investasi portofolio di Indonesia \nsebagaimana dimaksud dalam Pasal 10. \n(4) \nPosisi (outstanding) atas transaksi jual valuta asing \nterhadap rupiah sebagaimana dimaksud pada ayat (3)  \nmemperhitungkan \npenyesuaian \ntransaksi \nberupa \nperpanjangan transaksi (roll over), pengakhiran awal (early \ntermination), dan/atau pengakhiran transaksi (unwind) \nyang dilakukan atas transaksi jual valuta asing terhadap \nrupiah. \n(5) \nNilai aset investasi portofolio di Indonesia sebagaimana \ndimaksud pada ayat (1) dan ayat (3) dihitung dengan \nketentuan: \na. \nberdasarkan nilai nominal atas investasi portofolio \npada 1 (satu) Hari Kerja sebelum tanggal Transaksi \nPasar Valuta Asing melalui Bank Mitra; dan \nb. \nmenggunakan kurs acuan: \n1. \nJakarta Interbank Spot Dollar Rate; dan/atau \n2. \nkurs acuan non-USD/IDR, \nsebagaimana diatur dalam ketentuan Bank Indonesia \nmengenai transaksi pasar valuta asing.  \n(6) \nDalam hal mata uang Transaksi Pasar Valuta Asing \nmelalui Bank Mitra tidak terdapat dalam kurs acuan \nsebagaimana dimaksud pada ayat (5) huruf b, digunakan \nkurs acuan lain yang ditetapkan Bank Indonesia. \n(7) \nBank Indonesia memublikasikan kurs acuan lain yang \nditetapkan Bank Indonesia sebagaimana dimaksud pada \nayat (6) melalui surat, laman Bank Indonesia, dan/atau \nmedia lain yang ditetapkan Bank Indonesia. \n \nBagian Keempat  \nMekanisme Transaksi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Posisi (outstanding) atas transaksi beli valuta asing \nterhadap rupiah untuk Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud dalam Pasal \n11 ayat (1) huruf a paling banyak sebesar 100% (seratus \npersen) dari nilai aset investasi portofolio di Indonesia \nsebagaimana dimaksud dalam Pasal 10."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Posisi (outstanding) atas transaksi beli valuta asing \nterhadap rupiah sebagaimana dimaksud pada ayat (1) \nmemperhitungkan \npenyesuaian \ntransaksi \nberupa \nperpanjangan transaksi (roll over), pengakhiran awal (early \ntermination), dan/atau pengakhiran transaksi (unwind) \nyang dilakukan atas transaksi beli valuta asing terhadap \nrupiah."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Posisi (outstanding) atas transaksi jual valuta asing \nterhadap rupiah untuk Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud dalam Pasal \n11 ayat (1) huruf b paling banyak sebesar 25% (dua puluh \nlima persen) dari nilai aset investasi portofolio di Indonesia \nsebagaimana dimaksud dalam Pasal 10."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Posisi (outstanding) atas transaksi jual valuta asing \nterhadap rupiah sebagaimana dimaksud pada ayat (3)  \nmemperhitungkan \npenyesuaian \ntransaksi \nberupa \nperpanjangan transaksi (roll over), pengakhiran awal (early \ntermination), dan/atau pengakhiran transaksi (unwind) \nyang dilakukan atas transaksi jual valuta asing terhadap \nrupiah."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Nilai aset investasi portofolio di Indonesia sebagaimana \ndimaksud pada ayat (1) dan ayat (3) dihitung dengan \nketentuan: \na. \nberdasarkan nilai nominal atas investasi portofolio \npada 1 (satu) Hari Kerja sebelum tanggal Transaksi \nPasar Valuta Asing melalui Bank Mitra; dan \nb. \nmenggunakan kurs acuan: \n1. \nJakarta Interbank Spot Dollar Rate; dan/atau \n2. \nkurs acuan non-USD/IDR, \nsebagaimana diatur dalam ketentuan Bank Indonesia \nmengenai transaksi pasar valuta asing."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Dalam hal mata uang Transaksi Pasar Valuta Asing \nmelalui Bank Mitra tidak terdapat dalam kurs acuan \nsebagaimana dimaksud pada ayat (5) huruf b, digunakan \nkurs acuan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Bank Indonesia memublikasikan kurs acuan lain yang \nditetapkan Bank Indonesia sebagaimana dimaksud pada \nayat (6) melalui surat, laman Bank Indonesia, dan/atau \nmedia lain yang ditetapkan Bank Indonesia. \n \nBagian Keempat  \nMekanisme Transaksi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "(1) \nTransaksi Pasar Valuta Asing melalui Bank Mitra \ndilakukan dengan mekanisme: \na. \nRGI melakukan transaksi valuta asing terhadap \nrupiah sebagaimana dimaksud dalam Pasal 11  \nayat (1) dengan OPB; \nb. \nsetelah transaksi valuta asing terhadap rupiah yang \ndilakukan \nRGI \nsebagaimana \ndimaksud \ndalam  \nhuruf a, OPB melakukan transaksi valuta asing \nterhadap rupiah dengan DPB; dan \n \n\n\n \n \n \n \nc. \ntransaksi valuta asing terhadap rupiah antara OPB \ndengan DPB sebagaimana dimaksud dalam huruf b  \ndilakukan dengan rincian: \n1. \njenis transaksi; \n2. \nmata uang;  \n3. \nnominal;  \n4. \njangka waktu; dan \n5. \ntanggal transaksi, \nyang sama dengan transaksi antara OPB dengan RGI \nsebagaimana dimaksud dalam huruf a. \n(2) \nDalam hal RGI merupakan pihak yang terdaftar sebagai \nOPB, Transaksi Pasar Valuta Asing melalui Bank Mitra \ndapat dilakukan secara langsung oleh RGI dengan DPB.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi Pasar Valuta Asing melalui Bank Mitra \ndilakukan dengan mekanisme: \na. \nRGI melakukan transaksi valuta asing terhadap \nrupiah sebagaimana dimaksud dalam Pasal 11  \nayat (1) dengan OPB; \nb. \nsetelah transaksi valuta asing terhadap rupiah yang \ndilakukan \nRGI \nsebagaimana \ndimaksud \ndalam  \nhuruf a, OPB melakukan transaksi valuta asing \nterhadap rupiah dengan DPB; dan \n \n\n\n \n \n \n \nc. \ntransaksi valuta asing terhadap rupiah antara OPB \ndengan DPB sebagaimana dimaksud dalam huruf b  \ndilakukan dengan rincian: \n1. \njenis transaksi; \n2. \nmata uang;  \n3. \nnominal;  \n4. \njangka waktu; dan \n5. \ntanggal transaksi, \nyang sama dengan transaksi antara OPB dengan RGI \nsebagaimana dimaksud dalam huruf a."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal RGI merupakan pihak yang terdaftar sebagai \nOPB, Transaksi Pasar Valuta Asing melalui Bank Mitra \ndapat dilakukan secara langsung oleh RGI dengan DPB."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB VI",
+      "bab_judul": "TRANSAKSI",
+      "teks_lengkap": "Setelah pelaksanaan Transaksi Pasar Valuta Asing melalui \nBank Mitra sebagaimana dimaksud dalam Pasal 15, DPB dapat \nmengajukan transaksi lindung nilai kepada Bank Indonesia \nsesuai dengan ketentuan Bank Indonesia mengenai operasi \nmoneter valuta asing. \n \nBAB VII  \nPERIZINAN \n \nBagian Kesatu  \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Setelah pelaksanaan Transaksi Pasar Valuta Asing melalui \nBank Mitra sebagaimana dimaksud dalam Pasal 15, DPB dapat \nmengajukan transaksi lindung nilai kepada Bank Indonesia \nsesuai dengan ketentuan Bank Indonesia mengenai operasi \nmoneter valuta asing. \n \nBAB VII  \nPERIZINAN \n \nBagian Kesatu  \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "Perizinan dalam Transaksi Pasar Valuta Asing melalui Bank \nMitra terdiri atas: \na. \npenetapan DPB; \nb. \npendaftaran OPB dan/atau RGI; dan \nc. \npersetujuan terkait kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud dalam \nPasal 8 meliputi: \n1. \npembentukan kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra; dan \n2. \npengakhiran kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Perizinan dalam Transaksi Pasar Valuta Asing melalui Bank \nMitra terdiri atas: \na. \npenetapan DPB; \nb. \npendaftaran OPB dan/atau RGI; dan \nc. \npersetujuan terkait kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud dalam \nPasal 8 meliputi: \n1. \npembentukan kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra; dan \n2. \npengakhiran kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nSebelum melakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra: \na. \nDPB harus ditetapkan Bank Indonesia; \nb. \nOPB dan RGI harus terdaftar di Bank Indonesia \nmelalui DPB yang telah ditetapkan sebagaimana \ndimaksud dalam huruf a; dan \nc. \nberdasarkan penetapan DPB sebagaimana dimaksud \ndalam huruf a serta pendaftaran OPB dan RGI \nsebagaimana dimaksud dalam huruf b, DPB harus \nmendapatkan persetujuan pembentukan kemitraan \nTransaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 17 huruf c  \nangka 1 dari Bank Indonesia. \n \n\n\n \n \n \n \n(2) \nPenetapan DPB sebagaimana dimaksud pada ayat (1) \nhuruf a diatur dengan ketentuan: \na. \nDPB \nharus \nmemiliki \nkemitraan \nsebagaimana \ndimaksud dalam Pasal 8;  \nb. \ndalam \nhal \nDPB \ntidak \nmemiliki \nkemitraan \nsebagaimana dimaksud dalam huruf a, DPB harus \nmengajukan \npembentukan \nkemitraan \nTransaksi \nPasar Valuta Asing melalui Bank Mitra sebagaimana \ndimaksud dalam Pasal 17 huruf c angka 1; dan \nc. \npengajuan pembentukan kemitraan sebagaimana \ndimaksud dalam huruf b dilakukan dengan paling \nsedikit 1 (satu) OPB atau 1 (satu) calon OPB, serta 1 \n(satu) RGI atau 1 (satu) calon RGI, paling lambat 40 \n(empat puluh) Hari Kerja sejak tanggal penetapan \natau kemitraan lama berakhir. \n(3) \nDalam hal sampai dengan batas waktu sebagaimana \ndimaksud pada ayat (2) huruf c DPB belum mengajukan \npembentukan kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, penetapan DPB menjadi tidak \nberlaku. \n(4) \nPersetujuan pembentukan kemitraan Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana dimaksud \npada ayat (1) huruf c dilakukan dengan ketentuan:  \na. \njika kemitraan akan dilakukan dengan calon OPB \ndan/atau calon RGI yang belum terdaftar di Bank \nIndonesia, DPB mengajukan pembentukan kemitraan \nkepada \nBank \nIndonesia \nbersamaan \ndengan \npendaftaran OPB dan/atau RGI; atau \nb. \njika kemitraan akan dilakukan dengan OPB dan RGI \nyang telah terdaftar di Bank Indonesia, DPB \nmengajukan pembentukan kemitraan kepada Bank \nIndonesia. \n \nBagian Kedua \nPenetapan DPB",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sebelum melakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra: \na. \nDPB harus ditetapkan Bank Indonesia; \nb. \nOPB dan RGI harus terdaftar di Bank Indonesia \nmelalui DPB yang telah ditetapkan sebagaimana \ndimaksud dalam huruf a; dan \nc. \nberdasarkan penetapan DPB sebagaimana dimaksud \ndalam huruf a serta pendaftaran OPB dan RGI \nsebagaimana dimaksud dalam huruf b, DPB harus \nmendapatkan persetujuan pembentukan kemitraan \nTransaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 17 huruf c  \nangka 1 dari Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan DPB sebagaimana dimaksud pada ayat (1) \nhuruf a diatur dengan ketentuan: \na. \nDPB \nharus \nmemiliki \nkemitraan \nsebagaimana \ndimaksud dalam Pasal 8;  \nb. \ndalam \nhal \nDPB \ntidak \nmemiliki \nkemitraan \nsebagaimana dimaksud dalam huruf a, DPB harus \nmengajukan \npembentukan \nkemitraan \nTransaksi \nPasar Valuta Asing melalui Bank Mitra sebagaimana \ndimaksud dalam Pasal 17 huruf c angka 1; dan \nc. \npengajuan pembentukan kemitraan sebagaimana \ndimaksud dalam huruf b dilakukan dengan paling \nsedikit 1 (satu) OPB atau 1 (satu) calon OPB, serta 1 \n(satu) RGI atau 1 (satu) calon RGI, paling lambat 40 \n(empat puluh) Hari Kerja sejak tanggal penetapan \natau kemitraan lama berakhir."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal sampai dengan batas waktu sebagaimana \ndimaksud pada ayat (2) huruf c DPB belum mengajukan \npembentukan kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, penetapan DPB menjadi tidak \nberlaku."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Persetujuan pembentukan kemitraan Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana dimaksud \npada ayat (1) huruf c dilakukan dengan ketentuan:  \na. \njika kemitraan akan dilakukan dengan calon OPB \ndan/atau calon RGI yang belum terdaftar di Bank \nIndonesia, DPB mengajukan pembentukan kemitraan \nkepada \nBank \nIndonesia \nbersamaan \ndengan \npendaftaran OPB dan/atau RGI; atau \nb. \njika kemitraan akan dilakukan dengan OPB dan RGI \nyang telah terdaftar di Bank Indonesia, DPB \nmengajukan pembentukan kemitraan kepada Bank \nIndonesia. \n \nBagian Kedua \nPenetapan DPB"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nBank Indonesia berwenang menetapkan DPB sebagaimana \ndimaksud dalam Pasal 17 huruf a. \n(2) \nPenetapan sebagaimana dimaksud pada ayat (1) dilakukan \ndengan pertimbangan: \na. \nupaya \npencapaian \nsasaran \npengaturan, \npengembangan, dan pengawasan Pasar Valuta Asing; \ndan/atau \nb. \npertimbangan lain yang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia berwenang menetapkan DPB sebagaimana \ndimaksud dalam Pasal 17 huruf a."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penetapan sebagaimana dimaksud pada ayat (1) dilakukan \ndengan pertimbangan: \na. \nupaya \npencapaian \nsasaran \npengaturan, \npengembangan, dan pengawasan Pasar Valuta Asing; \ndan/atau \nb. \npertimbangan lain yang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "DPB sebagaimana dimaksud dalam Pasal 19 ayat (1) harus \nmemenuhi kriteria: \na. \nmerupakan dealer utama pasar uang dan Pasar Valuta \nAsing dan/atau bank umum lain; dan \nb. \nberkomitmen untuk: \n1. \nmemfasilitasi Transaksi Pasar Valuta Asing melalui \nBank Mitra sesuai dengan mekanisme sebagaimana \ndimaksud dalam Pasal 15;  \n\n\n \n \n \n \n2. \nmemfasilitasi Transaksi Pasar Valuta Asing melalui \nBank Mitra untuk tujuan lindung nilai; dan \n3. \nmemenuhi ketentuan mengenai Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana diatur \ndalam Peraturan Anggota Dewan Gubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "DPB sebagaimana dimaksud dalam Pasal 19 ayat (1) harus \nmemenuhi kriteria: \na. \nmerupakan dealer utama pasar uang dan Pasar Valuta \nAsing dan/atau bank umum lain; dan \nb. \nberkomitmen untuk: \n1. \nmemfasilitasi Transaksi Pasar Valuta Asing melalui \nBank Mitra sesuai dengan mekanisme sebagaimana \ndimaksud dalam Pasal 15;  \n\n\n \n \n \n \n2. \nmemfasilitasi Transaksi Pasar Valuta Asing melalui \nBank Mitra untuk tujuan lindung nilai; dan \n3. \nmemenuhi ketentuan mengenai Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana diatur \ndalam Peraturan Anggota Dewan Gubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nDalam hal Bank Indonesia akan menetapkan DPB \nsebagaimana dimaksud dalam Pasal 19, Bank Indonesia \nmenyampaikan surat rencana penetapan kepada pihak \nyang akan ditetapkan sebagai DPB. \n(2) \nMenindaklanjuti surat rencana penetapan sebagaimana \ndimaksud pada ayat (1), pihak yang akan ditetapkan \nsebagai \nDPB \nmenyampaikan \ndokumen \npendukung \npenetapan. \n(3) \nDokumen pendukung penetapan sebagaimana dimaksud \npada ayat (2) paling sedikit berupa: \na. \nsurat pernyataan yang memuat:  \n1. \nkesediaan untuk ditetapkan sebagai DPB; dan \n2. \nkomitmen DPB sebagaimana dimaksud dalam \nPasal 20 huruf b,  \nyang paling sedikit ditandatangani 1 (satu) orang \npejabat setingkat direktur; dan \nb. \ndaftar rencana kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra. \n \nBagian Ketiga \nPendaftaran OPB dan RGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal Bank Indonesia akan menetapkan DPB \nsebagaimana dimaksud dalam Pasal 19, Bank Indonesia \nmenyampaikan surat rencana penetapan kepada pihak \nyang akan ditetapkan sebagai DPB."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Menindaklanjuti surat rencana penetapan sebagaimana \ndimaksud pada ayat (1), pihak yang akan ditetapkan \nsebagai \nDPB \nmenyampaikan \ndokumen \npendukung \npenetapan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dokumen pendukung penetapan sebagaimana dimaksud \npada ayat (2) paling sedikit berupa: \na. \nsurat pernyataan yang memuat:  \n1. \nkesediaan untuk ditetapkan sebagai DPB; dan \n2. \nkomitmen DPB sebagaimana dimaksud dalam \nPasal 20 huruf b,  \nyang paling sedikit ditandatangani 1 (satu) orang \npejabat setingkat direktur; dan \nb. \ndaftar rencana kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra. \n \nBagian Ketiga \nPendaftaran OPB dan RGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nOPB sebagaimana dimaksud dalam Pasal 17 huruf b harus \nmemenuhi kriteria: \na. \nmerupakan bank yang berkedudukan di luar negeri; \ndan \nb. \nberkomitmen untuk: \n1. \nmelakukan Transaksi Pasar Valuta Asing melalui \nBank \nMitra \nsesuai \ndengan \nmekanisme \nsebagaimana \ndimaksud \ndalam  \nPasal 15;  \n2. \nmemfasilitasi Transaksi Pasar Valuta Asing \nmelalui Bank Mitra untuk tujuan lindung  \nnilai; dan \n3. \nmemenuhi ketentuan mengenai Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana \ndiatur \ndalam \nPeraturan \nAnggota \nDewan \nGubernur ini. \n(2) \nRGI sebagaimana dimaksud dalam Pasal 17 huruf b harus \nmemenuhi kriteria: \na. \nmerupakan nasabah dari OPB; \nb. \nmerupakan institutional investor yang bertransaksi \natas kepentingan diri sendiri dan/atau pihak lain; \nc. \nmemiliki aset investasi portofolio di Indonesia \nsebagaimana dimaksud dalam Pasal 10; dan \n \n \n \n\n\n \n \n \n \nd. \nberkomitmen untuk: \n1. \nmelakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra untuk tujuan lindung nilai; \n2. \nmemberikan kesediaan atas penggunaan data \nRGI kepada Bank Indonesia terkait aktivitas \nTransaksi Pasar Valuta Asing melalui Bank Mitra \nyang ada di pihak ketiga; dan \n3. \nmemenuhi ketentuan mengenai Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana \ndiatur \ndalam \nPeraturan \nAnggota \nDewan \nGubernur ini.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "OPB sebagaimana dimaksud dalam Pasal 17 huruf b harus \nmemenuhi kriteria: \na. \nmerupakan bank yang berkedudukan di luar negeri; \ndan \nb. \nberkomitmen untuk: \n1. \nmelakukan Transaksi Pasar Valuta Asing melalui \nBank \nMitra \nsesuai \ndengan \nmekanisme \nsebagaimana \ndimaksud \ndalam  \nPasal 15;  \n2. \nmemfasilitasi Transaksi Pasar Valuta Asing \nmelalui Bank Mitra untuk tujuan lindung  \nnilai; dan \n3. \nmemenuhi ketentuan mengenai Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana \ndiatur \ndalam \nPeraturan \nAnggota \nDewan \nGubernur ini."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "RGI sebagaimana dimaksud dalam Pasal 17 huruf b harus \nmemenuhi kriteria: \na. \nmerupakan nasabah dari OPB; \nb. \nmerupakan institutional investor yang bertransaksi \natas kepentingan diri sendiri dan/atau pihak lain; \nc. \nmemiliki aset investasi portofolio di Indonesia \nsebagaimana dimaksud dalam Pasal 10; dan \n \n \n \n\n\n \n \n \n \nd. \nberkomitmen untuk: \n1. \nmelakukan Transaksi Pasar Valuta Asing melalui \nBank Mitra untuk tujuan lindung nilai; \n2. \nmemberikan kesediaan atas penggunaan data \nRGI kepada Bank Indonesia terkait aktivitas \nTransaksi Pasar Valuta Asing melalui Bank Mitra \nyang ada di pihak ketiga; dan \n3. \nmemenuhi ketentuan mengenai Transaksi Pasar \nValuta Asing melalui Bank Mitra sebagaimana \ndiatur \ndalam \nPeraturan \nAnggota \nDewan \nGubernur ini."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nPermohonan pendaftaran OPB dan/atau RGI sebagaimana \ndimaksud dalam Pasal 17 huruf b dilakukan dengan \nketentuan: \na. \nuntuk permohonan pendaftaran OPB, calon OPB \nmengajukan permohonan pendaftaran ke Bank \nIndonesia melalui DPB; \nb. \nuntuk permohonan pendaftaran RGI: \n1. \ncalon RGI mengajukan permohonan pendaftaran \nke Bank Indonesia melalui OPB atau calon  \nOPB; dan \n2. \nOPB atau calon OPB sebagaimana dimaksud \npada \nangka \nmeneruskan \npermohonan \npendaftaran dari calon RGI kepada Bank \nIndonesia melalui DPB; dan \nc. \nDPB menyampaikan permohonan pendaftaran OPB \nsebagaimana dimaksud dalam  huruf a dan/atau \npermohonan \npendaftaran \nRGI \nsebagaimana \ndimaksud dalam huruf b kepada Bank Indonesia. \n(2) \nPenyampaian permohonan pendaftaran OPB dan/atau \nRGI oleh DPB sebagaimana dimaksud pada ayat (1)  \nhuruf \nc \ndisertai \ndengan \npermohonan \npersetujuan \npembentukan kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud dalam  \nPasal 18 ayat (4) huruf a.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Permohonan pendaftaran OPB dan/atau RGI sebagaimana \ndimaksud dalam Pasal 17 huruf b dilakukan dengan \nketentuan: \na. \nuntuk permohonan pendaftaran OPB, calon OPB \nmengajukan permohonan pendaftaran ke Bank \nIndonesia melalui DPB; \nb. \nuntuk permohonan pendaftaran RGI: \n1. \ncalon RGI mengajukan permohonan pendaftaran \nke Bank Indonesia melalui OPB atau calon  \nOPB; dan \n2. \nOPB atau calon OPB sebagaimana dimaksud \npada \nangka \nmeneruskan \npermohonan \npendaftaran dari calon RGI kepada Bank \nIndonesia melalui DPB; dan \nc. \nDPB menyampaikan permohonan pendaftaran OPB \nsebagaimana dimaksud dalam  huruf a dan/atau \npermohonan \npendaftaran \nRGI \nsebagaimana \ndimaksud dalam huruf b kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian permohonan pendaftaran OPB dan/atau \nRGI oleh DPB sebagaimana dimaksud pada ayat (1)  \nhuruf \nc \ndisertai \ndengan \npermohonan \npersetujuan \npembentukan kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud dalam  \nPasal 18 ayat (4) huruf a."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "Dokumen permohonan pendaftaran OPB dan/atau RGI yang \ndisertai permohonan persetujuan pembentukan kemitraan \nTransaksi Pasar Valuta Asing melalui Bank Mitra sebagaimana \ndimaksud dalam Pasal 23 mencakup: \na. \nsurat \npenyampaian \npermohonan \npendaftaran \nOPB \ndan/atau \nRGI \ndisertai \npermohonan \npersetujuan \npembentukan kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, yang paling sedikit ditandatangani 1 \n(satu) orang pejabat DPB setingkat direktur; \nb. \njika terdapat permohonan pendaftaran OPB, dokumen \npermohonan pendaftaran OPB; \nc. \njika terdapat permohonan pendaftaran RGI, dokumen \npermohonan pendaftaran RGI;  \nd. \ndaftar kemitraan Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan \n \n \n\n\n \n \n \n \ne. \nsurat pernyataan kemitraan, yang ditandatangani: \n1. \npejabat DPB setingkat direktur; dan \n2. \npejabat yang berwenang mewakili OPB berdasarkan \nketentuan internal perusahaan dan/atau pejabat \nyang \nberwenang \nmewakili \nRGI \nberdasarkan \nketentuan internal perusahaan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dokumen permohonan pendaftaran OPB dan/atau RGI yang \ndisertai permohonan persetujuan pembentukan kemitraan \nTransaksi Pasar Valuta Asing melalui Bank Mitra sebagaimana \ndimaksud dalam Pasal 23 mencakup: \na. \nsurat \npenyampaian \npermohonan \npendaftaran \nOPB \ndan/atau \nRGI \ndisertai \npermohonan \npersetujuan \npembentukan kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, yang paling sedikit ditandatangani 1 \n(satu) orang pejabat DPB setingkat direktur; \nb. \njika terdapat permohonan pendaftaran OPB, dokumen \npermohonan pendaftaran OPB; \nc. \njika terdapat permohonan pendaftaran RGI, dokumen \npermohonan pendaftaran RGI;  \nd. \ndaftar kemitraan Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan \n \n \n\n\n \n \n \n \ne. \nsurat pernyataan kemitraan, yang ditandatangani: \n1. \npejabat DPB setingkat direktur; dan \n2. \npejabat yang berwenang mewakili OPB berdasarkan \nketentuan internal perusahaan dan/atau pejabat \nyang \nberwenang \nmewakili \nRGI \nberdasarkan \nketentuan internal perusahaan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "Dokumen \npermohonan \npendaftaran \nOPB \nsebagaimana \ndimaksud dalam Pasal 24 huruf b paling sedikit berupa: \na. \nsurat permohonan pendaftaran dari calon OPB diatur \ndengan ketentuan: \n1. \nmemuat pernyataan komitmen dari calon OPB \nsebagaimana dimaksud dalam Pasal 22 ayat (1)  \nhuruf b; dan \n2. \npaling sedikit ditandatangani 1 (satu) orang pejabat \nyang berwenang mewakili calon OPB berdasarkan \nketentuan internal perusahaan; \nb. \ninformasi calon OPB yang paling sedikit meliputi: \n1. \nnama calon OPB; \n2. \nkontak korespondensi;  \n3. \nsingle investor identification, jika ada; dan \n4. \nlegal entity identifier, jika ada; dan \nc. \nsurat kuasa dari calon OPB kepada DPB untuk melakukan \npendaftaran kepada Bank Indonesia, yang ditandatangani: \n1. \npejabat \nyang \nberwenang \nmewakili \ncalon \nOPB \nberdasarkan ketentuan internal perusahaan; dan \n2. \npejabat DPB setingkat direktur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dokumen \npermohonan \npendaftaran \nOPB \nsebagaimana \ndimaksud dalam Pasal 24 huruf b paling sedikit berupa: \na. \nsurat permohonan pendaftaran dari calon OPB diatur \ndengan ketentuan: \n1. \nmemuat pernyataan komitmen dari calon OPB \nsebagaimana dimaksud dalam Pasal 22 ayat (1)  \nhuruf b; dan \n2. \npaling sedikit ditandatangani 1 (satu) orang pejabat \nyang berwenang mewakili calon OPB berdasarkan \nketentuan internal perusahaan; \nb. \ninformasi calon OPB yang paling sedikit meliputi: \n1. \nnama calon OPB; \n2. \nkontak korespondensi;  \n3. \nsingle investor identification, jika ada; dan \n4. \nlegal entity identifier, jika ada; dan \nc. \nsurat kuasa dari calon OPB kepada DPB untuk melakukan \npendaftaran kepada Bank Indonesia, yang ditandatangani: \n1. \npejabat \nyang \nberwenang \nmewakili \ncalon \nOPB \nberdasarkan ketentuan internal perusahaan; dan \n2. \npejabat DPB setingkat direktur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nDokumen permohonan pendaftaran RGI sebagaimana \ndimaksud dalam Pasal 24 huruf c paling sedikit berupa: \na. \nformulir permohonan pendaftaran dari calon RGI \ndiatur dengan ketentuan:  \n1. \nmemuat paling sedikit: \na) \ninformasi calon RGI: \n1) \nnama calon RGI; \n2) \nsingle investor identification;  \n3) \nlegal entity identifier, jika ada; dan \n4) \nkepemilikan aset investasi portofolio di \nIndonesia \nsebagaimana \ndimaksud \ndalam Pasal 10; dan \nb) \npernyataan \nkomitmen \ndari \ncalon \nRGI \nsebagaimana dimaksud dalam Pasal 22  \nayat (2) huruf d; dan \n2. \npaling sedikit ditandatangani 1 (satu) orang \npejabat \nyang \nberwenang \nmewakili \ncalon  \nRGI \nberdasarkan \nketentuan \ninternal \nperusahaan; dan \nb. \nsurat kuasa dari calon RGI kepada OPB atau calon \nOPB, serta DPB, untuk pendaftaran kepada Bank \nIndonesia yang ditandatangani: \n1. \npejabat yang berwenang mewakili calon RGI \nberdasarkan ketentuan internal perusahaan;  \n\n\n \n \n \n \n2. \npejabat berwenang mewakili OPB atau calon \nOPB \nberdasarkan \nketentuan \ninternal \nperusahaan; dan \n3. \npejabat DPB setingkat direktur. \n \nBagian Keempat \nPersetujuan terkait Kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dokumen permohonan pendaftaran RGI sebagaimana \ndimaksud dalam Pasal 24 huruf c paling sedikit berupa: \na. \nformulir permohonan pendaftaran dari calon RGI \ndiatur dengan ketentuan:  \n1. \nmemuat paling sedikit: \na) \ninformasi calon RGI: \n1) \nnama calon RGI; \n2) \nsingle investor identification;  \n3) \nlegal entity identifier, jika ada; dan \n4) \nkepemilikan aset investasi portofolio di \nIndonesia \nsebagaimana \ndimaksud \ndalam Pasal 10; dan \nb) \npernyataan \nkomitmen \ndari \ncalon \nRGI \nsebagaimana dimaksud dalam Pasal 22  \nayat (2) huruf d; dan \n2. \npaling sedikit ditandatangani 1 (satu) orang \npejabat \nyang \nberwenang \nmewakili \ncalon  \nRGI \nberdasarkan \nketentuan \ninternal \nperusahaan; dan \nb. \nsurat kuasa dari calon RGI kepada OPB atau calon \nOPB, serta DPB, untuk pendaftaran kepada Bank \nIndonesia yang ditandatangani: \n1. \npejabat yang berwenang mewakili calon RGI \nberdasarkan ketentuan internal perusahaan;  \n\n\n \n \n \n \n2. \npejabat berwenang mewakili OPB atau calon \nOPB \nberdasarkan \nketentuan \ninternal \nperusahaan; dan \n3. \npejabat DPB setingkat direktur. \n \nBagian Keempat \nPersetujuan terkait Kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nDPB mengajukan permohonan persetujuan pembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud dalam \nPasal 17 huruf c kepada Bank Indonesia. \n(2) \nDokumen permohonan sebagaimana dimaksud pada ayat \n(1) paling sedikit berupa: \na. \nsurat \npermohonan \npersetujuan \npembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar \nValuta Asing melalui Bank Mitra, yang paling sedikit \nditandatangani 1 (satu) orang pejabat DPB setingkat \ndirektur; dan \nb. \nsurat pernyataan terkait pembentukan dan/atau \npengakhiran kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, yang ditandatangani: \n1. \npejabat DPB setingkat direktur; dan \n2. \npejabat berwenang mewakili OPB berdasarkan \nketentuan \ninternal \nperusahaan \ndan/atau \npejabat \nyang \nberwenang \nmewakili \nRGI \nberdasarkan ketentuan internal perusahaan. \n(3) \nPenandatanganan \nsurat \npernyataan \nsebagaimana \ndimaksud pada ayat (2) huruf b dilakukan paling sedikit \noleh 2 (dua) pihak yang melakukan pembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra. \n \nBagian Kelima \nPenyampaian dan Pemrosesan Perizinan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPB mengajukan permohonan persetujuan pembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud dalam \nPasal 17 huruf c kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dokumen permohonan sebagaimana dimaksud pada ayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "paling sedikit berupa: \na. \nsurat \npermohonan \npersetujuan \npembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar \nValuta Asing melalui Bank Mitra, yang paling sedikit \nditandatangani 1 (satu) orang pejabat DPB setingkat \ndirektur; dan \nb. \nsurat pernyataan terkait pembentukan dan/atau \npengakhiran kemitraan Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, yang ditandatangani: \n1. \npejabat DPB setingkat direktur; dan \n2. \npejabat berwenang mewakili OPB berdasarkan \nketentuan \ninternal \nperusahaan \ndan/atau \npejabat \nyang \nberwenang \nmewakili \nRGI \nberdasarkan ketentuan internal perusahaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penandatanganan \nsurat \npernyataan \nsebagaimana \ndimaksud pada ayat (2) huruf b dilakukan paling sedikit \noleh 2 (dua) pihak yang melakukan pembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra. \n \nBagian Kelima \nPenyampaian dan Pemrosesan Perizinan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nPenyampaian dan pemrosesan perizinan sebagaimana \ndimaksud dalam Pasal 17 dilakukan melalui aplikasi \nperizinan Bank Indonesia sesuai dengan ketentuan Bank \nIndonesia mengenai perizinan terpadu Bank Indonesia \nmelalui front office perizinan. \n(2) \nDalam hal penyampaian dan pemrosesan perizinan \nsebagaimana dimaksud pada ayat (1) belum dapat \ndilakukan melalui aplikasi perizinan Bank Indonesia, \npenyampaian \ndan \npemrosesan \nperizinan \ndilakukan \nmelalui surat elektronik dan/atau salinan cetak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyampaian dan pemrosesan perizinan sebagaimana \ndimaksud dalam Pasal 17 dilakukan melalui aplikasi \nperizinan Bank Indonesia sesuai dengan ketentuan Bank \nIndonesia mengenai perizinan terpadu Bank Indonesia \nmelalui front office perizinan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal penyampaian dan pemrosesan perizinan \nsebagaimana dimaksud pada ayat (1) belum dapat \ndilakukan melalui aplikasi perizinan Bank Indonesia, \npenyampaian \ndan \npemrosesan \nperizinan \ndilakukan \nmelalui surat elektronik dan/atau salinan cetak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "Bank Indonesia melakukan penelitian kelengkapan dan \nkebenaran administratif terhadap dokumen perizinan yang \nmeliputi: \na. \ndokumen \npendukung \npenetapan \nDPB \nsebagaimana \ndimaksud dalam Pasal 21 ayat (3); \nb. \ndokumen permohonan pendaftaran OPB dan/atau RGI \nsebagaimana dimaksud dalam Pasal 24, Pasal 25, dan \nPasal 26; dan \nc. \ndokumen \npermohonan \npersetujuan \npembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud dalam \nPasal 27 ayat (2), \nsesuai dengan ketentuan Bank Indonesia mengenai perizinan \nterpadu Bank Indonesia melalui front office perizinan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melakukan penelitian kelengkapan dan \nkebenaran administratif terhadap dokumen perizinan yang \nmeliputi: \na. \ndokumen \npendukung \npenetapan \nDPB \nsebagaimana \ndimaksud dalam Pasal 21 ayat (3); \nb. \ndokumen permohonan pendaftaran OPB dan/atau RGI \nsebagaimana dimaksud dalam Pasal 24, Pasal 25, dan \nPasal 26; dan \nc. \ndokumen \npermohonan \npersetujuan \npembentukan \ndan/atau pengakhiran kemitraan Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud dalam \nPasal 27 ayat (2), \nsesuai dengan ketentuan Bank Indonesia mengenai perizinan \nterpadu Bank Indonesia melalui front office perizinan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nDalam hal dokumen perizinan sebagaimana dimaksud \ndalam Pasal 29 telah dinyatakan lengkap dan benar secara \nadministratif, Bank Indonesia melakukan penelitian \nkebenaran substantif. \n(2) \nDalam \nmelakukan \npenelitian \nkebenaran \nsubstantif \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \ndapat meminta klarifikasi dan/atau dokumen tambahan \nkepada DPB atau pihak yang akan ditetapkan sebagai \nDPB. \n(3) \nDalam hal berdasarkan penelitian kebenaran substantif \nsebagaimana dimaksud pada ayat (1) terdapat dokumen \nperizinan yang belum benar secara substansi, Bank \nIndonesia \nmenyampaikan \npemberitahuan \nuntuk \nmelengkapi dan/atau memperbaiki dokumen perizinan \nkepada DPB atau pihak yang akan ditetapkan sebagai \nDPB. \n(4) \nDPB atau pihak yang akan ditetapkan sebagai DPB harus \nmelengkapi dan/atau memperbaiki dokumen perizinan \nyang \nbelum \nbenar \nsecara \nsubstansi \nsebagaimana \ndimaksud pada ayat (3) paling lambat 30 (tiga puluh) Hari \nKerja sejak tanggal pemberitahuan dari Bank Indonesia. \n(5) \nDalam hal sampai dengan batas waktu sebagaimana \ndimaksud pada ayat (4): \na. \nperbaikan dokumen perizinan tidak disampaikan; \natau \nb. \nperbaikan dokumen perizinan telah disampaikan \nnamun masih belum benar secara substansi, \nDPB atau pihak yang akan ditetapkan sebagai DPB \ndianggap telah membatalkan proses perizinan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal dokumen perizinan sebagaimana dimaksud \ndalam Pasal 29 telah dinyatakan lengkap dan benar secara \nadministratif, Bank Indonesia melakukan penelitian \nkebenaran substantif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmelakukan \npenelitian \nkebenaran \nsubstantif \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \ndapat meminta klarifikasi dan/atau dokumen tambahan \nkepada DPB atau pihak yang akan ditetapkan sebagai \nDPB."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal berdasarkan penelitian kebenaran substantif \nsebagaimana dimaksud pada ayat (1) terdapat dokumen \nperizinan yang belum benar secara substansi, Bank \nIndonesia \nmenyampaikan \npemberitahuan \nuntuk \nmelengkapi dan/atau memperbaiki dokumen perizinan \nkepada DPB atau pihak yang akan ditetapkan sebagai \nDPB."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "DPB atau pihak yang akan ditetapkan sebagai DPB harus \nmelengkapi dan/atau memperbaiki dokumen perizinan \nyang \nbelum \nbenar \nsecara \nsubstansi \nsebagaimana \ndimaksud pada ayat (3) paling lambat 30 (tiga puluh) Hari \nKerja sejak tanggal pemberitahuan dari Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal sampai dengan batas waktu sebagaimana \ndimaksud pada ayat (4): \na. \nperbaikan dokumen perizinan tidak disampaikan; \natau \nb. \nperbaikan dokumen perizinan telah disampaikan \nnamun masih belum benar secara substansi, \nDPB atau pihak yang akan ditetapkan sebagai DPB \ndianggap telah membatalkan proses perizinan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "(1) \nBank Indonesia memberikan keputusan atas perizinan \ndalam Transaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 17. \n(2) \nKeputusan atas perizinan sebagaimana dimaksud pada \nayat (1) diberikan dengan mempertimbangkan: \na. \nhasil penelitian Bank Indonesia terhadap dokumen \nperizinan sebagaimana dimaksud dalam Pasal 29 dan \nPasal 30;  \n\n\n \n \n \n \nb. \nupaya \npencapaian \nsasaran \npengaturan, \npengembangan, dan pengawasan Pasar Valuta Asing; \ndan/atau \nc. \npertimbangan lain yang ditetapkan Bank Indonesia. \n(3) \nKeputusan atas perizinan sebagaimana dimaksud pada \nayat (1) meliputi persetujuan atau penolakan. \n(4) \nKeputusan atas perizinan dalam Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud pada \nayat (3) disampaikan melalui surat paling lambat 10 \n(sepuluh) Hari Kerja setelah dokumen perizinan yang \ndisampaikan telah benar secara substansi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia memberikan keputusan atas perizinan \ndalam Transaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 17."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Keputusan atas perizinan sebagaimana dimaksud pada \nayat (1) diberikan dengan mempertimbangkan: \na. \nhasil penelitian Bank Indonesia terhadap dokumen \nperizinan sebagaimana dimaksud dalam Pasal 29 dan \nPasal 30;  \n\n\n \n \n \n \nb. \nupaya \npencapaian \nsasaran \npengaturan, \npengembangan, dan pengawasan Pasar Valuta Asing; \ndan/atau \nc. \npertimbangan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Keputusan atas perizinan sebagaimana dimaksud pada \nayat (1) meliputi persetujuan atau penolakan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Keputusan atas perizinan dalam Transaksi Pasar Valuta \nAsing melalui Bank Mitra sebagaimana dimaksud pada \nayat (3) disampaikan melalui surat paling lambat 10 \n(sepuluh) Hari Kerja setelah dokumen perizinan yang \ndisampaikan telah benar secara substansi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB VII",
+      "bab_judul": "PERIZINAN",
+      "teks_lengkap": "Bank Indonesia memublikasikan: \na. \npenetapan DPB; \nb. \npendaftaran OPB; dan \nc. \nkemitraan Transaksi Pasar Valuta Asing melalui Bank \nMitra antara DPB dan OPB, \npada laman Bank Indonesia dan/atau media lain yang \nditetapkan Bank Indonesia. \n \nBAB VIII \nDATA DAN INFORMASI \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia memublikasikan: \na. \npenetapan DPB; \nb. \npendaftaran OPB; dan \nc. \nkemitraan Transaksi Pasar Valuta Asing melalui Bank \nMitra antara DPB dan OPB, \npada laman Bank Indonesia dan/atau media lain yang \nditetapkan Bank Indonesia. \n \nBAB VIII \nDATA DAN INFORMASI \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "Laporan yang disampaikan kepada Bank Indonesia meliputi: \na. \nlaporan berkala; dan \nb. \nlaporan insidental. \n \nBagian Kedua  \nLaporan Berkala",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan yang disampaikan kepada Bank Indonesia meliputi: \na. \nlaporan berkala; dan \nb. \nlaporan insidental. \n \nBagian Kedua  \nLaporan Berkala"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "Laporan berkala sebagaimana dimaksud dalam Pasal 33  \nhuruf a mencakup rincian Transaksi Pasar Valuta Asing \nmelalui Bank Mitra yang dilakukan DPB yang paling sedikit \nmemuat: \na. \ndata transaksi; \nb. \ndata OPB; dan \nc. \ndata RGI.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Laporan berkala sebagaimana dimaksud dalam Pasal 33  \nhuruf a mencakup rincian Transaksi Pasar Valuta Asing \nmelalui Bank Mitra yang dilakukan DPB yang paling sedikit \nmemuat: \na. \ndata transaksi; \nb. \ndata OPB; dan \nc. \ndata RGI."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nLaporan berkala sebagaimana dimaksud dalam Pasal 34 \ndisampaikan kepada Bank Indonesia secara daring \nmelalui sistem laporan bank umum terintegrasi. \n(2) \nMekanisme penyampaian laporan yang disampaikan \nsecara daring sebagaimana dimaksud pada ayat (1) \ndilakukan sesuai dengan ketentuan Bank Indonesia \nmengenai laporan bank umum terintegrasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan berkala sebagaimana dimaksud dalam Pasal 34 \ndisampaikan kepada Bank Indonesia secara daring \nmelalui sistem laporan bank umum terintegrasi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Mekanisme penyampaian laporan yang disampaikan \nsecara daring sebagaimana dimaksud pada ayat (1) \ndilakukan sesuai dengan ketentuan Bank Indonesia \nmengenai laporan bank umum terintegrasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nDalam hal terdapat sebagian data laporan berkala \nsebagaimana dimaksud dalam Pasal 34 yang belum dapat \ndisampaikan secara daring sebagaimana dimaksud dalam \nPasal 35, data dimaksud disampaikan secara luring.  \n(2) \nPenyampaian sebagian data laporan berkala secara luring \nsebagaimana dimaksud pada ayat (1) dilakukan secara \nmingguan paling lambat pada pukul 12.00 WIB Hari Kerja \npertama di minggu berikutnya setelah minggu laporan. \n \nBagian Ketiga \nLaporan Insidental",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terdapat sebagian data laporan berkala \nsebagaimana dimaksud dalam Pasal 34 yang belum dapat \ndisampaikan secara daring sebagaimana dimaksud dalam \nPasal 35, data dimaksud disampaikan secara luring."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian sebagian data laporan berkala secara luring \nsebagaimana dimaksud pada ayat (1) dilakukan secara \nmingguan paling lambat pada pukul 12.00 WIB Hari Kerja \npertama di minggu berikutnya setelah minggu laporan. \n \nBagian Ketiga \nLaporan Insidental"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nLaporan insidental sebagaimana dimaksud dalam Pasal 33 \nhuruf b meliputi: \na. \nlaporan penginian data profil DPB; dan \nb. \nlaporan penginian data profil OPB dan/atau RGI. \n(2) \nLaporan sebagaimana dimaksud pada ayat (1) huruf b \ndisampaikan DPB berdasarkan informasi dari OPB \ndan/atau RGI. \n(3) \nLaporan insidental sebagaimana dimaksud pada ayat (1) \ndisampaikan paling lambat 5 (lima) Hari Kerja setelah: \na. \ntanggal perubahan data untuk laporan penginian \ndata profil DPB sebagaimana dimaksud pada ayat (1) \nhuruf a; atau \nb. \ntanggal penerimaan informasi dari OPB dan/atau RGI \nuntuk laporan penginian data profil OPB dan/atau \nRGI sebagaimana dimaksud pada ayat (1) huruf b.  \n(4) \nLaporan insidental sebagaimana dimaksud pada ayat (1) \ndisampaikan kepada Bank Indonesia secara luring. \n \nBagian Keempat \nKewajiban Penyampaian Data dan Informasi",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Laporan insidental sebagaimana dimaksud dalam Pasal 33 \nhuruf b meliputi: \na. \nlaporan penginian data profil DPB; dan \nb. \nlaporan penginian data profil OPB dan/atau RGI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (1) huruf b \ndisampaikan DPB berdasarkan informasi dari OPB \ndan/atau RGI."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan insidental sebagaimana dimaksud pada ayat (1) \ndisampaikan paling lambat 5 (lima) Hari Kerja setelah: \na. \ntanggal perubahan data untuk laporan penginian \ndata profil DPB sebagaimana dimaksud pada ayat (1) \nhuruf a; atau \nb. \ntanggal penerimaan informasi dari OPB dan/atau RGI \nuntuk laporan penginian data profil OPB dan/atau \nRGI sebagaimana dimaksud pada ayat (1) huruf b."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Laporan insidental sebagaimana dimaksud pada ayat (1) \ndisampaikan kepada Bank Indonesia secara luring. \n \nBagian Keempat \nKewajiban Penyampaian Data dan Informasi"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nDPB wajib menyampaikan laporan sebagaimana dimaksud \ndalam Pasal 33 kepada Bank Indonesia. \n(2) \nLaporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan secara lengkap, akurat, kini, utuh, dan tepat \nwaktu kepada Bank Indonesia. \n(3) \nDalam hal terdapat kesalahan pada laporan yang telah \ndisampaikan sebagaimana dimaksud pada ayat (1), DPB \nwajib menyampaikan koreksi laporan. \n(4) \nDPB yang melanggar kewajiban sebagaimana dimaksud \npada ayat (1), ayat (2), dan ayat (3): \na. \nuntuk laporan berkala yang disampaikan secara \ndaring \nmelalui \nsistem \nlaporan \nbank \numum \nterintegrasi sebagaimana dimaksud dalam Pasal 35 \nayat (1), dikenai sanksi administratif sesuai dengan \nketentuan Bank Indonesia mengenai laporan bank \numum terintegrasi; dan \nb. \nuntuk \nsebagian \ndata \nlaporan \nberkala \nyang \ndisampaikan secara luring sebagaimana dimaksud \ndalam Pasal 36 ayat (1) dan laporan insidental \n\n\n \n \n \n \nsebagaimana dimaksud dalam Pasal 37, dikenai \nsanksi administratif berupa teguran tertulis. \n(5) \nPengenaan \nsanksi \natas \npelanggaran \nkewajiban \nsebagaimana dimaksud pada ayat (4) tidak menghilangkan \nkewajiban untuk menyampaikan laporan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPB wajib menyampaikan laporan sebagaimana dimaksud \ndalam Pasal 33 kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Laporan sebagaimana dimaksud pada ayat (1) wajib \ndisampaikan secara lengkap, akurat, kini, utuh, dan tepat \nwaktu kepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal terdapat kesalahan pada laporan yang telah \ndisampaikan sebagaimana dimaksud pada ayat (1), DPB \nwajib menyampaikan koreksi laporan."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "DPB yang melanggar kewajiban sebagaimana dimaksud \npada ayat (1), ayat (2), dan ayat (3): \na. \nuntuk laporan berkala yang disampaikan secara \ndaring \nmelalui \nsistem \nlaporan \nbank \numum \nterintegrasi sebagaimana dimaksud dalam Pasal 35 \nayat (1), dikenai sanksi administratif sesuai dengan \nketentuan Bank Indonesia mengenai laporan bank \numum terintegrasi; dan \nb. \nuntuk \nsebagian \ndata \nlaporan \nberkala \nyang \ndisampaikan secara luring sebagaimana dimaksud \ndalam Pasal 36 ayat (1) dan laporan insidental \n\n\n \n \n \n \nsebagaimana dimaksud dalam Pasal 37, dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pengenaan \nsanksi \natas \npelanggaran \nkewajiban \nsebagaimana dimaksud pada ayat (4) tidak menghilangkan \nkewajiban untuk menyampaikan laporan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nDPB wajib: \na. \nmenyediakan, menyampaikan, dan/atau memastikan \ntersedianya akses, serta memberikan data transaksi \nuntuk kepentingan perizinan, pengawasan, evaluasi, \ndan/atau kepentingan lain; dan \nb. \nmenjaga kerahasiaan data OPB dan RGI. \n(2) \nDPB yang melanggar kewajiban sebagaimana dimaksud \npada ayat (1) dikenai sanksi teguran tertulis. \n \nBagian Kelima  \nGangguan Teknis dan Kesalahan Laporan",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPB wajib: \na. \nmenyediakan, menyampaikan, dan/atau memastikan \ntersedianya akses, serta memberikan data transaksi \nuntuk kepentingan perizinan, pengawasan, evaluasi, \ndan/atau kepentingan lain; dan \nb. \nmenjaga kerahasiaan data OPB dan RGI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "DPB yang melanggar kewajiban sebagaimana dimaksud \npada ayat (1) dikenai sanksi teguran tertulis. \n \nBagian Kelima  \nGangguan Teknis dan Kesalahan Laporan"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nDalam hal DPB mengalami gangguan teknis dalam \nmenyampaikan \nlaporan \nsecara \nluring \nsebagaimana \ndimaksud dalam Pasal 36 dan Pasal 37, DPB harus \nmenyampaikan pemberitahuan secara tertulis kepada \nBank Indonesia disertai dengan bukti pendukung. \n(2) \nPemberitahuan secara tertulis sebagaimana dimaksud \npada ayat (1) dilakukan melalui surat elektronik. \n(3) \nLaporan \nsebagaimana \ndimaksud \npada \nayat \n(1) \ndisampaikan paling lambat pada Hari Kerja berikutnya \nsetelah gangguan teknis diatasi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal DPB mengalami gangguan teknis dalam \nmenyampaikan \nlaporan \nsecara \nluring \nsebagaimana \ndimaksud dalam Pasal 36 dan Pasal 37, DPB harus \nmenyampaikan pemberitahuan secara tertulis kepada \nBank Indonesia disertai dengan bukti pendukung."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pemberitahuan secara tertulis sebagaimana dimaksud \npada ayat (1) dilakukan melalui surat elektronik."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Laporan \nsebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "disampaikan paling lambat pada Hari Kerja berikutnya \nsetelah gangguan teknis diatasi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nDalam hal terdapat kesalahan pada laporan secara luring \nsebagaimana dimaksud dalam Pasal 36 dan Pasal 37, DPB \nmenyampaikan koreksi laporan. \n(2) \nPenyampaian koreksi laporan secara luring sebagaimana \ndimaksud pada ayat (1) dilakukan pada hari yang sama. \n \nBagian Keenam  \nSurat Pernyataan Komitmen OPB",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal terdapat kesalahan pada laporan secara luring \nsebagaimana dimaksud dalam Pasal 36 dan Pasal 37, DPB \nmenyampaikan koreksi laporan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian koreksi laporan secara luring sebagaimana \ndimaksud pada ayat (1) dilakukan pada hari yang sama. \n \nBagian Keenam  \nSurat Pernyataan Komitmen OPB"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB VIII",
+      "bab_judul": "DATA DAN INFORMASI",
+      "teks_lengkap": "(1) \nOPB \nmenyampaikan \nsurat \npernyataan \nkomitmen \nsebagaimana dimaksud dalam Pasal 22 ayat (1) huruf b \nkepada Bank Indonesia.  \n(2) \nPenyampaian surat pernyataan komitmen sebagaimana \ndimaksud pada ayat (1) dilakukan setiap tahun paling \nlambat pada Hari Kerja terakhir di bulan Januari. \n(3) \nPenyampaian surat pernyataan komitmen sebagaimana \ndimaksud \npada \nayat \n(1) \ndilakukan \nmelalui \nsurat \nelektronik. \n \n \n \n \n\n\n \n \n \n \nBAB IX  \nPENGAWASAN DAN EVALUASI \n \nBagian Kesatu  \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "OPB \nmenyampaikan \nsurat \npernyataan \nkomitmen \nsebagaimana dimaksud dalam Pasal 22 ayat (1) huruf b \nkepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Penyampaian surat pernyataan komitmen sebagaimana \ndimaksud pada ayat (1) dilakukan setiap tahun paling \nlambat pada Hari Kerja terakhir di bulan Januari."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Penyampaian surat pernyataan komitmen sebagaimana \ndimaksud \npada \nayat"
+        },
+        {
+          "ayat_nomor": "(1)",
+          "teks": "dilakukan \nmelalui \nsurat \nelektronik. \n \n \n \n \n\n\n \n \n \n \nBAB IX  \nPENGAWASAN DAN EVALUASI \n \nBagian Kesatu  \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN DAN EVALUASI",
+      "teks_lengkap": "(1) \nBank Indonesia melakukan pengawasan terkait Transaksi \nPasar Valuta Asing melalui Bank Mitra. \n(2) \nPengawasan sebagaimana dimaksud pada ayat (1) \nmeliputi: \na. \npengawasan tidak langsung terhadap: \n1. \nDPB; \n2. \nOPB; dan \n3. \nRGI; dan/atau \nb. \npemeriksaan terhadap DPB. \n(3) \nDalam melakukan pengawasan sebagaimana dimaksud \npada ayat (1), Bank Indonesia dapat berkoordinasi dengan \notoritas terkait lain. \n(4) \nDalam pelaksanaan pengawasan sebagaimana dimaksud \npada ayat (1), DPB, OPB, dan RGI wajib menyediakan dan \nmenyampaikan data, informasi, keterangan, dan/atau \npenjelasan yang diperlukan Bank Indonesia. \n(5) \nPelaku sebagaimana dimaksud pada ayat (4) wajib \nmemastikan kebenaran, kelengkapan, dan keakuratan \ndata, informasi, dan/atau keterangan yang disampaikan \nkepada Bank Indonesia. \n(6) \nPelaku yang melanggar ketentuan sebagaimana dimaksud \npada ayat (4) dan ayat (5) dikenai sanksi administratif \nberupa teguran tertulis. \n(7) \nPengenaan sanksi sebagaimana dimaksud pada ayat (6) \ntidak menghilangkan kewajiban pelaku sebagaimana \ndimaksud pada ayat (4).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan pengawasan terkait Transaksi \nPasar Valuta Asing melalui Bank Mitra."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengawasan sebagaimana dimaksud pada ayat (1) \nmeliputi: \na. \npengawasan tidak langsung terhadap: \n1. \nDPB; \n2. \nOPB; dan \n3. \nRGI; dan/atau \nb. \npemeriksaan terhadap DPB."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam melakukan pengawasan sebagaimana dimaksud \npada ayat (1), Bank Indonesia dapat berkoordinasi dengan \notoritas terkait lain."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Dalam pelaksanaan pengawasan sebagaimana dimaksud \npada ayat (1), DPB, OPB, dan RGI wajib menyediakan dan \nmenyampaikan data, informasi, keterangan, dan/atau \npenjelasan yang diperlukan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Pelaku sebagaimana dimaksud pada ayat (4) wajib \nmemastikan kebenaran, kelengkapan, dan keakuratan \ndata, informasi, dan/atau keterangan yang disampaikan \nkepada Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "Pelaku yang melanggar ketentuan sebagaimana dimaksud \npada ayat (4) dan ayat (5) dikenai sanksi administratif \nberupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(7)",
+          "teks": "Pengenaan sanksi sebagaimana dimaksud pada ayat (6) \ntidak menghilangkan kewajiban pelaku sebagaimana \ndimaksud pada ayat (4)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN DAN EVALUASI",
+      "teks_lengkap": "(1) \nBank Indonesia dapat menugaskan pihak lain untuk \nmelakukan pemeriksaan sebagaimana dimaksud dalam \nPasal 43 ayat (2) huruf b. \n(2) \nPihak lain yang ditugaskan melakukan pemeriksaan \nsebagaimana dimaksud pada ayat (1) wajib menjaga \nkerahasiaan data, informasi, dan/atau keterangan yang \ndiperoleh dari hasil pemeriksaan. \n(3) \nPihak lain yang melanggar ketentuan sebagaimana \ndimaksud pada ayat (2) dikenai sanksi administratif \nberupa teguran tertulis.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia dapat menugaskan pihak lain untuk \nmelakukan pemeriksaan sebagaimana dimaksud dalam \nPasal 43 ayat (2) huruf b."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pihak lain yang ditugaskan melakukan pemeriksaan \nsebagaimana dimaksud pada ayat (1) wajib menjaga \nkerahasiaan data, informasi, dan/atau keterangan yang \ndiperoleh dari hasil pemeriksaan."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pihak lain yang melanggar ketentuan sebagaimana \ndimaksud pada ayat (2) dikenai sanksi administratif \nberupa teguran tertulis."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN DAN EVALUASI",
+      "teks_lengkap": "(1) \nBank Indonesia melakukan evaluasi terhadap Transaksi \nPasar Valuta Asing melalui Bank Mitra. \n(2) \nEvaluasi sebagaimana dimaksud pada ayat (1) dilakukan \ndengan \nmempertimbangkan \narah \nkebijakan \nBank \nIndonesia terkait Pasar Valuta Asing. \n \n \n\n\n \n \n \n \nBagian Kedua  \nPengawasan terhadap Nilai Posisi Transaksi Pasar Valuta \nAsing melalui Bank Mitra",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan evaluasi terhadap Transaksi \nPasar Valuta Asing melalui Bank Mitra."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan \ndengan \nmempertimbangkan \narah \nkebijakan \nBank \nIndonesia terkait Pasar Valuta Asing. \n \n \n\n\n \n \n \n \nBagian Kedua  \nPengawasan terhadap Nilai Posisi Transaksi Pasar Valuta \nAsing melalui Bank Mitra"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB IX",
+      "bab_judul": "PENGAWASAN DAN EVALUASI",
+      "teks_lengkap": "(1) \nBank Indonesia melakukan pengawasan terhadap posisi \n(outstanding) Transaksi Pasar Valuta Asing melalui Bank \nMitra sebagaimana dimaksud dalam Pasal 14. \n(2) \nBank Indonesia dapat menyampaikan pemberitahuan \nkepada DPB, OPB, dan/atau RGI terkait hasil pengawasan \nterhadap nilai posisi Transaksi Pasar Valuta Asing melalui \nBank Mitra sebagaimana dimaksud pada ayat (1). \n(3) \nPemberitahuan sebagaimana dimaksud pada ayat (2) \ndapat disertai dengan permintaan data, informasi, \nketerangan, dan/atau penjelasan mengenai rencana \ntindak lanjut terkait nilai posisi Transaksi Pasar Valuta \nAsing melalui Bank Mitra.  \n(4) \nPemberitahuan sebagaimana dimaksud pada ayat (2) \ndisampaikan melalui surat dan/atau media lain yang \nditetapkan Bank Indonesia. \n(5) \nDPB, OPB, dan/atau RGI wajib memenuhi permintaan \ndata, \ninformasi, \nketerangan, \ndan/atau \npenjelasan \nsebagaimana dimaksud pada ayat (3). \n(6) \nDPB, OPB, dan/atau RGI yang melanggar kewajiban \nsebagaimana dimaksud pada ayat (5) dikenai sanksi \nadministratif berupa: \na. \nteguran tertulis;  \nb. \npenghentian sementara, sebagian, atau seluruh \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan/atau \nc. \npencabutan penetapan dan/atau status terdaftar. \n \nBAB X  \nTATA CARA PENGENAAN SANKSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia melakukan pengawasan terhadap posisi \n(outstanding) Transaksi Pasar Valuta Asing melalui Bank \nMitra sebagaimana dimaksud dalam Pasal 14."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank Indonesia dapat menyampaikan pemberitahuan \nkepada DPB, OPB, dan/atau RGI terkait hasil pengawasan \nterhadap nilai posisi Transaksi Pasar Valuta Asing melalui \nBank Mitra sebagaimana dimaksud pada ayat (1)."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Pemberitahuan sebagaimana dimaksud pada ayat (2) \ndapat disertai dengan permintaan data, informasi, \nketerangan, dan/atau penjelasan mengenai rencana \ntindak lanjut terkait nilai posisi Transaksi Pasar Valuta \nAsing melalui Bank Mitra."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Pemberitahuan sebagaimana dimaksud pada ayat (2) \ndisampaikan melalui surat dan/atau media lain yang \nditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "DPB, OPB, dan/atau RGI wajib memenuhi permintaan \ndata, \ninformasi, \nketerangan, \ndan/atau \npenjelasan \nsebagaimana dimaksud pada ayat (3)."
+        },
+        {
+          "ayat_nomor": "(6)",
+          "teks": "DPB, OPB, dan/atau RGI yang melanggar kewajiban \nsebagaimana dimaksud pada ayat (5) dikenai sanksi \nadministratif berupa: \na. \nteguran tertulis;  \nb. \npenghentian sementara, sebagian, atau seluruh \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan/atau \nc. \npencabutan penetapan dan/atau status terdaftar. \n \nBAB X  \nTATA CARA PENGENAAN SANKSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB X",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nBank Indonesia mengenakan sanksi administratif kepada: \na. \nDPB; \nb. \nOPB; dan \nc. \nRGI. \n(2) \nSanksi administratif sebagaimana dimaksud pada ayat (1) \nberupa: \na. \nteguran tertulis;  \nb. \npenghentian sementara, sebagian, atau seluruh \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan/atau \nc. \npencabutan penetapan dan/atau status terdaftar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank Indonesia mengenakan sanksi administratif kepada: \na. \nDPB; \nb. \nOPB; dan \nc. \nRGI."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Sanksi administratif sebagaimana dimaksud pada ayat (1) \nberupa: \na. \nteguran tertulis;  \nb. \npenghentian sementara, sebagian, atau seluruh \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan/atau \nc. \npencabutan penetapan dan/atau status terdaftar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB X",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nPengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 47 ayat (1) disampaikan secara tertulis oleh \nBank Indonesia kepada pelaku yang dikenakan sanksi. \n(2) \nBank \nIndonesia \ndapat \nmenyampaikan \ninformasi \npengenaan sanksi administratif sebagaimana dimaksud \npada ayat (1) kepada otoritas terkait lain.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pengenaan sanksi administratif sebagaimana dimaksud \ndalam Pasal 47 ayat (1) disampaikan secara tertulis oleh \nBank Indonesia kepada pelaku yang dikenakan sanksi."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Bank \nIndonesia \ndapat \nmenyampaikan \ninformasi \npengenaan sanksi administratif sebagaimana dimaksud \npada ayat (1) kepada otoritas terkait lain."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB X",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nSanksi administratif berupa: \na. \npenghentian sementara, sebagian, atau seluruh \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan/atau \nb. \npencabutan penetapan dan/atau status terdaftar, \ndikenakan \noleh \nBank \nIndonesia \nsetelah \npelaku \nsebagaimana dimaksud dalam Pasal 47 ayat (1) dikenai \nsanksi administratif berupa teguran tertulis. \n(2) \nPengenaan sanksi sebagaimana dimaksud pada ayat (1) \ndilakukan dengan pertimbangan: \na. \nfrekuensi terjadinya pelanggaran ketentuan yang \nsama pada periode tertentu;  \nb. \njumlah ketentuan yang dilanggar pada periode \ntertentu; dan/atau \nc. \npertimbangan lain yang ditetapkan Bank Indonesia. \n(3) \nBank Indonesia dapat mengenakan sanksi administratif \nsebagaimana dimaksud pada ayat (1) tanpa didahului \ndengan sanksi administratif berupa teguran tertulis \ndengan pertimbangan: \na. \npotensi dampak dan/atau dampak yang timbul dari \npelanggaran; dan/atau \nb. \npertimbangan lain yang ditetapkan Bank Indonesia.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Sanksi administratif berupa: \na. \npenghentian sementara, sebagian, atau seluruh \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra; dan/atau \nb. \npencabutan penetapan dan/atau status terdaftar, \ndikenakan \noleh \nBank \nIndonesia \nsetelah \npelaku \nsebagaimana dimaksud dalam Pasal 47 ayat (1) dikenai \nsanksi administratif berupa teguran tertulis."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Pengenaan sanksi sebagaimana dimaksud pada ayat (1) \ndilakukan dengan pertimbangan: \na. \nfrekuensi terjadinya pelanggaran ketentuan yang \nsama pada periode tertentu;  \nb. \njumlah ketentuan yang dilanggar pada periode \ntertentu; dan/atau \nc. \npertimbangan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Bank Indonesia dapat mengenakan sanksi administratif \nsebagaimana dimaksud pada ayat (1) tanpa didahului \ndengan sanksi administratif berupa teguran tertulis \ndengan pertimbangan: \na. \npotensi dampak dan/atau dampak yang timbul dari \npelanggaran; dan/atau \nb. \npertimbangan lain yang ditetapkan Bank Indonesia."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB X",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "(1) \nPelaku \nyang \ndikenai \nsanksi \nadministratif \nberupa  \npenghentian sementara, sebagian, atau seluruh aktivitas \nterkait Transaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 47 ayat (2) huruf b \ntidak dapat melakukan aktivitas terkait Transaksi Pasar \nValuta Asing melalui Bank Mitra dalam batas waktu sesuai \ndengan keputusan pengenaan sanksi administratif dari \nBank Indonesia. \n(2) \nSetelah batas waktu sanksi administratif sebagaimana \ndimaksud pada ayat (1) berakhir, pelaku sebagaimana \ndimaksud dalam Pasal 47 ayat (1) kembali melakukan \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaku \nyang \ndikenai \nsanksi \nadministratif \nberupa  \npenghentian sementara, sebagian, atau seluruh aktivitas \nterkait Transaksi Pasar Valuta Asing melalui Bank Mitra \nsebagaimana dimaksud dalam Pasal 47 ayat (2) huruf b \ntidak dapat melakukan aktivitas terkait Transaksi Pasar \nValuta Asing melalui Bank Mitra dalam batas waktu sesuai \ndengan keputusan pengenaan sanksi administratif dari \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Setelah batas waktu sanksi administratif sebagaimana \ndimaksud pada ayat (1) berakhir, pelaku sebagaimana \ndimaksud dalam Pasal 47 ayat (1) kembali melakukan \naktivitas terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB X",
+      "bab_judul": "TATA CARA PENGENAAN SANKSI",
+      "teks_lengkap": "Dalam hal pelaku sebagaimana dimaksud dalam Pasal 47  \nayat (1) dikenai sanksi administratif berupa pencabutan \npenetapan dan/atau status terdaftar sebagaimana dimaksud \ndalam Pasal 47 ayat (2) huruf c, seluruh perizinan yang \ndiberikan Bank Indonesia kepada pelaku yang bersangkutan \nberakhir demi hukum. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB XI  \nEXIT POLICY \n \nBagian Kesatu \nUmum",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal pelaku sebagaimana dimaksud dalam Pasal 47  \nayat (1) dikenai sanksi administratif berupa pencabutan \npenetapan dan/atau status terdaftar sebagaimana dimaksud \ndalam Pasal 47 ayat (2) huruf c, seluruh perizinan yang \ndiberikan Bank Indonesia kepada pelaku yang bersangkutan \nberakhir demi hukum. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB XI  \nEXIT POLICY \n \nBagian Kesatu \nUmum"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nExit policy terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra dilakukan terhadap pelaku sebagaimana \ndimaksud dalam Pasal 7. \n(2) \nExit policy sebagaimana dimaksud pada ayat (1) dilakukan \nBank Indonesia melalui pencabutan: \na. \npenetapan DPB; dan/atau \nb. \nstatus terdaftar OPB dan RGI. \n(3) \nExit policy sebagaimana dimaksud pada ayat (2) dilakukan \ndengan mempertimbangkan: \na. \nhasil pengawasan dan/atau evaluasi Bank Indonesia; \nb. \naksi korporasi;  \nc. \nputusan pengadilan yang telah berkekuatan hukum \ntetap; \nd. \npermintaan sendiri; dan/atau \ne. \npertimbangan lain yang ditetapkan Bank Indonesia. \n \nBagian Kedua \nPencabutan Penetapan DPB dan Status Terdaftar OPB dan \nRGI berdasarkan Permintaan Sendiri \n \nParagraf 1 \nPermohonan Pencabutan Penetapan DPB",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Exit policy terkait Transaksi Pasar Valuta Asing melalui \nBank Mitra dilakukan terhadap pelaku sebagaimana \ndimaksud dalam Pasal 7."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Exit policy sebagaimana dimaksud pada ayat (1) dilakukan \nBank Indonesia melalui pencabutan: \na. \npenetapan DPB; dan/atau \nb. \nstatus terdaftar OPB dan RGI."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Exit policy sebagaimana dimaksud pada ayat (2) dilakukan \ndengan mempertimbangkan: \na. \nhasil pengawasan dan/atau evaluasi Bank Indonesia; \nb. \naksi korporasi;  \nc. \nputusan pengadilan yang telah berkekuatan hukum \ntetap; \nd. \npermintaan sendiri; dan/atau \ne. \npertimbangan lain yang ditetapkan Bank Indonesia. \n \nBagian Kedua \nPencabutan Penetapan DPB dan Status Terdaftar OPB dan \nRGI berdasarkan Permintaan Sendiri \n \nParagraf 1 \nPermohonan Pencabutan Penetapan DPB"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nDPB mengajukan permohonan pencabutan penetapan \nsebagai DPB. \n(2) \nDokumen \npermohonan pencabutan penetapan DPB \nsebagaimana dimaksud pada ayat (1) berupa surat \npermohonan pencabutan penetapan, yang paling sedikit \nditandatangani 1 (satu) orang pejabat setingkat direktur.  \n(3) \nSurat permohonan pencabutan penetapan sebagaimana \ndimaksud pada ayat (2) paling sedikit memuat informasi \nmengenai alasan permohonan pencabutan penetapan \nsebagai DPB. \n \nParagraf 2 \nPermohonan Pencabutan Status Terdaftar OPB dan RGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "DPB mengajukan permohonan pencabutan penetapan \nsebagai DPB."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dokumen \npermohonan pencabutan penetapan DPB \nsebagaimana dimaksud pada ayat (1) berupa surat \npermohonan pencabutan penetapan, yang paling sedikit \nditandatangani 1 (satu) orang pejabat setingkat direktur."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Surat permohonan pencabutan penetapan sebagaimana \ndimaksud pada ayat (2) paling sedikit memuat informasi \nmengenai alasan permohonan pencabutan penetapan \nsebagai DPB. \n \nParagraf 2 \nPermohonan Pencabutan Status Terdaftar OPB dan RGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nOPB \nmengajukan \npermohonan \npencabutan \nstatus \nterdaftar ke Bank Indonesia melalui DPB. \n(2) \nDokumen permohonan pencabutan \nstatus terdaftar \nsebagaimana dimaksud pada ayat (1) paling sedikit \nberupa: \na. \nsurat penyampaian permohonan pencabutan status \nterdaftar \nOPB dari DPB, \nyang paling sedikit \nditandatangani 1 (satu) orang pejabat setingkat \ndirektur; \n\n\n \n \n \n \nb. \nsurat permohonan pencabutan status terdaftar dari \nOPB, yang paling sedikit ditandatangani 1 (satu) \norang \npejabat \nyang \nberwenang \nmewakili \nOPB \nberdasarkan ketentuan internal perusahaan; dan \nc. \nsurat kuasa dari OPB kepada DPB untuk pencabutan \nstatus terdaftar kepada Bank Indonesia, yang \nditandatangani: \n1. \npejabat \nyang \nberwenang \nmewakili  \nOPB \nberdasarkan \nketentuan \ninternal \nperusahaan; dan \n2. \npejabat DPB setingkat direktur.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "OPB \nmengajukan \npermohonan \npencabutan \nstatus \nterdaftar ke Bank Indonesia melalui DPB."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dokumen permohonan pencabutan \nstatus terdaftar \nsebagaimana dimaksud pada ayat (1) paling sedikit \nberupa: \na. \nsurat penyampaian permohonan pencabutan status \nterdaftar \nOPB dari DPB, \nyang paling sedikit \nditandatangani 1 (satu) orang pejabat setingkat \ndirektur; \n\n\n \n \n \n \nb. \nsurat permohonan pencabutan status terdaftar dari \nOPB, yang paling sedikit ditandatangani 1 (satu) \norang \npejabat \nyang \nberwenang \nmewakili \nOPB \nberdasarkan ketentuan internal perusahaan; dan \nc. \nsurat kuasa dari OPB kepada DPB untuk pencabutan \nstatus terdaftar kepada Bank Indonesia, yang \nditandatangani: \n1. \npejabat \nyang \nberwenang \nmewakili  \nOPB \nberdasarkan \nketentuan \ninternal \nperusahaan; dan \n2. \npejabat DPB setingkat direktur."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nRGI mengajukan permohonan pencabutan status terdaftar \nke Bank Indonesia melalui OPB. \n(2) \nOPB \nmeneruskan \npermohonan \npencabutan \nstatus \nterdaftar RGI sebagaimana dimaksud pada ayat (1) kepada \nBank Indonesia melalui DPB. \n(3) \nDokumen permohonan pencabutan \nstatus terdaftar \nsebagai RGI sebagaimana dimaksud pada ayat (2)  paling \nsedikit berupa: \na. \nsurat penyampaian permohonan pencabutan status \nterdaftar \nRGI \ndari \nDPB, \nyang \npaling \nsedikit \nditandatangani 1 (satu) orang pejabat setingkat \ndirektur; \nb. \nsurat permohonan pencabutan status terdaftar dari \nRGI, yang paling sedikit ditandatangani 1 (satu) orang \npejabat yang berwenang mewakili RGI berdasarkan \nketentuan internal perusahaan; dan \nc. \nsurat kuasa dari RGI kepada OPB dan DPB untuk \npencabutan status terdaftar kepada Bank Indonesia, \nyang ditandatangani: \n1. \npejabat \nyang \nberwenang \nmewakili \nRGI \nberdasarkan ketentuan internal perusahaan;  \n2. \npejabat \nyang \nberwenang \nmewakili \nOPB \nberdasarkan ketentuan internal perusahaan; \ndan \n3. \npejabat DPB setingkat direktur.  \n \nParagraf 3 \nPenyampaian dan Pemrosesan Permohonan Pencabutan \nPenetapan DPB dan Status Terdaftar OPB dan RGI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "RGI mengajukan permohonan pencabutan status terdaftar \nke Bank Indonesia melalui OPB."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "OPB \nmeneruskan \npermohonan \npencabutan \nstatus \nterdaftar RGI sebagaimana dimaksud pada ayat (1) kepada \nBank Indonesia melalui DPB."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dokumen permohonan pencabutan \nstatus terdaftar \nsebagai RGI sebagaimana dimaksud pada ayat (2)  paling \nsedikit berupa: \na. \nsurat penyampaian permohonan pencabutan status \nterdaftar \nRGI \ndari \nDPB, \nyang \npaling \nsedikit \nditandatangani 1 (satu) orang pejabat setingkat \ndirektur; \nb. \nsurat permohonan pencabutan status terdaftar dari \nRGI, yang paling sedikit ditandatangani 1 (satu) orang \npejabat yang berwenang mewakili RGI berdasarkan \nketentuan internal perusahaan; dan \nc. \nsurat kuasa dari RGI kepada OPB dan DPB untuk \npencabutan status terdaftar kepada Bank Indonesia, \nyang ditandatangani: \n1. \npejabat \nyang \nberwenang \nmewakili \nRGI \nberdasarkan ketentuan internal perusahaan;  \n2. \npejabat \nyang \nberwenang \nmewakili \nOPB \nberdasarkan ketentuan internal perusahaan; \ndan \n3. \npejabat DPB setingkat direktur.  \n \nParagraf 3 \nPenyampaian dan Pemrosesan Permohonan Pencabutan \nPenetapan DPB dan Status Terdaftar OPB dan RGI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nPenyampaian dan pemrosesan permohonan pencabutan \npenetapan sebagaimana dimaksud dalam Pasal 53 \ndan/atau status terdaftar sebagaimana dimaksud dalam \nPasal 54 dan Pasal 55 dilakukan melalui aplikasi perizinan \nBank Indonesia sesuai dengan ketentuan Bank Indonesia \nmengenai perizinan terpadu Bank Indonesia melalui front \noffice perizinan. \n(2) \nDalam hal penyampaian dan pemrosesan permohonan \npencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \nsebagaimana dimaksud pada ayat (1) tidak dapat \ndilakukan melalui aplikasi perizinan Bank Indonesia, \npenyampaian dan pemrosesan permohonan pencabutan \n\n\n \n \n \n \npenetapan dan/atau status terdaftar dilakukan melalui \nsurat elektronik dan/atau salinan cetak.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Penyampaian dan pemrosesan permohonan pencabutan \npenetapan sebagaimana dimaksud dalam Pasal 53 \ndan/atau status terdaftar sebagaimana dimaksud dalam \nPasal 54 dan Pasal 55 dilakukan melalui aplikasi perizinan \nBank Indonesia sesuai dengan ketentuan Bank Indonesia \nmengenai perizinan terpadu Bank Indonesia melalui front \noffice perizinan."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam hal penyampaian dan pemrosesan permohonan \npencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \nsebagaimana dimaksud pada ayat (1) tidak dapat \ndilakukan melalui aplikasi perizinan Bank Indonesia, \npenyampaian dan pemrosesan permohonan pencabutan \n\n\n \n \n \n \npenetapan dan/atau status terdaftar dilakukan melalui \nsurat elektronik dan/atau salinan cetak."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "57",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "Bank Indonesia melakukan penelitian kelengkapan dan \nkebenaran administratif terhadap dokumen permohonan \npencabutan penetapan sebagaimana dimaksud dalam Pasal 53 \ndan/atau status terdaftar sebagaimana dimaksud dalam  \nPasal 54 dan Pasal 55 sesuai dengan ketentuan Bank Indonesia \nmengenai perizinan terpadu Bank Indonesia melalui front office \nperizinan.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Bank Indonesia melakukan penelitian kelengkapan dan \nkebenaran administratif terhadap dokumen permohonan \npencabutan penetapan sebagaimana dimaksud dalam Pasal 53 \ndan/atau status terdaftar sebagaimana dimaksud dalam  \nPasal 54 dan Pasal 55 sesuai dengan ketentuan Bank Indonesia \nmengenai perizinan terpadu Bank Indonesia melalui front office \nperizinan."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "58",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nDalam hal dokumen permohonan pencabutan penetapan \nsebagaimana dimaksud dalam Pasal 53 dan/atau status \nterdaftar sebagaimana dimaksud dalam Pasal 54 dan \nPasal 55 telah dinyatakan lengkap dan benar secara \nadministratif, Bank Indonesia melakukan penelitian \nkebenaran substantif. \n(2) \nDalam \nmelakukan \npenelitian \nkebenaran \nsubstantif \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \ndapat meminta klarifikasi dan/atau dokumen tambahan \nkepada DPB. \n(3) \nDalam hal berdasarkan penelitian kebenaran substantif \nsebagaimana dimaksud pada ayat (1) terdapat dokumen \npermohonan pencabutan penetapan dan/atau status \nterdaftar yang belum benar secara substansi, Bank \nIndonesia \nmenyampaikan \npemberitahuan \nuntuk \nmelengkapi dan/atau memperbaiki dokumen permohonan \npencabutan penetapan dan/atau status terdaftar kepada \nDPB. \n(4) \nDPB harus melengkapi dan/atau memperbaiki dokumen \npermohonan pencabutan penetapan dan/atau status \nterdaftar yang belum benar secara substansi sebagaimana \ndimaksud pada ayat (3) paling lambat 10 (sepuluh) Hari \nKerja sejak tanggal pemberitahuan dari Bank Indonesia. \n(5) \nDalam hal sampai dengan batas waktu sebagaimana \ndimaksud pada ayat (4): \na. \nperbaikan \ndokumen \npermohonan \npencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \ntidak \ndisampaikan; atau \nb. \nperbaikan \ndokumen \npermohonan \npencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \ntelah \ndisampaikan, namun masih belum lengkap dan/atau \nbelum sesuai, \npemohon dianggap telah membatalkan permohonan  \npencabutan penetapan dan/atau status terdaftar.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Dalam hal dokumen permohonan pencabutan penetapan \nsebagaimana dimaksud dalam Pasal 53 dan/atau status \nterdaftar sebagaimana dimaksud dalam Pasal 54 dan \nPasal 55 telah dinyatakan lengkap dan benar secara \nadministratif, Bank Indonesia melakukan penelitian \nkebenaran substantif."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nmelakukan \npenelitian \nkebenaran \nsubstantif \nsebagaimana dimaksud pada ayat (1), Bank Indonesia \ndapat meminta klarifikasi dan/atau dokumen tambahan \nkepada DPB."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Dalam hal berdasarkan penelitian kebenaran substantif \nsebagaimana dimaksud pada ayat (1) terdapat dokumen \npermohonan pencabutan penetapan dan/atau status \nterdaftar yang belum benar secara substansi, Bank \nIndonesia \nmenyampaikan \npemberitahuan \nuntuk \nmelengkapi dan/atau memperbaiki dokumen permohonan \npencabutan penetapan dan/atau status terdaftar kepada \nDPB."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "DPB harus melengkapi dan/atau memperbaiki dokumen \npermohonan pencabutan penetapan dan/atau status \nterdaftar yang belum benar secara substansi sebagaimana \ndimaksud pada ayat (3) paling lambat 10 (sepuluh) Hari \nKerja sejak tanggal pemberitahuan dari Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal sampai dengan batas waktu sebagaimana \ndimaksud pada ayat (4): \na. \nperbaikan \ndokumen \npermohonan \npencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \ntidak \ndisampaikan; atau \nb. \nperbaikan \ndokumen \npermohonan \npencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \ntelah \ndisampaikan, namun masih belum lengkap dan/atau \nbelum sesuai, \npemohon dianggap telah membatalkan permohonan  \npencabutan penetapan dan/atau status terdaftar."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nBank \nIndonesia \nmenyampaikan \nkeputusan \natas \npermohonan pencabutan penetapan dan/atau status \nterdaftar sebagaimana dimaksud dalam Pasal 52 ayat (2) \ndengan mempertimbangkan paling sedikit: \na. \nhasil penelitian kebenaran substantif; dan/atau \nb. \npertimbangan lain yang ditetapkan Bank Indonesia. \n\n\n \n \n \n \n(2) \nKeputusan Bank Indonesia atas permohonan  pencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \nsebagaimana \ndimaksud pada ayat (1) disampaikan paling lambat 10 \n(sepuluh) Hari Kerja setelah dokumen pencabutan \npenetapan dan/atau status terdaftar yang disampaikan \ntelah sesuai secara substansi. \n \nBagian Ketiga \nTindak Lanjut Exit Policy",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Bank \nIndonesia \nmenyampaikan \nkeputusan \natas \npermohonan pencabutan penetapan dan/atau status \nterdaftar sebagaimana dimaksud dalam Pasal 52 ayat (2) \ndengan mempertimbangkan paling sedikit: \na. \nhasil penelitian kebenaran substantif; dan/atau \nb. \npertimbangan lain yang ditetapkan Bank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Keputusan Bank Indonesia atas permohonan  pencabutan \npenetapan \ndan/atau \nstatus \nterdaftar \nsebagaimana \ndimaksud pada ayat (1) disampaikan paling lambat 10 \n(sepuluh) Hari Kerja setelah dokumen pencabutan \npenetapan dan/atau status terdaftar yang disampaikan \ntelah sesuai secara substansi. \n \nBagian Ketiga \nTindak Lanjut Exit Policy"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "(1) \nPihak berupa: \na. \nDPB yang penetapannya telah dicabut; dan \nb. \nOPB dan RGI yang status terdaftarnya telah dicabut, \nharus menyampaikan informasi pencabutan penetapan \natau status terdaftar kepada pihak yang memiliki \nkemitraan Transaksi Pasar Valuta Asing melalui Bank \nMitra.  \n(2) \nTransaksi Pasar Valuta Asing melalui Bank Mitra yang \ntelah dilakukan sebelum pencabutan penetapan DPB atau \npencabutan status terdaftar OPB dan/atau RGI tetap \nberjalan sampai dengan waktu tanggal penyelesaian \ntransaksi.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pihak berupa: \na. \nDPB yang penetapannya telah dicabut; dan \nb. \nOPB dan RGI yang status terdaftarnya telah dicabut, \nharus menyampaikan informasi pencabutan penetapan \natau status terdaftar kepada pihak yang memiliki \nkemitraan Transaksi Pasar Valuta Asing melalui Bank \nMitra."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Transaksi Pasar Valuta Asing melalui Bank Mitra yang \ntelah dilakukan sebelum pencabutan penetapan DPB atau \npencabutan status terdaftar OPB dan/atau RGI tetap \nberjalan sampai dengan waktu tanggal penyelesaian \ntransaksi."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "61",
+      "bab_nomor": "BAB XI",
+      "bab_judul": "EXIT POLICY",
+      "teks_lengkap": "Dalam hal terdapat pencabutan penetapan DPB dan/atau \nstatus terdaftar OPB, Bank Indonesia melakukan penginian \natas publikasi daftar DPB dan OPB pada laman Bank Indonesia \ndan/atau media lain yang ditetapkan Bank Indonesia. \n \nBAB XII \nKORESPONDENSI",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Dalam hal terdapat pencabutan penetapan DPB dan/atau \nstatus terdaftar OPB, Bank Indonesia melakukan penginian \natas publikasi daftar DPB dan OPB pada laman Bank Indonesia \ndan/atau media lain yang ditetapkan Bank Indonesia. \n \nBAB XII \nKORESPONDENSI"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "62",
+      "bab_nomor": "BAB XII",
+      "bab_judul": "KORESPONDENSI",
+      "teks_lengkap": "(1) \nKorespondensi terkait pengaturan dan pengembangan \nTransaksi Pasar Valuta Asing melalui Bank Mitra, \nditujukan kepada: \nContact Center Bank Indonesia Bicara \nJalan M.H. Thamrin Nomor 2  \nJakarta Pusat – 10350 \nsurat elektronik: bicara@bi.go.id. \n(2) \nKorespondensi terkait perizinan ditujukan kepada: \nDepartemen Jasa Perbankan, Perizinan dan Operasional \nTresuri \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat – 10350 \nsurat elektronik: cs_perizinan@bi.go.id. \n(3) \nKorespondensi terkait penyampaian laporan secara luring \nditujukan kepada: \nDepartemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat – 10350 \nsurat elektronik: monitorvastra@bi.go.id. \n\n\n \n \n \n \n(4) \nKorespondensi terkait penyampaian laporan secara daring \nmengikuti ketentuan Bank Indonesia mengenai laporan \nbank umum terintegrasi. \n(5) \nDalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1) sampai dengan ayat \n(4), Bank Indonesia menginformasikan perubahan alamat \ntersebut melalui surat dan/atau media lain yang \nditetapkan Bank Indonesia. \n \nBAB XIII  \nKETENTUAN LAIN-LAIN",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Korespondensi terkait pengaturan dan pengembangan \nTransaksi Pasar Valuta Asing melalui Bank Mitra, \nditujukan kepada: \nContact Center Bank Indonesia Bicara \nJalan M.H. Thamrin Nomor 2  \nJakarta Pusat – 10350 \nsurat elektronik: bicara@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Korespondensi terkait perizinan ditujukan kepada: \nDepartemen Jasa Perbankan, Perizinan dan Operasional \nTresuri \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat – 10350 \nsurat elektronik: cs_perizinan@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(3)",
+          "teks": "Korespondensi terkait penyampaian laporan secara luring \nditujukan kepada: \nDepartemen Pengembangan Pasar Keuangan \nBank Indonesia \nJalan M. H. Thamrin Nomor 2 \nJakarta Pusat – 10350 \nsurat elektronik: monitorvastra@bi.go.id."
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": "Korespondensi terkait penyampaian laporan secara daring \nmengikuti ketentuan Bank Indonesia mengenai laporan \nbank umum terintegrasi."
+        },
+        {
+          "ayat_nomor": "(5)",
+          "teks": "Dalam hal terdapat perubahan alamat korespondensi \nsebagaimana dimaksud pada ayat (1) sampai dengan ayat"
+        },
+        {
+          "ayat_nomor": "(4)",
+          "teks": ", Bank Indonesia menginformasikan perubahan alamat \ntersebut melalui surat dan/atau media lain yang \nditetapkan Bank Indonesia. \n \nBAB XIII  \nKETENTUAN LAIN-LAIN"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nTransaksi DPB dengan OPB yang tidak memenuhi \nketentuan: \na. \ncakupan transaksi valuta asing terhadap rupiah \nsebagaimana dimaksud dalam Pasal 11; \nb. \ncakupan mata uang sebagaimana dimaksud dalam \nPasal 12; \nc. \nmekanisme transaksi sebagaimana dimaksud dalam \nPasal 15; dan \nd. \nperizinan sebagaimana dimaksud dalam Pasal 18, \ndikategorikan sebagai transaksi Pasar Valuta Asing \nsebagaimana diatur dalam Peraturan Anggota Dewan \nGubernur mengenai transaksi pasar valuta asing. \n(2) \nDalam \nhal \nditemukan \npelanggaran \natas \ntransaksi \nsebagaimana dimaksud pada ayat (1), pengenaan sanksi \nadministratif dilaksanakan sesuai dengan ketentuan Bank \nIndonesia mengenai transaksi pasar valuta asing.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Transaksi DPB dengan OPB yang tidak memenuhi \nketentuan: \na. \ncakupan transaksi valuta asing terhadap rupiah \nsebagaimana dimaksud dalam Pasal 11; \nb. \ncakupan mata uang sebagaimana dimaksud dalam \nPasal 12; \nc. \nmekanisme transaksi sebagaimana dimaksud dalam \nPasal 15; dan \nd. \nperizinan sebagaimana dimaksud dalam Pasal 18, \ndikategorikan sebagai transaksi Pasar Valuta Asing \nsebagaimana diatur dalam Peraturan Anggota Dewan \nGubernur mengenai transaksi pasar valuta asing."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Dalam \nhal \nditemukan \npelanggaran \natas \ntransaksi \nsebagaimana dimaksud pada ayat (1), pengenaan sanksi \nadministratif dilaksanakan sesuai dengan ketentuan Bank \nIndonesia mengenai transaksi pasar valuta asing."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "64",
+      "bab_nomor": "BAB XIII",
+      "bab_judul": "KETENTUAN LAIN-LAIN",
+      "teks_lengkap": "(1) \nPelaksanaan lebih lanjut mengenai: \na. \nproses perizinan; \nb. \npenyampaian laporan;  \nc. \npenyampaian surat pernyataan komitmen; \nd. \nexit policy; dan/atau \ne. \naspek lain terkait Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, \ndilakukan sesuai petunjuk teknis mengenai Transaksi \nPasar Valuta Asing melalui Bank Mitra yang ditetapkan \nBank Indonesia. \n(2) \nPetunjuk teknis mengenai Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud pada ayat (1) \ndipublikasikan Bank Indonesia melalui surat, laman Bank \nIndonesia, dan/atau media lain yang ditetapkan Bank \nIndonesia. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB XIV \nKETENTUAN PENUTUP",
+      "ayat_list": [
+        {
+          "ayat_nomor": "(1)",
+          "teks": "Pelaksanaan lebih lanjut mengenai: \na. \nproses perizinan; \nb. \npenyampaian laporan;  \nc. \npenyampaian surat pernyataan komitmen; \nd. \nexit policy; dan/atau \ne. \naspek lain terkait Transaksi Pasar Valuta Asing \nmelalui Bank Mitra, \ndilakukan sesuai petunjuk teknis mengenai Transaksi \nPasar Valuta Asing melalui Bank Mitra yang ditetapkan \nBank Indonesia."
+        },
+        {
+          "ayat_nomor": "(2)",
+          "teks": "Petunjuk teknis mengenai Transaksi Pasar Valuta Asing \nmelalui Bank Mitra sebagaimana dimaksud pada ayat (1) \ndipublikasikan Bank Indonesia melalui surat, laman Bank \nIndonesia, dan/atau media lain yang ditetapkan Bank \nIndonesia. \n \n \n \n \n \n \n \n \n \n\n\n \n \n \n \nBAB XIV \nKETENTUAN PENUTUP"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "65",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 23 Juli 2026 \n \nANGGOTA DEWAN GUBERNUR, \n \n \nTtd. \n \nTHOMAS A.M. DJIWANDONO \n \n\n\nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 20 TAHUN 2026 \nTENTANG \nTRANSAKSI PASAR VALUTA ASING UNTUK LINDUNG NILAI  \nMELALUI BANK MITRA \n \nI. \nUMUM \nDalam mewujudkan tujuan untuk mencapai stabilitas nilai rupiah, \nBank Indonesia menetapkan dan melaksanakan kebijakan moneter secara \nberkelanjutan, konsisten, dan transparan, yang salah satunya dilakukan \nmelalui pengaturan, pengembangan, dan pengawasan terhadap Pasar \nValuta Asing. Untuk dapat melakukan pengaturan, pengembangan, dan \npengawasan pasar uang dan Pasar Valuta Asing secara menyeluruh (end-\nto-end) mencakup produk, harga acuan (pricing), pelaku, dan infrastruktur, \nBank Indonesia telah menerbitkan Peraturan Bank Indonesia Nomor 6 \nTahun 2024 tentang Pasar Uang dan Pasar Valuta Asing. \nDalam \nperkembangannya, \npasar \nkeuangan \ndunia \nsenantiasa \nmengalami \nperubahan \nyang \nberlangsung \ndengan \nbegitu \ncepat. \nPerkembangan pasar keuangan ini memberi dampak signifikan terhadap \nnilai tukar rupiah dan tingkat transaksi pelaku transaksi di luar negeri \npada instrumen Pasar Valuta Asing domestik. Sebagai respons atas dampak \ntersebut, Bank Indonesia melakukan perluasan dan inovasi layanan \ntransaksi pasar valuta asing terhadap rupiah untuk lindung nilai kepada \npelaku transaksi di luar negeri melalui bank mitra melalui implementasi \nskema Transaksi Pasar Valuta Asing melalui Bank Mitra. \nTransaksi Pasar Valuta Asing melalui Bank Mitra memungkinkan \npelaku transaksi di luar negeri melakukan transaksi Pasar Valuta Asing \ndalam rangka lindung nilai dengan pelaku transaksi dalam negeri melalui \nOPB untuk kemudian diteruskan secara back-to-back kepada DPB yang \nmerupakan pelaku transaksi di dalam negeri. Untuk mendukung skema ini, \ndiperlukan kerangka hukum yang mampu memberikan kepastian hukum \nkepada seluruh pelaku Transaksi Pasar Valuta Asing melalui Bank Mitra. \nSehubungan dengan hal tersebut di atas, perlu ditetapkan Peraturan \nAnggota Dewan Gubernur tentang Transaksi Pasar Valuta Asing untuk \nLindung Nilai melalui Bank Mitra. \n \nII. \nPASAL DEMI PASAL",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Peraturan Anggota Dewan Gubernur ini mulai berlaku pada \ntanggal ditetapkan. \n \nAgar setiap orang mengetahuinya, memerintahkan penempatan \nPeraturan \nAnggota \nDewan \nGubernur \nini \ndengan \npenempatannya dalam Berita Negara Republik Indonesia. \n \n \nDitetapkan di Jakarta  \npada tanggal 23 Juli 2026 \n \nANGGOTA DEWAN GUBERNUR, \n \n \nTtd. \n \nTHOMAS A.M. DJIWANDONO \n \n\n\nPENJELASAN \nATAS \nPERATURAN ANGGOTA DEWAN GUBERNUR \nNOMOR 20 TAHUN 2026 \nTENTANG \nTRANSAKSI PASAR VALUTA ASING UNTUK LINDUNG NILAI  \nMELALUI BANK MITRA \n \nI. \nUMUM \nDalam mewujudkan tujuan untuk mencapai stabilitas nilai rupiah, \nBank Indonesia menetapkan dan melaksanakan kebijakan moneter secara \nberkelanjutan, konsisten, dan transparan, yang salah satunya dilakukan \nmelalui pengaturan, pengembangan, dan pengawasan terhadap Pasar \nValuta Asing. Untuk dapat melakukan pengaturan, pengembangan, dan \npengawasan pasar uang dan Pasar Valuta Asing secara menyeluruh (end-\nto-end) mencakup produk, harga acuan (pricing), pelaku, dan infrastruktur, \nBank Indonesia telah menerbitkan Peraturan Bank Indonesia Nomor 6 \nTahun 2024 tentang Pasar Uang dan Pasar Valuta Asing. \nDalam \nperkembangannya, \npasar \nkeuangan \ndunia \nsenantiasa \nmengalami \nperubahan \nyang \nberlangsung \ndengan \nbegitu \ncepat. \nPerkembangan pasar keuangan ini memberi dampak signifikan terhadap \nnilai tukar rupiah dan tingkat transaksi pelaku transaksi di luar negeri \npada instrumen Pasar Valuta Asing domestik. Sebagai respons atas dampak \ntersebut, Bank Indonesia melakukan perluasan dan inovasi layanan \ntransaksi pasar valuta asing terhadap rupiah untuk lindung nilai kepada \npelaku transaksi di luar negeri melalui bank mitra melalui implementasi \nskema Transaksi Pasar Valuta Asing melalui Bank Mitra. \nTransaksi Pasar Valuta Asing melalui Bank Mitra memungkinkan \npelaku transaksi di luar negeri melakukan transaksi Pasar Valuta Asing \ndalam rangka lindung nilai dengan pelaku transaksi dalam negeri melalui \nOPB untuk kemudian diteruskan secara back-to-back kepada DPB yang \nmerupakan pelaku transaksi di dalam negeri. Untuk mendukung skema ini, \ndiperlukan kerangka hukum yang mampu memberikan kepastian hukum \nkepada seluruh pelaku Transaksi Pasar Valuta Asing melalui Bank Mitra. \nSehubungan dengan hal tersebut di atas, perlu ditetapkan Peraturan \nAnggota Dewan Gubernur tentang Transaksi Pasar Valuta Asing untuk \nLindung Nilai melalui Bank Mitra. \n \nII. \nPASAL DEMI PASAL"
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "1",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "2",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "3",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "4",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "5",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "6",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "7",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "8",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “kemitraan” adalah hubungan transaksi \nantara DPB, OPB, dan RGI dalam 1 (satu) jalur pelaksanaan \nTransaksi Pasar Valuta Asing melalui Bank Mitra. \nAyat (2) \nContoh kemitraan yang dilakukan dengan lebih dari 1 (satu) \npelaku (many-to-many relationship): \na. \nbank A yang merupakan DPB bermitra dengan bank X,  \nbank Y, dan bank Z yang ketiganya merupakan OPB; \nb. \nbank X yang merupakan OPB bermitra dengan bank A,  \nbank B, dan bank C yang ketiganya merupakan DPB; \nc. \nbank X yang merupakan OPB bermitra dengan investor XX \ndan investor YY yang keduanya merupakan RGI; dan \nd. \ninvestor XX yang merupakan RGI bermitra dengan bank X, \nbank Y, dan bank Z yang ketiganya merupakan OPB. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “kemitraan” adalah hubungan transaksi \nantara DPB, OPB, dan RGI dalam 1 (satu) jalur pelaksanaan \nTransaksi Pasar Valuta Asing melalui Bank Mitra. \nAyat (2) \nContoh kemitraan yang dilakukan dengan lebih dari 1 (satu) \npelaku (many-to-many relationship): \na. \nbank A yang merupakan DPB bermitra dengan bank X,  \nbank Y, dan bank Z yang ketiganya merupakan OPB; \nb. \nbank X yang merupakan OPB bermitra dengan bank A,  \nbank B, dan bank C yang ketiganya merupakan DPB; \nc. \nbank X yang merupakan OPB bermitra dengan investor XX \ndan investor YY yang keduanya merupakan RGI; dan \nd. \ninvestor XX yang merupakan RGI bermitra dengan bank X, \nbank Y, dan bank Z yang ketiganya merupakan OPB. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "9",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Penerapan prinsip kehati-hatian dan manajemen risiko yang efektif \nantara lain dengan penerapan prinsip mengenali nasabah (know your \ncustomer) atau uji tuntas nasabah (customer due diligence).",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Penerapan prinsip kehati-hatian dan manajemen risiko yang efektif \nantara lain dengan penerapan prinsip mengenali nasabah (know your \ncustomer) atau uji tuntas nasabah (customer due diligence)."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "10",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “tercatat atas nama RGI” adalah aset \ninvestasi portofolio yang tercatat atas nama RGI berdasarkan \nsingle investor identification.  \nAyat (2) \nHuruf a \nYang dimaksud dengan “surat berharga negara” adalah surat \nutang \nnegara \nsebagaimana \ndimaksud \ndalam  \nUndang-Undang mengenai surat utang negara dan surat \nberharga syariah negara sebagaimana dimaksud dalam \nUndang-Undang mengenai surat berharga syariah negara. \nHuruf b \nYang dimaksud dengan “sekuritas rupiah Bank Indonesia” \nadalah sekuritas rupiah Bank Indonesia sebagaimana \ndimaksud dalam ketentuan Bank Indonesia mengenai \noperasi moneter rupiah. \n\n\n \n \n \n \nHuruf c \nYang dimaksud dengan “sukuk Bank Indonesia” adalah \nsukuk Bank Indonesia sebagaimana dimaksud dalam \nketentuan Bank Indonesia mengenai operasi moneter rupiah. \nHuruf d \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “tercatat atas nama RGI” adalah aset \ninvestasi portofolio yang tercatat atas nama RGI berdasarkan \nsingle investor identification.  \nAyat (2) \nHuruf a \nYang dimaksud dengan “surat berharga negara” adalah surat \nutang \nnegara \nsebagaimana \ndimaksud \ndalam  \nUndang-Undang mengenai surat utang negara dan surat \nberharga syariah negara sebagaimana dimaksud dalam \nUndang-Undang mengenai surat berharga syariah negara. \nHuruf b \nYang dimaksud dengan “sekuritas rupiah Bank Indonesia” \nadalah sekuritas rupiah Bank Indonesia sebagaimana \ndimaksud dalam ketentuan Bank Indonesia mengenai \noperasi moneter rupiah. \n\n\n \n \n \n \nHuruf c \nYang dimaksud dengan “sukuk Bank Indonesia” adalah \nsukuk Bank Indonesia sebagaimana dimaksud dalam \nketentuan Bank Indonesia mengenai operasi moneter rupiah. \nHuruf d \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "11",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "12",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "13",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nKesepakatan kedua belah pihak secara tertulis tercantum antara \nlain dalam perjanjian dan surat elektronik. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nKesepakatan kedua belah pihak secara tertulis tercantum antara \nlain dalam perjanjian dan surat elektronik. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "14",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nContoh: \nRGI XX memiliki nilai nominal investasi surat berharga negara \ndan \nsekuritas \nrupiah \nBank \nIndonesia \nsenilai \nekuivalen \nUSD5,000,000.00 (lima juta dolar Amerika Serikat). Berdasarkan \nkepemilikan surat berharga negara dan sekuritas rupiah Bank \nIndonesia tersebut, RGI XX dapat melakukan transaksi beli valuta \nasing terhadap rupiah untuk Transaksi Pasar Valuta Asing \nmelalui Bank Mitra paling banyak sebesar USD5,000,000.00 (lima \njuta dolar Amerika Serikat). \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nRGI XX memiliki nilai nominal investasi surat berharga negara \ndan \nsekuritas \nrupiah \nBank \nIndonesia \nsenilai \nekuivalen \nUSD5,000,000.00 (lima juta dolar Amerika Serikat). Berdasarkan \nkepemilikan surat berharga negara dan sekuritas rupiah Bank \nIndonesia \ntersebut, \nRGI \nXX \ndapat \nmelakukan \ntransaksi \njual valuta asing terhadap rupiah untuk Transaksi Pasar Valuta \nAsing \nmelalui \nBank \nMitra \npaling \nbanyak \nsebesar \nUSD1,250,000.00 (satu juta dua ratus lima puluh ribu dolar \nAmerika Serikat). \nAyat (4) \nCukup jelas. \nAyat (5) \nHuruf a \nYang dimaksud dengan “nilai nominal” adalah nominal yang \ntercantum dalam surat berharga. \nHuruf b \nCukup jelas. \nAyat (6) \nCukup jelas. \n\n\n \n \n \n \nAyat (7) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nContoh: \nRGI XX memiliki nilai nominal investasi surat berharga negara \ndan \nsekuritas \nrupiah \nBank \nIndonesia \nsenilai \nekuivalen \nUSD5,000,000.00 (lima juta dolar Amerika Serikat). Berdasarkan \nkepemilikan surat berharga negara dan sekuritas rupiah Bank \nIndonesia tersebut, RGI XX dapat melakukan transaksi beli valuta \nasing terhadap rupiah untuk Transaksi Pasar Valuta Asing \nmelalui Bank Mitra paling banyak sebesar USD5,000,000.00 (lima \njuta dolar Amerika Serikat). \nAyat (2) \nCukup jelas. \nAyat (3) \nContoh: \nRGI XX memiliki nilai nominal investasi surat berharga negara \ndan \nsekuritas \nrupiah \nBank \nIndonesia \nsenilai \nekuivalen \nUSD5,000,000.00 (lima juta dolar Amerika Serikat). Berdasarkan \nkepemilikan surat berharga negara dan sekuritas rupiah Bank \nIndonesia \ntersebut, \nRGI \nXX \ndapat \nmelakukan \ntransaksi \njual valuta asing terhadap rupiah untuk Transaksi Pasar Valuta \nAsing \nmelalui \nBank \nMitra \npaling \nbanyak \nsebesar \nUSD1,250,000.00 (satu juta dua ratus lima puluh ribu dolar \nAmerika Serikat). \nAyat (4) \nCukup jelas. \nAyat (5) \nHuruf a \nYang dimaksud dengan “nilai nominal” adalah nominal yang \ntercantum dalam surat berharga. \nHuruf b \nCukup jelas. \nAyat (6) \nCukup jelas. \n\n\n \n \n \n \nAyat (7) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "15",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nMekanisme transaksi valuta asing terhadap rupiah oleh OPB \nkepada DPB berdasarkan transaksi valuta asing terhadap rupiah \nantara OPB dengan RGI dilakukan secara back-to-back. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nAngka 1 \nCukup jelas. \nAngka 2 \nCukup jelas. \nAngka 3 \nCukup jelas. \nAngka 4 \nCukup jelas. \nAngka 5 \nYang dimaksud dengan “tanggal transaksi” adalah \ntanggal transaksi yang dilaksanakan berdasarkan \nwaktu Indonesia bagian barat. \nAyat (2) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nMekanisme transaksi valuta asing terhadap rupiah oleh OPB \nkepada DPB berdasarkan transaksi valuta asing terhadap rupiah \nantara OPB dengan RGI dilakukan secara back-to-back. \nHuruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nAngka 1 \nCukup jelas. \nAngka 2 \nCukup jelas. \nAngka 3 \nCukup jelas. \nAngka 4 \nCukup jelas. \nAngka 5 \nYang dimaksud dengan “tanggal transaksi” adalah \ntanggal transaksi yang dilaksanakan berdasarkan \nwaktu Indonesia bagian barat. \nAyat (2) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "16",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "17",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nAngka 1 \nContoh: \nPada bulan Januari, DPB A mendapat penetapan sebagai \nDPB dari Bank Indonesia. DPB A kemudian bermaksud \nuntuk membentuk kemitraan dengan bank X yang belum \nterdaftar sebagai OPB dan investor XX yang belum terdaftar \nsebagai RGI.  \nSelanjutnya, \nDPB \nA \nmenyampaikan \npermohonan \npendaftaran OPB dan RGI disertai dengan permohonan \npersetujuan pembentukan kemitraan dengan bank X dan \ninvestor XX kepada Bank Indonesia.  \nAtas \npermohonan \nDPB \nA \ntersebut, \nBank \nIndonesia \nmemberikan persetujuan pendaftaran OPB X dan RGI XX \ndan persetujuan atas pembentukan kemitraan DPB A,  \nOPB X, dan RGI XX. \nPada Bulan Mei, DPB A bermaksud untuk membentuk \nkemitraan baru dengan OPB Y dan RGI ZZ, dimana keduanya \nmerupakan OPB dan RGI yang sebelumnya telah terdaftar di \nBank \nIndonesia. \nDPB \nA \nmengajukan \npermohonan \n\n\n \n \n \n \npersetujuan pembentukan kemitraan dengan OPB Y dan RGI \nZZ kepada Bank Indonesia. Atas permohonan DPB A \ntersebut, Bank Indonesia memberikan persetujuan atas \npembentukan kemitraan DPB A, OPB Y, dan RGI ZZ. \nAngka 2 \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nCukup jelas. \nHuruf b \nCukup jelas. \nHuruf c \nAngka 1 \nContoh: \nPada bulan Januari, DPB A mendapat penetapan sebagai \nDPB dari Bank Indonesia. DPB A kemudian bermaksud \nuntuk membentuk kemitraan dengan bank X yang belum \nterdaftar sebagai OPB dan investor XX yang belum terdaftar \nsebagai RGI.  \nSelanjutnya, \nDPB \nA \nmenyampaikan \npermohonan \npendaftaran OPB dan RGI disertai dengan permohonan \npersetujuan pembentukan kemitraan dengan bank X dan \ninvestor XX kepada Bank Indonesia.  \nAtas \npermohonan \nDPB \nA \ntersebut, \nBank \nIndonesia \nmemberikan persetujuan pendaftaran OPB X dan RGI XX \ndan persetujuan atas pembentukan kemitraan DPB A,  \nOPB X, dan RGI XX. \nPada Bulan Mei, DPB A bermaksud untuk membentuk \nkemitraan baru dengan OPB Y dan RGI ZZ, dimana keduanya \nmerupakan OPB dan RGI yang sebelumnya telah terdaftar di \nBank \nIndonesia. \nDPB \nA \nmengajukan \npermohonan \n\n\n \n \n \n \npersetujuan pembentukan kemitraan dengan OPB Y dan RGI \nZZ kepada Bank Indonesia. Atas permohonan DPB A \ntersebut, Bank Indonesia memberikan persetujuan atas \npembentukan kemitraan DPB A, OPB Y, dan RGI ZZ. \nAngka 2 \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "18",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nLihat penjelasan Pasal 17 huruf c angka 1.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nLihat penjelasan Pasal 17 huruf c angka 1."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "19",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "20",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Huruf a \nYang dimaksud dengan “dealer utama pasar uang dan Pasar \nValuta Asing” adalah dealer utama sebagaimana diatur dalam \nPeraturan Anggota Dewan Gubernur mengenai dealer utama \npasar uang dan pasar valuta asing. \nHuruf b \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Huruf a \nYang dimaksud dengan “dealer utama pasar uang dan Pasar \nValuta Asing” adalah dealer utama sebagaimana diatur dalam \nPeraturan Anggota Dewan Gubernur mengenai dealer utama \npasar uang dan pasar valuta asing. \nHuruf b \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "21",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "22",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a  \nCukup jelas. \nHuruf b \nInstitutional investor antara lain bank dan trustee. \nHuruf c  \nCukup jelas. \nHuruf d  \nAngka 1 \nCukup jelas. \nAngka 2 \nData RGI terkait aktivitas Transaksi Pasar Valuta Asing \nmelalui Bank Mitra yang ada di pihak ketiga antara lain:  \na) \ndata nilai transaksi; dan  \nb) \ndata kepemilikan aset investasi portofolio di \nIndonesia yang tercatat atas nama RGI. \nAngka 3 \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nHuruf a  \nCukup jelas. \nHuruf b \nInstitutional investor antara lain bank dan trustee. \nHuruf c  \nCukup jelas. \nHuruf d  \nAngka 1 \nCukup jelas. \nAngka 2 \nData RGI terkait aktivitas Transaksi Pasar Valuta Asing \nmelalui Bank Mitra yang ada di pihak ketiga antara lain:  \na) \ndata nilai transaksi; dan  \nb) \ndata kepemilikan aset investasi portofolio di \nIndonesia yang tercatat atas nama RGI. \nAngka 3 \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "23",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "24",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "25",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "26",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "27",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "28",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "29",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "30",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “meminta klarifikasi dan/atau dokumen \ntambahan” adalah permintaan klarifikasi dan/atau dokumen \ntambahan yang ditujukan kepada DPB atau pihak yang akan \nditetapkan sebagai DPB, termasuk yang ditujukan kepada calon \nOPB, OPB, calon RGI, dan/atau RGI. \nAyat (3) \nYang dimaksud dengan “pemberitahuan untuk melengkapi \ndan/atau \nmemperbaiki \ndokumen \nperizinan” \nadalah \npemberitahuan \nuntuk \nmelengkapi \ndan/atau \nmemperbaiki \ndokumen perizinan yang ditujukan kepada DPB atau pihak yang \nakan ditetapkan sebagai DPB, termasuk yang ditujukan kepada \ncalon OPB, OPB, calon RGI, dan/atau RGI. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “meminta klarifikasi dan/atau dokumen \ntambahan” adalah permintaan klarifikasi dan/atau dokumen \ntambahan yang ditujukan kepada DPB atau pihak yang akan \nditetapkan sebagai DPB, termasuk yang ditujukan kepada calon \nOPB, OPB, calon RGI, dan/atau RGI. \nAyat (3) \nYang dimaksud dengan “pemberitahuan untuk melengkapi \ndan/atau \nmemperbaiki \ndokumen \nperizinan” \nadalah \npemberitahuan \nuntuk \nmelengkapi \ndan/atau \nmemperbaiki \ndokumen perizinan yang ditujukan kepada DPB atau pihak yang \nakan ditetapkan sebagai DPB, termasuk yang ditujukan kepada \ncalon OPB, OPB, calon RGI, dan/atau RGI. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "31",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "32",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "33",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "34",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "35",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "36",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "37",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \n \nContoh data profil DPB, OPB, dan RGI antara lain: \na. \nsingle investor identification; \nb. \nlegal entity identifier; dan/atau \nc. \ndata profil lain. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \n \nContoh data profil DPB, OPB, dan RGI antara lain: \na. \nsingle investor identification; \nb. \nlegal entity identifier; dan/atau \nc. \ndata profil lain. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas. \nAyat (4) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "38",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "39",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "40",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nYang dimaksud dengan “gangguan teknis” adalah gangguan yang \ndialami oleh DPB antara lain gangguan teknis pada infrastruktur \nteknologi, perangkat keras, perangkat lunak, jaringan komunikasi \ndata, dan kelistrikan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nYang dimaksud dengan “gangguan teknis” adalah gangguan yang \ndialami oleh DPB antara lain gangguan teknis pada infrastruktur \nteknologi, perangkat keras, perangkat lunak, jaringan komunikasi \ndata, dan kelistrikan. \nAyat (2) \nCukup jelas. \nAyat (3) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "41",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "42",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "43",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "44",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "45",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "46",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "47",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "48",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "49",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "50",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "51",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "52",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "53",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "54",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "55",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "56",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "57",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "58",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “meminta klarifikasi dan/atau dokumen \ntambahan” adalah permintaan klarifikasi dan/atau dokumen \ntambahan yang ditujukan kepada DPB, termasuk yang ditujukan \nkepada OPB dan/atau RGI. \nAyat (3) \nYang dimaksud dengan “pemberitahuan untuk melengkapi \ndan/atau memperbaiki dokumen permohonan pencabutan \npenetapan dan/atau status terdaftar” adalah pemberitahuan \nuntuk melengkapi dan/atau memperbaiki dokumen permohonan \npencabutan penetapan dan/atau status terdaftar yang ditujukan \nkepada DPB, termasuk yang ditujukan kepada OPB dan/atau \nRGI. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Ayat (1) \nCukup jelas. \nAyat (2) \nYang dimaksud dengan “meminta klarifikasi dan/atau dokumen \ntambahan” adalah permintaan klarifikasi dan/atau dokumen \ntambahan yang ditujukan kepada DPB, termasuk yang ditujukan \nkepada OPB dan/atau RGI. \nAyat (3) \nYang dimaksud dengan “pemberitahuan untuk melengkapi \ndan/atau memperbaiki dokumen permohonan pencabutan \npenetapan dan/atau status terdaftar” adalah pemberitahuan \nuntuk melengkapi dan/atau memperbaiki dokumen permohonan \npencabutan penetapan dan/atau status terdaftar yang ditujukan \nkepada DPB, termasuk yang ditujukan kepada OPB dan/atau \nRGI. \nAyat (4) \nCukup jelas. \nAyat (5) \nCukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "59",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "60",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "61",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "62",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "63",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "64",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    },
+    {
+      "pasal_nomor": "65",
+      "bab_nomor": "BAB XIV",
+      "bab_judul": "KETENTUAN PENUTUP",
+      "teks_lengkap": "Cukup jelas.",
+      "ayat_list": [
+        {
+          "ayat_nomor": "pokok",
+          "teks": "Cukup jelas."
+        }
+      ]
+    }
+  ],
+  "total_pasal": 130,
+  "total_ayat": 221,
+  "total_karakter": 59332,
+  "parsed_successfully": true,
+  "parse_notes": ""
+}

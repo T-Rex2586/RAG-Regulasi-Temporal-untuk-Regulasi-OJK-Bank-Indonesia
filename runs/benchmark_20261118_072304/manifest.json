@@ -1,0 +1,113 @@
+{
+  "run_id": "benchmark_20261118_072304",
+  "timestamp_utc": "2026-11-18T07:23:04.605481+00:00",
+  "phase": 4,
+  "config": {
+    "version": "v1",
+    "seed": 42,
+    "parsed_dir": "data/parsed",
+    "output_dir": "benchmark",
+    "splits_dir": "benchmark/splits",
+    "slices": [
+      "easy",
+      "multi_hop",
+      "konflik_versi",
+      "temporal_point_in_time",
+      "unanswerable"
+    ],
+    "target_per_slice": 25,
+    "total_target": 125,
+    "splits": {
+      "train_ratio": 0.6,
+      "dev_ratio": 0.2,
+      "test_ratio": 0.2
+    },
+    "dedup": {
+      "near_dup_threshold": 0.85,
+      "ngram_size": 3
+    }
+  },
+  "acceptance": {
+    "total_queries_ge_100": true,
+    "slices_balanced": true,
+    "dedup_passed": true,
+    "test_split_locked_sha256": "3898015c21241292352a8a02b42aa22ab134bf2ffef65e067eb7972c8698c19b"
+  },
+  "audit": {
+    "total_queries": 125,
+    "slice_distribution": {
+      "easy": 25,
+      "multi_hop": 25,
+      "konflik_versi": 25,
+      "temporal_point_in_time": 25,
+      "unanswerable": 25
+    },
+    "regulator_distribution": {
+      "OJK": 48,
+      "BI": 50,
+      "BOTH": 2,
+      "NONE": 25
+    },
+    "schema_errors": [],
+    "exact_duplicates": [],
+    "near_duplicates": [],
+    "passed": true
+  },
+  "splits_manifest": {
+    "seed": 42,
+    "counts": {
+      "total": 125,
+      "train": 75,
+      "dev": 25,
+      "test": 25
+    },
+    "slices": {
+      "train": {
+        "multi_hop": 15,
+        "easy": 15,
+        "unanswerable": 15,
+        "konflik_versi": 15,
+        "temporal_point_in_time": 15
+      },
+      "dev": {
+        "multi_hop": 5,
+        "easy": 5,
+        "unanswerable": 5,
+        "konflik_versi": 5,
+        "temporal_point_in_time": 5
+      },
+      "test": {
+        "multi_hop": 5,
+        "easy": 5,
+        "unanswerable": 5,
+        "konflik_versi": 5,
+        "temporal_point_in_time": 5
+      }
+    },
+    "regulators": {
+      "train": {
+        "OJK": 31,
+        "BOTH": 1,
+        "BI": 28,
+        "NONE": 15
+      },
+      "dev": {
+        "OJK": 8,
+        "BI": 12,
+        "NONE": 5
+      },
+      "test": {
+        "OJK": 9,
+        "BOTH": 1,
+        "BI": 10,
+        "NONE": 5
+      }
+    },
+    "hashes": {
+      "train_sha256": "b1cd6ddba7bac81a880bb27bb21b647d3a182f79edd843f0fb08e0581c82c46a",
+      "dev_sha256": "95262c63e82cf0f0177664d609b84da445dde009be9f7fce79a324c45825e3f0",
+      "test_sha256": "3898015c21241292352a8a02b42aa22ab134bf2ffef65e067eb7972c8698c19b"
+    }
+  },
+  "master_sha256": "ef3763fc9222d1a66eb4d94d129365932fd95b8fdb683e81e8c02cc7d7ea0549"
+}

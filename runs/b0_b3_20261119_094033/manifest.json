@@ -1,0 +1,79 @@
+{
+  "run_id": "b0_b3_20261119_094033",
+  "timestamp_utc": "2026-11-19T09:42:00.841853+00:00",
+  "phase": 6,
+  "config": {
+    "version": "v1",
+    "seed": 42,
+    "dev_file": "benchmark/splits/dev.jsonl",
+    "train_file": "benchmark/splits/train.jsonl",
+    "runs_dir": "runs",
+    "model": {
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "path": "models/Qwen2.5-1.5B-Instruct",
+      "device": "cpu",
+      "max_new_tokens": 256,
+      "temperature": 0.0,
+      "top_p": 1.0
+    },
+    "b0": {
+      "id": "B0",
+      "name": "Direct LLM Baseline",
+      "prompt_file": "prompts/b0_direct_v1.txt"
+    },
+    "b1": {
+      "id": "B1",
+      "name": "Structured Prompted LLM",
+      "prompt_file": "prompts/b1_prompted_v1.json",
+      "few_shot_count": 2
+    },
+    "b2": {
+      "id": "B2",
+      "name": "Naive RAG",
+      "prompt_file": "prompts/b2_naive_rag_v1.json",
+      "collection": "reg_fixed_v1",
+      "top_k": 5
+    },
+    "b3": {
+      "id": "B3",
+      "name": "Hybrid RAG (BM25 + Dense + RRF)",
+      "prompt_file": "prompts/b3_hybrid_rag_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5
+    },
+    "b4": {
+      "id": "B4",
+      "name": "Self-Corrective RAG",
+      "prompt_file": "prompts/b4_generator_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5,
+      "max_retries": 2,
+      "sufficiency_threshold": 0.38,
+      "claim_support_threshold": 0.35
+    }
+  },
+  "test_lock_verified": true,
+  "baselines_evaluated": [
+    "B4"
+  ],
+  "summary": {
+    "B4": {
+      "baseline_id": "B4",
+      "queries_evaluated": 1,
+      "avg_latency_sec": 57.87,
+      "total_latency_sec": 57.87,
+      "avg_tokens_generated": 195.0,
+      "json_parse_rate_pct": 100.0,
+      "abstain_count": 1,
+      "output_file": "runs/b0_b3_20261119_094033/dev_b4.jsonl"
+    }
+  }
+}
