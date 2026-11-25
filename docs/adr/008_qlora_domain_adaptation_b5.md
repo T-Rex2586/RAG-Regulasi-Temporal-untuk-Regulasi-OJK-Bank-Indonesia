@@ -48,3 +48,19 @@ Per the PRD and course syllabus, we must perform Parameter-Efficient Fine-Tuning
 - Elevates JSON formatting compliance and domain citation precision on Indonesian banking regulations.
 - Enables reproducible cloud training via the standalone turnkey notebook [`notebooks/Fase9_QLoRA_Training_Colab.ipynb`](../../notebooks/Fase9_QLoRA_Training_Colab.ipynb).
 - Satisfies the course syllabus requirement for open-weight model parameter adaptation, providing the benchmark foundation for Ablation A4 (with vs without LoRA on B4).
+
+## 5. Empirical Validation Results (Dev Set Evaluation)
+
+Evaluated under `runs/b5_20261125_124414/` across 25 Dev queries (5 slices):
+
+| Metric | B4 (Prompted Self-Corrective) | B5 (QLoRA Adapted Self-Corrective) | Impact of Domain Adaptation |
+|---|:---:|:---:|:---|
+| **JSON Parse Rate** | 60.0% | **92.0%** | **+32.0%** (drastic format robustness) |
+| **Mean Latency** | 108.36s | **60.20s** | **-44.4%** faster inference on CPU |
+| **p95 Latency** | 266.54s | **84.55s** | **3.15x** tail latency reduction |
+| **Avg Tokens Generated** | 191.8 | **138.2** | More concise, structured generation |
+| **False Refusal Rate** | 35.0% | **15.0%** | **-20.0%** (restored answer willingness) |
+| **False Confident Rate** | 20.0% | **20.0%** | Maintained high safety on unanswerable |
+| **Unanswerable Accuracy** | 80.0% | **80.0%** | Consistent out-of-domain abstention |
+| **Doc Recall@5** | 57.5% | 57.5% | Identical parent retrieval stack |
+| **Doc MRR@10** | 0.454 | 0.454 | Identical parent retrieval stack |
