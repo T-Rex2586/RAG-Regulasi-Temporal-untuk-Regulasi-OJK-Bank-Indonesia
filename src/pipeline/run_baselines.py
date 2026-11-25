@@ -14,6 +14,7 @@ from src.pipeline.b1_prompted import B1PromptedBaseline
 from src.pipeline.b2_naive_rag import B2NaiveRAGBaseline
 from src.pipeline.b3_hybrid_rag import B3HybridRAGBaseline
 from src.pipeline.b4_self_corrective import B4SelfCorrectiveBaseline
+from src.pipeline.b5_qlora import B5QLoRABaseline, QwenQLoRAGenerator
 
 
 def load_config(path: str = "configs/baselines.yaml") -> dict:
@@ -36,7 +37,7 @@ def verify_test_lock(splits_manifest_path: str = "benchmark/splits/manifest.json
 def main():
     parser = argparse.ArgumentParser(description="Run Baseline Pipelines B0-B3 on Dev Set")
     parser.add_argument("--config", default="configs/baselines.yaml", help="Path to baselines config")
-    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4"], help="Baselines to run")
+    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4", "B5"], help="Baselines to run")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of queries (for testing)")
     args = parser.parse_args()
 
@@ -68,17 +69,19 @@ def main():
     run_dir.mkdir(parents=True, exist_ok=True)
 
     # 4. Initialize Generator (singleton)
-    generator = QwenGenerator.get_instance(
-        model_path=cfg["model"]["path"],
-        device=cfg["model"]["device"],
-    )
+    generator = None
+    if any(b in ("B0", "B1", "B2", "B3", "B4") for b in args.baselines):
+        generator = QwenGenerator.get_instance(
+            model_path=cfg["model"]["path"],
+            device=cfg["model"]["device"],
+        )
 
     # 5. Initialize Retrieval components if B2 or B3 requested
     dense_indexer = None
     bm25_index = None
 
-    needs_dense = any(b in ("B2", "B3", "B4") for b in args.baselines)
-    needs_bm25 = any(b in ("B3", "B4") for b in args.baselines)
+    needs_dense = any(b in ("B2", "B3", "B4", "B5") for b in args.baselines)
+    needs_bm25 = any(b in ("B3", "B4", "B5") for b in args.baselines)
 
     if needs_dense:
         print("Connecting to Qdrant Docker (port 6334) for Dense retrieval...")
@@ -137,6 +140,30 @@ def main():
             claim_support_threshold=cfg["b4"]["claim_support_threshold"],
             prompt_file=cfg["b4"]["prompt_file"],
         )
+    if "B5" in args.baselines:
+        adapter_path = cfg["b5"].get("adapter_path", "models/qlora_adapter_b5")
+        if not Path(adapter_path).exists():
+            print(f"WARNING: Adapter path '{adapter_path}' does not exist yet. B5 cannot be instantiated until trained on Colab.")
+        else:
+            qlora_gen = QwenQLoRAGenerator.get_instance(
+                base_model_path=cfg["model"]["path"],
+                adapter_path=adapter_path,
+                device=cfg["model"]["device"],
+            )
+            pipelines["B5"] = B5QLoRABaseline(
+                generator=qlora_gen,
+                bm25_index=bm25_index,
+                dense_indexer=dense_indexer,
+                dense_collection=cfg["b5"]["dense_collection"],
+                top_k_bm25=cfg["b5"]["top_k_bm25"],
+                top_k_dense=cfg["b5"]["top_k_dense"],
+                rrf_k=cfg["b5"]["rrf_k"],
+                final_top_k=cfg["b5"]["final_top_k"],
+                max_retries=cfg["b5"]["max_retries"],
+                sufficiency_threshold=cfg["b5"]["sufficiency_threshold"],
+                claim_support_threshold=cfg["b5"]["claim_support_threshold"],
+                prompt_file=cfg["b5"]["prompt_file"],
+            )
 
     baseline_summaries = {}
 

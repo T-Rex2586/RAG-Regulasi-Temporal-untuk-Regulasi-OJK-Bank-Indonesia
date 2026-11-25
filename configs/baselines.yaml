@@ -49,3 +49,17 @@ baselines:
     max_retries: 2
     sufficiency_threshold: 0.38
     claim_support_threshold: 0.35
+  b5:
+    id: "B5"
+    name: "QLoRA Adapted Self-Corrective RAG"
+    prompt_file: "prompts/b4_generator_v1.json"
+    bm25_index_file: "index/bm25/heading_aware_v1.pkl"
+    dense_collection: "reg_heading_aware_v1"
+    adapter_path: "models/qlora_adapter_b5"
+    top_k_bm25: 10
+    top_k_dense: 10
+    rrf_k: 60
+    final_top_k: 5
+    max_retries: 2
+    sufficiency_threshold: 0.38
+    claim_support_threshold: 0.35

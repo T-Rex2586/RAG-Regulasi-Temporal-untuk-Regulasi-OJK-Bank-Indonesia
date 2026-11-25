@@ -134,7 +134,7 @@ def create_evaluation_pdf(
     story = []
 
     # Title & Subtitle
-    story.append(Paragraph("Laporan Evaluasi Riset Baseline B0–B4", title_style))
+    story.append(Paragraph("Laporan Evaluasi Riset Baseline Komparatif (B0–B5)", title_style))
     story.append(
         Paragraph(
             "Temporal Regulatory Question Answering System (Regulasi OJK & Bank Indonesia)",

@@ -1,0 +1,12 @@
+{
+  "dataset_name": "qlora_instruction_dataset_v1",
+  "created_at_utc": "2026-11-25T11:37:05.545539+00:00",
+  "seed": 42,
+  "source_split": "benchmark/splits/train.jsonl",
+  "total_source_queries": 75,
+  "train_samples_count": 65,
+  "val_samples_count": 10,
+  "train_sha256": "860dae169ba3eceea2ee63208ad899a06cf368af8d4c5f211c670432fc0fb42a",
+  "val_sha256": "13ae763a155192e2eb05341d48e6dd0063152888d0483b5538992ded7ab7c762",
+  "test_lock_verified": true
+}

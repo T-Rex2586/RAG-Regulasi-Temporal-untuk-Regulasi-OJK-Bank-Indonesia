@@ -1,0 +1,48 @@
+qlora:
+  version: "v1"
+  seed: 42
+  base_model:
+    name: "Qwen/Qwen2.5-1.5B-Instruct"
+    path: "models/Qwen2.5-1.5B-Instruct"
+  dataset:
+    train_file: "data/train/qlora_train.jsonl"
+    val_file: "data/train/qlora_val.jsonl"
+    max_seq_length: 1024
+  quantization:
+    load_in_4bit: true
+    bnb_4bit_quant_type: "nf4"
+    bnb_4bit_use_double_quant: true
+    bnb_4bit_compute_dtype: "bfloat16"
+  lora:
+    r: 16
+    lora_alpha: 32
+    lora_dropout: 0.05
+    bias: "none"
+    task_type: "CAUSAL_LM"
+    target_modules:
+      - "q_proj"
+      - "k_proj"
+      - "v_proj"
+      - "o_proj"
+      - "gate_proj"
+      - "up_proj"
+      - "down_proj"
+  training:
+    output_dir: "models/qlora_adapter_b5"
+    num_train_epochs: 3
+    per_device_train_batch_size: 2
+    per_device_eval_batch_size: 2
+    gradient_accumulation_steps: 4
+    learning_rate: 0.0002
+    weight_decay: 0.01
+    warmup_ratio: 0.1
+    lr_scheduler_type: "cosine"
+    logging_steps: 5
+    eval_strategy: "steps"
+    eval_steps: 10
+    save_strategy: "steps"
+    save_steps: 20
+    save_total_limit: 2
+    fp16: false
+    bf16: true
+    gradient_checkpointing: true

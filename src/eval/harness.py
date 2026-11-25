@@ -259,7 +259,7 @@ def main():
     parser.add_argument("--run_id", default=None, help="Run ID in runs/ (defaults to latest b0_b3 run)")
     parser.add_argument("--split", default="dev", choices=["dev", "test"], help="Dataset split to evaluate")
     parser.add_argument("--config", default="configs/eval.yaml", help="Path to eval config")
-    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4"], help="Baselines to evaluate")
+    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4", "B5"], help="Baselines to evaluate")
     args = parser.parse_args()
 
     # 1. Anti-leakage verification
