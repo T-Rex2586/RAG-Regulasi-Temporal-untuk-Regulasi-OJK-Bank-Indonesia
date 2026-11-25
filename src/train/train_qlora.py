@@ -165,30 +165,54 @@ def main():
         print(">>> Dry run verified successfully.")
         return
 
-    # 5. Training Arguments
+    # 5. Training Arguments (robust across transformers versions)
+    import inspect
+
     num_epochs = args.epochs or cfg["training"]["num_train_epochs"]
-    training_args = TrainingArguments(
-        output_dir=str(output_dir),
-        num_train_epochs=num_epochs,
-        per_device_train_batch_size=cfg["training"]["per_device_train_batch_size"],
-        per_device_eval_batch_size=cfg["training"]["per_device_eval_batch_size"],
-        gradient_accumulation_steps=cfg["training"]["gradient_accumulation_steps"],
-        learning_rate=cfg["training"]["learning_rate"],
-        weight_decay=cfg["training"]["weight_decay"],
-        warmup_ratio=cfg["training"]["warmup_ratio"],
-        lr_scheduler_type=cfg["training"]["lr_scheduler_type"],
-        logging_steps=cfg["training"]["logging_steps"],
-        eval_strategy=cfg["training"]["eval_strategy"],
-        eval_steps=cfg["training"]["eval_steps"],
-        save_strategy=cfg["training"]["save_strategy"],
-        save_steps=cfg["training"]["save_steps"],
-        save_total_limit=cfg["training"]["save_total_limit"],
-        fp16=is_cuda and not cfg["training"]["bf16"],
-        bf16=is_cuda and cfg["training"]["bf16"],
-        gradient_checkpointing=cfg["training"]["gradient_checkpointing"],
-        report_to="none",
-        seed=cfg["seed"],
-    )
+    batch_size = cfg["training"]["per_device_train_batch_size"]
+    grad_accum = cfg["training"]["gradient_accumulation_steps"]
+    total_steps = (len(train_dataset) // (batch_size * grad_accum) + 1) * num_epochs
+    warmup_steps = cfg["training"].get("warmup_steps", max(1, int(total_steps * cfg["training"].get("warmup_ratio", 0.1))))
+
+    valid_params = set(inspect.signature(TrainingArguments.__init__).parameters.keys())
+
+    t_args = {
+        "output_dir": str(output_dir),
+        "num_train_epochs": num_epochs,
+        "per_device_train_batch_size": batch_size,
+        "per_device_eval_batch_size": cfg["training"]["per_device_eval_batch_size"],
+        "gradient_accumulation_steps": grad_accum,
+        "learning_rate": cfg["training"]["learning_rate"],
+        "weight_decay": cfg["training"]["weight_decay"],
+        "lr_scheduler_type": cfg["training"]["lr_scheduler_type"],
+        "logging_steps": cfg["training"]["logging_steps"],
+        "save_steps": cfg["training"]["save_steps"],
+        "save_total_limit": cfg["training"]["save_total_limit"],
+        "fp16": is_cuda and not cfg["training"]["bf16"],
+        "bf16": is_cuda and cfg["training"]["bf16"],
+        "gradient_checkpointing": cfg["training"]["gradient_checkpointing"],
+        "report_to": "none",
+        "seed": cfg["seed"],
+    }
+
+    if "warmup_steps" in valid_params:
+        t_args["warmup_steps"] = warmup_steps
+    elif "warmup_ratio" in valid_params:
+        t_args["warmup_ratio"] = cfg["training"].get("warmup_ratio", 0.1)
+
+    if "eval_strategy" in valid_params:
+        t_args["eval_strategy"] = cfg["training"].get("eval_strategy", "steps")
+    elif "evaluation_strategy" in valid_params:
+        t_args["evaluation_strategy"] = cfg["training"].get("eval_strategy", "steps")
+
+    if "eval_steps" in valid_params:
+        t_args["eval_steps"] = cfg["training"]["eval_steps"]
+    if "save_strategy" in valid_params:
+        t_args["save_strategy"] = cfg["training"].get("save_strategy", "steps")
+
+    # Only pass parameters accepted by this transformers installation
+    final_kwargs = {k: v for k, v in t_args.items() if k in valid_params}
+    training_args = TrainingArguments(**final_kwargs)
 
     trainer = Trainer(
         model=model,
