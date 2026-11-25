@@ -134,7 +134,7 @@ def create_evaluation_pdf(
     story = []
 
     # Title & Subtitle
-    story.append(Paragraph("Laporan Evaluasi Riset Baseline Komparatif (B0–B5)", title_style))
+    story.append(Paragraph("Laporan Evaluasi Riset Baseline Komparatif (B0–B6)", title_style))
     story.append(
         Paragraph(
             "Temporal Regulatory Question Answering System (Regulasi OJK & Bank Indonesia)",
@@ -285,6 +285,8 @@ def create_evaluation_pdf(
         "B2": "Dense Vector (Qdrant)",
         "B3": "BM25 + Dense + RRF + Meta",
         "B4": "Self-Corrective RAG",
+        "B5": "QLoRA Domain Adapted",
+        "B6": "Agentic RAG + Tools",
     }
 
     for b_id, b_data in eval_data.items():
@@ -318,8 +320,43 @@ def create_evaluation_pdf(
     story.append(t3)
     story.append(Spacer(1, 10))
 
-    # 5. Case Study Comparison (Q006)
-    story.append(Paragraph("5. Studi Kasus Komparasi Kualitatif Jawaban (Query Q006)", h1_style))
+    # Section 5: Agentic Tools Execution Telemetry (if available)
+    has_tools = any("agentic_tools" in b_data for b_data in eval_data.values())
+    if has_tools:
+        story.append(Paragraph("5. Telemetri Eksekusi Tools & Security Guardrail (Baseline B6)", h1_style))
+        t_tool_headers = ["Baseline", "Total Tool Calls", "Rata-rata/Query", "Tool Correctness", "Unsafe Call Rate", "Budget Overrun"]
+        t_tool_data = [[Paragraph(h, table_header_style) for h in t_tool_headers]]
+        for b_id, b_data in eval_data.items():
+            t_data = b_data.get("agentic_tools")
+            if t_data:
+                row = [
+                    Paragraph(f"<b>{b_id}</b>", table_cell_bold),
+                    Paragraph(str(t_data["total_tool_calls"]), table_cell_style),
+                    Paragraph(str(t_data["avg_tool_calls_per_query"]), table_cell_style),
+                    Paragraph(f"{t_data['tool_correctness']*100:.1f}%", table_cell_style),
+                    Paragraph(f"{t_data['unsafe_call_rate']*100:.1f}%", table_cell_style),
+                    Paragraph(f"{t_data['budget_overrun_rate']*100:.1f}%", table_cell_style),
+                ]
+                t_tool_data.append(row)
+
+        col_widths_tool = [50, 95, 95, 95, 95, 95]
+        t_tool = Table(t_tool_data, colWidths=col_widths_tool)
+        t_tool.setStyle(
+            TableStyle([
+                ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#1E3A8A")),
+                ("ALIGN", (0, 0), (-1, -1), "CENTER"),
+                ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+                ("TOPPADDING", (0, 0), (-1, -1), 4),
+                ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#F8FAFC")]),
+                ("GRID", (0, 0), (-1, -1), 0.5, colors.HexColor("#CBD5E1")),
+            ])
+        )
+        story.append(t_tool)
+        story.append(Spacer(1, 10))
+
+    # 6. Case Study Comparison (Q006)
+    story.append(Paragraph("6. Studi Kasus Komparasi Kualitatif Jawaban (Query Q006)", h1_style))
     story.append(
         Paragraph(
             "<b>Pertanyaan:</b> <i>\"Pihak mana sajakah yang diwajibkan menerapkan Keuangan Berkelanjutan?\"</i> "
@@ -389,6 +426,28 @@ def create_evaluation_pdf(
                 case_study_body,
             ),
         ],
+        [
+            Paragraph("<b>B5</b>", table_cell_bold),
+            Paragraph(
+                "Menjawab 'Lembaga Jasa Keuangan, Emiten, dan Perusahaan Publik'. Format JSON 100% valid tanpa retry.",
+                case_study_body,
+            ),
+            Paragraph(
+                "<b>Efisien & Teradaptasi Domain</b>: Latensi turun drastis (60s vs 108s B4), kepatuhan format JSON 92-96%, false confident tetap rendah pada 20%.",
+                case_study_body,
+            ),
+        ],
+        [
+            Paragraph("<b>B6</b>", table_cell_bold),
+            Paragraph(
+                "Menjawab 'Lembaga Jasa Keuangan, Emiten, dan Perusahaan Publik' dengan bukti deterministik dari tool 'cari_pasal' dan 'bandingkan_versi'.",
+                case_study_body,
+            ),
+            Paragraph(
+                "<b>Agentic + Deterministic Grounding</b>: 2 panggilan tool valid, akurasi pemanggilan 100%, 0 unsafe call, dan 0 budget overrun.",
+                case_study_body,
+            ),
+        ],
     ]
 
     col_widths_cs = [46, 230, 256]
@@ -408,13 +467,15 @@ def create_evaluation_pdf(
     story.append(t_cs)
     story.append(Spacer(1, 10))
 
-    # 6. Conclusion & Roadmap
-    story.append(Paragraph("6. Kesimpulan & Roadmap Fase Berikutnya", h1_style))
+    # 7. Conclusion & Roadmap
+    story.append(Paragraph("7. Kesimpulan & Roadmap Fase Berikutnya", h1_style))
     conclusion_text = (
-        "<b>Kesimpulan:</b> Fase 6 dan Fase 7 telah menetapkan standar evaluasi dasar yang terukur secara ilmiah. "
-        "Baseline B3 menunjukkan kapabilitas retrieval multi-kanal yang unggul, namun tetap rentan mengalami kegagalan pada query multi-hop dan konflik versi.<br/>"
-        "<b>Rekomendasi Fase 8:</b> Membangun arsitektur <b>B4 (Self-Corrective RAG)</b> dengan modul <i>Query Planner</i> untuk dekomposisi pasal bertingkat, "
-        "<i>Evidence Sufficiency Scorer</i> untuk memvalidasi kelengkapan pasal sebelum generasi, <i>Bounded Retry</i> (maksimal 2x), dan <i>Independent Claim Verifier</i>."
+        "<b>Kesimpulan:</b> Evaluasi empiris B0–B6 membuktikan evolusi kapabilitas RAG regulasi temporal: "
+        "B0–B2 rentan halusinasi; B3 memperkenalkan hybrid multi-kanal (Doc R@5 57.5%); B4 menerapkan verifikasi mandiri (False Refusal 35%, False Confident 20%); "
+        "B5 mengadaptasi representasi domain QLoRA (JSON parse 92-96%, latensi turun 44%); dan B6 mengintegrasikan tools deterministik "
+        "(cek masa berlaku, cari pasal, bandingkan versi) dengan kepatuhan budget 100% dan keamanan 0% unsafe calls.<br/>"
+        "<b>Rekomendasi Fase 11:</b> Menjalankan <b>Ablation Studies (A1–A7)</b> untuk mengisolasi kontribusi individual tiap komponen "
+        "(BM25-only, Dense-only, No-RRF, No-Tools, Fixed-window chunking, Unadapted base model, Verifier ablation)."
     )
     story.append(Paragraph(conclusion_text, body_style))
 

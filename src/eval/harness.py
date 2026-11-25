@@ -122,6 +122,10 @@ class EvaluationHarness:
                 "latency_sec": lat,
                 "tokens_generated": tok,
                 "json_parsed": r.get("json_parsed", True),
+                "tool_calls_count": r.get("tool_calls_count", 0),
+                "tool_correctness": r.get("tool_correctness", 1.0),
+                "unsafe_call_rate": r.get("unsafe_call_rate", 0.0),
+                "budget_overrun": r.get("budget_overrun", False),
                 **ret_metrics,
                 **gen_metrics,
             }
@@ -180,6 +184,17 @@ class EvaluationHarness:
             "slices": {},
         }
 
+        # Agentic Tool metrics (PRD Fase 10: B6 telemetry)
+        tool_calls = [x.get("tool_calls_count", 0) for x in per_query_results]
+        if any(tc > 0 for tc in tool_calls):
+            agg["agentic_tools"] = {
+                "total_tool_calls": int(sum(tool_calls)),
+                "avg_tool_calls_per_query": round(float(np.mean(tool_calls)), 2),
+                "tool_correctness": round(float(np.mean([x.get("tool_correctness", 1.0) for x in per_query_results])), 4),
+                "unsafe_call_rate": round(float(np.mean([x.get("unsafe_call_rate", 0.0) for x in per_query_results])), 4),
+                "budget_overrun_rate": round(float(sum(1 for x in per_query_results if x.get("budget_overrun", False)) / len(per_query_results)), 4),
+            }
+
         for s_name, s_items in slice_records.items():
             if not s_items:
                 continue
@@ -201,7 +216,7 @@ class EvaluationHarness:
 def format_markdown_table(eval_results: Dict[str, Any]) -> str:
     """Formats comparison report table in GitHub-Flavored Markdown."""
     lines = []
-    lines.append("# Benchmark Evaluation Report: Baselines B0–B3\n")
+    lines.append("# Benchmark Evaluation Report: Baselines B0–B6\n")
     lines.append(f"**Generated**: {datetime.now(timezone.utc).isoformat()}  ")
     lines.append(f"**Split**: Dev Set (25 queries) | **Test Lock**: Verified\n")
 
@@ -251,6 +266,20 @@ def format_markdown_table(eval_results: Dict[str, Any]) -> str:
             f"| **{b_id}** | {lat['mean_sec']}s | {lat['p50_sec']}s | {lat['p95_sec']}s | {s['avg_tokens']} | {s['json_success_rate']*100:.1f}% |"
         )
 
+    # Section 4: Agentic Tools Telemetry (if available)
+    has_tools = any("agentic_tools" in data["summary"] for data in eval_results.values())
+    if has_tools:
+        lines.append("\n## 4. Agentic Tool Execution & Security Metrics (B6)\n")
+        lines.append("| Baseline | Total Tool Calls | Avg Calls/Query | Tool Correctness | Unsafe Call Rate | Budget Overrun Rate |")
+        lines.append("|---|:---:|:---:|:---:|:---:|:---:|")
+        for b_id, data in eval_results.items():
+            t_data = data["summary"].get("agentic_tools")
+            if t_data:
+                lines.append(
+                    f"| **{b_id}** | {t_data['total_tool_calls']} | {t_data['avg_tool_calls_per_query']} | "
+                    f"{t_data['tool_correctness']*100:.1f}% | {t_data['unsafe_call_rate']*100:.1f}% | {t_data['budget_overrun_rate']*100:.1f}% |"
+                )
+
     return "\n".join(lines)
 
 
@@ -259,7 +288,7 @@ def main():
     parser.add_argument("--run_id", default=None, help="Run ID in runs/ (defaults to latest b0_b3 run)")
     parser.add_argument("--split", default="dev", choices=["dev", "test"], help="Dataset split to evaluate")
     parser.add_argument("--config", default="configs/eval.yaml", help="Path to eval config")
-    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4", "B5"], help="Baselines to evaluate")
+    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4", "B5", "B6"], help="Baselines to evaluate")
     args = parser.parse_args()
 
     # 1. Anti-leakage verification

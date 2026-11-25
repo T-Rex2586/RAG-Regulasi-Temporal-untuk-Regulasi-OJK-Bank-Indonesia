@@ -15,6 +15,7 @@ from src.pipeline.b2_naive_rag import B2NaiveRAGBaseline
 from src.pipeline.b3_hybrid_rag import B3HybridRAGBaseline
 from src.pipeline.b4_self_corrective import B4SelfCorrectiveBaseline
 from src.pipeline.b5_qlora import B5QLoRABaseline, QwenQLoRAGenerator
+from src.pipeline.b6_agentic import B6AgenticBaseline
 
 
 def load_config(path: str = "configs/baselines.yaml") -> dict:
@@ -37,7 +38,7 @@ def verify_test_lock(splits_manifest_path: str = "benchmark/splits/manifest.json
 def main():
     parser = argparse.ArgumentParser(description="Run Baseline Pipelines B0-B3 on Dev Set")
     parser.add_argument("--config", default="configs/baselines.yaml", help="Path to baselines config")
-    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4", "B5"], help="Baselines to run")
+    parser.add_argument("--baselines", nargs="+", default=["B0", "B1", "B2", "B3", "B4", "B5", "B6"], help="Baselines to run")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of queries (for testing)")
     args = parser.parse_args()
 
@@ -80,8 +81,8 @@ def main():
     dense_indexer = None
     bm25_index = None
 
-    needs_dense = any(b in ("B2", "B3", "B4", "B5") for b in args.baselines)
-    needs_bm25 = any(b in ("B3", "B4", "B5") for b in args.baselines)
+    needs_dense = any(b in ("B2", "B3", "B4", "B5", "B6") for b in args.baselines)
+    needs_bm25 = any(b in ("B3", "B4", "B5", "B6") for b in args.baselines)
 
     if needs_dense:
         print("Connecting to Qdrant Docker (port 6334) for Dense retrieval...")
@@ -164,6 +165,33 @@ def main():
                 claim_support_threshold=cfg["b5"]["claim_support_threshold"],
                 prompt_file=cfg["b5"]["prompt_file"],
             )
+    if "B6" in args.baselines:
+        adapter_path = cfg["b6"].get("adapter_path", "models/qlora_adapter_b5")
+        if not Path(adapter_path).exists():
+            print(f"WARNING: Adapter path '{adapter_path}' does not exist yet. B6 requires trained adapter.")
+        else:
+            qlora_gen = QwenQLoRAGenerator.get_instance(
+                base_model_path=cfg["model"]["path"],
+                adapter_path=adapter_path,
+                device=cfg["model"]["device"],
+            )
+            pipelines["B6"] = B6AgenticBaseline(
+                generator=qlora_gen,
+                bm25_index=bm25_index,
+                dense_indexer=dense_indexer,
+                dense_collection=cfg["b6"]["dense_collection"],
+                top_k_bm25=cfg["b6"]["top_k_bm25"],
+                top_k_dense=cfg["b6"]["top_k_dense"],
+                rrf_k=cfg["b6"]["rrf_k"],
+                final_top_k=cfg["b6"]["final_top_k"],
+                max_retries=cfg["b6"]["max_retries"],
+                sufficiency_threshold=cfg["b6"]["sufficiency_threshold"],
+                claim_support_threshold=cfg["b6"]["claim_support_threshold"],
+                prompt_file=cfg["b6"]["prompt_file"],
+                max_tool_calls=cfg["b6"].get("max_tool_calls", 3),
+                parsed_dir=cfg["b6"].get("parsed_dir", "data/parsed"),
+                source_register_file=cfg["b6"].get("source_register_file", "data/source_register.csv"),
+            )
 
     baseline_summaries = {}
 
@@ -185,6 +213,7 @@ def main():
                 res = pipe.run(q)
                 results.append(res)
                 f_out.write(json.dumps(res, ensure_ascii=False) + "\n")
+                f_out.flush()
 
                 total_lat += res["latency_sec"]
                 total_tok += res["tokens_generated"]

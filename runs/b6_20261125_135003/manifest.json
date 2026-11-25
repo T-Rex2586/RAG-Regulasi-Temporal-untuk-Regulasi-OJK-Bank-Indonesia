@@ -1,0 +1,643 @@
+{
+  "run_id": "b6_20261125_135003",
+  "timestamp_utc": "2026-11-25T14:18:42.479457+00:00",
+  "phase": 6,
+  "config": {
+    "version": "v1",
+    "seed": 42,
+    "dev_file": "benchmark/splits/dev.jsonl",
+    "train_file": "benchmark/splits/train.jsonl",
+    "runs_dir": "runs",
+    "model": {
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "path": "models/Qwen2.5-1.5B-Instruct",
+      "device": "cpu",
+      "max_new_tokens": 256,
+      "temperature": 0.0,
+      "top_p": 1.0
+    },
+    "b0": {
+      "id": "B0",
+      "name": "Direct LLM Baseline",
+      "prompt_file": "prompts/b0_direct_v1.txt"
+    },
+    "b1": {
+      "id": "B1",
+      "name": "Structured Prompted LLM",
+      "prompt_file": "prompts/b1_prompted_v1.json",
+      "few_shot_count": 2
+    },
+    "b2": {
+      "id": "B2",
+      "name": "Naive RAG",
+      "prompt_file": "prompts/b2_naive_rag_v1.json",
+      "collection": "reg_fixed_v1",
+      "top_k": 5
+    },
+    "b3": {
+      "id": "B3",
+      "name": "Hybrid RAG (BM25 + Dense + RRF)",
+      "prompt_file": "prompts/b3_hybrid_rag_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5
+    },
+    "b4": {
+      "id": "B4",
+      "name": "Self-Corrective RAG",
+      "prompt_file": "prompts/b4_generator_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5,
+      "max_retries": 2,
+      "sufficiency_threshold": 0.38,
+      "claim_support_threshold": 0.35
+    },
+    "b5": {
+      "id": "B5",
+      "name": "QLoRA Adapted Self-Corrective RAG",
+      "prompt_file": "prompts/b4_generator_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "adapter_path": "models/qlora_adapter_b5",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5,
+      "max_retries": 2,
+      "sufficiency_threshold": 0.38,
+      "claim_support_threshold": 0.35
+    },
+    "b6": {
+      "id": "B6",
+      "name": "Agentic RAG with Structured Tools & Budget Controls",
+      "prompt_file": "prompts/b4_generator_v1.json",
+      "bm25_index_file": "index/bm25/heading_aware_v1.pkl",
+      "dense_collection": "reg_heading_aware_v1",
+      "adapter_path": "models/qlora_adapter_b5",
+      "top_k_bm25": 10,
+      "top_k_dense": 10,
+      "rrf_k": 60,
+      "final_top_k": 5,
+      "max_retries": 2,
+      "sufficiency_threshold": 0.38,
+      "claim_support_threshold": 0.35,
+      "max_tool_calls": 3,
+      "parsed_dir": "data/parsed",
+      "source_register_file": "data/source_register.csv"
+    }
+  },
+  "test_lock_verified": true,
+  "baselines_evaluated": [
+    "B6"
+  ],
+  "summary": {
+    "B6": {
+      "baseline_id": "B6",
+      "queries_evaluated": 25,
+      "avg_latency_sec": 68.39,
+      "total_latency_sec": 1709.87,
+      "avg_tokens_generated": 137.3,
+      "json_parse_rate_pct": 96.0,
+      "abstain_count": 3,
+      "output_file": "runs/b6_20261125_135003/dev_b6.jsonl"
+    }
+  },
+  "evaluation": {
+    "eval_timestamp_utc": "2026-11-25T14:20:36.041871+00:00",
+    "split_evaluated": "dev",
+    "metrics_summary": {
+      "B0": {
+        "baseline_id": "B0",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 48.9,
+          "p50_sec": 58.8,
+          "p95_sec": 69.26
+        },
+        "avg_tokens": 206.8,
+        "json_success_rate": 1.0,
+        "retrieval": {
+          "doc_recall@5": 0.0,
+          "doc_recall@10": 0.0,
+          "doc_mrr@10": 0.0,
+          "doc_ndcg@10": 0.0,
+          "passage_recall@5": 0.0,
+          "passage_recall@10": 0.0,
+          "passage_mrr@10": 0.0,
+          "passage_ndcg@10": 0.0
+        },
+        "generation": {
+          "correctness": 0.0685,
+          "evidence_recall": 0.0,
+          "citation_precision": 0.2,
+          "unsupported_claim_rate": 1.0,
+          "temporal_accuracy": 0.0,
+          "false_refusal_rate": 0.0,
+          "false_confident_rate": 1.0
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.0849,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 43.06
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.0931,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 56.09
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.0582,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 59.95
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.1065,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 35.94
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.0,
+            "citation_precision": 1.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": null,
+            "mean_latency_sec": 49.45
+          }
+        }
+      },
+      "B1": {
+        "baseline_id": "B1",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 76.97,
+          "p50_sec": 66.94,
+          "p95_sec": 151.45
+        },
+        "avg_tokens": 214.0,
+        "json_success_rate": 0.64,
+        "retrieval": {
+          "doc_recall@5": 0.0,
+          "doc_recall@10": 0.0,
+          "doc_mrr@10": 0.0,
+          "doc_ndcg@10": 0.0,
+          "passage_recall@5": 0.0,
+          "passage_recall@10": 0.0,
+          "passage_mrr@10": 0.0,
+          "passage_ndcg@10": 0.0
+        },
+        "generation": {
+          "correctness": 0.1383,
+          "evidence_recall": 0.12,
+          "citation_precision": 0.28,
+          "unsupported_claim_rate": 0.8,
+          "temporal_accuracy": 0.2,
+          "false_refusal_rate": 0.2,
+          "false_confident_rate": 1.0
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.1342,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 88.21
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.1947,
+            "citation_precision": 0.2,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 93.17
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.1827,
+            "citation_precision": 0.2,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 112.32
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.1796,
+            "citation_precision": 0.2,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 45.18
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.0,
+            "citation_precision": 0.8,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": null,
+            "mean_latency_sec": 45.98
+          }
+        }
+      },
+      "B2": {
+        "baseline_id": "B2",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 57.7,
+          "p50_sec": 55.45,
+          "p95_sec": 84.69
+        },
+        "avg_tokens": 188.4,
+        "json_success_rate": 0.92,
+        "retrieval": {
+          "doc_recall@5": 0.3,
+          "doc_recall@10": 0.3,
+          "doc_mrr@10": 0.2267,
+          "doc_ndcg@10": 0.2403,
+          "passage_recall@5": 0.0,
+          "passage_recall@10": 0.0,
+          "passage_mrr@10": 0.0,
+          "passage_ndcg@10": 0.0
+        },
+        "generation": {
+          "correctness": 0.1239,
+          "evidence_recall": 0.08,
+          "citation_precision": 0.16,
+          "unsupported_claim_rate": 0.76,
+          "temporal_accuracy": 0.0,
+          "false_refusal_rate": 0.65,
+          "false_confident_rate": 0.8
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.2476,
+            "citation_precision": 0.2,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": 0.8,
+            "mean_latency_sec": 58.33
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.0671,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.0,
+            "mean_latency_sec": 72.49
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.0327,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": 0.2,
+            "mean_latency_sec": 55.38
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.0719,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.4,
+            "doc_recall@5": 0.2,
+            "mean_latency_sec": 42.23
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.2,
+            "citation_precision": 0.6,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": null,
+            "mean_latency_sec": 60.05
+          }
+        }
+      },
+      "B3": {
+        "baseline_id": "B3",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 123.65,
+          "p50_sec": 102.12,
+          "p95_sec": 239.68
+        },
+        "avg_tokens": 290.9,
+        "json_success_rate": 0.48,
+        "retrieval": {
+          "doc_recall@5": 0.575,
+          "doc_recall@10": 0.575,
+          "doc_mrr@10": 0.4667,
+          "doc_ndcg@10": 0.4818,
+          "passage_recall@5": 0.0667,
+          "passage_recall@10": 0.0667,
+          "passage_mrr@10": 0.1,
+          "passage_ndcg@10": 0.0732
+        },
+        "generation": {
+          "correctness": 0.3758,
+          "evidence_recall": 0.5,
+          "citation_precision": 0.44,
+          "unsupported_claim_rate": 0.48,
+          "temporal_accuracy": 0.6,
+          "false_refusal_rate": 0.15,
+          "false_confident_rate": 0.6
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.4744,
+            "citation_precision": 0.6,
+            "unsupported_claim_rate": 0.4,
+            "doc_recall@5": 0.8,
+            "mean_latency_sec": 104.82
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.4048,
+            "citation_precision": 0.4,
+            "unsupported_claim_rate": 0.4,
+            "doc_recall@5": 0.6,
+            "mean_latency_sec": 140.93
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.2651,
+            "citation_precision": 0.2,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": 0.4,
+            "mean_latency_sec": 121.74
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.3345,
+            "citation_precision": 0.6,
+            "unsupported_claim_rate": 0.4,
+            "doc_recall@5": 0.5,
+            "mean_latency_sec": 144.44
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.4,
+            "citation_precision": 0.4,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": null,
+            "mean_latency_sec": 106.32
+          }
+        }
+      },
+      "B4": {
+        "baseline_id": "B4",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 108.36,
+          "p50_sec": 83.61,
+          "p95_sec": 266.54
+        },
+        "avg_tokens": 191.8,
+        "json_success_rate": 0.6,
+        "retrieval": {
+          "doc_recall@5": 0.575,
+          "doc_recall@10": 0.575,
+          "doc_mrr@10": 0.4542,
+          "doc_ndcg@10": 0.4718,
+          "passage_recall@5": 0.0667,
+          "passage_recall@10": 0.0667,
+          "passage_mrr@10": 0.1,
+          "passage_ndcg@10": 0.0732
+        },
+        "generation": {
+          "correctness": 0.3198,
+          "evidence_recall": 0.32,
+          "citation_precision": 0.36,
+          "unsupported_claim_rate": 0.4,
+          "temporal_accuracy": 0.4,
+          "false_refusal_rate": 0.35,
+          "false_confident_rate": 0.2
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.3737,
+            "citation_precision": 0.4,
+            "unsupported_claim_rate": 0.4,
+            "doc_recall@5": 0.8,
+            "mean_latency_sec": 127.05
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.0892,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": 0.6,
+            "mean_latency_sec": 220.38
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.0588,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": 0.4,
+            "mean_latency_sec": 82.08
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.2773,
+            "citation_precision": 0.4,
+            "unsupported_claim_rate": 0.0,
+            "doc_recall@5": 0.5,
+            "mean_latency_sec": 76.62
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.8,
+            "citation_precision": 1.0,
+            "unsupported_claim_rate": 0.2,
+            "doc_recall@5": null,
+            "mean_latency_sec": 35.64
+          }
+        }
+      },
+      "B5": {
+        "baseline_id": "B5",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 60.2,
+          "p50_sec": 66.59,
+          "p95_sec": 84.55
+        },
+        "avg_tokens": 138.2,
+        "json_success_rate": 0.92,
+        "retrieval": {
+          "doc_recall@5": 0.575,
+          "doc_recall@10": 0.575,
+          "doc_mrr@10": 0.4542,
+          "doc_ndcg@10": 0.4718,
+          "passage_recall@5": 0.0667,
+          "passage_recall@10": 0.0667,
+          "passage_mrr@10": 0.1,
+          "passage_ndcg@10": 0.0732
+        },
+        "generation": {
+          "correctness": 0.2468,
+          "evidence_recall": 0.16,
+          "citation_precision": 0.2,
+          "unsupported_claim_rate": 0.72,
+          "temporal_accuracy": 0.0,
+          "false_refusal_rate": 0.15,
+          "false_confident_rate": 0.2
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.1588,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.8,
+            "mean_latency_sec": 66.65
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.1111,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": 0.6,
+            "mean_latency_sec": 71.69
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.0805,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.4,
+            "mean_latency_sec": 63.02
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.0834,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": 0.5,
+            "mean_latency_sec": 73.05
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.8,
+            "citation_precision": 1.0,
+            "unsupported_claim_rate": 0.2,
+            "doc_recall@5": null,
+            "mean_latency_sec": 26.6
+          }
+        }
+      },
+      "B6": {
+        "baseline_id": "B6",
+        "total_queries": 25,
+        "answerable_queries": 20,
+        "unanswerable_queries": 5,
+        "latency": {
+          "mean_sec": 68.39,
+          "p50_sec": 62.3,
+          "p95_sec": 96.35
+        },
+        "avg_tokens": 137.3,
+        "json_success_rate": 0.96,
+        "retrieval": {
+          "doc_recall@5": 0.575,
+          "doc_recall@10": 0.575,
+          "doc_mrr@10": 0.4542,
+          "doc_ndcg@10": 0.4718,
+          "passage_recall@5": 0.0667,
+          "passage_recall@10": 0.0667,
+          "passage_mrr@10": 0.1,
+          "passage_ndcg@10": 0.0732
+        },
+        "generation": {
+          "correctness": 0.1755,
+          "evidence_recall": 0.08,
+          "citation_precision": 0.2,
+          "unsupported_claim_rate": 0.88,
+          "temporal_accuracy": 0.0,
+          "false_refusal_rate": 0.1,
+          "false_confident_rate": 0.6
+        },
+        "slices": {
+          "easy": {
+            "count": 5,
+            "correctness": 0.1439,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.8,
+            "mean_latency_sec": 64.92
+          },
+          "multi_hop": {
+            "count": 5,
+            "correctness": 0.136,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.6,
+            "mean_latency_sec": 53.75
+          },
+          "konflik_versi": {
+            "count": 5,
+            "correctness": 0.1168,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 1.0,
+            "doc_recall@5": 0.4,
+            "mean_latency_sec": 69.4
+          },
+          "temporal_point_in_time": {
+            "count": 5,
+            "correctness": 0.0807,
+            "citation_precision": 0.0,
+            "unsupported_claim_rate": 0.8,
+            "doc_recall@5": 0.5,
+            "mean_latency_sec": 80.71
+          },
+          "unanswerable": {
+            "count": 5,
+            "correctness": 0.4,
+            "citation_precision": 1.0,
+            "unsupported_claim_rate": 0.6,
+            "doc_recall@5": null,
+            "mean_latency_sec": 73.19
+          }
+        },
+        "agentic_tools": {
+          "total_tool_calls": 37,
+          "avg_tool_calls_per_query": 1.48,
+          "tool_correctness": 0.98,
+          "unsafe_call_rate": 0.0,
+          "budget_overrun_rate": 0.0
+        }
+      }
+    }
+  }
+}
